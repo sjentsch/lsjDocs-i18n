@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-02 15:24+0000\n"
+"PO-Revision-Date: 2022-03-02 15:35+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/lsjdocs/ch07/fr/>"
 "\n"
@@ -1061,7 +1061,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:74
 msgid "*X* ~ Binomial(θ, N)"
-msgstr ""
+msgstr "*X* ~ Binomial(θ, N)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:76
 msgid ""
