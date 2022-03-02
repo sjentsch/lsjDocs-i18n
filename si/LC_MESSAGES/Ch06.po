@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:20+0100\n"
+"POT-Creation-Date: 2022-02-18 14:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1141,11 +1141,12 @@ msgid "Rounding up"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
-msgid "``CEIL()``"
-msgstr "``CEIL()``"
+msgid "``CEILING()``"
+msgstr "``CEILING()``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
-msgid "``CEIL(1.32)``"
+#, fuzzy
+msgid "``CEILING(1.32)``"
 msgstr "``CEIL(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
@@ -1312,4 +1313,7 @@ msgid ""
 "``oo``. In this case in the ``Filter 1`` text box, next to the ``=`` "
 "sign, you would type the following:"
 msgstr ""
+
+#~ msgid "``CEIL()``"
+#~ msgstr "``CEIL()``"
 
