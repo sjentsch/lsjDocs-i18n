@@ -19,4 +19,4 @@ If you are willing to contribute to the project with translating it into your la
 
 Please also have a look at two other translation projects related to jamovi, the [translation of the jamovi user interface](https://hosted.weblate.org/engage/jamovi/) and the [translation of the jamovi documentation](https://hosted.weblate.org/engage/jamovidocs/).
 
-We are grateful to Weblate-team who host libre projects as ours free of charge.
+We are grateful to the [Weblate-team](https://weblate.org/) who host libre projects as ours free of charge.
