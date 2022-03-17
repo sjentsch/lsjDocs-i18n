@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-02 16:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-03-18 18:54+0000\n"
+"Last-Translator: Aldaly Shadow PLUS <aldalyjose5@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"lsjdocs/start/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: ../../index.rst:17
 msgid "Background"
@@ -30,15 +33,15 @@ msgstr ""
 
 #: ../../index.rst:48
 msgid "Statistical tools"
-msgstr ""
+msgstr "Ferramenta estatística"
 
 #: ../../index.rst:63
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "Finais, alternativas, perspectivas"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "Como um nome comum, não deve ser traduzido"
 
 #: ../../index.rst:7
 msgid ""
