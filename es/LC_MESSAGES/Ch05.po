@@ -6,31 +6,34 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-24 21:54+0000\n"
+"Last-Translator: FranRunGo <franrungo@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/lsjdocs/ch05/es/>"
+"\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
-msgstr ""
+msgstr "Dibujar gráficos"
 
 #: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
-msgstr ""
+msgstr "*Sobre todo mostrar los datos.*"
 
 #: ../../Ch05/Ch05_Graphics.rst:24
 msgid "Edward Tufte\\ [#]_"
-msgstr ""
+msgstr "Edward Tufte\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics.rst:23
 msgid ""
@@ -45,6 +48,17 @@ msgid ""
 " about analysing it. These points might seem pretty obvious but I cannot "
 "count the number of times I’ve seen people forget them."
 msgstr ""
+"La visualización de datos es una de las tareas más importantes a las que se "
+"enfrenta el analista de datos. Es importante por dos razones distintas pero "
+"estrechamente relacionadas. En primer lugar, está la cuestión de dibujar "
+"\"gráficos de presentación\", mostrar sus datos de una manera limpia y "
+"visualmente atractiva hace que sea más fácil para su lector entender lo que "
+"está tratando de decirle. Igualmente importante, tal vez incluso más "
+"importante, es el hecho de que dibujar gráficos te ayuda a comprender los "
+"datos. Con ese fin, es importante dibujar \"gráficos exploratorios\" que lo "
+"ayuden a conocer los datos a medida que los analiza. Estos puntos pueden "
+"parecer bastante obvios, pero no puedo contar la cantidad de veces que he "
+"visto a la gente olvidarlos."
 
 #: ../../Ch05/Ch05_Graphics.rst:34
 msgid ""
@@ -62,10 +76,24 @@ msgid ""
 " from the pump and ended the outbreak that had killed over 500 people. "
 "Such is the power of a good data visualisation."
 msgstr ""
+"Para dar una idea de la importancia de este capítulo, quiero comenzar con "
+"una ilustración clásica de cuán poderosa puede ser una buena gráfica. Con "
+"ese fin, : :numref:`fig-snowMap` muestra un nuevo dibujo de una de las "
+"visualizaciones de datos más famosas de todos los tiempos. Este es el mapa "
+"de muertes por cólera de John Snow de 1854. El mapa es elegante en su "
+"simplicidad. De fondo tenemos un callejero que ayuda a orientar al "
+"espectador. En la parte superior vemos una gran cantidad de pequeños puntos, "
+"cada uno de los cuales representa la ubicación de un caso de cólera. Los "
+"símbolos más grandes muestran la ubicación de las bombas de agua, "
+"etiquetadas por su nombre. Incluso la inspección más casual del gráfico deja "
+"muy claro que la fuente del brote es casi con certeza la bomba de Broad "
+"Street. Al ver este gráfico, el Dr. Snow hizo arreglos para quitar el mango "
+"de la bomba y puso fin al brote que había matado a más de 500 personas. Tal "
+"es el poder de una buena visualización de datos."
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid "Redrawing of Snow’s original cholera map"
-msgstr ""
+msgstr "Rediseño del mapa original del cólera de Snow"
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid ""
@@ -74,6 +102,10 @@ msgid ""
 " location of a well. As the plot makes clear, the cholera outbreak is "
 "centred very closely on the Broad St pump."
 msgstr ""
+"Redibujado estilizado del mapa original del cólera de John Snow. Cada punto "
+"pequeño representa la ubicación de un caso de cólera y cada círculo grande "
+"muestra la ubicación de un pozo. Como deja en claro la trama, el brote de "
+"cólera se centra muy de cerca en la bomba de la calle Broad"
 
 #: ../../Ch05/Ch05_Graphics.rst:61
 msgid ""
@@ -92,16 +124,32 @@ msgid ""
 "figure, then the graphics functionality in jamovi is not yet capable of "
 "supporting advanced work or detail editing."
 msgstr ""
+"Los objetivos de este capítulo son dos. Primero, discutir varios gráficos "
+"bastante estándar que usamos mucho al analizar y presentar datos, y segundo, "
+"mostrarle cómo crear estos gráficos en jamovi. Los gráficos en sí tienden a "
+"ser bastante sencillos, por lo que, en un aspecto, este capítulo es bastante "
+"simple. Donde la gente suele tener dificultades es aprender a producir "
+"gráficos y, especialmente, aprender a producir buenos gráficos. "
+"Afortunadamente, aprender a dibujar gráficos en jamovi es razonablemente "
+"simple, siempre y cuando no sea demasiado exigente con el aspecto de su "
+"gráfico. Lo que quiero decir cuando digo esto es que jamovi tiene muchos "
+"*muy* buenos gráficos predeterminados, o tramas, que la mayoría de las veces "
+"producen un gráfico limpio y de alta calidad. Sin embargo, en aquellas "
+"ocasiones en las que desea hacer algo no estándar, o si necesita realizar "
+"cambios muy específicos en la figura, la funcionalidad gráfica en jamovi aún "
+"no es capaz de admitir trabajos avanzados o edición de detalles."
 
 #: ../../Ch05/Ch05_Graphics.rst:79
 msgid ""
 "The origin of this quote is Tufte’s lovely book *The Visual Display of "
 "Quantitative Information*."
 msgstr ""
+"El origen de esta cita es el encantador libro de Tufte *The Visual Display "
+"of Quantitative Information*."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:4
 msgid "Histograms"
-msgstr ""
+msgstr "Histogramas"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:6
 msgid ""
@@ -538,4 +586,3 @@ msgstr ""
 #~ "teach yourself, because it’s a much "
 #~ "more powerful and cleaner system."
 #~ msgstr ""
-
