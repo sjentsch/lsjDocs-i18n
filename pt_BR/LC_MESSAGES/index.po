@@ -50,3 +50,4 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+
