@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-03-31 13:28+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/>"
 "\n"
@@ -25,15 +25,15 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability.rst:4
 msgid "Introduction to probability"
-msgstr ""
+msgstr "Einführung in die Wahrscheinlichkeit"
 
 #: ../../Ch07/Ch07_Probability.rst
 msgid "*[God] has afforded us only the twilight … of Probability.*"
-msgstr ""
+msgstr "*[Gott] hat uns nur das Zwielicht … der Wahrscheinlichkeit geschenkt.*"
 
 #: ../../Ch07/Ch07_Probability.rst:26
 msgid "John Locke"
-msgstr ""
+msgstr "John Locke"
 
 #: ../../Ch07/Ch07_Probability.rst:25
 msgid ""
