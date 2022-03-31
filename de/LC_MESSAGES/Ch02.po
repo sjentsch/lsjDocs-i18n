@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-03-31 13:12+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
 msgid "A brief introduction to research design"
-msgstr ""
+msgstr "Eine kurze Einführung in Forschungsdesigns"
 
 #: ../../Ch02/Ch02_StudyDesign.rst
 msgid ""
@@ -33,10 +33,13 @@ msgid ""
 "merely to ask him to conduct a post mortem examination. He can perhaps "
 "say what the experiment died of.*"
 msgstr ""
+"*Nach Abschluss eines Experiments einen Statistiker zu konsultieren, "
+"bedeutet oft nur, ihn zu bitten, eine Obduktion durchzuführen. Er kann dann "
+"vielleicht sagen, woran das Experiment gestorben ist.*"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:29
 msgid "Sir Ronald Fisher\\ [#]_"
-msgstr ""
+msgstr "Sir Ronald Fisher\\ [#]_"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:26
 msgid ""
