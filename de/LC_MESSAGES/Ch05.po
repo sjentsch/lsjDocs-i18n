@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-31 09:09+0000\n"
+"PO-Revision-Date: 2022-03-31 10:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch05/de/>"
 "\n"
@@ -259,11 +259,11 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
 msgid "Density plot of ``afl.margins``"
-msgstr ""
+msgstr "Dichte-Diagramm für die Variablen in ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
 msgid "Density plot of the ``afl.margins`` variable plotted in jamovi"
-msgstr ""
+msgstr "Dichte-Diagramm für die Variable ``afl.margins``, erstellt in jamovi"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:67
 msgid ""
@@ -278,10 +278,21 @@ msgid ""
 "the viewer. And of course, if your data are nominal scale then histograms"
 " are useless."
 msgstr ""
+"Auch wenn dieses Bild überarbeitet werden müsste, um eine gute "
+"Präsentationsgrafik zu sein (d. h. eine Grafik für eine Publikation), eignet "
+"es sich doch recht gut zur Beschreibung der Daten. Die große Stärke eines "
+"Histogramms oder eines Dichte-Diagramms besteht darin, dass es (bei "
+"richtiger Anwendung) die gesamte Streuung der Daten zeigt, sodass man sich "
+"ein recht gutes Bild davon machen kann, wie die Daten aussehen. Der Nachteil "
+"von Histogrammen ist, dass sie nicht sehr kompakt sind. Im Gegensatz zu "
+"einigen der anderen Diagramme, über die ich später sprechen werde, ist es "
+"schwierig, 20 bis 30 Histogramme in ein einziges Bild zu packen, ohne den "
+"Betrachter zu überfordern. Und natürlich sind Histogramme nutzlos, wenn Ihre "
+"Daten nominal skaliert sind."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:4
 msgid "Box plots"
-msgstr ""
+msgstr "Box-Plots"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:6
 msgid ""
@@ -296,16 +307,28 @@ msgid ""
 "``afl.margins`` variable from the |aflsmall_margins|_ data set as our "
 "example."
 msgstr ""
+"Eine weitere Alternative zu Histogrammen ist ein **Box-Plot**, manchmal auch "
+"als „Box and Whiskers“-Diagramm bezeichnet. Wie Histogramme eignen sie sich "
+"am besten für Daten auf Intervall- oder Verhältnisskalenniveau. Die Idee "
+"eines Box-Plots ist es, eine einfache visuelle Darstellung des Medians, des "
+"Interquartilsbereichs und des Wertebereichs der Daten zu liefern. Und weil "
+"sie dies auf recht kompakte Weise tun, sind Box-Plots zu einer sehr "
+"beliebten statistischen Grafik geworden. Sie helfen insbesondere in der "
+"explorativen Phase der Datenanalyse, die Daten besser zu verstehen. Schauen "
+"wir uns an, wie sie funktionieren, indem wir wieder die Variable ``afl."
+"margins`` aus dem Datensatz |aflsmall_margins|_ als Beispiel verwenden."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
 msgid "Box plot of ``afl.margins``"
-msgstr ""
+msgstr "Box-Plot für ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
 msgid ""
 "Box plot of the ``afl.margins`` variable from the |aflsmall_margins|_ "
 "data set plotted in jamovi"
 msgstr ""
+"Boxplot für die Variable ``afl.margins`` aus dem Datensatz |aflsmall_margins|"
+"_, erstellt in jamovi"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:27
 msgid ""
@@ -328,10 +351,29 @@ msgid ""
 "observations with values higher than this, 108 and 116, so these are the "
 "dots)."
 msgstr ""
+"Der einfachste Weg, um zu beschreiben, wie ein Boxplot aufgebaut ist, "
+"besteht darin, einen Boxplot zu erstellen. Klicken Sie auf das "
+"Kontrollkästchen ``Box plot`` und Sie erhalten das Diagramm, das unten "
+"rechts in :numref:`fig-boxplot1` gezeigt wird. jamovi hat den "
+"einfachstmöglichen Box-Plot gezeichnet. Die dicke Linie in der Mitte der Box "
+"ist der Median und die Box selbst umfasst den Bereich zwischen dem 25. und "
+"dem 75. Perzentil. Die „Whiskers“ reichen bis zum extremsten Datenpunkt, der "
+"eine bestimmte Grenze nicht überschreitet. Standardmäßig ist dieser Wert das "
+"1,5-fache des Interquartilsbereichs (IQR), berechnet als *25. Perzentil - ("
+"1,5 \\* IQR)* für die untere Grenze und *75. Perzentil \\+ (1,5 \\* IQR)* "
+"für die obere Grenze. Jede Beobachtung, deren Wert außerhalb dieses Bereichs "
+"liegt, wird als Kreis oder Punkt dargestellt, anstatt von den Whiskern "
+"erfasst zu werden, und wird gemeinhin als **Ausreißer** bezeichnet. Für "
+"unsere AFL-Gewinnspannen-Daten gibt es zwei Beobachtungen, die außerhalb "
+"dieses Bereichs liegen, und diese Beobachtungen werden als Punkte "
+"dargestellt (die obere Grenze liegt bei 107, und wenn man sich die "
+"Datenspalte in der Kalkulationstabelle ansieht, gibt es zwei Beobachtungen "
+"mit höheren Werten als diesem, nämlich 108 und 116, also sind dies die "
+"Punkte)."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:45
 msgid "Violin plots"
-msgstr ""
+msgstr "Violin-Plots"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:47
 msgid ""
@@ -347,20 +389,34 @@ msgid ""
 "though, in my opinion. Clarity is simplicity, so in practice it might be "
 "better to just use a simple box plot."
 msgstr ""
+"Eine Variante des traditionellen Box-Plots ist der Violin-Plot. Violinplots "
+"ähneln Box-Plots, mit dem Unterschied, dass sie auch die Dichteverteilung "
+"der Daten zeigen. Typischerweise enthalten Violin-Plots eine Markierung für "
+"den Median der Daten und eine Box, die den Interquartilsbereich anzeigt, wie "
+"in gewöhnlichen Box-Plots. In jamovi können Sie diese Art von Funktionalität "
+"erreichen, indem Sie beide Kontrollkästchen ``Violin`` und ``Box plot`` "
+"gleichzeitig aktivieren (siehe :numref:`fig-boxplot2`). Hier ist zusätzlich "
+"das Kontrollkästchen ``Data`` aktiviert, um die tatsächlichen Datenpunkte in "
+"der Grafik anzuzeigen. Dadurch wird das Diagramm dadurch allerdings leicht "
+"unübersichtlich. Klarheit bedeutet Einfachheit, daher ist es in der Praxis "
+"vielleicht besser, nur ein einfache Box-Plots zu verwenden."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
 msgid "Violin plot of ``afl.margins``"
-msgstr ""
+msgstr "Violin-Plot für ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
 msgid ""
 "Violin plot of the ``afl.margins`` variable from the |aflsmall_margins|_ "
 "file plotted in jamovi, alsow showing a box plot and data points"
 msgstr ""
+"Violin-Plot für die Variable ``afl.margins`` aus der Datei |aflsmall_margins|"
+"_, erstellt in jamovi (gleichzeitig wird ein Box-Plot und Datenpunkte "
+"angezeigt)"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:70
 msgid "Drawing multiple box plots"
-msgstr ""
+msgstr "Das Zeichnen mehrerer Boxplots"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:72
 msgid ""
@@ -376,14 +432,25 @@ msgid ""
 "variable across into the ``Split by`` box, as in :numref:`fig-"
 "splitfile1`."
 msgstr ""
+"Ein letzter Punkt: Was ist, wenn Sie mehrere Boxplots auf einmal zeichnen "
+"möchten? Nehmen wir zum Beispiel an, ich möchte separate Box-Plots, welche "
+"die AFL-Gewinnspannen nicht nur für 2010, sondern für jedes weitere Jahr "
+"zwischen 1987 und 2010 zeigen. Dazu müssen wir zunächst die Daten finden. "
+"Diese sind in dem Datensatz |aflsmall2|_ gespeichert. Laden wir ihn also in "
+"jamovi und sehen wir uns an, was er enthält. Sie werden sehen, dass es ein "
+"ziemlich großer Datensatz ist. Er enthält 4296 Spiele und die Variablen, an "
+"denen wir interessiert sind. Wir möchten, dass jamovi Box-Plots für die "
+"``margin``-Variable zeichnet, aber getrennt für jedes Jahr (``year``). Dazu "
+"wird die Variable ``year`` in das Feld ``Split by`` verschoben, wie in "
+":numref:`fig-splitfile1` gezeigt."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:89
 msgid "``Split by`` box"
-msgstr ""
+msgstr "``Split by``-Eingabefeld"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:89
 msgid "jamovi screen shot showing the ``Split by`` box"
-msgstr ""
+msgstr "jamovi-Benutzeroberfläche mit dem ``Split by``-Eingabefeld"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:93
 msgid ""
@@ -395,20 +462,31 @@ msgid ""
 "to cram 24 histograms into this space: no chance at all that the reader "
 "is going to learn anything useful."
 msgstr ""
+"Das Ergebnis ist in :numref:`fig-boxplot3` dargestellt. Diese Version des "
+"Boxplots, aufgeteilt nach Jahren, zeigt, warum es manchmal sinnvoll ist, "
+"Boxplots anstelle von Histogrammen zu verwenden. Es ist möglich, ein gutes "
+"Gefühl dafür zu bekommen, wie die Daten von Jahr zu Jahr aussehen, ohne von "
+"zu vielen Details überwältigt zu werden. Stellen Sie sich nun vor, was "
+"passiert wäre, wenn ich versucht hätte, 24 Histogramme auf diese Abbildung "
+"zu packen: Der Betrachter hätte wenige Chancen, etwas Nützliches zu erfahren."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:106
 msgid "Multiple box plots: ``margin`` split by ``year`` from ``aflsmall2``"
 msgstr ""
+"Mehrere Boxplots: ``margin`` unterteilt nach ``year`` aus dem Datensatz "
+"``aflsmall2``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:106
 msgid ""
 "Multiple box plots created in jamovi, for the variables ``margin`` split "
 "by ``year`` in the |aflsmall2|_ data set"
 msgstr ""
+"Mehrere in jamovi erstellte Box-Plots für die Variablen ``margin`` "
+"unterteilt nach ``year`` im Datensatz |aflsmall2|_"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:112
 msgid "Using box plots to detect outliers"
-msgstr ""
+msgstr "Das Verwenden von Box-Plots zum Erkennen von Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:114
 msgid ""
@@ -419,14 +497,21 @@ msgid ""
 "Here’s an example. Suppose that I’d drawn the box plot for the AFL "
 "margins data and it came up looking like :numref:`fig-boxplot4`."
 msgstr ""
+"Da der Box-Plot automatisch diejenigen Beobachtungen herausfiltert, die "
+"außerhalb eines bestimmten Bereichs liegen, und sie mit einem Punkt in "
+"jamovi darstellt, werden sie oft als informelle Methode zur Ermittlung von "
+"**Ausreißern** verwendet: Beobachtungen, die „verdächtig“ weit vom Rest der "
+"Daten entfernt sind. Hier ein Beispiel. Nehmen wir an, ich hätte den Box-"
+"Plot für die Daten der AFL-Gewinnspannen gezeichnet und er sähe aus wie "
+":numref:`fig-boxplot4`."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:127
 msgid "Box plot with outliers"
-msgstr ""
+msgstr "Box-Plot mit Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:127
 msgid "Box plot showing two very suspicious outliers"
-msgstr ""
+msgstr "Box-Plot mit zwei verdächtigen Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:131
 msgid ""
