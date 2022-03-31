@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:20+0100\n"
-"PO-Revision-Date: 2022-03-02 14:27+0000\n"
+"PO-Revision-Date: 2022-03-31 13:03+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:5
@@ -29,11 +29,11 @@ msgstr "Eine Einführung in jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
-msgstr ""
+msgstr "*Mit Robotern lässt es sich gut zusammen arbeiten.*"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:24
 msgid "Roger Zelazny (Dismal Light, 1968)"
-msgstr ""
+msgstr "Roger Zelazny (Dismal Light, 1968)"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:23
 msgid ""
@@ -46,6 +46,15 @@ msgid ""
 " of time looking at datasets and variables. In doing so, you’ll get a bit"
 " of a feel for what it’s like to work in jamovi."
 msgstr ""
+"In diesem Kapitel werde ich die ersten Schritte mit jamovi erklären. Ich "
+"werde kurz darauf eingehen, wie man jamovi herunterlädt und installiert, "
+"aber der größte Teil des Kapitels wird sich darauf konzentrieren, wie man "
+"sich in der jamovi-Benutzeroberfläche zurechtfindet. Unser Ziel in diesem "
+"Kapitel ist es nicht, irgendwelche statistischen Konzepte zu erlernen: Wir "
+"versuchen nur, die Grundlagen der Funktionsweise von jamovi kennenzulernen "
+"und uns mit dem System vertraut zu machen. Zu diesem Zweck werden wir uns "
+"mit Datensätzen und Variablen beschäftigen. Auf diese Weise bekommen Sie ein "
+"Gefühl dafür, wie es ist, mit jamovi zu arbeiten."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:32
 msgid ""
