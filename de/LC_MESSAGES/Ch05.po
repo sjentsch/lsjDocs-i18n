@@ -6,31 +6,34 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-31 08:42+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch05/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
-msgstr ""
+msgstr "Diagramme erstellen"
 
 #: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
-msgstr ""
+msgstr "*Zeige vor allem die Daten.*"
 
 #: ../../Ch05/Ch05_Graphics.rst:24
 msgid "Edward Tufte\\ [#]_"
-msgstr ""
+msgstr "Edward Tufte\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics.rst:23
 msgid ""
@@ -45,6 +48,18 @@ msgid ""
 " about analysing it. These points might seem pretty obvious but I cannot "
 "count the number of times I’ve seen people forget them."
 msgstr ""
+"Die Visualisierung von Daten ist eine der wichtigsten Aufgaben bei der "
+"Datenanalyse. Sie ist aus zwei verschiedenen, aber eng miteinander "
+"verbundenen Gründen wichtig. Zum einen geht es um das Erstellen von "
+"„Präsentationsgrafiken“. Wenn Sie Ihre Daten in einer sauberen, visuell "
+"ansprechenden Weise darstellen, fällt es dem Leser leichter zu verstehen, "
+"was Sie ihm mitteilen wollen. Ebenso wichtig, vielleicht sogar noch "
+"wichtiger, ist die Tatsache, dass das Zeichnen von Diagrammen *Sie* dabei "
+"unterstützt, die Daten zu verstehen. Zu diesem Zweck ist es wichtig, "
+"„Sondierungsgrafiken“ zu erstellen, die Ihnen helfen, bei der Analyse der "
+"Daten mehr über die Daten zu erfahren. Diese Punkte mögen zwar ziemlich "
+"offensichtlich erscheinen, aber ich habe unzählige Male erlebt, dass sie "
+"vergessen wurden."
 
 #: ../../Ch05/Ch05_Graphics.rst:34
 msgid ""
@@ -62,10 +77,25 @@ msgid ""
 " from the pump and ended the outbreak that had killed over 500 people. "
 "Such is the power of a good data visualisation."
 msgstr ""
+"Um ein Gefühl für die Bedeutung dieses Kapitels zu erhalten, möchte ich mit "
+"einer klassischen Illustration beginnen, die zeigt, welche Wirkung ein gutes "
+"Diagramm haben kann. Zu diesem Zweck zeigt :numref:`fig-snowMap` eine "
+"Adaptation einer der berühmtesten Datenvisualisierungen aller Zeiten. Es "
+"handelt sich um John Snows Karte der Cholera-Todesfälle aus dem Jahr 1854. "
+"Die Karte ist in ihrer Schlichtheit elegant. Im Hintergrund befindet sich "
+"eine Straßenkarte, die dem Betrachter die Orientierung erleichtert. Darüber "
+"sehen wir eine große Anzahl kleiner Punkte, bei denen jeder Punkt den Ort "
+"eines Cholerafalls darstellt. Die größeren Symbole zeigen den Standort von "
+"Wasserpumpen mit deren jeweiligem Namen. Schon bei oberflächlicher "
+"Betrachtung des Diagramms wird deutlich, dass die Quelle des Ausbruchs mit "
+"ziemlicher Sicherheit die Pumpe in der Broad Street ist. Als Dr. Snow dieses "
+"Diagramm sah, veranlasste er die Entfernung des Griffs von der Pumpe und "
+"beendete den Ausbruch, der bis dahin über 500 Menschen das Leben gekostet "
+"hat. Das ist die Macht einer guten Datenvisualisierung."
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid "Redrawing of Snow’s original cholera map"
-msgstr ""
+msgstr "Neuzeichnung der ursprünglichen Cholera-Karte von Snow"
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid ""
@@ -74,6 +104,10 @@ msgid ""
 " location of a well. As the plot makes clear, the cholera outbreak is "
 "centred very closely on the Broad St pump."
 msgstr ""
+"Stilisierte Neuzeichnung der ursprünglichen Cholera-Karte von John Snow. "
+"Jeder kleine Punkt steht für einen Cholerafall und jeder große Kreis für "
+"einen Brunnen. Wie aus der Darstellung hervorgeht, konzentriert sich der "
+"Choleraausbruch auf die Pumpe in der *Broad Street*."
 
 #: ../../Ch05/Ch05_Graphics.rst:61
 msgid ""
@@ -92,16 +126,30 @@ msgid ""
 "figure, then the graphics functionality in jamovi is not yet capable of "
 "supporting advanced work or detail editing."
 msgstr ""
+"Dieses Kapitel verfolgt zwei Ziele: Erstens sollen einige Standarddiagramme "
+"eingeführt werden, die wir bei der Analyse und der Präsentation von Daten "
+"häufig verwenden. Zweitens soll gezeigt werden, wie diese Graphen in jamovi "
+"erstellt werden können. Die Diagramme selbst sind in der Regel recht "
+"einfach, sodass dieses Kapitel in gewisser Hinsicht recht einfach ist. Der "
+"Punkt, an dem die meisten Leute Schwierigkeiten haben, ist das Erlernen der "
+"Erstellung von Diagrammen, und insbesondere das Erlernen, wie man gute "
+"Diagramme erstellt. Glücklicherweise ist es relativ einfach zu lernen, wie "
+"man in jamovi Diagramme erstellt. Was ich damit sagen will, ist, dass jamovi "
+"viele *sehr gute* saubere und hochwertige Standarddiagramme erstellen "
+"lassen. Andererseits hat die Grafikfunktionalität von jamovi ihre Grenzen, "
+"wenn spezifische Änderungen an der Abbildung vorgenommen werden müssen."
 
 #: ../../Ch05/Ch05_Graphics.rst:79
 msgid ""
 "The origin of this quote is Tufte’s lovely book *The Visual Display of "
 "Quantitative Information*."
 msgstr ""
+"Der Ursprung dieses Zitats ist Tuftes interessantes Buch *The Visual Display "
+"of Quantitative Information*."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:4
 msgid "Histograms"
-msgstr ""
+msgstr "Histogramme"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:6
 msgid ""
@@ -538,4 +586,3 @@ msgstr ""
 #~ "teach yourself, because it’s a much "
 #~ "more powerful and cleaner system."
 #~ msgstr ""
-
