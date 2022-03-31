@@ -6,35 +6,38 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-31 13:03+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch17/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch17/Ch17_Epilogue.rst:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilog"
 
 #: ../../Ch17/Ch17_Epilogue.rst
 msgid "*“Begin at the beginning”*, the King said, very gravely,"
-msgstr ""
+msgstr "*„Fang am Anfang an“*, sagte der König mit ernster Miene,"
 
 #: ../../Ch17/Ch17_Epilogue.rst
 msgid "““and go on till you come to the end: then stop”*"
-msgstr ""
+msgstr "„und gehe weiter, bis du zum Ende kommst; dann hör auf“*"
 
 #: ../../Ch17/Ch17_Epilogue.rst:26
 msgid "Lewis Carroll"
-msgstr ""
+msgstr "Lewis Carroll"
 
 #: ../../Ch17/Ch17_Epilogue.rst:24
 msgid ""
@@ -693,4 +696,3 @@ msgid ""
 "And what I hope is that this book, or the finished book that this will "
 "one day turn into, is able to help you with that."
 msgstr ""
-
