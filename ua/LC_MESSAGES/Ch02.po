@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:07+0200\n"
+"POT-Creation-Date: 2022-04-01 19:16+0200\n"
 "PO-Revision-Date: 2022-03-02 17:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: ua\n"
@@ -647,55 +647,55 @@ msgid ""
 "The number of questions you get right on a true-or-false test (a ratio "
 "scale variable) is also discrete. Since a true-or-false question doesn’t "
 "allow you to be “partially correct”, there’s nothing in between 5/10 and "
-"6/10. :numref:`tab-scalerel` summarises the relationship between the "
-"scales of measurement and the discrete / continuity distinction. Cells "
+"6/10. The relationship between the scales of measurement and the discrete"
+" / continuity distinction is summarized in :numref:`tab-scalerel`. Cells "
 "with a tick mark correspond to things that are possible. I’m trying to "
 "hammer this point home, because (a) some textbooks get this wrong, and "
 "(b) people very often say things like “discrete variable” when they mean "
 "“nominal scale variable”. It’s very unfortunate."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:235
+#: ../../Ch02/Ch02_StudyDesign_2.rst:236
 msgid ""
 "The relationship between the scales of measurement and the discrete / "
 "continuity distinction. Cells with a tick mark correspond to things that "
 "are possible."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:240
+#: ../../Ch02/Ch02_StudyDesign_2.rst:241
 msgid "continuous"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:240
+#: ../../Ch02/Ch02_StudyDesign_2.rst:241
 msgid "discrete"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:242
+#: ../../Ch02/Ch02_StudyDesign_2.rst:243
 msgid "**nominal**"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:242 ../../Ch02/Ch02_StudyDesign_2.rst:244
-#: ../../Ch02/Ch02_StudyDesign_2.rst:246 ../../Ch02/Ch02_StudyDesign_2.rst:248
+#: ../../Ch02/Ch02_StudyDesign_2.rst:243 ../../Ch02/Ch02_StudyDesign_2.rst:245
+#: ../../Ch02/Ch02_StudyDesign_2.rst:247 ../../Ch02/Ch02_StudyDesign_2.rst:249
 msgid "✓"
 msgstr "✓"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:244
+#: ../../Ch02/Ch02_StudyDesign_2.rst:245
 msgid "**ordinal**"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:246
+#: ../../Ch02/Ch02_StudyDesign_2.rst:247
 msgid "**interval**"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:248
+#: ../../Ch02/Ch02_StudyDesign_2.rst:249
 msgid "**ratio**"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:252
+#: ../../Ch02/Ch02_StudyDesign_2.rst:253
 msgid "Some complexities"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:254
+#: ../../Ch02/Ch02_StudyDesign_2.rst:255
 msgid ""
 "Okay, I know you’re going to be shocked to hear this, but the real world "
 "is much messier than this little classification scheme suggests. Very few"
@@ -706,7 +706,7 @@ msgid ""
 "should treat different variables differently. Nothing more."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:263
+#: ../../Ch02/Ch02_StudyDesign_2.rst:264
 msgid ""
 "So let’s take a classic example, maybe *the* classic example, of a "
 "psychological measurement tool: the **Likert scale**. The humble Likert "
@@ -716,13 +716,13 @@ msgid ""
 " this:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:270
+#: ../../Ch02/Ch02_StudyDesign_2.rst:271
 msgid ""
 "Which of the following best describes your opinion of the statement that "
 "“all pirates are freaking awesome”?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:273
+#: ../../Ch02/Ch02_StudyDesign_2.rst:274
 msgid "and then the options presented to the participant are these:"
 msgstr ""
 
@@ -746,7 +746,7 @@ msgstr ""
 msgid "(5) Strongly agree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:281
+#: ../../Ch02/Ch02_StudyDesign_2.rst:282
 msgid ""
 "This set of items is an example of a 5-point Likert scale, in which "
 "people are asked to choose among one of several (in this case 5) clearly "
@@ -768,7 +768,7 @@ msgstr ""
 msgid "(4)"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:294
+#: ../../Ch02/Ch02_StudyDesign_2.rst:295
 msgid ""
 "Likert scales are very handy, if somewhat limited, tools. The question is"
 " what kind of variable are they? They’re obviously discrete, since you "
@@ -777,7 +777,7 @@ msgid ""
 "no natural zero."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:300
+#: ../../Ch02/Ch02_StudyDesign_2.rst:301
 msgid ""
 "But are they ordinal scale or interval scale? One argument says that we "
 "can’t really prove that the difference between “strongly agree” and "
@@ -793,7 +793,7 @@ msgid ""
 "that we usually think of it as being **quasi-interval scale**."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:316
+#: ../../Ch02/Ch02_StudyDesign_2.rst:317
 msgid ""
 "Actually, I’ve been informed by readers with greater physics knowledge "
 "than I that temperature isn’t strictly an interval scale, in the sense "
@@ -803,7 +803,7 @@ msgid ""
 "example so I’m going to ignore this little inconvenient truth."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:325
+#: ../../Ch02/Ch02_StudyDesign_2.rst:326
 msgid "Ah, psychology …never an easy answer to anything!"
 msgstr ""
 
@@ -2326,6 +2326,51 @@ msgstr ""
 #~ "to be “partially correct”, there’s "
 #~ "nothing in between 5/10 and 6/10. "
 #~ ":numref:`tab-scalecont` summarises the "
+#~ "relationship between the scales of "
+#~ "measurement and the discrete / "
+#~ "continuity distinction. Cells with a "
+#~ "tick mark correspond to things that "
+#~ "are possible. I’m trying to hammer "
+#~ "this point home, because (a) some "
+#~ "textbooks get this wrong, and (b) "
+#~ "people very often say things like "
+#~ "“discrete variable” when they mean "
+#~ "“nominal scale variable”. It’s very "
+#~ "unfortunate."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Discrete variables occur when this rule"
+#~ " is violated. For example, nominal "
+#~ "scale variables are always discrete. "
+#~ "There isn’t a type of transportation "
+#~ "that falls “in between” trains and "
+#~ "bicycles, not in the strict mathematical"
+#~ " way that 2.3 falls in between "
+#~ "2 and 3. So transportation type is"
+#~ " discrete. Similarly, ordinal scale "
+#~ "variables are always discrete. Although "
+#~ "“2nd place” does fall between “1st "
+#~ "place” and “3rd place”, there’s nothing"
+#~ " that can logically fall in between"
+#~ " “1st place” and “2nd place”. "
+#~ "Interval scale and ratio scale variables"
+#~ " can go either way. As we saw"
+#~ " above, response time (a ratio scale"
+#~ " variable) is continuous. Temperature in"
+#~ " degrees celsius (an interval scale "
+#~ "variable) is also continuous. However, "
+#~ "the year you went to school (an"
+#~ " interval scale variable) is discrete. "
+#~ "There’s no year in between 2002 "
+#~ "and 2003. The number of questions "
+#~ "you get right on a true-or-"
+#~ "false test (a ratio scale variable) "
+#~ "is also discrete. Since a true-"
+#~ "or-false question doesn’t allow you "
+#~ "to be “partially correct”, there’s "
+#~ "nothing in between 5/10 and 6/10. "
+#~ ":numref:`tab-scalerel` summarises the "
 #~ "relationship between the scales of "
 #~ "measurement and the discrete / "
 #~ "continuity distinction. Cells with a "
