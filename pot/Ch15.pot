@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -244,7 +244,7 @@ msgid ""
 "Agreeableness, Conscientiousness, Extraversion, Neuroticism, and Openness."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:160
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:159
 msgid ""
 "Twenty-five observed variable items organised by five putative personality "
 "factors in the |bfi_sample|_ data set. If there is an R in the second "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 msgid "The data"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:15
+#: ../../Ch12/Ch12_Regression_01.rst:14
 msgid "Descriptive statistics for the |parenthood|_ data set."
 msgstr ""
 
@@ -401,7 +401,7 @@ msgid ""
 "interpretcorrelations` is pretty typical."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:221
+#: ../../Ch12/Ch12_Regression_01.rst:220
 msgid ""
 "A rough guide to interpreting correlations. Note that I say a *rough* guide. "
 "There aren’t hard and fast rules for what counts as strong or weak "

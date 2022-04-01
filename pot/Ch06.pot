@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -315,7 +315,7 @@ msgid ""
 "the right is larger, then jamovi returns an answer of ``FALSE``."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_2.rst:81
+#: ../../Ch06/Ch06_DataHandling_2.rst:80
 msgid ""
 "Some logical operators. Technically I should be calling these “binary "
 "relational operators”, but quite frankly I don’t want to. It’s my book so no-"
@@ -452,7 +452,7 @@ msgid ""
 "the two parts to be true. That’s what the ``or`` operator does:\\ [#]_"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_2.rst:133
+#: ../../Ch06/Ch06_DataHandling_2.rst:132
 msgid "Some more logical operators."
 msgstr ""
 
@@ -974,7 +974,7 @@ msgid ""
 "available in jamovi."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_4.rst:18
+#: ../../Ch06/Ch06_DataHandling_4.rst:17
 msgid "Some of the mathematical functions available in jamovi"
 msgstr ""
 

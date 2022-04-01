@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -870,7 +870,7 @@ msgid ""
 "rules for anything in this book I won’t do so here."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_3.rst:126
+#: ../../Ch07/Ch07_Probability_3.rst:125
 msgid ""
 "Some basic rules that probabilities must satisfy. You don’t really need to "
 "know these rules in order to understand the analyses that we’ll talk about "
@@ -967,7 +967,7 @@ msgid ""
 "question, so let’s have a look at how it’s done."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_4.rst:33
+#: ../../Ch07/Ch07_Probability_4.rst:32
 msgid ""
 "Formulas for the binomial and normal distributions. We don’t really use "
 "these formulas for anything in this book, but they’re pretty important for "

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:37+0200\n"
 "PO-Revision-Date: 2022-04-01 17:21+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -717,10 +717,10 @@ msgid ""
 "scale variable) is also discrete. Since a true-or-false question doesn’t "
 "allow you to be “partially correct”, there’s nothing in between 5/10 and "
 "6/10. The relationship between the scales of measurement and the discrete"
-" / continuity distinction is summarized in :numref:`tab-sclrel`. Cells "
-"with a tick mark correspond to things that are possible. I’m trying to "
-"hammer this point home, because (a) some textbooks get this wrong, and "
-"(b) people very often say things like “discrete variable” when they mean "
+" / continuity distinction is summarized in :numref:`tab-scl`. Cells with "
+"a tick mark correspond to things that are possible. I’m trying to hammer "
+"this point home, because (a) some textbooks get this wrong, and (b) "
+"people very often say things like “discrete variable” when they mean "
 "“nominal scale variable”. It’s very unfortunate."
 msgstr ""
 "Diskrete Variablen liegen vor, wenn diese Regel verletzt wird. "
@@ -741,7 +741,7 @@ msgstr ""
 " man bei einer Richtig-oder-Falsch-Frage nicht „teilweise richtig“ liegen"
 " kann, gibt es nichts zwischen 5/10 und 6/10. Die Beziehung zwischen den "
 "Messskalen und der Unterscheidung zwischen diskret und kontinuierlich ist"
-" in :numref:`tab-scalerel` zusammengefasst. Zellen mit einem Häkchen "
+" in :numref:`tab-scl` zusammengefasst. Zellen mit einem Häkchen "
 "entsprechen Dingen, die möglich sind. Ich versuche, diesen Punkt "
 "hervorzuheben, weil (a) einige Lehrbücher dies falsch verstehen und (b) "
 "die Leute sehr oft Dinge wie „diskrete Variable“ sagen, wenn sie "
@@ -783,11 +783,11 @@ msgstr ""
 msgid "**ratio**"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:253
+#: ../../Ch02/Ch02_StudyDesign_2.rst:254
 msgid "Some complexities"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:255
+#: ../../Ch02/Ch02_StudyDesign_2.rst:256
 msgid ""
 "Okay, I know you’re going to be shocked to hear this, but the real world "
 "is much messier than this little classification scheme suggests. Very few"
@@ -798,7 +798,7 @@ msgid ""
 "should treat different variables differently. Nothing more."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:264
+#: ../../Ch02/Ch02_StudyDesign_2.rst:265
 msgid ""
 "So let’s take a classic example, maybe *the* classic example, of a "
 "psychological measurement tool: the **Likert scale**. The humble Likert "
@@ -808,13 +808,13 @@ msgid ""
 " this:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:271
+#: ../../Ch02/Ch02_StudyDesign_2.rst:272
 msgid ""
 "Which of the following best describes your opinion of the statement that "
 "“all pirates are freaking awesome”?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:274
+#: ../../Ch02/Ch02_StudyDesign_2.rst:275
 msgid "and then the options presented to the participant are these:"
 msgstr ""
 
@@ -838,7 +838,7 @@ msgstr ""
 msgid "(5) Strongly agree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:282
+#: ../../Ch02/Ch02_StudyDesign_2.rst:283
 msgid ""
 "This set of items is an example of a 5-point Likert scale, in which "
 "people are asked to choose among one of several (in this case 5) clearly "
@@ -860,7 +860,7 @@ msgstr ""
 msgid "(4)"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:295
+#: ../../Ch02/Ch02_StudyDesign_2.rst:296
 msgid ""
 "Likert scales are very handy, if somewhat limited, tools. The question is"
 " what kind of variable are they? They’re obviously discrete, since you "
@@ -869,7 +869,7 @@ msgid ""
 "no natural zero."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:301
+#: ../../Ch02/Ch02_StudyDesign_2.rst:302
 msgid ""
 "But are they ordinal scale or interval scale? One argument says that we "
 "can’t really prove that the difference between “strongly agree” and "
@@ -885,7 +885,7 @@ msgid ""
 "that we usually think of it as being **quasi-interval scale**."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:317
+#: ../../Ch02/Ch02_StudyDesign_2.rst:318
 msgid ""
 "Actually, I’ve been informed by readers with greater physics knowledge "
 "than I that temperature isn’t strictly an interval scale, in the sense "
@@ -895,7 +895,7 @@ msgid ""
 "example so I’m going to ignore this little inconvenient truth."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:326
+#: ../../Ch02/Ch02_StudyDesign_2.rst:327
 msgid "Ah, psychology …never an easy answer to anything!"
 msgstr ""
 
@@ -2292,3 +2292,4 @@ msgid ""
 "large number of textbooks out there on research design. Spend a few "
 "minutes with your favourite search engine and you’ll find dozens."
 msgstr ""
+

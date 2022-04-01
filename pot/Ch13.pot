@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:24+0200\n"
+"POT-Creation-Date: 2022-04-01 19:59+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -293,7 +293,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_05.rst:43 ../../Ch13/Ch13_ANOVA_05.rst:209
-#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:68
+#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:67
 msgid "1"
 msgstr "1"
 
@@ -313,8 +313,8 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:207
-#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:70
-#: ../../Ch13/Ch13_ANOVA_07.rst:76
+#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:69
+#: ../../Ch13/Ch13_ANOVA_07.rst:75
 msgid "2"
 msgstr "2"
 
@@ -327,7 +327,7 @@ msgid "Cat"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_05.rst:47
-#: ../../Ch13/Ch13_ANOVA_05.rst:205 ../../Ch13/Ch13_ANOVA_07.rst:72
+#: ../../Ch13/Ch13_ANOVA_05.rst:205 ../../Ch13/Ch13_ANOVA_07.rst:71
 msgid "3"
 msgstr "3"
 
@@ -340,8 +340,8 @@ msgid "Tim"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_05.rst:49
-#: ../../Ch13/Ch13_ANOVA_05.rst:203 ../../Ch13/Ch13_ANOVA_07.rst:74
-#: ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:203 ../../Ch13/Ch13_ANOVA_07.rst:73
+#: ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "4"
 msgstr "4"
 
@@ -358,8 +358,8 @@ msgid "Egg"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_05.rst:51
-#: ../../Ch13/Ch13_ANOVA_05.rst:201 ../../Ch13/Ch13_ANOVA_07.rst:72
-#: ../../Ch13/Ch13_ANOVA_07.rst:74 ../../Ch13/Ch13_ANOVA_07.rst:76
+#: ../../Ch13/Ch13_ANOVA_05.rst:201 ../../Ch13/Ch13_ANOVA_07.rst:71
+#: ../../Ch13/Ch13_ANOVA_07.rst:73 ../../Ch13/Ch13_ANOVA_07.rst:75
 msgid "5"
 msgstr "5"
 
@@ -639,7 +639,7 @@ msgid ""
 "anovatable`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:282
+#: ../../Ch13/Ch13_ANOVA_02.rst:281
 msgid ""
 "All of the key quantities involved in an ANOVA organised into a “standard” "
 "ANOVA table. The formulas for all quantities (except the *p*-value which has "
@@ -1133,8 +1133,8 @@ msgstr "|N_k| · (|Yb_k| - |Yb|)²"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
 #: ../../Ch13/Ch13_ANOVA_02.rst:528 ../../Ch13/Ch13_ANOVA_05.rst:53
-#: ../../Ch13/Ch13_ANOVA_07.rst:68 ../../Ch13/Ch13_ANOVA_07.rst:70
-#: ../../Ch13/Ch13_ANOVA_07.rst:76 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_07.rst:67 ../../Ch13/Ch13_ANOVA_07.rst:69
+#: ../../Ch13/Ch13_ANOVA_07.rst:75 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "6"
 msgstr "6"
 
@@ -1563,13 +1563,13 @@ msgstr ""
 msgid "alternative"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:68
-#: ../../Ch13/Ch13_ANOVA_07.rst:70 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:67
+#: ../../Ch13/Ch13_ANOVA_07.rst:69 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "7"
 msgstr "7"
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:57 ../../Ch13/Ch13_ANOVA_07.rst:68
-#: ../../Ch13/Ch13_ANOVA_07.rst:70 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:57 ../../Ch13/Ch13_ANOVA_07.rst:67
+#: ../../Ch13/Ch13_ANOVA_07.rst:69 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "8"
 msgstr "8"
 
@@ -2472,31 +2472,31 @@ msgid ""
 "experienced following a stroke)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:62
+#: ../../Ch13/Ch13_ANOVA_07.rst:61
 msgid "Number of attempts successfully completed on three experimental tasks."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Participant"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Speech"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Conceptual"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Syntax"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:72
+#: ../../Ch13/Ch13_ANOVA_07.rst:71
 msgid "9"
 msgstr "9"
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:81
+#: ../../Ch13/Ch13_ANOVA_07.rst:80
 msgid ""
 "The patients were required to complete three word recognition tasks. On the "
 "first (speech production) task, patients were required to repeat single "
@@ -2512,14 +2512,14 @@ msgid ""
 "take a short-cut and load the |broca|_ data set)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:95
+#: ../../Ch13/Ch13_ANOVA_07.rst:94
 msgid ""
 "To perform a one-way related ANOVA in jamovi, open the one-way repeated "
 "measures ANOVA dialogue box, as in :numref:`fig-RManova1`, via ``ANOVA - "
 "Repeated Measures ANOVA``. Then:"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:99
+#: ../../Ch13/Ch13_ANOVA_07.rst:98
 msgid ""
 "Enter a Repeated Measures Factor Name. This should be a label that you "
 "choose to describe the conditions repeated by all participants. For example, "
@@ -2528,30 +2528,30 @@ msgid ""
 "name represents the independent variable in the analysis."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:106
+#: ../../Ch13/Ch13_ANOVA_07.rst:105
 msgid ""
 "Add a third level in the Repeated Measures Factors text box, as there are "
 "three levels representing the three tasks: speech, conceptual and syntax. "
 "Change the labels of the levels accordingly."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:110
+#: ../../Ch13/Ch13_ANOVA_07.rst:109
 msgid ""
 "Then move each of the levels variables across to the Repeated Measures Cells "
 "text box."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:113
+#: ../../Ch13/Ch13_ANOVA_07.rst:112
 msgid ""
 "Finally, under the Assumption Checks option, tick the ``Sphericity checks`` "
 "text box."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:122
+#: ../../Ch13/Ch13_ANOVA_07.rst:121
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:126
+#: ../../Ch13/Ch13_ANOVA_07.rst:125
 msgid ""
 "jamovi output for a one-way repeated measures ANOVA is produced as shown in "
 "the :numref:`fig-RManova2` to :numref:`fig-RManova5`. The first output we "
@@ -2565,11 +2565,11 @@ msgid ""
 "different (i.e. they are roughly equal and sphericity can be assumed.)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:144
+#: ../../Ch13/Ch13_ANOVA_07.rst:143
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:148
+#: ../../Ch13/Ch13_ANOVA_07.rst:147
 msgid ""
 "If, on the other hand, Mauchly’s test had been significant (*p* < 0.05) then "
 "we would conclude that there are significant differences between the "
@@ -2578,19 +2578,19 @@ msgid ""
 "the one-way related ANOVA analysis:"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:155
+#: ../../Ch13/Ch13_ANOVA_07.rst:154
 msgid ""
 "If the Greenhouse-Geisser value in the “Tests of Sphericity” table is > 0.75 "
 "then you should use the Huynh-Feldt correction."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:158
+#: ../../Ch13/Ch13_ANOVA_07.rst:157
 msgid ""
 "But if the Greenhouse-Geisser value is < 0.75, then you should use the "
 "Greenhouse-Geisser correction."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:161
+#: ../../Ch13/Ch13_ANOVA_07.rst:160
 msgid ""
 "Both these corrected *F*-values can be specified in the Sphericity "
 "Corrections check boxes under the Assumption Checks options, and the "
@@ -2598,16 +2598,16 @@ msgid ""
 "RManova3`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:172
+#: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:172
+#: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid ""
 "One-way repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:177
+#: ../../Ch13/Ch13_ANOVA_07.rst:176
 msgid ""
 "In our analysis, we saw that the significance of Mauchly’s Test of "
 "Sphericity was *p* = 0.720 (i.e. *p* > 0.05). So, this means we can assume "
@@ -2619,11 +2619,11 @@ msgid ""
 "was speech, comprehension or syntax based (*F*\\(2,10) = 6.93, p = 0.013)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:193
+#: ../../Ch13/Ch13_ANOVA_07.rst:192
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:197
+#: ../../Ch13/Ch13_ANOVA_07.rst:196
 msgid ""
 "Post-hoc tests can also be specified in jamovi for repeated measures ANOVA "
 "in the same way as for independent ANOVA. The results are shown in :numref:"
@@ -2631,7 +2631,7 @@ msgid ""
 "between Speech and Syntax, but not between other levels."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:203
+#: ../../Ch13/Ch13_ANOVA_07.rst:202
 msgid ""
 "Descriptive statistics (marginal means) can be reviewed to help interpret "
 "the results, produced in the jamovi output as in :numref:`fig-RManova5`. "
@@ -2643,11 +2643,11 @@ msgid ""
 "Syntax task performance."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:218
+#: ../../Ch13/Ch13_ANOVA_07.rst:217
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:225
+#: ../../Ch13/Ch13_ANOVA_07.rst:224
 msgid "(n - k): (number of subjects - number of groups)"
 msgstr ""
 
