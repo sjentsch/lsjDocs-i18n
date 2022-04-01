@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:20+0100\n"
+"POT-Creation-Date: 2022-04-01 20:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:5
-msgid "An introduction to jamovi"
+msgid "Getting started with jamovi"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro.rst
@@ -757,4 +757,5 @@ msgid ""
 " it again later. I usually create a new folder for specific data sets and"
 " analyses."
 msgstr ""
+
 
