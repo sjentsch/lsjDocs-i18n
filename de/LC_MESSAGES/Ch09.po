@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-04-01 18:54+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/>"
 "\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:4
 msgid "Hypothesis testing"
-msgstr ""
+msgstr "Das Überprüfen von Hypothesen"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
@@ -36,10 +36,17 @@ msgid ""
 "will really happen. It is an hypothesis that the sun will rise tomorrow: "
 "and this means that we do not know whether it will rise.*"
 msgstr ""
+"*Der Prozess der Induktion ist der Prozess der Annahme des einfachsten "
+"Gesetzes, das mit unserer Erfahrung in Einklang gebracht werden kann. Dieser "
+"Prozess hat jedoch keine logische Grundlage, sondern nur eine "
+"psychologische. Es liegt auf der Hand, dass es keinen Grund für die Annahme "
+"gibt, dass der einfachste Ablauf tatsächlich eintreten wird. Es ist eine "
+"Hypothese, dass die Sonne morgen aufgehen wird und das bedeutet, dass wir "
+"nicht wissen, ob sie aufgehen wird.*"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:41
 msgid "Ludwig Wittgenstein\\ [#]_"
-msgstr ""
+msgstr "Ludwig Wittgenstein\\ [#]_"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:34
 msgid ""
@@ -1985,7 +1992,3 @@ msgid ""
 " now, though, we’re done with the abstract statistical theory, and we can"
 " start discussing specific data analysis tools."
 msgstr ""
-
-
-
-
