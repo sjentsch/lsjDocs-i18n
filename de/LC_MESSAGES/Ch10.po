@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-04-01 18:54+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/>"
 "\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
 msgid "Categorical data analysis"
-msgstr ""
+msgstr "Analyse kategorialer Daten"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:19
 msgid ""
@@ -45,6 +45,23 @@ msgid ""
 "among observed, correlated variables in terms of a lower number of "
 "unobserved variables called factors or latent Variables."
 msgstr ""
+"Nachdem wir uns nun mit der grundlegenden Theorie der Hypothesentests "
+"befasst haben, ist es an der Zeit, sich mit spezifischen Tests zu befassen, "
+"die in der Psychologie häufig verwendet werden. Wo sollen wir also anfangen? "
+"Nicht jedes Lehrbuch ist sich einig, wo man anfangen soll, aber ich werde "
+"mit „χ²-Tests“ („Analyse kategorialer Daten“, dieses Kapitel) und „*t*-Tests“"
+" (Kapitel :doc:`Vergleich zweier Mittelwerte <../Ch11/Ch11_tTest>`) "
+"beginnen. Diese beiden Werkzeuge werden in der wissenschaftlichen Praxis "
+"sehr häufig verwendet, und obwohl sie nicht so leistungsfähig sind wie die "
+"„Regression“ (Kapitel :doc:`Korrelation und lineare Regression <../Ch12/"
+"Ch12_Regression>`) und „Varianzanalyse“ (Kapitel :doc:`Vergleich mehrerer "
+"Mittelwerte (einfaktorielle ANOVA) <../Ch13/Ch13_ANOVA>` und :doc:`"
+"Faktorielle ANOVA <../Ch14/Ch14_ANOVA2>`) sind sie viel einfacher zu "
+"verstehen. Schließlich gibt es noch die :doc:`Faktorenanalyse <../Ch15/"
+"Ch15_FactorAnalysis>`, die darauf abzielt, die Variabilität zwischen "
+"beobachteten, korrelierten Variablen in Form einer geringeren Anzahl "
+"unbeobachteter Variablen zu beschreiben, die als Faktoren oder latente "
+"Variablen bezeichnet werden."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:33
 msgid ""
@@ -61,10 +78,24 @@ msgid ""
 "there are a lot of different tools that can be used for categorical data "
 "analysis, and this chapter covers only a few of the more common ones."
 msgstr ""
+"Der Begriff „kategoriale Daten“ im Titel dieses Kapitels ist nur eine andere "
+"Bezeichnung für „nominalskalierte Daten“. Es ist nichts, was wir nicht schon "
+"besprochen hätten, es ist nur so, dass man im Zusammenhang mit der "
+"Datenanalyse eher den Begriff „kategoriale Daten“ als „nominalskalierte "
+"Daten“ verwendet. Ich weiß nicht, warum. Auf jeden Fall bezieht sich die **"
+"kategoriale Datenanalyse** auf eine Reihe von Instrumenten, die Sie "
+"verwenden können, wenn Ihre Daten nominalskaliert sind. Diese Instrumente "
+"werden oft als „χ²-Tests“ (ausgesprochen „Chi-Quadrat“, oder in Englisch "
+"„chi-square“ oder „chi-squared“) bezeichnet. Sie ermitteln, ob ein "
+"statistisch signifikanter Unterschied zwischen erwarteten und beobachteten "
+"Häufigkeiten besteht und ob die Beobachtungen einer χ²-Häufigkeitsverteilung "
+"folgen. Es gibt jedoch viele verschiedene Werkzeuge, die für die Analyse "
+"kategorialer Daten verwendet werden können, und dieses Kapitel behandelt nur "
+"einige der gebräuchlichsten."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:4
 msgid "The χ² (chi-square) goodness-of-fit test"
-msgstr ""
+msgstr "Der χ² (Chi-Quadrat)-Anpassungstest"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:6
 msgid ""
@@ -82,10 +113,24 @@ msgid ""
 "expected given the standard treatment option. Let’s think about this some"
 " more, with some psychology."
 msgstr ""
+"Der χ²-Anpassungstest ist einer der ältesten Hypothesentests überhaupt. Er "
+"wurde von `Karl Pearson (1900) <../Other/References.html#pearson-1900>`__ "
+"erfunden, wobei später von `Sir Ronald Fisher (1922a) <../Other/References."
+"html#fisher-1922a>`__ einige Korrekturen vorgenommen wurden. Er prüft, ob "
+"eine beobachtete Häufigkeitsverteilung einer nominalen Variablen mit einer "
+"erwarteten Häufigkeitsverteilung übereinstimmt. Nehmen wir zum Beispiel an, "
+"eine Gruppe von Patienten hat sich einer experimentellen Behandlung "
+"unterzogen und ihr Gesundheitszustand wurde untersucht, um festzustellen, ob "
+"sich ihr Zustand verbessert hat, gleich geblieben ist oder sich "
+"verschlechtert hat. Mit einem Anpassungstest ließe sich feststellen, ob die "
+"Zahlen in den einzelnen Kategorien – Verbesserung, keine Veränderung, "
+"Verschlechterung – mit den Zahlen übereinstimmen, die bei der "
+"Standardbehandlung zu erwarten wären. Lassen Sie uns das Ganze mit etwas "
+"Psychologie weiterdenken."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:19
 msgid "The cards data"
-msgstr ""
+msgstr "Die Kartendaten"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:21
 msgid ""
@@ -109,6 +154,27 @@ msgid ""
 " to each participant, and the two variables ``choice_1`` and ``choice_2``"
 " that indicate the card suits that people chose."
 msgstr ""
+"Im Laufe der Jahre haben viele Studien gezeigt, dass es Menschen "
+"schwerfällt, den Zufall zu simulieren. So sehr wir auch versuchen, nach dem "
+"Zufallsprinzip zu handeln, wir *denken* in Mustern und Strukturen. Wenn man "
+"uns bittet, „etwas nach dem Zufallsprinzip zu tun“, ist das, was Menschen "
+"tatsächlich tun, alles andere als zufällig. Die Untersuchung der "
+"menschlichen Zufälligkeit (oder Nicht-Zufälligkeit, je nachdem) wirft daher "
+"viele tiefgreifende psychologische Fragen darüber auf, wie wir über die Welt "
+"denken. Betrachten wir in diesem Zusammenhang eine sehr einfache Studie. "
+"Nehmen wir an, ich würde die Teilnehmer bitten, sich ein gemischtes "
+"Kartenspiel vorzustellen und in Gedanken eine Karte aus diesem imaginären "
+"Kartenspiel „zufällig“ auszuwählen. Nachdem sie sich für eine Karte "
+"entschieden haben, bitte ich sie, gedanklich eine zweite Karte auszuwählen. "
+"Bei beiden Karten wird die Farbe (Herz, Kreuz, Pik oder Karo) betrachtet, "
+"die die Teilnehmer gewählt haben. Nachdem ich, sagen wir, *N* =200 Personen "
+"gebeten habe, dies zu tun, möchte ich mir die Daten ansehen und "
+"herausfinden, ob die Karten, die die Leute wählten, wirklich zufällig waren "
+"oder nicht. Die Daten sind im Datensatz |randomness|_ enthalten, in dem man, "
+"wenn man ihn in jamovi öffnet und sich die Tabellenansicht ansieht, drei "
+"Variablen sieht. Diese sind eine ``id`` Variable, die jedem Teilnehmer einen "
+"eindeutigen Identifikator zuweist, und die beiden Variablen ``choice_1`` und "
+"``choice_2``, welche die von den Teilnehmern gewählten Kartenfarben angeben."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:40
 msgid ""
@@ -2281,14 +2347,3 @@ msgid ""
 "The latter is a more advanced text, so it’s probably not wise to jump "
 "straight from this book to that one."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
