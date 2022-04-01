@@ -1895,8 +1895,3 @@ msgid ""
 "summarising."
 msgstr ""
 
-#~ msgid ""
-#~ "Estimate of Soviet repression deaths, "
-#~ "1937-1938 (`Ellman, 2002 "
-#~ "<References.html#ellman-2002>`__\\ )"
-#~ msgstr ""

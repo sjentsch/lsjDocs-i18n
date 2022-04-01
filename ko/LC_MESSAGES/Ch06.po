@@ -1314,6 +1314,4 @@ msgid ""
 "sign, you would type the following:"
 msgstr ""
 
-#~ msgid "``CEIL()``"
-#~ msgstr "``CEIL()``"
 
