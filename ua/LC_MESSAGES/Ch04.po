@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-02 16:33+0100\n"
+"POT-Creation-Date: 2022-04-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,20 +34,21 @@ msgid ""
 "this topic that we’ll consider in this chapter, but before going into any"
 " details, let’s take a moment to get a sense of why we need descriptive "
 "statistics. To do this, let’s open the |aflsmall_margins|_ data set and "
-"see what variables are stored in the file."
+"see what variables are stored in the file (:numref:`fig-"
+"aflsmall_margins`)."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:34
+#: ../../Ch04/Ch04_Descriptives.rst:35
 msgid "Variables stored in ``aflsmall margins``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:34
+#: ../../Ch04/Ch04_Descriptives.rst:35
 msgid ""
 "Screenshot of jamovi showing the variables in the |aflsmall_margins|_ "
 "data set"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:39
+#: ../../Ch04/Ch04_Descriptives.rst:40
 msgid ""
 "In fact, there is just one variable here, ``afl.margins``. We’ll focus a "
 "bit on this variable in this chapter, so I’d better tell you what it is. "
@@ -57,7 +58,7 @@ msgid ""
 "for all 176 home and away games played during the 2010 season."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:46
+#: ../../Ch04/Ch04_Descriptives.rst:47
 msgid ""
 "This output doesn’t make it easy to get a sense of what the data are "
 "actually saying. Just “looking at the data” isn’t a terribly effective "
@@ -74,18 +75,18 @@ msgid ""
 "representation of the ``afl.margins`` variable."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:65
+#: ../../Ch04/Ch04_Descriptives.rst:66
 msgid "Histogram of AFL 2010 winning margin data"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:65
+#: ../../Ch04/Ch04_Descriptives.rst:66
 msgid ""
 "Histogram of the AFL 2010 winning margin data (the ``afl.margins`` "
 "variable). As you might expect, the larger the winning margin the less "
 "frequently you tend to see it."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:74
+#: ../../Ch04/Ch04_Descriptives.rst:75
 msgid ""
 "Note for non-Australians: the AFL is an Australian rules football "
 "competition. You don’t need to know anything about Australian rules in "
@@ -582,7 +583,17 @@ msgid ""
 "|aflsmall_finalists|_ data set"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:318
+#: ../../Ch04/Ch04_Descriptives_1.rst:321
+msgid "Frequency table for ``afl.margins`` in ``aflsmall_finalists``"
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_1.rst:321
+msgid ""
+"Screenshot of jamovi showing the frequency table for the "
+"``afl.finalists`` variable in the |aflsmall_finalists|_ data set"
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_1.rst:327
 msgid ""
 "What we *could* do is read through all 400 entries and count the number "
 "of occasions on which each team name appears in our list of finalists, "
@@ -593,17 +604,7 @@ msgid ""
 "and you should get something like :numref:`fig-aflsmall_finalists_mode`."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:332
-msgid "Frequency table for ``afl.margins`` in ``aflsmall_finalists``"
-msgstr ""
-
-#: ../../Ch04/Ch04_Descriptives_1.rst:332
-msgid ""
-"Screenshot of jamovi showing the frequency table for the "
-"``afl.finalists`` variable in the |aflsmall_finalists|_ data set"
-msgstr ""
-
-#: ../../Ch04/Ch04_Descriptives_1.rst:337
+#: ../../Ch04/Ch04_Descriptives_1.rst:335
 msgid ""
 "Now that we have our frequency table we can just look at it and see that,"
 " over the 24 years for which we have data, Geelong has played in more "
@@ -616,7 +617,7 @@ msgid ""
 "these values."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:347
+#: ../../Ch04/Ch04_Descriptives_1.rst:345
 msgid ""
 "One last point to make regarding the mode. Whilst the mode is most often "
 "calculated when you have nominal data, because means and medians are "
@@ -642,15 +643,15 @@ msgid ""
 "should bet on a 3 point margin."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:374
+#: ../../Ch04/Ch04_Descriptives_1.rst:372
 msgid "Modal value in of ``afl.margins`` in ``aflsmall_finalists``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:374
+#: ../../Ch04/Ch04_Descriptives_1.rst:372
 msgid "Screenshot of jamovi showing the modal value for the afl.margins variable"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:381
+#: ../../Ch04/Ch04_Descriptives_1.rst:379
 msgid ""
 "The choice to use *Σ* to denote summation isn’t arbitrary. It’s the Greek"
 " upper case letter sigma, which is the analogue of the letter S in that "
@@ -1406,39 +1407,40 @@ msgid ""
 "margins data is somewhat skewed (0.780 / 0.183 = 4.262)."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:67
-msgid "Illustration of kurtosis"
-msgstr ""
-
-#: ../../Ch04/Ch04_Descriptives_3.rst:67
-msgid ""
-"Illustration of kurtosis. On the left, we have a “platykurtic” data set "
-"(kurtosis = -.95) meaning that the data set is “too flat”. In the middle "
-"we have a “mesokurtic” data set (kurtosis is almost exactly 0) which "
-"means that the pointiness of the data is just about right. Finally, on "
-"the right, we have a “leptokurtic” data set (kurtosis “ 2.12) indicating "
-"that the data set is “too pointy”. Note that kurtosis is measured with "
-"respect to a normal curve (black line)."
-msgstr ""
-
-#: ../../Ch04/Ch04_Descriptives_3.rst:77
+#: ../../Ch04/Ch04_Descriptives_3.rst:61
 msgid ""
 "The final measure that is sometimes referred to, though very rarely in "
 "practice, is the **kurtosis** of a data set. Put simply, kurtosis is a "
-"measure of the “pointiness” of a data set, as illustrated in :numref"
-":`fig-kurtosis`. By convention, we say that the “normal curve” (black "
-"lines) has zero kurtosis, so the pointiness of a data set is assessed "
-"relative to this curve."
+"measure of how thin or fat the tails of a distribution are, as "
+"illustrated in :numref:`fig-kurtosis`. By convention, we say that the "
+"“normal curve” (black lines) has zero kurtosis, and the degree of "
+"kurtosis is assessed relative to this curve."
+msgstr ""
+
+msgid "Illustration of kurtosis"
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_3.rst:73
+msgid ""
+"An illustration of kurtosis. On the left, we have a “platykurtic” "
+"distribution (kurtosis = -.95) meaning that the distribution has ``thin''"
+" or flat tails. In the middle we have a “mesokurtic” distribution "
+"(kurtosis is almost exactly 0) which means that the tails are neither "
+"thin or fat. Finally, on the right, we have a “leptokurtic” distribution "
+"(kurtosis = 2.12) indicating that the distribution has “fat” tails. Note "
+"that kurtosis is measured with respect to a normal distribution (black "
+"line)."
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:83
 msgid ""
-"The data in the left panel of :numref:`fig-kurtosis` are not pointy "
-"enough, so the kurtosis is negative and we call the data *platykurtic*. "
-"The data in the right panel are too pointy, so the kurtosis is positive "
-"and we say that the data is *leptokurtic*. Only the data in the middle "
-"panel are just pointy enough, so we say that it is *mesokurtic* and has "
-"kurtosis zero. This is summarised in the table below:"
+"The data in the left panel of :numref:`fig-kurtosis` have a pretty flat "
+"distribution, with thin tails, so the kurtosis is negative and we call "
+"the data *platykurtic*. The data in the right panel have a distribution "
+"with fat tails, so the kurtosis is positive and we say that the data is "
+"*leptokurtic*. Only the data in the middle panel have neither thin or fat"
+" tails, so we say that it is *mesokurtic* and has kurtosis zero. This is "
+"summarised in the table below:"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:91
@@ -1454,7 +1456,7 @@ msgid "kurtosis value"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:93
-msgid "“too flat”"
+msgid "“tails to thin”"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:93
@@ -1466,7 +1468,7 @@ msgid "negative"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:95
-msgid "“just pointy enough”"
+msgid "“tails neither thin or fat”"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:95
@@ -1478,7 +1480,7 @@ msgid "zero"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:97
-msgid "“too pointy”"
+msgid "“tails too fat”"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:97
@@ -1517,7 +1519,7 @@ msgid ""
 "More to the point, jamovi has a check box for kurtosis just below the "
 "check box for skewness, and this gives a value for kurtosis of **0.101** "
 "with a standard error of **0.364**. This means that the AFL winning "
-"margins data are just pointy enough."
+"margins data has only a small kurtosis, which is ok."
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:118
@@ -1891,4 +1893,92 @@ msgid ""
 "need to think about the individual events that your statistics are "
 "summarising."
 msgstr ""
+
+#~ msgid ""
+#~ "Any time that you get a new "
+#~ "data set to look at one of "
+#~ "the first tasks that you have to"
+#~ " do is find ways of summarising "
+#~ "the data in a compact, easily "
+#~ "understood fashion. This is what "
+#~ "**descriptive statistics** (as opposed to "
+#~ "inferential statistics) is all about. In"
+#~ " fact, to many people the term "
+#~ "“statistics” is synonymous with descriptive"
+#~ " statistics. It is this topic that"
+#~ " we’ll consider in this chapter, but"
+#~ " before going into any details, let’s"
+#~ " take a moment to get a sense"
+#~ " of why we need descriptive "
+#~ "statistics. To do this, let’s open "
+#~ "the |aflsmall_margins|_ data set and see"
+#~ " what variables are stored in the "
+#~ "file."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Illustration of kurtosis. On the left,"
+#~ " we have a “platykurtic” data set "
+#~ "(kurtosis = -.95) meaning that the "
+#~ "data set is “too flat”. In the "
+#~ "middle we have a “mesokurtic” data "
+#~ "set (kurtosis is almost exactly 0) "
+#~ "which means that the pointiness of "
+#~ "the data is just about right. "
+#~ "Finally, on the right, we have a"
+#~ " “leptokurtic” data set (kurtosis “ "
+#~ "2.12) indicating that the data set "
+#~ "is “too pointy”. Note that kurtosis "
+#~ "is measured with respect to a "
+#~ "normal curve (black line)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The final measure that is sometimes "
+#~ "referred to, though very rarely in "
+#~ "practice, is the **kurtosis** of a "
+#~ "data set. Put simply, kurtosis is "
+#~ "a measure of the “pointiness” of a"
+#~ " data set, as illustrated in :numref"
+#~ ":`fig-kurtosis`. By convention, we say "
+#~ "that the “normal curve” (black lines)"
+#~ " has zero kurtosis, so the pointiness"
+#~ " of a data set is assessed "
+#~ "relative to this curve."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The data in the left panel of "
+#~ ":numref:`fig-kurtosis` are not pointy "
+#~ "enough, so the kurtosis is negative "
+#~ "and we call the data *platykurtic*. "
+#~ "The data in the right panel are"
+#~ " too pointy, so the kurtosis is "
+#~ "positive and we say that the data"
+#~ " is *leptokurtic*. Only the data in"
+#~ " the middle panel are just pointy "
+#~ "enough, so we say that it is "
+#~ "*mesokurtic* and has kurtosis zero. This"
+#~ " is summarised in the table below:"
+#~ msgstr ""
+
+#~ msgid "“too flat”"
+#~ msgstr ""
+
+#~ msgid "“just pointy enough”"
+#~ msgstr ""
+
+#~ msgid "“too pointy”"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "More to the point, jamovi has a"
+#~ " check box for kurtosis just below"
+#~ " the check box for skewness, and "
+#~ "this gives a value for kurtosis of"
+#~ " **0.101** with a standard error of"
+#~ " **0.364**. This means that the AFL"
+#~ " winning margins data are just pointy"
+#~ " enough."
+#~ msgstr ""
 

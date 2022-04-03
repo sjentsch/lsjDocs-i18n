@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-02 03:54+0100\n"
+"POT-Creation-Date: 2022-04-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "The data"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:15
+#: ../../Ch12/Ch12_Regression_01.rst:14
 msgid "Descriptive statistics for the |parenthood|_ data set."
 msgstr ""
 
@@ -411,7 +411,7 @@ msgid ""
 "interpretcorrelations` is pretty typical."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:221
+#: ../../Ch12/Ch12_Regression_01.rst:220
 msgid ""
 "A rough guide to interpreting correlations. Note that I say a *rough* "
 "guide. There aren’t hard and fast rules for what counts as strong or weak"
@@ -1156,7 +1156,7 @@ msgstr ""
 msgid ""
 "The simple linear regression model that we’ve discussed up to this point "
 "assumes that there’s a single predictor variable that you’re interested "
-"in, in this case ``dan.sleep``. In fact, up to this point *every* "
+"in, in this case ``dani.sleep``. In fact, up to this point *every* "
 "statistical tool that we’ve talked about has assumed that your analysis "
 "uses one predictor variable and one outcome variable. However, in many "
 "(perhaps most) research projects you actually have multiple predictors "
@@ -1171,13 +1171,13 @@ msgid ""
 "Multiple regression is conceptually very simple. All we do is add more "
 "terms to our regression equation. Let’s suppose that we’ve got two "
 "variables that we’re interested in; perhaps we want to use both "
-"``dan.sleep`` and ``baby.sleep`` to predict the ``dan.grump`` variable. "
-"As before, we let *Y*\\ :sub:`i` refer to my grumpiness on the i-th day. "
-"But now we have two *X* variables: the first corresponding to the amount "
-"of sleep I got and the second corresponding to the amount of sleep my son"
-" got. So we’ll let *X*\\ :sub:`i1` refer to the hours I slept on the i-th"
-" day and *X*\\ :sub:`i2` refers to the hours that the baby slept on that "
-"day. If so, then we can write our regression model like this:"
+"``dani.sleep`` and ``baby.sleep`` to predict the ``dani.grump`` variable."
+" As before, we let *Y*\\ :sub:`i` refer to my grumpiness on the i-th day."
+" But now we have two *X* variables: the first corresponding to the amount"
+" of sleep I got and the second corresponding to the amount of sleep my "
+"son got. So we’ll let *X*\\ :sub:`i1` refer to the hours I slept on the "
+"i-th day and *X*\\ :sub:`i2` refers to the hours that the baby slept on "
+"that day. If so, then we can write our regression model like this:"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:29
@@ -1209,17 +1209,57 @@ msgstr ""
 msgid ""
 "Multiple regression in jamovi is no different to simple regression. All "
 "we have to do is add additional variables to the ``Covariates`` box in "
-"jamovi. For example, if we want to use both ``dan.sleep`` and "
+"jamovi. For example, if we want to use both ``dani.sleep`` and "
 "``baby.sleep`` as predictors in our attempt to explain why I’m so grumpy,"
 " then move ``baby.sleep`` across into the ``Covariates`` box alongside "
-"``dan.sleep``. By default, jamovi assumes that the model should include "
+"``dani.sleep``. By default, jamovi assumes that the model should include "
 "an intercept. The coefficients we get this time are:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:58
+#: ../../Ch12/Ch12_Regression_05.rst:53
 msgid ""
-"The coefficient associated with ``dan.sleep`` is quite large, suggesting "
-"that every hour of sleep I lose makes me a lot grumpier. However, the "
+"Model coefficients for the linear model predicting ``dani.grump`` using "
+"``baby.sleep`` and ``dani.sleep`` (from the |parenthood|_ data set)."
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:58
+msgid "Predictor"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:58
+msgid "Estimate"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:60
+msgid "Intercept"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:60
+msgid "125.966"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:62
+msgid "``dani.sleep``"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:62
+#, fuzzy
+msgid "−8.950"
+msgstr "8.05"
+
+#: ../../Ch12/Ch12_Regression_05.rst:64
+msgid "``baby.sleep``"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_05.rst:64
+#, fuzzy
+msgid "0.011"
+msgstr "10.05"
+
+#: ../../Ch12/Ch12_Regression_05.rst:67
+msgid ""
+"The coefficient associated with ``dani.sleep`` is quite large, suggesting"
+" that every hour of sleep I lose makes me a lot grumpier. However, the "
 "coefficient for ``baby.sleep`` is very small, suggesting that it doesn’t "
 "really matter how much sleep my son gets. What matters as far as my "
 "grumpiness goes is how much sleep *I* get. To get a sense of what this "
@@ -1228,27 +1268,27 @@ msgid ""
 "itself."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:73
+#: ../../Ch12/Ch12_Regression_05.rst:82
 msgid "3D visualisation of a multiple regression model"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:73
+#: ../../Ch12/Ch12_Regression_05.rst:82
 msgid ""
 "3D visualisation of a multiple regression model: There are two predictors"
-" in the model, ``dan.sleep`` and ``baby.sleep`` and the outcome variable "
-"is ``dan.grump``. Together, these three variables form a 3D space. Each "
-"observation (dot) is a point in this space. In much the same way that a "
+" in the model, ``dani.sleep`` and ``baby.sleep`` and the outcome variable"
+" is ``dani.grump``. Together, these three variables form a 3D space. Each"
+" observation (dot) is a point in this space. In much the same way that a "
 "simple linear regression model forms a line in 2D space, this multiple "
 "regression model forms a plane in 3D space. When we estimate the "
 "regression coefficients what we’re trying to do is find a plane that is "
 "as close to all the blue dots as possible."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:85
+#: ../../Ch12/Ch12_Regression_05.rst:94
 msgid "Formula for the general case"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:87
+#: ../../Ch12/Ch12_Regression_05.rst:96
 msgid ""
 "The equation that I gave above shows you what a multiple regression model"
 " looks like when you include two predictors. Not surprisingly, then, if "
@@ -1257,7 +1297,7 @@ msgid ""
 "variables in the model then the regression equation looks like this"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:94
+#: ../../Ch12/Ch12_Regression_05.rst:103
 msgid ""
 "Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
 "\n"
@@ -1647,22 +1687,19 @@ msgid ""
 "rejecting the null) doesn’t imply that the model is good! Why is that, "
 "you might be wondering? The answer to that can be found by looking at the"
 " coefficients for the multiple regression model we have already looked at"
-" in section :doc:`Multiple linear regression "
-"<../Ch12/Ch12_Regression_05>` above, where the coefficients we got were:"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_07.rst:92
-msgid ""
-"I can’t help but notice that the estimated regression coefficient for the"
-" ``baby.sleep`` variable is tiny (0.01), relative to the value that we "
-"get for ``dani.sleep`` (-8.95). Given that these two variables are "
+" :numref:`tab-parent_coeff` in section :doc:`Multiple linear regression "
+"<../Ch12/Ch12_Regression_05>` above, where the coefficients we got were "
+"125.966 (for the intercept), -8.950 (for ``dani.sleep``) and 0.011 (for "
+"``baby.sleep``). I can’t help but notice that the estimated regression "
+"coefficient for the ``baby.sleep`` variable is tiny, relative to the "
+"value that we get for ``dani.sleep``. Given that these two variables are "
 "absolutely on the same scale (they’re both measured in “hours slept”), I "
 "find this illuminating. In fact, I’m beginning to suspect that it’s "
 "really only the amount of sleep that *I* get that matters in order to "
 "predict my grumpiness."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:100
+#: ../../Ch12/Ch12_Regression_07.rst:94
 msgid ""
 "We can re-use a hypothesis test that we discussed earlier, the *t*-test. "
 "The test that we’re interested in has a null hypothesis that the true "
@@ -1670,15 +1707,15 @@ msgid ""
 "the alternative hypothesis that it isn’t (*b* ≠ 0). That is:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:106
+#: ../../Ch12/Ch12_Regression_07.rst:100
 msgid "H\\ :sub:`0`: *b* = 0"
 msgstr "H\\ :sub:`0`: *b* = 0"
 
-#: ../../Ch12/Ch12_Regression_07.rst:107
+#: ../../Ch12/Ch12_Regression_07.rst:101
 msgid "H\\ :sub:`1`: *b* ≠ 0"
 msgstr "H\\ :sub:`1`: *b* ≠ 0"
 
-#: ../../Ch12/Ch12_Regression_07.rst:109
+#: ../../Ch12/Ch12_Regression_07.rst:103
 msgid ""
 "How can we test this? Well, if the central limit theorem is kind to us we"
 " might be able to guess that the sampling distribution of "
@@ -1693,7 +1730,7 @@ msgid ""
 "let’s define a *t*-statistic like this:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:120
+#: ../../Ch12/Ch12_Regression_07.rst:114
 msgid ""
 "t = \\frac{\\hat{b}}{SE(\\hat{b})}\n"
 "\n"
@@ -1701,7 +1738,7 @@ msgstr ""
 "t = \\frac{\\hat{b}}{SE(\\hat{b})}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_07.rst:122
+#: ../../Ch12/Ch12_Regression_07.rst:116
 msgid ""
 "I’ll skip over the reasons why, but our degrees of freedom in this case "
 "are *df* = N - K - 1. Irritatingly, the estimate of the standard error of"
@@ -1715,7 +1752,7 @@ msgid ""
 "violations of the homogeneity of variance assumption (discussed shortly)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:133
+#: ../../Ch12/Ch12_Regression_07.rst:127
 msgid ""
 "In any case, this *t*-statistic can be interpreted in the same way as the"
 " *t*-statistics that we discussed in chapter :doc:`Comparing two means "
@@ -1725,11 +1762,11 @@ msgid ""
 "zero) that suggest that you should reject the null hypothesis."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:141
+#: ../../Ch12/Ch12_Regression_07.rst:135
 msgid "Running the hypothesis tests in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:143
+#: ../../Ch12/Ch12_Regression_07.rst:137
 msgid ""
 "To compute all of the statistics that we have talked about so far, all "
 "you need to do is make sure the relevant options are checked in jamovi "
@@ -1737,17 +1774,17 @@ msgid ""
 "get a whole bunch of useful output."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:153
+#: ../../Ch12/Ch12_Regression_07.rst:148
 msgid "jamovi screenshot showing a multiple linear regression"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:153
+#: ../../Ch12/Ch12_Regression_07.rst:148
 msgid ""
 "jamovi screenshot showing a multiple linear regression analysis, with "
 "some useful options checked."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:158
+#: ../../Ch12/Ch12_Regression_07.rst:153
 #, python-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
@@ -1766,7 +1803,7 @@ msgid ""
 "[#]_"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:174
+#: ../../Ch12/Ch12_Regression_07.rst:169
 #, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
@@ -1787,7 +1824,7 @@ msgid ""
 "model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:194
+#: ../../Ch12/Ch12_Regression_07.rst:189
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = "
 "y - X \\hat{b}`. For K predictors plus the intercept, the estimated "
@@ -1797,7 +1834,7 @@ msgid ""
 "diagonal of which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:204
+#: ../../Ch12/Ch12_Regression_07.rst:199
 msgid ""
 "Note that, although jamovi has done multiple tests here, it hasn’t done a"
 " Bonferroni correction or anything. These are standard one-sample "
@@ -1955,16 +1992,16 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_08.rst:107
 msgid ""
-"This clearly shows that the ``dani.sleep`` variable has a much stronger "
-"effect than the ``baby.sleep`` variable. However, this is a perfect "
-"example of a situation where it would probably make sense to use the "
-"original coefficients *b* rather than the standardised coefficients *β*. "
-"After all, my sleep and the baby’s sleep are *already* on the same scale:"
-" number of hours slept. Why complicate matters by converting these to "
-"*z*-scores?"
+"These results clearly show that the ``dani.sleep`` variable has a much "
+"stronger effect than the ``baby.sleep`` variable. However, this is a "
+"perfect example of a situation where it would probably make sense to use "
+"the original coefficients *b* rather than the standardised coefficients "
+"*β*. After all, my sleep and the baby’s sleep are *already* on the same "
+"scale: number of hours slept. Why complicate matters by converting these "
+"to *z*-scores?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:118
+#: ../../Ch12/Ch12_Regression_08.rst:117
 msgid ""
 "Strictly, you standardise all the *regressors*. That is, every “thing” "
 "that has a regression coefficient associated with it in the model. For "
@@ -2989,4 +3026,160 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_12.rst:27
 msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_11>`"
 msgstr ""
+
+#~ msgid ""
+#~ "The simple linear regression model that"
+#~ " we’ve discussed up to this point "
+#~ "assumes that there’s a single predictor"
+#~ " variable that you’re interested in, "
+#~ "in this case ``dan.sleep``. In fact, "
+#~ "up to this point *every* statistical "
+#~ "tool that we’ve talked about has "
+#~ "assumed that your analysis uses one "
+#~ "predictor variable and one outcome "
+#~ "variable. However, in many (perhaps "
+#~ "most) research projects you actually "
+#~ "have multiple predictors that you want"
+#~ " to examine. If so, it would be"
+#~ " nice to be able to extend the"
+#~ " linear regression framework to be "
+#~ "able to include multiple predictors. "
+#~ "Perhaps some kind of **multiple "
+#~ "regression** model would be in order?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Multiple regression is conceptually very "
+#~ "simple. All we do is add more "
+#~ "terms to our regression equation. Let’s"
+#~ " suppose that we’ve got two variables"
+#~ " that we’re interested in; perhaps we"
+#~ " want to use both ``dan.sleep`` and"
+#~ " ``baby.sleep`` to predict the "
+#~ "``dan.grump`` variable. As before, we "
+#~ "let *Y*\\ :sub:`i` refer to my "
+#~ "grumpiness on the i-th day. But "
+#~ "now we have two *X* variables: the"
+#~ " first corresponding to the amount of"
+#~ " sleep I got and the second "
+#~ "corresponding to the amount of sleep "
+#~ "my son got. So we’ll let *X*\\ "
+#~ ":sub:`i1` refer to the hours I "
+#~ "slept on the i-th day and *X*\\"
+#~ " :sub:`i2` refers to the hours that"
+#~ " the baby slept on that day. If"
+#~ " so, then we can write our "
+#~ "regression model like this:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Multiple regression in jamovi is no "
+#~ "different to simple regression. All we"
+#~ " have to do is add additional "
+#~ "variables to the ``Covariates`` box in"
+#~ " jamovi. For example, if we want "
+#~ "to use both ``dan.sleep`` and "
+#~ "``baby.sleep`` as predictors in our "
+#~ "attempt to explain why I’m so "
+#~ "grumpy, then move ``baby.sleep`` across "
+#~ "into the ``Covariates`` box alongside "
+#~ "``dan.sleep``. By default, jamovi assumes "
+#~ "that the model should include an "
+#~ "intercept. The coefficients we get this"
+#~ " time are:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The coefficient associated with ``dan.sleep``"
+#~ " is quite large, suggesting that "
+#~ "every hour of sleep I lose makes"
+#~ " me a lot grumpier. However, the "
+#~ "coefficient for ``baby.sleep`` is very "
+#~ "small, suggesting that it doesn’t really"
+#~ " matter how much sleep my son "
+#~ "gets. What matters as far as my"
+#~ " grumpiness goes is how much sleep"
+#~ " *I* get. To get a sense of "
+#~ "what this multiple regression model "
+#~ "looks like, :numref:`fig-scatter3d_1` shows"
+#~ " a 3D plot that plots all three"
+#~ " variables, along with the regression "
+#~ "model itself."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "3D visualisation of a multiple "
+#~ "regression model: There are two "
+#~ "predictors in the model, ``dan.sleep`` "
+#~ "and ``baby.sleep`` and the outcome "
+#~ "variable is ``dan.grump``. Together, these "
+#~ "three variables form a 3D space. "
+#~ "Each observation (dot) is a point "
+#~ "in this space. In much the same"
+#~ " way that a simple linear regression"
+#~ " model forms a line in 2D "
+#~ "space, this multiple regression model "
+#~ "forms a plane in 3D space. When"
+#~ " we estimate the regression coefficients"
+#~ " what we’re trying to do is "
+#~ "find a plane that is as close "
+#~ "to all the blue dots as possible."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The *F*-test that we’ve just introduced"
+#~ " is useful for checking that the "
+#~ "model as a whole is performing "
+#~ "better than chance. If your regression"
+#~ " model doesn’t produce a significant "
+#~ "result for the *F*-test then you "
+#~ "probably don’t have a very good "
+#~ "regression model (or, quite possibly, "
+#~ "you don’t have very good data). "
+#~ "However, while failing this test is "
+#~ "a pretty strong indicator that the "
+#~ "model has problems, *passing* the test"
+#~ " (i.e., rejecting the null) doesn’t "
+#~ "imply that the model is good! Why"
+#~ " is that, you might be wondering? "
+#~ "The answer to that can be found"
+#~ " by looking at the coefficients for"
+#~ " the multiple regression model we "
+#~ "have already looked at in section "
+#~ ":doc:`Multiple linear regression "
+#~ "<../Ch12/Ch12_Regression_05>` above, where the "
+#~ "coefficients we got were:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "I can’t help but notice that the"
+#~ " estimated regression coefficient for the"
+#~ " ``baby.sleep`` variable is tiny (0.01),"
+#~ " relative to the value that we "
+#~ "get for ``dani.sleep`` (-8.95). Given "
+#~ "that these two variables are absolutely"
+#~ " on the same scale (they’re both "
+#~ "measured in “hours slept”), I find "
+#~ "this illuminating. In fact, I’m "
+#~ "beginning to suspect that it’s really"
+#~ " only the amount of sleep that "
+#~ "*I* get that matters in order to"
+#~ " predict my grumpiness."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This clearly shows that the "
+#~ "``dani.sleep`` variable has a much "
+#~ "stronger effect than the ``baby.sleep`` "
+#~ "variable. However, this is a perfect "
+#~ "example of a situation where it "
+#~ "would probably make sense to use "
+#~ "the original coefficients *b* rather "
+#~ "than the standardised coefficients *β*. "
+#~ "After all, my sleep and the baby’s"
+#~ " sleep are *already* on the same "
+#~ "scale: number of hours slept. Why "
+#~ "complicate matters by converting these "
+#~ "to *z*-scores?"
+#~ msgstr ""
 

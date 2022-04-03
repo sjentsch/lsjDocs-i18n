@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 20:50+0200\n"
+"POT-Creation-Date: 2022-04-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language: nn\n"
@@ -56,9 +56,9 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:26
 msgid ""
-"Navarro, D. J., & Foxcroft, D. R. (2019). *learning statistics with "
+"Navarro, D. J., & Foxcroft, D. R. (2022). *learning statistics with "
 "jamovi: a tutorial for psychology students and other beginners.* (Version"
-" 0.70). `https://doi.org/10.24384/hgc3-7p15 "
+" 0.75). `https://doi.org/10.24384/hgc3-7p15 "
 "<https://doi.org/10.24384/hgc3-7p15>`__"
 msgstr ""
 
@@ -78,10 +78,37 @@ msgid "Preface"
 msgstr ""
 
 #: ../../Other/Prologue.rst:40
-msgid "**Preface to Version 0.70**"
+msgid "**Preface to Version 0.75**"
 msgstr ""
 
 #: ../../Other/Prologue.rst:42
+msgid ""
+"In this version we have updated the figures, images and text to maintain "
+"compatibility with latest versions of jamovi; many thanks to Peter Fisk "
+"for his help with this. Also tweaked and corrected are a few sections "
+"where improvements have been suggested by readers. This has mainly "
+"included fixing typos but also in places correcting conceptual detail, "
+"for example we have updated the information on kurtosis to reflect that "
+"it isn't really about distribution “pointiness” and instead kurtosis is "
+"about whether data distributions have thin or fat tails. Thanks to all "
+"the readers who made suggestions, either through contacting me by email, "
+"or raising an issue on github."
+msgstr ""
+
+#: ../../Other/Prologue.rst:53 ../../Other/Prologue.rst:83
+#: ../../Other/Prologue.rst:107
+msgid "*David Foxcroft*"
+msgstr ""
+
+#: ../../Other/Prologue.rst:54
+msgid "*February 9th, 2022"
+msgstr ""
+
+#: ../../Other/Prologue.rst:57
+msgid "**Preface to Version 0.70**"
+msgstr ""
+
+#: ../../Other/Prologue.rst:59
 msgid ""
 "This update from version 0.65 introduces some new analyses. In the ANOVA "
 "chapters we have added sections on repeated measures ANOVA and analysis "
@@ -99,7 +126,7 @@ msgid ""
 "over it and therefore the boxing of these parts should help some readers."
 msgstr ""
 
-#: ../../Other/Prologue.rst:58
+#: ../../Other/Prologue.rst:75
 msgid ""
 "With this version I am very grateful to comments and feedback received "
 "from my students and colleagues, notably Wakefield Morys-Carter, and also"
@@ -110,19 +137,15 @@ msgid ""
 "helping with that."
 msgstr ""
 
-#: ../../Other/Prologue.rst:66 ../../Other/Prologue.rst:90
-msgid "*David Foxcroft*"
-msgstr ""
-
-#: ../../Other/Prologue.rst:67
+#: ../../Other/Prologue.rst:84
 msgid "*February 1st, 2019*"
 msgstr ""
 
-#: ../../Other/Prologue.rst:70
+#: ../../Other/Prologue.rst:87
 msgid "**Preface to Version 0.65**"
 msgstr ""
 
-#: ../../Other/Prologue.rst:72
+#: ../../Other/Prologue.rst:89
 msgid ""
 "In this adaptation of the excellent “Learning statistics with R”, by "
 "Danielle Navarro, we have replaced the statistical software used for the "
@@ -139,22 +162,22 @@ msgid ""
 "community, for the scientific community."
 msgstr ""
 
-#: ../../Other/Prologue.rst:86
+#: ../../Other/Prologue.rst:103
 msgid ""
 "With this version I am very grateful for the help of others who have read"
 " through drafts and provided excellent suggestions and corrections, "
 "particularly Dr David Emery and Kirsty Walter."
 msgstr ""
 
-#: ../../Other/Prologue.rst:91
+#: ../../Other/Prologue.rst:108
 msgid "*July 1st, 2018*"
 msgstr ""
 
-#: ../../Other/Prologue.rst:94
+#: ../../Other/Prologue.rst:111
 msgid "**Preface to Version 0.6**"
 msgstr ""
 
-#: ../../Other/Prologue.rst:96
+#: ../../Other/Prologue.rst:113
 msgid ""
 "The book hasn’t changed much since 2015 when I released Version 0.5 – "
 "it’s probably fair to say that I’ve changed more than it has. I moved "
@@ -164,7 +187,7 @@ msgid ""
 "this actually. A few quick comments..."
 msgstr ""
 
-#: ../../Other/Prologue.rst:103
+#: ../../Other/Prologue.rst:120
 msgid ""
 "Weirdly, the book *consistently* misgenders me, but I suppose I have only"
 " myself to blame for that one :-) There’s now a brief footnote on page 12"
@@ -174,7 +197,7 @@ msgid ""
 "bothered updating the text in the book."
 msgstr ""
 
-#: ../../Other/Prologue.rst:110
+#: ../../Other/Prologue.rst:127
 msgid ""
 "For Version 0.6 I haven’t changed much I’ve made a few minor changes when"
 " people have pointed out typos or other errors. In particular it’s worth "
@@ -185,7 +208,7 @@ msgid ""
 "please take care with that one."
 msgstr ""
 
-#: ../../Other/Prologue.rst:118
+#: ../../Other/Prologue.rst:135
 msgid ""
 "The biggest change really is the licensing! I’ve released it under a "
 "Creative Commons licence (CC BY-SA 4.0, specifically), and placed all the"
@@ -193,27 +216,27 @@ msgid ""
 "adapt it."
 msgstr ""
 
-#: ../../Other/Prologue.rst:123
+#: ../../Other/Prologue.rst:140
 msgid ""
 "Maybe someone would like to write a version that makes use of the "
 "**tidyverse**... I hear that’s become rather important to R these days "
 ":-)"
 msgstr ""
 
-#: ../../Other/Prologue.rst:127
+#: ../../Other/Prologue.rst:144
 msgid "Best,"
 msgstr ""
 
-#: ../../Other/Prologue.rst:129 ../../Other/Prologue.rst:147
-#: ../../Other/Prologue.rst:179 ../../Other/Prologue.rst:289
+#: ../../Other/Prologue.rst:146 ../../Other/Prologue.rst:164
+#: ../../Other/Prologue.rst:196 ../../Other/Prologue.rst:306
 msgid "*Danielle Navarro*"
 msgstr ""
 
-#: ../../Other/Prologue.rst:132
+#: ../../Other/Prologue.rst:149
 msgid "**Preface to Version 0.5**"
 msgstr ""
 
-#: ../../Other/Prologue.rst:134
+#: ../../Other/Prologue.rst:151
 msgid ""
 "Another year, another update. This time around, the update has focused "
 "almost entirely on the theory sections of the book. Chapters 9, 10 and 11"
@@ -229,15 +252,15 @@ msgid ""
 "deadlines, so the update has to go out the way it is!"
 msgstr ""
 
-#: ../../Other/Prologue.rst:148
+#: ../../Other/Prologue.rst:165
 msgid "*February 16, 2015*"
 msgstr ""
 
-#: ../../Other/Prologue.rst:151
+#: ../../Other/Prologue.rst:168
 msgid "**Preface to Version 0.4**"
 msgstr ""
 
-#: ../../Other/Prologue.rst:153
+#: ../../Other/Prologue.rst:170
 msgid ""
 "A year has gone by since I wrote the last preface. The book has changed "
 "in a few important ways: Chapters 3 and 4 do a better job of documenting "
@@ -251,7 +274,7 @@ msgid ""
 " overall \\0.4 isn’t massively different from 0.3."
 msgstr ""
 
-#: ../../Other/Prologue.rst:164
+#: ../../Other/Prologue.rst:181
 msgid ""
 "I wish I’d had more time over the last 12 months to add more content. The"
 " absence of any discussion of repeated measures ANOVA and mixed models "
@@ -263,7 +286,7 @@ msgid ""
 " with any luck version 0.5 will be a bigger step forward."
 msgstr ""
 
-#: ../../Other/Prologue.rst:173
+#: ../../Other/Prologue.rst:190
 msgid ""
 "One thing that has surprised me is the number of downloads the book gets."
 " I finally got some basic tracking information from the website a couple "
@@ -272,21 +295,21 @@ msgid ""
 "least a few people who find the book useful!"
 msgstr ""
 
-#: ../../Other/Prologue.rst:180
+#: ../../Other/Prologue.rst:197
 msgid "*February 4, 2014*"
 msgstr ""
 
-#: ../../Other/Prologue.rst:183
+#: ../../Other/Prologue.rst:200
 msgid "**Preface to Version 0.3**"
 msgstr ""
 
-#: ../../Other/Prologue.rst:185
+#: ../../Other/Prologue.rst:202
 msgid ""
 "There’s a part of me that really doesn’t want to publish this book. It’s "
 "not finished."
 msgstr ""
 
-#: ../../Other/Prologue.rst:188
+#: ../../Other/Prologue.rst:205
 msgid ""
 "And when I say that, I mean it. The referencing is spotty at best, the "
 "chapter summaries are just lists of section titles, there’s no index, "
@@ -300,7 +323,7 @@ msgid ""
 "all."
 msgstr ""
 
-#: ../../Other/Prologue.rst:199
+#: ../../Other/Prologue.rst:216
 msgid ""
 "What this means is that if you are an academic looking for teaching "
 "materials, a Ph.D. student looking to learn R, or just a member of the "
@@ -315,19 +338,17 @@ msgid ""
 "my website for free, and I can distribute hard copies via a print-on-"
 "demand service for less than half what a textbook publisher would charge."
 " And so my guilt is assuaged, and I’m willing to share! With that in "
-"mind, you can obtain free soft copies and cheap hard copies online, from "
-"the following webpages:"
+"mind, you can obtain a free soft copy online from: "
+"https://learningstatisticswithr.com"
 msgstr ""
 
-#: ../../Other/Prologue.rst:215
-msgid "**Soft copy**: https://learningstatisticswithr.com"
+#: ../../Other/Prologue.rst:232
+msgid ""
+"(The hard copies that were earlier available are not available any longer"
+" and the respective link was removed)."
 msgstr ""
 
-#: ../../Other/Prologue.rst:216
-msgid "**Hard copy**: https://www.lulu.com/content/13570633"
-msgstr ""
-
-#: ../../Other/Prologue.rst:218
+#: ../../Other/Prologue.rst:235
 msgid ""
 "Even so, the warning still stands: what you are looking at is Version "
 "\\0.3 of a work in progress. If and when it hits Version 1.0, I would be "
@@ -338,7 +359,7 @@ msgid ""
 "really ambivalent about the work as it stands."
 msgstr ""
 
-#: ../../Other/Prologue.rst:226
+#: ../../Other/Prologue.rst:243
 msgid ""
 "All of the above being said, there is one group of people that I can "
 "enthusiastically endorse this book to: the psychology students taking our"
@@ -360,7 +381,7 @@ msgid ""
 "read the whole thing cover to cover!"
 msgstr ""
 
-#: ../../Other/Prologue.rst:245
+#: ../../Other/Prologue.rst:262
 msgid ""
 "Okay, with all that out of the way, I should say something about what the"
 " book aims to be. At its core, it is an introductory statistics textbook "
@@ -381,7 +402,7 @@ msgid ""
 " my intention is to add a lot more advanced content."
 msgstr ""
 
-#: ../../Other/Prologue.rst:263
+#: ../../Other/Prologue.rst:280
 msgid ""
 "My reasons for pursuing this approach are pretty simple: the students can"
 " handle it, and they even seem to enjoy it. Over the last few years I’ve "
@@ -402,7 +423,7 @@ msgid ""
 "employer without being dependent on expensive and proprietary software."
 msgstr ""
 
-#: ../../Other/Prologue.rst:281
+#: ../../Other/Prologue.rst:298
 msgid ""
 "Sadly, this book isn’t the silver bullet that makes all this possible. "
 "It’s a work in progress, and maybe when it is finished it will be a "
@@ -413,7 +434,7 @@ msgid ""
 "though it is."
 msgstr ""
 
-#: ../../Other/Prologue.rst:290
+#: ../../Other/Prologue.rst:307
 msgid "*January 13, 2013*"
 msgstr ""
 
@@ -1205,5 +1226,52 @@ msgid ""
 "assumptions are sensible."
 msgstr ""
 
+#~ msgid ""
+#~ "Navarro, D. J., & Foxcroft, D. R."
+#~ " (2019). *learning statistics with jamovi:"
+#~ " a tutorial for psychology students "
+#~ "and other beginners.* (Version 0.70). "
+#~ "`https://doi.org/10.24384/hgc3-7p15 "
+#~ "<https://doi.org/10.24384/hgc3-7p15>`__"
+#~ msgstr ""
 
+#~ msgid ""
+#~ "What this means is that if you "
+#~ "are an academic looking for teaching "
+#~ "materials, a Ph.D. student looking to"
+#~ " learn R, or just a member of"
+#~ " the general public interested in "
+#~ "statistics, I would advise you to "
+#~ "be cautious. What you’re looking at "
+#~ "is a first draft, and it may "
+#~ "not serve your purposes. If we "
+#~ "were living in the days when "
+#~ "publishing was expensive and the "
+#~ "internet wasn’t around, I would never"
+#~ " consider releasing a book in this"
+#~ " form. The thought of someone "
+#~ "shelling out $80 for this (which "
+#~ "is what a commercial publisher told "
+#~ "me it would retail for when they"
+#~ " offered to distribute it) makes me"
+#~ " feel more than a little "
+#~ "uncomfortable. However, it’s the 21st "
+#~ "century, so I can post the pdf "
+#~ "on my website for free, and I "
+#~ "can distribute hard copies via a "
+#~ "print-on-demand service for less than"
+#~ " half what a textbook publisher would"
+#~ " charge. And so my guilt is "
+#~ "assuaged, and I’m willing to share! "
+#~ "With that in mind, you can obtain"
+#~ " free soft copies and cheap hard "
+#~ "copies online, from the following "
+#~ "webpages:"
+#~ msgstr ""
+
+#~ msgid "**Soft copy**: https://learningstatisticswithr.com"
+#~ msgstr ""
+
+#~ msgid "**Hard copy**: https://www.lulu.com/content/13570633"
+#~ msgstr ""
 

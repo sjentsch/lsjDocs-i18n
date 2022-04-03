@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:28+0100\n"
+"POT-Creation-Date: 2022-04-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -273,12 +273,12 @@ msgid ""
 "Suppose, for instance, I wanted separate box plots showing the AFL "
 "margins not just for 2010 but for every year between 1987 and 2010. To do"
 " that the first thing we’ll have to do is find the data. These are stored"
-" in the |aflsmall2|_ data set. So let’s load it into jamovi and see what "
-"is in it. You will see that it is a pretty big data set. It contains 4296"
-" games and the variables that we’re interested in. What we want to do is "
-"have jamovi draw box plots for the ``margin`` variable, but plotted "
-"separately for each ``year``. The way to do this is to move the ``year`` "
-"variable across into the ``Split by`` box, as in :numref:`fig-"
+" in the |aflmarginbyyear|_ data set. So let’s load it into jamovi and see"
+" what is in it. You will see that it is a pretty big data set. It "
+"contains 4296 games and the variables that we’re interested in. What we "
+"want to do is have jamovi draw box plots for the ``margin`` variable, but"
+" plotted separately for each ``year``. The way to do this is to move the "
+"``year`` variable across into the ``Split by`` box, as in :numref:`fig-"
 "splitfile1`."
 msgstr ""
 
@@ -301,21 +301,11 @@ msgid ""
 "is going to learn anything useful."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:106
-msgid "Multiple box plots: ``margin`` split by ``year`` from ``aflsmall2``"
-msgstr ""
-
-#: ../../Ch05/Ch05_Graphics_2.rst:106
-msgid ""
-"Multiple box plots created in jamovi, for the variables ``margin`` split "
-"by ``year`` in the |aflsmall2|_ data set"
-msgstr ""
-
-#: ../../Ch05/Ch05_Graphics_2.rst:112
+#: ../../Ch05/Ch05_Graphics_2.rst:113
 msgid "Using box plots to detect outliers"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:114
+#: ../../Ch05/Ch05_Graphics_2.rst:115
 msgid ""
 "Because the box plot automatically separates out those observations that "
 "lie outside a certain range, depicting them with a dot in jamovi, people "
@@ -325,15 +315,15 @@ msgid ""
 "margins data and it came up looking like :numref:`fig-boxplot4`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:127
+#: ../../Ch05/Ch05_Graphics_2.rst:128
 msgid "Box plot with outliers"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:127
+#: ../../Ch05/Ch05_Graphics_2.rst:128
 msgid "Box plot showing two very suspicious outliers"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:131
+#: ../../Ch05/Ch05_Graphics_2.rst:132
 msgid ""
 "It’s pretty clear that something funny is going on with two of the "
 "observations. Apparently, there were two games in which the margin was "
@@ -349,15 +339,15 @@ msgid ""
 "filter1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:150
+#: ../../Ch05/Ch05_Graphics_2.rst:151
 msgid "jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:150
+#: ../../Ch05/Ch05_Graphics_2.rst:151
 msgid "The jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:154
+#: ../../Ch05/Ch05_Graphics_2.rst:155
 msgid ""
 "This filter creates a new column in the spreadsheet view where only those"
 " observations that pass the filter are included. One neat way to quickly "
@@ -371,17 +361,17 @@ msgid ""
 "on."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:170
+#: ../../Ch05/Ch05_Graphics_2.rst:171
 msgid "Frequency table for ID"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:170
+#: ../../Ch05/Ch05_Graphics_2.rst:171
 msgid ""
 "Frequency table for ID showing the ID numbers for the two suspicious "
 "outliers: 14 and 134"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:175
+#: ../../Ch05/Ch05_Graphics_2.rst:176
 msgid ""
 "Usually you find that someone has just typed in the wrong number. Whilst "
 "this might seem like a silly example, I should stress that this kind of "
@@ -393,7 +383,7 @@ msgid ""
 "missing data and all sorts of other obnoxious errors in raw data files."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:184
+#: ../../Ch05/Ch05_Graphics_2.rst:185
 msgid ""
 "For less extreme values, even if they are flagged in a a box plot as "
 "outliers, the decision about whether to include outliers or exclude them "
@@ -457,13 +447,13 @@ msgid ""
 "Hold on, you might be thinking. What’s the good of being able to draw "
 "pretty pictures in jamovi if I can’t save them and send them to friends "
 "to brag about how awesome my data is? How do I save the picture? Simples."
-" Just right click on the plot image and save it to a file, either as "
-"``eps`, ``svg`` or ``pdf``. These formats all produce nice images that "
-"you can the send to your friends, or include in your assignments or "
-"papers."
+" Just right click on the plot image and export it to a file, either as "
+"``png``, ``eps`, ``svg`` or ``pdf``. These formats all produce nice "
+"images that you can the send to your friends, or include in your "
+"assignments or manuscripts."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:50
+#: ../../Ch05/Ch05_Graphics_3.rst:49
 msgid "jamovi uses the symbol “``==``” here to mean “matches”."
 msgstr ""
 
@@ -506,8 +496,8 @@ msgid ""
 "default graphics, editing the plots is currently not possible. For more "
 "advanced graphics and plotting capability the packages available in R are"
 " much more powerful. One of the most popular graphics systems is provided"
-" by the ``ggplot2`` `R package <https://ggplot2.org>`__, which is loosely"
-" based on “The grammar of graphics” (`Wilkinson, 2006 "
+" by the ``ggplot2`` `R package <https://ggplot2.tidyverse.org>`__, which "
+"is loosely based on “The grammar of graphics” (`Wilkinson, 2006 "
 "<../Other/References.html#wilkinson-2006>`__\\ ). It’s not for novices. "
 "You need to have a pretty good grasp of R before you can start using it, "
 "and even then it takes a while to really get the hang of it. But when "
@@ -515,4 +505,80 @@ msgid ""
 " much more powerful and cleaner system."
 msgstr ""
 
+#~ msgid ""
+#~ "One last thing. What if you want"
+#~ " to draw multiple box plots at "
+#~ "once? Suppose, for instance, I wanted"
+#~ " separate box plots showing the AFL"
+#~ " margins not just for 2010 but "
+#~ "for every year between 1987 and "
+#~ "2010. To do that the first thing"
+#~ " we’ll have to do is find the"
+#~ " data. These are stored in the "
+#~ "|aflsmall2|_ data set. So let’s load "
+#~ "it into jamovi and see what is "
+#~ "in it. You will see that it "
+#~ "is a pretty big data set. It "
+#~ "contains 4296 games and the variables"
+#~ " that we’re interested in. What we"
+#~ " want to do is have jamovi draw"
+#~ " box plots for the ``margin`` "
+#~ "variable, but plotted separately for "
+#~ "each ``year``. The way to do this"
+#~ " is to move the ``year`` variable "
+#~ "across into the ``Split by`` box, "
+#~ "as in :numref:`fig-splitfile1`."
+#~ msgstr ""
+
+#~ msgid "Multiple box plots: ``margin`` split by ``year`` from ``aflsmall2``"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Multiple box plots created in jamovi,"
+#~ " for the variables ``margin`` split "
+#~ "by ``year`` in the |aflsmall2|_ data "
+#~ "set"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Hold on, you might be thinking. "
+#~ "What’s the good of being able to"
+#~ " draw pretty pictures in jamovi if"
+#~ " I can’t save them and send "
+#~ "them to friends to brag about how"
+#~ " awesome my data is? How do I"
+#~ " save the picture? Simples. Just "
+#~ "right click on the plot image and"
+#~ " save it to a file, either as"
+#~ " ``eps`, ``svg`` or ``pdf``. These "
+#~ "formats all produce nice images that "
+#~ "you can the send to your friends,"
+#~ " or include in your assignments or"
+#~ " papers."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "One final thing to point out. "
+#~ "Whilst jamovi produces some really neat"
+#~ " default graphics, editing the plots "
+#~ "is currently not possible. For more "
+#~ "advanced graphics and plotting capability "
+#~ "the packages available in R are "
+#~ "much more powerful. One of the "
+#~ "most popular graphics systems is "
+#~ "provided by the ``ggplot2`` `R package"
+#~ " <https://ggplot2.org>`__, which is loosely "
+#~ "based on “The grammar of graphics” "
+#~ "(`Wilkinson, 2006 "
+#~ "<../Other/References.html#wilkinson-2006>`__\\ ). It’s "
+#~ "not for novices. You need to have"
+#~ " a pretty good grasp of R "
+#~ "before you can start using it, and"
+#~ " even then it takes a while to"
+#~ " really get the hang of it. But"
+#~ " when you’re ready it’s worth taking"
+#~ " the time to teach yourself, because"
+#~ " it’s a much more powerful and "
+#~ "cleaner system."
+#~ msgstr ""
 

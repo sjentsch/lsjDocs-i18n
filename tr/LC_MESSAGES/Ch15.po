@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:28+0100\n"
+"POT-Creation-Date: 2022-04-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -256,7 +256,7 @@ msgid ""
 "Neuroticism, and Openness."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:160
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:159
 msgid ""
 "Twenty-five observed variable items organised by five putative "
 "personality factors in the |bfi_sample|_ data set. If there is an R in "
@@ -645,8 +645,8 @@ msgid ""
 "Practically, if in an oblique rotation the factors are found to be "
 "substantially correlated (positive or negative, and > 0.3), as in :numref"
 ":`fig-efa6` where a correlation between two of the extracted factors is "
-"-0.398, then this would confirm our intuition to prefer oblique rotation."
-" If the factors are, in fact, correlated, then an oblique rotation will "
+"0.31, then this would confirm our intuition to prefer oblique rotation. "
+"If the factors are, in fact, correlated, then an oblique rotation will "
 "produce a better estimate of the true factors and a better simple "
 "structure than will an orthogonal rotation. And, if the oblique rotation "
 "indicates that the factors have close to zero correlations between one "
@@ -710,12 +710,12 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:388
 msgid ""
-"For Factors 1, 2, 3 and 4 the pattern of factor loadings closely matches "
+"For factors 1, 2, 3 and 4 the pattern of factor loadings closely matches "
 "the putative factors specified in :numref:`tab-bfi`. Phew! And factor 5 "
 "is pretty close, with four of the five observed variables that putatively"
 " measure “Openness” loading pretty well onto the factor. Variable ``O4`` "
 "doesn’t quite seem to fit though, as the factor solution in :numref:`fig-"
-"efa7` suggests that it loads onto factor 3 (albeit with a relatively low "
+"efa7` suggests that it loads onto factor 4 (albeit with a relatively low "
 "loading) but not substantively onto factor \\5."
 msgstr ""
 
@@ -737,10 +737,10 @@ msgstr ""
 msgid ""
 "We can also see in :numref:`fig-efa7` the “uniqueness” of each variable. "
 "Uniqueness is the proportion of variance that is ‘unique’ to the variable"
-" and not explained by the factors.\\ [#]_ For example, 74% of the "
+" and not explained by the factors.\\ [#]_ For example, 72% of the "
 "variance in ``A1`` is not explained by the factors in the five factor "
 "solution. In contrast, ``N1`` has relatively low variance not accounted "
-"for by the factor solution (31%). Note that the greater the ‘uniqueness’,"
+"for by the factor solution (35%). Note that the greater the ‘uniqueness’,"
 " the lower the relevance or contribution of the variable in the factor "
 "model."
 msgstr ""
@@ -801,11 +801,11 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:460
 msgid ""
 "Another option is to create an optimally-weighted factor score index. We "
-"can use the jamovi |Rj|_ editor to do this in ``R``. Again, there are two"
-" steps:"
+"can use the jamovi |Rj|_ editor to do this in ``R``.\\ [#]_ Again, there "
+"are two steps:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:463
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:464
 msgid ""
 "Use the |Rj|_ editor to run the EFA in ``R`` to the same specification as"
 " the one in jamovi (i.e., five factors and Oblimin rotation) and compute "
@@ -813,7 +813,7 @@ msgid ""
 "scores, to a file (see :numref:`fig-efa10`)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:468
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:469
 msgid ""
 "Open up the new file in jamovi (see :numref:`fig-efa11`) and check that "
 "variable types have been set correctly. Label the new factor score "
@@ -822,21 +822,21 @@ msgid ""
 "make sure you check)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:481
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:481
 msgid ""
 "|Rj|_ editor commands for creating optimally weighted factor scores for "
 "the five factor solution"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:490
 msgid "Newly created data file with new factor score variables"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:490
 msgid ""
 "Newly created data file ``bfifactscores.csv`` created in the |Rj|_ "
 "editor, and containing the five factor score variables. Note that each of"
@@ -844,7 +844,7 @@ msgid ""
 "that the factors are listed in the factor loadings table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:496
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:497
 msgid ""
 "Now you can go ahead and undertake further analyses, using either the "
 "factor- based scores (a mean scale score approach) or using the "
@@ -857,21 +857,21 @@ msgid ""
 "difference (Mann-Whitney *U* = 5760.5, p = 0.073)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
 msgid "Gender differences in Agreeableness factor-based scores"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
 msgid ""
 "Comparing differences in Agreeableness factor-based scores between males "
 "and females"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:517
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:518
 msgid "Writing up an EFA"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:520
 msgid ""
 "Hopefully, so far we have given you some sense of EFA and how to "
 "undertake EFA in jamovi. So, once you have completed your EFA, how do you"
@@ -880,52 +880,52 @@ msgid ""
 "some fairly standard pieces of information to include in your write-up:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:525
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:526
 msgid ""
 "What are the theoretical underpinnings for the area you are studying, and"
 " specifically for the constructs that you are interested in uncovering "
 "through EFA."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:529
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:279
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:532
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:282
 msgid ""
 "A description of the type of data used (e.g., nominal, continuous) and "
 "descriptive statistics."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:535
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:536
 msgid ""
 "Describe how you went about testing the assumptions for EFA. Details "
 "regarding sphericity checks and measures of sampling adequacy should be "
 "reported."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:539
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:540
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:542
 msgid ""
 "Explain the criteria and process used for deciding how many factors were "
 "extracted in the final solution, and which items were selected. Clearly "
 "explain the rationale for key decisions during the EFA process."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:545
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:546
 msgid ""
 "Explain what rotation methods were attempted, the reasons why, and the "
 "results."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:548
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:549
 msgid ""
 "Final factor loadings should be reported in the results, in a table. This"
 " table should also report the uniqueness (or communality) for each "
@@ -935,27 +935,27 @@ msgid ""
 " separate table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:554
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:555
 msgid ""
 "Meaningful names for the extracted factors should be provided. You may "
 "like to use previously selected factor names, but on examining the actual"
 " items and factors you may think a different name is more appropriate."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:561
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:562
 msgid ""
 "Quite helpfully, factor loadings can be interpreted like standardized "
 "regression coefficients"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:565
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:566
 msgid ""
 "An Eigen value indicates how much of the variance in the observed "
 "variables a factor accounts for. A factor with an Eigen value > 1 "
 "accounts for more variance than a single observed variable"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:570
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:571
 msgid ""
 "Oblique rotations provide two factor matrices, one called a structure "
 "matrix and one called a pattern matrix. In jamovi just the pattern matrix"
@@ -970,15 +970,22 @@ msgid ""
 "orthogonal rotation, structure and pattern coefficients are the same."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:584
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:585
 msgid ""
 "Sometimes reported in factor analysis is “communality” which is the "
 "amount of variance in a variable that is accounted for by the factor "
 "solution. Uniqueness is equal to (1 - *communality*)"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:589
-msgid "remembering to first reverse score some variables if necessary"
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:590
+msgid "Remembering to first reverse score some variables if necessary."
+msgstr ""
+
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:593
+msgid ""
+"In the latest versions of jamovi you can now save factor scores directly "
+"from within jamovi - it's an option. But this explanation is helpful as "
+"it's a good insight into using R directly from jamovi."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:4
@@ -1212,7 +1219,7 @@ msgstr ""
 msgid ""
 "We can also see in :numref:`fig-pca1` the “uniqueness” of each variable. "
 "Uniqueness is the proportion of variance that is ‘unique’ to the variable"
-" and not explained by the components. For example, 58% of the variance in"
+" and not explained by the components. For example, 52% of the variance in"
 " ``A1`` is not explained by the components in the five component "
 "solution. In contrast, ``N1`` has relatively low variance not accounted "
 "for by the component solution (30%). Note that the greater the "
@@ -1229,10 +1236,10 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:191
 msgid ""
-"You can go on to create component scores in much the same way as in EFA. "
-"However, if you take the option to create an optimally-weighted component"
-" score index then the commands and syntax in the jamovi |Rj|_ editor are "
-"a little different. See :numref:`fig-pca6`."
+"You can go on to create and save component scores in much the same way as"
+" in EFA. However, if you take the option to create an optimally-weighted "
+"component score index then the commands and syntax in the jamovi |Rj|_ "
+"editor are a little different. See :numref:`fig-pca6`."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:202
@@ -1818,9 +1825,9 @@ msgstr ""
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
-"coefficient for the Agreeableness scale is 0.70. This means that just "
+"coefficient for the Agreeableness scale is 0.72. This means that just "
 "under 30% of the Agreeableness scale score is error variance. McDonald’s "
-"*ω* is also given, and this is 0.72, not much different from *α*."
+"*ω* is also given, and this is 0.74, not much different from *α*."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
@@ -1844,13 +1851,12 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:128
 msgid ""
 "The process of calculating and checking scale statistics (*α* and *ω*) is"
-" the same for all the other scales (not shown): Conscientiousness (*α* = "
-"0.73, *ω* = 0.74 ), Extraversion (*α* = 0.76, *ω* = 0.76), Neuroticism "
-"(*α* = 0.81, *ω* = 0.82) and Openness (*α* = 0.60, *ω* = 0.62). For "
-"Openness then, the amount of error variance in the Scale score is 40%, "
-"which is high and indicates that Openness is substantially less "
-"consistent as a reliable measure of a personality attribute than the "
-"other personality scales."
+" the same for all the other scales, and they all had similar reliability "
+"estimates apart from Openness (*α* = 0.60, *ω* = 0.62). For Openness, the"
+" amount of error variance in the Scale score is around 40\\%, which is "
+"high and indicates that Openness is substantially less consistent as a "
+"reliable measure of a personality attribute than the other personality "
+"scales."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:4
@@ -1900,7 +1906,134 @@ msgid ""
 "construct."
 msgstr ""
 
+#~ msgid ""
+#~ "Practically, if in an oblique rotation"
+#~ " the factors are found to be "
+#~ "substantially correlated (positive or "
+#~ "negative, and > 0.3), as in "
+#~ ":numref:`fig-efa6` where a correlation "
+#~ "between two of the extracted factors "
+#~ "is -0.398, then this would confirm "
+#~ "our intuition to prefer oblique "
+#~ "rotation. If the factors are, in "
+#~ "fact, correlated, then an oblique "
+#~ "rotation will produce a better estimate"
+#~ " of the true factors and a "
+#~ "better simple structure than will an "
+#~ "orthogonal rotation. And, if the oblique"
+#~ " rotation indicates that the factors "
+#~ "have close to zero correlations between"
+#~ " one another, then the researcher can"
+#~ " go ahead and conduct an orthogonal"
+#~ " rotation (which should then give "
+#~ "about the same solution as the "
+#~ "oblique rotation)."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "For Factors 1, 2, 3 and 4 "
+#~ "the pattern of factor loadings closely"
+#~ " matches the putative factors specified "
+#~ "in :numref:`tab-bfi`. Phew! And factor"
+#~ " 5 is pretty close, with four "
+#~ "of the five observed variables that "
+#~ "putatively measure “Openness” loading pretty"
+#~ " well onto the factor. Variable "
+#~ "``O4`` doesn’t quite seem to fit "
+#~ "though, as the factor solution in "
+#~ ":numref:`fig-efa7` suggests that it "
+#~ "loads onto factor 3 (albeit with a"
+#~ " relatively low loading) but not "
+#~ "substantively onto factor \\5."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "We can also see in :numref:`fig-"
+#~ "efa7` the “uniqueness” of each variable."
+#~ " Uniqueness is the proportion of "
+#~ "variance that is ‘unique’ to the "
+#~ "variable and not explained by the "
+#~ "factors.\\ [#]_ For example, 74% of "
+#~ "the variance in ``A1`` is not "
+#~ "explained by the factors in the "
+#~ "five factor solution. In contrast, "
+#~ "``N1`` has relatively low variance not"
+#~ " accounted for by the factor solution"
+#~ " (31%). Note that the greater the "
+#~ "‘uniqueness’, the lower the relevance or"
+#~ " contribution of the variable in the"
+#~ " factor model."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "Another option is to create an "
+#~ "optimally-weighted factor score index. We"
+#~ " can use the jamovi |Rj|_ editor "
+#~ "to do this in ``R``. Again, there"
+#~ " are two steps:"
+#~ msgstr ""
+
+#~ msgid "remembering to first reverse score some variables if necessary"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We can also see in :numref:`fig-"
+#~ "pca1` the “uniqueness” of each variable."
+#~ " Uniqueness is the proportion of "
+#~ "variance that is ‘unique’ to the "
+#~ "variable and not explained by the "
+#~ "components. For example, 58% of the "
+#~ "variance in ``A1`` is not explained "
+#~ "by the components in the five "
+#~ "component solution. In contrast, ``N1`` "
+#~ "has relatively low variance not "
+#~ "accounted for by the component solution"
+#~ " (30%). Note that the greater the "
+#~ "‘uniqueness’, the lower the relevance or"
+#~ " contribution of the variable in the"
+#~ " component model."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can go on to create component"
+#~ " scores in much the same way as"
+#~ " in EFA. However, if you take "
+#~ "the option to create an optimally-"
+#~ "weighted component score index then the"
+#~ " commands and syntax in the jamovi"
+#~ " |Rj|_ editor are a little different."
+#~ " See :numref:`fig-pca6`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Once done, look across at the "
+#~ "jamovi results window. You should see"
+#~ " something like :numref:`fig-rel2`. This"
+#~ " tells us that the Cronbach’s *α* "
+#~ "coefficient for the Agreeableness scale "
+#~ "is 0.70. This means that just "
+#~ "under 30% of the Agreeableness scale "
+#~ "score is error variance. McDonald’s *ω*"
+#~ " is also given, and this is "
+#~ "0.72, not much different from *α*."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The process of calculating and checking"
+#~ " scale statistics (*α* and *ω*) is"
+#~ " the same for all the other "
+#~ "scales (not shown): Conscientiousness (*α* "
+#~ "= 0.73, *ω* = 0.74 ), Extraversion"
+#~ " (*α* = 0.76, *ω* = 0.76), "
+#~ "Neuroticism (*α* = 0.81, *ω* = "
+#~ "0.82) and Openness (*α* = 0.60, "
+#~ "*ω* = 0.62). For Openness then, "
+#~ "the amount of error variance in "
+#~ "the Scale score is 40%, which is"
+#~ " high and indicates that Openness is"
+#~ " substantially less consistent as a "
+#~ "reliable measure of a personality "
+#~ "attribute than the other personality "
+#~ "scales."
+#~ msgstr ""
 
