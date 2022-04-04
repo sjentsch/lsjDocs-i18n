@@ -11,14 +11,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2022-04-04 22:48+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/"
+"lsjdocs/ch16/nn/>\n"
 "Language: nn\n"
-"Language-Team: none\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
@@ -476,7 +478,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:225 ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:228
 msgid ""
@@ -1598,8 +1600,3 @@ msgid ""
 "for people in my discipline, but there’s a lot of good books out there, "
 "so look around!"
 msgstr ""
-
-
-
-
-
