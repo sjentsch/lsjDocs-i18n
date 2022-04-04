@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-03-02 17:56+0000\n"
+"PO-Revision-Date: 2022-04-04 23:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/lsjdocs/ch02/da/>"
+"\n"
 "Language: da\n"
-"Language-Team: Danish "
-"<https://hosted.weblate.org/projects/lsjdocs/ch02/da/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
@@ -665,7 +666,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
 msgid "discrete"
@@ -2201,4 +2202,3 @@ msgid ""
 "large number of textbooks out there on research design. Spend a few "
 "minutes with your favourite search engine and you’ll find dozens."
 msgstr ""
-
