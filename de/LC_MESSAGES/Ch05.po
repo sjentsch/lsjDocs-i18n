@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
-"PO-Revision-Date: 2022-04-04 23:09+0000\n"
+"PO-Revision-Date: 2022-04-05 00:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch05/de/>"
 "\n"
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:200
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:4
 msgid "Box plots"
@@ -486,12 +486,16 @@ msgid ""
 "Multiple box plots: ``margin`` split by ``year`` from\n"
 "``aflmarginbyyear``"
 msgstr ""
+"Mehrere Boxplots: ``margin`` aus der Datendatei ``aflmarginbyyear``, "
+"unterteilt nach ``year``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:107
 msgid ""
 "Multiple box plots created in jamovi, for the variables ``margin`` split "
 "by ``year`` in the |aflmarginbyyear|_ data set"
 msgstr ""
+"Mehrere in jamovi erstellte Box-Plots für die Variable ``margin`` unterteilt "
+"nach ``year`` aus der Datendatei |aflmarginbyyear|_"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:113
 msgid "Using box plots to detect outliers"
@@ -719,6 +723,14 @@ msgid ""
 "images that you can the send to your friends, or include in your "
 "assignments or manuscripts."
 msgstr ""
+"Moment mal, werden Sie vielleicht denken. Was nützt mir die Möglichkeit, in "
+"jamovi schöne Diagramme zu erstellen, wenn ich sie nicht speichern und an "
+"Freunde schicken kann, um damit anzugeben, wie toll meine Daten sind? Wie "
+"kann ich das Diagramm speichern? Ganz einfach. Klicke mit der rechten "
+"Maustaste auf das Diagramm und exportiere es in eine Datei, entweder als "
+"``png``, ``eps``, ``svg`` oder ``pdf``. Alle diese Formate erlauben eine "
+"gute Darstellung Ihrer Diagramme, die Sie an Ihre Freunde schicken oder in "
+"Ihre Aufgaben oder Manuskripte einfügen können."
 
 #: ../../Ch05/Ch05_Graphics_3.rst:50
 msgid "jamovi uses the symbol “``==``” here to mean “matches”."
