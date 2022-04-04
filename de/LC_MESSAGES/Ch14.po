@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-04-05 00:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/>"
+"\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/lsjdocs/ch14/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:4
@@ -47,7 +48,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:552
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
 #: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
@@ -4147,4 +4148,3 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
 msgstr ""
-
