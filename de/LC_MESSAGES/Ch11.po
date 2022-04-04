@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-03-31 12:09+0000\n"
+"PO-Revision-Date: 2022-04-05 00:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
+"\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/lsjdocs/ch11/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
@@ -51,7 +52,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
 #: ../../Ch11/Ch11_tTest_09.rst:139
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
 #: ../../Ch11/Ch11_tTest_09.rst:136
@@ -2853,4 +2854,3 @@ msgid ""
 "If your data are non-normal, you can use :doc:`Mann-Whitney or Wilcoxon "
 "tests <../Ch11/Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
-
