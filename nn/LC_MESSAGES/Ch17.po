@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language: nn\n"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
@@ -710,7 +710,4 @@ msgid ""
 "And what I hope is that this book, or the finished book that this will "
 "one day turn into, is able to help you with that."
 msgstr ""
-
-
-
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 23:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -668,7 +668,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:296
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:16
 msgid "Creating a transformed variable"
@@ -1317,44 +1317,4 @@ msgid ""
 "``oo``. In this case in the ``Filter 1`` text box, next to the ``=`` "
 "sign, you would type the following:"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

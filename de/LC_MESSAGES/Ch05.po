@@ -269,7 +269,6 @@ msgid "Density plot of the ``afl.margins`` variable plotted in jamovi"
 msgstr "Dichte-Diagramm für die Variable ``afl.margins``, erstellt in jamovi"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:67
-#, fuzzy
 msgid ""
 "Although this image would need a lot of cleaning up in order to make a "
 "good presentation graphic (i.e., one you’d include in a report), it "
@@ -429,7 +428,6 @@ msgid "Drawing multiple box plots"
 msgstr "Das Zeichnen mehrerer Boxplots"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:72
-#, fuzzy
 msgid ""
 "One last thing. What if you want to draw multiple box plots at once? "
 "Suppose, for instance, I wanted separate box plots showing the AFL "
@@ -447,10 +445,10 @@ msgstr ""
 " möchten? Nehmen wir zum Beispiel an, ich möchte separate Box-Plots, "
 "welche die AFL-Gewinnspannen nicht nur für 2010, sondern für jedes "
 "weitere Jahr zwischen 1987 und 2010 zeigen. Dazu müssen wir zunächst die "
-"Daten finden. Diese sind in dem Datensatz |aflsmall2|_ gespeichert. Laden"
-" wir ihn also in jamovi und sehen wir uns an, was er enthält. Sie werden "
-"sehen, dass es ein ziemlich großer Datensatz ist. Er enthält 4296 Spiele "
-"und die Variablen, an denen wir interessiert sind. Wir möchten, dass "
+"Daten finden. Diese sind in dem Datensatz |aflmarginbyyear|_ gespeichert. "
+"Laden wir ihn also in jamovi und sehen wir uns an, was er enthält. Sie "
+"werden sehen, dass es ein ziemlich großer Datensatz ist. Er enthält 4296 "
+"Spiele und die Variablen, an denen wir interessiert sind. Wir möchten, dass "
 "jamovi Box-Plots für die ``margin``-Variable zeichnet, aber getrennt für "
 "jedes Jahr (``year``). Dazu wird die Variable ``year`` in das Feld "
 "``Split by`` verschoben, wie in :numref:`fig-splitfile1` gezeigt."
@@ -561,7 +559,6 @@ msgid "The jamovi filter screen"
 msgstr "Die jamovi-Filter-Eingabemaske"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:155
-#, fuzzy
 msgid ""
 "This filter creates a new column in the spreadsheet view where only those"
 " observations that pass the filter are included. One neat way to quickly "
@@ -579,8 +576,8 @@ msgstr ""
 " gute Möglichkeit, schnell zu erkennen, um welche Beobachtungen es sich "
 "dabei handelt, besteht darin, jamovi anzuweisen, eine ``Frequency table``"
 " (unter ``Exploration`` → ``Descriptives``) für die Variable ``ID`` zu "
-"erzeugen (es muss sich um eine Nominalvariable handeln, da sonst die "
-"Häufigkeitstabelle nicht erstellt wird). In :numref:`fig-filter2` können "
+"erzeugen (es muss sich um eine Nominalvariable |nominal| handeln, da sonst "
+"die Häufigkeitstabelle nicht erstellt wird). In :numref:`fig-filter2` können "
 "Sie sehen, dass die ID-Werte für die Beobachtungen, bei denen die Spanne "
 "über 300 lag, **14** und **134** sind. Dies sind verdächtige Fälle oder "
 "Beobachtungen, bei denen Sie zur ursprünglichen Datenquelle zurückkehren "
@@ -620,7 +617,6 @@ msgstr ""
 "unangenehmen Fehlern in Rohdaten-Dateien."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:185
-#, fuzzy
 msgid ""
 "For less extreme values, even if they are flagged in a a box plot as "
 "outliers, the decision about whether to include outliers or exclude them "
@@ -637,7 +633,7 @@ msgstr ""
 "wofür Sie die Daten *verwenden wollen*. Sie müssen hier ein gutes "
 "Urteilsvermögen beweisen. Wenn Ihnen der Ausreißer legitim erscheint, "
 "dann behalten Sie ihn. Auf jeden Fall werde ich im Abschnitt "
-":doc:`Modellprüfung <../Ch12/Ch12_Regression_10>` noch einmal auf das "
+":doc:`Modellprüfung <../Ch12/Ch12_Regression_11>` noch einmal auf das "
 "Thema zurückkommen."
 
 #: ../../Ch05/Ch05_Graphics_3.rst:4
@@ -780,7 +776,6 @@ msgstr ""
 "wie Sie Ihre Bilder :doc:`exportieren <../Ch05/Ch05_Graphics_3>` können."
 
 #: ../../Ch05/Ch05_Graphics_4.rst:25
-#, fuzzy
 msgid ""
 "One final thing to point out. Whilst jamovi produces some really neat "
 "default graphics, editing the plots is currently not possible. For more "
@@ -798,15 +793,12 @@ msgstr ""
 "erzeugt, ist die Bearbeitung der Plots derzeit nicht möglich. Für "
 "fortgeschrittenere Grafiken und Plot-Fähigkeiten sind die in R "
 "verfügbaren Pakete viel leistungsfähiger. Eine der beliebtesten "
-"Grafikbibliotheken ist das R-Paket `ggplot2 <https://ggplot2.org>`__, das"
-" auf „The grammar of graphics“ basiert (`Wilkinson, 2006 "
-"<../Other/References.html#wilkinson-2006>`__\\ ). Es ist allerdings "
-"nichts für Neulinge: Man muss schon ziemlich gut mit R umgehen können, um"
-" es vernünftig zu benutzen, und selbst dann dauert es eine Weile, bis man"
-" den Dreh raus hat. Aber es lohnt es sich, sich die Zeit zu nehmen, um es"
-" sich selbst beizubringen, denn es ist ein viel leistungsfähigeres und "
-"saubereres System."
-
-
-
+"Grafikbibliotheken ist das R-Paket `ggplot2 "
+"<https://ggplot2.tidyverse.org>`__, das auf „The grammar of graphics“ "
+"basiert (`Wilkinson, 2006 <../Other/References.html#wilkinson-2006>`__\\ )."
+" Es ist allerdings nichts für Neulinge: Man muss schon ziemlich gut mit R "
+"umgehen können, um es vernünftig zu benutzen, und selbst dann dauert es eine"
+" Weile, bis man den Dreh raus hat. Aber es lohnt es sich, sich die Zeit zu "
+"nehmen, um es sich selbst beizubringen, denn es ist ein viel "
+"leistungsfähigeres und saubereres System."
 

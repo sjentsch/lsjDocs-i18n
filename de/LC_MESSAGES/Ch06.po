@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-03-31 13:28+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -673,7 +673,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:296
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:16
 msgid "Creating a transformed variable"
@@ -1155,9 +1155,8 @@ msgid "``CEILING()``"
 msgstr "``CEILING()``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
-#, fuzzy
 msgid "``CEILING(1.32)``"
-msgstr "``CEIL(1.32)``"
+msgstr "``CEILING(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "2"
@@ -1323,44 +1322,4 @@ msgid ""
 "``oo``. In this case in the ``Filter 1`` text box, next to the ``=`` "
 "sign, you would type the following:"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:10+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1181,7 +1181,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:250
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch07/Ch07_Probability_5.rst:72
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"

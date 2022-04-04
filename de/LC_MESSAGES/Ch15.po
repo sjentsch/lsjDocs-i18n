@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 17:19+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-03-31 13:03+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -535,7 +535,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:324
@@ -1924,32 +1924,4 @@ msgid ""
 " how consistently a scale measures a measurement (psychological) "
 "construct."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -6,16 +6,15 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 18:20+0200\n"
+"POT-Creation-Date: 2022-04-04 23:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language: nn\n"
-"Language-Team: none\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -168,15 +167,15 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:186
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "*O*\\ :sub:`1`"
-msgstr ""
+msgstr "*O*\\ :sub:`1`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "35"
-msgstr ""
+msgstr "35"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "diamonds (♢)"
@@ -184,48 +183,48 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72 ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "*O*\\ :sub:`2`"
-msgstr ""
+msgstr "*O*\\ :sub:`2`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "51"
-msgstr ""
+msgstr "51"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:74
 msgid "hearts (♡)"
-msgstr ""
+msgstr "hearts (♡)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:74 ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:74
 msgid "*O*\\ :sub:`3`"
-msgstr ""
+msgstr "*O*\\ :sub:`3`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:74 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "64"
-msgstr ""
+msgstr "64"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:76
 msgid "spades (♠)"
-msgstr ""
+msgstr "spades (♠)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:76 ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:76
 msgid "*O*\\ :sub:`4`"
-msgstr ""
+msgstr "*O*\\ :sub:`4`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:76 ../../Ch10/Ch10_ChiSquare_1.rst:182
 #: ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:79
 msgid ""
@@ -243,6 +242,8 @@ msgid ""
 "O = (*O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3`\\, *O*\\ "
 ":sub:`4`\\)"
 msgstr ""
+"O = (*O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3`\\, *O*\\ "
+":sub:`4`\\)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:88
 msgid ""
@@ -292,7 +293,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:119 ../../Ch10/Ch10_ChiSquare_1.rst:142
 msgid "H\\ :sub:`0`: *P* = (0.25, 0.25, 0.25, 0.25)"
-msgstr ""
+msgstr "H\\ :sub:`0`: *P* = (0.25, 0.25, 0.25, 0.25)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:121
 msgid ""
@@ -328,7 +329,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:143
 msgid "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
-msgstr ""
+msgstr "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:146
 msgid "The “goodness-of-fit” test statistic"
@@ -355,7 +356,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:163
 msgid "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
-msgstr ""
+msgstr "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:165
 msgid ""
@@ -380,19 +381,19 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:489
 msgid "♣"
-msgstr ""
+msgstr "♣"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:489
 msgid "♢"
-msgstr ""
+msgstr "♢"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:489
 msgid "♡"
-msgstr ""
+msgstr "♡"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:489
 msgid "♠"
-msgstr ""
+msgstr "♠"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:182 ../../Ch10/Ch10_ChiSquare_1.rst:491
 msgid "expected frequency"
@@ -400,7 +401,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:182 ../../Ch10/Ch10_ChiSquare_1.rst:491
 msgid "*E*\\ :sub:`i`"
-msgstr ""
+msgstr "*E*\\ :sub:`i`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "observed frequency"
@@ -412,19 +413,19 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "*E*\\ :sub:`i` - *O*\\ :sub:`1`"
-msgstr ""
+msgstr "*E*\\ :sub:`i` - *O*\\ :sub:`1`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "-15"
-msgstr ""
+msgstr "-15"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:189
 msgid ""
@@ -478,6 +479,8 @@ msgid ""
 "\\chi^2 = \\sum_{i=1}^k \\frac{(O_i - E_i)^2}{E_i}\n"
 "\n"
 msgstr ""
+"\\chi^2 = \\sum_{i=1}^k \\frac{(O_i - E_i)^2}{E_i}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:239
 msgid ""
@@ -535,7 +538,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:279
 msgid "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
-msgstr ""
+msgstr "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:281
 msgid ""
@@ -686,7 +689,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "df"
-msgstr ""
+msgstr "df"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:404
 msgid "Probability"
@@ -702,428 +705,424 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.95"
-msgstr ""
+msgstr "0.95"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.90"
-msgstr ""
+msgstr "0.90"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.70"
-msgstr ""
+msgstr "0.70"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.50"
-msgstr ""
+msgstr "0.50"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.30"
-msgstr ""
+msgstr "0.30"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.10"
-msgstr ""
+msgstr "0.10"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.05"
-msgstr ""
+msgstr "0.05"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.01"
-msgstr ""
+msgstr "0.01"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.001"
-msgstr ""
+msgstr "0.001"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.004"
-msgstr ""
+msgstr "0.004"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.016"
-msgstr ""
+msgstr "0.016"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.148"
-msgstr ""
+msgstr "0.148"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.455"
-msgstr ""
+msgstr "0.455"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "1.074"
-msgstr ""
+msgstr "1.074"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "2.706"
-msgstr ""
+msgstr "2.706"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "3.841"
-msgstr ""
+msgstr "3.841"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "6.635"
-msgstr ""
+msgstr "6.635"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "10.828"
-msgstr ""
+msgstr "10.828"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.103"
-msgstr ""
+msgstr "0.103"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.211"
-msgstr ""
+msgstr "0.211"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.713"
-msgstr ""
+msgstr "0.713"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "1.386"
-msgstr ""
+msgstr "1.386"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "2.408"
-msgstr ""
+msgstr "2.408"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "4.605"
-msgstr ""
+msgstr "4.605"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "5.991"
-msgstr ""
+msgstr "5.991"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "9.210"
-msgstr ""
+msgstr "9.210"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "13.816"
-msgstr ""
+msgstr "13.816"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "0.352"
-msgstr ""
+msgstr "0.352"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "0.584"
-msgstr ""
+msgstr "0.584"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "1.424"
-msgstr ""
+msgstr "1.424"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "2.366"
-msgstr ""
+msgstr "2.366"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "3.665"
-msgstr ""
+msgstr "3.665"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "6.251"
-msgstr ""
+msgstr "6.251"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "7.815"
-msgstr ""
+msgstr "7.815"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "11.345"
-msgstr ""
+msgstr "11.345"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "16.266"
-msgstr ""
+msgstr "16.266"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "0.711"
-msgstr ""
+msgstr "0.711"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "1.064"
-msgstr ""
+msgstr "1.064"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "2.195"
-msgstr ""
+msgstr "2.195"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "3.357"
-msgstr ""
+msgstr "3.357"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "4.878"
-msgstr ""
+msgstr "4.878"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "7.779"
-msgstr ""
+msgstr "7.779"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "9.488"
-msgstr ""
+msgstr "9.488"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "13.277"
-msgstr ""
+msgstr "13.277"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "18.467"
-msgstr ""
+msgstr "18.467"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418 ../../Ch10/Ch10_ChiSquare_7.rst:48
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "1.145"
-msgstr ""
+msgstr "1.145"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "1.610"
-msgstr ""
+msgstr "1.610"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "3.000"
-msgstr ""
+msgstr "3.000"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "4.351"
-msgstr ""
+msgstr "4.351"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "6.064"
-msgstr ""
+msgstr "6.064"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "9.236"
-msgstr ""
+msgstr "9.236"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "11.070"
-msgstr ""
+msgstr "11.070"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "15.086"
-msgstr ""
+msgstr "15.086"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "20.515"
-msgstr ""
+msgstr "20.515"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
-#, fuzzy
 msgid "6"
-msgstr "64"
+msgstr "6"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "1.635"
-msgstr ""
+msgstr "1.635"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "2.204"
-msgstr ""
+msgstr "2.204"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "3.828"
-msgstr ""
+msgstr "2.204"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "5.348"
-msgstr ""
+msgstr "5.348"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "7.231"
-msgstr ""
+msgstr "7.231"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "10.645"
-msgstr ""
+msgstr "10.645"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "12.592"
-msgstr ""
+msgstr "12.592"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "16.812"
-msgstr ""
+msgstr "16.812"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "22.458"
-msgstr ""
+msgstr "22.458"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
-#, fuzzy
 msgid "7"
-msgstr "87"
+msgstr "7"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "2.167"
-msgstr ""
+msgstr "2.167"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "2.833"
-msgstr ""
+msgstr "2.833"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "4.671"
-msgstr ""
+msgstr "4.671"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "6.346"
-msgstr ""
+msgstr "6.346"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "8.383"
-msgstr ""
+msgstr "8.383"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "12.017"
-msgstr ""
+msgstr "12.017"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "14.067"
-msgstr ""
+msgstr "14.067"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "18.475"
-msgstr ""
+msgstr "18.475"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "24.322"
-msgstr ""
+msgstr "24.322"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
-#, fuzzy
 msgid "8"
-msgstr "28"
+msgstr "8"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "2.733"
-msgstr ""
+msgstr "2.733"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "3.490"
-msgstr ""
+msgstr "3.490"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "5.527"
-msgstr ""
+msgstr "5.527"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "7.344"
-msgstr ""
+msgstr "7.344"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "9.524"
-msgstr ""
+msgstr "9.524"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "13.362"
-msgstr ""
+msgstr "13.362"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "15.507"
-msgstr ""
+msgstr "15.507"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "20.090"
-msgstr ""
+msgstr "20.090"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "26.124"
-msgstr ""
+msgstr "26.124"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
-#, fuzzy
 msgid "9"
-msgstr "93"
+msgstr "9"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "3.325"
-msgstr ""
+msgstr "3.325"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "4.168"
-msgstr ""
+msgstr "4.168"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "6.393"
-msgstr ""
+msgstr "6.393"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "8.343"
-msgstr ""
+msgstr "8.343"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "10.656"
-msgstr ""
+msgstr "10.656"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "14.684"
-msgstr ""
+msgstr "14.684"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "16.919"
-msgstr ""
+msgstr "16.919"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "21.666"
-msgstr ""
+msgstr "21.666"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "27.877"
-msgstr ""
+msgstr "27.877"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428 ../../Ch10/Ch10_ChiSquare_7.rst:20
 #: ../../Ch10/Ch10_ChiSquare_7.rst:48
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "3.940"
-msgstr ""
+msgstr "3.940"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "4.865"
-msgstr ""
+msgstr "4.865"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "7.267"
-msgstr ""
+msgstr "7.267"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "9.342"
-msgstr ""
+msgstr "9.342"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "11.781"
-msgstr ""
+msgstr "11.781"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "15.987"
-msgstr ""
+msgstr "15.987"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "18.307"
-msgstr ""
+msgstr "18.307"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "23.209"
-msgstr ""
+msgstr "23.209"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "29.588"
-msgstr ""
+msgstr "29.588"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:431
 msgid ""
@@ -1198,12 +1197,12 @@ msgid "The expected counts are now:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491 ../../Ch10/Ch10_ChiSquare_7.rst:20
-msgid "40"
-msgstr ""
+msgid "4"
+msgstr "4"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:494
 msgid ""
@@ -1608,15 +1607,15 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:57 ../../Ch10/Ch10_ChiSquare_2.rst:59
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:57
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:57
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:59 ../../Ch10/Ch10_ChiSquare_2.rst:88
 msgid "**Flower**"
@@ -1625,11 +1624,11 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_2.rst:59 ../../Ch10/Ch10_ChiSquare_7.rst:20
 #: ../../Ch10/Ch10_ChiSquare_7.rst:52
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:59
 msgid "43"
-msgstr ""
+msgstr "43"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61 ../../Ch10/Ch10_ChiSquare_2.rst:90
 msgid "**Data**"
@@ -1637,15 +1636,15 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61
 msgid "44"
-msgstr ""
+msgstr "44"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61 ../../Ch10/Ch10_ChiSquare_7.rst:50
 msgid "65"
-msgstr ""
+msgstr "65"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61
 msgid "109"
-msgstr ""
+msgstr "109"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:63 ../../Ch10/Ch10_ChiSquare_2.rst:92
 #: ../../Ch10/Ch10_ChiSquare_6.rst:50 ../../Ch10/Ch10_ChiSquare_7.rst:24
@@ -1655,15 +1654,15 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:63
 msgid "87"
-msgstr ""
+msgstr "87"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:63
 msgid "93"
-msgstr ""
+msgstr "93"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:63
 msgid "180"
-msgstr ""
+msgstr "180"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:66
 msgid ""
@@ -1691,51 +1690,51 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:86 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*O*\\ :sub:`11`"
-msgstr ""
+msgstr "*O*\\ :sub:`11`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:86 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*O*\\ :sub:`12`"
-msgstr ""
+msgstr "*O*\\ :sub:`12`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:86 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*R*\\ :sub:`1`"
-msgstr ""
+msgstr "*R*\\ :sub:`1`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*O*\\ :sub:`21`"
-msgstr ""
+msgstr "*O*\\ :sub:`21`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*O*\\ :sub:`22`"
-msgstr ""
+msgstr "*O*\\ :sub:`22`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*R*\\ :sub:`2`"
-msgstr ""
+msgstr "*R*\\ :sub:`2`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:90
 msgid "*O*\\ :sub:`31`"
-msgstr ""
+msgstr "*O*\\ :sub:`31`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:90
 msgid "*O*\\ :sub:`32`"
-msgstr ""
+msgstr "*O*\\ :sub:`32`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:90
 msgid "*R*\\ :sub:`3`"
-msgstr ""
+msgstr "*R*\\ :sub:`3`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:92 ../../Ch10/Ch10_ChiSquare_6.rst:50
 msgid "*C*\\ :sub:`1`"
-msgstr ""
+msgstr "*C*\\ :sub:`1`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:92 ../../Ch10/Ch10_ChiSquare_6.rst:50
 msgid "*C*\\ :sub:`2`"
-msgstr ""
+msgstr "*C*\\ :sub:`2`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:92 ../../Ch10/Ch10_ChiSquare_6.rst:50
 msgid "*N*"
-msgstr ""
+msgstr "*N*"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:95
 msgid ""
@@ -1761,7 +1760,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:113
 msgid "H\\ :sub:`0`:"
-msgstr ""
+msgstr "H\\ :sub:`0`:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:113
 msgid "All of the following are true:"
@@ -1803,7 +1802,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:139
 msgid "*E*\\ :sub:`ij` = *C*\\ :sub:`j` · *P*\\ :sub:`i`"
-msgstr ""
+msgstr "*E*\\ :sub:`ij` = *C*\\ :sub:`j` · *P*\\ :sub:`i`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:141
 msgid ""
@@ -1824,6 +1823,8 @@ msgid ""
 "\\hat{P}_i = \\frac{R_i}{N}\n"
 "\n"
 msgstr ""
+"\\hat{P}_i = \\frac{R_i}{N}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:154
 msgid ""
@@ -1834,7 +1835,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:158
 msgid "Ê\\ :sub:`ij` = (R\\ :sub:`i` × C\\ :sub:`j`) / *N*"
-msgstr ""
+msgstr "Ê\\ :sub:`ij` = (R\\ :sub:`i` × C\\ :sub:`j`) / *N*"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:160
 msgid ""
@@ -1855,6 +1856,8 @@ msgid ""
 "X^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
 "\n"
 msgstr ""
+"X^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:170
 msgid ""
@@ -1885,7 +1888,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:189
 msgid "*df* = (*r* - 1)(*c* - 1)"
-msgstr ""
+msgstr "*df* = (*r* - 1)(*c* - 1)"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:191
 msgid ""
@@ -2087,6 +2090,8 @@ msgid ""
 "\\chi^2 = \\sum_{i} \\frac{(|E_i - O_i| - 0.5)^2}{E_i}\n"
 "\n"
 msgstr ""
+"\\chi^2 = \\sum_{i} \\frac{(|E_i - O_i| - 0.5)^2}{E_i}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:30
 msgid "Basically, he just subtracts off 0.5 everywhere."
@@ -2146,6 +2151,8 @@ msgid ""
 "\\phi = \\sqrt{\\frac{X^2}{N}}\n"
 "\n"
 msgstr ""
+"\\phi = \\sqrt{\\frac{X^2}{N}}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:30
 msgid ""
@@ -2166,6 +2173,8 @@ msgid ""
 "V = \\sqrt{\\frac{X^2}{N(k-1)}}\n"
 "\n"
 msgstr ""
+"V = \\sqrt{\\frac{X^2}{N(k-1)}}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:44
 msgid ""
@@ -2321,6 +2330,8 @@ msgid ""
 "*P*\\(*O*\\ :sub:`11`, *O*\\ :sub:`12`, *O*\\ :sub:`21`, *O*\\ :sub:`22` "
 "| *R*\\ :sub:`1`, *R*\\ :sub:`2`, *C*\\ :sub:`1`, *C*\\ :sub:`2`)"
 msgstr ""
+"*P*\\(*O*\\ :sub:`11`, *O*\\ :sub:`12`, *O*\\ :sub:`21`, *O*\\ :sub:`22` "
+"| *R*\\ :sub:`1`, *R*\\ :sub:`2`, *C*\\ :sub:`1`, *C*\\ :sub:`2`)"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:64
 msgid ""
@@ -2408,23 +2419,23 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:22 ../../Ch10/Ch10_ChiSquare_7.rst:52
 msgid "70"
-msgstr ""
+msgstr "70"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:22 ../../Ch10/Ch10_ChiSquare_7.rst:50
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:22
 msgid "160"
-msgstr ""
+msgstr "160"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:24 ../../Ch10/Ch10_ChiSquare_7.rst:52
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:24
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:27
 msgid ""
@@ -2469,7 +2480,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:50
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:55
 msgid ""
@@ -2484,39 +2495,39 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:65
 msgid "*a*"
-msgstr ""
+msgstr "*a*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:65
 msgid "*b*"
-msgstr ""
+msgstr "*b*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:65
 msgid "*a* + *b*"
-msgstr ""
+msgstr "*a* + *b*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:67
 msgid "*c*"
-msgstr ""
+msgstr "*c*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:67
 msgid "*d*"
-msgstr ""
+msgstr "*d*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:67
 msgid "*c* + *d*"
-msgstr ""
+msgstr "*c* + *d*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:69
 msgid "*a* + *c*"
-msgstr ""
+msgstr "*a* + *c*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:69
 msgid "*b* + *d*"
-msgstr ""
+msgstr "*b* + *d*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:69
 msgid "*n*"
-msgstr ""
+msgstr "*n*"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:72
 msgid ""
@@ -2543,6 +2554,8 @@ msgid ""
 "\\chi^2 = \\frac{(|b-c| - 0.5)^2}{b+c}\n"
 "\n"
 msgstr ""
+"\\chi^2 = \\frac{(|b-c| - 0.5)^2}{b+c}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:89
 msgid "or, to revert to the notation that we used earlier in this chapter:"
@@ -2553,6 +2566,8 @@ msgid ""
 "\\chi^2 = \\frac{(|O_{12}-O_{21}| - 0.5)^2}{O_{12} + O_{21}}\n"
 "\n"
 msgstr ""
+"\\chi^2 = \\frac{(|O_{12}-O_{21}| - 0.5)^2}{O_{12} + O_{21}}\n"
+"\n"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:93
 msgid ""
@@ -2694,10 +2709,4 @@ msgid ""
 "The latter is a more advanced text, so it’s probably not wise to jump "
 "straight from this book to that one."
 msgstr ""
-
-
-
-
-
-
 

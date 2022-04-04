@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-01 19:37+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-04-01 17:21+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -699,7 +699,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:214
-#, fuzzy
 msgid ""
 "Discrete variables occur when this rule is violated. For example, nominal"
 " scale variables are always discrete. There isn’t a type of "
@@ -747,7 +746,7 @@ msgstr ""
 "die Leute sehr oft Dinge wie „diskrete Variable“ sagen, wenn sie "
 "„nominale Skalenvariable“ meinen. Das ist ziemlich unglücklich."
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:236
+#: ../../Ch02/Ch02_StudyDesign_2.rst:235
 msgid ""
 "The relationship between the scales of measurement and the discrete / "
 "continuity distinction. Cells with a tick mark correspond to things that "
@@ -1040,7 +1039,7 @@ msgid ""
 " is summarised in :numref:`tab-ivdv`."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_3.rst:111
+#: ../../Ch02/Ch02_StudyDesign_3.rst:110
 msgid ""
 "The terminology used to distinguish between different roles that a "
 "variable can play when analysing a data set. Note that this book will "

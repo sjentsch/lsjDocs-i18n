@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:10+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language: nn\n"
@@ -51,7 +51,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
 #: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:36
 msgid ""
@@ -4103,29 +4103,4 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

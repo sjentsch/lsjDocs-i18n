@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:10+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,11 +90,11 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:54 ../../Ch13/Ch13_ANOVA_08.rst:48
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:51
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:24
 msgid ""
@@ -2677,7 +2677,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:51
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "‘Repeated Measures ANOVA (Non-parametric)’ dialogue box in jamovi"

@@ -6,11 +6,12 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 18:20+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: 2022-04-01 18:54+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -27,7 +28,6 @@ msgid "Categorical data analysis"
 msgstr "Analyse kategorialer Daten"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:19
-#, fuzzy
 msgid ""
 "Now that we’ve covered the basic theory behind hypothesis testing, it’s "
 "time to start looking at specific tests that are commonly used in "
@@ -64,7 +64,6 @@ msgstr ""
 "Faktoren oder latente Variablen bezeichnet werden."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:34
-#, fuzzy
 msgid ""
 "The term “categorical data” in the title of this chapter is just another "
 "name for “nominal scale data” |nominal|. It’s nothing that we haven’t "
@@ -81,19 +80,20 @@ msgid ""
 " the more common ones."
 msgstr ""
 "Der Begriff „kategoriale Daten“ im Titel dieses Kapitels ist nur eine "
-"andere Bezeichnung für „nominalskalierte Daten“. Es ist nichts, was wir "
-"nicht schon besprochen hätten, es ist nur so, dass man im Zusammenhang "
-"mit der Datenanalyse eher den Begriff „kategoriale Daten“ als "
-"„nominalskalierte Daten“ verwendet. Ich weiß nicht, warum. Auf jeden Fall"
-" bezieht sich die **kategoriale Datenanalyse** auf eine Reihe von "
+"andere Bezeichnung für „nominalskalierte Daten“ |nominal|. Es ist nichts,"
+" was wir nicht schon besprochen hätten, es ist nur so, dass man im "
+"Zusammenhang mit der Datenanalyse eher den Begriff „kategoriale Daten“ "
+"als „nominalskalierte Daten“ verwendet. Ich weiß nicht, warum. Auf jeden "
+"Fall bezieht sich die **kategoriale Datenanalyse** auf eine Reihe von "
 "Instrumenten, die Sie verwenden können, wenn Ihre Daten nominalskaliert "
-"sind. Diese Instrumente werden oft als „χ²-Tests“ (ausgesprochen „Chi-"
-"Quadrat“, oder in Englisch „chi-square“ oder „chi-squared“) bezeichnet. "
-"Sie ermitteln, ob ein statistisch signifikanter Unterschied zwischen "
-"erwarteten und beobachteten Häufigkeiten besteht und ob die Beobachtungen"
-" einer χ²-Häufigkeitsverteilung folgen. Es gibt jedoch viele verschiedene"
-" Werkzeuge, die für die Analyse kategorialer Daten verwendet werden "
-"können, und dieses Kapitel behandelt nur einige der gebräuchlichsten."
+"|nominal| sind. Diese Instrumente werden oft als „χ²-Tests“ "
+"(ausgesprochen „Chi-Quadrat“, oder in Englisch „chi-square“ oder „chi-"
+"squared“) bezeichnet. Sie ermitteln, ob ein statistisch signifikanter "
+"Unterschied zwischen erwarteten und beobachteten Häufigkeiten besteht und"
+" ob die Beobachtungen einer χ²-Häufigkeitsverteilung folgen. Es gibt "
+"jedoch viele verschiedene Werkzeuge, die für die Analyse kategorialer "
+"Daten verwendet werden können, und dieses Kapitel behandelt nur einige "
+"der gebräuchlichsten."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:49 ../../Ch10/Ch10_ChiSquare_1.rst:732
 #: ../../Ch10/Ch10_ChiSquare_2.rst:328
@@ -105,7 +105,6 @@ msgid "The χ² (chi-square) goodness-of-fit test"
 msgstr "Der χ² (Chi-Quadrat)-Anpassungstest"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:6
-#, fuzzy
 msgid ""
 "The χ² goodness-of-fit test is one of the oldest hypothesis tests around."
 " It was invented by `Karl Pearson (1900) "
@@ -126,14 +125,14 @@ msgstr ""
 "<../Other/References.html#pearson-1900>`__ erfunden, wobei später von "
 "`Sir Ronald Fisher (1922a) <../Other/References.html#fisher-1922a>`__ "
 "einige Korrekturen vorgenommen wurden. Er prüft, ob eine beobachtete "
-"Häufigkeitsverteilung einer nominalen Variablen mit einer erwarteten "
-"Häufigkeitsverteilung übereinstimmt. Nehmen wir zum Beispiel an, eine "
-"Gruppe von Patienten hat sich einer experimentellen Behandlung unterzogen"
-" und ihr Gesundheitszustand wurde untersucht, um festzustellen, ob sich "
-"ihr Zustand verbessert hat, gleich geblieben ist oder sich verschlechtert"
-" hat. Mit einem Anpassungstest ließe sich feststellen, ob die Zahlen in "
-"den einzelnen Kategorien – Verbesserung, keine Veränderung, "
-"Verschlechterung – mit den Zahlen übereinstimmen, die bei der "
+"Häufigkeitsverteilung einer nominalen Variablen |nominal| mit einer "
+"erwarteten Häufigkeitsverteilung übereinstimmt. Nehmen wir zum Beispiel "
+"an, eine Gruppe von Patienten hat sich einer experimentellen Behandlung "
+"unterzogen und ihr Gesundheitszustand wurde untersucht, um festzustellen,"
+" ob sich ihr Zustand verbessert hat, gleich geblieben ist oder sich "
+"verschlechtert hat. Mit einem Anpassungstest ließe sich feststellen, ob "
+"die Zahlen in den einzelnen Kategorien – Verbesserung, keine Veränderung,"
+" Verschlechterung – mit den Zahlen übereinstimmen, die bei der "
 "Standardbehandlung zu erwarten wären. Lassen Sie uns das Ganze mit etwas "
 "Psychologie weiterdenken."
 
@@ -762,7 +761,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "df"
-msgstr ""
+msgstr "df"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:404
 msgid "Probability"
@@ -778,188 +777,183 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.95"
-msgstr ""
+msgstr "0.95"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
-#, fuzzy
 msgid "0.90"
-msgstr "90"
+msgstr "0.90"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
-#, fuzzy
 msgid "0.70"
-msgstr "70"
+msgstr "0.70"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
-#, fuzzy
 msgid "0.50"
-msgstr "50"
+msgstr "0.50"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
-#, fuzzy
 msgid "0.30"
-msgstr "30"
+msgstr "0.30"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
-#, fuzzy
 msgid "0.10"
-msgstr "10"
+msgstr "0.10"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.05"
-msgstr ""
+msgstr "0.05"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.01"
-msgstr ""
+msgstr "0.01"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid "0.001"
-msgstr ""
+msgstr "0.001"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.004"
-msgstr ""
+msgstr "0.004"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.016"
-msgstr ""
+msgstr "0.016"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.148"
-msgstr ""
+msgstr "0.148"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "0.455"
-msgstr ""
+msgstr "0.455"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "1.074"
-msgstr ""
+msgstr "1.074"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "2.706"
-msgstr ""
+msgstr "2.706"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "3.841"
-msgstr ""
+msgstr "3.841"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "6.635"
-msgstr ""
+msgstr "6.635"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
 msgid "10.828"
-msgstr ""
+msgstr "10.828"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.103"
-msgstr ""
+msgstr "0.103"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.211"
-msgstr ""
+msgstr "0.211"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "0.713"
-msgstr ""
+msgstr "0.713"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "1.386"
-msgstr ""
+msgstr "1.386"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "2.408"
-msgstr ""
+msgstr "2.408"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "4.605"
-msgstr ""
+msgstr "4.605"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "5.991"
-msgstr ""
+msgstr "5.991"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "9.210"
-msgstr ""
+msgstr "9.210"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "13.816"
-msgstr ""
+msgstr "13.816"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "0.352"
-msgstr ""
+msgstr "0.352"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "0.584"
-msgstr ""
+msgstr "0.584"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "1.424"
-msgstr ""
+msgstr "1.424"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "2.366"
-msgstr ""
+msgstr "2.366"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "3.665"
-msgstr ""
+msgstr "3.665"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "6.251"
-msgstr ""
+msgstr "6.251"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "7.815"
-msgstr ""
+msgstr "7.815"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "11.345"
-msgstr ""
+msgstr "11.345"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:414
 msgid "16.266"
-msgstr ""
+msgstr "16.266"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "0.711"
-msgstr ""
+msgstr "0.711"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "1.064"
-msgstr ""
+msgstr "1.064"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "2.195"
-msgstr ""
+msgstr "2.195"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "3.357"
-msgstr ""
+msgstr "3.357"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "4.878"
-msgstr ""
+msgstr "4.878"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "7.779"
-msgstr ""
+msgstr "7.779"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "9.488"
-msgstr ""
+msgstr "9.488"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "13.277"
-msgstr ""
+msgstr "13.277"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:416
 msgid "18.467"
-msgstr ""
+msgstr "18.467"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418 ../../Ch10/Ch10_ChiSquare_7.rst:48
 msgid "5"
@@ -967,206 +961,199 @@ msgstr "5"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "1.145"
-msgstr ""
+msgstr "1.145"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
-#, fuzzy
 msgid "1.610"
-msgstr "160"
+msgstr "1.610"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "3.000"
-msgstr ""
+msgstr "3.000"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "4.351"
-msgstr ""
+msgstr "4.351"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "6.064"
-msgstr ""
+msgstr "6.064"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "9.236"
-msgstr ""
+msgstr "9.236"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
-#, fuzzy
 msgid "11.070"
-msgstr "100"
+msgstr "11.070"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "15.086"
-msgstr ""
+msgstr "15.086"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid "20.515"
-msgstr ""
+msgstr "20.515"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
-#, fuzzy
 msgid "6"
-msgstr "65"
+msgstr "6"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "1.635"
-msgstr ""
+msgstr "1.635"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "2.204"
-msgstr ""
+msgstr "2.204"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "3.828"
-msgstr ""
+msgstr "2.204"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "5.348"
-msgstr ""
+msgstr "5.348"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "7.231"
-msgstr ""
+msgstr "7.231"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "10.645"
-msgstr ""
+msgstr "10.645"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "12.592"
-msgstr ""
+msgstr "12.592"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "16.812"
-msgstr ""
+msgstr "16.812"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:420
 msgid "22.458"
-msgstr ""
+msgstr "22.458"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
-#, fuzzy
 msgid "7"
-msgstr "87"
+msgstr "7"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "2.167"
-msgstr ""
+msgstr "2.167"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "2.833"
-msgstr ""
+msgstr "2.833"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "4.671"
-msgstr ""
+msgstr "4.671"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "6.346"
-msgstr ""
+msgstr "6.346"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "8.383"
-msgstr ""
+msgstr "8.383"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "12.017"
-msgstr ""
+msgstr "12.017"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "14.067"
-msgstr ""
+msgstr "14.067"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "18.475"
-msgstr ""
+msgstr "18.475"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:422
 msgid "24.322"
-msgstr ""
+msgstr "24.322"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
-#, fuzzy
 msgid "8"
-msgstr "87"
+msgstr "8"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "2.733"
-msgstr ""
+msgstr "2.733"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "3.490"
-msgstr ""
+msgstr "3.490"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "5.527"
-msgstr ""
+msgstr "5.527"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "7.344"
-msgstr ""
+msgstr "7.344"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "9.524"
-msgstr ""
+msgstr "9.524"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "13.362"
-msgstr ""
+msgstr "13.362"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "15.507"
-msgstr ""
+msgstr "15.507"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
-#, fuzzy
 msgid "20.090"
-msgstr "200"
+msgstr "20.090"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:424
 msgid "26.124"
-msgstr ""
+msgstr "26.124"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
-#, fuzzy
 msgid "9"
-msgstr "93"
+msgstr "9"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "3.325"
-msgstr ""
+msgstr "3.325"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "4.168"
-msgstr ""
+msgstr "4.168"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "6.393"
-msgstr ""
+msgstr "6.393"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "8.343"
-msgstr ""
+msgstr "8.343"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "10.656"
-msgstr ""
+msgstr "10.656"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "14.684"
-msgstr ""
+msgstr "14.684"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "16.919"
-msgstr ""
+msgstr "16.919"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "21.666"
-msgstr ""
+msgstr "21.666"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:426
 msgid "27.877"
-msgstr ""
+msgstr "27.877"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428 ../../Ch10/Ch10_ChiSquare_7.rst:20
 #: ../../Ch10/Ch10_ChiSquare_7.rst:48
@@ -1175,40 +1162,39 @@ msgstr "10"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "3.940"
-msgstr ""
+msgstr "3.940"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "4.865"
-msgstr ""
+msgstr "4.865"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "7.267"
-msgstr ""
+msgstr "7.267"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "9.342"
-msgstr ""
+msgstr "9.342"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "11.781"
-msgstr ""
+msgstr "11.781"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "15.987"
-msgstr ""
+msgstr "15.987"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
-#, fuzzy
 msgid "18.307"
-msgstr "180"
+msgstr "18.307"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "23.209"
-msgstr ""
+msgstr "23.209"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:428
 msgid "29.588"
-msgstr ""
+msgstr "29.588"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:431
 msgid ""
@@ -1792,7 +1778,7 @@ msgstr "*O*\\ :sub:`21`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*O*\\ :sub:`22`"
-msgstr "*O*\\ :sub:`21`"
+msgstr "*O*\\ :sub:`22`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*R*\\ :sub:`2`"
@@ -2795,7 +2781,4 @@ msgid ""
 "The latter is a more advanced text, so it’s probably not wise to jump "
 "straight from this book to that one."
 msgstr ""
-
-
-
 

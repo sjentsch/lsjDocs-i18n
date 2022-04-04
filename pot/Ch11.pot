@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:10+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,15 +42,15 @@ msgid ""
 "groups."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:479
+#: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
 #: ../../Ch11/Ch11_tTest_09.rst:139
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
-#: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:476
+#: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
 #: ../../Ch11/Ch11_tTest_09.rst:136
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch11/Ch11_tTest.rst:39
 msgid ""
@@ -652,7 +652,7 @@ msgid ""
 "normal distribution."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_02.rst:103 ../../Ch11/Ch11_tTest_03.rst:264
+#: ../../Ch11/Ch11_tTest_02.rst:103 ../../Ch11/Ch11_tTest_03.rst:262
 #: ../../Ch11/Ch11_tTest_05.rst:167
 msgid "Doing the test in jamovi"
 msgstr ""
@@ -1202,7 +1202,7 @@ msgid ""
 "sample means). So the total degrees of freedom for this test are *N* - 2."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:266
+#: ../../Ch11/Ch11_tTest_03.rst:264
 msgid ""
 "Not surprisingly, you can run an independent samples *t*-test easily in "
 "jamovi. The outcome variable for our test is the student ``grade``, and the "
@@ -1214,17 +1214,17 @@ msgid ""
 "Variable`` box, as shown in :numref:`fig-ttest_ind`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:281
+#: ../../Ch11/Ch11_tTest_03.rst:279
 msgid "Conducting an Independent t-test in jamovi"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:281
+#: ../../Ch11/Ch11_tTest_03.rst:279
 msgid ""
 "Conducting an Independent t-test in jamovi, with options for recommended "
 "outputs checked."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:286
+#: ../../Ch11/Ch11_tTest_03.rst:284
 msgid ""
 "The output has a very familiar form. First, it tells you what test was run, "
 "and it tells you the name of the dependent variable that you used. It then "
@@ -1235,7 +1235,7 @@ msgid ""
 "should talk about now."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:294
+#: ../../Ch11/Ch11_tTest_03.rst:292
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1250,13 +1250,13 @@ msgid ""
 "reminder about what confidence intervals mean."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:307
+#: ../../Ch11/Ch11_tTest_03.rst:305
 msgid ""
 "In any case, the difference between the two groups is significant (just "
 "barely), so we might write up the result using text like this:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:310
+#: ../../Ch11/Ch11_tTest_03.rst:308
 msgid ""
 "The mean grade in Anastasia’s class was 74.5% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1% (std dev = 5.8). A Student’s "
@@ -1266,7 +1266,7 @@ msgid ""
 "occurred."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:317
+#: ../../Ch11/Ch11_tTest_03.rst:315
 msgid ""
 "Notice that I’ve included the confidence interval and the effect size in the "
 "stat block. People don’t always do this. At a bare minimum, you’d expect to "
@@ -1285,11 +1285,11 @@ msgid ""
 "usually worth including both the effect size and the confidence interval."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:336
+#: ../../Ch11/Ch11_tTest_03.rst:334
 msgid "Positive and negative t values"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:338
+#: ../../Ch11/Ch11_tTest_03.rst:336
 msgid ""
 "Before moving on to talk about the assumptions of the *t*-test, there’s one "
 "additional point I want to make about the use of *t*-tests in practice. The "
@@ -1308,11 +1308,11 @@ msgid ""
 "simple. The *t*-statistic that we calculate here is always of the form"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:357
+#: ../../Ch11/Ch11_tTest_03.rst:355
 msgid "*t* = (mean 1 - mean 2) / SE"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:359
+#: ../../Ch11/Ch11_tTest_03.rst:357
 msgid ""
 "If “mean 1” is larger than “mean 2” the t statistic will be positive, "
 "whereas if “mean 2” is larger then the t statistic will be negative. "
@@ -1322,7 +1322,7 @@ msgid ""
 "for the difference “(mean 2) minus (mean 1)”."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:366
+#: ../../Ch11/Ch11_tTest_03.rst:364
 msgid ""
 "Okay, that’s pretty straightforward when you think about it, but now "
 "consider our *t*-test comparing Anastasia’s class to Bernadette’s class. "
@@ -1338,7 +1338,7 @@ msgid ""
 "look at the actual group means since the jamovi output actually shows them!"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:380
+#: ../../Ch11/Ch11_tTest_03.rst:378
 msgid ""
 "Here’s the important thing. Because it really doesn’t matter what jamovi "
 "shows you, I usually try to *report* the *t*-statistic in such a way that "
@@ -1349,13 +1349,13 @@ msgid ""
 "If so, I would write"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:388
+#: ../../Ch11/Ch11_tTest_03.rst:386
 msgid ""
 "Anastasia’s class had higher grades than Bernadette’s class: *t*\\(31) = "
 "2.1, *p* = 0.04."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:391
+#: ../../Ch11/Ch11_tTest_03.rst:389
 msgid ""
 "(I wouldn’t actually underline the word “higher” in real life, I’m just "
 "doing it to emphasise the point that “higher” corresponds to positive t "
@@ -1364,20 +1364,20 @@ msgid ""
 "class as group 1, and if so, the write up looks like this"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:397
+#: ../../Ch11/Ch11_tTest_03.rst:395
 msgid ""
 "Bernadette’s class had lower grades than Anastasia’s class: *t*\\(31) = "
 "-2.1, p = 0.04."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:400
+#: ../../Ch11/Ch11_tTest_03.rst:398
 msgid ""
 "Because I’m talking about one group having “lower” scores this time around, "
 "it is more sensible to use the negative form of the *t*-statistic. It just "
 "makes it read more cleanly."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:404
+#: ../../Ch11/Ch11_tTest_03.rst:402
 msgid ""
 "One last thing: please note that you *can’t* do this for other types of test "
 "statistics. It works for *t*-tests, but it wouldn’t be meaningful for χ²-"
@@ -1386,11 +1386,11 @@ msgid ""
 "tests here and nothing else!"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:412
+#: ../../Ch11/Ch11_tTest_03.rst:410
 msgid "Assumptions of the Student *t*-test"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:414
+#: ../../Ch11/Ch11_tTest_03.rst:412
 msgid ""
 "As always, our hypothesis test relies on some assumptions. So what are they? "
 "For the Student *t*-test there are three assumptions, some of which we saw "
@@ -1398,7 +1398,7 @@ msgid ""
 "`Assumptions of the one sample t-test <../Ch11/Ch11_tTest_02>`):"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:419
+#: ../../Ch11/Ch11_tTest_03.rst:417
 msgid ""
 "*Normality*. Like the one-sample *t*-test, it is assumed that the data are "
 "normally distributed. Specifically, we assume that both groups are normally "
@@ -1408,7 +1408,7 @@ msgid ""
 "we’ll discuss possible solutions."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:426
+#: ../../Ch11/Ch11_tTest_03.rst:424
 msgid ""
 "*Independence*. Once again, it is assumed that the observations are "
 "independently sampled. In the context of the Student test this has two "
@@ -1421,7 +1421,7 @@ msgid ""
 "sample dependencies that you’d need to take into account."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:437
+#: ../../Ch11/Ch11_tTest_03.rst:435
 msgid ""
 "*Homogeneity of variance* (also called “homoscedasticity”). The third "
 "assumption is that the population standard deviation is the same in both "
@@ -1432,11 +1432,11 @@ msgid ""
 "in the next section."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:448
+#: ../../Ch11/Ch11_tTest_03.rst:446
 msgid "Although it is the simplest, which is why I started with it."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:451
+#: ../../Ch11/Ch11_tTest_03.rst:449
 msgid ""
 "A funny question almost always pops up at this point: what the heck *is* the "
 "population being referred to in this case? Is it the set of students "
@@ -1455,7 +1455,7 @@ msgid ""
 "behaviour from the test, so we tend to just ignore it."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:468
+#: ../../Ch11/Ch11_tTest_03.rst:466
 msgid ""
 "A more correct notation will be introduced in chapter :doc:`Comparing "
 "several means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`."
@@ -2637,7 +2637,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:142
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch11/Ch11_tTest_09.rst:90
 msgid "all differences"

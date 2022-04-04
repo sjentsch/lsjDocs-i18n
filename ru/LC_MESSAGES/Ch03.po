@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-03-29 21:07+0000\n"
 "Last-Translator: ANIGO R. (AR) <franigoyt@gmail.com>\n"
 "Language: ru\n"
@@ -309,7 +309,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:323 ../../Ch03/Ch03_jamoviIntro_3.rst:82
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:42
 msgid ""
@@ -765,17 +765,4 @@ msgid ""
 " it again later. I usually create a new folder for specific data sets and"
 " analyses."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
 

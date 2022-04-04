@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-04-01 14:10+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -123,7 +123,6 @@ msgstr ""
 "zusammenhängen):"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:12
-#, fuzzy
 msgid ""
 "**Other types of correlations.** In chapter :doc:`Correlation and linear "
 "regression <../Ch12/Ch12_Regression>` I talked about two types of "
@@ -140,16 +139,16 @@ msgstr ""
 "lineare Regression <../Ch12/Ch12_Regression>` habe ich über zwei Arten "
 "von Korrelationen gesprochen: Pearson und Spearman. Beide Methoden zur "
 "Bewertung der Korrelation eignen sich für den Fall, dass Sie zwei "
-"kontinuierliche Variablen haben und die Beziehung zwischen ihnen bewerten"
-" möchten. Wie sieht es aber aus, wenn Ihre Variablen beide "
-"nominalskaliert sind? Oder wenn die eine nominalskaliert und die andere "
-"kontinuierlich ist? Es gibt tatsächlich Methoden zur Berechnung von "
-"Korrelationen in solchen Fällen (z. B. polychorische Korrelation), und es"
-" wäre gut, wenn diese einbezogen würden."
+"kontinuierliche Variablen |continuous| haben und die Beziehung zwischen "
+"ihnen bewerten möchten. Wie sieht es aber aus, wenn Ihre Variablen beide "
+"nominalskaliert |nominal| sind? Oder wenn die eine nominalskaliert |nominal| "
+"und die andere kontinuierlich |continuous| ist? Es gibt tatsächlich Methoden "
+"zur Berechnung von Korrelationen in solchen Fällen (z. B. polychorische "
+"Korrelation), und es wäre gut, wenn diese einbezogen würden."
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
@@ -758,6 +757,4 @@ msgid ""
 "And what I hope is that this book, or the finished book that this will "
 "one day turn into, is able to help you with that."
 msgstr ""
-
-
 

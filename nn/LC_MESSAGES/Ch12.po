@@ -6,11 +6,12 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:08+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language: nn\n"
@@ -35,7 +36,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:417
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
 msgid "Correlations"
@@ -1232,23 +1233,23 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:60
 msgid "125.966"
-msgstr ""
+msgstr "125.966"
 
 #: ../../Ch12/Ch12_Regression_05.rst:62
 msgid "``dani.sleep``"
-msgstr ""
+msgstr "``dani.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:62
-msgid "−8.950"
-msgstr ""
+msgid "-8.950"
+msgstr "-8.950"
 
 #: ../../Ch12/Ch12_Regression_05.rst:64
 msgid "``baby.sleep``"
-msgstr ""
+msgstr "``baby.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:64
 msgid "0.011"
-msgstr ""
+msgstr "0.011"
 
 #: ../../Ch12/Ch12_Regression_05.rst:67
 msgid ""
@@ -2982,22 +2983,4 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_12>`"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

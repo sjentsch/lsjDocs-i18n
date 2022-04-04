@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:10+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,11 +94,11 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:22
 msgid ""
@@ -205,7 +205,7 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:180
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:40
 msgid ""

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 17:19+0200\n"
+"POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-03-31 13:28+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:390
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid "Comparison of mean and median"
@@ -1909,18 +1909,4 @@ msgid ""
 "need to think about the individual events that your statistics are "
 "summarising."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

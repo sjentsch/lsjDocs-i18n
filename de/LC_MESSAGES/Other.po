@@ -1,4 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
+^# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -70,16 +70,15 @@ msgid "Citation"
 msgstr "Referenz"
 
 #: ../../Other/Prologue.rst:26
-#, fuzzy
 msgid ""
 "Navarro, D. J., & Foxcroft, D. R. (2022). *learning statistics with "
 "jamovi: a tutorial for psychology students and other beginners.* (Version"
 " 0.75). `https://doi.org/10.24384/hgc3-7p15 "
 "<https://doi.org/10.24384/hgc3-7p15>`__"
 msgstr ""
-"Navarro, D. J., & Foxcroft, D. R. (2019). *learning statistics with "
+"Navarro, D. J., & Foxcroft, D. R. (2022). *learning statistics with "
 "jamovi: a tutorial for psychology students and other beginners.* (Version"
-" 0.70). `https://doi.org/10.24384/hgc3-7p15 "
+" 0.75). `https://doi.org/10.24384/hgc3-7p15 "
 "<https://doi.org/10.24384/hgc3-7p15>`__"
 
 #: ../../Other/Prologue.rst:30
@@ -104,9 +103,8 @@ msgid "Preface"
 msgstr "Vorwort"
 
 #: ../../Other/Prologue.rst:40
-#, fuzzy
 msgid "**Preface to Version 0.75**"
-msgstr "**Vorwort zu Version 0.5**"
+msgstr "**Vorwort zu Version 0.75**"
 
 #: ../../Other/Prologue.rst:42
 msgid ""
@@ -128,16 +126,14 @@ msgid "*David Foxcroft*"
 msgstr "*David Foxcroft*"
 
 #: ../../Other/Prologue.rst:54
-#, fuzzy
 msgid "*February 9th, 2022*"
-msgstr "*1. Februar 2019*"
+msgstr "*9. Februar 2022*"
 
 #: ../../Other/Prologue.rst:57
 msgid "**Preface to Version 0.70**"
 msgstr "**Vorwort zu Version 0.70**"
 
 #: ../../Other/Prologue.rst:59
-#, fuzzy
 msgid ""
 "This update from version 0.65 introduces some new analyses. In the ANOVA "
 "chapters we have added sections on repeated measures ANOVA and analysis "
@@ -482,7 +478,6 @@ msgstr ""
 "stellen."
 
 #: ../../Other/Prologue.rst:216
-#, fuzzy
 msgid ""
 "What this means is that if you are an academic looking for teaching "
 "materials, a Ph.D. student looking to learn R, or just a member of the "
@@ -514,8 +509,8 @@ msgstr ""
 "Demand-Service für weniger als die Hälfte dessen vertreiben, was ein "
 "Lehrbuchverlag verlangen würde. Damit ist mein schlechtes Gewissen "
 "beruhigt, und ich bin bereit, zu teilen! In diesem Sinne können Sie "
-"kostenlose Softcopies und billige Hardcopies online auf den folgenden "
-"Webseiten erhalten:"
+"eine kostenlose elektronische Version von "
+"https://learningstatisticswithr.com herunterladen."
 
 #: ../../Other/Prologue.rst:232
 msgid ""
