@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 17:19+0200\n"
+"POT-Creation-Date: 2022-04-04 22:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,13 +37,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:671
-#: ../../Ch14/Ch14_ANOVA2_05.rst:151 ../../Ch14/Ch14_ANOVA2_06.rst:552
-#: ../../Ch14/Ch14_ANOVA2_10.rst:657
+#: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:552
+#: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
-#: ../../Ch14/Ch14_ANOVA2_05.rst:148 ../../Ch14/Ch14_ANOVA2_10.rst:654
+#: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
 msgstr ""
 
@@ -863,7 +863,7 @@ msgid ""
 "the column variable Factor B). So, for the ``drugs`` factor we obtain *df* = "
 "2, and for the ``therapy`` factor we obtain *df* = 1. Later on, when we "
 "discuss the interpretation of ANOVA as a regression model (see section :doc:"
-"`ANOVA as a linear model <../Ch14/Ch14_ANOVA2_06>`), I’ll give a clearer "
+"`ANOVA as a linear model <../Ch14/Ch14_ANOVA2_07>`), I’ll give a clearer "
 "statement of how we arrive at this number. But for the moment we can use the "
 "simple definition of degrees of freedom, namely that the degrees of freedom "
 "equals the number of quantities that are observed, minus the number of "
@@ -1432,8 +1432,8 @@ msgid ""
 "(say) ``drug``, it doesn’t tell you anything about which drugs are different "
 "to one another. To find that out, you need to run additional analyses. We’ll "
 "talk about some analyses that you can run in sections :doc:`Different ways "
-"to specify contrasts <../Ch14/Ch14_ANOVA2_07>` and :doc:`Post-hoc tests <../"
-"Ch14/Ch14_ANOVA2_08>`. The same is true for interaction effects. Knowing "
+"to specify contrasts <../Ch14/Ch14_ANOVA2_08>` and :doc:`Post-hoc tests <../"
+"Ch14/Ch14_ANOVA2_09>`. The same is true for interaction effects. Knowing "
 "that there’s a significant interaction doesn’t tell you anything about what "
 "kind of interaction exists. Again, you’ll need to run additional analyses."
 msgstr ""
@@ -1766,11 +1766,11 @@ msgid ""
 "factorialanova5`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:4
+#: ../../Ch14/Ch14_ANOVA2_06.rst:4
 msgid "Analysis of Covariance (ANCOVA)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:6
+#: ../../Ch14/Ch14_ANOVA2_06.rst:6
 msgid ""
 "A variation in ANOVA is when you have an additional continuous variable |"
 "continuous| that you think might be related to the dependent variable. This "
@@ -1778,7 +1778,7 @@ msgid ""
 "aptly named analysis of covariance (ANCOVA)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:11
+#: ../../Ch14/Ch14_ANOVA2_06.rst:11
 msgid ""
 "In ANCOVA the values of the dependent variable are “adjusted” for the "
 "influence of the covariate, and then the “adjusted” score means are tested "
@@ -1792,7 +1792,7 @@ msgid ""
 "the null hypothesis (false negative or type II error) is less likely."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:22
+#: ../../Ch14/Ch14_ANOVA2_06.rst:22
 msgid ""
 "Despite this advantage, ANCOVA runs the risk of undoing real differences "
 "between groups |nominal|, and this should be avoided. Look at :numref:`fig-"
@@ -1806,22 +1806,22 @@ msgid ""
 "References.html#everitt-1996>`__\\ )."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:39
+#: ../../Ch14/Ch14_ANOVA2_06.rst:39
 msgid "Plot of Statistics anxiety against age for two distinct groups"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:43
+#: ../../Ch14/Ch14_ANOVA2_06.rst:43
 msgid ""
 "Clearly, careful thought needs to be given to an analysis of covariance with "
 "distinct groups. This applies to both one-way and factorial designs, as "
 "ANCOVA can be used with both."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:48
+#: ../../Ch14/Ch14_ANOVA2_06.rst:48
 msgid "Running ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:50
+#: ../../Ch14/Ch14_ANOVA2_06.rst:50
 msgid ""
 "A health psychologist was interested in the effect of routine cycling and "
 "stress on happiness levels, with age as a covariate. Open the |ancova|_ data "
@@ -1836,17 +1836,17 @@ msgid ""
 "options."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:67
 msgid "The jamovi ANCOVA analysis panel"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:67
 msgid ""
 "Analysis panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:73
+#: ../../Ch14/Ch14_ANOVA2_06.rst:73
 msgid ""
 "An ANCOVA table showing Tests of Between-Subjects Effects is produced in the "
 "jamovi results panel (:numref:`fig-ancova2`). The F value for the covariate "
@@ -1859,28 +1859,28 @@ msgid ""
 "effects."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:88
 msgid "jamovi ANCOVA output"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:88
 msgid ""
 "jamovi ANCOVA output for happiness as a function of stress and commuting "
 "method, with age as a covariate"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:97
 msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:97
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
 "for the covariate age) with 95% confidence intervals"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:103
+#: ../../Ch14/Ch14_ANOVA2_06.rst:103
 msgid ""
 "The *F*-value for the main effect ‘stress’ (52.61) has an associated "
 "probability of *p* < 0.001. The F value for the main effect "
@@ -1893,7 +1893,7 @@ msgid ""
 "also found (*F*\\(1,15) = \\14.15, *p* = 0.002)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:113
+#: ../../Ch14/Ch14_ANOVA2_06.rst:113
 msgid ""
 "In :numref:`fig-ancova4` we can see the adjusted, marginal, mean happiness "
 "scores when age is a covariate in an ANCOVA. In this analysis there is a "
@@ -1905,17 +1905,17 @@ msgid ""
 "people who cycle are happier, on average, than those who drive to work."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:128
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:128
 msgid ""
 "Plot with the Estimated Marginal means within the ANCOVA: Shown are the mean "
 "happiness level as a function of stress and commuting method"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_05.rst:133
+#: ../../Ch14/Ch14_ANOVA2_06.rst:133
 msgid ""
 "One thing to be aware of is that, if you are thinking of including a "
 "covariate in your ANOVA, there is an additional assumption: the relationship "
@@ -1928,11 +1928,11 @@ msgid ""
 "the scope of this book so you might want to consult a friendly statistician)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:4
+#: ../../Ch14/Ch14_ANOVA2_07.rst:4
 msgid "ANOVA as a linear model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:6
+#: ../../Ch14/Ch14_ANOVA2_07.rst:6
 msgid ""
 "One of the most important things to understand about ANOVA and regression is "
 "that they’re basically the same thing. On the surface of it, you maybe "
@@ -1950,7 +1950,7 @@ msgid ""
 "repetitive."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:20
+#: ../../Ch14/Ch14_ANOVA2_07.rst:20
 msgid ""
 "The reason for this is that ANOVA and regression are both kinds of **linear "
 "models**. In the case of regression, this is kind of obvious. The regression "
@@ -1959,7 +1959,7 @@ msgid ""
 "linear model, with the equation"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:26 ../../Ch14/Ch14_ANOVA2_06.rst:133
+#: ../../Ch14/Ch14_ANOVA2_07.rst:26 ../../Ch14/Ch14_ANOVA2_07.rst:133
 msgid ""
 "*Y*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p` + ϵ\\ :sub:`p`"
@@ -1967,7 +1967,7 @@ msgstr ""
 "*Y*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p` + ϵ\\ :sub:`p`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:28
+#: ../../Ch14/Ch14_ANOVA2_07.rst:28
 msgid ""
 "where *Y*\\ :sub:`p` is the outcome value for the *p*-th observation (e.g., "
 "*p*-th person), *X*\\ :sub:`1p` is the value of the first predictor for the "
@@ -1978,7 +1978,7 @@ msgid ""
 "regression line itself, we get the following formula:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:37
+#: ../../Ch14/Ch14_ANOVA2_07.rst:37
 msgid ""
 "*Ŷ*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p`"
@@ -1986,7 +1986,7 @@ msgstr ""
 "*Ŷ*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:39
+#: ../../Ch14/Ch14_ANOVA2_07.rst:39
 msgid ""
 "where *Ŷ*\\ :sub:`p` is the value of *Y* that the regression line predicts "
 "for person *p*, as opposed to the actually-observed value *Y*\\ :sub:`p`. "
@@ -1996,11 +1996,11 @@ msgid ""
 "ANOVA as a linear model."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:47
+#: ../../Ch14/Ch14_ANOVA2_07.rst:47
 msgid "Some data"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:49
+#: ../../Ch14/Ch14_ANOVA2_07.rst:49
 msgid ""
 "To make things concrete, let’s suppose that our outcome variable is the "
 "``grade`` that a student receives in my class, a ratio-scale variable "
@@ -2013,7 +2013,7 @@ msgid ""
 "0`` if they did not."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:59
+#: ../../Ch14/Ch14_ANOVA2_07.rst:59
 msgid ""
 "Okay, so far that’s simple enough. The next thing we need to do is to wrap "
 "some maths around this (sorry!). For the purposes of this example, let "
@@ -2040,102 +2040,102 @@ msgid ""
 "like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:85
+#: ../../Ch14/Ch14_ANOVA2_07.rst:85
 msgid "person, p"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:85
+#: ../../Ch14/Ch14_ANOVA2_07.rst:85
 msgid "grade, *Y*\\ :sub:`p`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:85
+#: ../../Ch14/Ch14_ANOVA2_07.rst:85
 msgid "attendance, *X*\\ :sub:`1p`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:85
+#: ../../Ch14/Ch14_ANOVA2_07.rst:85
 msgid "reading, *X*\\ :sub:`2p`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88 ../../Ch14/Ch14_ANOVA2_06.rst:90
-#: ../../Ch14/Ch14_ANOVA2_06.rst:92 ../../Ch14/Ch14_ANOVA2_06.rst:94
-#: ../../Ch14/Ch14_ANOVA2_06.rst:100 ../../Ch14/Ch14_ANOVA2_06.rst:102
-#: ../../Ch14/Ch14_ANOVA2_06.rst:343 ../../Ch14/Ch14_ANOVA2_06.rst:345
-#: ../../Ch14/Ch14_ANOVA2_07.rst:15 ../../Ch14/Ch14_ANOVA2_07.rst:17
+#: ../../Ch14/Ch14_ANOVA2_07.rst:88 ../../Ch14/Ch14_ANOVA2_07.rst:90
+#: ../../Ch14/Ch14_ANOVA2_07.rst:92 ../../Ch14/Ch14_ANOVA2_07.rst:94
+#: ../../Ch14/Ch14_ANOVA2_07.rst:100 ../../Ch14/Ch14_ANOVA2_07.rst:102
+#: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_07.rst:345
+#: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "1"
 msgstr "1"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88
+#: ../../Ch14/Ch14_ANOVA2_07.rst:88
 msgid "90"
 msgstr "90"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:90
+#: ../../Ch14/Ch14_ANOVA2_07.rst:90
 msgid "2"
 msgstr "2"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:90
+#: ../../Ch14/Ch14_ANOVA2_07.rst:90
 msgid "87"
 msgstr "87"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:92
+#: ../../Ch14/Ch14_ANOVA2_07.rst:92
 msgid "3"
 msgstr "3"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:92
+#: ../../Ch14/Ch14_ANOVA2_07.rst:92
 msgid "75"
 msgstr "75"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:92 ../../Ch14/Ch14_ANOVA2_06.rst:94
-#: ../../Ch14/Ch14_ANOVA2_06.rst:96 ../../Ch14/Ch14_ANOVA2_06.rst:98
-#: ../../Ch14/Ch14_ANOVA2_06.rst:100 ../../Ch14/Ch14_ANOVA2_06.rst:102
-#: ../../Ch14/Ch14_ANOVA2_06.rst:341 ../../Ch14/Ch14_ANOVA2_06.rst:343
-#: ../../Ch14/Ch14_ANOVA2_06.rst:345 ../../Ch14/Ch14_ANOVA2_07.rst:13
-#: ../../Ch14/Ch14_ANOVA2_07.rst:15 ../../Ch14/Ch14_ANOVA2_07.rst:17
-#: ../../Ch14/Ch14_ANOVA2_10.rst:544 ../../Ch14/Ch14_ANOVA2_10.rst:546
+#: ../../Ch14/Ch14_ANOVA2_07.rst:92 ../../Ch14/Ch14_ANOVA2_07.rst:94
+#: ../../Ch14/Ch14_ANOVA2_07.rst:96 ../../Ch14/Ch14_ANOVA2_07.rst:98
+#: ../../Ch14/Ch14_ANOVA2_07.rst:100 ../../Ch14/Ch14_ANOVA2_07.rst:102
+#: ../../Ch14/Ch14_ANOVA2_07.rst:341 ../../Ch14/Ch14_ANOVA2_07.rst:343
+#: ../../Ch14/Ch14_ANOVA2_07.rst:345 ../../Ch14/Ch14_ANOVA2_08.rst:13
+#: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
+#: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:546
 msgid "0"
 msgstr "0"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:94
+#: ../../Ch14/Ch14_ANOVA2_07.rst:94
 msgid "4"
 msgstr "4"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:94
+#: ../../Ch14/Ch14_ANOVA2_07.rst:94
 msgid "60"
 msgstr "60"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:96 ../../Ch14/Ch14_ANOVA2_10.rst:563
-#: ../../Ch14/Ch14_ANOVA2_10.rst:565
+#: ../../Ch14/Ch14_ANOVA2_07.rst:96 ../../Ch14/Ch14_ANOVA2_11.rst:563
+#: ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "5"
 msgstr "5"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#: ../../Ch14/Ch14_ANOVA2_07.rst:96
 msgid "35"
 msgstr "35"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:98
+#: ../../Ch14/Ch14_ANOVA2_07.rst:98
 msgid "6"
 msgstr "6"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:98
+#: ../../Ch14/Ch14_ANOVA2_07.rst:98
 msgid "50"
 msgstr "50"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:100
+#: ../../Ch14/Ch14_ANOVA2_07.rst:100
 msgid "7"
 msgstr "7"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:100
+#: ../../Ch14/Ch14_ANOVA2_07.rst:100
 msgid "65"
 msgstr "65"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:102
+#: ../../Ch14/Ch14_ANOVA2_07.rst:102
 msgid "8"
 msgstr "8"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:102
+#: ../../Ch14/Ch14_ANOVA2_07.rst:102
 msgid "70"
 msgstr "70"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:105
+#: ../../Ch14/Ch14_ANOVA2_07.rst:105
 msgid ""
 "This isn’t anything particularly special, of course. It’s exactly the format "
 "in which we expect to see our data! See the |rtfm|_ data set. We can use the "
@@ -2147,19 +2147,19 @@ msgid ""
 "attending the class both matter a lot."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:120
+#: ../../Ch14/Ch14_ANOVA2_07.rst:120
 msgid "jamovi descriptives for the |rtfm| data set"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:120
+#: ../../Ch14/Ch14_ANOVA2_07.rst:120
 msgid "jamovi descriptives for the |rtfm|_ dataset"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:125
+#: ../../Ch14/Ch14_ANOVA2_07.rst:125
 msgid "ANOVA with binary factors as a regression model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:127
+#: ../../Ch14/Ch14_ANOVA2_07.rst:127
 msgid ""
 "Okay, let’s get back to talking about the mathematics. We now have our data "
 "expressed in terms of three numeric variables: the continuous variable *Y* "
@@ -2168,7 +2168,7 @@ msgid ""
 "to the regression model:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:135
+#: ../../Ch14/Ch14_ANOVA2_07.rst:135
 msgid ""
 "This is, of course, the exact same equation that I used earlier to describe "
 "a two-predictor regression model! The only difference is that *X*\\ :sub:`1` "
@@ -2186,17 +2186,17 @@ msgid ""
 "jamovi."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:156
+#: ../../Ch14/Ch14_ANOVA2_07.rst:156
 msgid "ANOVA with two factors (unsaturated: main effects, no interaction="
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:156
+#: ../../Ch14/Ch14_ANOVA2_07.rst:156
 msgid ""
 "ANOVA of the |rtfm|_ data set in jamovi: Model with two factors ``attend`` "
 "and ``reading`` but without the interaction term for these two factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:161
+#: ../../Ch14/Ch14_ANOVA2_07.rst:161
 msgid ""
 "So, by reading the key numbers off the ANOVA table and the mean scores that "
 "we presented earlier, we can see that the students obtained a higher grade "
@@ -2205,7 +2205,7 @@ msgid ""
 "values and those *F* statistics."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:167
+#: ../../Ch14/Ch14_ANOVA2_07.rst:167
 msgid ""
 "Now let’s think about the same analysis from a linear regression "
 "perspective. In the |rtfm|_ data set, we have encoded ``attend`` and "
@@ -2222,7 +2222,7 @@ msgid ""
 "true for our ``reading`` variable."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:180
+#: ../../Ch14/Ch14_ANOVA2_07.rst:180
 msgid ""
 "Wait a second though. *Why* is this true? It’s something that is intuitively "
 "obvious to everyone who has taken a few stats classes and is comfortable "
@@ -2239,7 +2239,7 @@ msgid ""
 "regression predicts that:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:193
+#: ../../Ch14/Ch14_ANOVA2_07.rst:193
 msgid ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,6` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,6`"
@@ -2247,17 +2247,17 @@ msgstr ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,6` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,6`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:194
+#: ../../Ch14/Ch14_ANOVA2_07.rst:194
 msgid ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 0 + *b*\\ :sub:`2` × 0"
 msgstr ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 0 + *b*\\ :sub:`2` × 0"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:195
+#: ../../Ch14/Ch14_ANOVA2_07.rst:195
 msgid "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0`"
 msgstr "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:197
+#: ../../Ch14/Ch14_ANOVA2_07.rst:197
 msgid ""
 "So we’re expecting that this student will obtain a grade corresponding to "
 "the value of the intercept term *b*\\ :sub:`0`. What about student 7? This "
@@ -2265,7 +2265,7 @@ msgid ""
 "obtain the following:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:202
+#: ../../Ch14/Ch14_ANOVA2_07.rst:202
 msgid ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,7` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,7`"
@@ -2273,17 +2273,17 @@ msgstr ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,7` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,7`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:203
+#: ../../Ch14/Ch14_ANOVA2_07.rst:203
 msgid ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 0"
 msgstr ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 0"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:204
+#: ../../Ch14/Ch14_ANOVA2_07.rst:204
 msgid "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1`"
 msgstr "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:206
+#: ../../Ch14/Ch14_ANOVA2_07.rst:206
 msgid ""
 "Because this student attended class, the predicted grade is equal to the "
 "intercept term *b*\\ :sub:`0` *plus* the coefficient associated with the "
@@ -2297,7 +2297,7 @@ msgid ""
 "regression we get:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:216
+#: ../../Ch14/Ch14_ANOVA2_07.rst:216
 msgid ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,1` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,1`"
@@ -2305,17 +2305,17 @@ msgstr ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,1` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,1`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:217
+#: ../../Ch14/Ch14_ANOVA2_07.rst:217
 msgid ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 1"
 msgstr ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 1"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:218
+#: ../../Ch14/Ch14_ANOVA2_07.rst:218
 msgid "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
 msgstr "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:220
+#: ../../Ch14/Ch14_ANOVA2_07.rst:220
 msgid ""
 "So if we assume that attending class helps you get a good grade (i.e., "
 "*b*\\ :sub:`1 > 0`) and if we assume that reading the textbook also helps "
@@ -2323,7 +2323,7 @@ msgid ""
 "student 1 will get a grade that that is higher than student 6 and student 7."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:225
+#: ../../Ch14/Ch14_ANOVA2_07.rst:225
 msgid ""
 "And at this point you won’t be at all suprised to learn that the regression "
 "model predicts that student 3, who read the book but didn’t attend lectures, "
@@ -2332,47 +2332,47 @@ msgid ""
 "table of *expected grades*:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:232
+#: ../../Ch14/Ch14_ANOVA2_07.rst:232
 msgid "read textbook?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:234
+#: ../../Ch14/Ch14_ANOVA2_07.rst:234
 msgid "no"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:234
+#: ../../Ch14/Ch14_ANOVA2_07.rst:234
 msgid "yes"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:236
+#: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "**attended?**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:236
+#: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "**no**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:236
+#: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "*b*\\ :sub:`0`"
 msgstr "*b*\\ :sub:`0`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:236
+#: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "*b*\\ :sub:`0 + b_2`"
 msgstr "*b*\\ :sub:`0 + b_2`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:238
+#: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "**yes**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:238
+#: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "*b*\\ :sub:`0 + b_1`"
 msgstr "*b*\\ :sub:`0 + b_1`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:238
+#: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "*b*\\ :sub:`0 + b_1 + b_2`"
 msgstr "*b*\\ :sub:`0 + b_1 + b_2`"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:241
+#: ../../Ch14/Ch14_ANOVA2_07.rst:241
 msgid ""
 "As you can see, the intercept term *b*\\ :sub:`0` acts like a kind of "
 "“baseline” grade that you would expect from those students who don’t take "
@@ -2385,7 +2385,7 @@ msgid ""
 "plays out."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:250
+#: ../../Ch14/Ch14_ANOVA2_07.rst:250
 msgid ""
 "Okay, now that we’re really starting to see why ANOVA and regression are "
 "basically the same thing, let’s actually run our regression using the "
@@ -2394,18 +2394,18 @@ msgid ""
 "results shown in :numref:`fig-factorialanova7`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:262
+#: ../../Ch14/Ch14_ANOVA2_07.rst:262
 msgid "Regression analysis for the rtfm dataset, unsaturated"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:262
+#: ../../Ch14/Ch14_ANOVA2_07.rst:262
 msgid ""
 "Regression analysis for the |rtfm|_ data set in jamovi: Model with two "
 "factors ``attend`` and ``reading`` but without the interaction term for "
 "these two factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:268
+#: ../../Ch14/Ch14_ANOVA2_07.rst:268
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -2419,7 +2419,7 @@ msgid ""
 "look at the students that read the textbook."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:279
+#: ../../Ch14/Ch14_ANOVA2_07.rst:279
 msgid ""
 "Actually, we can push a little further in establishing the equivalence of "
 "our ANOVA and our regression. Look at the *p*-values associated with the "
@@ -2439,7 +2439,7 @@ msgid ""
 "*F* statistic in our ANOVA."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:295
+#: ../../Ch14/Ch14_ANOVA2_07.rst:295
 msgid ""
 "Finally, one last thing you should know. Because jamovi understands the fact "
 "that ANOVA and regression are both examples of linear models, it lets you "
@@ -2449,21 +2449,21 @@ msgid ""
 "factorialanova8`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:307
+#: ../../Ch14/Ch14_ANOVA2_07.rst:307
 msgid "Omnibus ANOVA Test"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:307
+#: ../../Ch14/Ch14_ANOVA2_07.rst:307
 msgid ""
 "Results table showing the Omnibus ANOVA Test from the jamovi regression "
 "analysis using the |rtfm|_ dataset"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:313
+#: ../../Ch14/Ch14_ANOVA2_07.rst:313
 msgid "How to encode non binary factors as contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:315
+#: ../../Ch14/Ch14_ANOVA2_07.rst:315
 msgid ""
 "At this point, I’ve shown you how we can view a 2 × 2 ANOVA into a linear "
 "model. And it’s pretty easy to see how this generalises to a 2 × 2 × 2 ANOVA "
@@ -2475,7 +2475,7 @@ msgid ""
 "|nominal| into a numerical form that is appropriate for a regression?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:324
+#: ../../Ch14/Ch14_ANOVA2_07.rst:324
 msgid ""
 "The answer to this question is pretty simple, actually. All we have to do is "
 "realise that a three-level factor can be redescribed as *two* binary "
@@ -2493,31 +2493,31 @@ msgid ""
 "drugs. The table below illustrates this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:339 ../../Ch14/Ch14_ANOVA2_07.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drug``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:339 ../../Ch14/Ch14_ANOVA2_07.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``druganxifree``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:339 ../../Ch14/Ch14_ANOVA2_07.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drugjoyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:341 ../../Ch14/Ch14_ANOVA2_07.rst:13
+#: ../../Ch14/Ch14_ANOVA2_07.rst:341 ../../Ch14/Ch14_ANOVA2_08.rst:13
 msgid "``placebo``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:343 ../../Ch14/Ch14_ANOVA2_07.rst:15
+#: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_08.rst:15
 msgid "``anxifree``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:345 ../../Ch14/Ch14_ANOVA2_07.rst:17
+#: ../../Ch14/Ch14_ANOVA2_07.rst:345 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "``joyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:348
+#: ../../Ch14/Ch14_ANOVA2_07.rst:348
 msgid ""
 "If the drug administered to a patient is a placebo then both of the two "
 "contrast variables will equal 0. If the drug is Anxifree then the "
@@ -2526,7 +2526,7 @@ msgid ""
 "0."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:353
+#: ../../Ch14/Ch14_ANOVA2_07.rst:353
 msgid ""
 "Creating contrast variables is not too difficult to do using the jamovi "
 "``Compute`` command to create a new variable. For example, to create the "
@@ -2538,7 +2538,7 @@ msgid ""
 "clinicaltrial2|_ data set."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:362
+#: ../../Ch14/Ch14_ANOVA2_07.rst:362
 msgid ""
 "We have now recoded our three-level factor in terms of two binary variables, "
 "and we’ve already seen that ANOVA and regression behave the same way for "
@@ -2546,11 +2546,11 @@ msgid ""
 "in this case, which we’ll discuss in the next section."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:368
+#: ../../Ch14/Ch14_ANOVA2_07.rst:368
 msgid "The equivalence between ANOVA and regression for non-binary factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:370
+#: ../../Ch14/Ch14_ANOVA2_07.rst:370
 msgid ""
 "Now we have two different versions of the same data set. Our original data "
 "in which the ``drug`` variable from the |clinicaltrial|_ data set is "
@@ -2562,18 +2562,18 @@ msgid ""
 "factorialanova9`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:384
+#: ../../Ch14/Ch14_ANOVA2_07.rst:384
 msgid "ANOVA results for the |clinicaltrial| dataset: Unsaturated model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:384
+#: ../../Ch14/Ch14_ANOVA2_07.rst:384
 msgid ""
 "jamovi ANOVA results for the |clinicaltrial|_ dataset: Unsaturated model "
 "with the two main effects for ``drug`` and ``therapy`` but without an "
 "interaction component for these two factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:390
+#: ../../Ch14/Ch14_ANOVA2_07.rst:390
 msgid ""
 "Obviously, there are no surprises here. That’s the exact same ANOVA that we "
 "ran earlier. Next, let’s run a regression using ``druganxifree``, "
@@ -2581,17 +2581,17 @@ msgid ""
 "in :numref:`fig-factorialanova10`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:401
+#: ../../Ch14/Ch14_ANOVA2_07.rst:401
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:401
+#: ../../Ch14/Ch14_ANOVA2_07.rst:401
 msgid ""
 "jamovi regression results for the |clinicaltrial|_ data set: Model with the "
 "generated contrast variables ``druganxifree`` and ``drugjoyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:406
+#: ../../Ch14/Ch14_ANOVA2_07.rst:406
 msgid ""
 "Hmm. This isn’t the same output that we got last time. Not surprisingly, the "
 "regression output prints out the results for each of the three predictors "
@@ -2618,17 +2618,17 @@ msgid ""
 "in :numref:`fig-factorialanova11`\\."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:435
+#: ../../Ch14/Ch14_ANOVA2_07.rst:435
 msgid "Model comparison: Null model 1 vs. contrasts model 2"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:435
+#: ../../Ch14/Ch14_ANOVA2_07.rst:435
 msgid ""
 "Model comparison in jamovi regression: Null model (Model 1) vs. model using "
 "the generated contrast variables (Model 2)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:440
+#: ../../Ch14/Ch14_ANOVA2_07.rst:440
 msgid ""
 "Ah, that’s better. Our *F*-statistic is 26.15, the degrees of freedom are 2 "
 "and 14, and the *p*-value is 0.00002. The numbers are identical to the ones "
@@ -2640,7 +2640,7 @@ msgid ""
 "to rely heavily on this idea."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:449
+#: ../../Ch14/Ch14_ANOVA2_07.rst:449
 msgid ""
 "Although we went through all the faff of computing new variables in jamovi "
 "for the contrasts ``druganxifree`` and ``drugjoyzepam``, just to show that "
@@ -2653,17 +2653,17 @@ msgid ""
 "``placebo`` and ``no.therapy``, respectively, because this makes most sense."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:465
+#: ../../Ch14/Ch14_ANOVA2_07.rst:465
 msgid "Regression analysis with factors and contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:465
+#: ../../Ch14/Ch14_ANOVA2_07.rst:465
 msgid ""
 "Regression analysis with factors and contrasts in jamovi, including omnibus "
 "ANOVA test results"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:470
+#: ../../Ch14/Ch14_ANOVA2_07.rst:470
 msgid ""
 "If you also click on the ``ANOVA`` test checkbox under the ``Model "
 "Coefficients`` → ``Omnibus Test`` option, we see that the *F*-statistic is "
@@ -2675,11 +2675,11 @@ msgid ""
 "identical to the machinery used in regression."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:480
+#: ../../Ch14/Ch14_ANOVA2_07.rst:480
 msgid "Degrees of freedom as parameter counting!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:482
+#: ../../Ch14/Ch14_ANOVA2_07.rst:482
 msgid ""
 "At long last, I can finally give a definition of degrees of freedom that I "
 "am happy with. Degrees of freedom are defined in terms of the number of "
@@ -2697,7 +2697,7 @@ msgid ""
 "between these two models is *df*\\ :sub:`1` = 4 - 2 = 2."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:498
+#: ../../Ch14/Ch14_ANOVA2_07.rst:498
 msgid ""
 "What about the case when there doesn’t seem to *be* a null model? For "
 "instance, you might be thinking of the *F*-test that shows up when you "
@@ -2711,7 +2711,7 @@ msgid ""
 "*df*\\ :sub:`1` = K + 1 - 1 = K."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:510
+#: ../../Ch14/Ch14_ANOVA2_07.rst:510
 msgid ""
 "What about the second *df*-value that appears in the *F*-test? This always "
 "refers to the degrees of freedom associated with the residuals. It is "
@@ -2741,18 +2741,18 @@ msgid ""
 "the degrees of freedom for the residuals is *df*\\ :sub:`2` = 18 - 4 = 14."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:4
+#: ../../Ch14/Ch14_ANOVA2_08.rst:4
 msgid "Different ways to specify contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:6
+#: ../../Ch14/Ch14_ANOVA2_08.rst:6
 msgid ""
 "In the previous section, I showed you a method for converting a factor into "
 "a collection of contrasts. In the method I showed you we specify a set of "
 "binary variables in which we defined a table like this one:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:20
+#: ../../Ch14/Ch14_ANOVA2_08.rst:20
 msgid ""
 "Each row in the table corresponds to one of the factor levels, and each "
 "column corresponds to one of the contrasts. This table, which always has one "
@@ -2761,16 +2761,16 @@ msgid ""
 "matrix. In this section I discuss a few of the standard contrast matrices "
 "that statisticians use and how you can use them in jamovi. If you’re "
 "planning to read the section on unbalanced ANOVA later on (section :doc:"
-"`Factorial ANOVA 3: unbalanced designs <../Ch14/Ch14_ANOVA2_10>`), it’s "
+"`Factorial ANOVA 3: unbalanced designs <../Ch14/Ch14_ANOVA2_11>`), it’s "
 "worth reading this section carefully. If not, you can get away with skimming "
 "it, because the choice of contrasts doesn’t matter much for balanced designs."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:32
+#: ../../Ch14/Ch14_ANOVA2_08.rst:32
 msgid "Treatment contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:34
+#: ../../Ch14/Ch14_ANOVA2_08.rst:34
 msgid ""
 "In the particular kind of contrasts that I’ve described above, one level of "
 "the factor is special, and acts as a kind of “baseline” category (i.e., "
@@ -2781,7 +2781,7 @@ msgid ""
 "intercept."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:42
+#: ../../Ch14/Ch14_ANOVA2_08.rst:42
 msgid ""
 "The name reflects the fact that these contrasts are quite natural and "
 "sensible when one of the categories in your factor really is special because "
@@ -2793,14 +2793,14 @@ msgid ""
 "Joyzepam."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:51
+#: ../../Ch14/Ch14_ANOVA2_08.rst:51
 msgid ""
 "The table shown above is a matrix of treatment contrasts for a factor that "
 "has 3 levels. But suppose I want a matrix of treatment contrasts for a "
 "factor with 5 levels? You would set this out like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:64
+#: ../../Ch14/Ch14_ANOVA2_08.rst:64
 msgid ""
 "In this example, the first contrast is level 2 compared with level 1, the "
 "second contrast is level 3 compared with level 1, and so on. Notice that, by "
@@ -2812,11 +2812,11 @@ msgid ""
 "the variable in the spreadsheet column to bring up the ‘Data Variable’ view."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:75
+#: ../../Ch14/Ch14_ANOVA2_08.rst:75
 msgid "Helmert contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:77
+#: ../../Ch14/Ch14_ANOVA2_08.rst:77
 msgid ""
 "Treatment contrasts are useful for a lot of situations. However, they make "
 "most sense in the situation when there really is a baseline category, and "
@@ -2832,7 +2832,7 @@ msgid ""
 "looks like this for a factor with five levels:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:99
+#: ../../Ch14/Ch14_ANOVA2_08.rst:99
 msgid ""
 "One useful thing about Helmert contrasts is that every contrast sums to zero "
 "(i.e., all the columns sum to zero). This has the consequence that, when we "
@@ -2843,16 +2843,16 @@ msgid ""
 "situations. It doesn’t matter very much if you have a balanced design, which "
 "we’ve been assuming so far, but it will turn out to be important later when "
 "we consider unbalanced designs in section :doc:`Factorial ANOVA 3: "
-"unbalanced designs <../Ch14/Ch14_ANOVA2_10>`. In fact, the main reason why "
+"unbalanced designs <../Ch14/Ch14_ANOVA2_11>`. In fact, the main reason why "
 "I’ve even bothered to include this section is that contrasts become "
 "important if you want to understand unbalanced ANOVA."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:113
+#: ../../Ch14/Ch14_ANOVA2_08.rst:113
 msgid "Sum to zero contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:115
+#: ../../Ch14/Ch14_ANOVA2_08.rst:115
 msgid ""
 "The third option that I should briefly mention are “sum to zero” contrasts, "
 "called “Simple” contrasts in jamovi, which are used to construct pairwise "
@@ -2861,7 +2861,7 @@ msgid ""
 "case corresponds to the first group:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:129
+#: ../../Ch14/Ch14_ANOVA2_08.rst:129
 msgid ""
 "Much like Helmert contrasts, we see that each column sums to zero, which "
 "means that the intercept term corresponds to the grand mean when ANOVA is "
@@ -2872,11 +2872,11 @@ msgid ""
 "to a “group 3 minus group 1” comparison, and so on.\\ [#]_"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:139
+#: ../../Ch14/Ch14_ANOVA2_08.rst:139
 msgid "Optional contrasts in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:141
+#: ../../Ch14/Ch14_ANOVA2_08.rst:141
 msgid ""
 "jamovi also comes with a variety of options that can generate different "
 "kinds of contrasts in ANOVA. These can be found in the ‘Contrasts’ option in "
@@ -2884,29 +2884,29 @@ msgid ""
 "listed:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:147
+#: ../../Ch14/Ch14_ANOVA2_08.rst:147
 msgid "Contrast type"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:147
+#: ../../Ch14/Ch14_ANOVA2_08.rst:147
 msgid "What does the contrast compare?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:149
+#: ../../Ch14/Ch14_ANOVA2_08.rst:149
 msgid "**Deviation**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:149
+#: ../../Ch14/Ch14_ANOVA2_08.rst:149
 msgid ""
 "Compares the mean of each level (except a reference category) to the mean of "
 "all of the levels (grand mean)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:153
+#: ../../Ch14/Ch14_ANOVA2_08.rst:153
 msgid "**Simple**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:153
+#: ../../Ch14/Ch14_ANOVA2_08.rst:153
 msgid ""
 "Like the treatment contrasts, the simple contrast compares the mean of each "
 "level to the mean of a specified level. This type of contrast is useful when "
@@ -2915,41 +2915,41 @@ msgid ""
 "levels of the factors."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:161
+#: ../../Ch14/Ch14_ANOVA2_08.rst:161
 msgid "**Difference**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:161
+#: ../../Ch14/Ch14_ANOVA2_08.rst:161
 msgid ""
 "Compares the mean of each level (except the first) to the mean of previous "
 "levels. (Sometimes called reverse Helmert contrasts)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:165
+#: ../../Ch14/Ch14_ANOVA2_08.rst:165
 msgid "**Helmert**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:165
+#: ../../Ch14/Ch14_ANOVA2_08.rst:165
 msgid ""
 "Compares the mean of each level of the factor (except the last) to the mean "
 "of subsequent levels."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:168
+#: ../../Ch14/Ch14_ANOVA2_08.rst:168
 msgid "**Repeated**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:168
+#: ../../Ch14/Ch14_ANOVA2_08.rst:168
 msgid ""
 "Compares the mean of each level (except the last) to the mean of the "
 "subsequent level."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:171
+#: ../../Ch14/Ch14_ANOVA2_08.rst:171
 msgid "**Polynomial**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:171
+#: ../../Ch14/Ch14_ANOVA2_08.rst:171
 msgid ""
 "Compares the linear effect and quadratic effect. The first degree of freedom "
 "contains the linear effect across all categories; the second degree of "
@@ -2957,7 +2957,7 @@ msgid ""
 "polynomial trends."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:181
+#: ../../Ch14/Ch14_ANOVA2_08.rst:181
 msgid ""
 "What’s the difference between treatment and simple contrasts, I hear you "
 "ask? Well, as a basic example consider a gender main effect, with m = 0 and "
@@ -2968,11 +2968,11 @@ msgid ""
 "difference of each group mean from the intercept."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:4
+#: ../../Ch14/Ch14_ANOVA2_09.rst:4
 msgid "Post-hoc tests"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:6
+#: ../../Ch14/Ch14_ANOVA2_09.rst:6
 msgid ""
 "Time to switch to a different topic. Rather than pre-planned comparisons "
 "that you have tested using contrasts, let’s suppose you’ve done your ANOVA "
@@ -2995,7 +2995,7 @@ msgid ""
 "text like this one to discuss all of them in any detail."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:25
+#: ../../Ch14/Ch14_ANOVA2_09.rst:25
 msgid ""
 "That being said, there’s one tool that I do want to draw your attention to, "
 "namely Tukey’s “Honestly Significant Difference”, or **Tukey’s HSD** for "
@@ -3009,31 +3009,31 @@ msgid ""
 "four comparisons:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:36
+#: ../../Ch14/Ch14_ANOVA2_09.rst:36
 msgid ""
 "The difference in mood gain for people given ``Anxifree`` versus people "
 "given the ``Placebo``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:39
+#: ../../Ch14/Ch14_ANOVA2_09.rst:39
 msgid ""
 "The difference in mood gain for people given ``Joyzepam`` versus people "
 "given the ``Placebo``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:42
+#: ../../Ch14/Ch14_ANOVA2_09.rst:42
 msgid ""
 "The difference in mood gain for people given ``Anxifree`` versus people "
 "given ``Joyzepam``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:45
+#: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
 "The difference in mood gain for people treated with ``CBT`` and people given "
 "``No therapy``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:48
+#: ../../Ch14/Ch14_ANOVA2_09.rst:48
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "
@@ -3044,7 +3044,7 @@ msgid ""
 "intervals to calculate an adjusted *p* value for any specific comparison."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:57
+#: ../../Ch14/Ch14_ANOVA2_09.rst:57
 msgid ""
 "The ``TukeyHSD`` function in jamovi is pretty easy to use. You simply "
 "specify the ANOVA model term that you want to run the post-hoc tests for. "
@@ -3056,11 +3056,11 @@ msgid ""
 "corresponding results table, is shown in :numref:`fig-factorialanova13`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:73
+#: ../../Ch14/Ch14_ANOVA2_09.rst:73
 msgid "Analysis panel to set up post hoc tests"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:73
+#: ../../Ch14/Ch14_ANOVA2_09.rst:73
 msgid ""
 "Analysis panel for setting up post-hoc test within jamovi's factorial ANOVA "
 "procedure (the current settings request a Tukey HSD statistic): Unsaturated "
@@ -3068,7 +3068,7 @@ msgid ""
 "term (using the |clinicaltrial|_ data set)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:80
+#: ../../Ch14/Ch14_ANOVA2_09.rst:80
 msgid ""
 "The output shown in the ‘Post Hoc Tests’ results table is (I hope) pretty "
 "straightforward. The first comparison, for example, is the Anxifree versus "
@@ -3083,7 +3083,7 @@ msgid ""
 "and this result is significant (*p* < 0.001)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:93
+#: ../../Ch14/Ch14_ANOVA2_09.rst:93
 msgid ""
 "So far, so good. What about the situation where your model includes "
 "interaction terms? For instance, the default option in jamovi is to allow "
@@ -3097,23 +3097,23 @@ msgid ""
 "need to include comparisons such as the following:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:104
+#: ../../Ch14/Ch14_ANOVA2_09.rst:104
 msgid ""
 "The difference in mood gain for people given Anxifree and treated with CBT, "
 "versus people given the placebo and treated with CBT"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:107
+#: ../../Ch14/Ch14_ANOVA2_09.rst:107
 msgid ""
 "The difference in mood gain for people given Anxifree and given no therapy, "
 "versus people given the placebo and given no therapy."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:110
+#: ../../Ch14/Ch14_ANOVA2_09.rst:110
 msgid "etc"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:112
+#: ../../Ch14/Ch14_ANOVA2_09.rst:112
 msgid ""
 "There are quite a lot of these comparisons that you need to consider. So, "
 "when we run the Tukey post-hoc analysis for this ANOVA model, we see that it "
@@ -3122,18 +3122,18 @@ msgid ""
 "but with a lot more comparisons made."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:124
+#: ../../Ch14/Ch14_ANOVA2_09.rst:124
 msgid "Results table for a Tukey HSD post-hoc test"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:124
+#: ../../Ch14/Ch14_ANOVA2_09.rst:124
 msgid ""
 "Results table for a Tukey HSD post-hoc test within jamovi's factorial ANOVA "
 "procedure: Unsaturated model with the factors ``drug`` and ``therapy`` but "
 "without an interaction term (using the |clinicaltrial|_ data set)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_08.rst:133
+#: ../../Ch14/Ch14_ANOVA2_09.rst:133
 msgid ""
 "If, for instance, you actually find yourself interested to know if Group A "
 "is significantly different from the mean of Group B and Group C, then you "
@@ -3143,11 +3143,11 @@ msgid ""
 "pretty useful thing to know about."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:4
+#: ../../Ch14/Ch14_ANOVA2_10.rst:4
 msgid "The method of planned comparisons"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:6
+#: ../../Ch14/Ch14_ANOVA2_10.rst:6
 msgid ""
 "Following on from the previous sections on contrasts and post-hoc tests in "
 "ANOVA, I think the method of planned comparisons is important enough to "
@@ -3163,7 +3163,7 @@ msgid ""
 "HSD to do your pairwise comparisons."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:18
+#: ../../Ch14/Ch14_ANOVA2_10.rst:18
 msgid ""
 "The situation is rather different, however, if you genuinely did have real, "
 "specific hypotheses about which comparisons are of interest, and you *never "
@@ -3182,11 +3182,11 @@ msgid ""
 "least you know that this method exists!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:4
+#: ../../Ch14/Ch14_ANOVA2_11.rst:4
 msgid "Factorial ANOVA 3: unbalanced designs"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:6
+#: ../../Ch14/Ch14_ANOVA2_11.rst:6
 msgid ""
 "Factorial ANOVA is a very handy thing to know about. It’s been one of the "
 "standard tools used to analyse experimental data for many decades, and "
@@ -3199,7 +3199,7 @@ msgid ""
 "others. Or, to put it another way, we have an **unbalanced design**."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:17
+#: ../../Ch14/Ch14_ANOVA2_11.rst:17
 msgid ""
 "Unbalanced designs need to be treated with a lot more care than balanced "
 "designs, and the statistical theory that underpins them is a lot messier. It "
@@ -3219,11 +3219,11 @@ msgid ""
 "of your data analysis to stupid software, read on."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:36
+#: ../../Ch14/Ch14_ANOVA2_11.rst:36
 msgid "The coffee data"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:38
+#: ../../Ch14/Ch14_ANOVA2_11.rst:38
 msgid ""
 "As usual, it will help us to work with some data. The |coffee|_ data set "
 "contains a hypothetical data set that produces an unbalanced 3 × 2 ANOVA. "
@@ -3244,17 +3244,17 @@ msgid ""
 "view, as in :numref:`fig-factorialanova15`\\."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:61
+#: ../../Ch14/Ch14_ANOVA2_11.rst:61
 msgid "Descriptive statistics for the different levels of sugar and milk"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:61
+#: ../../Ch14/Ch14_ANOVA2_11.rst:61
 msgid ""
 "The |coffee|_ data set in jamovi, showing descriptive statistics aggregated "
 "by the different levels of the factors ``sugar`` and ``milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:66
+#: ../../Ch14/Ch14_ANOVA2_11.rst:66
 msgid ""
 "Looking at the table of means in :numref:`fig-factorialanova15` we get a "
 "strong impression that there are differences between the groups. This is "
@@ -3269,11 +3269,11 @@ msgid ""
 "really discussed how to handle this situation."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:79
+#: ../../Ch14/Ch14_ANOVA2_11.rst:79
 msgid "“Standard ANOVA” does not exist for unbalanced designs"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:81
+#: ../../Ch14/Ch14_ANOVA2_11.rst:81
 msgid ""
 "Unbalanced designs lead us to the somewhat unsettling discovery that there "
 "isn’t really any one thing that we might refer to as a standard ANOVA. In "
@@ -3288,7 +3288,7 @@ msgid ""
 "what the different types of ANOVA are and how they differ from one another."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:94
+#: ../../Ch14/Ch14_ANOVA2_11.rst:94
 msgid ""
 "The first kind of ANOVA is conventionally referred to as **Type I sum of "
 "squares**. I’m sure you can guess what the other two are called. The “sum of "
@@ -3304,7 +3304,7 @@ msgid ""
 "*hypothesis testing strategies*. These different strategies lead to "
 "different SS values, to be sure, but it’s the strategy that is the important "
 "thing here, not the SS values themselves. Recall from section :doc:`ANOVA as "
-"a linear model <../Ch14/Ch14_ANOVA2_06>`, that any particular *F*-test is "
+"a linear model <../Ch14/Ch14_ANOVA2_07>`, that any particular *F*-test is "
 "best thought of as a comparison between two linear models. So, when you’re "
 "looking at an ANOVA table, it helps to remember that each of those *F*-tests "
 "corresponds to a *pair* of models that are being compared. Of course, this "
@@ -3313,11 +3313,11 @@ msgid ""
 "one corresponds to a different way of choosing the model pairs for the tests."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:117
+#: ../../Ch14/Ch14_ANOVA2_11.rst:117
 msgid "Type I sum of squares"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:119
+#: ../../Ch14/Ch14_ANOVA2_11.rst:119
 msgid ""
 "The Type I method is sometimes referred to as the “sequential” sum of "
 "squares, because it involves a process of adding terms to the model one at a "
@@ -3330,7 +3330,7 @@ msgid ""
 "gradually adding terms."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:130
+#: ../../Ch14/Ch14_ANOVA2_11.rst:130
 msgid ""
 "The simplest possible model for the data would be one in which neither milk "
 "nor sugar is assumed to have any effect on babbling. The only term that "
@@ -3345,34 +3345,34 @@ msgid ""
 "our first test. We now have our first hypothesis test:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:144 ../../Ch14/Ch14_ANOVA2_10.rst:156
-#: ../../Ch14/Ch14_ANOVA2_10.rst:175 ../../Ch14/Ch14_ANOVA2_10.rst:258
-#: ../../Ch14/Ch14_ANOVA2_10.rst:267 ../../Ch14/Ch14_ANOVA2_10.rst:277
-#: ../../Ch14/Ch14_ANOVA2_10.rst:411 ../../Ch14/Ch14_ANOVA2_10.rst:429
-#: ../../Ch14/Ch14_ANOVA2_10.rst:466 ../../Ch14/Ch14_ANOVA2_10.rst:474
-#: ../../Ch14/Ch14_ANOVA2_10.rst:482
+#: ../../Ch14/Ch14_ANOVA2_11.rst:144 ../../Ch14/Ch14_ANOVA2_11.rst:156
+#: ../../Ch14/Ch14_ANOVA2_11.rst:175 ../../Ch14/Ch14_ANOVA2_11.rst:258
+#: ../../Ch14/Ch14_ANOVA2_11.rst:267 ../../Ch14/Ch14_ANOVA2_11.rst:277
+#: ../../Ch14/Ch14_ANOVA2_11.rst:411 ../../Ch14/Ch14_ANOVA2_11.rst:429
+#: ../../Ch14/Ch14_ANOVA2_11.rst:466 ../../Ch14/Ch14_ANOVA2_11.rst:474
+#: ../../Ch14/Ch14_ANOVA2_11.rst:482
 msgid "Null model:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:144
+#: ../../Ch14/Ch14_ANOVA2_11.rst:144
 msgid "``babble ~ 1``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:146 ../../Ch14/Ch14_ANOVA2_10.rst:158
-#: ../../Ch14/Ch14_ANOVA2_10.rst:177 ../../Ch14/Ch14_ANOVA2_10.rst:260
-#: ../../Ch14/Ch14_ANOVA2_10.rst:269 ../../Ch14/Ch14_ANOVA2_10.rst:279
-#: ../../Ch14/Ch14_ANOVA2_10.rst:413 ../../Ch14/Ch14_ANOVA2_10.rst:431
-#: ../../Ch14/Ch14_ANOVA2_10.rst:468 ../../Ch14/Ch14_ANOVA2_10.rst:476
-#: ../../Ch14/Ch14_ANOVA2_10.rst:484
+#: ../../Ch14/Ch14_ANOVA2_11.rst:146 ../../Ch14/Ch14_ANOVA2_11.rst:158
+#: ../../Ch14/Ch14_ANOVA2_11.rst:177 ../../Ch14/Ch14_ANOVA2_11.rst:260
+#: ../../Ch14/Ch14_ANOVA2_11.rst:269 ../../Ch14/Ch14_ANOVA2_11.rst:279
+#: ../../Ch14/Ch14_ANOVA2_11.rst:413 ../../Ch14/Ch14_ANOVA2_11.rst:431
+#: ../../Ch14/Ch14_ANOVA2_11.rst:468 ../../Ch14/Ch14_ANOVA2_11.rst:476
+#: ../../Ch14/Ch14_ANOVA2_11.rst:484
 msgid "Alternative model:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:146 ../../Ch14/Ch14_ANOVA2_10.rst:156
-#: ../../Ch14/Ch14_ANOVA2_10.rst:474
+#: ../../Ch14/Ch14_ANOVA2_11.rst:146 ../../Ch14/Ch14_ANOVA2_11.rst:156
+#: ../../Ch14/Ch14_ANOVA2_11.rst:474
 msgid "``babble ~ sugar``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:149
+#: ../../Ch14/Ch14_ANOVA2_11.rst:149
 msgid ""
 "This comparison forms our hypothesis test of the main effect of ``sugar``. "
 "The next step in our model building exercise is to add the other main effect "
@@ -3381,13 +3381,13 @@ msgid ""
 "models:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:158 ../../Ch14/Ch14_ANOVA2_10.rst:175
-#: ../../Ch14/Ch14_ANOVA2_10.rst:277 ../../Ch14/Ch14_ANOVA2_10.rst:468
-#: ../../Ch14/Ch14_ANOVA2_10.rst:476 ../../Ch14/Ch14_ANOVA2_10.rst:482
+#: ../../Ch14/Ch14_ANOVA2_11.rst:158 ../../Ch14/Ch14_ANOVA2_11.rst:175
+#: ../../Ch14/Ch14_ANOVA2_11.rst:277 ../../Ch14/Ch14_ANOVA2_11.rst:468
+#: ../../Ch14/Ch14_ANOVA2_11.rst:476 ../../Ch14/Ch14_ANOVA2_11.rst:482
 msgid "``babble ~ sugar + milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:161
+#: ../../Ch14/Ch14_ANOVA2_11.rst:161
 msgid ""
 "This comparison forms our hypothesis test of the main effect of ``milk``. In "
 "one sense, this approach is very elegant: the alternative hypothesis from "
@@ -3402,13 +3402,13 @@ msgid ""
 "and the corresponding hypothesis test is:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:177 ../../Ch14/Ch14_ANOVA2_10.rst:260
-#: ../../Ch14/Ch14_ANOVA2_10.rst:269 ../../Ch14/Ch14_ANOVA2_10.rst:279
-#: ../../Ch14/Ch14_ANOVA2_10.rst:484
+#: ../../Ch14/Ch14_ANOVA2_11.rst:177 ../../Ch14/Ch14_ANOVA2_11.rst:260
+#: ../../Ch14/Ch14_ANOVA2_11.rst:269 ../../Ch14/Ch14_ANOVA2_11.rst:279
+#: ../../Ch14/Ch14_ANOVA2_11.rst:484
 msgid "``babble ~ sugar + milk + sugar * milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:180
+#: ../../Ch14/Ch14_ANOVA2_11.rst:180
 msgid ""
 "Type III sum of squares is the default hypothesis testing method used by "
 "jamovi ANOVA, so to run a Type 1 sum of squares analysis we have to select "
@@ -3417,18 +3417,18 @@ msgid ""
 "factorialanova16`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:191
+#: ../../Ch14/Ch14_ANOVA2_11.rst:191
 msgid "Results table using Type I sum of squares, factor sugar entered first"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:191
+#: ../../Ch14/Ch14_ANOVA2_11.rst:191
 msgid ""
 "ANOVA results table using Type I sum of squares in jamovi (with the |coffee| "
 "data set and a saturated model with the factors ``sugar``, ``milk``, and "
 "their interaction; factor ``sugar`` is entered first)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:197
+#: ../../Ch14/Ch14_ANOVA2_11.rst:197
 msgid ""
 "The big problem with using Type I sum of squares is the fact that it really "
 "does depend on the order in which you enter the variables. Yet, in many "
@@ -3441,18 +3441,18 @@ msgid ""
 "ordering, as in :numref:`fig-factorialanova17`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:213
+#: ../../Ch14/Ch14_ANOVA2_11.rst:213
 msgid "Results table using Type I sum of squares, factor milk entered first"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:213
+#: ../../Ch14/Ch14_ANOVA2_11.rst:213
 msgid ""
 "ANOVA results table using Type I sum of squares in jamovi (with the |coffee|"
 "_ data set and a saturated model with the factors ``milk``, ``sugar``, and "
 "their interaction; factor ``milk`` is entered first)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:219
+#: ../../Ch14/Ch14_ANOVA2_11.rst:219
 msgid ""
 "The *p*-values for both main effect terms have changed, and fairly "
 "dramatically. Among other things, the effect of ``milk`` has become "
@@ -3461,7 +3461,7 @@ msgid ""
 "report? It’s not immediately obvious."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:225
+#: ../../Ch14/Ch14_ANOVA2_11.rst:225
 msgid ""
 "When you look at the hypothesis tests that are used to define the “first” "
 "main effect and the “second” one, it’s clear that they’re qualitatively "
@@ -3474,18 +3474,18 @@ msgid ""
 "would justify treating any two main effects asymmetrically."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:236
+#: ../../Ch14/Ch14_ANOVA2_11.rst:236
 msgid ""
 "The consequence of all this is that Type I tests are very rarely of much "
 "interest, and so we should move on to discuss Type II tests and Type III "
 "tests."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:241
+#: ../../Ch14/Ch14_ANOVA2_11.rst:241
 msgid "Type III sum of squares"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:243
+#: ../../Ch14/Ch14_ANOVA2_11.rst:243
 msgid ""
 "Having just finished talking about Type I tests, you might think that the "
 "natural thing to do next would be to talk about Type II tests. However, I "
@@ -3500,28 +3500,28 @@ msgid ""
 "``sugar`` would correspond to a comparison between the following two models:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:258
+#: ../../Ch14/Ch14_ANOVA2_11.rst:258
 msgid "``babble ~ milk + sugar * milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:263
+#: ../../Ch14/Ch14_ANOVA2_11.rst:263
 msgid ""
 "Similarly the main effect of ``milk`` is evaluated by testing the full model "
 "against a null model that removes the ``milk`` term, like so:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:267
+#: ../../Ch14/Ch14_ANOVA2_11.rst:267
 msgid "``babble ~ sugar + sugar * milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:272
+#: ../../Ch14/Ch14_ANOVA2_11.rst:272
 msgid ""
 "Finally, the interaction term ``sugar * milk`` is evaluated in exactly the "
 "same way. Once again, we test the full model against a null model that "
 "removes the ``sugar * milk`` interaction term, like so:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:282
+#: ../../Ch14/Ch14_ANOVA2_11.rst:282
 msgid ""
 "The basic idea generalises to higher order ANOVAs. For instance, suppose "
 "that we were trying to run an ANOVA with three factors, ``A``, ``B`` and "
@@ -3530,84 +3530,84 @@ msgid ""
 "shows you what the Type III tests look like for this situation:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:290 ../../Ch14/Ch14_ANOVA2_10.rst:439
+#: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:439
 msgid "Term being tested is"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:290 ../../Ch14/Ch14_ANOVA2_10.rst:439
+#: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:439
 msgid "Null model is ``outcome ~ ...``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:290 ../../Ch14/Ch14_ANOVA2_10.rst:439
+#: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:439
 msgid "Alternative model is ``outcome ~ ...``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:293 ../../Ch14/Ch14_ANOVA2_10.rst:442
+#: ../../Ch14/Ch14_ANOVA2_11.rst:293 ../../Ch14/Ch14_ANOVA2_11.rst:442
 msgid "``A``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:293
+#: ../../Ch14/Ch14_ANOVA2_11.rst:293
 msgid "``B + C + A * B + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:293 ../../Ch14/Ch14_ANOVA2_10.rst:296
-#: ../../Ch14/Ch14_ANOVA2_10.rst:299 ../../Ch14/Ch14_ANOVA2_10.rst:302
-#: ../../Ch14/Ch14_ANOVA2_10.rst:305 ../../Ch14/Ch14_ANOVA2_10.rst:308
-#: ../../Ch14/Ch14_ANOVA2_10.rst:311 ../../Ch14/Ch14_ANOVA2_10.rst:457
+#: ../../Ch14/Ch14_ANOVA2_11.rst:293 ../../Ch14/Ch14_ANOVA2_11.rst:296
+#: ../../Ch14/Ch14_ANOVA2_11.rst:299 ../../Ch14/Ch14_ANOVA2_11.rst:302
+#: ../../Ch14/Ch14_ANOVA2_11.rst:305 ../../Ch14/Ch14_ANOVA2_11.rst:308
+#: ../../Ch14/Ch14_ANOVA2_11.rst:311 ../../Ch14/Ch14_ANOVA2_11.rst:457
 msgid "``A + B + C + A * B + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:296 ../../Ch14/Ch14_ANOVA2_10.rst:444
+#: ../../Ch14/Ch14_ANOVA2_11.rst:296 ../../Ch14/Ch14_ANOVA2_11.rst:444
 msgid "``B``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:296
+#: ../../Ch14/Ch14_ANOVA2_11.rst:296
 msgid "``A + C + A * B + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:299 ../../Ch14/Ch14_ANOVA2_10.rst:446
+#: ../../Ch14/Ch14_ANOVA2_11.rst:299 ../../Ch14/Ch14_ANOVA2_11.rst:446
 msgid "``C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:299
+#: ../../Ch14/Ch14_ANOVA2_11.rst:299
 msgid "``A + B + A * B + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:302 ../../Ch14/Ch14_ANOVA2_10.rst:448
+#: ../../Ch14/Ch14_ANOVA2_11.rst:302 ../../Ch14/Ch14_ANOVA2_11.rst:448
 msgid "``A * B``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:302
+#: ../../Ch14/Ch14_ANOVA2_11.rst:302
 msgid "``A + B + C + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:305 ../../Ch14/Ch14_ANOVA2_10.rst:451
+#: ../../Ch14/Ch14_ANOVA2_11.rst:305 ../../Ch14/Ch14_ANOVA2_11.rst:451
 msgid "``A * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:305
+#: ../../Ch14/Ch14_ANOVA2_11.rst:305
 msgid "``A + B + C + A * B + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:308 ../../Ch14/Ch14_ANOVA2_10.rst:454
+#: ../../Ch14/Ch14_ANOVA2_11.rst:308 ../../Ch14/Ch14_ANOVA2_11.rst:454
 msgid "``B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:308
+#: ../../Ch14/Ch14_ANOVA2_11.rst:308
 msgid "``A + B + C + A * B + A * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:311 ../../Ch14/Ch14_ANOVA2_10.rst:457
+#: ../../Ch14/Ch14_ANOVA2_11.rst:311 ../../Ch14/Ch14_ANOVA2_11.rst:457
 msgid "``A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:311 ../../Ch14/Ch14_ANOVA2_10.rst:448
-#: ../../Ch14/Ch14_ANOVA2_10.rst:451 ../../Ch14/Ch14_ANOVA2_10.rst:454
-#: ../../Ch14/Ch14_ANOVA2_10.rst:457
+#: ../../Ch14/Ch14_ANOVA2_11.rst:311 ../../Ch14/Ch14_ANOVA2_11.rst:448
+#: ../../Ch14/Ch14_ANOVA2_11.rst:451 ../../Ch14/Ch14_ANOVA2_11.rst:454
+#: ../../Ch14/Ch14_ANOVA2_11.rst:457
 msgid "``A + B + C + A * B + A * C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:315
+#: ../../Ch14/Ch14_ANOVA2_11.rst:315
 msgid ""
 "As ugly as that table looks, it’s pretty simple. In all cases, the "
 "alternative hypothesis corresponds to the full model which contains three "
@@ -3617,7 +3617,7 @@ msgid ""
 "significance we’re trying to test."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:322
+#: ../../Ch14/Ch14_ANOVA2_11.rst:322
 msgid ""
 "At first pass, Type III tests seem like a nice idea. Firstly, we’ve removed "
 "the asymmetry that caused us to have problems when running Type I tests. And "
@@ -3646,34 +3646,34 @@ msgid ""
 "sense at all."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:349
+#: ../../Ch14/Ch14_ANOVA2_11.rst:349
 msgid ""
 "Later on, we’ll see that Type III tests can be redeemed in some contexts, "
 "but first let’s take a look at the ANOVA results table using Type III sum of "
 "squares, see :numref:`fig-factorialanova18`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:359
+#: ../../Ch14/Ch14_ANOVA2_11.rst:359
 msgid "Results table using Type III sum of squares"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:359
+#: ../../Ch14/Ch14_ANOVA2_11.rst:359
 msgid ""
 "ANOVA results table using Type III sum of squares in jamovi (with the |"
 "coffee|_ data set and a saturated model with the factors ``sugar``, "
 "``milk``, and their interaction)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:365
+#: ../../Ch14/Ch14_ANOVA2_11.rst:365
 msgid ""
 "But be aware, one of the perverse features of the Type III testing strategy "
 "is that typically the results turn out to depend on the *contrasts* that you "
 "use to encode your factors (see section :doc:`Different ways to specify "
-"contrasts <../Ch14/Ch14_ANOVA2_07>` if you’ve forgotten what the different "
+"contrasts <../Ch14/Ch14_ANOVA2_08>` if you’ve forgotten what the different "
 "types of contrasts are).\\ [#]_"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:371
+#: ../../Ch14/Ch14_ANOVA2_11.rst:371
 msgid ""
 "Okay, so if the *p*-values that typically come out of Type III analyses (but "
 "not in jamovi) are so sensitive to the choice of contrasts, does that mean "
@@ -3687,11 +3687,11 @@ msgid ""
 "then the Type III analysis will always give the same answers."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:383
+#: ../../Ch14/Ch14_ANOVA2_11.rst:383
 msgid "Type II sum of squares"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:385
+#: ../../Ch14/Ch14_ANOVA2_11.rst:385
 msgid ""
 "Okay, so we’ve seen Type I and III tests now, and both are pretty "
 "straightforward. Type I tests are performed by gradually adding terms one at "
@@ -3704,7 +3704,7 @@ msgid ""
 "interpret."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:395
+#: ../../Ch14/Ch14_ANOVA2_11.rst:395
 msgid ""
 "Type II tests are broadly similar to Type III tests. Start with a “full” "
 "model, and test a particular term by deleting it from that model. However, "
@@ -3722,15 +3722,15 @@ msgid ""
 "our null and alternative models are:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:411
+#: ../../Ch14/Ch14_ANOVA2_11.rst:411
 msgid "``outcome ~ B + C + A * B + A * C + B * C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:413
+#: ../../Ch14/Ch14_ANOVA2_11.rst:413
 msgid "``outcome ~ A + B + C + A * B + A * C + B*C + A * B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:416
+#: ../../Ch14/Ch14_ANOVA2_11.rst:416
 msgid ""
 "Notice that the null hypothesis omits ``A``, but includes ``A * B``, ``A * "
 "C`` and ``A * B * C`` as part of the model. This, according to the Type II "
@@ -3744,94 +3744,94 @@ msgid ""
 "Type II test of the main effect of ``A``:\\ [#]_"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:429
+#: ../../Ch14/Ch14_ANOVA2_11.rst:429
 msgid "``outcome ~ B + C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:431
+#: ../../Ch14/Ch14_ANOVA2_11.rst:431
 msgid "``outcome ~ A + B + C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:434
+#: ../../Ch14/Ch14_ANOVA2_11.rst:434
 msgid ""
 "Anyway, just to give you a sense of how the Type II tests play out, here’s "
 "the full table of tests that would be applied in a three-way factorial ANOVA:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:442
+#: ../../Ch14/Ch14_ANOVA2_11.rst:442
 msgid "``B + C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:442
+#: ../../Ch14/Ch14_ANOVA2_11.rst:442
 msgid "``A + B + C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:444
+#: ../../Ch14/Ch14_ANOVA2_11.rst:444
 msgid "``A + C + A * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:444
+#: ../../Ch14/Ch14_ANOVA2_11.rst:444
 msgid "``A + B + C + A * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:446
+#: ../../Ch14/Ch14_ANOVA2_11.rst:446
 msgid "``A + B + A * B``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:446
+#: ../../Ch14/Ch14_ANOVA2_11.rst:446
 msgid "``A + B + C + A * B``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:448
+#: ../../Ch14/Ch14_ANOVA2_11.rst:448
 msgid "``A + A * C + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:451
+#: ../../Ch14/Ch14_ANOVA2_11.rst:451
 msgid "``A + B + C + A * B + B * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:454
+#: ../../Ch14/Ch14_ANOVA2_11.rst:454
 msgid "``A + B + C + A * B + A * C``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:461
+#: ../../Ch14/Ch14_ANOVA2_11.rst:461
 msgid ""
 "In the context of the two way ANOVA that we’ve been using in the coffee "
 "data, the hypothesis tests are even simpler. The main effect of ``sugar`` "
 "corresponds to an *F*-test comparing these two models:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:466
+#: ../../Ch14/Ch14_ANOVA2_11.rst:466
 msgid "``babble ~ milk``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:471
+#: ../../Ch14/Ch14_ANOVA2_11.rst:471
 msgid "The test for the main effect of ``milk`` is"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:479
+#: ../../Ch14/Ch14_ANOVA2_11.rst:479
 msgid "Finally, the test for the interaction ``sugar * milk`` is:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:487
+#: ../../Ch14/Ch14_ANOVA2_11.rst:487
 msgid ""
 "Running the tests are again straightforward. Just select ‘Type 2’ in the "
 "‘Sum of squares’ selection box in the jamovi ``ANOVA`` → ``Model`` options, "
 "This gives us the ANOVA table shown in :numref:`fig-factorialanova19`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:497
+#: ../../Ch14/Ch14_ANOVA2_11.rst:497
 msgid "Results table using Type II sum of squares"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:497
+#: ../../Ch14/Ch14_ANOVA2_11.rst:497
 msgid ""
 "ANOVA results table using Type II sum of squares in jamovi (with the |coffee|"
 "_ data set and a saturated model with the factors ``sugar``, ``milk``, and "
 "their interaction)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:503
+#: ../../Ch14/Ch14_ANOVA2_11.rst:503
 msgid ""
 "Type II tests have some clear advantages over Type I and Type III tests. "
 "They don’t depend on the order in which you specify factors (unlike Type I), "
@@ -3848,18 +3848,18 @@ msgid ""
 "Type I or Type III.\\ [#]_"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:518
+#: ../../Ch14/Ch14_ANOVA2_11.rst:518
 msgid "Effect sizes (and non-additive sums of squares)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:520
+#: ../../Ch14/Ch14_ANOVA2_11.rst:520
 msgid ""
 "jamovi also provides the effect sizes η² and partial η² when you select "
 "these options, as in :numref:`fig-factorialanova19`. However, when you’ve "
 "got an unbalanced design there’s a bit of extra complexity involved."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:524
+#: ../../Ch14/Ch14_ANOVA2_11.rst:524
 msgid ""
 "If you remember back to our very early discussions of ANOVA, one of the key "
 "ideas behind the sums of squares calculations is that if we add up all the "
@@ -3872,7 +3872,7 @@ msgid ""
 "“missing”."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:534
+#: ../../Ch14/Ch14_ANOVA2_11.rst:534
 msgid ""
 "This seems a bit odd at first, but here’s why. When you have unbalanced "
 "designs your factors become correlated with one another, and it becomes "
@@ -3881,28 +3881,28 @@ msgid ""
 "design in which the number of participants in each group had been as follows:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:542 ../../Ch14/Ch14_ANOVA2_10.rst:561
+#: ../../Ch14/Ch14_ANOVA2_11.rst:542 ../../Ch14/Ch14_ANOVA2_11.rst:561
 msgid "sugar"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:542 ../../Ch14/Ch14_ANOVA2_10.rst:561
+#: ../../Ch14/Ch14_ANOVA2_11.rst:542 ../../Ch14/Ch14_ANOVA2_11.rst:561
 msgid "no sugar"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:544 ../../Ch14/Ch14_ANOVA2_10.rst:563
+#: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:563
 msgid "**milk**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:544 ../../Ch14/Ch14_ANOVA2_10.rst:546
-#: ../../Ch14/Ch14_ANOVA2_10.rst:563 ../../Ch14/Ch14_ANOVA2_10.rst:565
+#: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:546
+#: ../../Ch14/Ch14_ANOVA2_11.rst:563 ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "100"
 msgstr "100"
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:546 ../../Ch14/Ch14_ANOVA2_10.rst:565
+#: ../../Ch14/Ch14_ANOVA2_11.rst:546 ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "**no milk**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:549
+#: ../../Ch14/Ch14_ANOVA2_11.rst:549
 msgid ""
 "Here we have a spectacularly unbalanced design: 100 people have milk and "
 "sugar, 100 people have no milk and no sugar, and that’s all. There are 0 "
@@ -3915,7 +3915,7 @@ msgid ""
 "Now suppose the design had been a little more balanced:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:568
+#: ../../Ch14/Ch14_ANOVA2_11.rst:568
 msgid ""
 "This time around, it’s technically possible to distinguish between the "
 "effect of milk and the effect of sugar, because we have a few people that "
@@ -3928,7 +3928,7 @@ msgid ""
 "the other predictor, or the interaction."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:578
+#: ../../Ch14/Ch14_ANOVA2_11.rst:578
 msgid ""
 "This uncertainty is the reason for the missing variance. The “missing” "
 "variance corresponds to variation in the outcome variable that is clearly "
@@ -3941,7 +3941,7 @@ msgid ""
 "effect doesn’t get attributed to any of them, and it goes missing."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:592
+#: ../../Ch14/Ch14_ANOVA2_11.rst:592
 msgid ""
 "This discrepancy in standard deviations might (and should) make you wonder "
 "if we have a violation of the homogeneity of variance assumption. I’ll leave "
@@ -3949,7 +3949,7 @@ msgid ""
 "option."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:598
+#: ../../Ch14/Ch14_ANOVA2_11.rst:598
 msgid ""
 "Actually, this is a bit of a lie. ANOVAs can vary in other ways besides the "
 "ones I’ve discussed in this book. For instance, I’ve completely ignored the "
@@ -3967,18 +3967,18 @@ msgid ""
 "story, not the whole story."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:615
+#: ../../Ch14/Ch14_ANOVA2_11.rst:615
 msgid "Or, at the very least, rarely of interest."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:618
+#: ../../Ch14/Ch14_ANOVA2_11.rst:618
 msgid ""
 "However, in jamovi the results for Type III sum of squares ANOVA are the "
 "same regardless of the contrast selected, so jamovi is obviously doing "
 "something different!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:623
+#: ../../Ch14/Ch14_ANOVA2_11.rst:623
 msgid ""
 "Note, of course, that this does depend on the model that the user specified. "
 "If the original ANOVA model doesn’t contain an interaction term for ``B * "
@@ -3988,7 +3988,7 @@ msgid ""
 "tests for the ones that you did include."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_10.rst:632
+#: ../../Ch14/Ch14_ANOVA2_11.rst:632
 msgid ""
 "I find it amusing to note that the default in R is Type I and the default in "
 "SPSS and jamovi is Type III. Neither of these appeals to me all that much. "
@@ -4006,44 +4006,44 @@ msgid ""
 "tests that correspond to things you really care about and then report those!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:4
+#: ../../Ch14/Ch14_ANOVA2_12.rst:4
 msgid "Summary"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:6
+#: ../../Ch14/Ch14_ANOVA2_12.rst:6
 msgid ""
 "Factorial ANOVA with balanced designs, :doc:`without interactions <../Ch14/"
 "Ch14_ANOVA2_01>` and :doc:`with interactions included <../Ch14/"
 "Ch14_ANOVA2_02>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:9
+#: ../../Ch14/Ch14_ANOVA2_12.rst:9
 msgid ""
 ":doc:`Effect size, estimated means, and confidence intervals in a factorial "
 "ANOVA <../Ch14/Ch14_ANOVA2_03>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:12
+#: ../../Ch14/Ch14_ANOVA2_12.rst:12
 msgid ":doc:`Checking assumptions in the ANOVA <../Ch14/Ch14_ANOVA2_04>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:14
-msgid ":doc:`Analysis of Covariance (ANCOVA) <../Ch14/Ch14_ANOVA2_05>`"
+#: ../../Ch14/Ch14_ANOVA2_12.rst:14
+msgid ":doc:`Analysis of Covariance (ANCOVA) <../Ch14/Ch14_ANOVA2_06>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:16
+#: ../../Ch14/Ch14_ANOVA2_12.rst:16
 msgid ""
 ":doc:`Understanding the linear model underlying ANOVA <../Ch14/"
-"Ch14_ANOVA2_06>`, including :doc:`different contrasts <../Ch14/"
-"Ch14_ANOVA2_07>`"
+"Ch14_ANOVA2_07>`, including :doc:`different contrasts <../Ch14/"
+"Ch14_ANOVA2_08>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:19
+#: ../../Ch14/Ch14_ANOVA2_12.rst:19
 msgid ""
-":doc:`Post-hoc testing <../Ch14/Ch14_ANOVA2_08>` (using Tukey’s HSD) and a "
-"brief commentary on :doc:`planned comparisons <../Ch14/Ch14_ANOVA2_09>`"
+":doc:`Post-hoc testing <../Ch14/Ch14_ANOVA2_09>` (using Tukey’s HSD) and a "
+"brief commentary on :doc:`planned comparisons <../Ch14/Ch14_ANOVA2_10>`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:22
-msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_10>`"
+#: ../../Ch14/Ch14_ANOVA2_12.rst:22
+msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
 msgstr ""

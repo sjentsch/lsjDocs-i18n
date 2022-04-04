@@ -1910,9 +1910,5 @@ msgstr ""
 " bestimmten statistischen Technik zugrunde liegen, und darauf, wie Sie "
 "überprüfen können, ob diese Annahmen sinnvoll sind."
 
-#~ msgid "**Soft copy**: https://learningstatisticswithr.com"
-#~ msgstr "**Soft copy**: https://learningstatisticswithr.com"
 
-#~ msgid "**Hard copy**: https://www.lulu.com/content/13570633"
-#~ msgstr "**Hard copy**: https://www.lulu.com/content/13570633"
 

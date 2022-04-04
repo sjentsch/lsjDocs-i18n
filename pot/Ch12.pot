@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 17:19+0200\n"
+"POT-Creation-Date: 2022-04-04 22:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -962,7 +962,7 @@ msgid ""
 "as"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_10.rst:61
+#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:61
 msgid "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 msgstr "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 
@@ -1221,23 +1221,23 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:60
 msgid "125.966"
-msgstr ""
+msgstr "125.966"
 
 #: ../../Ch12/Ch12_Regression_05.rst:62
 msgid "``dani.sleep``"
-msgstr ""
+msgstr "``dani.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:62
 msgid "−8.950"
-msgstr ""
+msgstr "−8.950"
 
 #: ../../Ch12/Ch12_Regression_05.rst:64
 msgid "``baby.sleep``"
-msgstr ""
+msgstr "``baby.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:64
 msgid "0.011"
-msgstr ""
+msgstr "0.011"
 
 #: ../../Ch12/Ch12_Regression_05.rst:67
 msgid ""
@@ -1813,11 +1813,11 @@ msgid ""
 "tests, you need to do that yourself."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:4
+#: ../../Ch12/Ch12_Regression_09.rst:4
 msgid "Regarding regression coefficients"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:6
+#: ../../Ch12/Ch12_Regression_09.rst:6
 msgid ""
 "Before moving on to discuss the assumptions underlying linear regression and "
 "what you can do to check if they’re being met, there’s two more topics I "
@@ -1827,11 +1827,11 @@ msgid ""
 "question of how to determine which predictor is most important."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:14
+#: ../../Ch12/Ch12_Regression_09.rst:14
 msgid "Confidence intervals for the coefficients"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:16
+#: ../../Ch12/Ch12_Regression_09.rst:16
 msgid ""
 "Like any population parameter, the regression coefficients *b* cannot be "
 "estimated with complete precision from a sample of data; that’s part of why "
@@ -1843,13 +1843,13 @@ msgid ""
 "weight *b*."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:26
+#: ../../Ch12/Ch12_Regression_09.rst:26
 msgid ""
 "Fortunately, confidence intervals for the regression weights can be "
 "constructed in the usual fashion"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:29
+#: ../../Ch12/Ch12_Regression_09.rst:29
 msgid ""
 "\\mbox{CI}(b) = \\hat{b} \\pm \\left( t_{crit} \\times SE(\\hat{b})  "
 "\\right)\n"
@@ -1859,7 +1859,7 @@ msgstr ""
 "\\right)\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_08.rst:31
+#: ../../Ch12/Ch12_Regression_09.rst:31
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -1870,18 +1870,18 @@ msgid ""
 "we’ve used throughout."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:38
+#: ../../Ch12/Ch12_Regression_09.rst:38
 msgid ""
 "In jamovi we had already specified the ``95% Confidence interval`` as shown "
 "in :numref:`fig-reg2`, although we could easily have chosen another value, "
 "say a ``99% Confidence interval`` if that is what we decided on."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:43
+#: ../../Ch12/Ch12_Regression_09.rst:43
 msgid "Calculating standardised regression coefficients"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:45
+#: ../../Ch12/Ch12_Regression_09.rst:45
 msgid ""
 "One more thing that you might want to do is to calculate “standardised” "
 "regression coefficients, often denoted *β*. The rationale behind "
@@ -1902,7 +1902,7 @@ msgid ""
 "**standardised coefficients** aim to do."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:64
+#: ../../Ch12/Ch12_Regression_09.rst:64
 msgid ""
 "The basic idea is quite simple; the standardised coefficients are the "
 "coefficients that you would have obtained if you’d converted all the "
@@ -1920,7 +1920,7 @@ msgid ""
 "It’s not always obvious that this is true."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:80
+#: ../../Ch12/Ch12_Regression_09.rst:80
 msgid ""
 "Leaving aside the interpretation issues, let’s look at how it’s calculated. "
 "What you could do is standardise all the variables yourself and then run a "
@@ -1929,35 +1929,35 @@ msgid ""
 "formula, namely"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:86
+#: ../../Ch12/Ch12_Regression_09.rst:86
 msgid "β\\ :sub:`X` = *b*\\ :sub:`X` × (σ\\ :sub:`X` / σ\\ :sub:`Y`)"
 msgstr "β\\ :sub:`X` = *b*\\ :sub:`X` × (σ\\ :sub:`X` / σ\\ :sub:`Y`)"
 
-#: ../../Ch12/Ch12_Regression_08.rst:88
+#: ../../Ch12/Ch12_Regression_09.rst:88
 msgid ""
 "where σ\\ :sub:`X` is the standard deviation of the predictor, and σ\\ :sub:"
 "`Y` is the standard deviation of the outcome variable *Y*. This makes "
 "matters a lot simpler."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:92
+#: ../../Ch12/Ch12_Regression_09.rst:92
 msgid ""
 "To make things even simpler, jamovi has an option that computes the *β* "
 "coefficients for you using the ``Standardized estimate`` checkbox in the "
 "``Model Coefficients`` options, see results in :numref:`fig-reg3`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:102
 msgid "Standardised coefficients with 95% confidence intervals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:102
 msgid ""
 "Standardised coefficients, with 95% confidence intervals, for multiple "
 "linear regression"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:107
+#: ../../Ch12/Ch12_Regression_09.rst:107
 msgid ""
 "These results clearly show that the ``dani.sleep`` variable has a much "
 "stronger effect than the ``baby.sleep`` variable. However, this is a perfect "
@@ -1968,7 +1968,7 @@ msgid ""
 "scores?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_08.rst:117
+#: ../../Ch12/Ch12_Regression_09.rst:117
 msgid ""
 "Strictly, you standardise all the *regressors*. That is, every “thing” that "
 "has a regression coefficient associated with it in the model. For the "
@@ -1979,29 +1979,29 @@ msgid ""
 "too much about this distinction."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:4
+#: ../../Ch12/Ch12_Regression_10.rst:4
 msgid "Assumptions of regression"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:6
+#: ../../Ch12/Ch12_Regression_10.rst:6
 msgid ""
 "The linear regression model that I’ve been discussing relies on several "
-"assumptions. In section :doc:`Model checking <../Ch12/Ch12_Regression_10>` "
+"assumptions. In section :doc:`Model checking <../Ch12/Ch12_Regression_11>` "
 "we’ll talk a lot more about how to check that these assumptions are being "
 "met, but first let’s have a look at each of them."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:11
+#: ../../Ch12/Ch12_Regression_10.rst:11
 msgid ""
 "*Normality*. Like many of the models in statistics, basic simple or multiple "
 "linear regression relies on an assumption of normality. Specifically, it "
 "assumes that the *residuals* are normally distributed. It’s actually okay if "
 "the predictors *X* and the outcome *Y* are non-normal, so long as the "
 "residuals ε are normal. See section :doc:`Checking the normality of the "
-"residuals <../Ch12/Ch12_Regression_10>`."
+"residuals <../Ch12/Ch12_Regression_11>`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:18
+#: ../../Ch12/Ch12_Regression_10.rst:18
 msgid ""
 "*Linearity*. A pretty fundamental assumption of the linear regression model "
 "is that the relationship between *X* and *Y* actually is linear! Regardless "
@@ -2009,7 +2009,7 @@ msgid ""
 "the relationships involved are linear."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:23
+#: ../../Ch12/Ch12_Regression_10.rst:23
 msgid ""
 "*Homogeneity of variance*. Strictly speaking, the regression model assumes "
 "that each residual ε\\ :sub:`i` is generated from a normal distribution with "
@@ -2021,7 +2021,7 @@ msgid ""
 "especially paranoid) all values of every predictor *X* in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:32
+#: ../../Ch12/Ch12_Regression_10.rst:32
 msgid ""
 "*Uncorrelated predictors*. The idea here is that, in a multiple regression "
 "model, you don’t want your predictors to be too strongly correlated with "
@@ -2029,10 +2029,10 @@ msgid ""
 "but in practice it’s required. Predictors that are too strongly correlated "
 "with each other (referred to as “collinearity”) can cause problems when "
 "evaluating the model. See section :doc:`Checking for collinearity <../Ch12/"
-"Ch12_Regression_10>`."
+"Ch12_Regression_11>`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:40
+#: ../../Ch12/Ch12_Regression_10.rst:40
 msgid ""
 "*Residuals are independent of each other*. This is really just a “catch all” "
 "assumption, to the effect that “there’s nothing else funny going on in the "
@@ -2041,7 +2041,7 @@ msgid ""
 "up."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:46
+#: ../../Ch12/Ch12_Regression_10.rst:46
 msgid ""
 "*No “bad” outliers*. Again, not actually a technical assumption of the model "
 "(or rather, it’s sort of implied by all the others), but there is an "
@@ -2049,14 +2049,14 @@ msgid ""
 "influenced by one or two anomalous data points because this raises questions "
 "about the adequacy of the model and the trustworthiness of the data in some "
 "cases. See section :doc:`Three kinds of anomalous data <../Ch12/"
-"Ch12_Regression_10>`."
+"Ch12_Regression_11>`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:4
+#: ../../Ch12/Ch12_Regression_11.rst:4
 msgid "Model checking"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:6
+#: ../../Ch12/Ch12_Regression_11.rst:6
 msgid ""
 "The main focus of this section is **regression diagnostics**, a term that "
 "refers to the art of checking that the assumptions of your regression model "
@@ -2073,7 +2073,7 @@ msgid ""
 "decide not to do *any* model checking. This is a bit of a worry!"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:21
+#: ../../Ch12/Ch12_Regression_11.rst:21
 msgid ""
 "In this section I describe several different things you can do to check that "
 "your regression model is doing what it’s supposed to. It doesn’t cover the "
@@ -2092,11 +2092,11 @@ msgid ""
 "of the advanced diagnostic techniques are only available in R and not jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:39
+#: ../../Ch12/Ch12_Regression_11.rst:39
 msgid "Three kinds of residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:41
+#: ../../Ch12/Ch12_Regression_11.rst:41
 msgid ""
 "The majority of regression diagnostics revolve around looking at the "
 "residuals, and by now you’ve probably formed a sufficiently pessimistic "
@@ -2110,7 +2110,7 @@ msgid ""
 "chapter, the Pearson residual is identical to the ordinary residual."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:53
+#: ../../Ch12/Ch12_Regression_11.rst:53
 msgid ""
 "The first and simplest kind of residuals that we care about are **ordinary "
 "residuals**. These are the actual raw residuals that I’ve been talking about "
@@ -2121,7 +2121,7 @@ msgid ""
 "the very simple equation:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:63
+#: ../../Ch12/Ch12_Regression_11.rst:63
 msgid ""
 "This is of course what we saw earlier, and unless I specifically refer to "
 "some other kind of residual, this is the one I’m talking about. So there’s "
@@ -2136,20 +2136,20 @@ msgid ""
 "normalised in such a way as to have standard deviation 1."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:76
+#: ../../Ch12/Ch12_Regression_11.rst:76
 msgid ""
 "The way we calculate these is to divide the ordinary residual by an estimate "
 "of the (population) standard deviation of these residuals. For technical "
 "reasons, mumble mumble, the formula for this is"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:80
+#: ../../Ch12/Ch12_Regression_11.rst:80
 msgid ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 msgstr ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 
-#: ../../Ch12/Ch12_Regression_10.rst:82
+#: ../../Ch12/Ch12_Regression_11.rst:82
 msgid ""
 "where :math:`\\hat\\sigma` in this context is the estimated population "
 "standard deviation of the ordinary residuals, and h\\ :sub:`i` is the “hat "
@@ -2160,7 +2160,7 @@ msgid ""
 "or less the truth, it’s just that we’re being a bit fancier."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:90
+#: ../../Ch12/Ch12_Regression_11.rst:90
 msgid ""
 "The third kind of residuals are **Studentised residuals** (also called "
 "“jackknifed residuals”) and they’re even fancier than standardised "
@@ -2168,11 +2168,11 @@ msgid ""
 "some quantity in order to estimate some standardised notion of the residual."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:95
+#: ../../Ch12/Ch12_Regression_11.rst:95
 msgid "The formula for doing the calculations this time is subtly different"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:97
+#: ../../Ch12/Ch12_Regression_11.rst:97
 msgid ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
@@ -2180,7 +2180,7 @@ msgstr ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_10.rst:99
+#: ../../Ch12/Ch12_Regression_11.rst:99
 msgid ""
 "Notice that our estimate of the standard deviation here is written :math:"
 "`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
@@ -2193,7 +2193,7 @@ msgid ""
 "deviation estimate is actually given by the following equation:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:110
+#: ../../Ch12/Ch12_Regression_11.rst:110
 msgid ""
 "\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
 "^\\prime}^2}{N-K-2}}\n"
@@ -2203,11 +2203,11 @@ msgstr ""
 "^\\prime}^2}{N-K-2}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_10.rst:112
+#: ../../Ch12/Ch12_Regression_11.rst:112
 msgid "Isn’t that a pip?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:114
+#: ../../Ch12/Ch12_Regression_11.rst:114
 msgid ""
 "Before moving on, I should point out that you don’t often need to obtain "
 "these residuals yourself, even though they are at the heart of almost all "
@@ -2217,11 +2217,11 @@ msgid ""
 "things yourself in case you ever need to do something non-standard."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:123
+#: ../../Ch12/Ch12_Regression_11.rst:123
 msgid "Three kinds of anomalous data"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:125
+#: ../../Ch12/Ch12_Regression_11.rst:125
 msgid ""
 "One danger that you can run into with linear regression models is that your "
 "analysis might be disproportionately sensitive to a smallish number of "
@@ -2235,7 +2235,7 @@ msgid ""
 "have rather different implications for your analysis."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:136
+#: ../../Ch12/Ch12_Regression_11.rst:136
 msgid ""
 "The first kind of unusual observation is an **outlier**. The definition of "
 "an outlier (in this context) is an observation that is very different from "
@@ -2250,11 +2250,11 @@ msgid ""
 "that case and try to find out why it’s so different."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:155
 msgid "Outliers and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:155
 msgid ""
 "Illustration of outliers: The dotted lines plot the regression line that "
 "would have been estimated without the anomalous observation included, and "
@@ -2264,11 +2264,11 @@ msgid ""
 "predictor (x axis location), and lies a long way from the regression line."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:171
 msgid "High leverage points and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:171
 msgid ""
 "Illustration of high leverage points: The anomalous observation in this case "
 "is unusual both in terms of the predictor (x axis) and the outcome (y axis), "
@@ -2277,7 +2277,7 @@ msgid ""
 "to the regression line and does not distort it."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:179
+#: ../../Ch12/Ch12_Regression_11.rst:179
 msgid ""
 "The second way in which an observation can be unusual is if it has high "
 "**leverage**, which happens when the observation is very different from all "
@@ -2292,7 +2292,7 @@ msgid ""
 "ends up going."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:190
+#: ../../Ch12/Ch12_Regression_11.rst:190
 msgid ""
 "In general, if an observation lies far away from the other ones in terms of "
 "the predictor variables, it will have a large hat value (as a rough guide, "
@@ -2303,11 +2303,11 @@ msgid ""
 "outliers."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:203
 msgid "High influence points and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:203
 msgid ""
 "Illustration of high influence points: In this case, the anomalous "
 "observation is highly unusual on the predictor variable (x axis), and falls "
@@ -2316,7 +2316,7 @@ msgid ""
 "entirely typical in terms of the outcome variable (y axis)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:211
+#: ../../Ch12/Ch12_Regression_11.rst:211
 msgid ""
 "This brings us to our third measure of unusualness, the **influence** of an "
 "observation. A high influence observation is an outlier that has high "
@@ -2331,7 +2331,7 @@ msgid ""
 "distance**."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:222
+#: ../../Ch12/Ch12_Regression_11.rst:222
 msgid ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
@@ -2339,14 +2339,14 @@ msgstr ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_10.rst:224
+#: ../../Ch12/Ch12_Regression_11.rst:224
 msgid ""
 "Notice that this is a multiplication of something that measures the outlier-"
 "ness of the observation (the bit on the left), and something that measures "
 "the leverage of the observation (the bit on the right)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:228
+#: ../../Ch12/Ch12_Regression_11.rst:228
 msgid ""
 "In order to have a large Cook’s distance an observation must be a fairly "
 "substantial outlier *and* have high leverage. As a rough guide, Cook’s "
@@ -2354,7 +2354,7 @@ msgid ""
 "use as a quick and dirty rule)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:233
+#: ../../Ch12/Ch12_Regression_11.rst:233
 msgid ""
 "In jamovi, information about Cook’s distance can be calculated by clicking "
 "on the ``Cook’s Distance`` checkbox in the ``Assumption Checks`` → ``Data "
@@ -2363,11 +2363,11 @@ msgid ""
 "in :numref:`fig-reg4`\\."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:245
+#: ../../Ch12/Ch12_Regression_11.rst:245
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:249
+#: ../../Ch12/Ch12_Regression_11.rst:249
 msgid ""
 "You can see that, in this example, the mean Cook’s distance value is 0.01, "
 "and the range is from 0.00000262 to 0.11, so this is some way off the rule "
@@ -2375,7 +2375,7 @@ msgid ""
 "considered large."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:254
+#: ../../Ch12/Ch12_Regression_11.rst:254
 msgid ""
 "An obvious question to ask next is, if you do have large values of Cook’s "
 "distance what should you do? As always, there’s no hard and fast rule. "
@@ -2391,11 +2391,11 @@ msgid ""
 "different from the others and therefore deserves to be handled separately."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:268
+#: ../../Ch12/Ch12_Regression_11.rst:268
 msgid "Checking the normality of the residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:270
+#: ../../Ch12/Ch12_Regression_11.rst:270
 msgid ""
 "Like many of the statistical tools we’ve discussed in this book, regression "
 "models rely on a normality assumption. In this case, we assume that the "
@@ -2404,24 +2404,24 @@ msgid ""
 "residuals`` option."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:276
+#: ../../Ch12/Ch12_Regression_11.rst:276
 msgid ""
 "The output is shown in :numref:`fig-reg5`, showing the standardised "
 "residuals plotted as a function of their theoretical quantiles according to "
 "the regression model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:286
+#: ../../Ch12/Ch12_Regression_11.rst:286
 msgid "Quantiles according to the model against standardised residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:286
+#: ../../Ch12/Ch12_Regression_11.rst:286
 msgid ""
 "Plot of the theoretical quantiles according to the model, against the "
 "quantiles of the standardised residuals, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:291
+#: ../../Ch12/Ch12_Regression_11.rst:291
 msgid ""
 "Another thing we should check is the relationship between the fitted values "
 "and the residuals themselves. We can get jamovi to do this using the "
@@ -2435,11 +2435,11 @@ msgid ""
 "probably not worth worrying about."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:308
+#: ../../Ch12/Ch12_Regression_11.rst:308
 msgid "Residuals plots produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:312
+#: ../../Ch12/Ch12_Regression_11.rst:312
 msgid ""
 "If we were worried, then in a lot of cases the solution to this problem (and "
 "many others) is to transform one or more of the variables. We discussed the "
@@ -2450,11 +2450,11 @@ msgid ""
 "earlier: the Box-Cox transform."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:322
+#: ../../Ch12/Ch12_Regression_11.rst:322
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:324
+#: ../../Ch12/Ch12_Regression_11.rst:324
 msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
@@ -2462,23 +2462,23 @@ msgstr ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_10.rst:326
+#: ../../Ch12/Ch12_Regression_11.rst:326
 msgid ""
 "for all values of λ except λ = 0. When λ = 0 we just take the natural "
 "logarithm (i.e., *ln*\\(x))."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:329
+#: ../../Ch12/Ch12_Regression_11.rst:329
 msgid ""
 "You can calculate it using the ``BOXCOX`` function in the ``Compute`` "
 "variables screen in jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:333
+#: ../../Ch12/Ch12_Regression_11.rst:333
 msgid "Checking for collinearity"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:335
+#: ../../Ch12/Ch12_Regression_11.rst:335
 msgid ""
 "The last kind of regression diagnostic that I’m going to discuss in this "
 "chapter is the use of **variance inflation factors** (VIFs), which are "
@@ -2487,15 +2487,15 @@ msgid ""
 "inflation factor associated with each predictor *X*\\ :sub:`k` in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:342
+#: ../../Ch12/Ch12_Regression_11.rst:342
 msgid "The formula for the k-th VIF is:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:344
+#: ../../Ch12/Ch12_Regression_11.rst:344
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R²*\\ :sub:`(-k)`\\)"
 msgstr "VIF\\ :sub:`k` = 1 / (1 - *R²*\\ :sub:`(-k)`\\)"
 
-#: ../../Ch12/Ch12_Regression_10.rst:346
+#: ../../Ch12/Ch12_Regression_11.rst:346
 msgid ""
 "where *R²*\\ :sub:`(-k)` refers to *R*-squared value you would get if you "
 "ran a regression using *X*\\ :sub:`k` as the outcome variable, and all the "
@@ -2504,7 +2504,7 @@ msgid ""
 "correlated with all the other variables in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:352
+#: ../../Ch12/Ch12_Regression_11.rst:352
 msgid ""
 "The square root of the VIF is pretty interpretable. It tells you how much "
 "wider the confidence interval for the corresponding coefficient *b*\\ :sub:"
@@ -2517,7 +2517,7 @@ msgid ""
 "between our two predictors isn’t causing much of a problem."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:363
+#: ../../Ch12/Ch12_Regression_11.rst:363
 msgid ""
 "To give a sense of how we could end up with a model that has bigger "
 "collinearity problems, suppose I were to run a much less interesting "
@@ -2527,7 +2527,7 @@ msgid ""
 "correlation matrix for all four variables:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:378
+#: ../../Ch12/Ch12_Regression_11.rst:378
 msgid ""
 "We have some fairly large correlations between some of our predictor "
 "variables! When we run the regression model and look at the VIF values, we "
@@ -2537,15 +2537,15 @@ msgid ""
 "there."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:390
+#: ../../Ch12/Ch12_Regression_11.rst:390
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:397
+#: ../../Ch12/Ch12_Regression_11.rst:397
 msgid "Or have no hope, as the case may be."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:400
+#: ../../Ch12/Ch12_Regression_11.rst:400
 msgid ""
 "Again, for the linear algebra fanatics: the “hat matrix” is defined to be "
 "that matrix **H** that converts the vector of observed values *y* into a "
@@ -2557,18 +2557,18 @@ msgid ""
 "**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_10.rst:410
+#: ../../Ch12/Ch12_Regression_11.rst:410
 msgid ""
 "Although, currently there isn’t a very easy way to do this in jamovi, so a "
 "more powerful regression program such as the ``car`` package in ``R`` would "
 "be better for this more advanced analysis"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:4
+#: ../../Ch12/Ch12_Regression_12.rst:4
 msgid "Model selection"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:6
+#: ../../Ch12/Ch12_Regression_12.rst:6
 msgid ""
 "One fairly major problem that remains is the problem of “model selection”. "
 "That is, if we have a data set that contains several variables, which ones "
@@ -2583,7 +2583,7 @@ msgid ""
 "variables to include in your model. First, the two principles:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:19
+#: ../../Ch12/Ch12_Regression_12.rst:19
 msgid ""
 "It’s nice to have an actual substantive basis for your choices. That is, in "
 "a lot of situations you the researcher have good reasons to pick out a "
@@ -2593,7 +2593,7 @@ msgid ""
 "scientific process, not the other way around."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:27
+#: ../../Ch12/Ch12_Regression_12.rst:27
 msgid ""
 "To the extent that your choices rely on statistical inference, there is a "
 "trade off between simplicity and goodness of fit. As you add more predictors "
@@ -2606,7 +2606,7 @@ msgid ""
 "too many variables."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:37
+#: ../../Ch12/Ch12_Regression_12.rst:37
 msgid ""
 "This latter principle is often referred to as **Ockham’s razor** and is "
 "often summarised in terms of the following pithy saying: *do not multiply "
@@ -2615,7 +2615,7 @@ msgid ""
 "original was better."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:43
+#: ../../Ch12/Ch12_Regression_12.rst:43
 msgid ""
 "In any case, what we need is an actual mathematical criterion that will "
 "implement the qualitative principle behind Ockham’s razor in the context of "
@@ -2626,14 +2626,14 @@ msgid ""
 "jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:50
+#: ../../Ch12/Ch12_Regression_12.rst:50
 msgid ""
 "In the context of a linear regression model (and ignoring terms that don’t "
 "depend on the model in any way!), the AIC for a model that has K predictor "
 "variables plus an intercept is"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:54
+#: ../../Ch12/Ch12_Regression_12.rst:54
 msgid ""
 "\\mbox{AIC} = \\displaystyle\\frac{\\mbox{SS}_{res}}{\\hat{\\sigma}^2} + 2K\n"
 "\n"
@@ -2641,7 +2641,7 @@ msgstr ""
 "\\mbox{AIC} = \\displaystyle\\frac{\\mbox{SS}_{res}}{\\hat{\\sigma}^2} + 2K\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:56
+#: ../../Ch12/Ch12_Regression_12.rst:56
 msgid ""
 "The smaller the AIC value, the better the model performance. If we ignore "
 "the low level details it’s fairly obvious what the AIC does. On the left we "
@@ -2652,7 +2652,7 @@ msgid ""
 "is a simple implementation of Ockham’s razor."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:65
+#: ../../Ch12/Ch12_Regression_12.rst:65
 msgid ""
 "AIC can be added to the ``Model Fit Measures`` output Table when the ``AIC`` "
 "checkbox is clicked, and a rather clunky way of assessing different models "
@@ -2665,11 +2665,11 @@ msgid ""
 "briefly below just so you know about them."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:77
+#: ../../Ch12/Ch12_Regression_12.rst:77
 msgid "Backward elimination"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:79
+#: ../../Ch12/Ch12_Regression_12.rst:79
 msgid ""
 "In backward elimination you start with the complete regression model, "
 "including all possible predictors. Then, at each “step” we try all possible "
@@ -2681,11 +2681,11 @@ msgid ""
 "models that you could produce by deleting one of its predictors."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:90
+#: ../../Ch12/Ch12_Regression_12.rst:90
 msgid "Forward selection"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:92
+#: ../../Ch12/Ch12_Regression_12.rst:92
 msgid ""
 "As an alternative, you can also try **forward selection**. This time around "
 "we start with the smallest possible model as our start point, and only "
@@ -2694,17 +2694,17 @@ msgid ""
 "you’re willing to entertain is."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:98
+#: ../../Ch12/Ch12_Regression_12.rst:98
 msgid ""
 "Although backward and forward selection can lead to the same conclusion, "
 "they don’t always."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:102
+#: ../../Ch12/Ch12_Regression_12.rst:102
 msgid "A caveat"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:104
+#: ../../Ch12/Ch12_Regression_12.rst:104
 msgid ""
 "Automated variable selection methods are seductive things, especially when "
 "they’re bundled up in (fairly) simple functions in powerful statistical "
@@ -2718,7 +2718,7 @@ msgid ""
 "with."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:115
+#: ../../Ch12/Ch12_Regression_12.rst:115
 msgid ""
 "Or, perhaps not. Firstly, there’s very little agreement on what counts as an "
 "appropriate model selection criterion. When I was taught backward "
@@ -2740,7 +2740,7 @@ msgid ""
 "problem becomes hard."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:135
+#: ../../Ch12/Ch12_Regression_12.rst:135
 msgid ""
 "What does this mean in practice? Well, you *could* go and spend several "
 "years teaching yourself the theory of model selection, learning all the ins "
@@ -2755,11 +2755,11 @@ msgid ""
 "inexact tool, and as I said at the beginning, *interpretability matters*."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:149
+#: ../../Ch12/Ch12_Regression_12.rst:149
 msgid "Comparing two regression models"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:151
+#: ../../Ch12/Ch12_Regression_12.rst:151
 msgid ""
 "An alternative to using automated model selection procedures is for the "
 "researcher to explicitly select two or more regression models to compare to "
@@ -2786,7 +2786,7 @@ msgid ""
 "for different models included in one table.\\ [#]_"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:177
+#: ../../Ch12/Ch12_Regression_12.rst:177
 msgid ""
 "A somewhat different approach to the problem comes out of the hypothesis "
 "testing framework. Suppose you have two regression models, where one of them "
@@ -2800,7 +2800,7 @@ msgid ""
 "straightforward fashion."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:188
+#: ../../Ch12/Ch12_Regression_12.rst:188
 msgid ""
 "We can fit both models to the data and obtain a residual sum of squares for "
 "both models. I’ll denote these as SS\\ :sub:`res`\\ :sup:`(1)` and SS\\ :sub:"
@@ -2808,7 +2808,7 @@ msgid ""
 "which model we’re talking about. Then our *F* statistic is"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:194
+#: ../../Ch12/Ch12_Regression_12.rst:194
 msgid ""
 "F = \\frac{(\\mbox{SS}_{res}^{(1)} - \\mbox{SS}_{res}^{(1)})/k}{(\\mbox{SS}"
 "_{res}^{(2)})/(N-p-1)}\n"
@@ -2818,7 +2818,7 @@ msgstr ""
 "_{res}^{(2)})/(N-p-1)}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:196
+#: ../../Ch12/Ch12_Regression_12.rst:196
 msgid ""
 "where *N* is the number of observations, *p* is the number of predictors in "
 "the full model (not including the intercept), and k is the difference in the "
@@ -2828,20 +2828,20 @@ msgid ""
 "own right. That is"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:204
+#: ../../Ch12/Ch12_Regression_12.rst:204
 msgid ""
 "SS\\ :sub:`Δ` = SS\\ :sub:`res`\\ :sup:`(1)` - SS\\ :sub:`res`\\ :sup:`(2)`"
 msgstr ""
 "SS\\ :sub:`Δ` = SS\\ :sub:`res`\\ :sup:`(1)` - SS\\ :sub:`res`\\ :sup:`(2)`"
 
-#: ../../Ch12/Ch12_Regression_11.rst:206
+#: ../../Ch12/Ch12_Regression_12.rst:206
 msgid ""
 "The reason why this is helpful is that we can express SS\\ :sub:`Δ` as a "
 "measure of the extent to which the two models make different predictions "
 "about the the outcome variable. Specifically,"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:211
+#: ../../Ch12/Ch12_Regression_12.rst:211
 msgid ""
 "SS\\ :sub:`Δ` = :math:`\\sum_{i} \\left(\\hat{y}_i^{(2)} - \\hat{y}_i^{(1)} "
 "\\right)^2`"
@@ -2849,22 +2849,22 @@ msgstr ""
 "SS\\ :sub:`Δ` = :math:`\\sum_{i} \\left(\\hat{y}_i^{(2)} - \\hat{y}_i^{(1)} "
 "\\right)^2`"
 
-#: ../../Ch12/Ch12_Regression_11.rst:213
+#: ../../Ch12/Ch12_Regression_12.rst:213
 msgid ""
 "where *ŷ*\\ :sub:`i`\\ :sup:`(1)` is the fitted value for *y*\\ :sub:`i` "
 "according to model M\\ :sub:`1` and *ŷ*\\ :sub:`i`\\ :sup:`(2)` is the "
 "fitted value for *y*\\ :sub:`i` according to model M\\ :sub:`2`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:223
+#: ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ‘Model Builder’ option"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:223
+#: ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ``Model Builder`` option"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:227
+#: ../../Ch12/Ch12_Regression_12.rst:227
 msgid ""
 "Okay, so that’s the hypothesis test that we use to compare two regression "
 "models to one another. Now, how do we do it in jamovi? The answer is to use "
@@ -2880,21 +2880,21 @@ msgid ""
 "**hierarchical regression**."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:240
+#: ../../Ch12/Ch12_Regression_12.rst:240
 msgid ""
 "We can also use this ``Model Comparison`` option to display a table that "
 "shows the AIC and BIC for each model, making it easy to compare and identify "
 "which model has the lowest value, as in :numref:`fig-reg8`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:247
+#: ../../Ch12/Ch12_Regression_12.rst:247
 msgid ""
 "While I’m on this topic I should point out that the empirical evidence "
 "suggests that BIC is a better criterion than AIC. In most simulation studies "
 "that I’ve seen, BIC does a much better job of selecting the correct model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:252
+#: ../../Ch12/Ch12_Regression_12.rst:252
 msgid ""
 "It’s worth noting in passing that this same *F*-statistic can be used to "
 "test a much broader range of hypotheses than those that I’m mentioning here. "
@@ -2910,53 +2910,53 @@ msgid ""
 "possibility."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:4
+#: ../../Ch12/Ch12_Regression_13.rst:4
 msgid "Summary"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:6
+#: ../../Ch12/Ch12_Regression_13.rst:6
 msgid ""
 "Want to know how strong the relationship is between two variables? Calculate "
 "a :doc:`correlation <../Ch12/Ch12_Regression_01>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:9
+#: ../../Ch12/Ch12_Regression_13.rst:9
 msgid "Drawing :doc:`scatterplots <../Ch12/Ch12_Regression_02>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:11
+#: ../../Ch12/Ch12_Regression_13.rst:11
 msgid ""
 ":doc:`Basic ideas in linear regression <../Ch12/Ch12_Regression_03>` and :"
 "doc:`how regression models are estimated <../Ch12/Ch12_Regression_04>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:14
+#: ../../Ch12/Ch12_Regression_13.rst:14
 msgid ":doc:`Multiple linear regression <../Ch12/Ch12_Regression_05>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:16
+#: ../../Ch12/Ch12_Regression_13.rst:16
 msgid ""
 "Measuring the :doc:`overall performance of a regression model using R² <../"
 "Ch12/Ch12_Regression_06>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:19
+#: ../../Ch12/Ch12_Regression_13.rst:19
 msgid ""
 ":doc:`Hypothesis tests for regression models <../Ch12/Ch12_Regression_07>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:21
+#: ../../Ch12/Ch12_Regression_13.rst:21
 msgid ""
 ":doc:`Calculating confidence intervals for regression coefficients and "
-"standardised coefficients <../Ch12/Ch12_Regression_08>`"
+"standardised coefficients <../Ch12/Ch12_Regression_09>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:24
+#: ../../Ch12/Ch12_Regression_13.rst:24
 msgid ""
-"The :doc:`assumptions of regression <../Ch12/Ch12_Regression_09>` and :doc:"
-"`how to check them <../Ch12/Ch12_Regression_10>`"
+"The :doc:`assumptions of regression <../Ch12/Ch12_Regression_10>` and :doc:"
+"`how to check them <../Ch12/Ch12_Regression_11>`"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_12.rst:27
-msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_11>`"
+#: ../../Ch12/Ch12_Regression_13.rst:27
+msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_12>`"
 msgstr ""

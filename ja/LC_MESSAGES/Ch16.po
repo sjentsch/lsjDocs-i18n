@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 14:52+0200\n"
+"POT-Creation-Date: 2022-04-04 22:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,7 +65,7 @@ msgid ""
 "statistics are all about, covering the basic mathematical rules for how "
 "it works as well as an explanation for why I think the Bayesian approach "
 "is so useful. Afterwards, I provide a brief overview of how you can do "
-":doc:`Bayesian versions of t-tests <../Ch16/Ch16_Bayes_4>`."
+":doc:`Bayesian versions of t-tests <../Ch16/Ch16_Bayes_5>`."
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:4
@@ -1321,7 +1321,7 @@ msgid ""
 "Type I error. That’s, um, quite a bit bigger than the 5% that it’s "
 "supposed to be. By way of comparison, imagine that you had used the "
 "following strategy. Start collecting data. Every single time an "
-"observation arrives, run a :doc:`Bayesian t-test <../Ch16/Ch16_Bayes_4>` "
+"observation arrives, run a :doc:`Bayesian t-test <../Ch16/Ch16_Bayes_5>` "
 "and look at the Bayes factor. I’ll assume that `Johnson (2013) "
 "<../Other/References.html#johnson-2013>`__ is right, and I’ll treat a "
 "Bayes factor of 3:1 as roughly equivalent to a *p*-value of 0.05.\\ [#]_ "
@@ -1494,11 +1494,11 @@ msgid ""
 "real world. *Default* orthodox methods suck, and we all know it."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:4
+#: ../../Ch16/Ch16_Bayes_5.rst:4
 msgid "Bayesian t-tests"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:6
+#: ../../Ch16/Ch16_Bayes_5.rst:6
 msgid ""
 "An important type of statistical inference problem discussed in this book"
 " is the comparison between two means, discussed in some detail in the "
@@ -1509,11 +1509,11 @@ msgid ""
 "samples *t*-test in this section."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:14
+#: ../../Ch16/Ch16_Bayes_5.rst:14
 msgid "Independent samples t-test"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:16
+#: ../../Ch16/Ch16_Bayes_5.rst:16
 msgid ""
 "The most common type of *t*-test is the independent samples *t*-test, and"
 " it arises when you have data as in the |harpo|_ data set that we used in"
@@ -1528,11 +1528,11 @@ msgid ""
 "\\0.05, we reject the null hypothesis."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:33
+#: ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "Independent Samples t-test result in jamovi"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:37
+#: ../../Ch16/Ch16_Bayes_5.rst:37
 msgid ""
 "What does the Bayesian version of the *t*-test look like? We can get the "
 "Bayes factor by selecting the ‘Bayes factor’ checkbox under the ‘Tests’ "
@@ -1543,11 +1543,11 @@ msgid ""
 "alternative hypothesis."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:50
+#: ../../Ch16/Ch16_Bayes_5.rst:50
 msgid "Bayes factors analysis alongside Independent Samples t-Test"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:54
+#: ../../Ch16/Ch16_Bayes_5.rst:54
 msgid ""
 "Before moving on, it’s worth highlighting the difference between the "
 "orthodox test results and the Bayesian one. According to the orthodox "
@@ -1560,11 +1560,11 @@ msgid ""
 "rejecting the null."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:64
+#: ../../Ch16/Ch16_Bayes_5.rst:64
 msgid "Paired samples *t*-test"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:66
+#: ../../Ch16/Ch16_Bayes_5.rst:66
 msgid ""
 "Back in section :doc:`The paired-samples t-test <../Ch11/Ch11_tTest_05>` "
 "I discussed the |chico|_ data set in which student grades were measured "
@@ -1578,15 +1578,15 @@ msgid ""
 "null with some confidence!"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_4.rst:82
+#: ../../Ch16/Ch16_Bayes_5.rst:82
 msgid "Paired samples T-Test and Bayes Factor result in jamovi"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:4
+#: ../../Ch16/Ch16_Bayes_8.rst:4
 msgid "Summary"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:6
+#: ../../Ch16/Ch16_Bayes_8.rst:6
 msgid ""
 "The first half of this chapter was focused primarily on the theoretical "
 "underpinnings of Bayesian statistics. I introduced the mathematics for "
@@ -1596,10 +1596,10 @@ msgid ""
 "typically done. Finally, I devoted some space to talking about why I "
 "think Bayesian methods are worth using (section :doc:`Why be a Bayesian? "
 "<../Ch16/Ch16_Bayes_3>`). Then I gave a practical example, a "
-":doc:`Bayesian t-test <../Ch16/Ch16_Bayes_4>`."
+":doc:`Bayesian t-test <../Ch16/Ch16_Bayes_5>`."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:15
+#: ../../Ch16/Ch16_Bayes_8.rst:15
 msgid ""
 "If you’re interested in learning more about the Bayesian approach, there "
 "are many good books you could look into. `John Kruschke’s (2015) "
@@ -1615,19 +1615,7 @@ msgid ""
 "so look around!"
 msgstr ""
 
-#~ msgid ""
-#~ "What does the Bayesian version of "
-#~ "the *t*-test look like? We can get"
-#~ " the Bayes factor analysis by "
-#~ "selecting the ‘Bayes factor’ checkbox "
-#~ "under the ‘Tests’ option, and accepting"
-#~ " the suggested default value for the"
-#~ " ‘Prior’. This gives the results "
-#~ "shown in the table in :numref:`fig-"
-#~ "bayes2`. What we get in this table"
-#~ " is a Bayes factor statistic of "
-#~ "1.75, meaning that the evidence provided"
-#~ " by these data are about 1.8:1 "
-#~ "in favour of the alternative hypothesis."
-#~ msgstr ""
+
+
+
 
