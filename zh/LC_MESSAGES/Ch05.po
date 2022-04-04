@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 17:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,8 +180,12 @@ msgid ""
 "sense about what it looks like. The downside to histograms is that they "
 "aren’t very compact. Unlike some of the other plots I’ll talk about it’s "
 "hard to cram 20-30 histograms into a single image without overwhelming "
-"the viewer. And of course, if your data are nominal scale then histograms"
-" are useless."
+"the viewer. And of course, if your data are nominal scale |nominal| then "
+"histograms are useless."
+msgstr ""
+
+#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:200
+msgid "nominal"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:4
@@ -301,6 +305,18 @@ msgid ""
 "is going to learn anything useful."
 msgstr ""
 
+#: ../../Ch05/Ch05_Graphics_2.rst:107
+msgid ""
+"Multiple box plots: ``margin`` split by ``year`` from\n"
+"``aflmarginbyyear``"
+msgstr ""
+
+#: ../../Ch05/Ch05_Graphics_2.rst:107
+msgid ""
+"Multiple box plots created in jamovi, for the variables ``margin`` split "
+"by ``year`` in the |aflmarginbyyear|_ data set"
+msgstr ""
+
 #: ../../Ch05/Ch05_Graphics_2.rst:113
 msgid "Using box plots to detect outliers"
 msgstr ""
@@ -353,12 +369,12 @@ msgid ""
 " observations that pass the filter are included. One neat way to quickly "
 "identify which observations these are is to tell jamovi to produce a "
 "``Frequency table`` (in the ``Exploration`` → ``Descriptives`` window) "
-"for the ``ID`` variable (which must be a nominal variable otherwise the "
-"Frequency table is not produced). In :numref:`fig-filter2` you can see "
-"that the ID values for the observations where the margin was over 300 are"
-" **14** and **134**. These are suspicious cases, or observations, where "
-"you should go back to the original data source to find out what is going "
-"on."
+"for the ``ID`` variable (which must be a nominal variable |nominal| "
+"otherwise the Frequency table is not produced). In :numref:`fig-filter2` "
+"you can see that the ID values for the observations where the margin was "
+"over 300 are **14** and **134**. These are suspicious cases, or "
+"observations, where you should go back to the original data source to "
+"find out what is going on."
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:171
@@ -419,7 +435,7 @@ msgid ""
 "afl.finalists == \"Fremantle\" or afl.finalists == \"Richmond\"``\\ [#]_"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:19
+#: ../../Ch05/Ch05_Graphics_3.rst:20
 msgid ""
 "When you have done this you will see, in the ``Data`` view, that jamovi "
 "has filtered out all values apart from those we have specified. Next, "
@@ -430,19 +446,19 @@ msgid ""
 ":numref:`fig-bar1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:32
+#: ../../Ch05/Ch05_Graphics_3.rst:33
 msgid "Bar plot in jamovi, showing just four AFL teams"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:32
+#: ../../Ch05/Ch05_Graphics_3.rst:33
 msgid "Filtering to include just four AFL teams, and drawing a bar plot in jamovi"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:37
+#: ../../Ch05/Ch05_Graphics_3.rst:38
 msgid "Saving image files using jamovi"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:39
+#: ../../Ch05/Ch05_Graphics_3.rst:40
 msgid ""
 "Hold on, you might be thinking. What’s the good of being able to draw "
 "pretty pictures in jamovi if I can’t save them and send them to friends "
@@ -453,7 +469,7 @@ msgid ""
 "assignments or manuscripts."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:49
+#: ../../Ch05/Ch05_Graphics_3.rst:50
 msgid "jamovi uses the symbol “``==``” here to mean “matches”."
 msgstr ""
 
@@ -580,5 +596,50 @@ msgstr ""
 #~ " the time to teach yourself, because"
 #~ " it’s a much more powerful and "
 #~ "cleaner system."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Although this image would need a "
+#~ "lot of cleaning up in order to "
+#~ "make a good presentation graphic (i.e.,"
+#~ " one you’d include in a report), "
+#~ "it nevertheless does a pretty good "
+#~ "job of describing the data. In "
+#~ "fact, the big strength of a "
+#~ "histogram or density plot is that "
+#~ "(properly used) it does show the "
+#~ "entire spread of the data, so you"
+#~ " can get a pretty good sense "
+#~ "about what it looks like. The "
+#~ "downside to histograms is that they "
+#~ "aren’t very compact. Unlike some of "
+#~ "the other plots I’ll talk about "
+#~ "it’s hard to cram 20-30 histograms "
+#~ "into a single image without overwhelming"
+#~ " the viewer. And of course, if "
+#~ "your data are nominal scale then "
+#~ "histograms are useless."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This filter creates a new column "
+#~ "in the spreadsheet view where only "
+#~ "those observations that pass the filter"
+#~ " are included. One neat way to "
+#~ "quickly identify which observations these "
+#~ "are is to tell jamovi to produce"
+#~ " a ``Frequency table`` (in the "
+#~ "``Exploration`` → ``Descriptives`` window) for"
+#~ " the ``ID`` variable (which must be"
+#~ " a nominal variable otherwise the "
+#~ "Frequency table is not produced). In "
+#~ ":numref:`fig-filter2` you can see that"
+#~ " the ID values for the observations"
+#~ " where the margin was over 300 "
+#~ "are **14** and **134**. These are "
+#~ "suspicious cases, or observations, where "
+#~ "you should go back to the original"
+#~ " data source to find out what "
+#~ "is going on."
 #~ msgstr ""
 

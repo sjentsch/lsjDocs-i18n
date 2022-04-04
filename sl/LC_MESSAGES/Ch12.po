@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,8 +28,12 @@ msgstr ""
 msgid ""
 "The goal in this chapter is to introduce **correlation** and **linear "
 "regression**. These are the standard tools that statisticians rely on "
-"when analysing the relationship between continuous predictors and "
-"continuous outcomes."
+"when analysing the relationship between continuous predictors "
+"|continuous| and continuous outcomes |continuous|."
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:417
+msgid "continuous"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
@@ -373,8 +377,8 @@ msgstr ""
 msgid ""
 "Calculating correlations in jamovi can be done by clicking on the "
 "``Regression`` → ``Correlation Matrix`` button. Transfer all four "
-"continuous variables across into the box on the right to get the output "
-"in :numref:`fig-correlations`."
+"continuous variables |continuous| across into the box on the right to get"
+" the output in :numref:`fig-correlations`."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:196
@@ -616,115 +620,120 @@ msgstr ""
 msgid ""
 "How should we address this? Actually, it’s really easy. If we’re looking "
 "for ordinal relationships all we have to do is treat the data as if it "
-"were ordinal scale! So, instead of measuring effort in terms of “hours "
-"worked”, lets rank all 10 of our students in order of hours worked. That "
-"is, student 1 did the least work out of anyone (2 hours) so they get the "
-"lowest rank (rank = 1). Student 4 was the next laziest, putting in only 6"
-" hours of work over the whole semester, so they get the next lowest rank "
-"(rank = 2). Notice that I’m using “rank =1” to mean “low rank”. Sometimes"
-" in everyday language we talk about “rank = 1” to mean “top rank” rather "
-"than “bottom rank”. So be careful, you can rank “from smallest value to "
-"largest value” (i.e., small equals rank 1) or you can rank “from largest "
-"value to smallest value” (i.e., large equals rank 1). In this case, I’m "
-"ranking from smallest to largest, but as it’s really easy to forget which"
-" way you set things up you have to put a bit of effort into remembering!"
+"were ordinal scale |ordinal|! So, instead of measuring effort in terms of"
+" “hours worked”, lets rank all 10 of our students in order of hours "
+"worked. That is, student 1 did the least work out of anyone (2 hours) so "
+"they get the lowest rank (rank = 1). Student 4 was the next laziest, "
+"putting in only 6 hours of work over the whole semester, so they get the "
+"next lowest rank (rank = 2). Notice that I’m using “rank =1” to mean “low"
+" rank”. Sometimes in everyday language we talk about “rank = 1” to mean "
+"“top rank” rather than “bottom rank”. So be careful, you can rank “from "
+"smallest value to largest value” (i.e., small equals rank 1) or you can "
+"rank “from largest value to smallest value” (i.e., large equals rank 1). "
+"In this case, I’m ranking from smallest to largest, but as it’s really "
+"easy to forget which way you set things up you have to put a bit of "
+"effort into remembering!"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:361
+#: ../../Ch12/Ch12_Regression_01.rst:420
+msgid "ordinal"
+msgstr ""
+
+#: ../../Ch12/Ch12_Regression_01.rst:360
 msgid ""
 "Okay, so let’s have a look at our students when we rank them from worst "
 "to best in terms of effort and reward:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:365
+#: ../../Ch12/Ch12_Regression_01.rst:364
 msgid "rank (hours worked)"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:365
+#: ../../Ch12/Ch12_Regression_01.rst:364
 msgid "rank (grade received)"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:367
+#: ../../Ch12/Ch12_Regression_01.rst:366
 msgid "**student 1**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:367
+#: ../../Ch12/Ch12_Regression_01.rst:366
 msgid "1"
 msgstr "1"
 
-#: ../../Ch12/Ch12_Regression_01.rst:369
+#: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "**student 2**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:369
+#: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "10"
 msgstr "10"
 
-#: ../../Ch12/Ch12_Regression_01.rst:371
+#: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "**student 3**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:371
+#: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "6"
 msgstr "6"
 
-#: ../../Ch12/Ch12_Regression_01.rst:373
+#: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "**student 4**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:373
+#: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "2"
 msgstr "2"
 
-#: ../../Ch12/Ch12_Regression_01.rst:375
+#: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "**student 5**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:375
+#: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "3"
 msgstr "3"
 
-#: ../../Ch12/Ch12_Regression_01.rst:377
+#: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "**student 6**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:377
+#: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "5"
 msgstr "5"
 
-#: ../../Ch12/Ch12_Regression_01.rst:379
+#: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "**student 7**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:379
+#: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "4"
 msgstr "4"
 
-#: ../../Ch12/Ch12_Regression_01.rst:381
+#: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "**student 8**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:381
+#: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "8"
 msgstr "8"
 
-#: ../../Ch12/Ch12_Regression_01.rst:383
+#: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "**student 9**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:383
+#: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "7"
 msgstr "7"
 
-#: ../../Ch12/Ch12_Regression_01.rst:385
+#: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "**student 10**"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:385
+#: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "9"
 msgstr "9"
 
-#: ../../Ch12/Ch12_Regression_01.rst:388
+#: ../../Ch12/Ch12_Regression_01.rst:387
 msgid ""
 "Hmm. These are *identical*. The student who put in the most effort got "
 "the best grade, the student with the least effort got the worst grade, "
@@ -733,7 +742,7 @@ msgid ""
 "**1.0**."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:394
+#: ../../Ch12/Ch12_Regression_01.rst:393
 msgid ""
 "What we’ve just re-invented is **Spearman’s rank order correlation**, "
 "usually denoted *ρ* to distinguish it from the Pearson correlation *r*. "
@@ -741,20 +750,20 @@ msgid ""
 "``Spearman`` check box in the ``Correlation Matrix`` analysis panel."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:402
+#: ../../Ch12/Ch12_Regression_01.rst:401
 msgid ""
 "Actually, even that table is more than I’d bother with. In practice, most"
 " people pick *one* measure of central tendency, and *one* measure of "
 "variability only."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:407
+#: ../../Ch12/Ch12_Regression_01.rst:406
 msgid ""
 "Just like we saw with the variance and the standard deviation, in "
 "practice we divide by *N* - 1 rather than *N*."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:411
+#: ../../Ch12/Ch12_Regression_01.rst:410
 msgid "This is an oversimplification, but it’ll do for our purposes."
 msgstr ""
 
@@ -3181,5 +3190,58 @@ msgstr ""
 #~ "scale: number of hours slept. Why "
 #~ "complicate matters by converting these "
 #~ "to *z*-scores?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The goal in this chapter is to "
+#~ "introduce **correlation** and **linear "
+#~ "regression**. These are the standard "
+#~ "tools that statisticians rely on when"
+#~ " analysing the relationship between "
+#~ "continuous predictors and continuous outcomes."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Calculating correlations in jamovi can "
+#~ "be done by clicking on the "
+#~ "``Regression`` → ``Correlation Matrix`` "
+#~ "button. Transfer all four continuous "
+#~ "variables across into the box on "
+#~ "the right to get the output in "
+#~ ":numref:`fig-correlations`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "How should we address this? Actually,"
+#~ " it’s really easy. If we’re looking"
+#~ " for ordinal relationships all we "
+#~ "have to do is treat the data "
+#~ "as if it were ordinal scale! So,"
+#~ " instead of measuring effort in terms"
+#~ " of “hours worked”, lets rank all "
+#~ "10 of our students in order of "
+#~ "hours worked. That is, student 1 "
+#~ "did the least work out of anyone"
+#~ " (2 hours) so they get the "
+#~ "lowest rank (rank = 1). Student 4"
+#~ " was the next laziest, putting in "
+#~ "only 6 hours of work over the "
+#~ "whole semester, so they get the "
+#~ "next lowest rank (rank = 2). "
+#~ "Notice that I’m using “rank =1” to"
+#~ " mean “low rank”. Sometimes in "
+#~ "everyday language we talk about “rank"
+#~ " = 1” to mean “top rank” rather"
+#~ " than “bottom rank”. So be careful,"
+#~ " you can rank “from smallest value"
+#~ " to largest value” (i.e., small "
+#~ "equals rank 1) or you can rank "
+#~ "“from largest value to smallest value”"
+#~ " (i.e., large equals rank 1). In "
+#~ "this case, I’m ranking from smallest "
+#~ "to largest, but as it’s really "
+#~ "easy to forget which way you set"
+#~ " things up you have to put a"
+#~ " bit of effort into remembering!"
 #~ msgstr ""
 

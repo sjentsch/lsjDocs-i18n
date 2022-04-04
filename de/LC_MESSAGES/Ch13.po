@@ -10,17 +10,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:28+0100\n"
+"POT-Creation-Date: 2022-04-04 14:52+0200\n"
 "PO-Revision-Date: 2022-03-31 12:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
-"\n"
 "Language: de\n"
+"Language-Team: German "
+"<https://hosted.weblate.org/projects/lsjdocs/ch13/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
@@ -95,8 +94,16 @@ msgid ""
 "of each person after a 3 month run with each drug, and the overall "
 "*improvement* in each person’s mood is assessed on a scale ranging from "
 "-5 to +5. With that as the study design, let’s now load |clinicaltrial|_ "
-"data set. It contains the three variables ``drug``, ``therapy`` and "
-"``mood.gain``."
+"data set. It contains the three variables ``drug`` |nominal|, ``therapy``"
+" |nominal| and ``mood.gain`` |continuous|."
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_01.rst:54 ../../Ch13/Ch13_ANOVA_08.rst:48
+msgid "nominal"
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_01.rst:51
+msgid "continuous"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:24
@@ -120,11 +127,11 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_01.rst:40
 msgid ""
 "As the plot makes clear, there is a larger improvement in mood for "
-"participants in the Joyzepam group than for either the Anxifree group or "
-"the placebo group. The Anxifree group shows a larger mood gain than the "
-"control group, but the difference isn’t as large. The question that we "
-"want to answer is are these difference “real”, or are they just due to "
-"chance?"
+"participants in the ``Joyzepam`` group than for either the ``Anxifree`` "
+"group or the ``Placebo`` group. The ``Anxifree`` group shows a larger "
+"mood gain than the ``Placebo`` group, but the difference isn’t as large. "
+"The question that we want to answer is are these difference “real”, or "
+"are they just due to chance?"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:4
@@ -307,7 +314,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_05.rst:43 ../../Ch13/Ch13_ANOVA_05.rst:209
-#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:68
+#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:67
 msgid "1"
 msgstr "1"
 
@@ -327,8 +334,8 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:207
-#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:70
-#: ../../Ch13/Ch13_ANOVA_07.rst:76
+#: ../../Ch13/Ch13_ANOVA_06.rst:334 ../../Ch13/Ch13_ANOVA_07.rst:69
+#: ../../Ch13/Ch13_ANOVA_07.rst:75
 msgid "2"
 msgstr "2"
 
@@ -341,7 +348,7 @@ msgid "Cat"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_05.rst:47
-#: ../../Ch13/Ch13_ANOVA_05.rst:205 ../../Ch13/Ch13_ANOVA_07.rst:72
+#: ../../Ch13/Ch13_ANOVA_05.rst:205 ../../Ch13/Ch13_ANOVA_07.rst:71
 msgid "3"
 msgstr "3"
 
@@ -354,8 +361,8 @@ msgid "Tim"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_05.rst:49
-#: ../../Ch13/Ch13_ANOVA_05.rst:203 ../../Ch13/Ch13_ANOVA_07.rst:74
-#: ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:203 ../../Ch13/Ch13_ANOVA_07.rst:73
+#: ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "4"
 msgstr "4"
 
@@ -372,8 +379,8 @@ msgid "Egg"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_05.rst:51
-#: ../../Ch13/Ch13_ANOVA_05.rst:201 ../../Ch13/Ch13_ANOVA_07.rst:72
-#: ../../Ch13/Ch13_ANOVA_07.rst:74 ../../Ch13/Ch13_ANOVA_07.rst:76
+#: ../../Ch13/Ch13_ANOVA_05.rst:201 ../../Ch13/Ch13_ANOVA_07.rst:71
+#: ../../Ch13/Ch13_ANOVA_07.rst:73 ../../Ch13/Ch13_ANOVA_07.rst:75
 msgid "5"
 msgstr "5"
 
@@ -391,7 +398,7 @@ msgid ""
 "might be, we could refer to his grumpiness by saying that |Y_p| = 91, for"
 " person *p* = 4 that is. However, that’s not the only way we could refer "
 "to Tim. As an alternative we could note that Tim belongs to the “uncool” "
-"group (*k* = 2), and is in fact the first person listed in the uncool "
+"group (*k* = 2), and is in fact the first person listed in the “uncool” "
 "group (*i* = 1). So it’s equally valid to refer to Tim’s grumpiness by "
 "saying that |Y_ik| = 91, where *k* = 2 and *i* = 1."
 msgstr ""
@@ -660,7 +667,7 @@ msgid ""
 ":numref:`tab-anovatable`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:282
+#: ../../Ch13/Ch13_ANOVA_02.rst:281
 msgid ""
 "All of the key quantities involved in an ANOVA organised into a "
 "“standard” ANOVA table. The formulas for all quantities (except the "
@@ -1159,8 +1166,8 @@ msgstr "|N_k| · (|Yb_k| - |Yb|)²"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
 #: ../../Ch13/Ch13_ANOVA_02.rst:528 ../../Ch13/Ch13_ANOVA_05.rst:53
-#: ../../Ch13/Ch13_ANOVA_07.rst:68 ../../Ch13/Ch13_ANOVA_07.rst:70
-#: ../../Ch13/Ch13_ANOVA_07.rst:76 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_07.rst:67 ../../Ch13/Ch13_ANOVA_07.rst:69
+#: ../../Ch13/Ch13_ANOVA_07.rst:75 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "6"
 msgstr "6"
 
@@ -1596,13 +1603,13 @@ msgstr ""
 msgid "alternative"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:68
-#: ../../Ch13/Ch13_ANOVA_07.rst:70 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:67
+#: ../../Ch13/Ch13_ANOVA_07.rst:69 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "7"
 msgstr "7"
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:57 ../../Ch13/Ch13_ANOVA_07.rst:68
-#: ../../Ch13/Ch13_ANOVA_07.rst:70 ../../Ch13/Ch13_ANOVA_07.rst:78
+#: ../../Ch13/Ch13_ANOVA_05.rst:57 ../../Ch13/Ch13_ANOVA_07.rst:67
+#: ../../Ch13/Ch13_ANOVA_07.rst:69 ../../Ch13/Ch13_ANOVA_07.rst:77
 msgid "8"
 msgstr "8"
 
@@ -2524,31 +2531,31 @@ msgid ""
 "(a language deficit commonly experienced following a stroke)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:62
+#: ../../Ch13/Ch13_ANOVA_07.rst:61
 msgid "Number of attempts successfully completed on three experimental tasks."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Participant"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Speech"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Conceptual"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:66
+#: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Syntax"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:72
+#: ../../Ch13/Ch13_ANOVA_07.rst:71
 msgid "9"
 msgstr "9"
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:81
+#: ../../Ch13/Ch13_ANOVA_07.rst:80
 msgid ""
 "The patients were required to complete three word recognition tasks. On "
 "the first (speech production) task, patients were required to repeat "
@@ -2565,14 +2572,14 @@ msgid ""
 " set)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:95
+#: ../../Ch13/Ch13_ANOVA_07.rst:94
 msgid ""
 "To perform a one-way related ANOVA in jamovi, open the one-way repeated "
 "measures ANOVA dialogue box, as in :numref:`fig-RManova1`, via ``ANOVA - "
 "Repeated Measures ANOVA``. Then:"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:99
+#: ../../Ch13/Ch13_ANOVA_07.rst:98
 msgid ""
 "Enter a Repeated Measures Factor Name. This should be a label that you "
 "choose to describe the conditions repeated by all participants. For "
@@ -2581,30 +2588,30 @@ msgid ""
 "factor name represents the independent variable in the analysis."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:106
+#: ../../Ch13/Ch13_ANOVA_07.rst:105
 msgid ""
 "Add a third level in the Repeated Measures Factors text box, as there are"
 " three levels representing the three tasks: speech, conceptual and "
 "syntax. Change the labels of the levels accordingly."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:110
+#: ../../Ch13/Ch13_ANOVA_07.rst:109
 msgid ""
 "Then move each of the levels variables across to the Repeated Measures "
 "Cells text box."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:113
+#: ../../Ch13/Ch13_ANOVA_07.rst:112
 msgid ""
 "Finally, under the Assumption Checks option, tick the ``Sphericity "
 "checks`` text box."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:122
+#: ../../Ch13/Ch13_ANOVA_07.rst:121
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:126
+#: ../../Ch13/Ch13_ANOVA_07.rst:125
 msgid ""
 "jamovi output for a one-way repeated measures ANOVA is produced as shown "
 "in the :numref:`fig-RManova2` to :numref:`fig-RManova5`. The first output"
@@ -2619,11 +2626,11 @@ msgid ""
 "can be assumed.)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:144
+#: ../../Ch13/Ch13_ANOVA_07.rst:143
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:148
+#: ../../Ch13/Ch13_ANOVA_07.rst:147
 msgid ""
 "If, on the other hand, Mauchly’s test had been significant (*p* < 0.05) "
 "then we would conclude that there are significant differences between the"
@@ -2632,19 +2639,19 @@ msgid ""
 "obtained in the one-way related ANOVA analysis:"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:155
+#: ../../Ch13/Ch13_ANOVA_07.rst:154
 msgid ""
 "If the Greenhouse-Geisser value in the “Tests of Sphericity” table is > "
 "0.75 then you should use the Huynh-Feldt correction."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:158
+#: ../../Ch13/Ch13_ANOVA_07.rst:157
 msgid ""
 "But if the Greenhouse-Geisser value is < 0.75, then you should use the "
 "Greenhouse-Geisser correction."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:161
+#: ../../Ch13/Ch13_ANOVA_07.rst:160
 msgid ""
 "Both these corrected *F*-values can be specified in the Sphericity "
 "Corrections check boxes under the Assumption Checks options, and the "
@@ -2652,15 +2659,15 @@ msgid ""
 ":`fig-RManova3`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:172
+#: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:172
+#: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid "One-way repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:177
+#: ../../Ch13/Ch13_ANOVA_07.rst:176
 msgid ""
 "In our analysis, we saw that the significance of Mauchly’s Test of "
 "Sphericity was *p* = 0.720 (i.e. *p* > 0.05). So, this means we can "
@@ -2673,11 +2680,11 @@ msgid ""
 "(*F*\\(2,10) = 6.93, p = 0.013)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:193
+#: ../../Ch13/Ch13_ANOVA_07.rst:192
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:197
+#: ../../Ch13/Ch13_ANOVA_07.rst:196
 msgid ""
 "Post-hoc tests can also be specified in jamovi for repeated measures "
 "ANOVA in the same way as for independent ANOVA. The results are shown in "
@@ -2685,7 +2692,7 @@ msgid ""
 "difference between Speech and Syntax, but not between other levels."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:203
+#: ../../Ch13/Ch13_ANOVA_07.rst:202
 msgid ""
 "Descriptive statistics (marginal means) can be reviewed to help interpret"
 " the results, produced in the jamovi output as in :numref:`fig-RManova5`."
@@ -2697,11 +2704,11 @@ msgid ""
 "between Speech and Syntax task performance."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:218
+#: ../../Ch13/Ch13_ANOVA_07.rst:217
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:225
+#: ../../Ch13/Ch13_ANOVA_07.rst:224
 msgid "(n - k): (number of subjects - number of groups)"
 msgstr ""
 
@@ -2713,11 +2720,15 @@ msgstr ""
 msgid ""
 "The Friedman test is a non-parametric version of a repeated measures "
 "ANOVA and can be used instead of the Kruskall-Wallis test when testing "
-"for differences between three or more groups where the same participants "
-"are in each group, or each participant is closely matched with "
-"participants in other conditions. If the dependent variable is ordinal, "
-"or if the assumption of normality is not met, then the Friedman test can "
-"be used."
+"for differences between three or more groups |nominal| where the same "
+"participants are in each group, or each participant is closely matched "
+"with participants in other conditions. If the dependent variable is "
+"ordinal |ordinal|, or if the assumption of normality is not met, then the"
+" Friedman test can be used."
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_08.rst:51
+msgid "ordinal"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:19
@@ -2836,12 +2847,96 @@ msgid ""
 "interested in understanding the mathematics behind ANOVA."
 msgstr ""
 
+#~ msgid ""
+#~ "Suppose you’ve become involved in a "
+#~ "clinical trial in which you are "
+#~ "testing a new antidepressant drug called"
+#~ " *Joyzepam*. In order to construct a"
+#~ " fair test of the drug’s "
+#~ "effectiveness, the study involves three "
+#~ "separate drugs to be administered. One"
+#~ " is a placebo, and the other is"
+#~ " an existing antidepressant / anti-"
+#~ "anxiety drug called *Anxifree*. A "
+#~ "collection of 18 participants with "
+#~ "moderate to severe depression are "
+#~ "recruited for your initial testing. "
+#~ "Because the drugs are sometimes "
+#~ "administered in conjunction with psychological"
+#~ " therapy, your study includes 9 "
+#~ "people undergoing cognitive behavioural "
+#~ "therapy (CBT) and 9 who are not."
+#~ " Participants are randomly assigned (doubly"
+#~ " blinded, of course) a treatment, "
+#~ "such that there are 3 CBT people"
+#~ " and 3 no-therapy people assigned "
+#~ "to each of the 3 drugs. A "
+#~ "psychologist assesses the mood of each"
+#~ " person after a 3 month run "
+#~ "with each drug, and the overall "
+#~ "*improvement* in each person’s mood is"
+#~ " assessed on a scale ranging from "
+#~ "-5 to +5. With that as the "
+#~ "study design, let’s now load "
+#~ "|clinicaltrial|_ data set. It contains "
+#~ "the three variables ``drug``, ``therapy`` "
+#~ "and ``mood.gain``."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "As the plot makes clear, there is"
+#~ " a larger improvement in mood for "
+#~ "participants in the Joyzepam group than"
+#~ " for either the Anxifree group or "
+#~ "the placebo group. The Anxifree group"
+#~ " shows a larger mood gain than "
+#~ "the control group, but the difference"
+#~ " isn’t as large. The question that"
+#~ " we want to answer is are these"
+#~ " difference “real”, or are they just"
+#~ " due to chance?"
+#~ msgstr ""
 
+#~ msgid ""
+#~ "Notice that I’ve constructed two "
+#~ "different labelling schemes here. We "
+#~ "have a “person” variable *p* so it"
+#~ " would be perfectly sensible to refer"
+#~ " to |Y_p| as the grumpiness of "
+#~ "the *p*-th person in the sample. "
+#~ "For instance, the table shows that "
+#~ "Tim is the fourth so we’d say "
+#~ "*p* = 4. So, when talking about"
+#~ " the grumpiness *Y* of this “Tim” "
+#~ "person, whoever he might be, we "
+#~ "could refer to his grumpiness by "
+#~ "saying that |Y_p| = 91, for person"
+#~ " *p* = 4 that is. However, "
+#~ "that’s not the only way we could"
+#~ " refer to Tim. As an alternative "
+#~ "we could note that Tim belongs to"
+#~ " the “uncool” group (*k* = 2), "
+#~ "and is in fact the first person"
+#~ " listed in the uncool group (*i* "
+#~ "= 1). So it’s equally valid to "
+#~ "refer to Tim’s grumpiness by saying "
+#~ "that |Y_ik| = 91, where *k* = "
+#~ "2 and *i* = 1."
+#~ msgstr ""
 
-
-
-
-
-
+#~ msgid ""
+#~ "The Friedman test is a non-"
+#~ "parametric version of a repeated "
+#~ "measures ANOVA and can be used "
+#~ "instead of the Kruskall-Wallis test "
+#~ "when testing for differences between "
+#~ "three or more groups where the "
+#~ "same participants are in each group, "
+#~ "or each participant is closely matched"
+#~ " with participants in other conditions. "
+#~ "If the dependent variable is ordinal,"
+#~ " or if the assumption of normality"
+#~ " is not met, then the Friedman "
+#~ "test can be used."
+#~ msgstr ""
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-17 18:28+0100\n"
+"POT-Creation-Date: 2022-04-04 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgid ""
 "means <../Ch11/Ch11_tTest>`). Both of these tools are very frequently "
 "used in scientific practice, and whilst they’re not as powerful as "
 "“regression” (chapter :doc:`Correlation and linear regression "
-"<../Ch12/Ch12_Regression>`) and “Analysis of Variance” (chapters "
+"<../Ch12/Ch12_Regression>`) and “Analysis of Variance” (chapters "
 ":doc:`Comparing several means (one-way ANOVA) <../Ch13/Ch13_ANOVA>` and "
 ":doc:`Factorial ANOVA <../Ch14/Ch14_ANOVA2>`) they’re much easier to "
 "understand. Finally, there is :doc:`Factor analysis "
@@ -43,20 +43,26 @@ msgid ""
 "unobserved variables called factors or latent Variables."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare.rst:33
+#: ../../Ch10/Ch10_ChiSquare.rst:34
 msgid ""
 "The term “categorical data” in the title of this chapter is just another "
-"name for “nominal scale data”. It’s nothing that we haven’t already "
-"discussed, it’s just that in the context of data analysis people tend to "
-"use the term “categorical data” rather than “nominal scale data”. I don’t"
-" know why. In any case, **categorical data analysis** refers to a "
-"collection of tools that you can use when your data are nominal scale. "
-"Those tools are often called “χ² tests” (pronounced “chi-square”, "
-"sometimes “chi-squared”). They determine whether there is a statistically"
-" significant difference between expected and observed frequencies and "
-"whether the observations follows a χ² frequency distribution. However, "
-"there are a lot of different tools that can be used for categorical data "
-"analysis, and this chapter covers only a few of the more common ones."
+"name for “nominal scale data” |nominal|. It’s nothing that we haven’t "
+"already discussed, it’s just that in the context of data analysis people "
+"tend to use the term “categorical data” rather than “nominal scale data”."
+" I don’t know why. In any case, **categorical data analysis** refers to a"
+" collection of tools that you can use when your data are nominal scale "
+"|nominal|. Those tools are often called “χ² tests” (pronounced “chi-"
+"square”, sometimes “chi-squared”). They determine whether there is a "
+"statistically significant difference between expected and observed "
+"frequencies and whether the observations follows a χ² frequency "
+"distribution. However, there are a lot of different tools that can be "
+"used for categorical data analysis, and this chapter covers only a few of"
+" the more common ones."
+msgstr ""
+
+#: ../../Ch10/Ch10_ChiSquare.rst:49 ../../Ch10/Ch10_ChiSquare_1.rst:709
+#: ../../Ch10/Ch10_ChiSquare_2.rst:328
+msgid "nominal"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:4
@@ -70,21 +76,21 @@ msgid ""
 "<../Other/References.html#pearson-1900>`__, with some corrections made "
 "later by `Sir Ronald Fisher (1922a) <../Other/References.html#fisher-"
 "1922a>`__. It tests whether an observed frequency distribution of a "
-"nominal variable matches an expected frequency distribution. For example,"
-" suppose a group of patients has been undergoing an experimental "
-"treatment and have had their health assessed to see whether their "
-"condition has improved, stayed the same or worsened. A goodness-of-fit "
-"test could be used to determine whether the numbers in each category - "
-"improved, no change, worsened \\- match the numbers that would be "
+"nominal variable |nominal| matches an expected frequency distribution. "
+"For example, suppose a group of patients has been undergoing an "
+"experimental treatment and have had their health assessed to see whether "
+"their condition has improved, stayed the same or worsened. A goodness-of-"
+"fit test could be used to determine whether the numbers in each category "
+"- improved, no change, worsened - match the numbers that would be "
 "expected given the standard treatment option. Let’s think about this some"
 " more, with some psychology."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:19
+#: ../../Ch10/Ch10_ChiSquare_1.rst:20
 msgid "The cards data"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:21
+#: ../../Ch10/Ch10_ChiSquare_1.rst:22
 msgid ""
 "Over the years there have been many studies showing that humans find it "
 "difficult to simulate randomness. Try as we might to “act” random, we "
@@ -107,7 +113,7 @@ msgid ""
 " that indicate the card suits that people chose."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:40
+#: ../../Ch10/Ch10_ChiSquare_1.rst:41
 msgid ""
 "For the moment, let’s just focus on the first choice that people made. "
 "We’ll use the ``Frequency tables`` option under ``Exploration`` → "
@@ -115,7 +121,7 @@ msgid ""
 "choosing each suit. This is what we get:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:50
+#: ../../Ch10/Ch10_ChiSquare_1.rst:51
 msgid ""
 "That little frequency table is quite helpful. Looking at it, there’s a "
 "bit of a hint that people *might* be more likely to select hearts than "
@@ -125,7 +131,7 @@ msgid ""
 "I’m going to talk about in the next section."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:57
+#: ../../Ch10/Ch10_ChiSquare_1.rst:58
 msgid ""
 "Excellent. From this point on, we’ll treat this table as the data that "
 "we’re looking to analyse. However, since I’m going to have to talk about "
@@ -138,88 +144,88 @@ msgid ""
 "symbols are illustrated below:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:67
+#: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "label"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:67
+#: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "index, *i*"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:67
+#: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "math. symbol"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:67
+#: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "the value"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:69
+#: ../../Ch10/Ch10_ChiSquare_1.rst:70
 msgid "clubs (♣)"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:69 ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "1"
 msgstr "1"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:69 ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "*O*\\ :sub:`1`"
 msgstr "*O*\\ :sub:`1`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:69 ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "35"
 msgstr "35"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:71
+#: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "diamonds (♢)"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:71
+#: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "2"
 msgstr "2"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:71
+#: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "*O*\\ :sub:`2`"
 msgstr "*O*\\ :sub:`2`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:71 ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:72 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "51"
 msgstr "51"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:73
+#: ../../Ch10/Ch10_ChiSquare_1.rst:74
 msgid "hearts (♡)"
 msgstr "hearts (♡)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:73
+#: ../../Ch10/Ch10_ChiSquare_1.rst:74
 msgid "3"
 msgstr "3"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:73
+#: ../../Ch10/Ch10_ChiSquare_1.rst:74
 msgid "*O*\\ :sub:`3`"
 msgstr "*O*\\ :sub:`3`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:73 ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:74 ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "64"
 msgstr "64"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:75
+#: ../../Ch10/Ch10_ChiSquare_1.rst:76
 msgid "spades (♠)"
 msgstr "spades (♠)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:75
+#: ../../Ch10/Ch10_ChiSquare_1.rst:76
 msgid "4"
 msgstr "4"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:75
+#: ../../Ch10/Ch10_ChiSquare_1.rst:76
 msgid "*O*\\ :sub:`4`"
 msgstr "*O*\\ :sub:`4`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:75 ../../Ch10/Ch10_ChiSquare_1.rst:181
-#: ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:76 ../../Ch10/Ch10_ChiSquare_1.rst:182
+#: ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "50"
 msgstr "50"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:78
+#: ../../Ch10/Ch10_ChiSquare_1.rst:79
 msgid ""
 "Hopefully that’s pretty clear. It’s also worth noting that mathematicians"
 " prefer to talk about general rather than specific things, so you’ll also"
@@ -230,7 +236,7 @@ msgid ""
 "[#]_ which I’ll refer to as *O*."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:85
+#: ../../Ch10/Ch10_ChiSquare_1.rst:86
 msgid ""
 "O = (*O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3`\\, *O*\\ "
 ":sub:`4`\\)"
@@ -238,7 +244,7 @@ msgstr ""
 "O = (*O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3`\\, *O*\\ "
 ":sub:`4`\\)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:87
+#: ../../Ch10/Ch10_ChiSquare_1.rst:88
 msgid ""
 "Again, this is nothing new or interesting. It’s just notation. If I say "
 "that *O* = (35, 51, 64, 50) all I’m doing is describing the table of "
@@ -246,11 +252,11 @@ msgid ""
 "mathematical notation."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:93
+#: ../../Ch10/Ch10_ChiSquare_1.rst:94
 msgid "The null hypothesis and the alternative hypothesis"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:95
+#: ../../Ch10/Ch10_ChiSquare_1.rst:96
 msgid ""
 "As the last section indicated, our research hypothesis is that “people "
 "don’t choose cards randomly”. What we’re going to want to do now is "
@@ -262,11 +268,11 @@ msgid ""
 "hypothesis in words:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:103 ../../Ch10/Ch10_ChiSquare_1.rst:136
+#: ../../Ch10/Ch10_ChiSquare_1.rst:104 ../../Ch10/Ch10_ChiSquare_1.rst:137
 msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:105
+#: ../../Ch10/Ch10_ChiSquare_1.rst:106
 #, python-format
 msgid ""
 "Now, because this is statistics, we have to be able to say the same thing"
@@ -284,11 +290,11 @@ msgid ""
 "then we have:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:118 ../../Ch10/Ch10_ChiSquare_1.rst:141
+#: ../../Ch10/Ch10_ChiSquare_1.rst:119 ../../Ch10/Ch10_ChiSquare_1.rst:142
 msgid "H\\ :sub:`0`: *P* = (0.25, 0.25, 0.25, 0.25)"
 msgstr "H\\ :sub:`0`: *P* = (0.25, 0.25, 0.25, 0.25)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:120
+#: ../../Ch10/Ch10_ChiSquare_1.rst:121
 msgid ""
 "In this particular instance, our null hypothesis corresponds to a vector "
 "of probabilities *P* in which all of the probabilities are equal to one "
@@ -303,7 +309,7 @@ msgid ""
 "to that for our example."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:131
+#: ../../Ch10/Ch10_ChiSquare_1.rst:132
 msgid ""
 "What about our alternative hypothesis, H\\ :sub:`1`? All we’re really "
 "interested in is demonstrating that the probabilities involved aren’t all"
@@ -312,23 +318,23 @@ msgid ""
 "this:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:137
+#: ../../Ch10/Ch10_ChiSquare_1.rst:138
 msgid "H\\ :sub:`1`: At least one of the suit-choice probabilities *isn’t* 0.25"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:139
+#: ../../Ch10/Ch10_ChiSquare_1.rst:140
 msgid "and the “mathematician friendly” version is:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:142
+#: ../../Ch10/Ch10_ChiSquare_1.rst:143
 msgid "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
 msgstr "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:145
+#: ../../Ch10/Ch10_ChiSquare_1.rst:146
 msgid "The “goodness-of-fit” test statistic"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:147
+#: ../../Ch10/Ch10_ChiSquare_1.rst:148
 msgid ""
 "At this point, we have our observed frequencies *O* and a collection of "
 "probabilities *P* corresponding to the null hypothesis that we want to "
@@ -347,11 +353,11 @@ msgid ""
 "category *i* responses that we’re expecting if the null is true”, then:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:162
+#: ../../Ch10/Ch10_ChiSquare_1.rst:163
 msgid "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
 msgstr "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:164
+#: ../../Ch10/Ch10_ChiSquare_1.rst:165
 msgid ""
 "This is pretty easy to calculate.If there are 200 observations that can "
 "fall into four categories, and we think that all four categories are "
@@ -359,7 +365,7 @@ msgid ""
 "each category, right?"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:168
+#: ../../Ch10/Ch10_ChiSquare_1.rst:169
 msgid ""
 "Now, how do we translate this into a test statistic? Clearly, what we "
 "want to do is compare the *expected* number of observations in each "
@@ -372,55 +378,55 @@ msgid ""
 ":sub:`i`. This is illustrated in the following table:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:179 ../../Ch10/Ch10_ChiSquare_1.rst:465
+#: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:466
 msgid "♣"
 msgstr "♣"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:179 ../../Ch10/Ch10_ChiSquare_1.rst:465
+#: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:466
 msgid "♢"
 msgstr "♢"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:179 ../../Ch10/Ch10_ChiSquare_1.rst:465
+#: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:466
 msgid "♡"
 msgstr "♡"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:179 ../../Ch10/Ch10_ChiSquare_1.rst:465
+#: ../../Ch10/Ch10_ChiSquare_1.rst:180 ../../Ch10/Ch10_ChiSquare_1.rst:466
 msgid "♠"
 msgstr "♠"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:181 ../../Ch10/Ch10_ChiSquare_1.rst:467
+#: ../../Ch10/Ch10_ChiSquare_1.rst:182 ../../Ch10/Ch10_ChiSquare_1.rst:468
 msgid "expected frequency"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:181 ../../Ch10/Ch10_ChiSquare_1.rst:467
+#: ../../Ch10/Ch10_ChiSquare_1.rst:182 ../../Ch10/Ch10_ChiSquare_1.rst:468
 msgid "*E*\\ :sub:`i`"
 msgstr "*E*\\ :sub:`i`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:183
+#: ../../Ch10/Ch10_ChiSquare_1.rst:184
 msgid "observed frequency"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "difference score"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "*E*\\ :sub:`i` - *O*\\ :sub:`1`"
 msgstr "*E*\\ :sub:`i` - *O*\\ :sub:`1`"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "-15"
 msgstr "-15"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "14"
 msgstr "14"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:185
+#: ../../Ch10/Ch10_ChiSquare_1.rst:186
 msgid "0"
 msgstr "0"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:188
+#: ../../Ch10/Ch10_ChiSquare_1.rst:189
 msgid ""
 "So, based on our calculations, it’s clear that people chose more hearts "
 "and fewer clubs than the null hypothesis predicted. However, a moment’s "
@@ -434,7 +440,7 @@ msgid ""
 ":sub:`i` - *O*\\ :sub:`i`\\)². As before, we can do this by hand:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:205
+#: ../../Ch10/Ch10_ChiSquare_1.rst:206
 msgid ""
 "Now we’re making progress. What we’ve got now is a collection of numbers "
 "that are big whenever the null hypothesis makes a bad prediction (clubs "
@@ -446,7 +452,7 @@ msgid ""
 "example, it’s not a very interesting calculation, but let’s do it anyway:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:220
+#: ../../Ch10/Ch10_ChiSquare_1.rst:221
 msgid ""
 "In effect, what we’ve got here are four different “error” scores, each "
 "one telling us how big a “mistake” the null hypothesis made when we tried"
@@ -457,17 +463,17 @@ msgid ""
 "calculate it as follows:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:231
+#: ../../Ch10/Ch10_ChiSquare_1.rst:232
 msgid "This gives us a value of ``8.44``."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:233
+#: ../../Ch10/Ch10_ChiSquare_1.rst:234
 msgid ""
 "If we let *k* refer to the total number of categories (i.e., *k* = 4  for"
 " our cards data), then the χ² statistic is given by:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:236
+#: ../../Ch10/Ch10_ChiSquare_1.rst:237
 msgid ""
 "\\chi^2 = \\sum_{i=1}^k \\frac{(O_i - E_i)^2}{E_i}\n"
 "\n"
@@ -475,7 +481,7 @@ msgstr ""
 "\\chi^2 = \\sum_{i=1}^k \\frac{(O_i - E_i)^2}{E_i}\n"
 "\n"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:238
+#: ../../Ch10/Ch10_ChiSquare_1.rst:239
 msgid ""
 "Intuitively, it’s clear that if χ² is small, then the observed data *O*\\"
 " :sub:`i` are very close to what the null hypothesis predicted *E*\\ "
@@ -483,18 +489,18 @@ msgid ""
 "reject the null."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:243
+#: ../../Ch10/Ch10_ChiSquare_1.rst:244
 msgid ""
 "As we’ve seen from our calculations, in our cards data set we’ve got a "
 "value of χ² = 8.44. So now the question becomes is this a big enough "
 "value to reject the null?"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:248
+#: ../../Ch10/Ch10_ChiSquare_1.rst:249
 msgid "The sampling distribution of the GOF statistic"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:250
+#: ../../Ch10/Ch10_ChiSquare_1.rst:251
 msgid ""
 "To determine whether or not a particular value of χ² is large enough to "
 "justify rejecting the null hypothesis, we’re going to need to figure out "
@@ -508,7 +514,7 @@ msgid ""
 "understand *why* the goodness-of-fit test works the way it does, read on."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:261
+#: ../../Ch10/Ch10_ChiSquare_1.rst:262
 msgid ""
 "Okay, let’s suppose that the null hypothesis is actually true. If so, "
 "then the true probability that an observation falls in the *i*-th "
@@ -529,11 +535,11 @@ msgid ""
 "sampling from a binomial distribution:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:278
+#: ../../Ch10/Ch10_ChiSquare_1.rst:279
 msgid "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 msgstr "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:280
+#: ../../Ch10/Ch10_ChiSquare_1.rst:281
 msgid ""
 "Now, if you remember from our discussion of :doc:`the central limit "
 "theorem <../Ch08/Ch08_Estimation_3>` the binomial distribution starts to "
@@ -558,7 +564,7 @@ msgid ""
 "is a χ²-distribution. Cool."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:300
+#: ../../Ch10/Ch10_ChiSquare_1.rst:301
 msgid ""
 "There’s one last detail to talk about, namely the degrees of freedom. If "
 "you remember back to :doc:`Other useful distributions "
@@ -574,11 +580,11 @@ msgid ""
 "only *k* - 1. That’s the topic of the next section.\\ [#]_"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:313
+#: ../../Ch10/Ch10_ChiSquare_1.rst:314
 msgid "Degrees of freedom"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:315
+#: ../../Ch10/Ch10_ChiSquare_1.rst:316
 msgid ""
 "When I introduced the χ²-distribution in :doc:`Other useful distributions"
 " <../Ch07/Ch07_Probability_6>`, I was a bit vague about what “**degrees "
@@ -593,17 +599,17 @@ msgid ""
 "of freedom in terms of our data. So here goes."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:332
+#: ../../Ch10/Ch10_ChiSquare_1.rst:333
 msgid "χ² distributions with different degrees of freedom"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:332
+#: ../../Ch10/Ch10_ChiSquare_1.rst:333
 msgid ""
 "χ² (chi-square) distributions with different values for the “degrees of "
 "freedom”"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:337
+#: ../../Ch10/Ch10_ChiSquare_1.rst:338
 msgid ""
 "The basic idea behind degrees of freedom is quite simple. You calculate "
 "it by counting up the number of distinct “quantities” that are used to "
@@ -630,11 +636,11 @@ msgid ""
 "be *k* - 1."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:360
+#: ../../Ch10/Ch10_ChiSquare_1.rst:361
 msgid "Testing the null hypothesis"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:362
+#: ../../Ch10/Ch10_ChiSquare_1.rst:363
 #, python-format
 msgid ""
 "The final step in the process of constructing our hypothesis test is to "
@@ -656,17 +662,17 @@ msgid ""
 "This is illustrated in :numref:`fig-chiSqTest`."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:385
+#: ../../Ch10/Ch10_ChiSquare_1.rst:386
 msgid "Hypothesis testing works for the χ² GOF test"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:385
+#: ../../Ch10/Ch10_ChiSquare_1.rst:386
 msgid ""
 "Illustration of how the hypothesis testing works for the χ² (chi-square) "
 "goodness-of-fit test"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:390
+#: ../../Ch10/Ch10_ChiSquare_1.rst:391
 msgid ""
 "Ah but, I hear you ask, how do I find the critical value of a "
 "χ²-distribution with *k* - 1 degrees of freedom? Many many years ago when"
@@ -677,15 +683,15 @@ msgid ""
 "χ²-distribution with 3 degrees of freedom, and *p* = 0.05 is 7.815."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:403
+#: ../../Ch10/Ch10_ChiSquare_1.rst:404
 msgid "Table of critical values for the χ² distribution"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:403
+#: ../../Ch10/Ch10_ChiSquare_1.rst:404
 msgid "Table of critical values for the χ² (chi-square) distribution"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:407
+#: ../../Ch10/Ch10_ChiSquare_1.rst:408
 msgid ""
 "So, if our calculated χ² statistic is bigger than the critical value of "
 "7.815, then we can reject the null hypothesis (remember that the null "
@@ -695,11 +701,11 @@ msgid ""
 "now know “Pearson’s χ² test for the goodness-of-fit”. Lucky you."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:415 ../../Ch10/Ch10_ChiSquare_2.rst:241
+#: ../../Ch10/Ch10_ChiSquare_1.rst:416 ../../Ch10/Ch10_ChiSquare_2.rst:241
 msgid "Doing the test in jamovi"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:417
+#: ../../Ch10/Ch10_ChiSquare_1.rst:418
 msgid ""
 "Not surprisingly, jamovi provides an analysis that will do these "
 "calculations for you. From the main ``Analyses`` toolbar select "
@@ -716,21 +722,21 @@ msgid ""
 "calculated χ² for *df* = 3."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:436
+#: ../../Ch10/Ch10_ChiSquare_1.rst:437
 msgid "χ² One Sample Proportion Test in jamovi"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:436
+#: ../../Ch10/Ch10_ChiSquare_1.rst:437
 msgid ""
 "χ² One Sample Proportion Test in jamovi, with table showing both observed"
 " and expected frequencies and proportions"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:442
+#: ../../Ch10/Ch10_ChiSquare_1.rst:443
 msgid "Specifying a different null hypothesis"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:444
+#: ../../Ch10/Ch10_ChiSquare_1.rst:445
 #, python-format
 msgid ""
 "At this point you might be wondering what to do if you want to run a "
@@ -753,19 +759,19 @@ msgid ""
 ":numref:`fig-chisquared_analysis2`, and see how the results change."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:462
+#: ../../Ch10/Ch10_ChiSquare_1.rst:463
 msgid "The expected counts are now:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:467 ../../Ch10/Ch10_ChiSquare_7.rst:20
+#: ../../Ch10/Ch10_ChiSquare_1.rst:468 ../../Ch10/Ch10_ChiSquare_7.rst:20
 msgid "40"
 msgstr "40"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:467
+#: ../../Ch10/Ch10_ChiSquare_1.rst:468
 msgid "60"
 msgstr "60"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:470
+#: ../../Ch10/Ch10_ChiSquare_1.rst:471
 msgid ""
 "and the χ² statistic is 4.74, *df* = 3, *p* = 0.192. Now, the results of "
 "our updated hypotheses and the expected frequencies are different from "
@@ -778,21 +784,21 @@ msgid ""
 "evidence against it."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:485
+#: ../../Ch10/Ch10_ChiSquare_1.rst:486
 msgid "Changing expected proportions in the χ² One Sample Proportion Test"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:485
+#: ../../Ch10/Ch10_ChiSquare_1.rst:486
 msgid ""
 "Changing the expected proportions in the χ² One Sample Proportion Test in"
 " jamovi"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:491
+#: ../../Ch10/Ch10_ChiSquare_1.rst:492
 msgid "How to report the results of the test"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:493
+#: ../../Ch10/Ch10_ChiSquare_1.rst:494
 msgid ""
 "So now you know how the test works, and you know how to do the test using"
 " a wonderful jamovi flavoured magic computing box. The next thing you "
@@ -804,7 +810,7 @@ msgid ""
 "conventional way to report this would be to write something like this:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:502
+#: ../../Ch10/Ch10_ChiSquare_1.rst:503
 msgid ""
 "Of the 200 participants in the experiment, 64 selected hearts for their "
 "first choice, 51 selected diamonds, 50 selected spades, and 35 selected "
@@ -814,14 +820,14 @@ msgid ""
 "select suits purely at random."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:509
+#: ../../Ch10/Ch10_ChiSquare_1.rst:510
 msgid ""
 "This is pretty straightforward and hopefully it seems pretty "
 "unremarkable. That said, there’s a few things that you should note about "
 "this description:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:512
+#: ../../Ch10/Ch10_ChiSquare_1.rst:513
 msgid ""
 "*The statistical test is preceded by the descriptive statistics*. That "
 "is, I told the reader something about what the data look like before "
@@ -831,7 +837,7 @@ msgid ""
 "tests won’t make any sense to them and they’ll get frustrated and cry."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:519
+#: ../../Ch10/Ch10_ChiSquare_1.rst:520
 msgid ""
 "*The description tells you what the null hypothesis being tested is*. To "
 "be honest, writers don’t always do this but it’s often a good idea in "
@@ -857,7 +863,7 @@ msgid ""
 " writers tend to describe the null using words if they can."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:542
+#: ../../Ch10/Ch10_ChiSquare_1.rst:543
 msgid ""
 "*A “stat block” is included*. When reporting the results of the test "
 "itself, I didn’t just say that the result was significant, I included a "
@@ -876,7 +882,7 @@ msgid ""
 "to."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:557
+#: ../../Ch10/Ch10_ChiSquare_1.rst:558
 msgid ""
 "*The results are interpreted*. In addition to indicating that the result "
 "was significant, I provided an interpretation of the result (i.e., that "
@@ -886,7 +892,7 @@ msgid ""
 "it’s really hard for your reader to understand what’s going on.\\ [#]_"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:564
+#: ../../Ch10/Ch10_ChiSquare_1.rst:565
 msgid ""
 "As with everything else, your overriding concern should be that you "
 "*explain* things to your reader. Always remember that the point of "
@@ -897,7 +903,7 @@ msgid ""
 "numbers and forgotten to actually communicate with the human reader."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:573
+#: ../../Ch10/Ch10_ChiSquare_1.rst:574
 msgid "A comment on statistical notation"
 msgstr ""
 
@@ -909,7 +915,7 @@ msgstr ""
 msgid "– H.G. Wells"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:578
+#: ../../Ch10/Ch10_ChiSquare_1.rst:579
 msgid ""
 "If you’ve been reading very closely, and are as much of a mathematical "
 "pedant as I am, there is one thing about the way I wrote up the χ²-test "
@@ -925,7 +931,7 @@ msgid ""
 "the test statistic is 8.44”."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:590
+#: ../../Ch10/Ch10_ChiSquare_1.rst:591
 msgid ""
 "In one sense, this is kind of stupid. There are *lots* of different test "
 "statistics out there that turn out to have a χ²-sampling-distribution. "
@@ -956,7 +962,7 @@ msgid ""
 "test I actually ran."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:616
+#: ../../Ch10/Ch10_ChiSquare_1.rst:617
 msgid ""
 "So why don’t we live in a world in which the contents of the stat block "
 "uniquely specifies what tests were ran? The deep reason is that life is "
@@ -980,7 +986,7 @@ msgid ""
 " still, well, different."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:635
+#: ../../Ch10/Ch10_ChiSquare_1.rst:636
 msgid ""
 "As a consequence, it’s sometimes a good idea to be clear about what the "
 "actual test was that you ran, especially if you’re doing something "
@@ -991,11 +997,11 @@ msgid ""
 "training can probably guess. Nevertheless, it’s something to be aware of."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:646
+#: ../../Ch10/Ch10_ChiSquare_1.rst:647
 msgid "A vector is a sequence of data elements of the same basic type"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:649
+#: ../../Ch10/Ch10_ChiSquare_1.rst:650
 msgid ""
 "If you rewrite the equation for the goodness-of-fit statistic as a sum "
 "over *k* - 1 independent things you get the “proper” sampling "
@@ -1005,7 +1011,7 @@ msgid ""
 "of-fit statistic is associated with the χ²-distribution."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:657
+#: ../../Ch10/Ch10_ChiSquare_1.rst:658
 msgid ""
 "I feel obliged to point out that this is an over-simplification. It works"
 " nicely for quite a few situations, but every now and then we’ll come "
@@ -1021,7 +1027,7 @@ msgid ""
 "realising that there’s something that I haven’t told you."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:671
+#: ../../Ch10/Ch10_ChiSquare_1.rst:672
 msgid ""
 "In practice, the sample size isn’t always fixed. For example, we might "
 "run the experiment over a fixed period of time and the number of people "
@@ -1029,7 +1035,7 @@ msgid ""
 " the current purposes."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:677
+#: ../../Ch10/Ch10_ChiSquare_1.rst:678
 msgid ""
 "Well, sort of. The conventions for how statistics should be reported tend"
 " to differ somewhat from discipline to discipline. I’ve tended to stick "
@@ -1038,7 +1044,7 @@ msgid ""
 "them to check your results is pretty universal, I think."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:684
+#: ../../Ch10/Ch10_ChiSquare_1.rst:685
 msgid ""
 "To some people, this advice might sound odd, or at least in conflict with"
 " the “usual” advice on how to write a technical report. Very typically, "
@@ -1055,7 +1061,7 @@ msgid ""
 "garbage. Being understood by your reader is *much* more important."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:699
+#: ../../Ch10/Ch10_ChiSquare_1.rst:700
 msgid ""
 "Complicating matters, the *G*-test is a special case of a whole class of "
 "tests that are known as *likelihood ratio tests* (LRT). I don’t cover "
@@ -1132,17 +1138,17 @@ msgid ""
 "They found a bunch of robots and a bunch of humans and asked them what "
 "they preferred. I saved their data in the |chapek9|_ data set, which we "
 "can now load into jamovi. As well as the ``ID`` variable that identifies "
-"individual people, there are two nominal text variables, ``species`` and "
-"``choice``. In total there are 180 entries in the data set, one for each "
-"person (counting both robots and humans as “people”) who was asked to "
-"make a choice. Specifically, there are 93 humans and 87 robots, and "
-"overwhelmingly the preferred choice is the data file. You can check this "
-"yourself by asking jamovi for Frequency Tables, under the ‘Exploration’ -"
-" ‘Descriptives’ button. However, this summary does not address the "
-"question we’re interested in. To do that, we need a more detailed "
-"description of the data. What we want to do is look at the ``choices`` "
-"broken down *by* ``species``. That is, we need to cross-tabulate the data"
-" (see :doc:`Tabulating and cross-tabulating data "
+"individual people, there are two nominal text variables |nominal|, "
+"``species`` and ``choice``. In total there are 180 entries in the data "
+"set, one for each person (counting both robots and humans as “people”) "
+"who was asked to make a choice. Specifically, there are 93 humans and 87 "
+"robots, and overwhelmingly the preferred choice is the data file. You can"
+" check this yourself by asking jamovi for Frequency Tables, under the "
+"‘Exploration’ - ‘Descriptives’ button. However, this summary does not "
+"address the question we’re interested in. To do that, we need a more "
+"detailed description of the data. What we want to do is look at the "
+"``choices`` broken down *by* ``species``. That is, we need to cross-"
+"tabulate the data (see :doc:`Tabulating and cross-tabulating data "
 "<../Ch06/Ch06_DataHandling_1>`). In jamovi we do this using the "
 "``Frequencies`` → ``Contingency Tables`` →  ``Independent Samples`` "
 "analysis, and we should get a table something like this:"
@@ -2279,14 +2285,143 @@ msgid ""
 "straight from this book to that one."
 msgstr ""
 
+#~ msgid ""
+#~ "Now that we’ve covered the basic "
+#~ "theory behind hypothesis testing, it’s "
+#~ "time to start looking at specific "
+#~ "tests that are commonly used in "
+#~ "psychology. So where should we start?"
+#~ " Not every textbook agrees on where"
+#~ " to start, but I’m going to "
+#~ "start with “χ² tests” (“Categorical data"
+#~ " analysis”, this chapter) and “*t*-tests”"
+#~ " (chapter :doc:`Comparing two means "
+#~ "<../Ch11/Ch11_tTest>`). Both of these tools"
+#~ " are very frequently used in "
+#~ "scientific practice, and whilst they’re "
+#~ "not as powerful as “regression” (chapter"
+#~ " :doc:`Correlation and linear regression "
+#~ "<../Ch12/Ch12_Regression>`) and “Analysis of "
+#~ "Variance” (chapters :doc:`Comparing several "
+#~ "means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`"
+#~ " and :doc:`Factorial ANOVA "
+#~ "<../Ch14/Ch14_ANOVA2>`) they’re much easier to"
+#~ " understand. Finally, there is :doc:`Factor"
+#~ " analysis <../Ch15/Ch15_FactorAnalysis>` that "
+#~ "aims to describe the  variability among"
+#~ " observed, correlated variables in terms"
+#~ " of a lower number of unobserved "
+#~ "variables called factors or latent "
+#~ "Variables."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "The term “categorical data” in the "
+#~ "title of this chapter is just "
+#~ "another name for “nominal scale data”."
+#~ " It’s nothing that we haven’t already"
+#~ " discussed, it’s just that in the "
+#~ "context of data analysis people tend "
+#~ "to use the term “categorical data” "
+#~ "rather than “nominal scale data”. I "
+#~ "don’t know why. In any case, "
+#~ "**categorical data analysis** refers to "
+#~ "a collection of tools that you can"
+#~ " use when your data are nominal "
+#~ "scale. Those tools are often called "
+#~ "“χ² tests” (pronounced “chi-square”, "
+#~ "sometimes “chi-squared”). They determine "
+#~ "whether there is a statistically "
+#~ "significant difference between expected and"
+#~ " observed frequencies and whether the "
+#~ "observations follows a χ² frequency "
+#~ "distribution. However, there are a lot"
+#~ " of different tools that can be "
+#~ "used for categorical data analysis, and"
+#~ " this chapter covers only a few "
+#~ "of the more common ones."
+#~ msgstr ""
 
+#~ msgid ""
+#~ "The χ² goodness-of-fit test is "
+#~ "one of the oldest hypothesis tests "
+#~ "around. It was invented by `Karl "
+#~ "Pearson (1900) <../Other/References.html#pearson-1900>`__,"
+#~ " with some corrections made later by"
+#~ " `Sir Ronald Fisher (1922a) "
+#~ "<../Other/References.html#fisher-1922a>`__. It tests"
+#~ " whether an observed frequency distribution"
+#~ " of a nominal variable matches an "
+#~ "expected frequency distribution. For example,"
+#~ " suppose a group of patients has "
+#~ "been undergoing an experimental treatment "
+#~ "and have had their health assessed "
+#~ "to see whether their condition has "
+#~ "improved, stayed the same or worsened."
+#~ " A goodness-of-fit test could "
+#~ "be used to determine whether the "
+#~ "numbers in each category - improved, "
+#~ "no change, worsened \\- match the "
+#~ "numbers that would be expected given "
+#~ "the standard treatment option. Let’s "
+#~ "think about this some more, with "
+#~ "some psychology."
+#~ msgstr ""
 
-
-
-
-
-
-
-
+#~ msgid ""
+#~ "The other day I was watching an"
+#~ " animated documentary examining the quaint"
+#~ " customs of the natives of the "
+#~ "planet *Chapek 9*. Apparently, in order"
+#~ " to gain access to their capital "
+#~ "city a visitor must prove that "
+#~ "they’re a robot, not a human. In"
+#~ " order to determine whether or not"
+#~ " a visitor is human, the natives "
+#~ "ask whether the visitor prefers puppies,"
+#~ " flowers, or large, properly formatted "
+#~ "data files. “Pretty clever,” I thought"
+#~ " to myself “but what if humans "
+#~ "and robots have the same preferences?"
+#~ " That probably wouldn’t be a very "
+#~ "good test then, would it?” As it"
+#~ " happens, I got my hands on the"
+#~ " testing data that the civil "
+#~ "authorities of *Chapek 9* used to "
+#~ "check this. It turns out that what"
+#~ " they did was very simple. They "
+#~ "found a bunch of robots and a "
+#~ "bunch of humans and asked them "
+#~ "what they preferred. I saved their "
+#~ "data in the |chapek9|_ data set, "
+#~ "which we can now load into jamovi."
+#~ " As well as the ``ID`` variable "
+#~ "that identifies individual people, there "
+#~ "are two nominal text variables, "
+#~ "``species`` and ``choice``. In total "
+#~ "there are 180 entries in the data"
+#~ " set, one for each person (counting"
+#~ " both robots and humans as “people”)"
+#~ " who was asked to make a "
+#~ "choice. Specifically, there are 93 "
+#~ "humans and 87 robots, and overwhelmingly"
+#~ " the preferred choice is the data "
+#~ "file. You can check this yourself "
+#~ "by asking jamovi for Frequency Tables,"
+#~ " under the ‘Exploration’ - ‘Descriptives’"
+#~ " button. However, this summary does "
+#~ "not address the question we’re "
+#~ "interested in. To do that, we need"
+#~ " a more detailed description of the"
+#~ " data. What we want to do is"
+#~ " look at the ``choices`` broken down"
+#~ " *by* ``species``. That is, we need"
+#~ " to cross-tabulate the data (see "
+#~ ":doc:`Tabulating and cross-tabulating data "
+#~ "<../Ch06/Ch06_DataHandling_1>`). In jamovi we "
+#~ "do this using the ``Frequencies`` → "
+#~ "``Contingency Tables`` →  ``Independent "
+#~ "Samples`` analysis, and we should get"
+#~ " a table something like this:"
+#~ msgstr ""
 

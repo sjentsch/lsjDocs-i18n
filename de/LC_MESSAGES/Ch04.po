@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 17:19+0200\n"
 "PO-Revision-Date: 2022-03-31 13:28+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -392,38 +392,50 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:166
 msgid ""
-"If your data are nominal scale you probably shouldn’t be using either the"
-" mean or the median. Both the mean and the median rely on the idea that "
-"the numbers assigned to values are meaningful. If the numbering scheme is"
-" arbitrary then it’s probably best to use the :doc:`Mode "
+"If your data are nominal scale |nominal| you probably shouldn’t be using "
+"either the mean or the median. Both the mean and the median rely on the "
+"idea that the numbers assigned to values are meaningful. If the numbering"
+" scheme is arbitrary then it’s probably best to use the :doc:`Mode "
 "<../Ch04/Ch04_Descriptives_1>` instead."
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_1.rst:393 ../../Ch04/Ch04_Descriptives_4.rst:79
+msgid "nominal"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:172
 msgid ""
-"If your data are ordinal scale you’re more likely to want to use the "
-"median than the mean. The median only makes use of the order information "
-"in your data (i.e., which numbers are bigger) but doesn’t depend on the "
-"precise numbers involved. That’s exactly the situation that applies when "
-"your data are ordinal scale. The mean, on the other hand, makes use of "
-"the precise numeric values assigned to the observations, so it’s not "
-"really appropriate for ordinal data."
+"If your data are ordinal scale |ordinal| you’re more likely to want to "
+"use the median than the mean. The median only makes use of the order "
+"information in your data (i.e., which numbers are bigger) but doesn’t "
+"depend on the precise numbers involved. That’s exactly the situation that"
+" applies when your data are ordinal scale |ordinal|. The mean, on the "
+"other hand, makes use of the precise numeric values assigned to the "
+"observations, so it’s not really appropriate for ordinal data."
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_1.rst:396
+msgid "ordinal"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:180
 msgid ""
-"For interval and ratio scale data either one is generally acceptable. "
-"Which one you pick depends a bit on what you’re trying to achieve. The "
-"mean has the advantage that it uses all the information in the data "
-"(which is useful when you don’t have a lot of data). But it’s very "
-"sensitive to extreme, outlying values."
+"For interval and ratio scale data |continuous| either one is generally "
+"acceptable. Which one you pick depends a bit on what you’re trying to "
+"achieve. The mean has the advantage that it uses all the information in "
+"the data (which is useful when you don’t have a lot of data). But it’s "
+"very sensitive to extreme, outlying values."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:194
+#: ../../Ch04/Ch04_Descriptives_1.rst:390
+msgid "continuous"
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid "Comparison of mean and median"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:194
+#: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid ""
 "Illustration of the difference between how the mean and the median should"
 " be interpreted. The mean is basically the “centre of gravity” of the "
@@ -433,7 +445,7 @@ msgid ""
 "half of the observations smaller and half of the observations larger."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:203
+#: ../../Ch04/Ch04_Descriptives_1.rst:202
 msgid ""
 "Let’s expand on that last part a little. One consequence is that there "
 "are systematic differences between the mean and the median when the "
@@ -452,11 +464,11 @@ msgid ""
 "the table the median would be a better choice here."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:219
+#: ../../Ch04/Ch04_Descriptives_1.rst:218
 msgid "A real life example"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:221
+#: ../../Ch04/Ch04_Descriptives_1.rst:220
 msgid ""
 "To try to get a sense of why you need to pay attention to the differences"
 " between the mean and the median let’s consider a real life example. "
@@ -466,7 +478,7 @@ msgid ""
 "<https://www.abc.net.au/news/stories/2010/09/24/3021480.htm>`__:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:228
+#: ../../Ch04/Ch04_Descriptives_1.rst:227
 msgid ""
 "Senior Commonwealth Bank executives have travelled the world in the past "
 "couple of weeks with a presentation showing how Australian house prices, "
@@ -476,7 +488,7 @@ msgid ""
 " bank’s trading arm, CommSec."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:235
+#: ../../Ch04/Ch04_Descriptives_1.rst:234
 msgid ""
 "This probably comes as a huge surprise to anyone with a mortgage, or who "
 "wants a mortgage, or pays rent, or isn’t completely oblivious to what’s "
@@ -484,7 +496,7 @@ msgid ""
 "years. Back to the article:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:240
+#: ../../Ch04/Ch04_Descriptives_1.rst:239
 msgid ""
 "CBA has waged its war against what it believes are housing doomsayers "
 "with graphs, numbers and international comparisons. In its presentation, "
@@ -496,13 +508,13 @@ msgid ""
 "9.3."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:249
+#: ../../Ch04/Ch04_Descriptives_1.rst:248
 msgid ""
 "More excellent news! Except, the article goes on to make the observation "
 "that:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:252
+#: ../../Ch04/Ch04_Descriptives_1.rst:251
 msgid ""
 "Many analysts say that has led the bank to use misleading figures and "
 "comparisons. If you go to page four of CBA’s presentation and read the "
@@ -513,7 +525,7 @@ msgid ""
 "would have come up with a figure closer to 9 rather than 5.6 or 4.3"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:261
+#: ../../Ch04/Ch04_Descriptives_1.rst:260
 msgid ""
 "That’s, um, a rather serious discrepancy. One group of people say 9, "
 "another says 4-5. Should we just split the difference and say the truth "
@@ -522,7 +534,7 @@ msgid ""
 "the Commonwealth Bank is wrong. As the article points out:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:267
+#: ../../Ch04/Ch04_Descriptives_1.rst:266
 msgid ""
 "[An] obvious problem with the Commonwealth Bank’s domestic price to "
 "income figures is they compare average incomes with median house prices "
@@ -537,7 +549,7 @@ msgid ""
 "middle-income Australians."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:279
+#: ../../Ch04/Ch04_Descriptives_1.rst:278
 msgid ""
 "Couldn’t have put it better myself. The way that Demographia calculated "
 "the ratio is the right thing to do. The way that the Bank did it is "
@@ -548,7 +560,7 @@ msgid ""
 "facts, which may or may not be relevant:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:287
+#: ../../Ch04/Ch04_Descriptives_1.rst:286
 msgid ""
 "[As] Australia’s largest home lender, the Commonwealth Bank has one of "
 "the biggest vested interests in house prices rising. It effectively owns "
@@ -556,15 +568,15 @@ msgid ""
 "well as many small business loans."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:292
+#: ../../Ch04/Ch04_Descriptives_1.rst:291
 msgid "My, my."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:295
+#: ../../Ch04/Ch04_Descriptives_1.rst:294
 msgid "Mode"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:297
+#: ../../Ch04/Ch04_Descriptives_1.rst:296
 msgid ""
 "The mode of a sample is very simple. It is the value that occurs most "
 "frequently. We can illustrate the mode using a different AFL variable: "
@@ -575,27 +587,27 @@ msgid ""
 "2010."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:312
+#: ../../Ch04/Ch04_Descriptives_1.rst:311
 msgid "Variables in ``aflsmall_finalists``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:312
+#: ../../Ch04/Ch04_Descriptives_1.rst:311
 msgid ""
 "Screenshot of jamovi showing the variables stored in the "
 "|aflsmall_finalists|_ data set"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:321
+#: ../../Ch04/Ch04_Descriptives_1.rst:320
 msgid "Frequency table for ``afl.margins`` in ``aflsmall_finalists``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:321
+#: ../../Ch04/Ch04_Descriptives_1.rst:320
 msgid ""
 "Screenshot of jamovi showing the frequency table for the "
 "``afl.finalists`` variable in the |aflsmall_finalists|_ data set"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:327
+#: ../../Ch04/Ch04_Descriptives_1.rst:326
 msgid ""
 "What we *could* do is read through all 400 entries and count the number "
 "of occasions on which each team name appears in our list of finalists, "
@@ -606,7 +618,7 @@ msgid ""
 "and you should get something like :numref:`fig-aflsmall_finalists_mode`."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:335
+#: ../../Ch04/Ch04_Descriptives_1.rst:334
 msgid ""
 "Now that we have our frequency table we can just look at it and see that,"
 " over the 24 years for which we have data, Geelong has played in more "
@@ -619,7 +631,7 @@ msgid ""
 "these values."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:345
+#: ../../Ch04/Ch04_Descriptives_1.rst:344
 msgid ""
 "One last point to make regarding the mode. Whilst the mode is most often "
 "calculated when you have nominal data, because means and medians are "
@@ -645,15 +657,15 @@ msgid ""
 "should bet on a 3 point margin."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:372
+#: ../../Ch04/Ch04_Descriptives_1.rst:371
 msgid "Modal value in of ``afl.margins`` in ``aflsmall_finalists``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:372
+#: ../../Ch04/Ch04_Descriptives_1.rst:371
 msgid "Screenshot of jamovi showing the modal value for the afl.margins variable"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:379
+#: ../../Ch04/Ch04_Descriptives_1.rst:378
 msgid ""
 "The choice to use *Σ* to denote summation isn’t arbitrary. It’s the Greek"
 " upper case letter sigma, which is the analogue of the letter S in that "
@@ -1419,14 +1431,15 @@ msgid ""
 "kurtosis is assessed relative to this curve."
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_3.rst:73
 msgid "Illustration of kurtosis"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:73
 msgid ""
 "An illustration of kurtosis. On the left, we have a “platykurtic” "
-"distribution (kurtosis = -.95) meaning that the distribution has ``thin''"
-" or flat tails. In the middle we have a “mesokurtic” distribution "
+"distribution (kurtosis = -.95) meaning that the distribution has “thin” "
+"or flat tails. In the middle we have a “mesokurtic” distribution "
 "(kurtosis is almost exactly 0) which means that the tails are neither "
 "thin or fat. Finally, on the right, we have a “leptokurtic” distribution "
 "(kurtosis = 2.12) indicating that the distribution has “fat” tails. Note "
@@ -1539,14 +1552,15 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_4.rst:6
 msgid ""
 "It is very commonly the case that you find yourself needing to look at "
-"descriptive statistics broken down by some grouping variable. This is "
-"pretty easy to do in jamovi. For instance, let’s say I want to look at "
-"the descriptive statistics for some clinical trial data, broken down "
-"separately by ``therapy`` type. This is a new data set, one that you’ve "
-"never seen before. The data is stored in the |clinicaltrial|_ data set "
-"and we’ll use it a lot in chapter :doc:`Comparing several means (one-way "
-"ANOVA) <../Ch13/Ch13_ANOVA>` (you can find a complete description of the "
-"data at the start of that chapter). Let’s load it and see what we’ve got:"
+"descriptive statistics broken down by some grouping variable |nominal|. "
+"This is pretty easy to do in jamovi. For instance, let’s say I want to "
+"look at the descriptive statistics for some clinical trial data, broken "
+"down separately by ``therapy`` type. This is a new data set, one that "
+"you’ve never seen before. The data is stored in the |clinicaltrial|_ data"
+" set and we’ll use it a lot in chapter :doc:`Comparing several means "
+"(one-way ANOVA) <../Ch13/Ch13_ANOVA>` (you can find a complete "
+"description of the data at the start of that chapter). Let’s load it and "
+"see what we’ve got:"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:22
@@ -1593,13 +1607,13 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:53
 msgid ""
-"What if you have multiple grouping variables? Suppose you want to look at"
-" the average mood gain separately for all possible combinations of drug "
-"and therapy. It is possible to do this by adding another variable, "
-"``drug``, into the ``Split by`` box. Easy peasy, though sometimes if you "
-"split too much there isn’t enough data in each breakdown combination to "
-"make meaningful calculations. In this case jamovi tells you this by "
-"stating something like ``NaN`` or ``Inf``.\\ [#]_"
+"What if you have multiple grouping variables |nominal|? Suppose you want "
+"to look at the average mood gain separately for all possible combinations"
+" of drug and therapy. It is possible to do this by adding another "
+"variable, ``drug``, into the ``Split by`` box. Easy peasy, though "
+"sometimes if you split too much there isn’t enough data in each breakdown"
+" combination to make meaningful calculations. In this case jamovi tells "
+"you this by stating something like ``NaN`` or ``Inf``.\\ [#]_"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:64
@@ -1982,5 +1996,103 @@ msgstr ""
 #~ " **0.364**. This means that the AFL"
 #~ " winning margins data are just pointy"
 #~ " enough."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If your data are nominal scale you"
+#~ " probably shouldn’t be using either "
+#~ "the mean or the median. Both the"
+#~ " mean and the median rely on "
+#~ "the idea that the numbers assigned "
+#~ "to values are meaningful. If the "
+#~ "numbering scheme is arbitrary then it’s"
+#~ " probably best to use the :doc:`Mode"
+#~ " <../Ch04/Ch04_Descriptives_1>` instead."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If your data are ordinal scale "
+#~ "you’re more likely to want to use"
+#~ " the median than the mean. The "
+#~ "median only makes use of the order"
+#~ " information in your data (i.e., "
+#~ "which numbers are bigger) but doesn’t"
+#~ " depend on the precise numbers "
+#~ "involved. That’s exactly the situation "
+#~ "that applies when your data are "
+#~ "ordinal scale. The mean, on the "
+#~ "other hand, makes use of the "
+#~ "precise numeric values assigned to the"
+#~ " observations, so it’s not really "
+#~ "appropriate for ordinal data."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For interval and ratio scale data "
+#~ "either one is generally acceptable. "
+#~ "Which one you pick depends a bit"
+#~ " on what you’re trying to achieve."
+#~ " The mean has the advantage that "
+#~ "it uses all the information in the"
+#~ " data (which is useful when you "
+#~ "don’t have a lot of data). But "
+#~ "it’s very sensitive to extreme, outlying"
+#~ " values."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It is very commonly the case that"
+#~ " you find yourself needing to look"
+#~ " at descriptive statistics broken down "
+#~ "by some grouping variable. This is "
+#~ "pretty easy to do in jamovi. For"
+#~ " instance, let’s say I want to "
+#~ "look at the descriptive statistics for"
+#~ " some clinical trial data, broken "
+#~ "down separately by ``therapy`` type. "
+#~ "This is a new data set, one "
+#~ "that you’ve never seen before. The "
+#~ "data is stored in the |clinicaltrial|_"
+#~ " data set and we’ll use it a"
+#~ " lot in chapter :doc:`Comparing several "
+#~ "means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`"
+#~ " (you can find a complete description"
+#~ " of the data at the start of"
+#~ " that chapter). Let’s load it and "
+#~ "see what we’ve got:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "What if you have multiple grouping "
+#~ "variables? Suppose you want to look "
+#~ "at the average mood gain separately "
+#~ "for all possible combinations of drug"
+#~ " and therapy. It is possible to "
+#~ "do this by adding another variable, "
+#~ "``drug``, into the ``Split by`` box. "
+#~ "Easy peasy, though sometimes if you "
+#~ "split too much there isn’t enough "
+#~ "data in each breakdown combination to"
+#~ " make meaningful calculations. In this "
+#~ "case jamovi tells you this by "
+#~ "stating something like ``NaN`` or "
+#~ "``Inf``.\\ [#]_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An illustration of kurtosis. On the "
+#~ "left, we have a “platykurtic” "
+#~ "distribution (kurtosis = -.95) meaning "
+#~ "that the distribution has ``thin'' or"
+#~ " flat tails. In the middle we "
+#~ "have a “mesokurtic” distribution (kurtosis "
+#~ "is almost exactly 0) which means "
+#~ "that the tails are neither thin or"
+#~ " fat. Finally, on the right, we "
+#~ "have a “leptokurtic” distribution (kurtosis"
+#~ " = 2.12) indicating that the "
+#~ "distribution has “fat” tails. Note that"
+#~ " kurtosis is measured with respect to"
+#~ " a normal distribution (black line)."
 #~ msgstr ""
 

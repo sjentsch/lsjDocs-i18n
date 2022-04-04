@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 17:19+0200\n"
 "PO-Revision-Date: 2022-04-01 16:08+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -129,7 +129,7 @@ msgstr "*David Foxcroft*"
 
 #: ../../Other/Prologue.rst:54
 #, fuzzy
-msgid "*February 9th, 2022"
+msgid "*February 9th, 2022*"
 msgstr "*1. Februar 2019*"
 
 #: ../../Other/Prologue.rst:57
@@ -137,11 +137,12 @@ msgid "**Preface to Version 0.70**"
 msgstr "**Vorwort zu Version 0.70**"
 
 #: ../../Other/Prologue.rst:59
+#, fuzzy
 msgid ""
 "This update from version 0.65 introduces some new analyses. In the ANOVA "
 "chapters we have added sections on repeated measures ANOVA and analysis "
-"of covariance (ANCOVA). In a new chapter we have introduced Factor "
-"Analysis and related techniques. Hopefully the style of this new material"
+"of covariance (ANCOVA). In a new chapter, we have introduced Factor "
+"analysis and related techniques. Hopefully the style of this new material"
 " is consistent with the rest of the book, though eagle-eyed readers might"
 " spot a bit more of an emphasis on conceptual and practical explanations,"
 " and a bit less algebra. I’m not sure this is a good thing, and might add"

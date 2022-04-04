@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 17:19+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,8 +84,16 @@ msgid ""
 "psychologist assesses the mood of each person after a 3 month run with each "
 "drug, and the overall *improvement* in each person’s mood is assessed on a "
 "scale ranging from -5 to +5. With that as the study design, let’s now load |"
-"clinicaltrial|_ data set. It contains the three variables ``drug``, "
-"``therapy`` and ``mood.gain``."
+"clinicaltrial|_ data set. It contains the three variables ``drug`` |"
+"nominal|, ``therapy`` |nominal| and ``mood.gain`` |continuous|."
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_01.rst:54 ../../Ch13/Ch13_ANOVA_08.rst:48
+msgid "nominal"
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_01.rst:51
+msgid "continuous"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:24
@@ -109,10 +117,11 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_01.rst:40
 msgid ""
 "As the plot makes clear, there is a larger improvement in mood for "
-"participants in the Joyzepam group than for either the Anxifree group or the "
-"placebo group. The Anxifree group shows a larger mood gain than the control "
-"group, but the difference isn’t as large. The question that we want to "
-"answer is are these difference “real”, or are they just due to chance?"
+"participants in the ``Joyzepam`` group than for either the ``Anxifree`` "
+"group or the ``Placebo`` group. The ``Anxifree`` group shows a larger mood "
+"gain than the ``Placebo`` group, but the difference isn’t as large. The "
+"question that we want to answer is are these difference “real”, or are they "
+"just due to chance?"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:4
@@ -377,9 +386,9 @@ msgid ""
 "his grumpiness by saying that |Y_p| = 91, for person *p* = 4 that is. "
 "However, that’s not the only way we could refer to Tim. As an alternative we "
 "could note that Tim belongs to the “uncool” group (*k* = 2), and is in fact "
-"the first person listed in the uncool group (*i* = 1). So it’s equally valid "
-"to refer to Tim’s grumpiness by saying that |Y_ik| = 91, where *k* = 2 and "
-"*i* = 1."
+"the first person listed in the “uncool” group (*i* = 1). So it’s equally "
+"valid to refer to Tim’s grumpiness by saying that |Y_ik| = 91, where *k* = 2 "
+"and *i* = 1."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:119
@@ -2659,10 +2668,15 @@ msgstr ""
 msgid ""
 "The Friedman test is a non-parametric version of a repeated measures ANOVA "
 "and can be used instead of the Kruskall-Wallis test when testing for "
-"differences between three or more groups where the same participants are in "
-"each group, or each participant is closely matched with participants in "
-"other conditions. If the dependent variable is ordinal, or if the assumption "
-"of normality is not met, then the Friedman test can be used."
+"differences between three or more groups |nominal| where the same "
+"participants are in each group, or each participant is closely matched with "
+"participants in other conditions. If the dependent variable is ordinal |"
+"ordinal|, or if the assumption of normality is not met, then the Friedman "
+"test can be used."
+msgstr ""
+
+#: ../../Ch13/Ch13_ANOVA_08.rst:51
+msgid "ordinal"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:19

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-03 21:29+0200\n"
+"POT-Creation-Date: 2022-04-04 14:52+0200\n"
 "PO-Revision-Date: 2022-03-02 14:27+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: no\n"
@@ -261,36 +261,53 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:19
 msgid ""
-"The *ID* variable type is unique to jamovi. It’s intended for variables "
-"that contain identifiers that you would almost never want to analyse. For"
-" example, a persons name, or a participant ID. Specifying an ID variable "
-"type can improve performance when interacting with very large data sets."
+"The *ID* variable type |ID| is unique to jamovi. It’s intended for "
+"variables that contain identifiers that you would almost never want to "
+"analyse. For example, a persons name, or a participant ID. Specifying an "
+"ID variable type can improve performance when interacting with very large"
+" data sets."
+msgstr ""
+
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:320 ../../Ch03/Ch03_jamoviIntro_3.rst:79
+msgid "ID"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:25
 msgid ""
-"*Nominal* variables are for categorical variables which are text labels, "
-"for example a column called Gender with the values Male and Female would "
-"be nominal. So would a person’s name. Nominal variable values can also "
-"have a numeric value. These variables are used most often when importing "
-"data which codes values with numbers rather than text. For example, a "
-"column in a dataset may contain the values 1 for males, and 2 for "
-"females. It is possible to add nice “human-readable” labels to these "
-"values with the variable editor (more on this later)."
+"*Nominal* variables |nominal| are for categorical variables which are "
+"text labels, for example a column called Gender with the values “Male” "
+"and “Female” would be nominal. So would a person’s name. Nominal variable"
+" values can also have a numeric value. These variables are used most "
+"often when importing data which codes values with numbers rather than "
+"text. For example, a column in a dataset may contain the values 1 for "
+"“Male”, and 2 for “Female”. It is possible to add nice “human-readable” "
+"labels to these values with the variable editor (more on this later)."
+msgstr ""
+
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:326 ../../Ch03/Ch03_jamoviIntro_3.rst:85
+msgid "nominal"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:34
 msgid ""
-"*Ordinal* variables are like Nominal variables, except the values have a "
-"specific order. An example is a Likert scale with 3 being “strongly "
-"agree” and -3 being “strongly disagree”."
+"*Ordinal* variables |ordinal| are like Nominal variables, except the "
+"values have a specific order. An example is a Likert scale with 3 being "
+"“strongly agree” and -3 being “strongly disagree”."
+msgstr ""
+
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:329 ../../Ch03/Ch03_jamoviIntro_3.rst:88
+msgid "ordinal"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:38
 msgid ""
-"*Continuous* variables are variables which exist on a continuous scale. "
-"Examples might be height or weight. This is also referred to as "
-"``Interval`` or ``Ratio scale``."
+"*Continuous* variables |continuous| are variables which exist on a "
+"continuous scale. Examples might be height or weight. This is also "
+"referred to as ``Interval`` or ``Ratio scale``."
+msgstr ""
+
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:323 ../../Ch03/Ch03_jamoviIntro_3.rst:82
+msgid "continuous"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:42
@@ -501,60 +518,46 @@ msgid ""
 " with three parallel lines) choose ``Open`` and browse to where you have "
 "stored the CSV file on your computer. If you’re on a Mac, it’ll look like"
 " the usual Finder window that you use to choose a file; on Windows it "
-"looks like an Explorer window. An example of what it looks like on a Mac "
-"is shown in :numref:`fig-fileopen`. I’m assuming that you’re familiar "
-"with your own computer, so you should have no problem finding the CSV-"
-"file that you want to import! Find the one you want, then click on the "
-"“Open” button."
+"looks like an Explorer window. I’m assuming that you’re familiar with "
+"your own computer, so you should have no problem finding the CSV-file "
+"that you want to import! Find the one you want, then click on the “Open” "
+"button."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:218
-msgid "``Open File`` dialog on MacOS"
-msgstr ""
-
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:218
-msgid ""
-"A dialog box on a Mac asking you to select the csv file jamovi should try"
-" to import. Mac users will recognise this immediately, it’s the usual way"
-" in which a Mac asks you to find a file. Windows users won’t see this, "
-"instead they’ll see the usual explorer window that Windows always gives "
-"you when it wants you to select a file."
-msgstr ""
-
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:225
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:211
 msgid ""
 "There are a few things that you can check to make sure that the data gets"
 " imported correctly:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:228
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:214
 msgid ""
 "Heading. Does the first row of the file contain the names for each "
 "variable - a “header” row? The |booksales|_ file has a header, so that’s "
 "a yes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:232
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:218
 msgid ""
 "Separator. What character is used to separate different entries? In most "
 "CSV files this will be a comma (it is “comma separated” after all)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:236
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:222
 msgid ""
 "Decimal. What character is used to specify the decimal point? In English "
 "speaking countries this is almost always a period (i.e., ``.``). That’s "
 "not universally true though, many European countries use a comma."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:241
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:227
 msgid ""
 "Quote. What character is used to denote a block of text? That’s usually "
 "going to be a double quote mark (``\"``). It is for the |booksales|_ "
 "file."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:245
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:231
 msgid ""
 "Throughout this book I’ve assumed that your data are stored as a jamovi "
 "``.omv`` file or as a “properly” formatted CSV file. However, in real "
@@ -562,7 +565,7 @@ msgid ""
 "talk about some of the other possibilities that you might run into."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:250
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:236
 msgid ""
 "The first thing I should point out is that if your data are saved as a "
 "text file but aren’t *quite* in the proper CSV format then there’s still "
@@ -572,7 +575,7 @@ msgid ""
 "change are:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:257
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:243
 msgid ""
 "``header``. A lot of the time when you’re storing data as a CSV file the "
 "first row actually contains the column names and not data. If that’s not "
@@ -580,7 +583,7 @@ msgid ""
 "programme such as LibreOffice and add the header row manually."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:263
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:249
 msgid ""
 "``sep``. As the name “comma separated value” indicates, the values in a "
 "row of a CSV file are usually separated by commas. This isn’t universal, "
@@ -591,7 +594,7 @@ msgid ""
 "used."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:271
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:257
 msgid ""
 "``quote``. It’s conventional in CSV files to include a quoting character "
 "for textual data. As you can see by looking at the |booksales|_ file, "
@@ -600,7 +603,7 @@ msgid ""
 "used instead."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:277
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:263
 msgid ""
 "``skip``. It’s actually very common to receive CSV files in which the "
 "first few rows have nothing to do with the actual data. Instead, they "
@@ -608,7 +611,7 @@ msgid ""
 "they include some technical info that doesn’t relate to the data."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:283
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:269
 msgid ""
 "``missing values``. Often you’ll get given data with missing values. For "
 "one reason or another, some entries in the table are missing. The data "
@@ -623,11 +626,11 @@ msgid ""
 " as an option in the Data → Setup view."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:297
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:283
 msgid "Importing data from SPSS (and other statistics packages)"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:299
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:285
 msgid ""
 "The commands listed above are the main ones we’ll need for data files in "
 "this book. But in real life we have many more possibilities. For example,"
@@ -644,14 +647,14 @@ msgid ""
 "jamovi.\\ [#]_"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:313
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:299
 msgid ""
 "And that’s pretty much it, at least as far as SPSS goes. As far as other "
 "statistical software goes, jamovi can also directly open / import SAS and"
 " STATA files."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:320
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:306
 msgid ""
 "You can change the default value for missing values in jamovi from the "
 "top right menu (three vertical dots), but this only works at the time of "
@@ -661,7 +664,7 @@ msgid ""
 " value."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:328
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:314
 msgid ""
 "I know this is a bit of a fudge, but it does work and hopefully this will"
 " be fixed in a later version of jamovi."
@@ -675,13 +678,14 @@ msgstr ""
 msgid ""
 "Sometimes you want to change the variable level. This can happen for all "
 "sorts of reasons. Sometimes when you import data from files, it can come "
-"to you in the wrong format. Numbers sometimes get imported as nominal, "
-"text values. Dates may get imported as text. ParticipantID values can "
-"sometimes be read as continuous: nominal values can sometimes be read as "
-"ordinal or even continuous. There’s a good chance that sometimes you’ll "
-"want to convert a variable from one measurement level into another one. "
-"Or, to use the correct term, you want to **coerce** the variable from one"
-" class into another."
+"to you in the wrong format. Numbers sometimes get imported as nominal "
+"|nominal|, text values. Dates may get imported as text. Participant-ID "
+"values |ID| can sometimes be read as continuous |continuous|: nominal "
+"values |nominal| can sometimes be read as ordinal |ordinal| or even "
+"continuous |continuous|. There’s a good chance that sometimes you’ll want"
+" to convert a variable from one measurement level into another one. Or, "
+"to use the correct term, you want to **coerce** the variable from one "
+"class into another."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:16
@@ -690,14 +694,14 @@ msgid ""
 "specify different variable levels, and if you want to change a variable’s"
 " measurement level then you can do this in the jamovi data view for that "
 "variable. Just click the check box for the type level you want - "
-"continuous, ordinal, or nominal."
+"continuous |continuous|, ordinal |ordinal|, or nominal |nominal|."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:22
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:23
 msgid "Installing add-on modules into jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:24
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:25
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules"
 " from the jamovi library. These add-on modules have been developed by the"
@@ -706,7 +710,7 @@ msgid ""
 "that go beyond the capabilities of the base jamovi program."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:31
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:32
 msgid ""
 "To install add-on modules, just click on the large “+” in the top right "
 "of the jamovi window, select “jamovi-library” and then browse through the"
@@ -714,26 +718,26 @@ msgid ""
 "and then install them, as in :numref:`fig-modules`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:36
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:37
 msgid ""
 "It’s that easy. The newly installed modules can then be accessed from the"
 " “Analyses” button bar. Try it... useful add-on modules to install "
 "include ``scatr`` (added under ``Descriptives``) and |Rj|_."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:46
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:47
 msgid "jamovi modules in the jamovi library"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:46
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:47
 msgid "Installing add-on modules in jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:52
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:53
 msgid "Quitting jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:54
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:55
 msgid ""
 "There’s one last thing I should cover in this chapter: how to quit "
 "jamovi. It’s not hard, just close the program the same way you would any "
@@ -742,7 +746,7 @@ msgid ""
 "set, and saving the analyses that you ran."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:60
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:61
 msgid ""
 "It is good practice to save any changes to the data set as a *new* data "
 "set. That way you can always go back to the original data. To save any "
@@ -751,7 +755,7 @@ msgid ""
 "file name for the changed data set."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:66
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:67
 msgid ""
 "Alternatively, you can save *both* the changed data and any analyses you "
 "have undertaken by saving as a jamovi file. To do this, from the main "
@@ -840,6 +844,124 @@ msgstr ""
 #~ "for that variable. Just click the "
 #~ "check box for the measurement level "
 #~ "you want - continuous, ordinal, or "
+#~ "nominal."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The *ID* variable type is unique "
+#~ "to jamovi. It’s intended for variables"
+#~ " that contain identifiers that you "
+#~ "would almost never want to analyse. "
+#~ "For example, a persons name, or a"
+#~ " participant ID. Specifying an ID "
+#~ "variable type can improve performance "
+#~ "when interacting with very large data"
+#~ " sets."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Nominal* variables are for categorical "
+#~ "variables which are text labels, for "
+#~ "example a column called Gender with "
+#~ "the values Male and Female would "
+#~ "be nominal. So would a person’s "
+#~ "name. Nominal variable values can also"
+#~ " have a numeric value. These "
+#~ "variables are used most often when "
+#~ "importing data which codes values with"
+#~ " numbers rather than text. For "
+#~ "example, a column in a dataset may"
+#~ " contain the values 1 for males, "
+#~ "and 2 for females. It is possible"
+#~ " to add nice “human-readable” labels"
+#~ " to these values with the variable"
+#~ " editor (more on this later)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Ordinal* variables are like Nominal "
+#~ "variables, except the values have a "
+#~ "specific order. An example is a "
+#~ "Likert scale with 3 being “strongly "
+#~ "agree” and -3 being “strongly disagree”."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*Continuous* variables are variables which "
+#~ "exist on a continuous scale. Examples"
+#~ " might be height or weight. This "
+#~ "is also referred to as ``Interval`` "
+#~ "or ``Ratio scale``."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It’s easy to open CSV files in "
+#~ "jamovi. From the top left menu "
+#~ "(the button with three parallel lines)"
+#~ " choose ``Open`` and browse to where"
+#~ " you have stored the CSV file "
+#~ "on your computer. If you’re on a"
+#~ " Mac, it’ll look like the usual "
+#~ "Finder window that you use to "
+#~ "choose a file; on Windows it looks"
+#~ " like an Explorer window. An example"
+#~ " of what it looks like on a "
+#~ "Mac is shown in :numref:`fig-fileopen`."
+#~ " I’m assuming that you’re familiar "
+#~ "with your own computer, so you "
+#~ "should have no problem finding the "
+#~ "CSV-file that you want to import!"
+#~ " Find the one you want, then "
+#~ "click on the “Open” button."
+#~ msgstr ""
+
+#~ msgid "``Open File`` dialog on MacOS"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A dialog box on a Mac asking "
+#~ "you to select the csv file jamovi"
+#~ " should try to import. Mac users "
+#~ "will recognise this immediately, it’s "
+#~ "the usual way in which a Mac "
+#~ "asks you to find a file. Windows"
+#~ " users won’t see this, instead "
+#~ "they’ll see the usual explorer window"
+#~ " that Windows always gives you when"
+#~ " it wants you to select a file."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Sometimes you want to change the "
+#~ "variable level. This can happen for "
+#~ "all sorts of reasons. Sometimes when "
+#~ "you import data from files, it can"
+#~ " come to you in the wrong "
+#~ "format. Numbers sometimes get imported "
+#~ "as nominal, text values. Dates may "
+#~ "get imported as text. ParticipantID "
+#~ "values can sometimes be read as "
+#~ "continuous: nominal values can sometimes "
+#~ "be read as ordinal or even "
+#~ "continuous. There’s a good chance that"
+#~ " sometimes you’ll want to convert a"
+#~ " variable from one measurement level "
+#~ "into another one. Or, to use the"
+#~ " correct term, you want to **coerce**"
+#~ " the variable from one class into "
+#~ "another."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In :doc:`The spreadsheet "
+#~ "<../Ch03/Ch03_jamoviIntro_2>` we saw how to"
+#~ " specify different variable levels, and "
+#~ "if you want to change a variable’s"
+#~ " measurement level then you can do"
+#~ " this in the jamovi data view "
+#~ "for that variable. Just click the "
+#~ "check box for the type level you"
+#~ " want - continuous, ordinal, or "
 #~ "nominal."
 #~ msgstr ""
 
