@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-04-04 23:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-05-12 18:16+0000\n"
+"Last-Translator: Jakob Naumann <Jakobonaumann@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
@@ -500,22 +500,28 @@ msgid ""
 "to pick the statement (from four listed statements) that most closely "
 "matches their beliefs:"
 msgstr ""
+"An dieser Stelle soll ein psychologisch interssantes Beispiel dargestellt "
+"werden. Nehmen Sie an, Ich wäre an den Einstellungen der Menschen zum "
+"Klimawandel interessiert. Dafür würde ich dann einige Leute bitten, aus vier "
+"aufgelisteten Aussagen diejenige auszuwählen, die ihren Überzeugungen am "
+"ehesten entspricht:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(1) Temperatures are rising because of human activity"
-msgstr ""
+msgstr "(1) Die Temperaturen steigen aufgrund menschlicher Aktivitäten"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(2) Temperatures are rising but we don’t know why"
-msgstr ""
+msgstr "(2) Die Temperaturen steigen, aber wir wissen nicht warum"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(3) Temperatures are rising but not because of humans"
 msgstr ""
+"(3) Die Temperaturen steigen, aber nicht aufgrund menschlicher Einflussnahme"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(4) Temperatures are not rising"
-msgstr ""
+msgstr "(4) Die Temperaturen steigen nicht"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:93
 msgid ""
@@ -528,6 +534,15 @@ msgid ""
 "items as 1 > 2 > 3 > 4. Since this ordering exists, it would be very "
 "weird to list the options like this…"
 msgstr ""
+"Beachten Sie, dass diese vier Aussagen tatsächlich eine natürliche "
+"Reihenfolge aufweisen, und zwar in Bezug auf \"das Ausmaß, in dem sie mit "
+"der aktuellen Wissenschaft übereinstimmen\". Aussage 1 stimmt fast überein, "
+"Aussage 2 stimmt einigermaßen überein, Aussage 3 stimmt nicht sehr gut "
+"überein und Aussage 4 steht in starkem Gegensatz zum aktuellen Wissensstand. "
+"In Bezug auf das, was mich interessiert (das Ausmaß, in dem die Menschen die "
+"Wissenschaft unterstützen), kann ich die Punkte also wie folgt anordnen: 1 > "
+"2 > 3 > 4. Da diese Reihenfolge existiert, wäre es sehr abwegig, die "
+"Optionen in dieser Weise ufzulisten…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:107
 msgid "…because it seems to violate the natural “structure” to the question."
@@ -569,7 +584,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:121
 msgid "Temperatures are not rising (4)"
-msgstr ""
+msgstr "Temperaturen steigen nicht (4)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:121
 msgid "19"
