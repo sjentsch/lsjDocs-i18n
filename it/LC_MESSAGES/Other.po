@@ -6,33 +6,38 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 17:19+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-19 02:17+0000\n"
+"Last-Translator: ッJackJoy <alinasouri1@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/lsjdocs/other/it/"
+">\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Other/Prologue.rst:5
 msgid "Prologue"
-msgstr ""
+msgstr "Prologo"
 
 #: ../../Other/Prologue.rst:7
 msgid ""
 "This book was brought to you today by the letter ``R`` and the word "
 "``jamovi``."
 msgstr ""
+"Questo libro ti è stato offerto oggi dalla lettera ``R`` e dalla parola "
+"``jamovi``."
 
 #: ../../Other/Prologue.rst:10
 msgid "Overview"
-msgstr ""
+msgstr "panoramica"
 
 #: ../../Other/Prologue.rst:12
 msgid ""
@@ -48,10 +53,18 @@ msgid ""
 "contingency tables, correlation, t-tests, regression, ANOVA and factor "
 "analysis. Bayesian statistics are covered at the end of the book."
 msgstr ""
+"* statistiche di apprendimento con jamovi * copre i contenuti di una classe "
+"introduttiva di statistica, come in genere insegnato agli studenti "
+"universitari di psicologia. Fa parte della documentazione jamovi ma è anche "
+"disponibile \"come libro di testo <https://www.learnstatswithjamovi.com/>\""
+".. Discute come iniziare in jamovi e fornisce un'introduzione alla "
+"manipolazione dei dati. Da un punto di vista statistico, il libro discute "
+"prima la statistica descrittiva e la rappresentazione grafica, seguita da "
+"capitoli sulla teoria della probabilità"
 
 #: ../../Other/Prologue.rst:24
 msgid "Citation"
-msgstr ""
+msgstr "citazione"
 
 #: ../../Other/Prologue.rst:26
 msgid ""
@@ -60,6 +73,10 @@ msgid ""
 " 0.75). `https://doi.org/10.24384/hgc3-7p15 "
 "<https://doi.org/10.24384/hgc3-7p15>`__"
 msgstr ""
+"Navarro, D. J., & Foxcroft, D. R. (2022). *statistiche di apprendimento con "
+"jamovi: un tutorial per studenti di psicologia e altri principianti.* ("
+"Versione 0.75). 'https://doi.org/10.24384/hgc3-7p15 <https://doi.org/10."
+"24384/hgc3-7p15>'__"
 
 #: ../../Other/Prologue.rst:30
 msgid ""
@@ -71,14 +88,21 @@ msgid ""
 "this open textbook, you must redistribute all versions of this open "
 "textbook under the same license."
 msgstr ""
+"Questo libro è pubblicato sotto licenza Creative Commons BY-SA ('CC BY-SA "
+"versione 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>'__). Ciò "
+"significa che questo libro può essere riutilizzato, remixato, conservato, "
+"rivisto e ridistribuito (anche commercialmente) purché venga dato credito "
+"appropriato agli autori. Se remixi o modifichi la versione originale di "
+"questo libro di testo aperto, devi ridistribuire tutte le versioni di questo "
+"libro di testo aperto con la stessa licenza"
 
 #: ../../Other/Prologue.rst:38
 msgid "Preface"
-msgstr ""
+msgstr "premessa"
 
 #: ../../Other/Prologue.rst:40
 msgid "**Preface to Version 0.75**"
-msgstr ""
+msgstr "Prefazione alla versione 0.76"
 
 #: ../../Other/Prologue.rst:42
 msgid ""
@@ -93,6 +117,18 @@ msgid ""
 "the readers who made suggestions, either through contacting me by email, "
 "or raising an issue on github."
 msgstr ""
+"In questa versione abbiamo aggiornato le figure, le immagini e il testo per "
+"mantenere la compatibilità con le ultime versioni di jamovi; molte grazie a "
+"Peter Fisk per il suo aiuto in questo. Sono state inoltre modificate e "
+"corrette alcune sezioni in cui i lettori hanno suggerito miglioramenti. Ciò "
+"ha incluso principalmente la correzione di errori di battitura, ma anche in "
+"luoghi che correggono i dettagli concettuali, ad esempio abbiamo aggiornato "
+"le informazioni sulla kurtosi per riflettere che non si tratta davvero di "
+"\"puntigliosità\" della distribuzione e invece la kurtosi è sulla "
+"distribuzione \"puntigliosità\" e invece la kurtosi riguarda se le "
+"distribuzioni di dati hanno code sottili o grasse. Grazie a tutti i lettori "
+"che hanno dato suggerimenti, contattandomi via e-mail o sollevando un "
+"problema su github"
 
 #: ../../Other/Prologue.rst:53 ../../Other/Prologue.rst:83
 #: ../../Other/Prologue.rst:107
@@ -101,7 +137,7 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:54
 msgid "*February 9th, 2022*"
-msgstr ""
+msgstr "9 Febbraio 2022"
 
 #: ../../Other/Prologue.rst:57
 msgid "**Preface to Version 0.70**"
@@ -1455,10 +1491,3 @@ msgid ""
 "particular statistical technique, and how you can check whether those "
 "assumptions are sensible."
 msgstr ""
-
-
-
-
-
-
-
