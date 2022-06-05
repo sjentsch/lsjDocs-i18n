@@ -8,45 +8,55 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 23:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-06-05 02:16+0000\n"
+"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/lsjdocs/ch01/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
+#, fuzzy
 msgid "Why do we learn statistics?"
-msgstr ""
+msgstr "لماذا نتعلم الإحصاء؟"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
+#, fuzzy
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr ""
+msgstr "* لا تجيب على الاستبيانات *"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
+#, fuzzy
 msgid "*Or quizzes upon World Affairs,*"
-msgstr ""
+msgstr "* أو اختبارات حول الشؤون العالمية ، *"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
+#, fuzzy
 msgid "*Nor with compliance*"
-msgstr ""
+msgstr "* عدم الامتثال*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
+#, fuzzy
 msgid "*Take any test. Thou shalt not sit*"
-msgstr ""
+msgstr "* إجراء أي اختبار. لا تجلس"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*With statisticians nor commit*"
-msgstr ""
+msgstr "*مع الإحصائيين وعدم الالتزام*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*A social science”*"
-msgstr ""
+msgstr "*علم الاجتماع\"*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:34
+#, fuzzy
 msgid "W.H. Auden\\ [#]_"
-msgstr ""
+msgstr "W.H Auden/ [#]"
 
 #: ../../Ch01/Ch01_WhyStats.rst:31
 msgid ""
@@ -58,7 +68,7 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:4
 msgid "On the psychology of statistics"
-msgstr ""
+msgstr "حول سيكولوجية الإحصاء"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:6
 msgid ""
