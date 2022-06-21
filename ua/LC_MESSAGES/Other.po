@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 17:19+0200\n"
-"PO-Revision-Date: 2022-06-21 15:19+0000\n"
+"PO-Revision-Date: 2022-06-21 16:17+0000\n"
 "Last-Translator: Artem <artem@molotov.work>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/other/"
 "uk/>\n"
@@ -233,16 +233,16 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:144
 msgid "Best,"
-msgstr ""
+msgstr "Найкращого,"
 
 #: ../../Other/Prologue.rst:146 ../../Other/Prologue.rst:164
 #: ../../Other/Prologue.rst:196 ../../Other/Prologue.rst:306
 msgid "*Danielle Navarro*"
-msgstr ""
+msgstr "*Даніель Наварро*"
 
 #: ../../Other/Prologue.rst:149
 msgid "**Preface to Version 0.5**"
-msgstr ""
+msgstr "**Передмова до версії 0.5**"
 
 #: ../../Other/Prologue.rst:151
 msgid ""
@@ -262,11 +262,11 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:165
 msgid "*February 16, 2015*"
-msgstr ""
+msgstr "*16 лютого 2015 року*"
 
 #: ../../Other/Prologue.rst:168
 msgid "**Preface to Version 0.4**"
-msgstr ""
+msgstr "**Передмова до версії 0.4**"
 
 #: ../../Other/Prologue.rst:170
 msgid ""
@@ -305,17 +305,19 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:197
 msgid "*February 4, 2014*"
-msgstr ""
+msgstr "*4 лютого 2014 року*"
 
 #: ../../Other/Prologue.rst:200
 msgid "**Preface to Version 0.3**"
-msgstr ""
+msgstr "**Передмова до версії 0.3**"
 
 #: ../../Other/Prologue.rst:202
 msgid ""
 "There’s a part of me that really doesn’t want to publish this book. It’s "
 "not finished."
 msgstr ""
+"Тут частина мене, яка справді не хоче публікувати цю книгу. Вона ще "
+"незавершена."
 
 #: ../../Other/Prologue.rst:205
 msgid ""
@@ -355,6 +357,8 @@ msgid ""
 "(The hard copies that were earlier available are not available any longer"
 " and the respective link was removed)."
 msgstr ""
+"(Друковані копії, які раніше були доступні, більше не доступні, посилання "
+"видалено)."
 
 #: ../../Other/Prologue.rst:235
 msgid ""
@@ -444,11 +448,11 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:307
 msgid "*January 13, 2013*"
-msgstr ""
+msgstr "*13 січня 2013 року*"
 
 #: ../../Other/References.rst:5
 msgid "References"
-msgstr ""
+msgstr "Посилання"
 
 #: ../../Other/References.rst:7
 msgid ""
@@ -1209,7 +1213,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:5
 msgid "Statistical theory: A Prelude"
-msgstr ""
+msgstr "Статистична теорія: Прелюдія"
 
 #: ../../Other/StatTheory.rst:7
 msgid ""
@@ -1236,7 +1240,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:26
 msgid "On the limits of logical reasoning"
-msgstr ""
+msgstr "На межі логічних міркувань"
 
 #: ../../Other/StatTheory.rst
 msgid ""
@@ -1247,7 +1251,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:39
 msgid "Arthur Wellesley, 1st Duke of Wellington"
-msgstr ""
+msgstr "Артур Веллслі, 1-й герцог Веллінгтона"
 
 #: ../../Other/StatTheory.rst:36
 msgid ""
@@ -1275,7 +1279,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:57
 msgid "Our conversation goes like this:"
-msgstr ""
+msgstr "Наша розмова проходить так:"
 
 #: ../../Other/StatTheory.rst:59
 msgid ""
@@ -1320,7 +1324,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:95
 msgid "And our conversation goes like this:"
-msgstr ""
+msgstr "І наша розмова проходить так:"
 
 #: ../../Other/StatTheory.rst:97
 msgid ""
@@ -1357,7 +1361,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:129
 msgid "and the conversation continues:"
-msgstr ""
+msgstr "і розмова продовжується:"
 
 #: ../../Other/StatTheory.rst:131
 msgid ""
@@ -1392,7 +1396,7 @@ msgstr ""
 
 #: ../../Other/StatTheory.rst:162
 msgid "Learning without making assumptions is a myth"
-msgstr ""
+msgstr "Навчання без припущень – це міт"
 
 #: ../../Other/StatTheory.rst:164
 msgid ""
