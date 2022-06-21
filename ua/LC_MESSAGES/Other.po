@@ -6,23 +6,27 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 17:19+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-21 15:19+0000\n"
+"Last-Translator: Artem <artem@molotov.work>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/other/"
+"uk/>\n"
+"Language: ua\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Other/Prologue.rst:5
 msgid "Prologue"
-msgstr ""
+msgstr "Вступ"
 
 #: ../../Other/Prologue.rst:7
 msgid ""
@@ -32,7 +36,7 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:10
 msgid "Overview"
-msgstr ""
+msgstr "Огляд"
 
 #: ../../Other/Prologue.rst:12
 msgid ""
@@ -51,7 +55,7 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:24
 msgid "Citation"
-msgstr ""
+msgstr "Цитата"
 
 #: ../../Other/Prologue.rst:26
 msgid ""
@@ -74,11 +78,11 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:38
 msgid "Preface"
-msgstr ""
+msgstr "Передмова"
 
 #: ../../Other/Prologue.rst:40
 msgid "**Preface to Version 0.75**"
-msgstr ""
+msgstr "**Передмова до версії 0.75**"
 
 #: ../../Other/Prologue.rst:42
 msgid ""
@@ -97,15 +101,15 @@ msgstr ""
 #: ../../Other/Prologue.rst:53 ../../Other/Prologue.rst:83
 #: ../../Other/Prologue.rst:107
 msgid "*David Foxcroft*"
-msgstr ""
+msgstr "*Девід Фокскрофт*"
 
 #: ../../Other/Prologue.rst:54
 msgid "*February 9th, 2022*"
-msgstr ""
+msgstr "*9 лютого 2022 року*"
 
 #: ../../Other/Prologue.rst:57
 msgid "**Preface to Version 0.70**"
-msgstr ""
+msgstr "**Передмова до версії 0.70**"
 
 #: ../../Other/Prologue.rst:59
 msgid ""
@@ -138,11 +142,11 @@ msgstr ""
 
 #: ../../Other/Prologue.rst:84
 msgid "*February 1st, 2019*"
-msgstr ""
+msgstr "*1 лютого 2019 року*"
 
 #: ../../Other/Prologue.rst:87
 msgid "**Preface to Version 0.65**"
-msgstr ""
+msgstr "**Передмова до версії 0.65**"
 
 #: ../../Other/Prologue.rst:89
 msgid ""
@@ -167,14 +171,17 @@ msgid ""
 " through drafts and provided excellent suggestions and corrections, "
 "particularly Dr David Emery and Kirsty Walter."
 msgstr ""
+"Щодо цієї версії я дуже вдячний за допомогу людям, що прочитали чернетки і "
+"надали чудові пропозиції та виправлення, зокрема доктору Девіду Емері та "
+"Кірсті Волтер."
 
 #: ../../Other/Prologue.rst:108
 msgid "*July 1st, 2018*"
-msgstr ""
+msgstr "*1 липня 2018 року*"
 
 #: ../../Other/Prologue.rst:111
 msgid "**Preface to Version 0.6**"
-msgstr ""
+msgstr "**Передмова до версії 0.6**"
 
 #: ../../Other/Prologue.rst:113
 msgid ""
@@ -221,6 +228,8 @@ msgid ""
 "**tidyverse**... I hear that’s become rather important to R these days "
 ":-)"
 msgstr ""
+"Можливо, хтось хотів би написати версію, яка використовує **tidyverse**... Я "
+"чую, що це стало досить важливим для R в ці дні :-)"
 
 #: ../../Other/Prologue.rst:144
 msgid "Best,"
@@ -1455,10 +1464,3 @@ msgid ""
 "particular statistical technique, and how you can check whether those "
 "assumptions are sensible."
 msgstr ""
-
-
-
-
-
-
-
