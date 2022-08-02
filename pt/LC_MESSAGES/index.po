@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-02 16:33+0100\n"
-"PO-Revision-Date: 2022-07-21 14:14+0000\n"
-"Last-Translator: Rodrigo dos Santos <rodrigo.sabbat@gmail.com>\n"
+"PO-Revision-Date: 2022-08-02 21:18+0000\n"
+"Last-Translator: pringless <rexpress97@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/lsjdocs/start/"
 "pt/>\n"
 "Language: pt\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../index.rst:17
 msgid "Background"
-msgstr ""
+msgstr "Plano de fundo"
 
 #: ../../index.rst:26
 msgid "An introduction to jamovi"
