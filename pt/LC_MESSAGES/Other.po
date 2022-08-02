@@ -6,23 +6,26 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 17:19+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-02 21:18+0000\n"
+"Last-Translator: pringless <rexpress97@gmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/lsjdocs/other/"
+"pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.14-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Other/Prologue.rst:5
 msgid "Prologue"
-msgstr ""
+msgstr "Prólogo"
 
 #: ../../Other/Prologue.rst:7
 msgid ""
@@ -1455,10 +1458,3 @@ msgid ""
 "particular statistical technique, and how you can check whether those "
 "assumptions are sensible."
 msgstr ""
-
-
-
-
-
-
-
