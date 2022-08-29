@@ -6,31 +6,34 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-08-29 17:14+0000\n"
+"Last-Translator: Tom Sawyer <weblate@grymkoll.se>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/lsjdocs/ch05/sv/>"
+"\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
-msgstr ""
+msgstr "Rita diagram"
 
 #: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
-msgstr ""
+msgstr "\"Framför allt visa uppgifterna.\""
 
 #: ../../Ch05/Ch05_Graphics.rst:24
 msgid "Edward Tufte\\ [#]_"
-msgstr ""
+msgstr "Edward Tufte\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics.rst:23
 msgid ""
@@ -98,10 +101,12 @@ msgid ""
 "The origin of this quote is Tufte’s lovely book *The Visual Display of "
 "Quantitative Information*."
 msgstr ""
+"Ursprunget för detta citat är från Tuftes underbara bok \"The Visual Display "
+"of Quantitative Information\"."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:4
 msgid "Histograms"
-msgstr ""
+msgstr "Histogram"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:6
 msgid ""
@@ -520,12 +525,3 @@ msgid ""
 "you’re ready it’s worth taking the time to teach yourself, because it’s a"
 " much more powerful and cleaner system."
 msgstr ""
-
-
-
-
-
-
-
-
-
