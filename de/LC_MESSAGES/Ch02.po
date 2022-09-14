@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-14 11:19+0000\n"
+"PO-Revision-Date: 2022-09-14 12:18+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -510,6 +510,7 @@ msgid "Nominal scale"
 msgstr "Nominalskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:15
+#, fuzzy
 msgid ""
 "A **nominal scale** variable (also referred to as a **categorical** "
 "variable) is one in which there is no particular relationship between the"
@@ -525,8 +526,23 @@ msgid ""
 "the only thing you can say about the different possibilities is that they"
 " are different. That’s it."
 msgstr ""
+"Eine **nominalskalierte Variable** (auch als **kategoriale** Variable "
+"bezeichnet) ist eine Variable, bei der es keine besondere Beziehung zwischen "
+"ihren verschiedenen Ausprägungen gibt. Bei dieser Art von Variablen macht es "
+"keinen Sinn zu sagen, dass eine Ausprägung \"größer\" oder \"besser\" ist "
+"als eine andere, und es macht absolut keinen Sinn, einen Durchschnitt zu "
+"bilden. Klassisches Beispiel hierfür ist die \"Augenfarbe\". Augen können "
+"unter anderem blau, grün oder braun sein, aber keine dieser Ausprägungen ist "
+"\"größer\" als eine andere. Folglich wäre es sehr seltsam, von einer "
+"\"durchschnittlichen Augenfarbe\" zu sprechen. Auch die Variable Geschlecht "
+"ist nominal: die Ausprägung männlich ist nicht besser oder schlechter als "
+"die Ausprägung weiblich. Ebenso wenig Sinn macht es, von einem "
+"\"durchschnittlichen Geschlecht\" zu sprechen. Kurz gesagt, nominalskalierte "
+"Variablen sind solche, bei denen das Einzige, was man über die verschiedenen "
+"Ausprägungen sagen kann, ist, dass sie unterschiedlich sind. Das war's."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:29
+#, fuzzy
 msgid ""
 "Let’s take a slightly closer look at this. Suppose I was doing research "
 "on how people commute to and from work. One variable I would have to "
@@ -536,49 +552,66 @@ msgid ""
 "these four are the only possibilities. Then imagine that I ask 100 people"
 " how they got to work today, with this result:"
 msgstr ""
+"Schauen wir uns das einmal etwas genauer an. Nehmen wir an, ich würde "
+"untersuchen, wie Personen zur Arbeit pendeln. Eine Variable, die ich messen "
+"müsste, wäre die Art des Verkehrsmittels, das die Personen für ihren "
+"Arbeitsweg nutzen. Diese \"Verkehrsmittelvariable“ könnte eine ganze Reihe "
+"möglicher Werte annehmen, darunter: \"Zug\", \"Bus\", \"Auto\", \"Fahrrad\". "
+"Für den Moment nehmen wir einmal an, dass es nur diese vier Möglichkeiten "
+"gibt. Stellen Sie sich nun vor, ich fragte 100 Personen, wie sie heute zur "
+"Arbeit gekommen sind und würde dieses Ergebnis erhalten:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:38 ../../Ch02/Ch02_StudyDesign_2.rst:57
+#, fuzzy
 msgid "Transportation"
-msgstr ""
+msgstr "Verhersmittel"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:38 ../../Ch02/Ch02_StudyDesign_2.rst:57
+#, fuzzy
 msgid "Number of people"
-msgstr ""
+msgstr "Anzahl der Personen"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:40 ../../Ch02/Ch02_StudyDesign_2.rst:61
+#, fuzzy
 msgid "Train"
-msgstr ""
+msgstr "Zug"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:40 ../../Ch02/Ch02_StudyDesign_2.rst:61
 msgid "12"
 msgstr "12"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:42 ../../Ch02/Ch02_StudyDesign_2.rst:65
+#, fuzzy
 msgid "Bus"
-msgstr ""
+msgstr "Bus"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:42 ../../Ch02/Ch02_StudyDesign_2.rst:65
 msgid "30"
 msgstr "30"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:44 ../../Ch02/Ch02_StudyDesign_2.rst:59
+#, fuzzy
 msgid "Car"
-msgstr ""
+msgstr "Auto"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:44 ../../Ch02/Ch02_StudyDesign_2.rst:59
+#, fuzzy
 msgid "48"
 msgstr "48"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:46 ../../Ch02/Ch02_StudyDesign_2.rst:63
+#, fuzzy
 msgid "Bicycle"
-msgstr ""
+msgstr "Fahrrad"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:46 ../../Ch02/Ch02_StudyDesign_2.rst:63
 #: ../../Ch02/Ch02_StudyDesign_2.rst:119
+#, fuzzy
 msgid "10"
 msgstr "10"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:49
+#, fuzzy
 msgid ""
 "So, what’s the average transportation type? Obviously, the answer here is"
 " that there isn’t one. It’s a silly question to ask. You can say that "
@@ -587,14 +620,23 @@ msgid ""
 "order in which I list the options isn’t very interesting. I could have "
 "chosen to display the data like this…"
 msgstr ""
+"Nun, was ist also das durchschnittliche Verkehrsmittel? Offensichtlich ist "
+"die richtige Antwort hier, dass es keines gibt. Allein eine solche Frage zu "
+"stellen macht kaum Sinn. Man kann zwar sagen, dass das Auto das beliebteste "
+"und die Bahn das unbeliebteste Verkehrsmittel ist, das war´s aber auch "
+"schon. Auch fällt auf, dass die Rangfolge, in der ich die möglichen "
+"Verkehrsmittel aufliste, ist nicht besonders interessant ist. Ich hätte die "
+"Daten auch so darstellen können…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:68
+#, fuzzy
 msgid "…and nothing really changes."
-msgstr ""
+msgstr "…und es würde sich nicht wirklich etwas ändern."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:71
+#, fuzzy
 msgid "Ordinal scale"
-msgstr ""
+msgstr "Ordinalskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:73
 msgid ""
