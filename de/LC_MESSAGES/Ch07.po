@@ -11,15 +11,16 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-03-31 13:28+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-09-14 12:18+0000\n"
+"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/>"
+"\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/lsjdocs/ch07/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch07/Ch07_Probability.rst:4
@@ -354,6 +355,7 @@ msgid "9"
 msgstr "9"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:73
+#, fuzzy
 msgid "10"
 msgstr "10"
 
@@ -1614,4 +1616,3 @@ msgid ""
 "*t*-test it really helps to have a sense of what a *t*-distribution "
 "actually looks like. You get the idea, I hope."
 msgstr ""
-
