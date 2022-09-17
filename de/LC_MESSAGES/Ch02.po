@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-17 15:21+0000\n"
+"PO-Revision-Date: 2022-09-17 16:17+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -1034,11 +1034,15 @@ msgstr ""
 "nominalskalierte Variable“ meinen, was ziemlich unglücklich ist."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:235
+#, fuzzy
 msgid ""
 "The relationship between the scales of measurement and the discrete / "
 "continuity distinction. Cells with a tick mark correspond to things that "
 "are possible."
 msgstr ""
+"Die Beziehung zwischen den Skalenniveaus und der Unterscheidung zwischen "
+"diskret und kontinuierlich. Zellen mit einem Häkchen entsprechen "
+"Kombinationen, die möglich sind."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
 msgid "continuous"
