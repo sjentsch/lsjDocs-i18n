@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-14 12:18+0000\n"
+"PO-Revision-Date: 2022-09-19 08:18+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch07/Ch07_Probability.rst:4
@@ -1220,8 +1220,9 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:250
+#, fuzzy
 msgid "continuous"
-msgstr "continuous"
+msgstr "Kontinuierlich"
 
 #: ../../Ch07/Ch07_Probability_5.rst:72
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
