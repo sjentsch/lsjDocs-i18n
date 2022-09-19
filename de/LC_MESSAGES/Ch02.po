@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-17 16:17+0000\n"
+"PO-Revision-Date: 2022-09-19 08:18+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
@@ -1045,16 +1045,19 @@ msgstr ""
 "Kombinationen, die möglich sind."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
+#, fuzzy
 msgid "continuous"
-msgstr "continuous"
+msgstr "Kontinuierlich"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
+#, fuzzy
 msgid "discrete"
-msgstr ""
+msgstr "Diskret"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:243
+#, fuzzy
 msgid "**nominal**"
-msgstr ""
+msgstr "Nominal"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:243 ../../Ch02/Ch02_StudyDesign_2.rst:245
 #: ../../Ch02/Ch02_StudyDesign_2.rst:247 ../../Ch02/Ch02_StudyDesign_2.rst:249
@@ -1062,16 +1065,19 @@ msgid "✓"
 msgstr "✓"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:245
+#, fuzzy
 msgid "**ordinal**"
-msgstr ""
+msgstr "Ordinal"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:247
+#, fuzzy
 msgid "**interval**"
-msgstr ""
+msgstr "Interval"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:249
+#, fuzzy
 msgid "**ratio**"
-msgstr ""
+msgstr "Verhältnis"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:254
 msgid "Some complexities"
