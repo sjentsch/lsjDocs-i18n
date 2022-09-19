@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-14 12:18+0000\n"
+"PO-Revision-Date: 2022-09-19 08:18+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -36,8 +36,9 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:417
+#, fuzzy
 msgid "continuous"
-msgstr "continuous"
+msgstr "Kontinuierlich"
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
 msgid "Correlations"
