@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-19 09:19+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-09-23 18:18+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -394,7 +394,6 @@ msgstr ""
 "verbalen Antworten ausdehnen?"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:133
-#, fuzzy
 msgid ""
 "Operationalisation is a tricky business, and there’s no “one, true way” "
 "to do it. The way in which you choose to operationalise the informal "
@@ -407,12 +406,12 @@ msgid ""
 "there are some aspects to it that are pretty general."
 msgstr ""
 "Operationalisierung ist eine knifflige Angelegenheit, und es gibt dafür "
-"nicht den \"einzigen, wahren Weg\". Die Art und Weise, wie Sie das "
-"informelle Konzept des \"Alters\" oder \"Geschlechts\" in eine formale "
-"Messung operationalisieren, hängt davon ab, wofür Sie die Messung verwenden "
-"wollen. Oftmals werden Sie feststellen, dass die Gemeinschaft der "
-"WissenschaftlerInnen, die in Ihrem Bereich arbeiten, einige ziemlich gut "
-"etablierte Ideen haben, wie man vorgehen sollte. Mit anderen Worten: Die "
+"nicht den „einzigen, wahren Weg“. Die Art und Weise, wie Sie das informelle "
+"Konzept des „Alters“ oder „Geschlechts“ in eine formale Messung "
+"operationalisieren, hängt davon ab, wofür Sie die Messung verwenden wollen. "
+"Oftmals werden Sie feststellen, dass die Gemeinschaft der "
+"WissenschaftlerInnen, die in Ihrem Bereich arbeiten, bestimmte Vorstellungen "
+"darüber haben, wie man vorgehen sollte. Mit anderen Worten: Die "
 "Operationalisierung muss von Fall zu Fall durchdacht werden. Auch wenn es "
 "viele Fragen gibt, die für jedes einzelne Forschungsprojekt spezifisch sind, "
 "gibt es doch einige Aspekte, die ziemlich allgemein sind."
@@ -450,20 +449,18 @@ msgstr ""
 "Beispiele dafür sind Umfragen, Verhaltensbeobachtungen oder ein Gehirnscans."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:157
-#, fuzzy
 msgid ""
 "**An operationalisation**. The term “operationalisation” refers to the "
 "logical connection between the measure and the theoretical construct, or "
 "to the process by which we try to derive a measure from a theoretical "
 "construct."
 msgstr ""
-"**Die Operationalisierung**. Der Begriff \"Operationalisierung\" bezieht "
-"sich auf die logische Verbindung zwischen der Messmethode und dem "
-"theoretischen Konstrukt oder auf den Prozess, mit dem wir versuchen, eine "
-"Messmethode aus einem theoretischen Konstrukt abzuleiten."
+"**Die Operationalisierung**. Der Begriff „Operationalisierung“ bezieht sich "
+"auf die logische Verbindung zwischen der Messmethode und dem theoretischen "
+"Konstrukt oder auf den Prozess, mit dem wir versuchen, eine Messmethode aus "
+"einem theoretischen Konstrukt abzuleiten."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:162
-#, fuzzy
 msgid ""
 "**A variable**. Finally, a new term. A variable is what we end up with "
 "when we apply our measure to something in the world. That is, variables "
@@ -472,8 +469,7 @@ msgstr ""
 "**Die Variable**. Ein neuer Begriff. Die Variable bezeichnet das, was wir am "
 "Ende erhalten, wenn wir unsere Messung auf etwas in der Welt anwenden. Das "
 "heißt, die Variablen sind die eigentlichen \"Daten\", die wir in unseren "
-"Datensätzen vorfinden.\n"
-"."
+"Datensätzen vorfinden."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:166
 msgid ""
@@ -489,7 +485,6 @@ msgid "Scales of measurement"
 msgstr "Skalen der Messung"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:6
-#, fuzzy
 msgid ""
 "As the previous section indicates, the outcome of a psychological "
 "measurement is called a variable. But not all variables are of the same "
@@ -501,16 +496,14 @@ msgstr ""
 "psychologischen Messung als Variable bezeichnet. Jedoch sind nicht alle "
 "Variablen vom gleichen qualitativen Typ, weshalb es sinnvoll ist zu "
 "verstehen, welche Typen es gibt. Ein sehr nützliches Konzept zur "
-"Unterscheidung zwischen den verschiedenen Arten von Variablen sind die so "
-"genannten **Skalenniveaus**."
+"Unterscheidung zwischen den verschiedenen Arten von Variablen sind die "
+"sogenannten **Skalenniveaus**."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:13
-#, fuzzy
 msgid "Nominal scale"
 msgstr "Nominalskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:15
-#, fuzzy
 msgid ""
 "A **nominal scale** variable (also referred to as a **categorical** "
 "variable) is one in which there is no particular relationship between the"
@@ -529,20 +522,19 @@ msgstr ""
 "Eine **nominalskalierte Variable** (auch als **kategoriale** Variable "
 "bezeichnet) ist eine Variable, bei der es keine besondere Beziehung zwischen "
 "ihren verschiedenen Ausprägungen gibt. Bei dieser Art von Variablen macht es "
-"keinen Sinn zu sagen, dass eine Ausprägung \"größer\" oder \"besser\" ist "
-"als eine andere, und es macht absolut keinen Sinn, einen Durchschnitt zu "
-"bilden. Klassisches Beispiel hierfür ist die \"Augenfarbe\". Augen können "
-"unter anderem blau, grün oder braun sein, aber keine dieser Ausprägungen ist "
-"\"größer\" als eine andere. Folglich wäre es sehr seltsam, von einer "
-"\"durchschnittlichen Augenfarbe\" zu sprechen. Auch die Variable Geschlecht "
-"ist nominal: die Ausprägung männlich ist nicht besser oder schlechter als "
-"die Ausprägung weiblich. Ebenso wenig Sinn macht es, von einem "
-"\"durchschnittlichen Geschlecht\" zu sprechen. Kurz gesagt, nominalskalierte "
-"Variablen sind solche, bei denen das Einzige, was man über die verschiedenen "
+"keinen Sinn zu sagen, dass eine Ausprägung „größer“ oder „besser“ ist als "
+"eine andere, und es macht absolut keinen Sinn, einen Durchschnitt zu bilden. "
+"Klassisches Beispiel hierfür ist die Augenfarbe. Augen können unter anderem "
+"blau, grün oder braun sein, aber keine dieser Ausprägungen ist „größer“ als "
+"eine andere. Folglich wäre es sehr seltsam, von einer „durchschnittlichen "
+"Augenfarbe“ zu sprechen. Auch die Variable Geschlecht ist nominal: Die "
+"Ausprägung männlich ist nicht besser oder schlechter als die Ausprägung "
+"weiblich. Ebenso wenig Sinn macht es, von einem „durchschnittlichen "
+"Geschlecht„ zu sprechen. Kurz gesagt sind nominalskalierte Variablen dadurch "
+"charakterisiert, dass das Einzige, was man über die verschiedenen "
 "Ausprägungen sagen kann, ist, dass sie unterschiedlich sind. Das war's."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:29
-#, fuzzy
 msgid ""
 "Let’s take a slightly closer look at this. Suppose I was doing research "
 "on how people commute to and from work. One variable I would have to "
@@ -555,24 +547,21 @@ msgstr ""
 "Schauen wir uns das einmal etwas genauer an. Nehmen wir an, ich würde "
 "untersuchen, wie Personen zur Arbeit pendeln. Eine Variable, die ich messen "
 "müsste, wäre die Art des Verkehrsmittels, das die Personen für ihren "
-"Arbeitsweg nutzen. Diese \"Verkehrsmittelvariable“ könnte eine ganze Reihe "
-"möglicher Werte annehmen, darunter: \"Zug\", \"Bus\", \"Auto\", \"Fahrrad\". "
-"Für den Moment nehmen wir einmal an, dass es nur diese vier Möglichkeiten "
-"gibt. Stellen Sie sich nun vor, ich fragte 100 Personen, wie sie heute zur "
-"Arbeit gekommen sind und würde dieses Ergebnis erhalten:"
+"Arbeitsweg nutzen. Diese „Verkehrsmittelvariable“ könnte eine ganze Reihe "
+"möglicher Werte annehmen, darunter: „Zug“, „Bus“, „Auto“, „Fahrrad“. Für den "
+"Moment nehmen wir einmal an, dass es nur diese vier Möglichkeiten gibt. "
+"Stellen Sie sich nun vor, ich fragte 100 Personen, wie sie heute zur Arbeit "
+"gekommen sind und würde dieses Ergebnis erhalten:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:38 ../../Ch02/Ch02_StudyDesign_2.rst:57
-#, fuzzy
 msgid "Transportation"
-msgstr "Verhersmittel"
+msgstr "Verkehrsmittel"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:38 ../../Ch02/Ch02_StudyDesign_2.rst:57
-#, fuzzy
 msgid "Number of people"
 msgstr "Anzahl der Personen"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:40 ../../Ch02/Ch02_StudyDesign_2.rst:61
-#, fuzzy
 msgid "Train"
 msgstr "Zug"
 
@@ -581,7 +570,6 @@ msgid "12"
 msgstr "12"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:42 ../../Ch02/Ch02_StudyDesign_2.rst:65
-#, fuzzy
 msgid "Bus"
 msgstr "Bus"
 
@@ -590,28 +578,23 @@ msgid "30"
 msgstr "30"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:44 ../../Ch02/Ch02_StudyDesign_2.rst:59
-#, fuzzy
 msgid "Car"
 msgstr "Auto"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:44 ../../Ch02/Ch02_StudyDesign_2.rst:59
-#, fuzzy
 msgid "48"
 msgstr "48"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:46 ../../Ch02/Ch02_StudyDesign_2.rst:63
-#, fuzzy
 msgid "Bicycle"
 msgstr "Fahrrad"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:46 ../../Ch02/Ch02_StudyDesign_2.rst:63
 #: ../../Ch02/Ch02_StudyDesign_2.rst:119
-#, fuzzy
 msgid "10"
 msgstr "10"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:49
-#, fuzzy
 msgid ""
 "So, what’s the average transportation type? Obviously, the answer here is"
 " that there isn’t one. It’s a silly question to ask. You can say that "
@@ -623,23 +606,20 @@ msgstr ""
 "Nun, was ist also das durchschnittliche Verkehrsmittel? Offensichtlich ist "
 "die richtige Antwort hier, dass es keines gibt. Allein eine solche Frage zu "
 "stellen macht kaum Sinn. Man kann zwar sagen, dass das Auto das beliebteste "
-"und die Bahn das unbeliebteste Verkehrsmittel ist, das war´s aber auch "
+"und die Bahn das unbeliebteste Verkehrsmittel ist, das war’s aber auch "
 "schon. Auch fällt auf, dass die Rangfolge, in der ich die möglichen "
 "Verkehrsmittel aufliste, ist nicht besonders interessant ist. Ich hätte die "
 "Daten auch so darstellen können…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:68
-#, fuzzy
 msgid "…and nothing really changes."
 msgstr "…und es würde sich nicht wirklich etwas ändern."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:71
-#, fuzzy
 msgid "Ordinal scale"
 msgstr "Ordinalskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:73
-#, fuzzy
 msgid ""
 "**Ordinal scale** variables have a bit more structure than nominal scale "
 "variables, but not by a lot. An ordinal scale variable is one in which "
@@ -656,11 +636,11 @@ msgstr ""
 "ordinalskalierte Variable ist eine Variable, bei der es einen natürlichen, "
 "sinnvollen Weg gibt, die verschiedenen Ausprägungen der Variable zu ordnen. "
 "Mehr kann man jedoch nicht tun. Gängiges Beispiel für eine ordinalskalierte "
-"Variable ist die \"Platzierung in einem Wettrennen\". Man *kann* zwar "
-"durchaus sagen, dass die Person, die als erstes ins Ziel kam, schneller war "
-"als die Person, die als zweites ins Ziel kam, man *weiß* jedoch nicht, wie "
-"viel schneller. Folglich wissen wir, dass der 1. Platz > dem 2. Platz ist, "
-"und wir wissen, dass der 2. Platz > dem 3. Platz ist, allerdings könnte der "
+"Variable ist die „Platzierung in einem Wettrennen“. Man *kann* zwar durchaus "
+"sagen, dass die Person, die als Erstes ins Ziel kam, schneller war als die "
+"Person, die als Zweites ins Ziel kam, man *weiß* jedoch nicht, wie viel "
+"schneller. Folglich wissen wir, dass der 1. Platz > dem 2. Platz ist, und "
+"wir wissen, dass der 2. Platz > dem 3. Platz ist, allerdings könnte der "
 "Unterschied zwischen dem ersten und zweiten Platz viel größer sein als der "
 "Unterschied zwischen dem Zweiten und Dritten."
 
@@ -716,12 +696,10 @@ msgstr ""
 "Optionen in dieser Weise ufzulisten…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:107
-#, fuzzy
 msgid "…because it seems to violate the natural “structure” to the question."
-msgstr "...weil so die natürliche \"Struktur\" der Frage verletzt scheint."
+msgstr "...weil so die natürliche „Struktur“ der Frage verletzt scheint."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:109
-#, fuzzy
 msgid ""
 "So, let’s suppose I asked 100 people these questions, and got the "
 "following answers:"
@@ -730,17 +708,14 @@ msgstr ""
 "folgende Antworten erhalten:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:113
-#, fuzzy
 msgid "Response"
 msgstr "Antwort"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:113
-#, fuzzy
 msgid "Number"
 msgstr "Anzahl"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:115
-#, fuzzy
 msgid "Temperatures are rising because of human activity (1)"
 msgstr "Die Temperaturen steigen aufgrund menschlicher Aktivitäten (1)"
 
@@ -749,16 +724,14 @@ msgid "51"
 msgstr "51"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:117
-#, fuzzy
 msgid "Temperatures are rising but we don’t know why (2)"
-msgstr "Die Temperaturen steigen, aber wir wissen nicht warum (2)"
+msgstr "Die Temperaturen steigen, aber wir wissen nicht, warum (2)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:117
 msgid "20"
 msgstr "20"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:119
-#, fuzzy
 msgid "Temperatures are rising but not because of humans (3)"
 msgstr "Die Temperaturen steigen, aber nicht wegen des Menschen (3)"
 
@@ -771,7 +744,6 @@ msgid "19"
 msgstr "19"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:124
-#, fuzzy
 msgid ""
 "When analysing these data it seems quite reasonable to try to group (1), "
 "\\(2) and (3) together, and say that 81 out of 100 people were willing to"
@@ -795,7 +767,6 @@ msgstr ""
 "zusammenzufassen."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:134
-#, fuzzy
 msgid ""
 "That said, notice that while we *can* use the natural ordering of these "
 "items to construct sensible groupings, what we *can’t* do is average "
@@ -806,17 +777,15 @@ msgstr ""
 "Darüber hinaus ist zu beachten, dass wir zwar die natürliche Reihenfolge "
 "dieser Items verwenden *können*, um sinnvolle Gruppierungen zu bilden, wir "
 "jedoch *keinen* Durchschnitt bilden können. In meinem einfachen Beispiel "
-"hier wäre die \"durchschnittliche\" Antwort auf die Frage 1,97. Wenn Sie mir "
+"hier wäre die „durchschnittliche“ Antwort auf die Frage 1,97. Wenn Sie mir "
 "sagen können, was das bedeutet, würde ich es gerne wissen, denn mir kommt es "
 "wie Kauderwelsch vor!"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:141
-#, fuzzy
 msgid "Interval scale"
 msgstr "Intervallskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:143
-#, fuzzy
 msgid ""
 "In contrast to nominal and ordinal scale variables, **interval scale** "
 "and ratio scale variables are variables for which the numerical value is "
@@ -829,11 +798,11 @@ msgid ""
 "same* as the 3° difference between 7° and 10°. In short, addition and "
 "subtraction are meaningful for interval scale variables.\\ [#]_"
 msgstr ""
-"Im Gegensatz zur Nominal- und Ordinalskala handelt es sich bei der "
-"**Intervall-** und Verhältnisskala um Variablen, bei denen der numerische "
-"Wert tatsächlich aussagekräftig ist. Bei der Intervallskala sind die "
+"Im Gegensatz zu Nominal- und Ordinalskalen handelt es sich bei **Intervall-**"
+" und Verhältnisskalen um Variablen, bei denen der numerische Wert "
+"tatsächlich aussagekräftig ist. Bei der Intervallskala sind die "
 "*Unterschiede* zwischen den Zahlen interpretierbar, aber die Variable hat "
-"keinen \"natürlichen\" Nullpunkt. Ein gutes Beispiel für eine "
+"keinen „natürlichen“ Nullpunkt. Ein gutes Beispiel für eine "
 "intervallskalierte Variable ist die Messung der Temperatur in Grad Celsius. "
 "Wenn es zum Beispiel gestern 15° und heute 18° waren, dann sind die 3° "
 "Unterschied zwischen den beiden Werten tatsächlich aussagekräftig. Außerdem "
@@ -842,7 +811,6 @@ msgstr ""
 "intervallskalierte Variablen sinnvoll."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:154
-#, fuzzy
 msgid ""
 "However, notice that the 0° does not mean “no temperature at all”. It "
 "actually means “the temperature at which water freezes”, which is pretty "
@@ -851,15 +819,14 @@ msgid ""
 "10°, just as it is weird and meaningless to try to claim that 20° is "
 "negative two times as hot as -10°."
 msgstr ""
-"Jedoch ist zu beachten, dass 0° nicht \"überhaupt keine Temperatur\" "
-"bedeutet. 0° bedeutet vielmehr \"die Temperatur, bei der Wasser gefriert\", "
-"was ziemlich willkürlich ist. Folglich wäre es sinnlos, zu versuchen, "
-"Temperaturen zu multiplizieren und zu dividieren. Es ist falsch zu sagen, "
-"dass 20° *zweimal so heiß* ist wie 10°, genauso wie es seltsam und sinnlos "
-"ist zu behaupten, 20° sei minus zweimal so heiß wie -10°."
+"Jedoch ist zu beachten, dass 0° nicht „überhaupt keine Temperatur“ bedeutet. "
+"0° bedeutet vielmehr „die Temperatur, bei der Wasser gefriert“, was ziemlich "
+"willkürlich ist. Folglich wäre es sinnlos, zu versuchen, Temperaturen zu "
+"multiplizieren und zu dividieren. Es ist falsch zu sagen, dass 20° *zweimal "
+"so heiß* ist wie 10°, genauso wie es seltsam und sinnlos ist zu behaupten, "
+"20° sei minus zweimal so heiß wie -10°."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:160
-#, fuzzy
 msgid ""
 "Again, lets look at a more psychological example. Suppose I’m interested "
 "in looking at how the attitudes of first-year university students have "
@@ -877,16 +844,14 @@ msgstr ""
 "intervallskalierte Variable. Ein Student, der 2003 angefangen hat zu "
 "studieren, hat 5 Jahre früher angefangen als ein Student, der sein Studium "
 "2008 begonnen hat. Allerdings wäre es ziemlich töricht, wenn ich 2008 durch "
-"2003 teilen und sagen würde, dass der zweite Student \"1,0024 mal später\" "
-"als der erste Student angefangen hat. Dies wäre völlig sinnlos."
+"2003 teilen und sagen würde, dass der zweite Student „1,0024 mal später“ als "
+"der erste Student angefangen hat. Dies wäre völlig sinnlos."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:170
-#, fuzzy
 msgid "Ratio scale"
 msgstr "Verhältnisskala"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:172
-#, fuzzy
 msgid ""
 "The fourth and final type of variable to consider is a **ratio scale** "
 "variable, in which zero really means zero, and it’s okay to multiply and "
@@ -905,7 +870,7 @@ msgid ""
 msgstr ""
 "Die vierte und letzte Variablenart, die zu beachten ist, sind "
 "verhältnisskalierte Variablen, bei denen Null tatsächlich Null bedeutet und "
-"es okay ist die Werte zu multiplizieren und zu dividieren. Ein gutes "
+"es okay ist, Werte zu multiplizieren und zu dividieren. Ein gutes "
 "psychologisches Beispiel für eine verhältnisskalierte Variable ist die "
 "Reaktionszeit (RT). Bei vielen Aufgaben ist es üblich, die Zeit zu messen, "
 "die jemand braucht, um ein Problem zu lösen oder eine Frage zu beantworten, "
@@ -916,16 +881,14 @@ msgstr ""
 "Sekunden länger gebraucht als Alan. Allerdings machen hier auch die "
 "Operationen Multiplikation und Division Sinn: Ben brauchte für die "
 "Beantwortung der Frage 3,1 / 2,3 = 1,35 mal so lange wie Alan. Dies ist "
-"möglich, da bei verhältnisskalierten Variablen wie RT \"null Sekunden\" "
-"tatsächlich \"überhaupt keine Zeit\" bedeutet."
+"möglich, da bei verhältnisskalierten Variablen wie RT „null Sekunden“ "
+"tatsächlich „überhaupt keine Zeit“ bedeutet."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:188
-#, fuzzy
 msgid "Continuous versus discrete variables"
 msgstr "Kontinuierliche versus diskrete Variablen"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:190
-#, fuzzy
 msgid ""
 "There’s a second kind of distinction that you need to be aware of, "
 "regarding what types of variables you can run into. This is the "
@@ -938,7 +901,6 @@ msgstr ""
 "Diese lautet wie folgt:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:195
-#, fuzzy
 msgid ""
 "A **continuous variable** is one in which, for any two values that you "
 "can think of, it’s always logically possible to have another value in "
@@ -948,7 +910,6 @@ msgstr ""
 "beliebigen Werten immer noch einen logisch sinnvollen Wert gibt."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:199
-#, fuzzy
 msgid ""
 "A **discrete variable** is, in effect, a variable that isn’t continuous. "
 "For a discrete variable it’s sometimes the case that there’s nothing in "
@@ -959,7 +920,6 @@ msgstr ""
 "nichts dazwischen gibt."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:203
-#, fuzzy
 msgid ""
 "These definitions probably seem a bit abstract, but they’re pretty simple"
 " once you see some examples. For instance, response time is continuous. "
@@ -979,13 +939,12 @@ msgstr ""
 "Camerons Antwortzeit dazwischen, wenn er 3,0 Sekunden braucht. Natürlich "
 "wäre es auch möglich, dass David 3,031 Sekunden für seine Antwort benötigt, "
 "was bedeutet, dass seine RT zwischen der von Cameron und der von Alan liegen "
-"würde. Auch, wenn es in der Praxis vielleicht nicht immer möglich ist "
+"würde. Auch, wenn es in der Praxis vielleicht nicht immer möglich ist, "
 "Reaktionszeiten so genau zu messen, so wäre es doch im Prinzip möglich. Da "
 "wir immer einen weiteren Wert zwischen zwei beliebigen Reaktionszeiten "
 "finden können, betrachten wir die RT als ein kontinuierliches Maß."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:214
-#, fuzzy
 msgid ""
 "Discrete variables occur when this rule is violated. For example, nominal"
 " scale variables are always discrete. There isn’t a type of "
@@ -1020,7 +979,7 @@ msgstr ""
 "Variablen können beides sein. Wie wir oben gesehen haben, ist die "
 "Reaktionszeit (eine verhältnisskalierte Variable) kontinuierlich. Die "
 "Temperatur in Grad Celsius (eine intervallskalierte Variable) ist ebenfalls "
-"kontinuierlich. Jedoch ist das Jahr in dem Sie Ihr Studium begonnen haben ("
+"kontinuierlich. Jedoch ist das Jahr, in dem Sie Ihr Studium begonnen haben ("
 "eine intervallskalierte Variable) diskret. Es gibt kein Jahr zwischen 2002 "
 "und 2003. Die Anzahl der Fragen, die Sie in einem Richtig-oder-Falsch-Test, "
 "als richtig ankreuzen (eine verhältnisskalierte Variable) ist ebenfalls "
@@ -1034,7 +993,6 @@ msgstr ""
 "nominalskalierte Variable“ meinen, was ziemlich unglücklich ist."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:235
-#, fuzzy
 msgid ""
 "The relationship between the scales of measurement and the discrete / "
 "continuity distinction. Cells with a tick mark correspond to things that "
@@ -1045,19 +1003,16 @@ msgstr ""
 "Kombinationen, die möglich sind."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
-#, fuzzy
 msgid "continuous"
 msgstr "Kontinuierlich"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:241
-#, fuzzy
 msgid "discrete"
 msgstr "Diskret"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:243
-#, fuzzy
 msgid "**nominal**"
-msgstr "Nominal"
+msgstr "**Nominal**"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:243 ../../Ch02/Ch02_StudyDesign_2.rst:245
 #: ../../Ch02/Ch02_StudyDesign_2.rst:247 ../../Ch02/Ch02_StudyDesign_2.rst:249
@@ -1065,27 +1020,22 @@ msgid "✓"
 msgstr "✓"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:245
-#, fuzzy
 msgid "**ordinal**"
-msgstr "Ordinal"
+msgstr "**Ordinal**"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:247
-#, fuzzy
 msgid "**interval**"
-msgstr "Interval"
+msgstr "**Intervall**"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:249
-#, fuzzy
 msgid "**ratio**"
-msgstr "Verhältnis"
+msgstr "**Verhältnis**"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:254
-#, fuzzy
 msgid "Some complexities"
 msgstr "Ein paar komplexere Sachverhalte"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:256
-#, fuzzy
 msgid ""
 "Okay, I know you’re going to be shocked to hear this, but the real world "
 "is much messier than this little classification scheme suggests. Very few"
