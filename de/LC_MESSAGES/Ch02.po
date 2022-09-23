@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
 "PO-Revision-Date: 2022-09-23 18:18+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -1055,7 +1055,6 @@ msgstr ""
 "verschiedene Variablen unterschiedlich behandeln sollten. Mehr nicht."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:265
-#, fuzzy
 msgid ""
 "So let’s take a classic example, maybe *the* classic example, of a "
 "psychological measurement tool: the **Likert scale**. The humble Likert "
@@ -1081,11 +1080,11 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:275
 msgid "and then the options presented to the participant are these:"
-msgstr ""
+msgstr "und dann werden dem Teilnehmer die folgenden Optionen angeboten:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(1) Strongly disagree"
-msgstr ""
+msgstr "(1) Stimme überhaupt nicht zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(2) Disagree"
