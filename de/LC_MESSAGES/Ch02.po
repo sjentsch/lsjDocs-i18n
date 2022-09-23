@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-23 18:18+0000\n"
+"PO-Revision-Date: 2022-09-23 18:34+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -1088,19 +1088,19 @@ msgstr "(1) Stimme überhaupt nicht zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(2) Disagree"
-msgstr ""
+msgstr "(2) Stimme nicht zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(3) Neither agree nor disagree"
-msgstr ""
+msgstr "(3) Stimme weder zu noch nicht zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(4) Agree"
-msgstr ""
+msgstr "(4) Stimme zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(5) Strongly agree"
-msgstr ""
+msgstr "(5) Stimme voll und ganz zu"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:283
 msgid ""
@@ -1111,18 +1111,24 @@ msgid ""
 "described. This is a perfectly good example of a 5-point Likert scale "
 "too:"
 msgstr ""
+"Diese Reihe von Items ist ein Beispiel für eine 5-Punkte-Likert-Skala, bei "
+"der Personen gebeten werden, zwischen mehreren (in diesem Fall 5) klar "
+"geordneten Möglichkeiten zu wählen, wobei in der Regel jeweils ein verbaler "
+"Deskriptor angegeben wird. Es ist jedoch nicht notwendig, dass alle Items "
+"explizit beschrieben werden. Auch dies ist ein sehr gutes Beispiel für eine 5"
+"-Punkte-Likert-Skala:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(2)"
-msgstr ""
+msgstr "(2)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(3)"
-msgstr ""
+msgstr "(3)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "(4)"
-msgstr ""
+msgstr "(4)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
 msgid ""
@@ -1132,6 +1138,11 @@ msgid ""
 "the items are ordered; and they’re not ratio scale either, since there’s "
 "no natural zero."
 msgstr ""
+"Likert-Skalen sind sehr praktische, wenn auch etwas begrenzte Instrumente. "
+"Die Frage ist, um welche Art von Variablen es sich handelt. Offensichtlich "
+"sind sie diskret, da man keine Antwort von 2,5 geben kann. Sie sind "
+"offensichtlich keine Nominalskala, da die Items geordnet sind; und sie sind "
+"auch keine Verhältnisskala, da es keine natürliche Null gibt."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:302
 msgid ""
@@ -1148,6 +1159,20 @@ msgid ""
 "scale.\\ [#]_ It’s not interval scale, but in practice it’s close enough "
 "that we usually think of it as being **quasi-interval scale**."
 msgstr ""
+"Aber handelt es sich dabei um Ordinalskalen oder Intervallskalen? Ein "
+"Argument besagt, dass wir nicht wirklich beweisen können, dass der "
+"Unterschied zwischen „stimme voll und ganz zu“ und „stimme zu“ gleich groß "
+"ist wie der Unterschied zwischen „stimme zu“ und „stimme weder zu noch nicht "
+"zu“. In der Tat ist es im täglichen Leben ziemlich offensichtlich, dass sie "
+"überhaupt nicht gleich sind. Dies legt nahe, dass wir Likert-Skalen als "
+"Ordinalvariablen behandeln sollten. Andererseits scheinen die meisten "
+"Teilnehmer in der Praxis den Teil „auf einer Skala von 1 bis 5“ ziemlich "
+"ernst zu nehmen, und sie neigen dazu, so zu tun, als ob die Unterschiede "
+"zwischen den fünf Antwortmöglichkeiten einander ziemlich ähnlich wären. "
+"Infolgedessen behandeln viele Forscher die Daten der Likert-Skala als "
+"Intervallskala.\\ [#]_ Es handelt sich nicht um eine Intervallskala, aber in "
+"der Praxis ist sie nahe genug, dass wir sie gewöhnlich als **Quasi-"
+"Intervallskala** betrachten."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:318
 msgid ""
@@ -1158,14 +1183,20 @@ msgid ""
 "temperature isn’t actually an interval scale. But it still makes a cute "
 "example so I’m going to ignore this little inconvenient truth."
 msgstr ""
+"Ich wurde von Lesern, die mehr über Physik wissen als ich, darüber "
+"informiert, dass die Temperatur nicht unbedingt eine Intervallskala ist, da "
+"die Energiemenge, die erforderlich ist, um etwas um 3° zu erwärmen, von der "
+"aktuellen Temperatur abhängt. In dem Sinne, der für Physiker wichtig ist, "
+"ist die Temperatur also keine Intervallskala. Aber es ist trotzdem ein "
+"nettes Beispiel, also werde ich diese kleine unbequeme Wahrheit ignorieren."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
 msgid "Ah, psychology …never an easy answer to anything!"
-msgstr ""
+msgstr "Ah, Psychologie ... nie eine einfache Antwort!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:4
 msgid "Assessing the reliability of a measurement"
-msgstr ""
+msgstr "Beurteilung der Zuverlässigkeit einer Messung"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:6
 msgid ""
