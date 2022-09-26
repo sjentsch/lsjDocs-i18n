@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-26 11:20+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-09-26 18:19+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -1055,7 +1055,6 @@ msgstr ""
 "verschiedene Variablen unterschiedlich behandeln sollten. Mehr nicht."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:265
-#, fuzzy
 msgid ""
 "So let’s take a classic example, maybe *the* classic example, of a "
 "psychological measurement tool: the **Likert scale**. The humble Likert "
@@ -1066,10 +1065,10 @@ msgid ""
 msgstr ""
 "Nehmen wir also ein klassisches Beispiel, vielleicht *das* klassische "
 "Beispiel für ein psychologisches Messinstrument: die **Likert-Skala**. Die "
-"bescheidene Likert-Skala ist das A und O  aller Umfragen. Auch Sie haben "
-"schon Hunderte, vielleicht Tausende von diesen Lickert-Skalen ausgefüllt, "
-"und wahrscheinlich haben Sie selbst sogar schon eine verwendet. Nehmen wir "
-"an, wir haben eine Umfrage, die wie folgt aussieht:"
+"bescheidene Likert-Skala ist das A und O aller Umfragen. Auch Sie haben "
+"schon Hunderte, vielleicht Tausende von diesen Likert-Skalen ausgefüllt, und "
+"wahrscheinlich haben Sie selbst sogar schon eine verwendet. Nehmen wir an, "
+"wir haben eine Umfrage, die wie folgt aussieht:"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:272
 msgid ""
@@ -1192,17 +1191,14 @@ msgstr ""
 "nettes Beispiel, also werde ich diese kleine unbequeme Wahrheit ignorieren."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
-#, fuzzy
 msgid "Ah, psychology …never an easy answer to anything!"
 msgstr "Ah, Psychologie ... nie eine einfache Antwort!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:4
-#, fuzzy
 msgid "Assessing the reliability of a measurement"
 msgstr "Beurteilung der Zuverlässigkeit einer Messung"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:6
-#, fuzzy
 msgid ""
 "At this point we’ve thought a little bit about how to operationalise a "
 "theoretical construct and thereby create a psychological measure. And "
@@ -1230,7 +1226,6 @@ msgstr ""
 "Validität einer Studie <../Ch02/Ch02_StudyDesign_5>`."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:17
-#, fuzzy
 msgid ""
 "Reliability is actually a very simple concept. It refers to the "
 "repeatability or consistency of your measurement. The measurement of my "
@@ -1259,13 +1254,13 @@ msgid ""
 msgstr ""
 "Reliabilität ist eigentlich ein sehr einfaches Konzept. Er bezieht sich auf "
 "die Wiederholbarkeit bzw. Konsistenz Ihrer Messung. Die Messung meines "
-"Gewichts mit einer \"Badezimmerwaage\" ist sehr zuverlässig. Wenn ich immer "
+"Gewichts mit einer „Badezimmerwaage“ ist sehr zuverlässig. Wenn ich immer "
 "wieder auf die Waage steige, wird sie mir immer wieder die gleiche Antwort "
-"geben. Die Messung meiner Intelligenz in dem ich „meine Mutter frage“ ist "
+"geben. Die Messung meiner Intelligenz, in dem ich „meine Mutter frage“ ist "
 "sehr unzuverlässig. An manchen Tagen sagt sie, ich sei ein bisschen dumm und "
 "an anderen Tagen sagt sie, ich sei ein kompletter Idiot. Beachten Sie, dass "
 "dieses Konzept der Zuverlässigkeit (Reliabilität) etwas anderes ist als die "
-"Frage, ob Messungen Korrekt sind (die Korrektheit einer Messung bezieht sich "
+"Frage, ob Messungen korrekt sind (die Korrektheit einer Messung bezieht sich "
 "auf ihre Validität). Wenn ich einen Sack Kartoffeln in der Hand halte, "
 "während ich auf die Waage im Badezimmer steige, ist die Messung immer noch "
 "zuverlässig (reliabel): Sie wird mir immer die gleiche Antwort geben. "
