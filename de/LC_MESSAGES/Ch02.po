@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-26 18:19+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-09-28 15:20+0000\n"
+"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -1226,6 +1226,7 @@ msgstr ""
 "Validität einer Studie <../Ch02/Ch02_StudyDesign_5>`."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:17
+#, fuzzy
 msgid ""
 "Reliability is actually a very simple concept. It refers to the "
 "repeatability or consistency of your measurement. The measurement of my "
@@ -1254,7 +1255,7 @@ msgid ""
 msgstr ""
 "Reliabilität ist eigentlich ein sehr einfaches Konzept. Er bezieht sich auf "
 "die Wiederholbarkeit bzw. Konsistenz Ihrer Messung. Die Messung meines "
-"Gewichts mit einer „Badezimmerwaage“ ist sehr zuverlässig. Wenn ich immer "
+"Gewichts mit einer „Personenwaage“ ist sehr zuverlässig. Wenn ich immer "
 "wieder auf die Waage steige, wird sie mir immer wieder die gleiche Antwort "
 "geben. Die Messung meiner Intelligenz, in dem ich „meine Mutter frage“ ist "
 "sehr unzuverlässig. An manchen Tagen sagt sie, ich sei ein bisschen dumm und "
@@ -1282,33 +1283,51 @@ msgstr ""
 "(Validität) zu gewährleisten."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:42
+#, fuzzy
 msgid ""
 "Okay, now that we’re clear on the distinction between reliability and "
 "validity, let’s have a think about the different ways in which we might "
 "measure reliability:"
 msgstr ""
+"Okay, nun da wir uns über den Unterschied zwischen Reliabilität und "
+"Validität im Klaren sind, lassen Sie uns über die verschiedenen "
+"Möglichkeiten nachdenken, wie wir die Reliabilität messen können:"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:46
+#, fuzzy
 msgid ""
 "**Test-retest reliability**. This relates to consistency over time. If we"
 " repeat the measurement at a later date do we get a the same answer?"
 msgstr ""
+"**Test-Retest-Reliabilität**. Dies bezieht sich auf die Konsistenz einer "
+"Messung über die Zeit. Wenn wir die Messung zu einem späteren Zeitpunkt "
+"wiederholen, erhalten wir dann das gleiche Ergebnis?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:50
+#, fuzzy
 msgid ""
 "**Inter-rater reliability**. This relates to consistency across people. "
 "If someone else repeats the measurement (e.g., someone else rates my "
 "intelligence) will they produce the same answer?"
 msgstr ""
+"**Inter-Rater Reliabilität**. Dies bezieht sich auf die Konsistenz einer "
+"Messung zwischen verschiedenen Personen. Wenn eine andere Person die Messung "
+"wiederholt (z.B. jemand anderes meine Intelligenz beurteilt), wird diese "
+"Person dann zum gleichen Ergebnis kommen?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:54
+#, fuzzy
 msgid ""
 "**Parallel forms reliability**. This relates to consistency across "
 "theoretically-equivalent measurements. If I use a different set of "
 "bathroom scales to measure my weight does it give the same answer?"
 msgstr ""
+"**Paralleltest-Reliabilität**. Dies bezieht sich auf die Konsistenz zwischen "
+"theoretisch äquivalenten Messinstrumenten. Wenn ich mein Gewicht mit einer "
+"anderen Personenwaage messe, wird dann das gleiche Ergebnis angezeigt?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:58
+#, fuzzy
 msgid ""
 "**Internal consistency reliability**. If a measurement is constructed "
 "from lots of different parts that perform similar functions (e.g., a "
@@ -1318,6 +1337,13 @@ msgid ""
 ":doc:`Internal consistency reliability analysis "
 "<../Ch15/Ch15_FactorAnalysis_4>`."
 msgstr ""
+"**Reliabilität der internen Konsistenz**. Wenn eine Messung aus vielen "
+"verschiedenen Teilen konstruiert wird, die ähnliche Funktionen erfüllen (z. "
+"B. wird das Ergebnis eines Persönlichkeitsfragebogens über mehrere Fragen "
+"hinweg addiert), dann sollten die einzelnen Teile in der Tendenz auch zu "
+"ähnlichen Antworten führen. Wir werden diese besondere Form der Reliabilität "
+"später in diesem Buch im Abschnitt :doc:`Reliabilitätsanalyse der internen "
+"Konsistenz <../Ch15/Ch15_FactorAnalysis_4>` betrachten."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:65
 msgid ""
