@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-28 15:20+0000\n"
+"PO-Revision-Date: 2022-09-28 17:19+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -1346,6 +1346,7 @@ msgstr ""
 "Konsistenz <../Ch15/Ch15_FactorAnalysis_4>` betrachten."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:65
+#, fuzzy
 msgid ""
 "Not all measurements need to possess all forms of reliability. For "
 "instance, educational assessment can be thought of as a form of "
@@ -1360,12 +1361,26 @@ msgid ""
 "it should be. You should only demand reliability in those situations "
 "where you want to be measuring the same thing!"
 msgstr ""
+"Nicht alle Messungen müssen alle Formen der Reliabilität aufweisen. Zum "
+"Beispiel kann man die Bewertung von Studienleistungen als eine Form der "
+"Messung betrachten. Eines der Fächer, die ich unterrichte, *Computational "
+"Cognitive Science*, hat eine Bewertungsstruktur, die eine "
+"Forschungskomponente und eine Prüfungskomponente (sowie andere Dinge) "
+"umfasst. Die Prüfungskomponente soll etwas anderes messen als die "
+"Forschungskomponente, so dass die Bewertung als Ganzes eine geringe interne "
+"Konsistenz aufweist. Innerhalb der Prüfung gibt es jedoch mehrere Fragen, "
+"die (ungefähr) dasselbe messen sollen, und diese führen in der Regel auch zu "
+"ähnlichen Ergebnissen. Die Prüfung an sich hat also eine recht hohe interne "
+"Konsistenz. Und so sollte es auch sein. Reliabilität sollte man nur dann von "
+"einer Messung verlangen, wenn man auch dasselbe messen will!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:79
+#, fuzzy
 msgid "The “role” of variables: predictors and outcomes"
-msgstr ""
+msgstr "Die \"Rollen\" von Variablen: Prädiktor und Kriterium"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:81
+#, fuzzy
 msgid ""
 "I’ve got one last piece of terminology that I need to explain to you "
 "before moving away from variables. Normally, when we do some research we "
@@ -1378,8 +1393,20 @@ msgid ""
 "over and over again. Let’s denote the “to be explained” variable ``Y``, "
 "and denote the variables “doing the explaining” as ``X_1``, ``X_2``, etc."
 msgstr ""
+"Ich habe noch einen letzten Teil zur Terminologie, den ich Ihnen erklären "
+"möchte, bevor wir uns inhaltlich von den Variablen wegbewegen. Für "
+"gewöhnlich haben wir, wenn wir eine Untersuchung durchführen, am Ende viele "
+"verschiedene Variablen. Wenn wir unsere Daten dann analysieren, versuchen "
+"wie in der Regel einige dieser Variablen mit den anderen Variablen zu "
+"erklären. Es ist wichtig diese beiden Rollen, „das, was erklärt wird“ und „"
+"das, was erklärt“, auseinanderzuhalten. Also machen wir uns das in dieser "
+"Stell einmal klar. Zunächst sollten wir uns daran gewöhnen, mathematische "
+"Symbole zur Beschreibung von Variablen zu verwenden, da dies immer wieder "
+"der Fall sein wird. Wir bezeichnen die „zu erklärende“ Variable mit „Y“ und "
+"die „erklärenden“ Variablen mit „X_1“, „X_2“, etc."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:92
+#, fuzzy
 msgid ""
 "When we are doing an analysis we have different names for ``X`` and "
 "``Y``, since they play different roles in the analysis. The classical "
@@ -1400,51 +1427,84 @@ msgid ""
 " (the predictors) to make guesses about ``Y`` (the outcomes).\\ [#]_ This"
 " is summarised in :numref:`tab-ivdv`."
 msgstr ""
+"Wenn wir eine Datenanalyse vornehmen, haben wir unterschiedlichen Namen für "
+"„X“ und „Y“, da sie in der Analyse unterschiedliche Rollen spielen. "
+"Klassischerweise bezeichnen wir diese Rollen als **Unabhängige Variable** "
+"(UV) und **Abhängige Variable** (AV). Die UV ist die Variable, die zur "
+"Erklärung genutzt wird (d.h., „X“) und die AV ist die Variable, die erklärt "
+"wird (d.h., „Y“). Die Logik hinter diesen Bezeichnungen ist folgende: Wenn "
+"es wirklich eine Beziehung zwischen ``X`` und ``Y`` gibt, dann können wir "
+"sagen, dass ``Y`` von ``X`` abhängt und wenn wir unsere Studie \"richtig\" "
+"konzipiert haben, dann ist ``X`` von nichts anderem abhängig. Ich persönlich "
+"finde diese Bezeichnungen jedoch furchtbar. Sie sind schwer zu merken und "
+"höchst irreführend, weil (a) die UV nie wirklich \"unabhängig von allem "
+"anderen\" ist, und (b), wenn es keine Beziehung zwischen den Variablen gibt, "
+"dann hängt die AV auch nicht von der UV ab. Da ich nicht der Einzige bin, "
+"der UV und AV für unglückliche Bezeichnungen hält, gibt es eine Reihe von "
+"Alternativen, die ich ansprechender finde. Die Begriffe, die ich in diesem "
+"Buch verwende, sind **Prädiktoren** und **Kriterium**. Die Idee dahinter "
+"ist, dass man versucht, anhand von ``X`` (Prädiktor-Variablen) Vermutungen "
+"über ``Y`` (Kriteriums-Variablen) anzustellen."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:110
+#, fuzzy
 msgid ""
 "The terminology used to distinguish between different roles that a "
 "variable can play when analysing a data set. Note that this book will "
 "tend to avoid the classical terminology in favour of the newer names."
 msgstr ""
+"Die Terminologie, die verwendet wird, um zwischen verschiedenen Rollen zu "
+"unterscheiden, die eine Variable bei der Analyse von Daten spielen kann. "
+"Beachten Sie, dass in diesem Buch die klassische Terminologie zugunsten der "
+"neueren Bezeichnungen eher vermieden wird."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
+#, fuzzy
 msgid "role of the variable"
-msgstr ""
+msgstr "Rolle der Variable"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
+#, fuzzy
 msgid "classical name"
-msgstr ""
+msgstr "Klassischer Name"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
+#, fuzzy
 msgid "modern name"
-msgstr ""
+msgstr "Moderner Name"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
+#, fuzzy
 msgid "“to be explained”"
-msgstr ""
+msgstr "„Die, die erklärt wird“"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
+#, fuzzy
 msgid "dependent variable (DV)"
-msgstr ""
+msgstr "Abhängige Variable (AV)"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
+#, fuzzy
 msgid "outcome"
-msgstr ""
+msgstr "Kriterium"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
+#, fuzzy
 msgid "“to do the explaining”"
-msgstr ""
+msgstr "„Die, die erklärt“"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
+#, fuzzy
 msgid "independent variable (IV)"
-msgstr ""
+msgstr "Unabhängige Variable (UV)"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
+#, fuzzy
 msgid "predictor"
-msgstr ""
+msgstr "Prädiktor"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:126
+#, fuzzy
 msgid ""
 "Annoyingly though, there’s a lot of different names used out there. I "
 "won’t list all of them – there would be no point in doing that – other "
@@ -1452,10 +1512,16 @@ msgid ""
 "“outcome”. Sigh. This sort of terminological confusion is very common, "
 "I’m afraid."
 msgstr ""
+"Ärgerlicherweise gibt es jedoch viele verschiedene Bezeichnungen, die "
+"verwendet werden. Ich werde sie nicht alle aufzählen - das hätte keinen Sinn "
+"- sondern nur darauf hinweisen, dass manchmal \"Antwortvariable\" verwendet "
+"wird, wo ich \"Kriterium\" verwendet habe. Seufz. Diese Art von "
+"terminologischer Verwirrung ist leider sehr verbreitet."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:4
+#, fuzzy
 msgid "Experimental and non-experimental research"
-msgstr ""
+msgstr "Experimentelle und nicht-experimentelle Forschung"
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:6
 msgid ""
