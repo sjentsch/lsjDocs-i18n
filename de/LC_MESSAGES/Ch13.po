@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-28 17:19+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-10-01 10:10+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
 "Language: de\n"
@@ -859,7 +859,6 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:397 ../../Ch13/Ch13_ANOVA_02.rst:423
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
-#, fuzzy
 msgid "outcome"
 msgstr "Kriterium"
 
