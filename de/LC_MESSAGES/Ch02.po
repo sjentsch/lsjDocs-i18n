@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-28 18:19+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-10-01 10:10+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
 "Language: de\n"
@@ -386,12 +386,12 @@ msgstr ""
 "Arten von Messungen (z. B. Geschlecht) sind die Werte nicht numerisch. Aber "
 "auch hier müssen wir uns überlegen, welche Werte zulässig sind. Wenn wir "
 "Menschen bitten, ihr Geschlecht selbst anzugeben, zwischen welchen Optionen "
-"sollen sie dann wählen können? Reicht es aus, nur \"männlich\" oder "
-"\"weiblich\" zuzulassen? Braucht man eine Option \"andere\"? Oder sollten "
-"wir den Menschen keine spezifischen Optionen vorgeben und sie stattdessen "
-"mit ihren eigenen Worten antworten lassen? Und wie interpretieren Sie die "
-"Antworten der Befragten, wenn Sie die Menge der möglichen Werte auf alle "
-"verbalen Antworten ausdehnen?"
+"sollen sie dann wählen können? Reicht es aus, nur „männlich“ oder „weiblich“ "
+"zuzulassen? Braucht man eine Option „andere“? Oder sollten wir den Menschen "
+"keine spezifischen Optionen vorgeben und sie stattdessen mit ihren eigenen "
+"Worten antworten lassen? Und wie interpretieren Sie die Antworten der "
+"Befragten, wenn Sie die Menge der möglichen Werte auf alle verbalen "
+"Antworten ausdehnen?"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:133
 msgid ""
@@ -798,17 +798,17 @@ msgid ""
 "same* as the 3° difference between 7° and 10°. In short, addition and "
 "subtraction are meaningful for interval scale variables.\\ [#]_"
 msgstr ""
-"Im Gegensatz zu Nominal- und Ordinalskalen handelt es sich bei **Intervall-**"
-" und Verhältnisskalen um Variablen, bei denen der numerische Wert "
-"tatsächlich aussagekräftig ist. Bei der Intervallskala sind die "
-"*Unterschiede* zwischen den Zahlen interpretierbar, aber die Variable hat "
-"keinen „natürlichen“ Nullpunkt. Ein gutes Beispiel für eine "
+"Im Gegensatz zu Nominal- und Ordinalskalen handelt es sich bei "
+"**Intervallskalen** und Verhältnisskalen um Variablen, bei denen der "
+"numerische Wert tatsächlich aussagekräftig ist. Bei der Intervallskala sind "
+"die *Unterschiede* zwischen den Zahlen interpretierbar, aber die Variable "
+"hat keinen „natürlichen“ Nullpunkt. Ein gutes Beispiel für eine "
 "intervallskalierte Variable ist die Messung der Temperatur in Grad Celsius. "
 "Wenn es zum Beispiel gestern 15° und heute 18° waren, dann sind die 3° "
 "Unterschied zwischen den beiden Werten tatsächlich aussagekräftig. Außerdem "
 "ist dieser Unterschied von 3° *exakt derselbe* wie der Unterschied von 3° "
 "zwischen 7° und 10°. Kurz gesagt, Addition und Subtraktion sind für "
-"intervallskalierte Variablen sinnvoll."
+"intervallskalierte Variablen sinnvoll.\\ [#]_"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:154
 msgid ""
@@ -1187,8 +1187,9 @@ msgstr ""
 "informiert, dass die Temperatur nicht unbedingt eine Intervallskala ist, da "
 "die Energiemenge, die erforderlich ist, um etwas um 3° zu erwärmen, von der "
 "aktuellen Temperatur abhängt. In dem Sinne, der für Physiker wichtig ist, "
-"ist die Temperatur also keine Intervallskala. Aber es ist trotzdem ein "
-"nettes Beispiel, also werde ich diese kleine unbequeme Wahrheit ignorieren."
+"stellt die Temperatur also keine Intervallskala dar. Aber es ist trotzdem "
+"ein nettes Beispiel, also werde ich diese kleine unbequeme Wahrheit "
+"ignorieren."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
 msgid "Ah, psychology …never an easy answer to anything!"
@@ -1226,7 +1227,6 @@ msgstr ""
 "Validität einer Studie <../Ch02/Ch02_StudyDesign_5>`."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:17
-#, fuzzy
 msgid ""
 "Reliability is actually a very simple concept. It refers to the "
 "repeatability or consistency of your measurement. The measurement of my "
@@ -1283,7 +1283,6 @@ msgstr ""
 "(Validität) zu gewährleisten."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:42
-#, fuzzy
 msgid ""
 "Okay, now that we’re clear on the distinction between reliability and "
 "validity, let’s have a think about the different ways in which we might "
@@ -1294,7 +1293,6 @@ msgstr ""
 "Möglichkeiten nachdenken, wie wir die Reliabilität messen können:"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:46
-#, fuzzy
 msgid ""
 "**Test-retest reliability**. This relates to consistency over time. If we"
 " repeat the measurement at a later date do we get a the same answer?"
@@ -1304,7 +1302,6 @@ msgstr ""
 "wiederholen, erhalten wir dann das gleiche Ergebnis?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:50
-#, fuzzy
 msgid ""
 "**Inter-rater reliability**. This relates to consistency across people. "
 "If someone else repeats the measurement (e.g., someone else rates my "
@@ -1316,7 +1313,6 @@ msgstr ""
 "Person dann zum gleichen Ergebnis kommen?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:54
-#, fuzzy
 msgid ""
 "**Parallel forms reliability**. This relates to consistency across "
 "theoretically-equivalent measurements. If I use a different set of "
@@ -1327,7 +1323,6 @@ msgstr ""
 "anderen Personenwaage messe, wird dann das gleiche Ergebnis angezeigt?"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:58
-#, fuzzy
 msgid ""
 "**Internal consistency reliability**. If a measurement is constructed "
 "from lots of different parts that perform similar functions (e.g., a "
@@ -1346,7 +1341,6 @@ msgstr ""
 "Konsistenz <../Ch15/Ch15_FactorAnalysis_4>` betrachten."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:65
-#, fuzzy
 msgid ""
 "Not all measurements need to possess all forms of reliability. For "
 "instance, educational assessment can be thought of as a form of "
@@ -1375,12 +1369,10 @@ msgstr ""
 "einer Messung verlangen, wenn man auch dasselbe messen will!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:79
-#, fuzzy
 msgid "The “role” of variables: predictors and outcomes"
-msgstr "Die \"Rollen\" von Variablen: Prädiktor und Kriterium"
+msgstr "Die „Rollen“ von Variablen: Prädiktor und Kriterium"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:81
-#, fuzzy
 msgid ""
 "I’ve got one last piece of terminology that I need to explain to you "
 "before moving away from variables. Normally, when we do some research we "
@@ -1397,16 +1389,15 @@ msgstr ""
 "möchte, bevor wir uns inhaltlich von den Variablen wegbewegen. Für "
 "gewöhnlich haben wir, wenn wir eine Untersuchung durchführen, am Ende viele "
 "verschiedene Variablen. Wenn wir unsere Daten dann analysieren, versuchen "
-"wie in der Regel einige dieser Variablen mit den anderen Variablen zu "
-"erklären. Es ist wichtig diese beiden Rollen, „das, was erklärt wird“ und „"
+"wir in der Regel einige dieser Variablen mit den anderen Variablen zu "
+"erklären. Es ist wichtig, diese beiden Rollen, „das, was erklärt wird“ und „"
 "das, was erklärt“, auseinanderzuhalten. Also machen wir uns das in dieser "
 "Stell einmal klar. Zunächst sollten wir uns daran gewöhnen, mathematische "
 "Symbole zur Beschreibung von Variablen zu verwenden, da dies immer wieder "
-"der Fall sein wird. Wir bezeichnen die „zu erklärende“ Variable mit „Y“ und "
-"die „erklärenden“ Variablen mit „X_1“, „X_2“, etc."
+"der Fall sein wird. Wir bezeichnen die „zu erklärende“ Variable mit ``Y`` "
+"und die „erklärenden“ Variablen mit ``X_1``, ``X_2``, etc."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:92
-#, fuzzy
 msgid ""
 "When we are doing an analysis we have different names for ``X`` and "
 "``Y``, since they play different roles in the analysis. The classical "
@@ -1428,26 +1419,26 @@ msgid ""
 " is summarised in :numref:`tab-ivdv`."
 msgstr ""
 "Wenn wir eine Datenanalyse vornehmen, haben wir unterschiedlichen Namen für "
-"„X“ und „Y“, da sie in der Analyse unterschiedliche Rollen spielen. "
+"``X`` und ``Y``, da sie in der Analyse unterschiedliche Rollen spielen. "
 "Klassischerweise bezeichnen wir diese Rollen als **Unabhängige Variable** "
 "(UV) und **Abhängige Variable** (AV). Die UV ist die Variable, die zur "
-"Erklärung genutzt wird (d.h., „X“) und die AV ist die Variable, die erklärt "
-"wird (d.h., „Y“). Die Logik hinter diesen Bezeichnungen ist folgende: Wenn "
-"es wirklich eine Beziehung zwischen ``X`` und ``Y`` gibt, dann können wir "
-"sagen, dass ``Y`` von ``X`` abhängt und wenn wir unsere Studie \"richtig\" "
-"konzipiert haben, dann ist ``X`` von nichts anderem abhängig. Ich persönlich "
-"finde diese Bezeichnungen jedoch furchtbar. Sie sind schwer zu merken und "
-"höchst irreführend, weil (a) die UV nie wirklich \"unabhängig von allem "
-"anderen\" ist, und (b), wenn es keine Beziehung zwischen den Variablen gibt, "
-"dann hängt die AV auch nicht von der UV ab. Da ich nicht der Einzige bin, "
-"der UV und AV für unglückliche Bezeichnungen hält, gibt es eine Reihe von "
-"Alternativen, die ich ansprechender finde. Die Begriffe, die ich in diesem "
-"Buch verwende, sind **Prädiktoren** und **Kriterium**. Die Idee dahinter "
-"ist, dass man versucht, anhand von ``X`` (Prädiktor-Variablen) Vermutungen "
-"über ``Y`` (Kriteriums-Variablen) anzustellen."
+"Erklärung genutzt wird (d.h., ``X``) und die AV ist die Variable, die "
+"erklärt wird (d.h., ``Y``). Die Logik hinter diesen Bezeichnungen ist "
+"folgende: Wenn es wirklich eine Beziehung zwischen ``X`` und ``Y`` gibt, "
+"dann können wir sagen, dass ``Y`` von ``X`` abhängt. Und wenn wir unsere "
+"Studie \"richtig\" konzipiert haben, dann ist ``X`` von nichts anderem "
+"abhängig. Ich persönlich finde diese Bezeichnungen jedoch furchtbar. Sie "
+"sind schwer zu merken und höchst irreführend, weil (a) die UV nie wirklich "
+"\"unabhängig von allem anderen\" ist, und (b), wenn es keine Beziehung "
+"zwischen den Variablen gibt, dann hängt die AV auch nicht von der UV ab. Da "
+"ich nicht der Einzige bin, der UV und AV für unglückliche Bezeichnungen "
+"hält, gibt es eine Reihe von Alternativen, die ich ansprechender finde. Die "
+"Begriffe, die ich in diesem Buch verwende, sind **Prädiktoren** und "
+"**Kriterium**. Die Idee dahinter ist, dass man versucht, anhand von ``X`` "
+"(Prädiktor-Variablen) Vermutungen über ``Y`` (Kriteriums-Variablen) "
+"anzustellen."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:110
-#, fuzzy
 msgid ""
 "The terminology used to distinguish between different roles that a "
 "variable can play when analysing a data set. Note that this book will "
@@ -1459,52 +1450,42 @@ msgstr ""
 "neueren Bezeichnungen eher vermieden wird."
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
-#, fuzzy
 msgid "role of the variable"
 msgstr "Rolle der Variable"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
-#, fuzzy
 msgid "classical name"
 msgstr "Klassischer Name"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:116
-#, fuzzy
 msgid "modern name"
 msgstr "Moderner Name"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
-#, fuzzy
 msgid "“to be explained”"
-msgstr "„Die, die erklärt wird“"
+msgstr "„Variable, die erklärt wird“"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
-#, fuzzy
 msgid "dependent variable (DV)"
 msgstr "Abhängige Variable (AV)"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:118
-#, fuzzy
 msgid "outcome"
 msgstr "Kriterium"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
-#, fuzzy
 msgid "“to do the explaining”"
-msgstr "„Die, die erklärt“"
+msgstr "„Variable, die erklärt“"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
-#, fuzzy
 msgid "independent variable (IV)"
 msgstr "Unabhängige Variable (UV)"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:120
-#, fuzzy
 msgid "predictor"
 msgstr "Prädiktor"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:126
-#, fuzzy
 msgid ""
 "Annoyingly though, there’s a lot of different names used out there. I "
 "won’t list all of them – there would be no point in doing that – other "
@@ -1513,18 +1494,16 @@ msgid ""
 "I’m afraid."
 msgstr ""
 "Ärgerlicherweise gibt es jedoch viele verschiedene Bezeichnungen, die "
-"verwendet werden. Ich werde sie nicht alle aufzählen - das hätte keinen Sinn "
-"- sondern nur darauf hinweisen, dass manchmal \"Antwortvariable\" verwendet "
-"wird, wo ich \"Kriterium\" verwendet habe. Seufz. Diese Art von "
-"terminologischer Verwirrung ist leider sehr verbreitet."
+"verwendet werden. Ich werde sie nicht alle aufzählen – das hätte keinen Sinn "
+"– sondern nur darauf hinweisen, dass manchmal „Antwortvariable“ verwendet "
+"wird, wo ich „Kriterium“ verwendet habe. Diese Art von terminologischer "
+"Verwirrung ist leider sehr verbreitet."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:4
-#, fuzzy
 msgid "Experimental and non-experimental research"
 msgstr "Experimentelle und nicht-experimentelle Forschung"
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:6
-#, fuzzy
 msgid ""
 "One of the big distinctions that you should be aware of is the "
 "distinction between “experimental research” and “non-experimental "
@@ -1533,18 +1512,16 @@ msgid ""
 "and events in the study."
 msgstr ""
 "Eine der wichtigsten Unterscheidungen, die Sie kennen sollten, ist die "
-"Unterscheidung zwischen \"experimenteller Forschung\" und \"nicht-"
-"experimenteller Forschung\". Bei dieser Unterscheidung geht es eigentlich um "
+"Unterscheidung zwischen „experimenteller Forschung“ und „nicht-"
+"experimenteller Forschung“. Bei dieser Unterscheidung geht es eigentlich um "
 "den Grad der Kontrolle, den der Forscher über die Personen und Ereignisse in "
 "der Studie hat."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:13
-#, fuzzy
 msgid "Experimental research"
 msgstr "Experimentelle Forschung"
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:15
-#, fuzzy
 msgid ""
 "The key feature of **experimental research** is that the researcher "
 "controls all aspects of the study, especially what participants "
@@ -1574,7 +1551,7 @@ msgstr ""
 "Auswirkungen auf die Ergebnisvariable (AV) haben. Um sicherzugehen, dass es "
 "keine Möglichkeit gibt, dass etwas anderes als die Prädiktorvariablen die "
 "Ergebnisse verursacht, werden alle anderen Variablen konstant gehalten oder "
-"auf andere Weise \"balanciert\", um sicherzustellen, dass diese anderen "
+"auf andere Weise „balanciert“, um sicherzustellen, dass diese anderen "
 "Variablen keine Auswirkungen auf die Ergebnisse haben. In der Praxis ist es "
 "fast unmöglich, an *alles andere zu denken*, was einen Einfluss auf das "
 "Ergebnis eines Experiments haben könnte, geschweige denn, es konstant zu "
@@ -1588,7 +1565,6 @@ msgstr ""
 "zwischen den Gruppen gibt, minimiert (aber nicht ausschließt)."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:35
-#, fuzzy
 msgid ""
 "Let’s consider a very simple, completely unrealistic and grossly "
 "unethical example. Suppose you wanted to find out if smoking causes lung "
@@ -1618,11 +1594,10 @@ msgstr ""
 "nicht nur beim Rauchen. Es könnte also sein, dass die höhere Inzidenz von "
 "Lungenkrebs bei Rauchern durch etwas anderes verursacht wird und nicht durch "
 "das Rauchen an sich. In der Fachsprache werden diese anderen Faktoren (z. B. "
-"die Ernährung) als \"Confounder\" bezeichnet, auf die wir gleich noch "
-"eingehen werden."
+"die Ernährung) als „Confounder“ (konfundierende Variable) bezeichnet, auf "
+"die wir gleich noch eingehen werden."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:50
-#, fuzzy
 msgid ""
 "In the meantime, let’s consider what a proper experiment might look like."
 " Recall that our concern was that smokers and non-smokers might differ in"
@@ -1648,7 +1623,6 @@ msgstr ""
 "dass (a) Rauchen tatsächlich Krebs verursacht und (b) wir Mörder sind."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:62
-#, fuzzy
 msgid "Non-experimental research"
 msgstr "Nicht-experimentelle Forschung"
 
