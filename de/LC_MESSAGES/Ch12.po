@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-09-23 18:18+0000\n"
+"PO-Revision-Date: 2022-10-07 12:19+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
@@ -640,7 +640,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:420
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch12/Ch12_Regression_01.rst:360
 msgid ""
