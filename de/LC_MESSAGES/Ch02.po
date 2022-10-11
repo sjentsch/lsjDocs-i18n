@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-11 08:20+0000\n"
+"PO-Revision-Date: 2022-10-11 10:20+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/>"
 "\n"
@@ -1708,6 +1708,7 @@ msgstr ""
 "müssen wir dabei sehr viel vorsichtiger und umsichtiger sein."
 
 #: ../../Ch02/Ch02_StudyDesign_4.rst:99
+#, fuzzy
 msgid ""
 "The alternative approach, case studies, aims to provide a very detailed "
 "description of one or a few instances. In general, you can’t use "
@@ -1727,12 +1728,33 @@ msgid ""
 "and quasi-experimental designs. We won’t talk much about case studies in "
 "this book, but they are nevertheless very valuable tools!"
 msgstr ""
+"Der alternative Ansatz der Fallstudien zielt darauf ab, eine sehr "
+"detaillierte Beschreibung eines oder einiger weniger Fälle zu liefern. Im "
+"Allgemeinen kann man die Ergebnisse von Fallstudien nicht statistisch "
+"auswerten, und es ist in der Regel sehr schwierig, aus einigen wenigen "
+"isolierten Beispielen allgemeine Schlussfolgerungen über \"Menschen im "
+"Allgemeinen\" zu ziehen. In einigen Situationen sind Fallstudien jedoch sehr "
+"nützlich. Es kann zum Beispiel Situationen geben, in denen man keine "
+"Alternative hat. In der Neuropsychologie gibt es dieses Problem häufig. "
+"Manchmal findet man einfach nicht so viele Menschen mit einer Schädigung in "
+"einer bestimmten Hirnregion, sodass einem nichts anderes übrigbleibt, als "
+"die wenigen Fälle, die man hat, so detailliert und sorgfältig wie möglich zu "
+"beschreiben. Fallstudien haben jedoch auch einige echte Vorteile. Da Sie "
+"nicht so viele Personen zu untersuchen haben, können Sie mehr Zeit und Mühe "
+"investieren, um die spezifischen Faktoren zu verstehen, die in einem "
+"bestimmten Fall eine Rolle spielen. Das zu tun, kann ziemlich wertvoll sein. "
+"Fallstudien können also folglich die eher statistisch orientierten Ansätze "
+"ergänzen, die in experimentellen und quasi-experimentellen Studien zu finden "
+"sind. Wir werden in diesem Buch nicht viel über Fallstudien sprechen, "
+"dennoch sind sie ein sehr wertvolles Instrument!"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:4
+#, fuzzy
 msgid "Assessing the validity of a study"
-msgstr ""
+msgstr "Bewertung der Validität einer Studie"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:6
+#, fuzzy
 msgid ""
 "More than any other thing, a scientist wants their research to be "
 "“valid”. The conceptual idea behind **validity** is very simple. Can you "
@@ -1744,28 +1766,44 @@ msgid ""
 "issues. And not all forms of validity are relevant to all studies. I’m "
 "going to talk about five different types of validity:"
 msgstr ""
+"Ein Forscher wünscht sich in der Regel nichts sehnlicher, als dass seine "
+"Forschung „valide“ ist. Die Idee hinter dem Konzept der **Validität** ist "
+"sehr einfach: Können Sie den Ergebnissen Ihrer Studie vertrauen? Wenn nicht, "
+"ist die Studie nicht valide. Das ist leichter gesagt als getan, denn in der "
+"Praxis ist die Validität viel schwieriger zu überprüfen als die "
+"Reliabilität. Zudem gibt es, um ehrlich zu sein, keine genaue, einheitlich "
+"gültige Vorstellung davon, was Validität eigentlich ist. Tatsächlich gibt es "
+"viele verschiedene Arten der Validität, von denen jede ihre eigenen Probleme "
+"aufweist und nicht alle Formen der Validität sind für alle Studien relevant. "
+"Ich werde im Folgenden über fünf verschiedene Arten von Validität sprechen:"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:16 ../../Ch02/Ch02_StudyDesign_5.rst:36
+#, fuzzy
 msgid "Internal validity"
-msgstr ""
+msgstr "Interne Validität"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:18 ../../Ch02/Ch02_StudyDesign_5.rst:62
+#, fuzzy
 msgid "External validity"
-msgstr ""
+msgstr "Externe Validität"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:20 ../../Ch02/Ch02_StudyDesign_5.rst:125
+#, fuzzy
 msgid "Construct validity"
-msgstr ""
+msgstr "Konstruktvalidität"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:22 ../../Ch02/Ch02_StudyDesign_5.rst:147
+#, fuzzy
 msgid "Face validity"
-msgstr ""
+msgstr "Augenscheinvalidität"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:24 ../../Ch02/Ch02_StudyDesign_5.rst:192
+#, fuzzy
 msgid "Ecological validity"
-msgstr ""
+msgstr "Ökologische Validität"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:26
+#, fuzzy
 msgid ""
 "First, a quick guide as to what matters here. (1) Internal and external "
 "validity are the most important, since they tie directly to the "
@@ -1776,8 +1814,18 @@ msgid ""
 " that corresponds to a kind of appearance that you might care about a "
 "lot."
 msgstr ""
+"Zunächst ein kurzer Hinweis auf das, worauf es hier ankommt. (1) Interne und "
+"externe Validität sind am wichtigsten, da sie sich direkt auf die "
+"grundlegende Frage beziehen, ob die Studie wirklich funktioniert. (2) Bei "
+"der Konstruktvalidität geht es darum, ob das gemessen wird, was man zu "
+"messen glaubt. (3) Die Augenscheinvalidität ist nicht besonders wichtig, "
+"bzw. nur in dem Maß, indem man sich für ein gewisses „Erscheinungsbild“ "
+"interessiert. (4) Die ökologische Validität ist ein Spezialfall der "
+"Augenscheinvalidität, die mit einer Art Erscheinungsbild korrespondiert, das "
+"einem womöglich wichtig sein könnte."
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:38
+#, fuzzy
 msgid ""
 "**Internal validity** refers to the extent to which you are able draw the"
 " correct conclusions about the causal relationships between variables. "
@@ -1801,6 +1849,32 @@ msgid ""
 "study doesn’t properly tease apart the *causal* relationships between the"
 " different variables."
 msgstr ""
+"Die **interne Validität** bezieht sich auf das Ausmaß, in dem Sie mit Ihrer "
+"Studie in der Lage sind, die richtigen Schlussfolgerungen über die kausalen "
+"Beziehungen zwischen den Variablen zu ziehen. Sie wird \"intern\" genannt, "
+"weil sie sich auf die Beziehungen zwischen den Dingen \"innerhalb\" der "
+"Studie bezieht. Lassen Sie uns das Konzept anhand eines einfachen Beispiels "
+"erläutern. Nehmen wir an, Sie möchten herausfinden, ob eine "
+"Universitätsausbildung zu einer Verbesserung der Schreibfähigkeit führt. "
+"Dazu nimmt man eine Gruppe von Studenten im ersten Studienjahr, bittet sie, "
+"einen Aufsatz mit 1000 Wörtern zu schreiben, und zählt die Anzahl der "
+"Rechtschreib- und Grammatikfehler, die sie machen. Dann sucht man sich ein "
+"paar Studenten im dritten Jahr, die offensichtlich eine umfassendere "
+"Universitätsausbildung genossen haben als die Erstsemester, und wiederholt "
+"die Übung. Nehmen wir an, es stellt sich heraus, dass die Studenten im "
+"dritten Studienjahr weniger Fehler machen. Daraus schließen Sie nun, dass "
+"eine Universitätsausbildung die Schreibfähigkeiten verbessert, richtig? Das "
+"große Problem bei diesem Experiment ist jedoch, dass die Studenten im "
+"dritten Studienjahr älter sind und somit generell mehr Erfahrung mit dem "
+"Schreiben von Texten haben. Es ist also schwer, mit Sicherheit sagen zu "
+"können, welcher Zusammenhang besteht. Schreiben ältere Menschen besser, oder "
+"Menschen, die mehr Erfahrung mit dem Schreiben haben, oder Menschen, die "
+"einen höheren Bildungsgrad haben? Was davon ist also die wahre *Ursache* für "
+"die besseren Leistungen der Studenten im dritten Studienjahr? Das Alter, die "
+"Erfahrung, oder der Grad der Ausbildung? Sie können es anhand Ihres "
+"Untersuchungsdesigns schlicht nicht sagen. Dies ist ein Beispiel für ein "
+"Versagen der internen Validität, da Ihre Studie die *kausalen* Beziehungen "
+"zwischen den verschiedenen Variablen nicht richtig aufschlüsselt."
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:64
 msgid ""
