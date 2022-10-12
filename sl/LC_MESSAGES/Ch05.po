@@ -6,31 +6,35 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-12 17:25+0000\n"
+"Last-Translator: Alex <sajgon86@yahoo.com>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/lsjdocs/ch05/"
+"sl/>\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
-msgstr ""
+msgstr "Risanje grafov"
 
 #: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
-msgstr ""
+msgstr "*Pokažite predvsem podatke*"
 
 #: ../../Ch05/Ch05_Graphics.rst:24
 msgid "Edward Tufte\\ [#]_"
-msgstr ""
+msgstr "Edward Tufte\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics.rst:23
 msgid ""
@@ -520,12 +524,3 @@ msgid ""
 "you’re ready it’s worth taking the time to teach yourself, because it’s a"
 " much more powerful and cleaner system."
 msgstr ""
-
-
-
-
-
-
-
-
-
