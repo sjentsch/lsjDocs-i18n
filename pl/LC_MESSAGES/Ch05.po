@@ -6,31 +6,35 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-17 00:03+0000\n"
+"Last-Translator: gnu-ewm <gnu.ewm@protonmail.com>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/lsjdocs/ch05/pl/>"
+"\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
-msgstr ""
+msgstr "Rysowanie wykresów"
 
 #: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
-msgstr ""
+msgstr "*Przede wszystkim pokaż dane.*"
 
 #: ../../Ch05/Ch05_Graphics.rst:24
 msgid "Edward Tufte\\ [#]_"
-msgstr ""
+msgstr "Edward Tufte\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics.rst:23
 msgid ""
@@ -45,6 +49,16 @@ msgid ""
 " about analysing it. These points might seem pretty obvious but I cannot "
 "count the number of times I’ve seen people forget them."
 msgstr ""
+"Wizualizacja danych jest jednym z najważniejszych zadań stojących przed "
+"analitykiem danych. Jest ona ważna z dwóch różnych, ale ściśle powiązanych "
+"powodów. Po pierwsze, jest to kwestia rysowania \"grafiki prezentacyjnej\", "
+"wyświetlanie danych w czysty, wizualnie atrakcyjny sposób ułatwia "
+"czytelnikowi zrozumienie tego, co próbujesz mu powiedzieć. Równie ważny, a "
+"może nawet ważniejszy, jest fakt, że rysowanie wykresów pomaga *tobie* "
+"zrozumieć dane. W tym celu ważne jest, aby rysować \"grafiki eksploracyjne\""
+", które pomogą Ci poznać dane w trakcie ich analizy. Te punkty mogą wydawać "
+"się dość oczywiste, ale nie mogę zliczyć ile razy widziałem, że ludzie o "
+"nich zapominają."
 
 #: ../../Ch05/Ch05_Graphics.rst:34
 msgid ""
@@ -62,10 +76,22 @@ msgid ""
 " from the pump and ended the outbreak that had killed over 500 people. "
 "Such is the power of a good data visualisation."
 msgstr ""
+"Aby dać poczucie wagi tego rozdziału, chcę zacząć od klasycznej ilustracji "
+"tego, jak potężny może być dobry wykres. W tym celu, :numref:`fig-snowMap` "
+"pokazuje przerysowanie jednej z najbardziej znanych wizualizacji danych "
+"wszech czasów. Jest to mapa John'a Snow'a z 1854 roku dotycząca zgonów z "
+"powodu cholery. Mapa jest elegancka w swojej prostocie. W tle mamy mapę "
+"ulic, która pomaga zorientować widza. Na górze widzimy dużą liczbę małych "
+"kropek, z których każda reprezentuje lokalizację przypadku cholery. Większe "
+"symbole pokazują lokalizację pomp wodnych, oznaczonych według nazwy. Nawet "
+"najbardziej pobieżna analiza wykresu pozwala stwierdzić, że źródłem epidemii "
+"jest prawie na pewno pompa na Broad Street. Po obejrzeniu tego wykresu dr "
+"Snow zlecił usunięcie uchwytu z pompy i zakończył epidemię, która zabiła "
+"ponad 500 osób. Taka jest siła dobrej wizualizacji danych."
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid "Redrawing of Snow’s original cholera map"
-msgstr ""
+msgstr "Przerysowanie oryginalnej mapy Snowa dotyczącej cholery"
 
 #: ../../Ch05/Ch05_Graphics.rst:54
 msgid ""
@@ -74,6 +100,10 @@ msgid ""
 " location of a well. As the plot makes clear, the cholera outbreak is "
 "centred very closely on the Broad St pump."
 msgstr ""
+"Stylizowane przerysowanie oryginalnej mapy cholery Johna Snowa. Każda mała "
+"kropka reprezentuje lokalizację przypadku cholery, a każde duże koło "
+"pokazuje lokalizację studni. Jak widać na wykresie, epidemia cholery "
+"koncentruje się bardzo blisko pompy na Broad St."
 
 #: ../../Ch05/Ch05_Graphics.rst:61
 msgid ""
@@ -92,16 +122,31 @@ msgid ""
 "figure, then the graphics functionality in jamovi is not yet capable of "
 "supporting advanced work or detail editing."
 msgstr ""
+"Cele w tym rozdziale są dwojakie. Po pierwsze, omówienie kilku dość "
+"standardowych wykresów, których często używamy podczas analizy i prezentacji "
+"danych, a po drugie pokazanie, jak tworzyć te wykresy w jamovi. Same wykresy "
+"są dość proste, więc pod jednym względem ten rozdział jest dość prosty. "
+"Problemem jest natomiast nauka tworzenia wykresów, a w szczególności nauka "
+"tworzenia dobrych wykresów. Na szczęście nauka rysowania wykresów w jamovi "
+"jest dość prosta, o ile nie jesteście zbyt wybredni co do wyglądu wykresu. "
+"Mam na myśli to, że jamovi ma wiele *bardzo* dobrych domyślnych wykresów, "
+"lub działek, które w większości przypadków tworzą czystą, wysokiej jakości "
+"grafikę. Jednak w przypadkach, gdy chcesz zrobić coś niestandardowego lub "
+"gdy musisz dokonać bardzo specyficznych zmian w figurze, wtedy "
+"funkcjonalność graficzna w jamovi nie jest jeszcze w stanie wspierać "
+"zaawansowanej pracy lub edycji szczegółów."
 
 #: ../../Ch05/Ch05_Graphics.rst:79
 msgid ""
 "The origin of this quote is Tufte’s lovely book *The Visual Display of "
 "Quantitative Information*."
 msgstr ""
+"Źródłem tego cytatu jest urocza książka Tufte'a *The Visual Display of "
+"Quantitative Information*."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:4
 msgid "Histograms"
-msgstr ""
+msgstr "Histogramy"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:6
 msgid ""
@@ -134,6 +179,33 @@ msgid ""
 "or is there a skew or kurtosis? Our first impressions of these "
 "characteristics come from drawing a **histogram**."
 msgstr ""
+"Zacznijmy od skromnego **histogramu**. Histogramy są jednym z najprostszych "
+"i najbardziej użytecznych sposobów wizualizacji danych. Mają one największy "
+"sens, gdy masz zmienną o skali interwałowej lub stosunkowej (np. zmienną "
+"``afl.margins`` ze zbioru danych |aflsmall_finalists|_, którego używaliśmy w "
+":doc:`Statystyka opisowa <../Ch04/Ch04_Descriptives>`) i to, co chcesz "
+"zrobić, to uzyskać ogólne wrażenie na temat zmiennej. Większość z was "
+"prawdopodobnie wie, jak działają histogramy, ponieważ są tak szeroko "
+"stosowane, ale dla kompletności opiszę je. Wszystko co robisz to dzielisz "
+"możliwe wartości na **biny** a następnie liczysz liczbę obserwacji, które "
+"mieszczą się w każdym binie. Ta liczba jest określana jako częstotliwość lub "
+"gęstość kosza i jest wyświetlana jako pionowy pasek. W danych dotyczących "
+"marginesów zwycięstwa AFL są 33 mecze, w których margines zwycięstwa był "
+"mniejszy niż 10 punktów i to właśnie ten fakt jest reprezentowany przez "
+"wysokość lewego skrajnego słupka, który pokazaliśmy wcześniej w :doc:`"
+"Statystyki opisowe <../Ch04/Ch04_Descriptives>` i :numref:`fig-aflMargins`. "
+"Z tymi wcześniejszymi wykresami używaliśmy zaawansowanego pakietu do "
+"tworzenia wykresów w R, który, jak na razie, jest poza możliwościami jamovi. "
+"Ale jamovi zbliża nas do tego, a rysowanie tego histogramu w jamovi jest "
+"całkiem proste. Otwórz ``Plots`` opcje pod ``Exploration`` → ``Descriptives``"
+" i kliknij ``Histogram`` pole wyboru, jak pokazano w :numref:`fig-"
+"jamovi_histogram`. jamovi domyślnie oznacza oś y jako 'gęstość', a oś x jako "
+"nazwę zmiennej. Biny **** są wybierane automatycznie, a na osi y nie ma "
+"informacji o skali lub liczeniu, w przeciwieństwie do poprzedniego :numref"
+":`fig-aflMargins`. Ale to nie ma zbyt dużego znaczenia, ponieważ w końcu to, "
+"co nas naprawdę interesuje, to nasze wrażenie kształtu rozkładu: czy jest on "
+"normalnie rozłożony, czy jest skośność lub kurtoza? Nasze pierwsze wrażenia "
+"dotyczące tych cech pochodzą z rysowania histogramu **** ."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "Histogram check box in jamovi"
@@ -520,12 +592,3 @@ msgid ""
 "you’re ready it’s worth taking the time to teach yourself, because it’s a"
 " much more powerful and cleaner system."
 msgstr ""
-
-
-
-
-
-
-
-
-
