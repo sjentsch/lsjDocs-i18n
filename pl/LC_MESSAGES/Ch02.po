@@ -10,18 +10,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:54+0200\n"
+"POT-Creation-Date: 2022-10-13 19:41+0200\n"
 "PO-Revision-Date: 2022-03-02 17:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: pl\n"
 "Language-Team: Polish "
 "<https://hosted.weblate.org/projects/lsjdocs/ch02/pl/>\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && "
-"(n%100<10 || n%100>=20) ? 1 : 2\n"
+"(n%100<10 || n%100>=20) ? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
 msgid "A brief introduction to research design"
@@ -435,19 +435,19 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(1) Temperatures are rising because of human activity"
+msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2) Temperatures are rising but we don’t know why"
+msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3) Temperatures are rising but not because of humans"
+msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4) Temperatures are not rising"
+msgid "\\(4\\) Temperatures are not rising"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:93
@@ -729,23 +729,23 @@ msgid "and then the options presented to the participant are these:"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(1) Strongly disagree"
+msgid "\\(1\\) Strongly disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2) Disagree"
+msgid "\\(2\\) Disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3) Neither agree nor disagree"
+msgid "\\(3\\) Neither agree nor disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4) Agree"
+msgid "\\(4\\) Agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(5) Strongly agree"
+msgid "\\(5\\) Strongly agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:283
@@ -759,15 +759,15 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2)"
+msgid "\\(2\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3)"
+msgid "\\(3\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4)"
+msgid "\\(4\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
@@ -2202,4 +2202,64 @@ msgid ""
 "large number of textbooks out there on research design. Spend a few "
 "minutes with your favourite search engine and you’ll find dozens."
 msgstr ""
+
+#~ msgid "(1) Strongly disagree"
+#~ msgstr ""
+
+#~ msgid "(2) Disagree"
+#~ msgstr ""
+
+#~ msgid "(3) Neither agree nor disagree"
+#~ msgstr ""
+
+#~ msgid "(4) Agree"
+#~ msgstr ""
+
+#~ msgid "(5) Strongly agree"
+#~ msgstr ""
+
+#~ msgid "(2)"
+#~ msgstr ""
+
+#~ msgid "(3)"
+#~ msgstr ""
+
+#~ msgid "(4)"
+#~ msgstr ""
+
+#~ msgid "(1) Temperatures are rising because of human activity"
+#~ msgstr ""
+
+#~ msgid "(2) Temperatures are rising but we don’t know why"
+#~ msgstr ""
+
+#~ msgid "(3) Temperatures are rising but not because of humans"
+#~ msgstr ""
+
+#~ msgid "(4) Temperatures are not rising"
+#~ msgstr ""
+
+#~ msgid "1 Strongly disagree"
+#~ msgstr ""
+
+#~ msgid "2 Disagree"
+#~ msgstr ""
+
+#~ msgid "3 Neither agree nor disagree"
+#~ msgstr ""
+
+#~ msgid "4 Agree"
+#~ msgstr ""
+
+#~ msgid "5 Strongly agree"
+#~ msgstr ""
+
+#~ msgid "2"
+#~ msgstr "20"
+
+#~ msgid "3"
+#~ msgstr "30"
+
+#~ msgid "4"
+#~ msgstr "48"
 

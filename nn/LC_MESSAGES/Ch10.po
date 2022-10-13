@@ -10,18 +10,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 23:12+0200\n"
+"POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: 2022-04-04 22:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/"
-"lsjdocs/ch10/nn/>\n"
 "Language: nn\n"
+"Language-Team: Norwegian Nynorsk "
+"<https://hosted.weblate.org/projects/lsjdocs/ch10/nn/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
 msgid "Categorical data analysis"
@@ -1200,7 +1199,8 @@ msgid "The expected counts are now:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491 ../../Ch10/Ch10_ChiSquare_7.rst:20
-msgid "4"
+#, fuzzy
+msgid "40"
 msgstr "4"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491
@@ -2712,3 +2712,4 @@ msgid ""
 "The latter is a more advanced text, so it’s probably not wise to jump "
 "straight from this book to that one."
 msgstr ""
+

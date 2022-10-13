@@ -10,18 +10,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:54+0200\n"
+"POT-Creation-Date: 2022-10-13 19:41+0200\n"
 "PO-Revision-Date: 2022-08-01 07:18+0000\n"
 "Last-Translator: Daniele Basso <d.bass05@proton.me>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/lsjdocs/ch02/it/>"
-"\n"
 "Language: it\n"
+"Language-Team: Italian "
+"<https://hosted.weblate.org/projects/lsjdocs/ch02/it/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
 msgid "A brief introduction to research design"
@@ -34,8 +33,8 @@ msgid ""
 "say what the experiment died of.*"
 msgstr ""
 "*Consultare lo statista dopo che un esperimento è finito è spesso "
-"semplicemente chiedergli di condurre un'autopsia. Può forse dire di cosa è "
-"morto l'esperimento.*"
+"semplicemente chiedergli di condurre un'autopsia. Può forse dire di cosa "
+"è morto l'esperimento.*"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:29
 msgid "Sir Ronald Fisher\\ [#]_"
@@ -62,21 +61,23 @@ msgid ""
 "for the discussion of scales of measurement."
 msgstr ""
 "In questo capitolo, inizieremo a riflettere sulle idee di base per la "
-"progettazione dello studio, della raccolta dati, delle verifiche dei dati "
-"raccolti e così via. Non vi fornirà informazioni sufficienti per permettervi "
-"di progettare i vostri studi, ma vi potrà, dare numerosi strumenti di base "
-"che serviranno per valutare i lavori di altri. Tuttavia, siccome questo "
-"libro è maggiormente incentrato sull'analisi dei dati che sulla loro "
-"raccolta, darò solo una piccola panoramica. Questo capitolo è \"speciale\" "
-"sotto due aspetti. In primo luogo, usa maggiormente un linguaggio specifico "
-"legato alla psicologia. In secondo luogo, si concentra maggiormente sui "
-"problemi scientifici della metodologia della ricerca, tralasciando l'aspetto "
-"statistico dell'analisi dei dati. Però, i due problemi sono relazionati tra "
-"loro, quindi è tradizione che nei libri di testo di statistica se ne discuta "
-"in maniera più dettagliata. Questo capitolo ha preso grande ispirazione da `"
-"Campbell and Stanley (1963) <../Other/References.html#campbell-1963>`__ for "
-"the discussion of study design, and `Stevens (1946) <../Other/References."
-"html#stevens-1946>`__ per la discussione sulle scale della misura."
+"progettazione dello studio, della raccolta dati, delle verifiche dei dati"
+" raccolti e così via. Non vi fornirà informazioni sufficienti per "
+"permettervi di progettare i vostri studi, ma vi potrà, dare numerosi "
+"strumenti di base che serviranno per valutare i lavori di altri. "
+"Tuttavia, siccome questo libro è maggiormente incentrato sull'analisi dei"
+" dati che sulla loro raccolta, darò solo una piccola panoramica. Questo "
+"capitolo è \"speciale\" sotto due aspetti. In primo luogo, usa "
+"maggiormente un linguaggio specifico legato alla psicologia. In secondo "
+"luogo, si concentra maggiormente sui problemi scientifici della "
+"metodologia della ricerca, tralasciando l'aspetto statistico dell'analisi"
+" dei dati. Però, i due problemi sono relazionati tra loro, quindi è "
+"tradizione che nei libri di testo di statistica se ne discuta in maniera "
+"più dettagliata. Questo capitolo ha preso grande ispirazione da `Campbell"
+" and Stanley (1963) <../Other/References.html#campbell-1963>`__ for the "
+"discussion of study design, and `Stevens (1946) "
+"<../Other/References.html#stevens-1946>`__ per la discussione sulle scale"
+" della misura."
 
 #: ../../Ch02/Ch02_StudyDesign.rst:46
 msgid ""
@@ -456,19 +457,19 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(1) Temperatures are rising because of human activity"
+msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2) Temperatures are rising but we don’t know why"
+msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3) Temperatures are rising but not because of humans"
+msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4) Temperatures are not rising"
+msgid "\\(4\\) Temperatures are not rising"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:93
@@ -750,23 +751,23 @@ msgid "and then the options presented to the participant are these:"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(1) Strongly disagree"
+msgid "\\(1\\) Strongly disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2) Disagree"
+msgid "\\(2\\) Disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3) Neither agree nor disagree"
+msgid "\\(3\\) Neither agree nor disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4) Agree"
+msgid "\\(4\\) Agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(5) Strongly agree"
+msgid "\\(5\\) Strongly agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:283
@@ -780,15 +781,15 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(2)"
+msgid "\\(2\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(3)"
+msgid "\\(3\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
-msgid "(4)"
+msgid "\\(4\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
@@ -2223,3 +2224,64 @@ msgid ""
 "large number of textbooks out there on research design. Spend a few "
 "minutes with your favourite search engine and you’ll find dozens."
 msgstr ""
+
+#~ msgid "(1) Strongly disagree"
+#~ msgstr ""
+
+#~ msgid "(2) Disagree"
+#~ msgstr ""
+
+#~ msgid "(3) Neither agree nor disagree"
+#~ msgstr ""
+
+#~ msgid "(4) Agree"
+#~ msgstr ""
+
+#~ msgid "(5) Strongly agree"
+#~ msgstr ""
+
+#~ msgid "(2)"
+#~ msgstr ""
+
+#~ msgid "(3)"
+#~ msgstr ""
+
+#~ msgid "(4)"
+#~ msgstr ""
+
+#~ msgid "(1) Temperatures are rising because of human activity"
+#~ msgstr ""
+
+#~ msgid "(2) Temperatures are rising but we don’t know why"
+#~ msgstr ""
+
+#~ msgid "(3) Temperatures are rising but not because of humans"
+#~ msgstr ""
+
+#~ msgid "(4) Temperatures are not rising"
+#~ msgstr ""
+
+#~ msgid "1 Strongly disagree"
+#~ msgstr ""
+
+#~ msgid "2 Disagree"
+#~ msgstr ""
+
+#~ msgid "3 Neither agree nor disagree"
+#~ msgstr ""
+
+#~ msgid "4 Agree"
+#~ msgstr ""
+
+#~ msgid "5 Strongly agree"
+#~ msgstr ""
+
+#~ msgid "2"
+#~ msgstr "20"
+
+#~ msgid "3"
+#~ msgstr "30"
+
+#~ msgid "4"
+#~ msgstr "48"
+

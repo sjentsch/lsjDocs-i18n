@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 23:29+0200\n"
+"POT-Creation-Date: 2022-10-13 19:41+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -422,19 +422,19 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(1) Temperatures are rising because of human activity"
+msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(2) Temperatures are rising but we don’t know why"
+msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(3) Temperatures are rising but not because of humans"
+msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(4) Temperatures are not rising"
+msgid "\\(4\\) Temperatures are not rising"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:93
@@ -709,23 +709,23 @@ msgid "and then the options presented to the participant are these:"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(1) Strongly disagree"
+msgid "\\(1\\) Strongly disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(2) Disagree"
+msgid "\\(2\\) Disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(3) Neither agree nor disagree"
+msgid "\\(3\\) Neither agree nor disagree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(4) Agree"
+msgid "\\(4\\) Agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(5) Strongly agree"
+msgid "\\(5\\) Strongly agree"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:283
@@ -738,15 +738,15 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(2)"
+msgid "\\(2\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(3)"
+msgid "\\(3\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
-msgid "(4)"
+msgid "\\(4\\)"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
@@ -2146,3 +2146,15 @@ msgid ""
 "design. Spend a few minutes with your favourite search engine and you’ll "
 "find dozens."
 msgstr ""
+
+#, fuzzy
+#~ msgid "2"
+#~ msgstr "12"
+
+#, fuzzy
+#~ msgid "3"
+#~ msgstr "30"
+
+#, fuzzy
+#~ msgid "4"
+#~ msgstr "48"
