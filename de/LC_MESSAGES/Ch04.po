@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-18 11:07+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-10-20 20:03+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/>"
 "\n"
 "Language: de\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
@@ -40,16 +40,27 @@ msgid ""
 "see what variables are stored in the file (:numref:`fig-"
 "aflsmall_margins`)."
 msgstr ""
+"Jedes Mal, wenn Sie einen neuen Datensatz zur Untersuchung erhalten, besteht "
+"eine der ersten Aufgaben darin, Wege zu finden, die Daten in einer "
+"kompakten, leicht verständlichen Weise zusammenzufassen. Darum geht es bei **"
+"deskriptiver Statistik** (im Gegensatz zu inferentieller Statistik). Für "
+"viele Menschen ist der Begriff „Statistik“ ein Synonym für deskriptive "
+"Statistik. Mit diesem Thema werden wir uns in diesem Kapitel beschäftigen. "
+"Aber bevor wir ins Detail gehen, sollten wir uns einen Moment Zeit nehmen, "
+"um zu verstehen, warum wir deskriptive Statistiken brauchen. Dazu öffnen wir "
+"den Datensatz |aflsmall_margins|_ und sehen nach, welche Variablen in der "
+"Datei (:numref:`fig-aflsmall_margins`) gespeichert sind."
 
 #: ../../Ch04/Ch04_Descriptives.rst:35
 msgid "Variables stored in ``aflsmall margins``"
-msgstr ""
+msgstr "Variablen, die in ``aflsmall margins`` gespeichert sind"
 
 #: ../../Ch04/Ch04_Descriptives.rst:35
 msgid ""
 "Screenshot of jamovi showing the variables in the |aflsmall_margins|_ "
 "data set"
 msgstr ""
+"jamovi-Screenshot mit den Variablen aus dem Datensatz |aflsmall_margins|_"
 
 #: ../../Ch04/Ch04_Descriptives.rst:40
 msgid ""
@@ -60,6 +71,12 @@ msgid ""
 "``afl.margins`` variable contains the winning margin (number of points) "
 "for all 176 home and away games played during the 2010 season."
 msgstr ""
+"In der Tat gibt es hier nur eine Variable, ``afl.margins``. Wir werden uns "
+"in diesem Kapitel auf diese Variable konzentrieren. Im Gegensatz zu den "
+"meisten Datensätzen in diesem Buch handelt es sich hier um echte Daten aus "
+"der Australian Football League (AFL).\\ [#]_ Die Variable ``afl.margins`` "
+"enthält die Gewinnspanne (Anzahl der Punkte) für alle 176 Heim- und "
+"Auswärtsspiele der Saison 2010."
 
 #: ../../Ch04/Ch04_Descriptives.rst:47
 msgid ""
@@ -77,10 +94,24 @@ msgid ""
 " look at the histogram and note that it provides a fairly interpretable "
 "representation of the ``afl.margins`` variable."
 msgstr ""
+"Diese Ausgabe macht es eher schwer, ein Gefühl dafür zu bekommen, was die "
+"Daten tatsächlich aussagen. Das bloße „Anschauen der Daten“ ist keine "
+"besonders effektive Methode, um Daten zu verstehen. Um eine Vorstellung "
+"davon zu bekommen, was die Daten tatsächlich aussagen, müssen wir einige "
+"deskriptive Statistiken berechnen (dieses Kapitel) und einige Grafiken "
+"erstellen (Kapitel :doc:`Diagramme erstellen <../Ch05/Ch05_Grafiken>`). Da "
+"die deskriptive Statistik das einfachere der beiden Themen ist, fange ich "
+"mit ihr an, aber ich zeige Ihnen trotzdem ein Histogramm der Variable ``afl."
+"margins``, da es Ihnen helfen soll, ein Gefühl dafür zu bekommen, wie die "
+"Daten, die wir zu beschreiben versuchen, tatsächlich aussehen, siehe :numref"
+":`fig-aflMargins`. Wir werden noch viel mehr darüber reden, wie man :doc:`"
+"Histogramme <../Ch05/Ch05_Graphics_1>` zeichnet. Im Moment reicht es aus, "
+"sich das Histogramm anzusehen und festzustellen, dass es eine ziemlich "
+"interpretierbare Darstellung der Variablen ``afl.margins`` liefert."
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
 msgid "Histogram of AFL 2010 winning margin data"
-msgstr ""
+msgstr "Histogramm der Gewinnspanne der AFL 2010"
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
 msgid ""
@@ -88,6 +119,8 @@ msgid ""
 "variable). As you might expect, the larger the winning margin the less "
 "frequently you tend to see it."
 msgstr ""
+"Histogramm der Gewinnspanne in der AFL 2010 (die Variable ``afl.margins``). "
+"Wie zu erwarten, sind höhere Gewinnspannen seltener zu sehen."
 
 #: ../../Ch04/Ch04_Descriptives.rst:75
 msgid ""
@@ -95,10 +128,13 @@ msgid ""
 "competition. You don’t need to know anything about Australian rules in "
 "order to follow this section."
 msgstr ""
+"Für Nicht-Australier: Die AFL ist ein australischer Regelfußball-Wettbewerb. "
+"Sie müssen nichts über australische Regeln wissen, um diesem Abschnitt "
+"folgen zu können."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:4
 msgid "Measures of central tendency"
-msgstr ""
+msgstr "Maße der zentralen Tendenz"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:6
 msgid ""
@@ -112,10 +148,20 @@ msgid ""
 "median and mode. I’ll explain each of these in turn, and then discuss "
 "when each of them is useful."
 msgstr ""
+"Das Erstellen von Diagrammen, wie ich es in :numref:`fig-aflMargins` getan "
+"habe, ist ein ausgezeichnetes Mittel, um das Wesentliche dessen zu "
+"vermitteln, was die Daten zu sagen versuchen. Es ist oft sehr nützlich, die "
+"Daten in ein paar einfachen „zusammenfassenden“ Statistiken "
+"zusammenzufassen. In den meisten Fällen ist das erste, was Sie berechnen "
+"möchten, ein Maß für die **zentrale Tendenz**. Das heißt, Sie möchten etwas "
+"darüber wissen, wo der „Durchschnitt“ oder die „Mitte“ Ihrer Daten liegt. "
+"Die drei am häufigsten verwendeten Maße sind der Mittelwert, der Median und "
+"der Modus. Ich werde sie nacheinander erklären und dann erörtern, wann sie "
+"nützlich sind."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:17
 msgid "The mean"
-msgstr ""
+msgstr "Der Mittelwert"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:19
 msgid ""
@@ -124,6 +170,10 @@ msgid ""
 " values. The first five AFL winning margins were 56, 31, 56, 8 and 32, so"
 " the mean of these observations is just:"
 msgstr ""
+"Der **Mittelwert** einer Reihe von Beobachtungen ist einfach ein normaler, "
+"altmodischer Durchschnitt. Man addiert alle Werte und teilt sie dann durch "
+"die Gesamtzahl der Werte. Die ersten fünf AFL-Gewinnmargen waren 56, 31, 56, "
+"8 und 32, also ist der Mittelwert dieser Beobachtungen:"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:24
 msgid ""
@@ -143,6 +193,13 @@ msgid ""
 "describe this calculation, and talk about how the calculations would be "
 "done in jamovi."
 msgstr ""
+"Natürlich ist diese Definition des Mittelwerts für niemanden etwas Neues. "
+"Durchschnittswerte (d. h. Mittelwerte) werden im täglichen Leben so häufig "
+"verwendet, dass sie einem ziemlich vertraut sind. Da das Konzept des "
+"Mittelwerts jedoch bereits jedem bekannt ist, möchte ich dies zum Anlass "
+"nehmen, einige der mathematischen Notationen einzuführen, die Statistiker "
+"zur Beschreibung dieser Berechnung verwenden, und zu erläutern, wie die "
+"Berechnungen in jamovi durchgeführt werden würden."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:33
 msgid ""
@@ -160,22 +217,36 @@ msgid ""
 " symbol used to refer to it and the actual value that the observation "
 "corresponds to:"
 msgstr ""
+"Die erste Notation, die wir einführen müssen, ist *N*, die wir verwenden "
+"werden, um die Anzahl der Beobachtungen zu bezeichnen, über die wir den "
+"Durchschnitt bilden (in diesem Fall *N* = 5). Als Nächstes müssen wir den "
+"Beobachtungen selbst eine Bezeichnung zuweisen. Traditionell wird dafür *X* "
+"verwendet, und mit tiefgestellten Indizes wird angegeben, um welche "
+"Beobachtung es sich tatsächlich handelt. Das heißt, wir verwenden *X*\\ "
+":sub:`1` für die erste Beobachtung, *X*\\ :sub:`2` für die zweite "
+"Beobachtung, und so weiter bis hin zu *X*\\ :sub:`N` für die letzte "
+"Beobachtung. Oder, um das Gleiche etwas abstrakter auszudrücken, verwenden "
+"wir *X*\\ :sub:`i` für die *i*-te Beobachtung. Um die Notation zu "
+"verdeutlichen, sind in der folgenden Tabelle die 5 Beobachtungen in der "
+"Variablen ``afl.margins`` aufgelistet, zusammen mit dem mathematischen "
+"Symbol, das sich auf sie bezieht, und dem tatsächlichen Wert, dem die "
+"Beobachtung entspricht:"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:47
 msgid "the observation"
-msgstr ""
+msgstr "die Beobachtung"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:47
 msgid "its symbol"
-msgstr ""
+msgstr "ihr Symbol"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:47
 msgid "the observed value"
-msgstr ""
+msgstr "der beobachtete Wert"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:49
 msgid "winning margin, game 1"
-msgstr ""
+msgstr "Gewinnspanne, Spiel 1"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:49
 msgid "*X*\\ :sub:`1`"
@@ -183,11 +254,11 @@ msgstr "*X*\\ :sub:`1`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:49 ../../Ch04/Ch04_Descriptives_1.rst:53
 msgid "56 points"
-msgstr ""
+msgstr "56 Punkte"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:51
 msgid "winning margin, game 2"
-msgstr ""
+msgstr "Gewinnspanne, Spiel 2"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:51
 msgid "*X*\\ :sub:`2`"
@@ -195,11 +266,11 @@ msgstr "*X*\\ :sub:`2`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:51
 msgid "31 points"
-msgstr ""
+msgstr "31 Punkte"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:53
 msgid "winning margin, game 3"
-msgstr ""
+msgstr "Gewinnspanne, Spiel 3"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:53
 msgid "*X*\\ :sub:`3`"
@@ -207,7 +278,7 @@ msgstr "*X*\\ :sub:`3`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "winning margin, game 4"
-msgstr ""
+msgstr "Gewinnspanne, Spiel 4"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "*X*\\ :sub:`4`"
@@ -215,11 +286,11 @@ msgstr "*X*\\ :sub:`4`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "8 points"
-msgstr ""
+msgstr "8 Punkte"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:57
 msgid "winning margin, game 5"
-msgstr ""
+msgstr "Gewinnspanne, Spiel 5"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:57
 msgid "*X*\\ :sub:`5`"
@@ -227,7 +298,7 @@ msgstr "*X*\\ :sub:`5`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:57
 msgid "32 points"
-msgstr ""
+msgstr "32 Punkte"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:60
 msgid ""
@@ -235,6 +306,10 @@ msgid ""
 " *X̄* as the notation for the mean. So the calculation for the mean could"
 " be expressed using the following formula:"
 msgstr ""
+"Okay, versuchen wir nun, eine Formel für den Mittelwert zu schreiben. "
+"Traditionsgemäß verwenden wir *X̄* als Notation für den Mittelwert. Die "
+"Berechnung des Mittelwerts könnte also mit der folgenden Formel ausgedrückt "
+"werden:"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:64
 msgid ""
@@ -252,6 +327,12 @@ msgid ""
 " :sub:`1` + *X*\\ :sub:`2` + *X*\\ :sub:`3` + *X*\\ :sub:`4` + *X*\\ "
 ":sub:`5` or I could use the summation symbol to shorten it to this:"
 msgstr ""
+"Diese Formel ist völlig korrekt, aber sie ist furchtbar lang, also benutzen "
+"wir das **Summensymbol** Σ, um sie abzukürzen.\\ [#]_ Wenn ich die ersten "
+"fünf Beobachtungen zusammenzählen möchte, könnte ich die Summe auf die lange "
+"Art schreiben: *X*\\ :sub:`1` + *X*\\ :sub:`2` + *X*\\ :sub:`3` + *X*\\ "
+":sub:`4` + *X*\\ :sub:`5` oder ich kann das Summensymbol verwenden, um es "
+"auf diese Weise abzukürzen:"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:72
 msgid ""
@@ -269,6 +350,11 @@ msgid ""
 "this notation to write out the formula for the mean, which looks like "
 "this:"
 msgstr ""
+"Wörtlich genommen könnte man dies als „die Summe aller *i* Werte von 1 bis 5 "
+"des Wertes *X*\\ :sub:`i`“ lesen. Aber im Grunde bedeutet es „die Summe der "
+"ersten fünf Beobachtungen“. Auf jeden Fall können wir diese Notation "
+"verwenden, um die Formel für den Mittelwert aufzuschreiben, die wie folgt "
+"aussieht:"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:79
 msgid ""
@@ -293,10 +379,23 @@ msgid ""
 "able to “read” the equations, and to be able to see that it’s just saying"
 " “add up lots of things and then divide by another thing”."
 msgstr ""
+"Ehrlich gesagt kann ich mir nicht vorstellen, dass all diese mathematische "
+"Notation dazu beiträgt, das Konzept des Mittelwerts zu verdeutlichen. Im "
+"Grunde ist es nur eine schicke Art, das Gleiche auszudrücken, wie ich in "
+"Worten: alle Werte addieren und dann durch die Gesamtzahl der Posten teilen. "
+"Aber das ist eigentlich nicht der Grund, warum ich so ins Detail gegangen "
+"bin. Mein Ziel war es, dafür zu sorgen, dass jeder, der dieses Buch liest, "
+"sich über die Notation im Klaren ist, die wir im gesamten Buch verwenden "
+"werden: *X̄* für den Mittelwert, Σ für die Idee der Summierung, *X*\\ "
+":sub:`i` für die *i*-te Beobachtung und *N* für die Gesamtzahl der "
+"Beobachtungen. Wir werden diese Symbole häufig wiederverwenden, daher ist es "
+"wichtig, dass Sie sie gut genug verstehen, um die Gleichungen „lesen“ zu "
+"können und zu erkennen, dass es nur heißt: „Addiere viele Dinge und teile "
+"dann durch ein anderes Ding“."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:94
 msgid "Calculating the mean in jamovi"
-msgstr ""
+msgstr "Berechnen des Mittelwerts in jamovi"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:96
 msgid ""
