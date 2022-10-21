@@ -1010,8 +1010,8 @@ msgid ""
 "\\right)^2\n"
 "\n"
 msgstr ""
-"\\mbox{skewness}(X) = \\frac{1}{N \\hat{\\sigma}^3} \\sum_{i=1}^N (X_i - "
-"\\bar{X})^3\n"
+"\\mbox{Var}(X) = \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
+"\\right)^2\n"
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
@@ -1694,6 +1694,9 @@ msgid ""
 "\\mbox{mean}}{\\mbox{standard deviation}}\n"
 "\n"
 msgstr ""
+"\\mbox{standard score} = \\frac{\\mbox{raw score} - "
+"\\mbox{mean}}{\\mbox{standard deviation}}\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:48
 msgid "In actual maths, the equation for the *z*-score is"
