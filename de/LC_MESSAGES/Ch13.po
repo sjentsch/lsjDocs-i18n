@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-18 11:07+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-10-21 22:06+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
 "Language: de\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
@@ -953,7 +953,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "squared deviation"
-msgstr ""
+msgstr "quadrierte Abweichung"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "(|Y_ik| - |Yb_k|)"
