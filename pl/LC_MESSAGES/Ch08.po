@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-02 03:54+0100\n"
+"POT-Creation-Date: 2022-10-21 15:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch08/Ch08_Estimation.rst:4
 msgid "Estimating unknown quantities from a sample"
@@ -700,7 +700,7 @@ msgid ""
 "replication to the next."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_3.rst:58
+#: ../../Ch08/Ch08_Estimation_3.rst:57
 msgid "Ten replications of the IQ experiment, each with a sample size of *N* =5"
 msgstr ""
 
@@ -1283,63 +1283,61 @@ msgid ""
 "handy table:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:65 ../../Ch08/Ch08_Estimation_4.rst:260
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "Symbol"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:65 ../../Ch08/Ch08_Estimation_4.rst:260
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "What is it?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:65 ../../Ch08/Ch08_Estimation_4.rst:260
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "Do we know what it is?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:67
-msgid "*X̄*              |"
-msgstr "*X̄*              |"
-
-#: ../../Ch08/Ch08_Estimation_4.rst:67
-msgid "Sample mean           |"
+#: ../../Ch08/Ch08_Estimation_4.rst:70
+msgid "*X̄*"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:67
-msgid "Yes, calculated from the raw data |"
+#: ../../Ch08/Ch08_Estimation_4.rst:71
+msgid "Sample mean"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:69
+#: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:279
+msgid "Yes, calculated from the raw data"
+msgstr ""
+
+#: ../../Ch08/Ch08_Estimation_4.rst:73
 msgid "*µ*"
 msgstr "*µ*"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:69
+#: ../../Ch08/Ch08_Estimation_4.rst:74
 msgid "True population mean"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:265
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:271
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "Almost never known for sure"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:71
+#: ../../Ch08/Ch08_Estimation_4.rst:76
 msgid ":math:`\\hat{\\mu}`"
 msgstr ":math:`\\hat{\\mu}`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:71
+#: ../../Ch08/Ch08_Estimation_4.rst:77
 msgid "Estimate of the population mean"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:71
+#: ../../Ch08/Ch08_Estimation_4.rst:78
 msgid "Yes, identical to the sample mean in simple random samples"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:76
+#: ../../Ch08/Ch08_Estimation_4.rst:82
 msgid "Estimating the population standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:78
+#: ../../Ch08/Ch08_Estimation_4.rst:84
 msgid ""
 "So far, estimation seems pretty simple, and you might be wondering why I "
 "forced you to read through all that stuff about sampling theory. In the "
@@ -1354,7 +1352,7 @@ msgid ""
 "to do, but not quite."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:89
+#: ../../Ch08/Ch08_Estimation_4.rst:95
 msgid ""
 "Here’s why. Suppose I have a sample that contains a single observation. "
 "For this example, it helps to consider a sample where you have no "
@@ -1364,11 +1362,11 @@ msgid ""
 "shoes have a cromulence of 20. So here’s my sample:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:96
+#: ../../Ch08/Ch08_Estimation_4.rst:102
 msgid "``20``"
 msgstr "``20``"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:98
+#: ../../Ch08/Ch08_Estimation_4.rst:104
 msgid ""
 "This is a perfectly legitimate sample, even if it does have a sample size"
 " of *N* = 1. It has a sample mean of 20 and because every observation in "
@@ -1385,7 +1383,7 @@ msgid ""
 "*feels* like the right answer is just to say “no idea at all”."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:112
+#: ../../Ch08/Ch08_Estimation_4.rst:118
 msgid ""
 "Notice that you *don’t* have the same intuition when it comes to the "
 "sample mean and the population mean. If forced to make a best guess about"
@@ -1395,18 +1393,18 @@ msgid ""
 "it’s still the best guess you can make."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:119
+#: ../../Ch08/Ch08_Estimation_4.rst:125
 msgid ""
 "Let’s extend this example a little. Suppose I now make a second "
 "observation. My data set now has *N* = 2 observations of the cromulence "
 "of shoes, and the complete sample now looks like this:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:123
+#: ../../Ch08/Ch08_Estimation_4.rst:129
 msgid "``20, 22``"
 msgstr "``20, 22``"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:125
+#: ../../Ch08/Ch08_Estimation_4.rst:131
 msgid ""
 "This time around, our sample is *just* large enough for us to be able to "
 "observe some variability: two observations is the bare minimum number "
@@ -1427,7 +1425,7 @@ msgid ""
 " standard deviation."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:141
+#: ../../Ch08/Ch08_Estimation_4.rst:147
 msgid ""
 "This intuition feels right, but it would be nice to demonstrate this "
 "somehow. There are in fact mathematical proofs that confirm this "
@@ -1448,11 +1446,11 @@ msgid ""
 "also 100."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:164
+#: ../../Ch08/Ch08_Estimation_4.rst:170
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:164
+#: ../../Ch08/Ch08_Estimation_4.rst:170
 msgid ""
 "Sampling distribution of the sample standard deviation for a “two IQ "
 "scores” experiment. The true population standard deviation is 15 (dashed "
@@ -1464,7 +1462,7 @@ msgid ""
 " deviation."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:174
+#: ../../Ch08/Ch08_Estimation_4.rst:180
 msgid ""
 "Now let’s extend the simulation. Instead of restricting ourselves to the "
 "situation where *N* = 2, let’s repeat the exercise for sample sizes from "
@@ -1484,11 +1482,11 @@ msgid ""
 " standard deviation *s*."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:197
+#: ../../Ch08/Ch08_Estimation_4.rst:203
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:197
+#: ../../Ch08/Ch08_Estimation_4.rst:203
 msgid ""
 "Illustration of the fact that the sample mean is an unbiased estimator of"
 " the population mean (left panel), but the sample standard deviation is a"
@@ -1503,7 +1501,7 @@ msgid ""
 "small sample sizes."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:210
+#: ../../Ch08/Ch08_Estimation_4.rst:216
 msgid ""
 "The fix to this systematic bias turns out to be very simple. Here’s how "
 "it works. Before tackling the standard deviation let’s look at the "
@@ -1512,7 +1510,7 @@ msgid ""
 "average of the squared deviations from the sample mean. That is:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:216
+#: ../../Ch08/Ch08_Estimation_4.rst:222
 msgid ""
 "s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
@@ -1520,7 +1518,7 @@ msgstr ""
 "s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:218
+#: ../../Ch08/Ch08_Estimation_4.rst:224
 msgid ""
 "The sample variance *s*² is a biased estimator of the population variance"
 " *σ*². But as it turns out, we only need to make a tiny tweak to "
@@ -1529,7 +1527,7 @@ msgid ""
 "formula:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:223
+#: ../../Ch08/Ch08_Estimation_4.rst:229
 msgid ""
 "\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
@@ -1537,7 +1535,7 @@ msgstr ""
 "\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:225
+#: ../../Ch08/Ch08_Estimation_4.rst:231
 msgid ""
 "This is an unbiased estimator of the population variance *σ*. Moreover, "
 "this finally answers the question we raised in :doc:`Measures of "
@@ -1548,7 +1546,7 @@ msgid ""
 "estimate of the population standard deviation becomes:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:232
+#: ../../Ch08/Ch08_Estimation_4.rst:238
 msgid ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
@@ -1556,13 +1554,13 @@ msgstr ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:234
+#: ../../Ch08/Ch08_Estimation_4.rst:240
 msgid ""
 "and when we use jamovi’s built in standard deviation function, what it’s "
 "doing is calculating :math:`\\hat\\sigma`, not *s*.\\ [#]_"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:237
+#: ../../Ch08/Ch08_Estimation_4.rst:243
 msgid ""
 "One final point. In practice, a lot of people tend to refer to "
 ":math:`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as "
@@ -1585,73 +1583,69 @@ msgid ""
 "that."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:256
+#: ../../Ch08/Ch08_Estimation_4.rst:262
 msgid ""
 "To finish this section off, here’s another couple of tables to help keep "
 "things clear."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:262
+#: ../../Ch08/Ch08_Estimation_4.rst:268
 msgid "*s*"
 msgstr "*s*"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:262
+#: ../../Ch08/Ch08_Estimation_4.rst:268
 msgid "Sample standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:262 ../../Ch08/Ch08_Estimation_4.rst:276
-msgid "Yes, calculated from the raw data"
-msgstr ""
-
-#: ../../Ch08/Ch08_Estimation_4.rst:265
+#: ../../Ch08/Ch08_Estimation_4.rst:271
 msgid "*σ*"
 msgstr "*σ*"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:265
+#: ../../Ch08/Ch08_Estimation_4.rst:271
 msgid "Population standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid ":math:`\\hat{\\sigma}`"
 msgstr ":math:`\\hat{\\sigma}`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid "Estimate of the population standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid "Yes, but not the same as the sample standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:276
+#: ../../Ch08/Ch08_Estimation_4.rst:279
 msgid "*s*\\ ²"
 msgstr "*s*\\ ²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:276
+#: ../../Ch08/Ch08_Estimation_4.rst:279
 msgid "Sample variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "*σ*\\ ²"
 msgstr "*σ*\\ ²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "Population variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid ":math:`\\hat{\\sigma}^2`"
 msgstr ":math:`\\hat{\\sigma}^2`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid "Estimate of the population variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid "Yes, but not the same as the sample variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:289
+#: ../../Ch08/Ch08_Estimation_4.rst:292
 msgid ""
 "Please note that if you were *actually* interested in this question you "
 "would need to be a *lot* more careful than I’m being here. You *can’t* "
@@ -1678,7 +1672,7 @@ msgid ""
 " *hard*."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:313
+#: ../../Ch08/Ch08_Estimation_4.rst:316
 msgid ""
 "I should note that I’m hiding something here. Unbiasedness is a desirable"
 " characteristic for an estimator, but there are other things that matter "
@@ -1687,7 +1681,7 @@ msgid ""
 "there’s some hidden complexity here."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:320
+#: ../../Ch08/Ch08_Estimation_4.rst:323
 msgid ""
 "Okay, I’m hiding something else here. In a bizarre and counter-intuitive "
 "twist, since :math:`\\hat\\sigma^2` is an unbiased estimator of *σ*², "
@@ -2071,4 +2065,13 @@ msgid ""
 "simple random sample. There is a lot of statistical theory you can draw "
 "on to handle this situation, but it’s well beyond the scope of this book."
 msgstr ""
+
+#~ msgid "*X̄*              |"
+#~ msgstr "*X̄*              |"
+
+#~ msgid "Sample mean           |"
+#~ msgstr ""
+
+#~ msgid "Yes, calculated from the raw data |"
+#~ msgstr ""
 

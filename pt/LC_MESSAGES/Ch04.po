@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 13:21+0200\n"
+"POT-Creation-Date: 2022-10-21 15:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -621,8 +621,8 @@ msgid ""
 "Now that we have our frequency table we can just look at it and see that,"
 " over the 24 years for which we have data, Geelong has played in more "
 "finals than any other team. Thus, the mode of the ``afl.finalists`` data "
-"is \"Geelong\". We can see that Geelong (39 finals) played in more finals"
-" than any other team during the 1987 to 2010 period. It’s also worth "
+"is “Geelong”. We can see that Geelong (39 finals) played in more finals "
+"than any other team during the 1987 to 2010 period. It’s also worth "
 "noting that in the ``Descriptives`` Table no results are calculated for "
 "Mean, Median, Minimum or Maximum. This is because the ``afl.finalists`` "
 "variable is a nominal text variable so it makes no sense to calculate "
@@ -807,143 +807,145 @@ msgid ""
 "five observations:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:112
-#: ../../Ch04/Ch04_Descriptives_2.rst:179
-msgid "English:"
+#: ../../Ch04/Ch04_Descriptives_2.rst:114
+#: ../../Ch04/Ch04_Descriptives_2.rst:205
+msgid "Description:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:112
-#: ../../Ch04/Ch04_Descriptives_2.rst:179
+#: ../../Ch04/Ch04_Descriptives_2.rst:115
+#: ../../Ch04/Ch04_Descriptives_2.rst:206
 msgid "which game"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:112
-#: ../../Ch04/Ch04_Descriptives_2.rst:179
+#: ../../Ch04/Ch04_Descriptives_2.rst:116
+#: ../../Ch04/Ch04_Descriptives_2.rst:207
 msgid "value"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:112
-#: ../../Ch04/Ch04_Descriptives_2.rst:179
+#: ../../Ch04/Ch04_Descriptives_2.rst:117
+#: ../../Ch04/Ch04_Descriptives_2.rst:208
 msgid "deviation from mean"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:112
+#: ../../Ch04/Ch04_Descriptives_2.rst:118
 msgid "absolute deviation"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:114
-#: ../../Ch04/Ch04_Descriptives_2.rst:181
-msgid "notation:"
+#: ../../Ch04/Ch04_Descriptives_2.rst:119
+#: ../../Ch04/Ch04_Descriptives_2.rst:210
+msgid "Notation:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:114
-#: ../../Ch04/Ch04_Descriptives_2.rst:181
+#: ../../Ch04/Ch04_Descriptives_2.rst:120
+#: ../../Ch04/Ch04_Descriptives_2.rst:211
 msgid "i"
 msgstr "i"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:114
-#: ../../Ch04/Ch04_Descriptives_2.rst:181
+#: ../../Ch04/Ch04_Descriptives_2.rst:121
+#: ../../Ch04/Ch04_Descriptives_2.rst:212
 msgid "*X*\\ :sub:`i`"
 msgstr "*X*\\ :sub:`i`"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:114
-#: ../../Ch04/Ch04_Descriptives_2.rst:181
+#: ../../Ch04/Ch04_Descriptives_2.rst:122
+#: ../../Ch04/Ch04_Descriptives_2.rst:213
 msgid "*X*\\ :sub:`i` - *X̄*"
 msgstr "*X*\\ :sub:`i` - *X̄*"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:114
-msgid "\\|*X*\\ :sub:`i` - *X̄*\\|"
-msgstr "\\|*X*\\ :sub:`i` - *X̄*\\|"
+#: ../../Ch04/Ch04_Descriptives_2.rst:123
+msgid "\\| *X*\\ :sub:`i` - *X̄* \\|"
+msgstr "\\| *X*\\ :sub:`i` - *X̄* \\|"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:116
-#: ../../Ch04/Ch04_Descriptives_2.rst:183
+#: ../../Ch04/Ch04_Descriptives_2.rst:125
+#: ../../Ch04/Ch04_Descriptives_2.rst:216
 msgid "1"
 msgstr "1"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:116
-#: ../../Ch04/Ch04_Descriptives_2.rst:120
-#: ../../Ch04/Ch04_Descriptives_2.rst:183
-#: ../../Ch04/Ch04_Descriptives_2.rst:187
+#: ../../Ch04/Ch04_Descriptives_2.rst:126
+#: ../../Ch04/Ch04_Descriptives_2.rst:136
+#: ../../Ch04/Ch04_Descriptives_2.rst:217
+#: ../../Ch04/Ch04_Descriptives_2.rst:227
 msgid "56"
 msgstr "56"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:116
-#: ../../Ch04/Ch04_Descriptives_2.rst:120
-#: ../../Ch04/Ch04_Descriptives_2.rst:183
-#: ../../Ch04/Ch04_Descriptives_2.rst:187
+#: ../../Ch04/Ch04_Descriptives_2.rst:127
+#: ../../Ch04/Ch04_Descriptives_2.rst:128
+#: ../../Ch04/Ch04_Descriptives_2.rst:137
+#: ../../Ch04/Ch04_Descriptives_2.rst:138
+#: ../../Ch04/Ch04_Descriptives_2.rst:218
+#: ../../Ch04/Ch04_Descriptives_2.rst:228
 msgid "19.4"
 msgstr "19.4"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:118
-#: ../../Ch04/Ch04_Descriptives_2.rst:185
+#: ../../Ch04/Ch04_Descriptives_2.rst:130
+#: ../../Ch04/Ch04_Descriptives_2.rst:221
 msgid "2"
 msgstr "2"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:118
-#: ../../Ch04/Ch04_Descriptives_2.rst:185
+#: ../../Ch04/Ch04_Descriptives_2.rst:131
+#: ../../Ch04/Ch04_Descriptives_2.rst:222
 msgid "31"
 msgstr "31"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:118
-#: ../../Ch04/Ch04_Descriptives_2.rst:185
+#: ../../Ch04/Ch04_Descriptives_2.rst:132
+#: ../../Ch04/Ch04_Descriptives_2.rst:223
 msgid "-5.6"
 msgstr "-5.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:118
+#: ../../Ch04/Ch04_Descriptives_2.rst:133
 msgid "5.6"
 msgstr "5.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:120
-#: ../../Ch04/Ch04_Descriptives_2.rst:187
+#: ../../Ch04/Ch04_Descriptives_2.rst:135
+#: ../../Ch04/Ch04_Descriptives_2.rst:226
 msgid "3"
 msgstr "3"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:122
-#: ../../Ch04/Ch04_Descriptives_2.rst:189
+#: ../../Ch04/Ch04_Descriptives_2.rst:140
+#: ../../Ch04/Ch04_Descriptives_2.rst:231
 msgid "4"
 msgstr "4"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:122
-#: ../../Ch04/Ch04_Descriptives_2.rst:189
+#: ../../Ch04/Ch04_Descriptives_2.rst:141
+#: ../../Ch04/Ch04_Descriptives_2.rst:232
 msgid "8"
 msgstr "8"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:122
-#: ../../Ch04/Ch04_Descriptives_2.rst:189
+#: ../../Ch04/Ch04_Descriptives_2.rst:142
+#: ../../Ch04/Ch04_Descriptives_2.rst:233
 msgid "-28.6"
 msgstr "-28.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:122
+#: ../../Ch04/Ch04_Descriptives_2.rst:143
 msgid "28.6"
 msgstr "28.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:124
-#: ../../Ch04/Ch04_Descriptives_2.rst:191
+#: ../../Ch04/Ch04_Descriptives_2.rst:145
+#: ../../Ch04/Ch04_Descriptives_2.rst:236
 msgid "5"
 msgstr "5"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:124
-#: ../../Ch04/Ch04_Descriptives_2.rst:191
+#: ../../Ch04/Ch04_Descriptives_2.rst:146
+#: ../../Ch04/Ch04_Descriptives_2.rst:237
 msgid "32"
 msgstr "32"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:124
-#: ../../Ch04/Ch04_Descriptives_2.rst:191
+#: ../../Ch04/Ch04_Descriptives_2.rst:147
+#: ../../Ch04/Ch04_Descriptives_2.rst:238
 msgid "-4.6"
 msgstr "-4.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:124
+#: ../../Ch04/Ch04_Descriptives_2.rst:148
 msgid "4.6"
 msgstr "4.6"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:127
+#: ../../Ch04/Ch04_Descriptives_2.rst:151
 msgid ""
 "Now that we have calculated the absolute deviation score for every "
 "observation in the data set, all that we have to do to calculate the mean"
 " of these scores. Let’s do that:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:131
+#: ../../Ch04/Ch04_Descriptives_2.rst:155
 msgid ""
 "\\frac{19.4 + 5.6 + 19.4 + 28.6 + 4.6}{5} = 15.52\n"
 "\n"
@@ -951,13 +953,13 @@ msgstr ""
 "\\frac{19.4 + 5.6 + 19.4 + 28.6 + 4.6}{5} = 15.52\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:133
+#: ../../Ch04/Ch04_Descriptives_2.rst:157
 msgid ""
 "And we’re done. The mean absolute deviation for these five scores is "
 "\\15.52."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:136
+#: ../../Ch04/Ch04_Descriptives_2.rst:160
 msgid ""
 "However, whilst our calculations for this little example are at an end, "
 "we do have a couple of things left to talk about. First, we should really"
@@ -971,7 +973,7 @@ msgid ""
 " here’s the formula that describes what we just calculated:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:147
+#: ../../Ch04/Ch04_Descriptives_2.rst:171
 msgid ""
 "AAD(X) = \\frac{1}{N} \\sum_{i = 1}^N |X_i - \\bar{X}|\n"
 "\n"
@@ -979,11 +981,11 @@ msgstr ""
 "AAD(X) = \\frac{1}{N} \\sum_{i = 1}^N |X_i - \\bar{X}|\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:150
+#: ../../Ch04/Ch04_Descriptives_2.rst:174
 msgid "Variance"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:152
+#: ../../Ch04/Ch04_Descriptives_2.rst:176
 msgid ""
 "Although the average absolute deviation measure has its uses, it’s not "
 "the best measure of variability to use. From a purely mathematical "
@@ -996,20 +998,20 @@ msgid ""
 "*s*\\ ² (the reason for this will become clearer shortly)."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:162
+#: ../../Ch04/Ch04_Descriptives_2.rst:186
 msgid ""
 "The formula that we use to calculate the variance of a set of "
 "observations is as follows:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:165
+#: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid ""
 "\\mbox{Var}(X) = \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
 "\\right)^2\n"
 "\n"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:167
+#: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid ""
 "As you can see, it’s basically the same formula that we used to calculate"
 " the average absolute deviation, except that instead of using “absolute "
@@ -1017,7 +1019,7 @@ msgid ""
 "variance is sometimes referred to as the “mean square deviation”."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:173
+#: ../../Ch04/Ch04_Descriptives_2.rst:197
 msgid ""
 "Now that we’ve got the basic idea, let’s have a look at a concrete "
 "example. Once again, let’s use the first five AFL games as our data. If "
@@ -1025,32 +1027,32 @@ msgid ""
 "following table:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:179
+#: ../../Ch04/Ch04_Descriptives_2.rst:209
 msgid "squared deviation"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:181
-msgid "(*X*\\ :sub:`i` - *X̄*)\\ ² |"
-msgstr ""
+#: ../../Ch04/Ch04_Descriptives_2.rst:214
+msgid "(*X*\\ :sub:`i` - *X̄*)\\ ²"
+msgstr "(*X*\\ :sub:`i` - *X̄*)\\ ²"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:183
-#: ../../Ch04/Ch04_Descriptives_2.rst:187
+#: ../../Ch04/Ch04_Descriptives_2.rst:219
+#: ../../Ch04/Ch04_Descriptives_2.rst:229
 msgid "376.36"
 msgstr "376.36"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:185
+#: ../../Ch04/Ch04_Descriptives_2.rst:224
 msgid "31.36"
 msgstr "31.36"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:189
+#: ../../Ch04/Ch04_Descriptives_2.rst:234
 msgid "817.96"
 msgstr "817.96"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:191
+#: ../../Ch04/Ch04_Descriptives_2.rst:239
 msgid "21.16"
 msgstr "21.16"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:194
+#: ../../Ch04/Ch04_Descriptives_2.rst:242
 msgid ""
 "That last column contains all of our squared deviations, so all we have "
 "to do is average them. If we do that by hand, i.e. using a calculator, we"
@@ -1070,18 +1072,18 @@ msgid ""
 " a typo? Am I an idiot?"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:215
-#: ../../Ch04/Ch04_Descriptives_2.rst:336
+#: ../../Ch04/Ch04_Descriptives_2.rst:263
+#: ../../Ch04/Ch04_Descriptives_2.rst:384
 msgid "Variance for the first 5 values of ``afl.margins``"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:215
+#: ../../Ch04/Ch04_Descriptives_2.rst:263
 msgid ""
 "Screenshot of jamovi showing the Variance for the first 5 values of the "
 "``afl.margins`` variable"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:220
+#: ../../Ch04/Ch04_Descriptives_2.rst:268
 msgid ""
 "As it happens, the answer is no.\\ [#]_ It’s not a typo, and jamovi is "
 "not making a mistake. In fact, it’s very simple to explain what jamovi is"
@@ -1092,11 +1094,11 @@ msgid ""
 "number of data points *N*, jamovi has chosen to divide by *N - 1*."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:228
+#: ../../Ch04/Ch04_Descriptives_2.rst:276
 msgid "In other words, the formula that jamovi is using is this one:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:230
+#: ../../Ch04/Ch04_Descriptives_2.rst:278
 msgid ""
 "\\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2\n"
 "\n"
@@ -1104,7 +1106,7 @@ msgstr ""
 "\\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:232
+#: ../../Ch04/Ch04_Descriptives_2.rst:280
 msgid ""
 "So that’s the *what*. The real question is *why* jamovi is dividing by *N"
 " - 1* and not by *N*. After all, the variance is supposed to be the "
@@ -1129,7 +1131,7 @@ msgid ""
 "later on :doc:`when we talk about estimation <../Ch08/Ch08_Estimation>`."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:253
+#: ../../Ch04/Ch04_Descriptives_2.rst:301
 msgid ""
 "Okay, one last thing. This section so far has read a bit like a mystery "
 "novel. I’ve shown you how to calculate the variance, described the weird "
@@ -1154,11 +1156,11 @@ msgid ""
 "of this gibberish unit, it is totally meaningless to a human."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:277
+#: ../../Ch04/Ch04_Descriptives_2.rst:325
 msgid "Standard deviation"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:279
+#: ../../Ch04/Ch04_Descriptives_2.rst:327
 msgid ""
 "Okay, suppose that you like the idea of using the variance because of "
 "those nice mathematical properties that I haven’t talked about, but since"
@@ -1175,13 +1177,13 @@ msgid ""
 "times."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:293
+#: ../../Ch04/Ch04_Descriptives_2.rst:341
 msgid ""
 "Because the standard deviation is equal to the square root of the "
 "variance, you probably won’t be surprised to see that the formula is:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:296
+#: ../../Ch04/Ch04_Descriptives_2.rst:344
 msgid ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 "
 "}\n"
@@ -1191,14 +1193,14 @@ msgstr ""
 "}\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:298
+#: ../../Ch04/Ch04_Descriptives_2.rst:346
 msgid ""
 "and in jamovi there is a check box for ``Std. deviation`` right above the"
 " check box for ``Variance``. Selecting this gives a value of **26.07** "
 "for the standard deviation."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:302
+#: ../../Ch04/Ch04_Descriptives_2.rst:350
 msgid ""
 "However, as you might have guessed from our discussion of the variance, "
 "what jamovi actually calculates is slightly different to the formula "
@@ -1206,7 +1208,7 @@ msgid ""
 "calculates is a version that divides by *N - 1* rather than *N*."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:307
+#: ../../Ch04/Ch04_Descriptives_2.rst:355
 msgid ""
 "For reasons that will make sense when we return to this topic in chapter "
 ":doc:`Estimating unknown quantities from a sample "
@@ -1214,7 +1216,7 @@ msgid ""
 ":math:`\\hat\\sigma` (read as: “sigma hat”), and the formula for this is:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:312
+#: ../../Ch04/Ch04_Descriptives_2.rst:360
 msgid ""
 "\\hat\\sigma = \\sqrt{ \\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - "
 "\\bar{X} \\right)^2 }\n"
@@ -1224,7 +1226,7 @@ msgstr ""
 "\\bar{X} \\right)^2 }\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:314
+#: ../../Ch04/Ch04_Descriptives_2.rst:362
 #, python-format
 msgid ""
 "Interpreting standard deviations is slightly more complex. Because the "
@@ -1245,7 +1247,7 @@ msgid ""
 "aflSD`."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:336
+#: ../../Ch04/Ch04_Descriptives_2.rst:384
 #, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data."
@@ -1255,32 +1257,32 @@ msgid ""
 "“approximately 68% rule” discussed in the main text."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:345
+#: ../../Ch04/Ch04_Descriptives_2.rst:393
 msgid "Which measure to use?"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:347
+#: ../../Ch04/Ch04_Descriptives_2.rst:395
 msgid ""
 "We’ve discussed quite a few measures of spread: range, IQR, mean absolute"
 " deviation, variance and standard deviation; and hinted at their "
 "strengths and weaknesses. Here’s a quick summary:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:351
+#: ../../Ch04/Ch04_Descriptives_2.rst:399
 msgid ""
 "*Range*. Gives you the full spread of the data. It’s very vulnerable to "
 "outliers and as a consequence it isn’t often used unless you have good "
 "reasons to care about the extremes in the data."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:355
+#: ../../Ch04/Ch04_Descriptives_2.rst:403
 msgid ""
 "*Interquartile range*. Tells you where the “middle half” of the data "
 "sits. It’s pretty robust and complements the median nicely. This is used "
 "a lot."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:359
+#: ../../Ch04/Ch04_Descriptives_2.rst:407
 msgid ""
 "*Mean absolute deviation*. Tells you how far “on average” the "
 "observations are from the mean. It’s very interpretable but has a few "
@@ -1288,7 +1290,7 @@ msgid ""
 "statisticians than the standard deviation. Used sometimes, but not often."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:365
+#: ../../Ch04/Ch04_Descriptives_2.rst:413
 msgid ""
 "*Variance*. Tells you the average squared deviation from the mean. It’s "
 "mathematically elegant and is probably the “right” way to describe "
@@ -1298,7 +1300,7 @@ msgid ""
 "number of statistical tools."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:372
+#: ../../Ch04/Ch04_Descriptives_2.rst:420
 msgid ""
 "*Standard deviation*. This is the square root of the variance. It’s "
 "fairly elegant mathematically and it’s expressed in the same units as the"
@@ -1307,7 +1309,7 @@ msgid ""
 "the most popular measure of variation."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:378
+#: ../../Ch04/Ch04_Descriptives_2.rst:426
 msgid ""
 "In short, the IQR and the standard deviation are easily the two most "
 "common measures used to report the variability of the data. But there are"
@@ -1316,7 +1318,7 @@ msgid ""
 "somewhere."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:387
+#: ../../Ch04/Ch04_Descriptives_2.rst:435
 msgid ""
 "Well, I will very briefly mention the one that I think is coolest, for a "
 "very particular definition of “cool”, that is. Variances are *additive*. "
@@ -1328,11 +1330,11 @@ msgid ""
 "talk about in this section."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:397
+#: ../../Ch04/Ch04_Descriptives_2.rst:445
 msgid "With the possible exception of the third question."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:400
+#: ../../Ch04/Ch04_Descriptives_2.rst:448
 msgid ""
 "Strictly, the assumption is that the data are *normally* distributed, "
 "which is an important concept that we’ll discuss more in chapter "
@@ -1950,5 +1952,35 @@ msgstr ""
 #~ msgid ""
 #~ "Screenshot of jamovi showing the modal"
 #~ " value for the afl.margins variable"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Now that we have our frequency "
+#~ "table we can just look at it "
+#~ "and see that, over the 24 years"
+#~ " for which we have data, Geelong "
+#~ "has played in more finals than any"
+#~ " other team. Thus, the mode of "
+#~ "the ``afl.finalists`` data is \"Geelong\". "
+#~ "We can see that Geelong (39 "
+#~ "finals) played in more finals than "
+#~ "any other team during the 1987 to"
+#~ " 2010 period. It’s also worth noting"
+#~ " that in the ``Descriptives`` Table "
+#~ "no results are calculated for Mean, "
+#~ "Median, Minimum or Maximum. This is "
+#~ "because the ``afl.finalists`` variable is "
+#~ "a nominal text variable so it "
+#~ "makes no sense to calculate these "
+#~ "values."
+#~ msgstr ""
+
+#~ msgid "English:"
+#~ msgstr ""
+
+#~ msgid "notation:"
+#~ msgstr ""
+
+#~ msgid "(*X*\\ :sub:`i` - *X̄*)\\ ² |"
 #~ msgstr ""
 
