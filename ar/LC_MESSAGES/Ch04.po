@@ -1000,6 +1000,9 @@ msgid ""
 "\\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{Var}(X) = \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
+"\\right)^2\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid ""
@@ -1505,6 +1508,9 @@ msgid ""
 "X_i - \\bar{X} \\right)^4  - 3\n"
 "\n"
 msgstr ""
+"\\mbox{kurtosis}(X) = \\frac{1}{N \\hat\\sigma^4} \\sum_{i=1}^N \\left( "
+"X_i - \\bar{X} \\right)^4  - 3\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:108
 msgid "I know, it’s not terribly interesting to me either."
@@ -1670,6 +1676,9 @@ msgid ""
 "\\mbox{mean}}{\\mbox{standard deviation}}\n"
 "\n"
 msgstr ""
+"\\mbox{standard score} = \\frac{\\mbox{raw score} - "
+"\\mbox{mean}}{\\mbox{standard deviation}}\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:48
 msgid "In actual maths, the equation for the *z*-score is"
