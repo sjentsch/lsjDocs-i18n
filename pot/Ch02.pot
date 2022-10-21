@@ -2147,14 +2147,3 @@ msgid ""
 "find dozens."
 msgstr ""
 
-#, fuzzy
-#~ msgid "2"
-#~ msgstr "12"
-
-#, fuzzy
-#~ msgid "3"
-#~ msgstr "30"
-
-#, fuzzy
-#~ msgid "4"
-#~ msgstr "48"

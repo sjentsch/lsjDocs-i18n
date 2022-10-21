@@ -822,14 +822,12 @@ msgstr "*X*\\ :sub:`i`"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:122
 #: ../../Ch04/Ch04_Descriptives_2.rst:213
-#, fuzzy
 msgid "*X*\\ :sub:`i` - *X̄*"
-msgstr "*X*\\ :sub:`i` - *X̄* |"
+msgstr "*X*\\ :sub:`i` - *X̄*"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:123
-#, fuzzy
 msgid "\\| *X*\\ :sub:`i` - *X̄* \\|"
-msgstr "\\|*X*\\ :sub:`i` - *X̄*\\| |"
+msgstr "\\| *X*\\ :sub:`i` - *X̄* \\|"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:125
 #: ../../Ch04/Ch04_Descriptives_2.rst:216
@@ -985,6 +983,9 @@ msgid ""
 "\\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{Var}(X) = \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
+"\\right)^2\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid ""
@@ -1006,9 +1007,8 @@ msgid "squared deviation"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:214
-#, fuzzy
 msgid "(*X*\\ :sub:`i` - *X̄*)\\ ²"
-msgstr "*X*\\ :sub:`i` - *X̄* |"
+msgstr "(*X*\\ :sub:`i` - *X̄*)\\ ²"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:219
 #: ../../Ch04/Ch04_Descriptives_2.rst:229
@@ -1648,6 +1648,9 @@ msgid ""
 "{\\mbox{standard deviation}}\n"
 "\n"
 msgstr ""
+"\\mbox{standard score} = \\frac{\\mbox{raw score} - \\mbox{mean}}"
+"{\\mbox{standard deviation}}\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:48
 msgid "In actual maths, the equation for the *z*-score is"
