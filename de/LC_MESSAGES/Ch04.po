@@ -6,21 +6,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-21 15:29+0200\n"
-"PO-Revision-Date: 2022-10-20 20:35+0000\n"
+"PO-Revision-Date: 2022-10-21 15:07+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/>"
+"\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/lsjdocs/ch04/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
@@ -1017,10 +1017,22 @@ msgid ""
 "data. We’ll use this data to discuss several different measures of "
 "spread, each with different strengths and weaknesses."
 msgstr ""
+"Die Statistiken, die wir bisher besprochen haben, beziehen sich alle auf die "
+"*zentrale Tendenz*. Das heißt, sie alle sagen aus, welche Werte in den Daten "
+"„in der Mitte“ liegen oder „beliebt“ sind. Die zentrale Tendenz ist jedoch "
+"nicht die einzige Art der zusammenfassenden Statistik, die wir berechnen "
+"wollen. Der zweite Aspekt, der uns interessiert, ist ein Maß für die "
+"**Variabilität** der Daten. Das heißt, wie „gestreut“ sind die Daten? Wie "
+"\"weit\" entfernt vom Mittelwert oder Median liegen die beobachteten Werte "
+"tendenziell? Nehmen wir zunächst an, dass es sich bei den Daten um eine "
+"Intervall- oder Verhältnisskala handelt. Wir verwenden weiterhin die Daten "
+"von ``afl.margins``. Anhand dieser Daten werden wir verschiedene "
+"Streuungsmaße erörtern, die jeweils unterschiedliche Stärken und Schwächen "
+"aufweisen."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:18
 msgid "Range"
-msgstr ""
+msgstr "Spannweite (*range*)"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:20
 msgid ""
@@ -1033,16 +1045,28 @@ msgid ""
 "like our statistics to not be unduly influenced by these cases. For "
 "example, in a variable containing very extreme outliers"
 msgstr ""
+"Die **Spannweite** einer Variablen ist sehr einfach. Es handelt sich um den "
+"größten Wert, minus den kleinsten Wert. Bei den AFL-Gewinnspannen ist der "
+"Maximalwert 116 und der Minimalwert 0. Obwohl die Spanne die einfachste Art "
+"ist, um „Variabilität“ zu quantifizieren, ist sie auch eine der "
+"schlechtesten. Aus unserer Diskussion über den Mittelwert wissen wir, dass "
+"unser zusammenfassendes Maß robust sein soll. Wenn der Datensatz einen oder "
+"zwei extrem schlechte Werte enthält, möchten wir, dass unsere Statistiken "
+"durch diese Fälle nicht übermäßig beeinflusst werden. Zum Beispiel bei einer "
+"Variablen mit sehr extremen Ausreißern"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:33
 msgid ""
 "it is clear that the range is not robust. This variable has a range of "
 "110 but if the outlier were removed we would have a range of only 8."
 msgstr ""
+"wird klar, dass die Spanne nicht stabil ist. Diese Variable hat einen "
+"Bereich von 110, aber wenn der Ausreißer entfernt würde, hätten wir einen "
+"Bereich von nur 8."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:37
 msgid "Interquartile range"
-msgstr ""
+msgstr "Interquartilsabstand"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:39
 #, python-format
@@ -1057,16 +1081,25 @@ msgid ""
 "75th percentiles by clicking the checkbox ``Quartiles`` in the "
 "``Exploration`` → ``Descriptives`` → ``Statistics`` screen."
 msgstr ""
+"Der **Interquartilabstand** (IQR) ist wie der Bereich, aber anstelle der "
+"Differenz zwischen dem größten und dem kleinsten Wert wird die Differenz "
+"zwischen dem 25. Falls Sie noch nicht wissen, was ein **Perzentil** ist: Das "
+"10. Perzentil eines Datensatzes ist die kleinste Zahl *x*, bei der 10% der "
+"Daten kleiner sind als *x*. Die Idee ist uns bereits begegnet. Der Median "
+"eines Datensatzes ist sein 50. Perzentil! In jamovi können Sie ganz einfach "
+"das 25., 50. und 75. Perzentil angeben, indem Sie das Kontrollkästchen "
+"``Quartiles`` im Eingabefeld unter ``Exploration`` → ``Descriptives`` → "
+"``Statistics`` anklicken."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
 msgid "Quartiles for ``afl.margins``"
-msgstr ""
+msgstr "Quartile für ``afl.margins``"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
 msgid ""
 "Screenshot of jamovi showing the Quartiles for the ``afl.margins`` "
 "variable"
-msgstr ""
+msgstr "jamovi-Screenshot mit den Quartilen der Variable ``afl.margins``"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:59
 msgid ""
@@ -1081,10 +1114,21 @@ msgid ""
 " the 75th percentile, leaving the “middle half” of the data lying in "
 "between the two. And the IQR is the range covered by that middle half."
 msgstr ""
+"Es überrascht nicht, dass das 50. Perzentil in :numref:`fig-"
+"aflsmall_margins_iqr` dem Medianwert entspricht. Wenn man bedenkt, dass "
+"50,50 - 12,75 = 37,75 ist, kann man sehen, dass der Interquartilabstand für "
+"die AFL-Gewinnspannen 2010 37,75 beträgt. Während es offensichtlich ist, wie "
+"die Spannweite zu interpretieren ist, ist es etwas weniger offensichtlich, "
+"wie man den IQR interpretiert. Der einfachste Weg, sich das vorzustellen, "
+"ist folgender: Der Interquartilabstand ist der Bereich, der von der „"
+"mittleren Hälfte“ der Daten abgedeckt wird. Das heißt, ein Viertel der Daten "
+"liegt unter dem 25. Perzentil und ein Viertel der Daten über dem 75. "
+"Perzentil, so dass die „mittlere Hälfte“ der Daten dazwischen liegt. Und der "
+"IQR ist der Bereich, der von dieser mittleren Hälfte abgedeckt wird."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:72
 msgid "Mean absolute deviation"
-msgstr ""
+msgstr "Mittlere absolute Abweichung"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:74
 msgid ""
@@ -1104,6 +1148,23 @@ msgid ""
 "psychology though. In this section I’ll talk about the first one, and "
 "I’ll come back to talk about the second one later."
 msgstr ""
+"Die beiden Maße, die wir bisher betrachtet haben, die Spannweite und der "
+"Interquartilabstand, beruhen beide auf der Idee, dass wir die Streuung der "
+"Daten messen können, indem wir uns die Perzentile der Daten ansehen. Dies "
+"ist jedoch nicht die einzige Möglichkeit, das Problem zu betrachten. Ein "
+"anderer Ansatz besteht darin, einen aussagekräftigen Bezugspunkt zu wählen ("
+"in der Regel den Mittelwert oder den Median) und dann die „typischen“ "
+"Abweichungen von diesem Bezugspunkt anzugeben. Was verstehen wir unter "
+"„typischer“ Abweichung? In der Regel ist dies der Mittelwert oder der "
+"Medianwert dieser Abweichungen. In der Praxis führt dies zu zwei "
+"verschiedenen Maßen: die „mittlere absolute Abweichung“ (vom Mittelwert) und "
+"die „mittlere absolute Abweichung“ (vom Median). Nach dem, was ich gelesen "
+"habe, scheint das auf dem Median basierende Maß in der Statistik verwendet "
+"zu werden und auch das bessere von beiden zu sein. Um ehrlich zu sein, "
+"glaube ich aber nicht, dass es in der Psychologie häufig verwendet wird. Das "
+"auf dem Mittelwert basierende Maß taucht jedoch gelegentlich in der "
+"Psychologie auf. In diesem Abschnitt werde ich über das erste Maß sprechen, "
+"auf das zweite komme ich später zurück."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:90
 msgid ""
@@ -1131,26 +1192,49 @@ msgid ""
 " obvious as possible, the table below shows these calculations for all "
 "five observations:"
 msgstr ""
+"Da der vorige Absatz etwas abstrakt geklungen haben mag, wollen wir die **"
+"mittlere absolute Abweichung** vom Mittelwert schrittweise durchgehen. Das "
+"Nützliche an dieser Kennzahl ist, dass der Name genau angibt, wie sie zu "
+"berechnen ist. Betrachten wir unsere AFL-Gewinnspannen-Daten und nehmen wir "
+"wieder einmal an, dass es insgesamt nur 5 Spiele mit Gewinnspannen von 56, "
+"31, 56, 8 und 32 gibt. Da unsere Berechnungen auf einer Untersuchung der "
+"Abweichung von einem Bezugspunkt (in diesem Fall dem Mittelwert) beruhen, "
+"müssen wir zunächst den Mittelwert *X̄* berechnen. Für diese fünf "
+"Beobachtungen beträgt unser Mittelwert *X̄* = 36,6. Der nächste Schritt "
+"besteht darin, jede unserer Beobachtungen *X*\\ :sub:`i` in einen "
+"Abweichungswert umzuwandeln. Dazu berechnen wir die Differenz zwischen der "
+"Beobachtung *X*\\ :sub:`i` und dem Mittelwert *X̄*. Das heißt, der "
+"Abweichungswert ist definiert als *X*\\ :sub:`i` - *X̄*. Für die erste "
+"Beobachtung in unserer Stichprobe ist dies gleich 56 - 36,6 = 19,4. Okay, "
+"das ist einfach genug. Der nächste Schritt besteht darin, diese Abweichungen "
+"in absolute Abweichungen umzuwandeln, und zwar indem wir alle negativen "
+"Werte in positive umwandeln. Mathematisch gesehen würden wir den absoluten "
+"Wert von -3 als \\|-3\\| bezeichnen, und so sagen wir, dass \\|-3\\| = 3`. "
+"Wir verwenden hier den absoluten Wert, weil es uns nicht wirklich "
+"interessiert, ob der Wert höher oder niedriger als der Mittelwert ist, "
+"sondern nur, wie *nah* er am Mittelwert liegt. Um diesen Vorgang so deutlich "
+"wie möglich zu machen, zeigt die folgende Tabelle diese Berechnungen für "
+"alle fünf Beobachtungen:"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:205
 msgid "Description:"
-msgstr ""
+msgstr "Beschreibung:"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:115
 #: ../../Ch04/Ch04_Descriptives_2.rst:206
 msgid "which game"
-msgstr ""
+msgstr "welches Spiel"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
 #: ../../Ch04/Ch04_Descriptives_2.rst:207
 msgid "value"
-msgstr ""
+msgstr "Wert"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:117
 #: ../../Ch04/Ch04_Descriptives_2.rst:208
 msgid "deviation from mean"
-msgstr ""
+msgstr "Abweichung vom Mittelwert"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:118
 msgid "absolute deviation"
@@ -1269,6 +1353,9 @@ msgid ""
 "observation in the data set, all that we have to do to calculate the mean"
 " of these scores. Let’s do that:"
 msgstr ""
+"Nachdem wir nun für jede Beobachtung im Datensatz den absoluten "
+"Abweichungswert berechnet haben, müssen wir nur noch den Mittelwert dieser "
+"Werte berechnen. Lassen Sie uns das tun:"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:155
 msgid ""
@@ -1283,6 +1370,8 @@ msgid ""
 "And we’re done. The mean absolute deviation for these five scores is "
 "\\15.52."
 msgstr ""
+"Und schon sind wir fertig. Die mittlere absolute Abweichung für diese fünf "
+"Ergebnisse beträgt 15,52 Punkte."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:160
 msgid ""
@@ -1297,6 +1386,18 @@ msgid ""
 "*average* absolute deviation. Now that we have some unambiguous notation,"
 " here’s the formula that describes what we just calculated:"
 msgstr ""
+"Aber auch wenn unsere Berechnungen für dieses kleine Beispiel abgeschlossen "
+"sind, müssen wir noch über einige Dinge sprechen. Zunächst sollten wir "
+"wirklich versuchen, eine richtige mathematische Formel aufzuschreiben. Dazu "
+"brauche ich aber eine mathematische Notation für die mittlere absolute "
+"Abweichung. Irritierenderweise haben die „mittlere absolute Abweichung (vom "
+"Mittelwert)“ und die „mittlere absolute Abweichung (vom Median)“ die gleiche "
+"Bezeichnung und das gleiche Akronym (MAD in Englisch), was zu einer gewissen "
+"Mehrdeutigkeit führt, so dass ich mir besser etwas anderes für die mittlere "
+"absolute Abweichung vom Mittelwert ausdenken sollte. Ich werde stattdessen "
+"AAD verwenden, kurz für „*average* absolute deviation“. Da wir nun eine "
+"eindeutige Notation haben, hier die Formel, die beschreibt, was wir gerade "
+"berechnet haben:"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:171
 msgid ""
@@ -1308,7 +1409,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:174
 msgid "Variance"
-msgstr ""
+msgstr "Varianz"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:176
 msgid ""
@@ -1322,12 +1423,25 @@ msgid ""
 "set *X* is sometimes written as Var(X), but it’s more commonly denoted "
 "*s*\\ ² (the reason for this will become clearer shortly)."
 msgstr ""
+"Das Maß der durchschnittlichen absoluten Abweichung hat zwar seine "
+"Berechtigung, ist aber nicht das beste Maß für die Variabilität, das man "
+"verwenden kann. Aus rein mathematischer Sicht gibt es einige gute Gründe, "
+"quadrierte Abweichungen den absoluten Abweichungen vorzuziehen. Wenn wir das "
+"tun, erhalten wir ein Maß, das **Varianz** genannt wird, das eine Menge "
+"wirklich netter statistischer Eigenschaften hat, die ich für's Erste "
+"ignorieren werde.\\ [#]_ Sie hat gleichzeitig einen massiven psychologischen "
+"Makel, aus dem ich gleich eine große Sache machen werde. Die Varianz eines "
+"Datensatzes *X* wird manchmal als Var(X) geschrieben, aber üblicherweise "
+"wird sie als *s*\\ ² bezeichnet (der Grund dafür wird in Kürze klarer "
+"werden)."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:186
 msgid ""
 "The formula that we use to calculate the variance of a set of "
 "observations is as follows:"
 msgstr ""
+"Die Formel, mit der wir die Varianz einer Reihe von Beobachtungen berechnen, "
+"lautet wie folgt:"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid ""
@@ -1335,6 +1449,9 @@ msgid ""
 "\\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{Var}(X) = \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^"
+"2\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid ""
@@ -2257,4 +2374,3 @@ msgstr ""
 
 #~ msgid "(*X*\\ :sub:`i` - *X̄*)\\ ² |"
 #~ msgstr ""
-
