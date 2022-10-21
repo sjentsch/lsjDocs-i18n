@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:54+0200\n"
+"POT-Creation-Date: 2022-10-21 09:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
 msgid "Descriptive statistics"
@@ -303,7 +303,7 @@ msgid ""
 "calculate the mean using all the data we can use jamovi. The first step "
 "is to click on the ``Exploration`` button and then click "
 "``Descriptives``. Then you can highlight the ``afl.margins`` variable and"
-" click the ``→`` to move it across into the ``Variables box``. As soon as"
+" click the ``→`` to move it across into the ``Variables`` box. As soon as"
 " you do that a Table appears on the right hand side of the screen "
 "containing default ``Descriptives`` information; see :numref:`fig-"
 "descriptives_default`."
@@ -846,12 +846,12 @@ msgstr "*X*\\ :sub:`i`"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
-msgid "*X*\\ :sub:`i` - *X̄* |"
-msgstr "*X*\\ :sub:`i` - *X̄* |"
+msgid "*X*\\ :sub:`i` - *X̄*"
+msgstr "*X*\\ :sub:`i` - *X̄*"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
-msgid "\\|*X*\\ :sub:`i` - *X̄*\\| |"
-msgstr "\\|*X*\\ :sub:`i` - *X̄*\\| |"
+msgid "\\|*X*\\ :sub:`i` - *X̄*\\|"
+msgstr "\\|*X*\\ :sub:`i` - *X̄*\\|"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
 #: ../../Ch04/Ch04_Descriptives_2.rst:183
@@ -1907,4 +1907,41 @@ msgid ""
 "need to think about the individual events that your statistics are "
 "summarising."
 msgstr ""
+
+#~ msgid ""
+#~ "Okay, that’s the maths. So how do"
+#~ " we get the magic computing box "
+#~ "to do the work for us? When "
+#~ "the number of observations starts to "
+#~ "become large it’s much easier to "
+#~ "do these sorts of calculations using "
+#~ "a computer. To calculate the mean "
+#~ "using all the data we can use "
+#~ "jamovi. The first step is to click"
+#~ " on the ``Exploration`` button and "
+#~ "then click ``Descriptives``. Then you "
+#~ "can highlight the ``afl.margins`` variable "
+#~ "and click the ``→`` to move it "
+#~ "across into the ``Variables box``. As"
+#~ " soon as you do that a Table"
+#~ " appears on the right hand side "
+#~ "of the screen containing default "
+#~ "``Descriptives`` information; see :numref:`fig-"
+#~ "descriptives_default`."
+#~ msgstr ""
+
+#~ msgid "absolute deviation"
+#~ msgstr ""
+
+#~ msgid "\\|*X*\\ :sub:`i` - *X̄*\\| |"
+#~ msgstr "\\|*X*\\ :sub:`i` - *X̄*\\| |"
+
+#~ msgid "5.6"
+#~ msgstr "5.6"
+
+#~ msgid "28.6"
+#~ msgstr "28.6"
+
+#~ msgid "4.6"
+#~ msgstr "4.6"
 

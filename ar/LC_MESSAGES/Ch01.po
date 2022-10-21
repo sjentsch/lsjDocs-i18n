@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
@@ -21,27 +22,22 @@ msgstr ""
 "X-Generator: Weblate 4.13-dev\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
-#, fuzzy
 msgid "Why do we learn statistics?"
 msgstr "لماذا نتعلم الإحصاء؟"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
-#, fuzzy
 msgid "*“Thou shalt not answer questionnaires*"
 msgstr "* لا تجيب على الاستبيانات *"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
-#, fuzzy
 msgid "*Or quizzes upon World Affairs,*"
 msgstr "* أو اختبارات حول الشؤون العالمية ، *"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
-#, fuzzy
 msgid "*Nor with compliance*"
 msgstr "* عدم الامتثال*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
-#, fuzzy
 msgid "*Take any test. Thou shalt not sit*"
 msgstr "* إجراء أي اختبار. لا تجلس"
 
@@ -54,9 +50,8 @@ msgid "*A social science”*"
 msgstr "*علم الاجتماع\"*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:34
-#, fuzzy
 msgid "W.H. Auden\\ [#]_"
-msgstr "W.H Auden/ [#]"
+msgstr "W.H. Auden\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats.rst:31
 msgid ""

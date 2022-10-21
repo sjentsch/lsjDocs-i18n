@@ -1199,9 +1199,8 @@ msgid "The expected counts are now:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491 ../../Ch10/Ch10_ChiSquare_7.rst:20
-#, fuzzy
 msgid "40"
-msgstr "4"
+msgstr "40"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:491
 msgid "60"

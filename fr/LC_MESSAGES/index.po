@@ -6,6 +6,7 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
@@ -32,7 +33,6 @@ msgid "An introduction to jamovi"
 msgstr "Une introduction au jamovi"
 
 #: ../../index.rst:37
-#, fuzzy
 msgid "Statistical theory"
 msgstr "Théorie statistique"
 
@@ -41,7 +41,6 @@ msgid "Statistical tools"
 msgstr "Outils statistiques"
 
 #: ../../index.rst:63
-#, fuzzy
 msgid "Endings, alternatives, prospects"
 msgstr "Fins, alternatives, perspectives"
 
@@ -50,7 +49,6 @@ msgid "Learning statistics with jamovi"
 msgstr "Apprendre les statistiques avec jamovi"
 
 #: ../../index.rst:7
-#, fuzzy
 msgid ""
 "Welcome to Learning statistics with `jamovi <https://www.jamovi.org>`__, "
 "which is a tutorial that aims to help psychology students and other "
