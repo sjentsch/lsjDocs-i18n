@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 09:49+0200\n"
+"POT-Creation-Date: 2022-10-21 13:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -382,7 +382,7 @@ msgid ""
 "Ch04_Descriptives_1>` instead."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:393 ../../Ch04/Ch04_Descriptives_4.rst:79
+#: ../../Ch04/Ch04_Descriptives_1.rst:394 ../../Ch04/Ch04_Descriptives_4.rst:79
 msgid "nominal"
 msgstr "nominal"
 
@@ -397,7 +397,7 @@ msgid ""
 "really appropriate for ordinal data."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:396
+#: ../../Ch04/Ch04_Descriptives_1.rst:397
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -410,7 +410,7 @@ msgid ""
 "sensitive to extreme, outlying values."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:390
+#: ../../Ch04/Ch04_Descriptives_1.rst:391
 msgid "continuous"
 msgstr "continuous"
 
@@ -640,10 +640,10 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
 msgid ""
-"Screenshot of jamovi showing the modal value for the afl.margins variable"
+"Screenshot of jamovi showing the modal value for the ``afl.margins`` variable"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:378
+#: ../../Ch04/Ch04_Descriptives_1.rst:379
 msgid ""
 "The choice to use *Σ* to denote summation isn’t arbitrary. It’s the Greek "
 "upper case letter sigma, which is the analogue of the letter S in that "

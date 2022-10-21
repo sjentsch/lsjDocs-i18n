@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 09:49+0200\n"
+"POT-Creation-Date: 2022-10-21 13:21+0200\n"
 "PO-Revision-Date: 2022-10-20 20:35+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language: de\n"
@@ -412,17 +412,18 @@ msgid ""
 "containing default ``Descriptives`` information; see :numref:`fig-"
 "descriptives_default`."
 msgstr ""
-"Okay, das ist die Mathematik. Wie bringen wir nun den magischen Rechenkasten "
-"dazu, die Arbeit für uns zu erledigen? Wenn die Anzahl der Beobachtungen "
-"groß wird, ist es viel einfacher, diese Art von Berechnungen mit einem "
-"Computer durchzuführen. Um den Mittelwert aus allen Daten zu berechnen, "
-"können wir jamovi verwenden. Der erste Schritt besteht darin, auf die "
-"Schaltfläche ``Exploration`` und dann auf ``Descriptives`` zu klicken. Dann "
-"können Sie die Variable ``afl.margins`` markieren und auf ``→`` klicken, um "
-"sie in die Variable ``Variables`` box zu verschieben. Sobald Sie dies getan "
-"haben, erscheint auf der rechten Seite des Bildschirms eine Tabelle "
-"``Descriptives`` mit den wichtigsten deskriptivstatistischen Werten; siehe "
-":numref:`fig-descriptives_default`."
+"Okay, das ist die Mathematik. Wie bringen wir nun den magischen "
+"Rechenkasten dazu, die Arbeit für uns zu erledigen? Wenn die Anzahl der "
+"Beobachtungen groß wird, ist es viel einfacher, diese Art von "
+"Berechnungen mit einem Computer durchzuführen. Um den Mittelwert aus "
+"allen Daten zu berechnen, können wir jamovi verwenden. Der erste Schritt "
+"besteht darin, auf die Schaltfläche ``Exploration`` und dann auf "
+"``Descriptives`` zu klicken. Dann können Sie die Variable ``afl.margins``"
+" markieren und auf ``→`` klicken, um sie in die Variable ``Variables`` "
+"box zu verschieben. Sobald Sie dies getan haben, erscheint auf der "
+"rechten Seite des Bildschirms eine Tabelle ``Descriptives`` mit den "
+"wichtigsten deskriptivstatistischen Werten; siehe :numref:`fig-"
+"descriptives_default`."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:112
 msgid "AFL 2010 winning margin data"
@@ -554,7 +555,7 @@ msgstr ""
 "willkürlich ist, ist es wahrscheinlich am besten, stattdessen den "
 ":doc:`Modalwert <../Ch04/Ch04_Descriptives_1>` zu verwenden."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:393 ../../Ch04/Ch04_Descriptives_4.rst:79
+#: ../../Ch04/Ch04_Descriptives_1.rst:394 ../../Ch04/Ch04_Descriptives_4.rst:79
 msgid "nominal"
 msgstr "nominal"
 
@@ -577,7 +578,7 @@ msgstr ""
 "Beobachtungen zugeordnet sind, und ist daher für ordinale Daten nicht "
 "wirklich geeignet."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:396
+#: ../../Ch04/Ch04_Descriptives_1.rst:397
 msgid "ordinal"
 msgstr "Ordinal"
 
@@ -596,7 +597,7 @@ msgstr ""
 "Daten hat). Er ist jedoch sehr empfindlich gegenüber extremen, "
 "abweichenden Werten."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:390
+#: ../../Ch04/Ch04_Descriptives_1.rst:391
 msgid "continuous"
 msgstr "Kontinuierlich"
 
@@ -978,10 +979,12 @@ msgid "Modal value in of ``afl.margins`` in ``aflsmall_finalists``"
 msgstr "Modalwert in von ``afl.margins`` in ``aflsmall_finalists``"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
-msgid "Screenshot of jamovi showing the modal value for the afl.margins variable"
-msgstr "jamovi-Screenshot mit dem Modalwert für die Variable ``afl.margins`"
+msgid ""
+"Screenshot of jamovi showing the modal value for the ``afl.margins`` "
+"variable"
+msgstr "jamovi-Screenshot mit dem Modalwert für die Variable ``afl.margins``"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:378
+#: ../../Ch04/Ch04_Descriptives_1.rst:379
 msgid ""
 "The choice to use *Σ* to denote summation isn’t arbitrary. It’s the Greek"
 " upper case letter sigma, which is the analogue of the letter S in that "
@@ -1170,8 +1173,8 @@ msgstr "*X*\\ :sub:`i`"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
-msgid "*X*\\ :sub:`i` - *X̄* |"
-msgstr "*X*\\ :sub:`i` - *X̄* |"
+msgid "*X*\\ :sub:`i` - *X̄*"
+msgstr "*X*\\ :sub:`i` - *X̄*"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 msgid "\\|*X*\\ :sub:`i` - *X̄*\\|"
