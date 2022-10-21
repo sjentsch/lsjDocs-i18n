@@ -1010,6 +1010,9 @@ msgid ""
 "\\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{skewness}(X) = \\frac{1}{N \\hat{\\sigma}^3} \\sum_{i=1}^N (X_i - "
+"\\bar{X})^3\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid ""
