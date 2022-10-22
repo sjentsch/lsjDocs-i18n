@@ -8,11 +8,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 23:29+0200\n"
+"POT-Creation-Date: 2022-10-22 13:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -223,8 +222,8 @@ msgstr ""
 msgid ""
 "A more advanced statistical technique, one which is beyond the scope of this "
 "book, undertakes regression modelling where latent factors are used in "
-"prediction models of other latent factors. This is called \"structural "
-"equation modelling\" and there are specific software programmes and R "
+"prediction models of other latent factors. This is called “structural "
+"equation modelling” and there are specific software programmes and R "
 "packages dedicated to this approach. But let’s not get ahead of ourselves; "
 "what we should really focus on now is how to do an EFA in jamovi."
 msgstr ""
@@ -662,6 +661,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -728,6 +728,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the “uniqueness” of each variable. "
 "Uniqueness is the proportion of variance that is ‘unique’ to the variable "
@@ -1158,6 +1159,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
@@ -1206,6 +1208,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the “uniqueness” of each variable. "
 "Uniqueness is the proportion of variance that is ‘unique’ to the variable "
@@ -1434,6 +1437,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
@@ -1445,6 +1449,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
@@ -1677,6 +1682,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s *α** (alpha; `Cronbach, 1951 <../Other/References."
@@ -1695,16 +1701,17 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
 "factor or construct rather than multiple related constructs). Scales that "
 "are multidimensional will cause *α* to be under-estimated if not assessed "
 "separately for each dimension, but high values for *α* are not necessarily "
-"indicators of unidimensionality. So, an *α* of 0.80 does not mean that 80% "
-"of a single underlying construct is accounted for. It could be that the 80% "
-"comes from more than one underlying construct. That’s why EFA and CFA are "
-"useful to do first."
+"indicators of unidimensionality. So, an *α* of 0.80 does not mean that "
+"80% of a single underlying construct is accounted for. It could be that the "
+"80% comes from more than one underlying construct. That’s why EFA and CFA "
+"are useful to do first."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:45
@@ -1732,6 +1739,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for *α* or *ω* is provided, suggesting a “good enough” "
 "value. This might be something like *α*s of 0.70 or 0.80 representing "
@@ -1795,6 +1803,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "

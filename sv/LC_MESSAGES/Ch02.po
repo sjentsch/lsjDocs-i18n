@@ -12,7 +12,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -740,15 +739,15 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
-msgstr ""
+msgstr "\\(2\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
-msgstr ""
+msgstr "\\(3\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
-msgstr ""
+msgstr "\\(4\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
 msgid ""
@@ -2148,4 +2147,3 @@ msgid ""
 "design. Spend a few minutes with your favourite search engine and you’ll "
 "find dozens."
 msgstr ""
-
