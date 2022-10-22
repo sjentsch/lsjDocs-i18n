@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-22 12:03+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:5
 msgid "Getting started with jamovi"
@@ -22,11 +25,11 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
-msgstr ""
+msgstr "*Mit Robotern lässt es sich gut zusammen arbeiten.*"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:24
 msgid "Roger Zelazny (Dismal Light, 1968)"
-msgstr ""
+msgstr "Roger Zelazny (Dismal Light, 1968)"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:23
 msgid ""
@@ -39,6 +42,15 @@ msgid ""
 "datasets and variables. In doing so, you’ll get a bit of a feel for what "
 "it’s like to work in jamovi."
 msgstr ""
+"In diesem Kapitel werde ich die ersten Schritte mit jamovi erklären. Ich "
+"werde kurz darauf eingehen, wie man jamovi herunterlädt und installiert, "
+"aber der größte Teil des Kapitels wird sich darauf konzentrieren, wie man "
+"sich in der jamovi-Benutzeroberfläche zurechtfindet. Unser Ziel in diesem "
+"Kapitel ist es nicht, irgendwelche statistischen Konzepte zu erlernen: Wir "
+"versuchen nur, die Grundlagen der Funktionsweise von jamovi kennenzulernen "
+"und uns mit dem System vertraut zu machen. Zu diesem Zweck werden wir uns "
+"mit Datensätzen und Variablen beschäftigen. Auf diese Weise bekommen Sie ein "
+"Gefühl dafür, wie es ist, mit jamovi zu arbeiten."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:32
 msgid ""
@@ -50,6 +62,13 @@ msgid ""
 "I don’t really know why *other* people choose jamovi so I’m really talking "
 "about why I use it."
 msgstr ""
+"Bevor wir jedoch auf die Einzelheiten eingehen, lohnt es sich, ein wenig "
+"darüber nachzudenken, warum Sie jamovi überhaupt nutzen sollten. Da Sie dies "
+"lesen, haben Sie wahrscheinlich Ihre eigenen Gründe. Wenn diese Gründe sind „"
+"weil jamovi in meinem Statistikkurs verwendet wird“, wäre es vielleicht "
+"sinnvoll, ein wenig zu erklären, warum sich Ihr Statistikdozent für jamovi "
+"entscheiden hat. Natürlich weiß ich nicht wirklich, warum *andere* Leute "
+"jamovi verwenden, daher kann ich nur darüber sprechen, warum ich es verwende."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:40
 msgid ""
@@ -63,6 +82,18 @@ msgid ""
 "help you to get a “feel” for statistics to do some calculations yourself, so "
 "it’s worth doing it once. But only once!"
 msgstr ""
+"Es ist eigentlich offensichtlich, aber trotzdem erwähnenswert: Statistiken "
+"am Computer zu erstellen ist schneller, einfacher und leistungsfähiger als "
+"Statistiken von Hand zu erstellen. Computer eignen sich hervorragend für "
+"stupide und repetitive Aufgaben, und viele statistische Berechnungen sind "
+"sowohl stupide als auch repetitiv. Für die meisten Menschen besteht der "
+"einzige Grund, statistische Berechnungen mit Papier und Bleistift "
+"durchzuführen, darin, etwas zu lernen. In meinem Unterricht schlage ich "
+"gelegentlich vor, einige Berechnungen auf diese Weise durchzuführen, aber "
+"der einzige wirkliche Nutzen ist pädagogischer Art. Es hilft Ihnen, ein "
+"\"Gefühl\" für die Statistik zu bekommen, wenn Sie selbst einige "
+"Berechnungen durchführen, also lohnt es sich, dies einmal zu tun. Aber eben "
+"nur einmal!"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:51
 msgid ""
@@ -73,6 +104,12 @@ msgid ""
 "data analysis using spreadsheets then you’ve dug yourself into a very deep "
 "hole."
 msgstr ""
+"Statistiken in einer herkömmlichen Tabellenkalkulation (z. B. Microsoft "
+"Excel) zu erstellen, ist auf lange Sicht keine gute Idee. Auch wenn viele "
+"Menschen mit Tabellenkalkulationen wahrscheinlich vertrauter sind, sind die "
+"Möglichkeiten der Analyse sehr begrenzt. Wenn Sie sich angewöhnen, Ihre "
+"Datenanalysen mit Hilfe von Tabellenkalkulationen durchzuführen, graben Sie "
+"sich ein tiefen Loch."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:58
 msgid ""
@@ -91,6 +128,23 @@ msgid ""
 "avoid it. If you make use of packages like jamovi that are open source and "
 "free you never get trapped having to pay exorbitant licensing fees."
 msgstr ""
+"Der Verzicht auf proprietäre Software ist generell eine sehr gute Idee. Es "
+"gibt eine Menge kommerzieller Pakete, die Sie kaufen können, von denen ich "
+"einige mag und andere nicht. Sie sehen in der Regel sehr schick aus und sind "
+"im Allgemeinen sehr leistungsfähig (viel leistungsfähiger als "
+"Tabellenkalkulationen). Allerdings sind sie auch sehr teuer. In der Regel "
+"verkauft das Unternehmen \"Studentenversionen\" (eingeschränkte Versionen "
+"des echten Programms) sehr billig, und dann verkaufen sie voll "
+"funktionsfähige \"Edukationsversionen\" zu einem Preis, der mich "
+"zusammenzucken lässt. Sie verkaufen auch kommerzielle Lizenzen mit einem "
+"schwindelerregend hohen Preis. Das Geschäftsmodell besteht darin, Sie "
+"während Ihres Studiums mit günstigen Preisen anzulocken, sodass Sie dann, "
+"wenn Sie in die reale Welt hinausgehen, von ihren Tools abhängig sind. Man "
+"kann ihnen den Versuch nicht verübeln, aber ich persönlich bin nicht dafür, "
+"Tausende von Dollar auszugeben, wenn ich es vermeiden kann. Und Sie können "
+"es vermeiden. Wenn Sie Pakete wie jamovi verwenden, die open source und "
+"kostenlos sind, sitzen Sie nicht in der Falle, exorbitante Lizenzgebühren "
+"zahlen zu müssen."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:75
 msgid ""
@@ -104,6 +158,17 @@ msgid ""
 "available too. One of the consequences of this, I’ve noticed, is that if you "
 "look at recent advanced data analysis textbooks then a *lot* of them use R."
 msgstr ""
+"Etwas, das Sie vielleicht jetzt noch nicht zu schätzen wissen, aber später "
+"lieben lernen werden, wenn Sie etwas mit Datenanalyse zu tun haben, ist die "
+"Tatsache, dass jamovi im Grunde ein hochentwickeltes Frontend für die frei "
+"zugängliche Statistik-Programmiersprache R ist. Wenn Sie R herunterladen und "
+"installieren, erhalten Sie alle grundlegenden \"Pakete\", die für sich "
+"genommen sehr leistungsstark sind. Da R jedoch so offen und weit verbreitet "
+"ist, wurde es zu einer Art Standardwerkzeug in der Statistik, sodass viele "
+"Leute ihre eigenen Pakete schreiben, die das System erweitern und ebenso "
+"frei verfügbar sind. Eine der Folgen davon ist, wie ich festgestellt habe, "
+"dass *viele* neuere Lehrbüchern zur fortgeschrittenen Datenanalyse R "
+"verwenden."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:86
 msgid ""
@@ -113,14 +178,20 @@ msgid ""
 "pretty much stuck with, but on the whole I think the strengths outweigh the "
 "weakness; more so than any other option I’ve encountered so far."
 msgstr ""
+"Das sind die Hauptgründe, warum ich jamovi verwende. Es ist allerdings nicht "
+"ohne Schwächen. Es ist relativ neu, daher gibt es keine große Anzahl von "
+"Lehrbüchern und anderen Ressourcen, die es unterstützen, und es hat ein paar "
+"ärgerliche Macken, mit denen wir alle ziemlich zu kämpfen haben, aber im "
+"Großen und Ganzen denke ich, dass die Stärken die Schwächen überwiegen; mehr "
+"als bei jeder anderen Option, die ich bisher kennengelernt habe."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:96
 msgid "As of writing this in August 2018."
-msgstr ""
+msgstr "Zum Zeitpunkt der Erstellung dieses Artikels im August 2018."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:4
 msgid "Installing jamovi"
-msgstr ""
+msgstr "Installation von jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:6
 msgid ""
@@ -131,10 +202,16 @@ msgid ""
 "campaigns. Anyway, jamovi is freely distributed online and you can download "
 "it from the jamovi homepage, which is:"
 msgstr ""
+"Okay, genug Werbung. Fangen wir an. Wie jede Software muss auch jamovi auf "
+"einem \"Computer\" installiert werden, einem magischen Gerät, das coole "
+"Sachen macht und kostenlos Ponys liefert. Oder so ähnlich; vielleicht "
+"verwechsle ich die Computer mit iPad-Marketingkampagnen. Wie auch immer, "
+"jamovi ist kostenlos online zugänglich und Sie können es von der jamovi-"
+"Homepage herunterladen, und zwar:"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:13
 msgid "`https://www.jamovi.org <https://www.jamovi.org>`__"
-msgstr ""
+msgstr "`https://www.jamovi.org <https://www.jamovi.org>`__"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:15
 msgid ""
@@ -143,10 +220,14 @@ msgid ""
 "users, and Linux users. If you follow the relevant link you’ll see that the "
 "online instructions are pretty self-explanatory.\\ [#]_"
 msgstr ""
+"Oben auf der Seite, unter der Überschrift \"Download\" <https://www.jamovi."
+"org/download.html>`__, finden Sie separate Links für Windows-, Mac- und "
+"Linux-Benutzer. Wenn Sie dem entsprechenden Link folgen, werden Sie "
+"feststellen, dass die Online-Anweisungen ziemlich selbsterklärend sind"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:21
 msgid "Starting up jamovi"
-msgstr ""
+msgstr "Inbetriebnahme von jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:23
 msgid ""
@@ -155,6 +236,10 @@ msgid ""
 "presented with a user interface which looks something like :numref:`fig-"
 "startjamovi`."
 msgstr ""
+"Unabhängig davon, welches Betriebssystem Sie verwenden, es ist an der Zeit, "
+"jamovi zu öffnen und loszulegen. Wenn Sie jamovi zum ersten Mal starten, "
+"wird Ihnen eine Benutzeroberfläche präsentiert, die ungefähr so aussieht wie "
+":numref:`fig-startjamovi`."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:34
 msgid "jamovi start window"
@@ -162,7 +247,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:34
 msgid "jamovi looks like this when you start it."
-msgstr ""
+msgstr "Wenn Sie es starten, sieht jamovi so aus."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:38
 msgid ""
@@ -171,6 +256,10 @@ msgid ""
 "regions and this can be dragged to the left or the right to change their "
 "sizes."
 msgstr ""
+"Auf der linken Seite befindet sich das Tabellenblatt und auf der rechten "
+"Seite werden die Ergebnisse der statistischen Tests angezeigt. In der Mitte "
+"befindet sich ein Balken, der diese beiden Bereiche trennt und der nach "
+"links oder rechts verschoben werden kann, um ihre Größe zu verändern."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:43
 msgid ""
@@ -183,10 +272,19 @@ msgid ""
 "from the files listed on ``Browse`` depending on whether you want to open an "
 "example or a file stored on your computer."
 msgstr ""
+"Es ist möglich, einfach Werte in die jamovi-Tabelle einzutippen, wie in "
+"jeder anderen Tabellenkalkulationssoftware auch. Alternativ können auch "
+"bestehende Datensätze im CSV (``.csv``) Dateiformat in jamovi geöffnet "
+"werden. Außerdem können Sie Excel-, LibreOffice-, SPSS-, SAS-, Stata- und "
+"JASP-Dateien direkt in jamovi importieren. Um eine Datei zu öffnen, wählen "
+"Sie die Registerkarte Datei (drei horizontale Linien; oben links), wählen "
+"Sie ``Öffnen`` und wählen Sie dann aus den unter ``Durchsuchen`` "
+"aufgelisteten Dateien aus, je nachdem, ob Sie ein Beispiel oder eine auf "
+"Ihrem Computer gespeicherte Datei öffnen möchten."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:53
 msgid "Analyses"
-msgstr ""
+msgstr "Analysen"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:55
 msgid ""
@@ -226,7 +324,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:4
 msgid "The spreadsheet"
-msgstr ""
+msgstr "Die Datentabelle"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:6
 msgid ""
@@ -236,7 +334,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:11
 msgid "Variables"
-msgstr ""
+msgstr "Variablen"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:13
 msgid ""
@@ -245,6 +343,11 @@ msgid ""
 "by the user. Data variables can be one of four measurement levels. These "
 "levels are designated by the symbol in the header of the variable’s column:"
 msgstr ""
+"Die am häufigsten verwendeten Variablen in jamovi sind ``Datenvariablen``. "
+"Diese Variablen enthalten einfach Daten, die entweder aus einer Datendatei "
+"geladen oder vom Benutzer \"eingetippt\" werden. Datenvariablen können auf "
+"einem der vier Skalenniveau liegen. Diese Ebenen werden durch das Symbol in "
+"der Kopfzeile der Variablenspalte gekennzeichnet:"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:19
 msgid ""
@@ -253,10 +356,15 @@ msgid ""
 "example, a persons name, or a participant ID. Specifying an ID variable type "
 "can improve performance when interacting with very large data sets."
 msgstr ""
+"Der Variablentyp *ID* |ID| ist für jamovi einzigartig. Er ist für Variablen "
+"gedacht, die Identifikatoren enthalten, die man fast nie analysieren möchte. "
+"Zum Beispiel der Name einer Person oder eine Teilnehmer-ID. Die Angabe eines "
+"ID-Variablentyps kann die Leistung bei der Interaktion mit sehr großen "
+"Datensätzen verbessern."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:320 ../../Ch03/Ch03_jamoviIntro_3.rst:79
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:25
 msgid ""
@@ -269,6 +377,15 @@ msgid ""
 "for “Female”. It is possible to add nice “human-readable” labels to these "
 "values with the variable editor (more on this later)."
 msgstr ""
+"*Nominale* Variablen |nominal| sind für kategorische Variablen, die "
+"Textbezeichnungen sind, z. B. wäre eine Spalte namens Geschlecht mit den "
+"Werten \"männlich\" und \"weiblich\" nominal. Das Gleiche gilt für den Namen "
+"einer Person. Nominale Variablenwerte können auch einen numerischen Wert "
+"haben. Diese Variablen werden am häufigsten verwendet, wenn Daten importiert "
+"werden, die Werte mit Zahlen und nicht mit Text kodieren. Eine Spalte in "
+"einem Datensatz kann zum Beispiel die Werte 1 für \"männlich\" und 2 für "
+"\"weiblich\" enthalten. Mit dem Variablen-Editor können Sie diesen Werten "
+"schöne \"menschenlesbare\" Bezeichnungen hinzufügen (mehr dazu später)."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:326 ../../Ch03/Ch03_jamoviIntro_3.rst:85
 msgid "nominal"
@@ -280,6 +397,10 @@ msgid ""
 "have a specific order. An example is a Likert scale with 3 being “strongly "
 "agree” and -3 being “strongly disagree”."
 msgstr ""
+"*Ordinale* Variablen |ordinal| sind wie nominale Variablen, nur dass die "
+"Werte eine bestimmte Reihenfolge haben. Ein Beispiel ist eine Likert-Skala, "
+"bei der 3 für \"stimme voll zu\" und -3 für \"stimme überhaupt nicht zu\" "
+"steht."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:329 ../../Ch03/Ch03_jamoviIntro_3.rst:88
 msgid "ordinal"
@@ -291,6 +412,9 @@ msgid ""
 "continuous scale. Examples might be height or weight. This is also referred "
 "to as ``Interval`` or ``Ratio scale``."
 msgstr ""
+"*Kontinuierliche* Variablen |continuous| sind Variablen, die auf einer "
+"kontinuierlichen Skala existieren. Beispiele hierfür sind Größe oder "
+"Gewicht. Man spricht auch von ``Intervallskala`` oder ``Ratioskala``."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:323 ../../Ch03/Ch03_jamoviIntro_3.rst:82
 msgid "continuous"
@@ -301,14 +425,17 @@ msgid ""
 "In addition, you can also specify different data types: variables have a "
 "data type of either ``Text``, ``Integer`` or ``Decimal``."
 msgstr ""
+"Darüber hinaus kann man auch verschiedene Datentypen spezifizieren: "
+"Variablen haben entweder den Datentyp ``Text``, ``Ganzzahl`` oder "
+"``Dezimal``."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:51
 msgid "Measurement levels and data types in jamovi"
-msgstr ""
+msgstr "Skalenniveau und Datentypen in jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:51
 msgid "Window to set measurement levels and data types in jamovi."
-msgstr ""
+msgstr "Fenster, um Skalenniveau und Datentype in jamovi einzustellen."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:55
 msgid ""
@@ -320,6 +447,14 @@ msgid ""
 "not be correct, and it may be necessary to manually specify the variable "
 "type with the variable editor."
 msgstr ""
+"Wenn Sie mit einem leeren Tabellenblatt beginnen und Werte eingeben, ändert "
+"sich der Variablentyp automatisch, abhängig von den Daten, die Sie eingeben. "
+"Dies ist eine gute Möglichkeit, ein Gefühl dafür zu bekommen, welche "
+"Variablentypen zu welcher Datenart passen. Ebenso versucht jamovi beim "
+"Öffnen eines Datensatzes, den Variablentyp, anhand der Daten in jeder "
+"Spalte, zu erkennen. In beiden Fällen kann es sein, dass diese automatische "
+"Erkennung von jamovi nicht korrekt ist. In dem Fall kann man den "
+"Variablentyp manuell mit dem Variablen-Editor festlegen."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:63
 msgid ""
@@ -330,6 +465,13 @@ msgid ""
 "level. Changes can be applied by clicking the “tick” to the top right. The "
 "variable editor can be dismissed by clicking ``↑``."
 msgstr ""
+"Der Variablen-Editor kann durch Auswahl von ``Konfiguration`` auf der "
+"Registerkarte „Daten“ oder durch Doppelklick auf die Spaltenüberschrift der "
+"jeweiligen Variable geöffnet werden. Im Variablen-Editor können Sie den "
+"Namen der Variablen und bei Datenvariablen den Datentyp, Skalenniveau und "
+"die für jede Stufe angezeigte Bezeichnung ändern. Die Änderungen können "
+"durch Anklicken des Häkchens oben rechts übernommen werden. Der Variablen-"
+"Editor kann durch Klicken auf ``↑`` verlassen werden."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:70
 msgid ""
@@ -337,10 +479,13 @@ msgid ""
 "button from the data ribbon. The ``Add`` button also allows the addition of "
 "computed variables."
 msgstr ""
+"Neue Variablen können über die Schaltfläche ``Hinzufügen`` im Reiter in den "
+"Datensatz eingefügt oder angehängt werden. Die Schaltfläche \"Hinzufügen\" "
+"ermöglicht auch das Hinzufügen von berechneten Variablen."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:75
 msgid "Computed variables"
-msgstr ""
+msgstr "Berechnete Variablen"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:77
 msgid ""
@@ -349,6 +494,10 @@ msgid ""
 "of purposes, including log transforms, z-scores, sum-scores, negative "
 "scoring and means."
 msgstr ""
+"Berechnete Variablen sind solche, die aus Berechnungen mit anderen Variablen "
+"entstanden sind. Berechnete Variablen können für eine Reihe von Zwecken "
+"verwendet werden, z.B. für Logarithmentransformationen, z-Scores, Summen-"
+"Scores, negative Scores und Mittelwerte."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:82
 msgid ""
@@ -357,6 +506,11 @@ msgid ""
 "specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
+"Die berechneten Variablen können dem Datensatz über die Schaltfläche "
+"``Hinzufügen`` auf der Registerkarte „Daten“ hinzugefügt werden. Daraufhin "
+"wird ein Formelfenster angezeigt, in dem Sie die gewünschte Formel eingeben "
+"können. Es stehen die üblichen arithmetischen Operatoren zur Verfügung. "
+"Einige Beispiele für Formeln sind:"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:94
 msgid ""
@@ -365,18 +519,23 @@ msgid ""
 "computedvariable` shows the jamovi screen for the new variable computed as "
 "the z-score of dose (from the ``Tooth Growth`` example data set)."
 msgstr ""
+"Der Reihenfolge nach: die Summe von A und B, der Logarithmus von len zur "
+"Basis 10, der Mittelwert von A und B und der z-Wert der Variable „Dosis“. "
+":numref:`fig-computedvariable` zeigt den Jamovi-Bildschirm für die neue "
+"Variable, die als z-Wert der Dosis berechnet wird (aus dem Beispiel-"
+"Datensatz ``Zahnwachstum``)."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:106
 msgid "Computed variable: z-score of ``dose``"
-msgstr ""
+msgstr "Berechnete Variable: z-Wert der ``Dosis``"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:106
 msgid "A newly computed variable, the z-score of ``dose``."
-msgstr ""
+msgstr "Eine neu berechnete Variable, der z-Wert der ``Dosis``."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:110
 msgid "*V-functions*"
-msgstr ""
+msgstr "*V-Funktionen*"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:112
 msgid ""
@@ -387,10 +546,17 @@ msgid ""
 "row by row. For example, MEAN(A, B) will produce the mean of A and B for "
 "each row. Where as VMEAN(A) gives the mean of all the values in A."
 msgstr ""
+"Mehrere Funktionen sind bereits in jamovi verfügbar und können über das "
+"Dropdown-Feld mit der Bezeichnung *f\\ x* aufgerufen werden. Einige "
+"Funktionen gibt es doppelt, wobei einer Funktion ein V vorangestellt ist und "
+"der anderen nicht. V-Funktionen führen ihre Berechnungen mit einer Variablen "
+"als Ganzes durch, während Nicht-V-Funktionen ihre Berechnungen zeilenweise "
+"durchführen. MEAN(A, B) zum Beispiel ergibt den Mittelwert von A und B für "
+"jede Zeile. VMEAN(A) hingegen liefert den Mittelwert aller Werte in A."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:121
 msgid "Copy and Paste"
-msgstr ""
+msgstr "Kopieren und Einfügen"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:123
 msgid ""
