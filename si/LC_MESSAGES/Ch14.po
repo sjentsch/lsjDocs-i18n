@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: si\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,12 +41,12 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:552
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
 #: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:36
 msgid ""
@@ -165,53 +166,53 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:84 ../../Ch14/Ch14_ANOVA2_01.rst:119
 #: ../../Ch14/Ch14_ANOVA2_01.rst:147 ../../Ch14/Ch14_ANOVA2_01.rst:386
 msgid "**placebo**"
-msgstr ""
+msgstr "**placebo**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:84
 msgid "0.30"
-msgstr ""
+msgstr "0.30"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:84
 msgid "0.60"
-msgstr ""
+msgstr "0.60"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:84
 msgid "0.45"
-msgstr ""
+msgstr "0.45"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86 ../../Ch14/Ch14_ANOVA2_01.rst:121
 #: ../../Ch14/Ch14_ANOVA2_01.rst:149 ../../Ch14/Ch14_ANOVA2_01.rst:388
 msgid "**anxifree**"
-msgstr ""
+msgstr "**anxifree**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86
 msgid "0.40"
-msgstr ""
+msgstr "0.40"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86
 msgid "1.03"
-msgstr ""
+msgstr "1.03"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86 ../../Ch14/Ch14_ANOVA2_01.rst:90
 msgid "0.72"
-msgstr ""
+msgstr "0.72"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88 ../../Ch14/Ch14_ANOVA2_01.rst:123
 #: ../../Ch14/Ch14_ANOVA2_01.rst:151 ../../Ch14/Ch14_ANOVA2_01.rst:390
 msgid "**joyzepam**"
-msgstr ""
+msgstr "**joyzepam**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88
 msgid "1.47"
-msgstr ""
+msgstr "1.47"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88
 msgid "1.50"
-msgstr ""
+msgstr "1.50"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88
 msgid "1.48"
-msgstr ""
+msgstr "1.48"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:90 ../../Ch14/Ch14_ANOVA2_01.rst:125
 #: ../../Ch14/Ch14_ANOVA2_01.rst:153 ../../Ch14/Ch14_ANOVA2_01.rst:392
@@ -220,11 +221,11 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:90
 msgid "1.04"
-msgstr ""
+msgstr "1.04"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:90
 msgid "0.88"
-msgstr ""
+msgstr "0.88"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:93
 msgid ""
@@ -256,15 +257,15 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:119 ../../Ch14/Ch14_ANOVA2_01.rst:121
 #: ../../Ch14/Ch14_ANOVA2_01.rst:123 ../../Ch14/Ch14_ANOVA2_01.rst:147
 msgid "µ\\ :sub:`11`"
-msgstr ""
+msgstr "µ\\ :sub:`11`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:121 ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`21`"
-msgstr ""
+msgstr "µ\\ :sub:`21`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:123 ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`31`"
-msgstr ""
+msgstr "µ\\ :sub:`31`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:128
 msgid ""
@@ -285,39 +286,39 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:147
 msgid "µ\\ :sub:`12`"
-msgstr ""
+msgstr "µ\\ :sub:`12`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:147
 msgid "µ\\ :sub:`1.`"
-msgstr ""
+msgstr "µ\\ :sub:`1.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`22`"
-msgstr ""
+msgstr "µ\\ :sub:`22`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`2.`"
-msgstr ""
+msgstr "µ\\ :sub:`2.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`32`"
-msgstr ""
+msgstr "µ\\ :sub:`32`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`3.`"
-msgstr ""
+msgstr "µ\\ :sub:`3.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`.1`"
-msgstr ""
+msgstr "µ\\ :sub:`.1`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`.2`"
-msgstr ""
+msgstr "µ\\ :sub:`.2`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`..`"
-msgstr ""
+msgstr "µ\\ :sub:`..`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:156
 msgid ""
@@ -472,7 +473,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:276
 msgid "MS = SS / df"
-msgstr ""
+msgstr "MS = SS / df"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:278
 msgid ""
@@ -501,7 +502,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:298
 msgid "*F*\\ :sub:`A` = MS\\ :sub:`A` / MS\\ :sub:`R`"
-msgstr ""
+msgstr "*F*\\ :sub:`A` = MS\\ :sub:`A` / MS\\ :sub:`R`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:300
 msgid ""
@@ -598,51 +599,51 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:386
 msgid "Ȳ\\ :sub:`11`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`11`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:386
 msgid "Ȳ\\ :sub:`12`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`12`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:386
 msgid "Ȳ\\ :sub:`1.`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`1.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:388
 msgid "Ȳ\\ :sub:`21`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`21`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:388
 msgid "Ȳ\\ :sub:`22`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`22`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:388
 msgid "Ȳ\\ :sub:`2.`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`2.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:390
 msgid "Ȳ\\ :sub:`31`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`31`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:390
 msgid "Ȳ\\ :sub:`32`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`32`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:390
 msgid "Ȳ\\ :sub:`3.`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`3.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:392
 msgid "Ȳ\\ :sub:`.1`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`.1`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:392
 msgid "Ȳ\\ :sub:`.2`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`.2`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:392
 msgid "Ȳ\\ :sub:`..`"
-msgstr ""
+msgstr "Ȳ\\ :sub:`..`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:395
 msgid ""
@@ -673,6 +674,9 @@ msgid ""
 "\\bar{Y}_{..} \\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_{A} = (N \\times C)  \\sum_{r=1}^R  \\left( \\bar{Y}_{r.} - "
+"\\bar{Y}_{..} \\right)^2\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:416
 msgid ""
@@ -698,6 +702,9 @@ msgid ""
 "_{..} \\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_{B} = (N \\times R) \\sum_{c=1}^C \\left( \\bar{Y}_{.c} - \\bar{Y}"
+"_{..} \\right)^2\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:433
 msgid ""
@@ -764,6 +771,9 @@ msgid ""
 "\\bar{Y}_{..}\\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_T = \\sum_{r=1}^R \\sum_{c=1}^C \\sum_{i=1}^N \\left( Y_{rci} - "
+"\\bar{Y}_{..}\\right)^2\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:476
 msgid ""
@@ -789,7 +799,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:491
 msgid "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B`)"
-msgstr ""
+msgstr "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B`)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:493
 msgid ""
@@ -829,11 +839,11 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:523
 msgid "SS\\ :sub:`R` = 4.845 - (3.453 + 0.467)"
-msgstr ""
+msgstr "SS\\ :sub:`R` = 4.845 - (3.453 + 0.467)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:524
 msgid "SS\\ :sub:`R` = 0.924"
-msgstr ""
+msgstr "SS\\ :sub:`R` = 0.924"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:526
 msgid ""
@@ -880,36 +890,40 @@ msgid ""
 "F\\ :sub:`A` = (SS\\ :sub:`A` / SS\\ :sub:`A`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
 msgstr ""
+"F\\ :sub:`A` = (SS\\ :sub:`A` / SS\\ :sub:`A`) / (SS\\ :sub:`R` / SS\\ :sub:"
+"`R`)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:555
 msgid "F\\ :sub:`A` = (3.453 / 2) / (0.924 / 14)"
-msgstr ""
+msgstr "F\\ :sub:`A` = (3.453 / 2) / (0.924 / 14)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:556
 msgid "F\\ :sub:`A` = 1.727 / 0.066"
-msgstr ""
+msgstr "F\\ :sub:`A` = 1.727 / 0.066"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:557
 msgid "F\\ :sub:`A` = 26.149"
-msgstr ""
+msgstr "F\\ :sub:`A` = 26.149"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:559
 msgid ""
 "F\\ :sub:`B` = (SS\\ :sub:`B` / SS\\ :sub:`B`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
 msgstr ""
+"F\\ :sub:`B` = (SS\\ :sub:`B` / SS\\ :sub:`B`) / (SS\\ :sub:`R` / SS\\ :sub:"
+"`R`)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:560
 msgid "F\\ :sub:`B` = (0.467 / 1) / (0.924 / 14)"
-msgstr ""
+msgstr "F\\ :sub:`B` = (0.467 / 1) / (0.924 / 14)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:561
 msgid "F\\ :sub:`B` = 0.467 / 0.066"
-msgstr ""
+msgstr "F\\ :sub:`B` = 0.467 / 0.066"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:562
 msgid "F\\ :sub:`B` = 7.076"
-msgstr ""
+msgstr "F\\ :sub:`B` = 7.076"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:564
 msgid ""
@@ -1122,7 +1136,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:91
 msgid "α\\ :sub:`r`  = µ\\ :sub:`r.` - µ\\ :sub:`..`"
-msgstr ""
+msgstr "α\\ :sub:`r`  = µ\\ :sub:`r.` - µ\\ :sub:`..`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:93
 msgid ""
@@ -1135,7 +1149,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:100
 msgid "β\\ :sub:`c` = µ\\ :sub:`..` - µ\\ :sub:`..`"
-msgstr ""
+msgstr "β\\ :sub:`c` = µ\\ :sub:`..` - µ\\ :sub:`..`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:102
 msgid ""
@@ -1150,7 +1164,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:110
 msgid "µ\\ :sub:`rc` = µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c`"
-msgstr ""
+msgstr "µ\\ :sub:`rc` = µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:112
 msgid ""
@@ -1161,7 +1175,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:116
 msgid "µ\\ :sub:`rc` ≠ µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c`"
-msgstr ""
+msgstr "µ\\ :sub:`rc` ≠ µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:118
 msgid ""
@@ -1176,6 +1190,7 @@ msgstr ""
 msgid ""
 "µ\\ :sub:`rc` = µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c` + αβ\\ :sub:`rc`"
 msgstr ""
+"µ\\ :sub:`rc` = µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c` + αβ\\ :sub:`rc`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:126
 msgid ""
@@ -1208,6 +1223,8 @@ msgid ""
 "\\hat{\\alpha}_r = \\bar{Y}_{r.} - \\bar{Y}_{..}\n"
 "\n"
 msgstr ""
+"\\hat{\\alpha}_r = \\bar{Y}_{r.} - \\bar{Y}_{..}\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:146
 msgid ""
@@ -1220,6 +1237,8 @@ msgid ""
 "\\hat{\\beta}_c = \\bar{Y}_{.c} - \\bar{Y}_{..}\n"
 "\n"
 msgstr ""
+"\\hat{\\beta}_c = \\bar{Y}_{.c} - \\bar{Y}_{..}\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:151
 msgid ""
@@ -1236,18 +1255,24 @@ msgid ""
 "αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`..` - α\\ :sub:`r` - β\\ :sub:`c` "
 "\\\\"
 msgstr ""
+"αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`..` - α\\ :sub:`r` - β\\ :sub:`c` "
+"\\\\"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:159
 msgid ""
 "αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`..` - (µ\\ :sub:`r.` - µ\\ :sub:"
 "`..`) - (µ\\ :sub:`.c` - µ\\ :sub:`..`) \\\\"
 msgstr ""
+"αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`..` - (µ\\ :sub:`r.` - µ\\ :sub:"
+"`..`) - (µ\\ :sub:`.c` - µ\\ :sub:`..`) \\\\"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:160
 msgid ""
 "αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`r.` - µ\\ :sub:`.c` + µ\\ :sub:`.."
 "`"
 msgstr ""
+"αβ\\ :sub:`rc` = µ\\ :sub:`rc` - µ\\ :sub:`r.` - µ\\ :sub:`.c` + µ\\ :sub:`.."
+"`"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:162
 msgid ""
@@ -1262,6 +1287,9 @@ msgid ""
 "+ \\bar{Y}_{..}\n"
 "\n"
 msgstr ""
+"\\hat{(\\alpha\\beta)}_{rc} = \\bar{Y}_{rc} - \\bar{Y}_{r.} - \\bar{Y}_{.c} "
+"+ \\bar{Y}_{..}\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:168
 msgid ""
@@ -1276,6 +1304,9 @@ msgid ""
 "\\bar{Y}_{r.} - \\bar{Y}_{.c} + \\bar{Y}_{..} \\right)^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_{A:B} = N \\sum_{r=1}^R \\sum_{c=1}^C \\left( \\bar{Y}_{rc} - "
+"\\bar{Y}_{r.} - \\bar{Y}_{.c} + \\bar{Y}_{..} \\right)^2\n"
+"\n"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:175
 msgid ""
@@ -1301,6 +1332,8 @@ msgid ""
 "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B` + SS\\ :sub:"
 "`A:B`\\)"
 msgstr ""
+"SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B` + SS\\ :sub:"
+"`A:B`\\)"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:189
 msgid ""
@@ -1329,15 +1362,15 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:209
 msgid "*df*\\ :sub:`A:B` = (R × C - 1) - (R - 1) - (C -1)"
-msgstr ""
+msgstr "*df*\\ :sub:`A:B` = (R × C - 1) - (R - 1) - (C -1)"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:210
 msgid "*df*\\ :sub:`A:B` = RC - R - C + 1"
-msgstr ""
+msgstr "*df*\\ :sub:`A:B` = RC - R - C + 1"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:211
 msgid "*df*\\ :sub:`A:B` = (R-1)(C-1)"
-msgstr ""
+msgstr "*df*\\ :sub:`A:B` = (R-1)(C-1)"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:213
 msgid ""
@@ -1493,7 +1526,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:14
 msgid "η² = SS\\ :sub:`A` / SS\\ :sub:`T`"
-msgstr ""
+msgstr "η² = SS\\ :sub:`A` / SS\\ :sub:`T`"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:16
 msgid ""
@@ -1527,6 +1560,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_03.rst:39
 msgid "partial η²\\ :sub:`A` = SS\\ :sub:`A` / (SS\\ :sub:`A` + SS\\ :sub:`R`)"
 msgstr ""
+"partial η²\\ :sub:`A` = SS\\ :sub:`A` / (SS\\ :sub:`A` + SS\\ :sub:`R`)"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:41
 msgid ""
@@ -1931,6 +1965,8 @@ msgid ""
 "*Y*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p` + ϵ\\ :sub:`p`"
 msgstr ""
+"*Y*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
+"sub:`2` *X*\\ :sub:`2p` + ϵ\\ :sub:`p`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:28
 msgid ""
@@ -1948,6 +1984,8 @@ msgid ""
 "*Ŷ*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`2p`"
 msgstr ""
+"*Ŷ*\\ :sub:`p` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1p` + *b*\\ :"
+"sub:`2` *X*\\ :sub:`2p`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:39
 msgid ""
@@ -2025,27 +2063,27 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_07.rst:345
 #: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:88
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:90
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:90
 msgid "87"
-msgstr ""
+msgstr "87"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:92
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:92
 msgid "75"
-msgstr ""
+msgstr "75"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:92 ../../Ch14/Ch14_ANOVA2_07.rst:94
 #: ../../Ch14/Ch14_ANOVA2_07.rst:96 ../../Ch14/Ch14_ANOVA2_07.rst:98
@@ -2055,48 +2093,48 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
 #: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:546
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:94
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:94
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:96 ../../Ch14/Ch14_ANOVA2_11.rst:563
 #: ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:96
 msgid "35"
-msgstr ""
+msgstr "35"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:98
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:98
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:100
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:100
 msgid "65"
-msgstr ""
+msgstr "65"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:102
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:102
 msgid "70"
-msgstr ""
+msgstr "70"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:105
 msgid ""
@@ -2207,15 +2245,18 @@ msgid ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,6` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,6`"
 msgstr ""
+"*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,6` +  *b*\\ :"
+"sub:`2` *X*\\ :sub:`2,6`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:194
 msgid ""
 "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 0 + *b*\\ :sub:`2` × 0"
 msgstr ""
+"*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 0 + *b*\\ :sub:`2` × 0"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:195
 msgid "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0`"
-msgstr ""
+msgstr "*Ŷ*\\ :sub:`6` = *b*\\ :sub:`0`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:197
 msgid ""
@@ -2230,15 +2271,18 @@ msgid ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,7` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,7`"
 msgstr ""
+"*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,7` +  *b*\\ :"
+"sub:`2` *X*\\ :sub:`2,7`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:203
 msgid ""
 "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 0"
 msgstr ""
+"*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 0"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:204
 msgid "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1`"
-msgstr ""
+msgstr "*Ŷ*\\ :sub:`7` = *b*\\ :sub:`0` + *b*\\ :sub:`1`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:206
 msgid ""
@@ -2259,15 +2303,18 @@ msgid ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,1` +  *b*\\ :"
 "sub:`2` *X*\\ :sub:`2,1`"
 msgstr ""
+"*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`1,1` +  *b*\\ :"
+"sub:`2` *X*\\ :sub:`2,1`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:217
 msgid ""
 "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 1"
 msgstr ""
+"*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` × 1 + *b*\\ :sub:`2` × 1"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:218
 msgid "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
-msgstr ""
+msgstr "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:220
 msgid ""
@@ -2308,11 +2355,11 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "*b*\\ :sub:`0`"
-msgstr ""
+msgstr "*b*\\ :sub:`0`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:236
 msgid "*b*\\ :sub:`0 + b_2`"
-msgstr ""
+msgstr "*b*\\ :sub:`0 + b_2`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "**yes**"
@@ -2320,11 +2367,11 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "*b*\\ :sub:`0 + b_1`"
-msgstr ""
+msgstr "*b*\\ :sub:`0 + b_1`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:238
 msgid "*b*\\ :sub:`0 + b_1 + b_2`"
-msgstr ""
+msgstr "*b*\\ :sub:`0 + b_1 + b_2`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:241
 msgid ""
@@ -3850,7 +3897,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:546
 #: ../../Ch14/Ch14_ANOVA2_11.rst:563 ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:546 ../../Ch14/Ch14_ANOVA2_11.rst:565
 msgid "**no milk**"

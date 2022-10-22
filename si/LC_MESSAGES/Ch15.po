@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: si\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -521,12 +522,12 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:324
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:246
 msgid ""
@@ -895,7 +896,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:536
 msgid ""

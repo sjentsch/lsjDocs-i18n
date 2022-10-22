@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 23:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: si\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -121,6 +122,8 @@ msgid ""
 "\\frac{56 + 31 + 56 + 8 + 32}{5} = \\frac{183}{5} = 36.60\n"
 "\n"
 msgstr ""
+"\\frac{56 + 31 + 56 + 8 + 32}{5} = \\frac{183}{5} = 36.60\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:26
 msgid ""
@@ -166,7 +169,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:49
 msgid "*X*\\ :sub:`1`"
-msgstr ""
+msgstr "*X*\\ :sub:`1`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:49 ../../Ch04/Ch04_Descriptives_1.rst:53
 msgid "56 points"
@@ -178,7 +181,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:51
 msgid "*X*\\ :sub:`2`"
-msgstr ""
+msgstr "*X*\\ :sub:`2`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:51
 msgid "31 points"
@@ -190,7 +193,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:53
 msgid "*X*\\ :sub:`3`"
-msgstr ""
+msgstr "*X*\\ :sub:`3`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "winning margin, game 4"
@@ -198,7 +201,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "*X*\\ :sub:`4`"
-msgstr ""
+msgstr "*X*\\ :sub:`4`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:55
 msgid "8 points"
@@ -210,7 +213,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:57
 msgid "*X*\\ :sub:`5`"
-msgstr ""
+msgstr "*X*\\ :sub:`5`"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:57
 msgid "32 points"
@@ -228,6 +231,8 @@ msgid ""
 "\\bar{X} = \\frac{X_1 + X_2 + \\ldots + X_{N-1} + X_N}{N}\n"
 "\n"
 msgstr ""
+"\\bar{X} = \\frac{X_1 + X_2 + \\ldots + X_{N-1} + X_N}{N}\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:66
 msgid ""
@@ -243,6 +248,8 @@ msgid ""
 "\\sum_{i=1}^5 X_i\n"
 "\n"
 msgstr ""
+"\\sum_{i=1}^5 X_i\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:74
 msgid ""
@@ -257,6 +264,8 @@ msgid ""
 "\\bar{X} = \\frac{1}{N} \\sum_{i=1}^N X_i\n"
 "\n"
 msgstr ""
+"\\bar{X} = \\frac{1}{N} \\sum_{i=1}^N X_i\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:81
 msgid ""
@@ -324,7 +333,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:134
 msgid "8, 31, **32**, 56, 56"
-msgstr ""
+msgstr "8, 31, **32**, 56, 56"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:136
 msgid ""
@@ -337,7 +346,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:143
 msgid "8, 14, **31**, **32**, 56, 56"
-msgstr ""
+msgstr "8, 14, **31**, **32**, 56, 56"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:145
 msgid ""
@@ -376,7 +385,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:393 ../../Ch04/Ch04_Descriptives_4.rst:79
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:172
 msgid ""
@@ -391,7 +400,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:396
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:180
 msgid ""
@@ -404,7 +413,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:390
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid "Comparison of mean and median"
@@ -805,102 +814,104 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
 msgid "i"
-msgstr ""
+msgstr "i"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
 msgid "*X*\\ :sub:`i`"
-msgstr ""
+msgstr "*X*\\ :sub:`i`"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
+#, fuzzy
 msgid "*X*\\ :sub:`i` - *X̄* |"
-msgstr ""
+msgstr "*X*\\ :sub:`i` - *X̄*"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
+#, fuzzy
 msgid "\\|*X*\\ :sub:`i` - *X̄*\\| |"
-msgstr ""
+msgstr "\\| *X*\\ :sub:`i` - *X̄* \\|"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
 #: ../../Ch04/Ch04_Descriptives_2.rst:183
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
 #: ../../Ch04/Ch04_Descriptives_2.rst:120
 #: ../../Ch04/Ch04_Descriptives_2.rst:183
 #: ../../Ch04/Ch04_Descriptives_2.rst:187
 msgid "56"
-msgstr ""
+msgstr "56"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
 #: ../../Ch04/Ch04_Descriptives_2.rst:120
 #: ../../Ch04/Ch04_Descriptives_2.rst:183
 #: ../../Ch04/Ch04_Descriptives_2.rst:187
 msgid "19.4"
-msgstr ""
+msgstr "19.4"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:118
 #: ../../Ch04/Ch04_Descriptives_2.rst:185
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:118
 #: ../../Ch04/Ch04_Descriptives_2.rst:185
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:118
 #: ../../Ch04/Ch04_Descriptives_2.rst:185
 msgid "-5.6"
-msgstr ""
+msgstr "-5.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:118
 msgid "5.6"
-msgstr ""
+msgstr "5.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:120
 #: ../../Ch04/Ch04_Descriptives_2.rst:187
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:122
 #: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:122
 #: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:122
 #: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid "-28.6"
-msgstr ""
+msgstr "-28.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:122
 msgid "28.6"
-msgstr ""
+msgstr "28.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:124
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:124
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid "32"
-msgstr ""
+msgstr "32"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:124
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid "-4.6"
-msgstr ""
+msgstr "-4.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:124
 msgid "4.6"
-msgstr ""
+msgstr "4.6"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:127
 msgid ""
@@ -914,6 +925,8 @@ msgid ""
 "\\frac{19.4 + 5.6 + 19.4 + 28.6 + 4.6}{5} = 15.52\n"
 "\n"
 msgstr ""
+"\\frac{19.4 + 5.6 + 19.4 + 28.6 + 4.6}{5} = 15.52\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:133
 msgid ""
@@ -939,6 +952,8 @@ msgid ""
 "AAD(X) = \\frac{1}{N} \\sum_{i = 1}^N |X_i - \\bar{X}|\n"
 "\n"
 msgstr ""
+"AAD(X) = \\frac{1}{N} \\sum_{i = 1}^N |X_i - \\bar{X}|\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:150
 msgid "Variance"
@@ -993,25 +1008,26 @@ msgid "squared deviation"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
+#, fuzzy
 msgid "(*X*\\ :sub:`i` - *X̄*)\\ ² |"
-msgstr ""
+msgstr "(*X*\\ :sub:`i` - *X̄*)\\ ²"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:183
 #: ../../Ch04/Ch04_Descriptives_2.rst:187
 msgid "376.36"
-msgstr ""
+msgstr "376.36"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:185
 msgid "31.36"
-msgstr ""
+msgstr "31.36"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:189
 msgid "817.96"
-msgstr ""
+msgstr "817.96"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:191
 msgid "21.16"
-msgstr ""
+msgstr "21.16"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:194
 msgid ""
@@ -1063,6 +1079,8 @@ msgid ""
 "\\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2\n"
 "\n"
 msgstr ""
+"\\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:232
 msgid ""
@@ -1145,6 +1163,8 @@ msgid ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
 "\n"
 msgstr ""
+"s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:298
 msgid ""
@@ -1175,6 +1195,9 @@ msgid ""
 "\\right)^2 }\n"
 "\n"
 msgstr ""
+"\\hat\\sigma = \\sqrt{ \\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
+"\\right)^2 }\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:314
 msgid ""
@@ -1640,6 +1663,8 @@ msgid ""
 "z_i = \\frac{X_i - \\bar{X}}{\\hat\\sigma}\n"
 "\n"
 msgstr ""
+"z_i = \\frac{X_i - \\bar{X}}{\\hat\\sigma}\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:52
 msgid ""
@@ -1652,6 +1677,8 @@ msgid ""
 "z = \\frac{35 - 17}{5} = 3.6\n"
 "\n"
 msgstr ""
+"z = \\frac{35 - 17}{5} = 3.6\n"
+"\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:57
 msgid ""
