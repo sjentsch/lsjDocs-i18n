@@ -3,22 +3,25 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:28+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-22 12:03+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:4
 msgid "Hypothesis testing"
-msgstr ""
+msgstr "Das Überprüfen von Hypothesen"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
@@ -29,10 +32,17 @@ msgid ""
 "happen. It is an hypothesis that the sun will rise tomorrow: and this means "
 "that we do not know whether it will rise.*"
 msgstr ""
+"*Der Prozess der Induktion ist der Prozess der Annahme des einfachsten "
+"Gesetzes, das mit unserer Erfahrung in Einklang gebracht werden kann. Dieser "
+"Prozess hat jedoch keine logische Grundlage, sondern nur eine "
+"psychologische. Es liegt auf der Hand, dass es keinen Grund für die Annahme "
+"gibt, dass der einfachste Ablauf tatsächlich eintreten wird. Es ist eine "
+"Hypothese, dass die Sonne morgen aufgehen wird und das bedeutet, dass wir "
+"nicht wissen, ob sie aufgehen wird.*"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:41
 msgid "Ludwig Wittgenstein\\ [#]_"
-msgstr ""
+msgstr "Ludwig Wittgenstein\\ [#]_"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:34
 msgid ""
@@ -1870,7 +1880,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:4
 msgid "Summary"
-msgstr ""
+msgstr "Zusammenfassung"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:6
 msgid ""
