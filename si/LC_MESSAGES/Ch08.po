@@ -1271,16 +1271,15 @@ msgid "Do we know what it is?"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:67
-msgid "*X̄*              |"
-msgstr "*X̄*              |"
+msgid "*X̄*"
+msgstr "*X̄*"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:67
-#, fuzzy
-msgid "Sample mean           |"
-msgstr "*X̄*              |"
+msgid "Sample mean"
+msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:67
-msgid "Yes, calculated from the raw data |"
+msgid "Yes, calculated from the raw data"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:69
@@ -2010,3 +2009,4 @@ msgid ""
 "There is a lot of statistical theory you can draw on to handle this "
 "situation, but it’s well beyond the scope of this book."
 msgstr ""
+

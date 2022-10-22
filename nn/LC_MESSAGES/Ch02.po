@@ -2200,14 +2200,3 @@ msgstr ""
 msgid "5 Strongly agree"
 msgstr ""
 
-#, fuzzy
-#~ msgid "2"
-#~ msgstr "12"
-
-#, fuzzy
-#~ msgid "3"
-#~ msgstr "30"
-
-#, fuzzy
-#~ msgid "4"
-#~ msgstr "48"

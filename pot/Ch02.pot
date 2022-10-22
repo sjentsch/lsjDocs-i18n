@@ -739,15 +739,15 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(2\\)"
-msgstr ""
+msgstr "\\(2\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(3\\)"
-msgstr ""
+msgstr "\\(3\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(4\\)"
-msgstr ""
+msgstr "\\(4\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
 msgid ""
@@ -2146,3 +2146,4 @@ msgid ""
 "design. Spend a few minutes with your favourite search engine and you’ll "
 "find dozens."
 msgstr ""
+

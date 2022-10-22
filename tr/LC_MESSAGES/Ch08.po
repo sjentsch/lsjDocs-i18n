@@ -2017,12 +2017,3 @@ msgid ""
 "situation, but it’s well beyond the scope of this book."
 msgstr ""
 
-msgid "Yes, calculated from the raw data |"
-msgstr ""
-
-#~ msgid "*X̄*              |"
-#~ msgstr "*X̄*              |"
-
-#, fuzzy
-#~ msgid "Sample mean           |"
-#~ msgstr "*X̄*              |"

@@ -2019,10 +2019,3 @@ msgstr ""
 
 msgid "Yes, calculated from the raw data |"
 msgstr ""
-
-#~ msgid "*X̄*              |"
-#~ msgstr "*X̄*              |"
-
-#, fuzzy
-#~ msgid "Sample mean           |"
-#~ msgstr "*X̄*              |"

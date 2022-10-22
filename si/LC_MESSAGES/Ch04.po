@@ -823,13 +823,11 @@ msgstr "*X*\\ :sub:`i`"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
-#, fuzzy
-msgid "*X*\\ :sub:`i` - *X̄* |"
+msgid "*X*\\ :sub:`i` - *X̄*"
 msgstr "*X*\\ :sub:`i` - *X̄*"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:114
-#, fuzzy
-msgid "\\|*X*\\ :sub:`i` - *X̄*\\| |"
+msgid "\\| *X*\\ :sub:`i` - *X̄* \\|"
 msgstr "\\| *X*\\ :sub:`i` - *X̄* \\|"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:116
@@ -1008,8 +1006,7 @@ msgid "squared deviation"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:181
-#, fuzzy
-msgid "(*X*\\ :sub:`i` - *X̄*)\\ ² |"
+msgid "(*X*\\ :sub:`i` - *X̄*)\\ ²"
 msgstr "(*X*\\ :sub:`i` - *X̄*)\\ ²"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:183

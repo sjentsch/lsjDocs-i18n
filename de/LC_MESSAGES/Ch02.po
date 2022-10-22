@@ -740,15 +740,15 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
-msgstr ""
+msgstr "\\(2\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
-msgstr ""
+msgstr "\\(3\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
-msgstr ""
+msgstr "\\(4\\)"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:296
 msgid ""
@@ -2149,23 +2149,3 @@ msgid ""
 "find dozens."
 msgstr ""
 
-msgid "(2)"
-msgstr "(2)"
-
-msgid "(3)"
-msgstr "(3)"
-
-msgid "(4)"
-msgstr "(4)"
-
-#, fuzzy
-#~ msgid "2"
-#~ msgstr "12"
-
-#, fuzzy
-#~ msgid "3"
-#~ msgstr "30"
-
-#, fuzzy
-#~ msgid "4"
-#~ msgstr "48"
