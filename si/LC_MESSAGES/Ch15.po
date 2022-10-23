@@ -1883,3 +1883,4 @@ msgid ""
 "Ch15_FactorAnalysis_4>`. This form of reliability analysis tests how "
 "consistently a scale measures a measurement (psychological) construct."
 msgstr ""
+
