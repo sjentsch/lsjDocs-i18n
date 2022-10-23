@@ -598,7 +598,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:391
 msgid "continuous"
-msgstr "Kontinuierlich"
+msgstr "continuous"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid "Comparison of mean and median"

@@ -3629,22 +3629,3 @@ msgstr ""
 "natürlich eine große Anzahl von Lehrbüchern über Studiendesign. "
 "Verbringen Sie ein paar Minuten mit Ihrer Lieblingssuchmaschine und Sie "
 "werden Dutzende davon finden."
-
-#~ msgid "(2)"
-#~ msgstr "(2)"
-
-#~ msgid "(3)"
-#~ msgstr "(3)"
-
-#~ msgid "(4)"
-#~ msgstr "(4)"
-
-#~ msgid "2"
-#~ msgstr "2"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
