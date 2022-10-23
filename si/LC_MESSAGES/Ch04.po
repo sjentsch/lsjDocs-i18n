@@ -1872,3 +1872,4 @@ msgid ""
 "about context. And you need to think about the individual events that your "
 "statistics are summarising."
 msgstr ""
+

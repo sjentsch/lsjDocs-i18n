@@ -1,49 +1,60 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-17 18:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-04-07 15:07+0000\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/lsjdocs/start/ko/>"
+"\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12-dev\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:17
 msgid "Background"
-msgstr ""
+msgstr "배경"
 
 #: ../../index.rst:26
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "jamovi에 대한 소개"
 
 #: ../../index.rst:37
 msgid "Statistical theory"
-msgstr ""
+msgstr "통계 이론"
 
 #: ../../index.rst:48
 msgid "Statistical tools"
-msgstr ""
+msgstr "통계 도구"
 
 #: ../../index.rst:63
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "결말, 대안, 전망"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "jamovi로 통계 학습하기"
 
 #: ../../index.rst:7
 msgid ""
 "Welcome to Learning statistics with `jamovi <https://www.jamovi.org>`__, "
 "which is a tutorial that aims to help psychology students and other "
 "beginners with the first steps into jamovi. jamovi is a free and open "
-"statistical software to bridge the gap between researcher and statistician."
+"statistical software to bridge the gap between researcher and "
+"statistician."
 msgstr ""
+"심리학과 학생 및 기타 초보자를 자모비의 첫 단계로 돕는 것을 목표로 하는 "
+"튜토리얼인 `jamovi <https://www.jamovi.org>`__로 통계 학습하기에 오신 것을 "
+"환영합니다. jamovi는 연구원과 통계학자 사이의 격차를 해소하는 자유롭고 "
+"개방적인 통계 소프트웨어입니다."

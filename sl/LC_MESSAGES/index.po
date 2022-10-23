@@ -1,49 +1,61 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-02 03:54+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-10-12 17:25+0000\n"
+"Last-Translator: Alex <sajgon86@yahoo.com>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/lsjdocs/start/"
+"sl/>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.15-dev\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:17
 msgid "Background"
-msgstr ""
+msgstr "Ozadje"
 
 #: ../../index.rst:26
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "Uvod v jamovi"
 
 #: ../../index.rst:37
 msgid "Statistical theory"
-msgstr ""
+msgstr "Statistična teorija"
 
 #: ../../index.rst:48
 msgid "Statistical tools"
-msgstr ""
+msgstr "Statistična orodja"
 
 #: ../../index.rst:63
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "Zaključki, alternative, pričakovanja"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "Učenje statistike z jamovi"
 
 #: ../../index.rst:7
 msgid ""
 "Welcome to Learning statistics with `jamovi <https://www.jamovi.org>`__, "
 "which is a tutorial that aims to help psychology students and other "
 "beginners with the first steps into jamovi. jamovi is a free and open "
-"statistical software to bridge the gap between researcher and statistician."
+"statistical software to bridge the gap between researcher and "
+"statistician."
 msgstr ""
+"Dobrodošli na Learning statistics with `jamovi <https://www.jamovi.org>`__, "
+"ki je vodnik, namenjen študentom psihologije in drugim začetnikom pri prvih "
+"korakih v jamovi. jamovi je brezplačna in odprta statistična programska "
+"oprema za premostitev vrzeli med raziskovalcem in statistikom."

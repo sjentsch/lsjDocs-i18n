@@ -1,52 +1,57 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 15:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-10-23 20:15+0200\n"
+"PO-Revision-Date: 2022-03-31 08:42+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch01/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
 msgid "Why do we learn statistics?"
-msgstr ""
+msgstr "Warum lernen wir Statistik?"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr ""
+msgstr "*“Thou shalt not answer questionnaires*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
-msgstr ""
+msgstr "*Or quizzes upon World Affairs,*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Nor with compliance*"
-msgstr ""
+msgstr "*Nor with compliance*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Take any test. Thou shalt not sit*"
-msgstr ""
+msgstr "*Take any test. Thou shalt not sit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*With statisticians nor commit*"
-msgstr ""
+msgstr "*With statisticians nor commit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*A social science”*"
-msgstr ""
+msgstr "*A social science”*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:34
 msgid "W.H. Auden\\ [#]_"
-msgstr ""
+msgstr "W.H. Auden\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats.rst:31
 msgid ""
@@ -55,10 +60,14 @@ msgid ""
 "University. The `history of the poem <https://harvardmagazine.com/2007/11/a-"
 "poets-warning.html>`__ is kind of interesting."
 msgstr ""
+"Das Zitat stammt aus Audens Gedicht von 1946 *Under Which Lyre: A "
+"Reactionary Tract for the Times*, gehalten als Teil einer Eröffnungsrede an "
+"der Harvard University. Die `Geschichte des Gedichts <https://"
+"harvardmagazine.com/2007/11/a-poets-warning.html>`__ ist recht interessant."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:4
 msgid "On the psychology of statistics"
-msgstr ""
+msgstr "Zur Psychologie der Statistik"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:6
 msgid ""
@@ -72,6 +81,16 @@ msgid ""
 "thought that the right place to start might be to answer some of the more "
 "common questions that people have about stats."
 msgstr ""
+"Zur Überraschung vieler Studenten ist die Statistik ein ziemlich wichtiger "
+"Teil der psychologischen Ausbildung. Es überrascht sicher niemand, dass "
+"Statistik sehr selten der *beliebste* Teil der psychologischen Ausbildung "
+"ist: Wenn Sie sich wirklich für Statistik interessieren würden, wären Sie "
+"wahrscheinlich eher in einem Statistikkurs eingeschrieben als in einem "
+"Psychologiekurs. Es ist also nicht überraschend, dass ein großer Teil der "
+"Studenten nicht glücklich darüber ist, dass Psychologie so viel Statistik "
+"beinhaltet. In Anbetracht dessen dachte ich, dass es vielleicht ein guter "
+"Einstieg wäre, einige der häufigsten Fragen zu beantworten, welche die Leute "
+"zur Statistik haben."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:17
 msgid ""
@@ -87,10 +106,25 @@ msgid ""
 "completely mad, because no-one takes the time to answer one very simple "
 "question:"
 msgstr ""
+"Ein großer Teil dieses Themas bezieht sich auf den Begriff der Statistik "
+"selbst. Was ist sie? Wozu ist sie da? Und warum sind Wissenschaftler so "
+"verdammt besessen davon? Das sind alles gute Fragen, wenn man darüber "
+"nachdenkt. Beginnen wir mit der letzten Frage. Als Gruppe scheinen "
+"Wissenschaftler auf bizarre Weise darauf fixiert zu sein, alles mit "
+"statistischen Tests zu untersuchen. Tatsächlich verwenden wir Statistiken so "
+"häufig, dass wir manchmal vergessen, den Leuten zu erklären, warum wir das "
+"tun. Es ist eine Art Glaubenssatz unter Wissenschaftlern – und besonders "
+"unter Sozialwissenschaftlern –, dass man seinen Ergebnissen erst dann trauen "
+"kann, wenn man ein paar statistische Tests durchgeführt hat. Man könnte "
+"Studenten im Grundstudium verzeihen, wenn sie denken, dass wir alle völlig "
+"verrückt sind, weil sich niemand die Zeit nimmt, eine ganz einfache Frage zu "
+"beantworten:"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:29
 msgid "*Why do you do statistics? Why don’t scientists just use common sense?*"
 msgstr ""
+"*Warum benutzen wir Statistik? Und warum benutzen Wissenschaftler nicht "
+"einfach den gesunden Menschenverstand?*"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:32
 msgid ""
@@ -104,6 +138,17 @@ msgid ""
 "the right answer. Most scientists don’t think this approach is likely to "
 "work."
 msgstr ""
+"In gewisser Weise ist es eine naive Frage, aber das sind die meisten guten "
+"Fragen. Es gibt viele gute Antworten darauf,\\ [#]_ aber meiner Meinung nach "
+"ist die beste Antwort eine ganz einfache: Wir trauen uns selbst nicht genug. "
+"Wir machen uns Gedanken darüber, dass wir Menschen sind und daher anfällig "
+"für alle Voreingenommenheiten, Versuchungen und Schwächen, unter denen "
+"Menschen leiden. Ein Großteil der Statistik ist im Grunde ein Schutz. Den "
+"„gesunden Menschenverstand“ zur Bewertung von Evidenz einzusetzen, bedeutet, "
+"auf das Bauchgefühl zu vertrauen, sich auf verbale Argumente zu verlassen "
+"und die rohe Kraft des menschlichen Verstandes zu nutzen, um die richtige "
+"Antwort zu finden. Die meisten Wissenschaftler glauben nicht, dass dieser "
+"Ansatz funktioniert."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:42
 msgid ""
@@ -127,16 +172,40 @@ msgid ""
 "(ones where no guessing is required) without being influenced by our pre-"
 "existing biases."
 msgstr ""
+"Wenn ich darüber nachdenke, klingt das für mich sehr nach einer "
+"psychologischen Frage, und da wir Psychologen (oder -studenten) sind, "
+"scheint es eine gute Idee zu sein, hier etwas tiefer zu graben. Ist es "
+"wirklich plausibel, dass dieser Ansatz des „gesunden Menschenverstands“ sehr "
+"vertrauenswürdig ist? Verbale Argumente müssen in der Sprache konstruiert "
+"werden, und alle Sprachen haben Vorurteile – manche Dinge sind schwieriger "
+"zu sagen als andere, und nicht unbedingt, weil sie falsch sind (z. B. ist "
+"die Quantenelektrodynamik eine gute Theorie, aber schwer in Worte zu "
+"fassen). Die Instinkte unseres „Bauchgefühls“ sind nicht dazu gedacht, "
+"wissenschaftliche Probleme zu lösen, sondern alltägliche Schlussfolgerungen "
+"zu ziehen - und da die biologische Evolution langsamer verläuft als der "
+"kulturelle Wandel, sollten wir sagen, dass sie dazu gedacht sind, die "
+"alltäglichen Probleme einer *anderen Welt* zu lösen als der, in der wir "
+"leben. Um vernünftig zu argumentieren, muss der Mensch „induktiv“ vorgehen, "
+"d.h. kluge Vermutungen anstellen und über die unmittelbare Evidenz der Sinne "
+"hinausgehen, um Verallgemeinerungen über die Welt zu machen. Wenn Sie "
+"glauben, dass Sie das tun können, ohne von verschiedenen Ablenkungen "
+"beeinflusst zu werden, dann möchte ich Ihnen eine Brücke in London "
+"verkaufen. Wie der nächste Abschnitt zeigt, können wir nicht einmal "
+"„deduktive“ Probleme (d.h. solche, bei denen keine Vermutungen erforderlich "
+"sind) lösen, ohne von unseren bereits vorhandenen Vorurteilen beeinflusst zu "
+"werden."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:65
 msgid ""
 "Including the suggestion that common sense is in short supply among "
 "scientists."
 msgstr ""
+"Dazu gehört auch die Behauptung, dass der gesunde Menschenverstand unter "
+"Wissenschaftlern Mangelware ist."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:4
 msgid "The curse of belief bias"
-msgstr ""
+msgstr "Der Fluch der Voreingenommenheit"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:6
 msgid ""
@@ -153,34 +222,51 @@ msgid ""
 "influenced by the believability of the conclusion, even when we shouldn’t. "
 "For instance, here’s a valid argument where the conclusion is believable:"
 msgstr ""
+"Die meisten Menschen sind ziemlich klug. Wir sind sicherlich schlauer als "
+"andere Spezies, mit denen wir uns den Planeten teilen (auch wenn viele "
+"Menschen anderer Meinung sein mögen). Unser Verstand ist etwas ganz "
+"Erstaunliches, und wir scheinen zu den unglaublichsten Leistungen des "
+"Denkens und der Vernunft fähig zu sein. Das macht uns aber nicht perfekt. "
+"Psychologen haben im Laufe der Jahre unter anderem gezeigt, dass es uns "
+"schwerfällt, neutral zu sein, Beweise unvoreingenommen zu bewerten und uns "
+"nicht von bereits bestehenden Vorurteilen leiten zu lassen. Ein gutes "
+"Beispiel dafür ist der **Belief-Bias-Effekt** beim logischen Denken: Wenn "
+"man Menschen bittet zu entscheiden, ob ein bestimmtes Argument logisch "
+"gültig ist (d. h. die Schlussfolgerung wäre wahr, wenn die Prämissen wahr "
+"wären), neigen wir dazu, uns von der Glaubwürdigkeit der Schlussfolgerung "
+"beeinflussen zu lassen, selbst wenn wir das nicht sollten. Hier ist zum "
+"Beispiel ein gültiges Argument, bei dem die Schlussfolgerung glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All cigarettes are expensive (Premise 1)"
-msgstr ""
+msgstr "Alle Zigaretten sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some addictive things are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Manche Dinge, die süchtig machen, sind preiswert (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
 msgstr ""
+"Daher sind einige süchtig machende Dinge keine Zigaretten (Schlussfolgerung)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:24
 msgid "And here’s a valid argument where the conclusion is not believable:"
 msgstr ""
+"Und hier ist ein gültiges Argument, bei dem die Schlussfolgerung nicht "
+"glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All addictive things are expensive (Premise 1)"
-msgstr ""
+msgstr "Alle süchtig machenden Dinge sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some cigarettes are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Einige Zigaretten sind billig (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
-msgstr ""
+msgstr "Daher machen einige Zigaretten nicht süchtig (Schlussfolgerung)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:30
 msgid ""
@@ -192,19 +278,30 @@ msgid ""
 "conclusion is a logical consequence of the premises. That is, a valid "
 "argument doesn’t have to involve true statements."
 msgstr ""
+"Die logische *Struktur* von Argument 2 ist identisch mit der Struktur von "
+"Argument 1, und beide sind gültig. Im zweiten Argument gibt es jedoch gute "
+"Gründe zu glauben, dass Prämisse 1 falsch ist, und deshalb ist es "
+"wahrscheinlich, dass auch die Schlussfolgerung falsch ist. Aber das ist für "
+"das vorliegende Thema völlig irrelevant; ein Argument ist deduktiv gültig, "
+"wenn die Schlussfolgerung eine logische Konsequenz der Prämissen ist. Das "
+"heißt, ein gültiges Argument muss nicht zwangsläufig wahre Aussagen "
+"enthalten."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:39
 msgid ""
 "On the other hand, here’s an invalid argument that has a believable "
 "conclusion:"
 msgstr ""
+"Auf der anderen Seite gibt es ungültige Argumente, die eine glaubwürdige "
+"Schlussfolgerung haben:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:46
 msgid "And finally, an invalid argument with an unbelievable conclusion:"
 msgstr ""
+"Und schließlich ein ungültiges Argument mit einer nicht glaubwürdigen "
+"Schlussfolgerung:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
-#, python-format
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
@@ -213,36 +310,41 @@ msgid ""
 "arguments are valid. So if you ran an experiment looking at this, you’d "
 "expect to see data like this:"
 msgstr ""
+"Nehmen wir nun an, dass die Menschen wirklich in der Lage sind, ihre bereits "
+"bestehenden Vorurteile darüber, was wahr ist und was nicht, beiseite zu "
+"lassen und ein Argument ausschließlich nach seinem logischen Gehalt zu "
+"bewerten. Wir würden erwarten, dass 100 % der Leute sagen, dass die gültigen "
+"Argumente gültig sind, und dass 0 % der Leute behaupten, dass die ungültigen "
+"Argumente gültig sind. Wenn Sie also ein Experiment zu diesem Thema "
+"durchführen würden, würden Sie die folgenden Daten erwarten:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels true"
-msgstr ""
+msgstr "Die Schlussfolgerung erscheint wahr"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels false"
-msgstr ""
+msgstr "Die Schlussfolgerung erscheint falsch"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62 ../../Ch01/Ch01_WhyStats_2.rst:82
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "**argument is valid**"
-msgstr ""
+msgstr "**Das Argument ist gültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
-#, python-format
 msgid "100% say “valid”"
-msgstr ""
+msgstr "100 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64 ../../Ch01/Ch01_WhyStats_2.rst:84
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "**argument is invalid**"
-msgstr ""
+msgstr "**Das Argument ist ungültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
-#, python-format
 msgid "0% say “valid”"
-msgstr ""
+msgstr "0 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:67
 msgid ""
@@ -253,6 +355,13 @@ msgid ""
 "guys have taken psych classes, and by now you probably know where this is "
 "going."
 msgstr ""
+"Wenn die psychologischen Daten so (oder auch nur annähernd so) aussehen "
+"würden, könnten wir uns sicher fühlen und einfach unserem Bauchgefühl "
+"vertrauen. Das heißt, es wäre völlig in Ordnung, Wissenschaftler Daten auf "
+"der Grundlage ihres gesunden Menschenverstands auswerten zu lassen und sich "
+"nicht mit undurchsichtigem Statistikkram herumzuschlagen. Aber ihr studiert "
+"Psychologie (oder habt es getan) und wisst wahrscheinlich schon, worauf das "
+"hinausläuft."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:74
 msgid ""
@@ -261,16 +370,19 @@ msgid ""
 "found is that when pre-existing biases (i.e., beliefs) were in agreement "
 "with the structure of the data, everything went the way you’d hope:"
 msgstr ""
+"In einer klassischen Studie haben `Evans et al. (1983) <../Other/References."
+"html#evans-1983>`__ ein Experiment durchgeführt, in dem genau dies "
+"untersucht wurde. Sie fanden heraus, dass alles so verlief, wie man es sich "
+"erhofft hatte, wenn die bereits bestehenden Vorurteile (d. h. die "
+"Überzeugungen) mit der Struktur der Daten übereinstimmten:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "92% say “valid”"
-msgstr ""
+msgstr "92 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "8% say “valid”"
-msgstr ""
+msgstr "8 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:87
 msgid ""
@@ -278,19 +390,19 @@ msgid ""
 "intuitive feelings about the truth of the conclusion run against the logical "
 "structure of the argument:"
 msgstr ""
+"Das ist nicht perfekt, aber ziemlich gut. Das Bild ändert sich jedoch, wenn "
+"unsere intuitiven Gefühle über die Wahrheit der Schlussfolgerung gegen die "
+"logische Struktur des Arguments verstoßen:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "*46% say “valid”*"
-msgstr ""
+msgstr "*46 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "*92% say “valid”*"
-msgstr ""
+msgstr "*92 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
-#, python-format
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
@@ -299,9 +411,15 @@ msgid ""
 "agrees with our pre-existing biases, almost no-one can see that the argument "
 "is weak (people got that one wrong 92% of the time!).\\ [#]_"
 msgstr ""
+"Oh je, das ist nicht so gut. Offensichtlich fällt es uns schwer, ein starkes "
+"Argument, das unseren Überzeugungen widerspricht, überhaupt als starkes "
+"Argument zu erkennen (nur in 46 % der Fälle wurde es als solches erkannt). "
+"Noch schlimmer ist es, wenn Menschen ein schwaches Argument präsentiert "
+"wird, das mit unseren bestehenden Vorurteilen übereinstimmt. Hier kann fast "
+"niemand erkennen, dass das Argument schwach ist (die Menschen lagen in 92 % "
+"der Fälle falsch!).\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
-#, python-format
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
@@ -316,17 +434,32 @@ msgid ""
 "we’re going to need a bit of help to keep our personal biases under control. "
 "That’s what statistics does, it helps keep us honest."
 msgstr ""
+"Wenn man darüber nachdenkt, ist es nicht so, dass diese Daten furchtbar "
+"vernichtend sind. Im Großen und Ganzen haben die Menschen ihre Vorurteile "
+"besser als der Zufall kompensiert, denn etwa 60 % der Urteile der Menschen "
+"waren richtig (man würde 50 % durch Zufall erwarten). Trotzdem: Wenn Sie ein "
+"professioneller „Beweisexperte“ wären und jemand käme zu Ihnen und würde "
+"Ihnen ein magisches Werkzeug anbieten, das Ihre Chancen, die richtige "
+"Entscheidung zu treffen, von 60 % auf (sagen wir) 95 % erhöht, würden Sie "
+"wahrscheinlich zugreifen, oder? Natürlich würden Sie das. Zum Glück haben "
+"wir ein Werkzeug, das dies kann. Aber es ist keine Magie, es ist Statistik. "
+"Das ist also der wichtigste Grund, warum Wissenschaftler Statistiken lieben. "
+"Es ist einfach *zu einfach* für uns, „zu glauben, was wir glauben wollen“. "
+"Wenn wir also „den Daten glauben“ wollen, brauchen wir ein wenig Hilfe, um "
+"unsere Vorurteile unter Kontrolle zu halten. Das ist die Aufgabe der "
+"Statistik: Sie hilft uns, ehrlich zu bleiben."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
-#, python-format
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95% of what "
 "I read on the internet."
 msgstr ""
+"In meinen zynischeren Momenten habe ich das Gefühl, dass allein diese "
+"Tatsache 95 % von dem erklärt, was ich im Internet lese."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:4
 msgid "The cautionary tale of Simpson’s paradox"
-msgstr ""
+msgstr "Die abschreckende Geschichte des Simpsonschen Paradoxons"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:6
 msgid ""
@@ -335,18 +468,22 @@ msgid ""
 "their postgraduate courses. Specifically, the thing that caused the problem "
 "was that the gender breakdown of their admissions, which looked like this:"
 msgstr ""
+"Die folgende Geschichte ist wahr (glaube ich!). 1973 hatte die University of "
+"California, Berkeley, Probleme mit der Zulassung von Studenten zu ihren "
+"Postgraduiertenkursen. Das Problem bestand insbesondere in der "
+"geschlechtsspezifischen Aufteilung der Zulassungen, die wie folgt aussah:"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15
 msgid "Number of applicants"
-msgstr ""
+msgstr "Anzahl der Bewerber"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15 ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Percent admitted"
-msgstr ""
+msgstr "Prozent der Zugelassenen"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "**Males**"
-msgstr ""
+msgstr "**Männer**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "8442"
@@ -358,7 +495,7 @@ msgstr "44%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
-msgstr ""
+msgstr "**Frauen**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "4321"
@@ -369,7 +506,6 @@ msgid "35%"
 msgstr "35%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
-#, python-format
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
 "nearly 13,000 applicants, a difference of 9% in admission rates between "
@@ -378,6 +514,13 @@ msgid ""
 "a weak bias in favour of women (sort of!), you’d probably think that I was "
 "either crazy or sexist."
 msgstr ""
+"In Anbetracht dieser Zahlen hatten sie Angst, verklagt zu werden!\\ [#]_ Bei "
+"fast 13.000 Bewerbern ist ein Unterschied von 9 % in den Zulassungsraten "
+"zwischen Männern und Frauen einfach zu groß, um zufällig zu sein. Die Daten "
+"scheinen ziemlich aussagekräftig. Und wenn ich Ihnen sagen würde, dass diese "
+"Daten *in Wirklichkeit* eine schwache Voreingenommenheit zugunsten der "
+"Frauen widerspiegeln, würden Sie mich wahrscheinlich für verrückt oder "
+"sexistisch halten."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:29
 msgid ""
@@ -390,22 +533,30 @@ msgid ""
 "figures for the six largest departments (with the names of the departments "
 "removed for privacy reasons):"
 msgstr ""
+"Merkwürdigerweise ist das aber wahr. Als man anfing, die Daten genauer zu "
+"untersuchen, kam man zu einem ganz anderen Ergebnis (`Bickel et al., 1975 "
+"<../Other/References.html#bickel-1975>`__). Bei einer Betrachtung der "
+"einzelnen Fachbereiche stellte sich heraus, dass die meisten Fachbereiche "
+"tatsächlich eine etwas *höhere* Erfolgsquote bei weiblichen Bewerbern als "
+"bei männlichen Bewerbern hatten. Die nachstehende Tabelle zeigt die "
+"Zulassungszahlen für die sechs größten Fachbereiche (die Namen der "
+"Fachbereiche wurden aus Gründen des Datenschutzes entfernt):"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Males"
-msgstr ""
+msgstr "Männer"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Females"
-msgstr ""
+msgstr "Frauen"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Department"
-msgstr ""
+msgstr "Fachbereich"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Applicants"
-msgstr ""
+msgstr "Bewerber"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "**A**"
@@ -530,6 +681,11 @@ msgid ""
 "females was *lower* than for males. How can this be? How can both of these "
 "statements be true at the same time?"
 msgstr ""
+"Bemerkenswert ist, dass die meisten Fachbereiche eine *höhere* "
+"Zulassungsquote für Frauen als für Männer hatten! Die Gesamtzulassungsquote "
+"für Frauen an der gesamten Universität war jedoch *niedriger* als für "
+"Männer. Wie kann das sein? Und wie können diese beiden Aussagen gleichzeitig "
+"wahr sein?"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:63
 msgid ""
@@ -560,10 +716,39 @@ msgid ""
 "science is hard, and the truth is sometimes cunningly hidden in the nooks "
 "and crannies of complicated data."
 msgstr ""
+"Die Situation war folgendermaßen. Zunächst fällt auf, dass die Fachbereiche "
+"in Bezug auf ihre Zulassungsquoten *nicht* gleich sind: Einige Fachbereiche "
+"(z. B. A, B) neigen dazu, einen hohen Prozentsatz der qualifizierten "
+"Bewerber zuzulassen, während andere (z. B. F) dazu neigen, die meisten "
+"Bewerber abzulehnen, selbst wenn sie von hoher Qualität sind. Unter den "
+"sechs oben dargestellten Fachbereichen fällt auf, dass Fachbereich A am "
+"großzügigsten ist, gefolgt von B, C, D, E und F in dieser Reihenfolge. "
+"Außerdem bewerben sich Männer und Frauen in der Regel für unterschiedliche "
+"Abteilungen. Wenn wir die Fachbereiche nach der Gesamtzahl der männlichen "
+"Bewerber ordnen, erhalten wir **A** > **B** > D > C > F > E (die „leichten“ "
+"Fachbereiche sind fett gedruckt). Im Großen und Ganzen bewarben sich die "
+"Männer also eher bei den Fachbereichen, die eine hohe Zulassungsquote "
+"aufwiesen. Vergleichen wir dies nun mit der Verteilung der weiblichen "
+"Bewerber. Die Rangfolge der Fachbereiche nach der Gesamtzahl der "
+"Bewerberinnen ergibt eine ganz andere Reihenfolge C > E > D > F > **A** > "
+"**B**. Mit anderen Worten, diese Daten scheinen darauf hinzudeuten, dass "
+"sich die weiblichen Bewerber eher in „schwierigeren“ Fachbereichen bewarben. "
+"Und in der Tat, wenn wir uns :numref:`fig-berkeley` ansehen, so sehen wir, "
+"dass dieser Trend systematisch und ziemlich auffällig ist. Dieser Effekt ist "
+"als **Simpsonsches Paradox** bekannt. Er ist nicht alltäglich, aber er tritt "
+"im wirklichen Leben auf, und die meisten Menschen sind sehr überrascht, wenn "
+"sie ihm zum ersten Mal begegnen. Viele weigern sich sogar zu glauben, dass "
+"er real ist. Es ist aber sehr real. Und obwohl in Bezug auf dieses Paradox "
+"sehr viel über Statistik lernen kann, möchte ich auf einen viel wichtigeren "
+"Punkt hinweisen: Forschung ist schwierig, und es gibt *viele* subtile und "
+"kontraintuitive Fallen, die auf die Unvorsichtigen lauern. Das ist der "
+"zweite Grund, warum Wissenschaftler Statistik lieben und warum wir "
+"Forschungsmethoden unterrichten. Denn Wissenschaft ist schwierig, und die "
+"Wahrheit ist manchmal in komplizierten Daten versteckt."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:97
 msgid "Berkeley 1973 college admissions data"
-msgstr ""
+msgstr "Berkeley-Zulassungsdaten von 1973"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:97
 msgid ""
@@ -575,6 +760,14 @@ msgid ""
 "the area of the circle is proportional to the total number of applicants. "
 "The crosses plot departments with fewer than 40 applicants."
 msgstr ""
+"Die Berkeley-Zulassungsdaten von 1973. Die Abbildung zeigt die "
+"Zulassungsrate für die 85 Fachbereiche, die mindestens eine weibliche "
+"Bewerberin hatten, als Funktion des Prozentsatzes der weiblichen Bewerber. "
+"Die Darstellung ist eine Replikation von Abbildung 1 aus `Bickel et al. "
+"(1975) <../Other/References.html#bickel-1975>`__. Kreise zeigen Abteilungen "
+"mit mehr als 40 Bewerbern, wobei die Fläche des Kreises proportional zur "
+"Gesamtzahl der Bewerber ist. Kreuze zeigen Abteilungen mit weniger als 40 "
+"Bewerbern."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:107
 msgid ""
@@ -598,6 +791,28 @@ msgid ""
 "department it can hardly be held accountable for any biases that those "
 "choices produce."
 msgstr ""
+"Bevor wir uns von diesem Thema verabschieden, möchte ich noch auf etwas "
+"Entscheidendes hinweisen, das in Vorlesungen über Forschungsmethoden oft "
+"übersehen wird. Statistik löst nur *einen Teil* des Problems. Erinnern Sie "
+"sich, dass wir mit der Sorge begonnen haben, dass das Zulassungsverfahren in "
+"Berkeley ungerechtfertigt voreingenommen gegenüber weiblichen Bewerbern sein "
+"könnte. Als wir uns die „aggregierten“ Daten ansahen, hatte es den Anschein, "
+"als würde die Universität Frauen diskriminieren, aber als wir uns das "
+"individuelle Verhalten aller Fachbereiche „aufgeschlüsselt“ betrachtet "
+"haben, stellte sich heraus, dass die einzelnen Fachbereiche, eher leicht "
+"zugunsten von Frauen voreingenommen waren. Die geschlechtsspezifische "
+"Verzerrung bei den Gesamtzulassungen wurde durch die Tatsache verursacht, "
+"dass Frauen dazu neigten, sich in „schwierigeren“ Fachbereichen zu bewerben. "
+"Aus rechtlicher Sicht wäre die Universität damit wahrscheinlich aus dem "
+"Schneider. Die Zulassung von Postgraduierten wird auf der Ebene der "
+"einzelnen Fachbereiche festgelegt, und dafür gibt es gute Gründe. Auf der "
+"Ebene der einzelnen Fachbereiche sind die Entscheidungen mehr oder weniger "
+"unvoreingenommen (die schwache Voreingenommenheit zugunsten von Frauen auf "
+"dieser Ebene ist gering und nicht in allen Fachbereichen gleich). Da die "
+"Universität nicht vorschreiben kann, wer sich an welchen Fachbereichen "
+"bewirbt, und die Entscheidung auf der Ebene der Fachbereiche getroffen wird, "
+"kann sie kaum für etwaige Verzerrungen verantwortlich gemacht werden, die "
+"durch diese Entscheidungen entstehen."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:128
 msgid ""
@@ -626,6 +841,35 @@ msgid ""
 "making process at Berkeley itself then you’re probably only interested in "
 "the disaggregated data."
 msgstr ""
+"Das ist jedoch nicht die ganze Geschichte: Wenn wir uns nämlich aus einer "
+"eher soziologischen und psychologischen Perspektive für diese Unterschiede "
+"interessieren, sollten wir uns fragen, *warum* es so starke "
+"Geschlechterunterschiede bei den Bewerbungen gibt. Warum bewerben sich "
+"Männer tendenziell häufiger für Ingenieurwissenschaften als Frauen, und "
+"warum ist das bei den Geisteswissenschaften umgekehrt? Und warum haben die "
+"Fachbereiche, an denen sich eher Frauen bewerben, insgesamt niedrigere "
+"Zulassungsquoten als die Fachbereiche, an denen sich eher Männer bewerben? "
+"Könnte dies nicht immer noch eine geschlechtsspezifische Voreingenommenheit "
+"widerspiegeln, auch wenn jeder einzelne Fachbereich selbst unvoreingenommen "
+"ist? Das könnte der Fall sein. Nehmen wir einmal an, dass sich Männer "
+"bevorzugt bei den „harten“ Wissenschaften bewerben und Frauen bei den "
+"Geisteswissenschaften. Und nehmen wir weiter an, dass der Grund für die "
+"niedrigen Zulassungsquoten in den geisteswissenschaftlichen Fächern darin "
+"liegt, dass die Geisteswissenschaften finanziell schlechter gestellt sind "
+"(Doktorandenstellen sind oft an staatlich finanzierte Forschungsprojekte "
+"gebunden). Ist das eine geschlechtsspezifische Voreingenommenheit? Oder nur "
+"eine unaufgeklärte Meinung über den Wert der Geisteswissenschaften? Was "
+"wäre, wenn jemand auf hoher Ebene in der Regierung die Mittel für die "
+"Geisteswissenschaften kürzen würde, weil sie der Meinung sind, dass die "
+"Geisteswissenschaften „nutzloses Weiberzeug“ sind. Das scheint ziemlich "
+"*offensichtlich* geschlechtsspezifisch voreingenommen. All dies fällt nicht "
+"in den Bereich der Statistik, aber es ist für den Forschungsgegenstand von "
+"großer Bedeutung. Wenn Sie an den allgemeinen strukturellen Auswirkungen "
+"subtiler geschlechtsspezifischer Verzerrungen interessiert sind, dann "
+"sollten Sie sich *sowohl* die aggregierten *als auch* die disaggregierten "
+"Daten ansehen. Wenn Sie sich für den Entscheidungsfindungsprozess in "
+"Berkeley selbst interessieren, dann sind Sie wahrscheinlich primär an den "
+"disaggregierten Daten interessiert."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:154
 msgid ""
@@ -636,6 +880,13 @@ msgid ""
 "more and no less. It’s a powerful tool to that end, but there’s no "
 "substitute for careful thought."
 msgstr ""
+"Es gibt eine Menge kritischer Fragen, die man mit Statistik nicht "
+"beantworten kann. Die Antworten auf diese Fragen haben jedoch einen großen "
+"Einfluss darauf, wie man Daten analysiert und interpretiert. Aus diesem "
+"Grund sollten Sie die Statistik immer als ein *Werkzeug* betrachten, das "
+"Ihnen hilft, mehr über Ihre Daten zu erfahren. Nicht mehr und nicht weniger. "
+"Sie ist ein leistungsfähiges Werkzeug für diesen Zweck, aber sie ist kein "
+"Ersatz für sorgfältige Überlegungen."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:164
 msgid ""
@@ -644,10 +895,14 @@ msgid ""
 "simpsons-paradox-berkeley.html>`__. A big thank you to Wilfried Van Hirtum "
 "for pointing this out to me."
 msgstr ""
+"In früheren Versionen wurde fälschlicherweise behauptet, dass Berkeley "
+"tatsächlich verklagt wurden. Aber das ist `nicht wahr <https://www.refsmmat."
+"com/posts/2016-05-08-simpsons-paradox-berkeley.html>`__. Vielen Dank an "
+"Wilfried Van Hirtum, der mich darauf aufmerksam gemacht hat."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:4
 msgid "Statistics in psychology"
-msgstr ""
+msgstr "Statistik in der Psychologie"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:6
 msgid ""
@@ -657,10 +912,16 @@ msgid ""
 "psychology classes always devote so many lectures to stats. So here’s my "
 "attempt to answer a few of them..."
 msgstr ""
+"Ich hoffe, dass die obige Diskussion dazu beigetragen hat zu erklären, warum "
+"sich die Wissenschaft so sehr auf die Statistik konzentriert. Ich vermute "
+"jedoch, dass Sie noch viele weitere Fragen dazu haben, welche Rolle die "
+"Statistik in der Psychologie spielt und warum es so viele Statistik-"
+"Vorlesungen im Psychologiestudium gibt. Hier ist also mein Versuch, ein paar "
+"dieser Fragen zu beantworten..."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:12
 msgid "**Why does psychology have so much statistics?**"
-msgstr ""
+msgstr "**Warum gibt es in der Psychologie so viel Statistik?**"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:14
 msgid ""
@@ -676,6 +937,19 @@ msgid ""
 "deliberately try to sabotage the data set (not that I’ve ever done that!). "
 "At a fundamental level psychology is harder than physics.\\ [#]_"
 msgstr ""
+"Um ganz ehrlich zu sein, gibt es dafür verschiedene Gründe, von denen einige "
+"besser sind als andere. Der wichtigste Grund ist, dass die Psychologie eine "
+"statistische Wissenschaft ist. Was ich damit meine, ist, dass die „Dinge“, "
+"die wir untersuchen, *Menschen* sind. Echte, komplizierte, herrlich "
+"chaotische, wahnsinnig perverse Menschen. Zu den „Dingen“ der Physik gehören "
+"Objekte wie Elektronen, und obwohl es in der Physik alle möglichen "
+"Komplexitäten gibt, haben Elektronen keinen eigenen Verstand. Sie haben "
+"keine Meinungen, sie unterscheiden sich nicht auf seltsame und willkürliche "
+"Weise voneinander, sie langweilen sich nicht mitten in einem Experiment, und "
+"sie werden nicht wütend auf den Experimentator und versuchen dann "
+"absichtlich, den Datensatz zu sabotieren (nicht, dass ich das jemals getan "
+"hätte...). Grundsätzlich ist die Psychologie schwieriger als die Physik.\\ "
+"[#]_"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:27
 msgid ""
@@ -689,10 +963,22 @@ msgid ""
 "Not because we’re bad experimenters, but because we’ve picked a harder "
 "problem to solve. We teach you stats because you really, really need it."
 msgstr ""
+"Im Grunde genommen enthält das Psychologiestudium so viel Statistik, weil "
+"Sie besser in Statistik sein müssen als Physiker. In der Physik gibt es "
+"sogar ein Sprichwort, das besagt: „Wenn Ihr Experiment Statistik braucht, "
+"hätten Sie ein besseres Experiment machen sollen“. Die Physiker verfügen "
+"über den Luxus, das sagen zu können, weil ihre Studienobjekte im Vergleich "
+"zu dem riesigen Durcheinander, mit dem die Sozialwissenschaftler "
+"konfrontiert sind, unglaublich einfach sind. Und das gilt nicht nur für die "
+"Psychologie. Die meisten Sozialwissenschaften sind auf Statistiken "
+"angewiesen. Nicht, weil wir schlechte Experimentatoren sind, sondern weil "
+"wir uns ein schwierigeres Problem ausgesucht haben, das es zu lösen gilt. "
+"Statistik ist ein so großer Teil des Psychologiestudiums, weil sie wirklich "
+"nötig ist."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:38
 msgid "**Can’t someone else do the statistics?**"
-msgstr ""
+msgstr "**Kann nicht jemand anders die Statistik machen?**"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:40
 msgid ""
@@ -701,6 +987,12 @@ msgid ""
 "a certain level of statistical competence. In my view, there’s three reasons "
 "that every psychological researcher ought to be able to do basic statistics:"
 msgstr ""
+"Das ist zu einem gewissen Grad möglich, aber nicht vollständig. Es stimmt, "
+"dass man kein voll ausgebildeter Statistiker sein muss, um Psychologie zu "
+"betreiben. Aber man muss ein gewisses Niveau an statistischer Kompetenz "
+"erreichen. Meiner Meinung nach gibt es drei Gründe, warum jeder "
+"psychologische Forscher in der Lage sein sollte, grundlegende Statistiken zu "
+"erstellen:"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:46
 msgid ""
@@ -708,6 +1000,9 @@ msgid ""
 "with research design. If you want to be good at designing psychological "
 "studies, you need to at the very least understand the basics of stats."
 msgstr ""
+"Zuerst der wichtigste Grund: Statistik ist eng mit dem Forschungsdesign "
+"verbunden. Um gute psychologische Studien zu entwerfen, müssen wir zumindest "
+"die Grundlagen der Statistik verstehen."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:51
 msgid ""
@@ -718,6 +1013,12 @@ msgid ""
 "you need to be able to understand what other people did with their data. And "
 "that means understanding a certain amount of statistics."
 msgstr ""
+"Zweitens: Wenn man in der psychologischen Seite der Forschung gut sein will, "
+"muss man auch die psychologische Literatur verstehen. Fast jede Arbeit in "
+"der psychologischen Literatur berichtet die Ergebnisse statistischer "
+"Analysen. Wenn Sie also die Psychologie wirklich verstehen wollen, müssen "
+"Sie in der Lage sein zu verstehen, was andere mit ihren Daten gemacht haben. "
+"Und das bedeutet, dass man ein gewisses Maß an Statistik verstehen muss."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:59
 msgid ""
@@ -734,6 +1035,18 @@ msgid ""
 "have enough money to afford a statistician. So the economics of the "
 "situation mean that you have to be pretty self-sufficient."
 msgstr ""
+"Drittens gibt es ein großes praktisches Problem, wenn man für seine "
+"Statistiken auf andere angewiesen ist: Statistische Analysen sind *teuer*. "
+"Wenn Sie einmal nachsehen, wie hoch die Universitätsgebühren in Australien "
+"sind, werden Sie etwas Interessantes feststellen: Statistik ist als "
+"„nationale Priorität“ eingestuft, die Gebühren sind daher sehr viel "
+"niedriger als für andere Studienfächer. Das liegt daran, dass es einen "
+"massiven Mangel an Statistikern gibt. Aus Ihrer Sicht als psychologischer "
+"Forscher sind die Gesetze von Angebot und Nachfrage nicht auf Ihrer Seite! "
+"In fast jeder Situation, in der Sie psychologische Forschung betreiben "
+"wollen, werden Sie feststellen, dass Sie nicht genug Geld haben, um sich "
+"einen Statistiker zu leisten. Die ökonomische Situation bedeutet also, dass "
+"Sie ziemlich autark sein müssen."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:74
 msgid ""
@@ -742,12 +1055,18 @@ msgid ""
 "able to read the scientific literature, which relies pretty heavily on "
 "statistics."
 msgstr ""
+"Viele dieser Gründe gelten nicht nur für Forscher. Wenn Sie als "
+"praktizierender Psychologe auf dem Laufenden bleiben wollen, ist es "
+"notwendig, die wissenschaftliche Literatur lesen zu können, die sich in "
+"hohem Maße auf Statistiken stützt."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:79
 msgid ""
 "**I don’t care about jobs, research, or clinical work. Do I need statistics?"
 "**"
 msgstr ""
+"**Ich interessiere mich nicht für Jobs, Forschung oder klinische Arbeit. "
+"Brauche ich Statistik?**"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:82
 msgid ""
@@ -758,31 +1077,40 @@ msgid ""
 "knowledge of statistics is pretty damn close to a survival tool! Which is "
 "the topic of the next section."
 msgstr ""
+"Okay, jetzt machst du dich über mich lustig. Trotzdem denke ich, dass es "
+"auch für Sie wichtig sein sollte. Statistik sollte für Sie genauso wichtig "
+"sein, wie für *jeden*. Wir leben im 21. Jahrhundert, und Daten sind "
+"*überall*. Offen gesagt, in der Welt, in der wir heute leben, sind "
+"Grundkenntnisse der Statistik fast überlebenswichtig! Das ist das Thema des "
+"nächsten Abschnitts."
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:92
 msgid ""
 "Which might explain why physics is just a teensy bit further advanced as a "
 "science than we are."
 msgstr ""
+"Das könnte erklären, warum die Physik als Wissenschaft nur ein klitzekleines "
+"bisschen weiter fortgeschritten ist als wir."
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:4
 msgid "Statistics in everyday life"
-msgstr ""
+msgstr "Statistik im Alltag"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0
 msgid "*“We are drowning in information,*"
-msgstr ""
+msgstr "„*Wir ertrinken in Informationen,*"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0
 msgid "* but we are starved for knowledge”*"
-msgstr ""
+msgstr "*aber wir hungern nach Wissen.“*"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:14
 msgid "Various authors, original probably John Naisbitt"
 msgstr ""
+"Verschiedenen Autoren zugeschrieben, ursprünglich wahrscheinlich John "
+"Naisbitt"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:12
-#, python-format
 msgid ""
 "When I started writing up my lecture notes I took the 20 most recent news "
 "articles posted to the ABC news website. Of those 20 articles, it turned out "
@@ -801,13 +1129,28 @@ msgid ""
 "Ch04_Descriptives_1>`. In later versions of this book I’ll try to include "
 "more anecdotes along those lines."
 msgstr ""
+"Als ich anfing, dieses Buch zu schreiben, untersuchte ich die 20 neuesten "
+"Nachrichtenartikel, die auf der ABC-Nachrichten-Website veröffentlicht "
+"wurden. Von diesen 20 Artikeln behandelten 8 Artikel etwas, das ich als "
+"statistisches Thema bezeichnen würde, und 6 dieser Artikel enthielten "
+"Fehler. Der häufigste Fehler war das Fehlen von Basisdaten (z. B. wird in "
+"dem Artikel erwähnt, dass 5 % der Menschen in Situation X ein Merkmal Y "
+"haben, aber es wird nicht gesagt, wie häufig das Merkmal bei allen anderen "
+"ist). Was ich damit sagen will, ist nicht, dass Journalisten schlecht in "
+"Statistik sind (obwohl sie das oft der Fall ist), sondern dass "
+"Grundkenntnisse in Statistik sehr hilfreich sind, um herauszufinden, ob "
+"jemand einen Fehler macht oder sogar lügt. Eine der größten Auswirkungen von "
+"Statistikkenntnissen ist, dass man sich viel häufiger über die Zeitung oder "
+"das Internet ärgert. Ein gutes Beispiel dafür finden Sie in dem Abschnitt :"
+"doc:`Ein Beispiel aus dem wirklichen Leben <../Ch04/Ch04_Descriptives_1>`. "
+"In späteren Versionen dieses Buches werde ich versuchen, mehr Anekdoten "
+"dieser Art aufzunehmen."
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:29
 msgid "There’s more to research methods than statistics"
-msgstr ""
+msgstr "Forschungsmethoden sind mehr als nur Statistik"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:31
-#, python-format
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "
@@ -833,6 +1176,31 @@ msgid ""
 "statistics). In that sense, from the perspective of allowing you to do well "
 "in all your other classes, the statistics is more urgent."
 msgstr ""
+"Bisher habe ich vor allem über Statistik gesprochen, und man könnte meinen, "
+"dass ich mich im Leben nur für Statistik interessiere. Fairerweise muss man "
+"sagen, dass Sie damit gar nicht so falsch liegen, aber Forschungsmethodik "
+"ist ein breiteres Konzept als Statistik. In den meisten Kursen zur "
+"Forschungsmethodik werden daher viele Themen behandelt, die sich eher auf "
+"die Pragmatik des Forschungsdesigns und insbesondere auf die Probleme "
+"beziehen, auf die man stößt, wenn man versucht, Forschung mit Menschen zu "
+"betreiben. Allerdings beziehen sich etwa 99 % der *Befürchtungen* von "
+"Studenten auf den Statistikteil des Kurses. Daher habe ich mich in dieser "
+"Diskussion auf die Statistik konzentriert und hoffe, Sie davon überzeugt zu "
+"haben, dass Statistik wichtig ist und – was noch wichtiger ist – dass man "
+"sie nicht fürchten muss. Abgesehen davon ist es ziemlich typisch für "
+"Einführungskurse in Forschungsmethoden, dass sie sehr statistiklastig sind. "
+"Das liegt (normalerweise) nicht daran, dass die Dozenten schlechte Menschen "
+"sind. Das Gegenteil ist der Fall. In den Einführungskursen wird viel Wert "
+"auf Statistik gelegt, weil man diese fast immer braucht, bevor man die "
+"anderen Forschungsmethoden lernt. Und warum? Weil Sie für fast alle Aufgaben "
+"in anderen Kursen auf statistische Kenntnisse angewiesen sind, und zwar in "
+"einem viel größeren Maße als auf andere methodische Werkzeuge. Es wird "
+"selten erwartet, dass Sie im Rahmen eines Studiums eine eigene Studie von "
+"Grund auf entwerfen (in diesem Fall müssten Sie viel über Forschungsdesign "
+"wissen), aber es *ist* üblich, dass Sie Daten analysieren und interpretieren "
+"sollen, die im Rahmen einer Studie erhoben wurden, die jemand anderes "
+"entworfen hat (in diesem Fall brauchen Sie Statistik). In diesem Sinne ist "
+"Statistik notwendig, um in allen anderen Fächern gut abschneiden zu können."
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:56
 msgid ""
@@ -847,3 +1215,14 @@ msgid ""
 "engage in. To the extent that it’s the details that matter, those details "
 "don’t usually show up in an introductory stats and research methods class."
 msgstr ""
+"Beachten Sie, dass „dringend“ etwas anderes ist als „wichtig“ – beide sind "
+"notwendig. Ich möchte betonen, dass Forschungsdesign ebenso wichtig ist wie "
+"die Datenanalyse, und dieses Buch widmet dem entsprechend viel Zeit. Während "
+"die Statistik eine gewisse Universalität besitzt und eine Reihe von "
+"Kernwerkzeugen bietet, welche für die meisten Arten der psychologischen "
+"Forschung nützlich sind, sind Forschungsmethoden weniger universell. Es gibt "
+"zwar einige allgemeine Grundsätze, die jeder berücksichtigen sollte, aber "
+"ein Großteil des Forschungsdesigns ist sehr idiosynkratisch und spezifisch "
+"für das Forschungsgebiet, mit dem man sich befasst. In dem Maße, in dem es "
+"eher auf Details ankommt, werden diese normalerweise nicht in einem "
+"Einführungskurs in Statistik und Forschungsmethoden behandelt."
