@@ -6,6 +6,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-23 21:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-22 13:27+0200\n"
@@ -20,27 +31,27 @@ msgstr ""
 msgid "Why do we learn statistics?"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*“Thou shalt not answer questionnaires*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*Or quizzes upon World Affairs,*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*Nor with compliance*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*Take any test. Thou shalt not sit*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*With statisticians nor commit*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0 ../../Ch01/Ch01_WhyStats.rst
 msgid "*A social science”*"
 msgstr ""
 
@@ -154,15 +165,15 @@ msgid ""
 "For instance, here’s a valid argument where the conclusion is believable:"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All cigarettes are expensive (Premise 1)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some addictive things are inexpensive (Premise 2)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
 msgstr ""
 
@@ -170,15 +181,15 @@ msgstr ""
 msgid "And here’s a valid argument where the conclusion is not believable:"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All addictive things are expensive (Premise 1)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some cigarettes are inexpensive (Premise 2)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
 msgstr ""
 
@@ -769,11 +780,11 @@ msgstr ""
 msgid "Statistics in everyday life"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0 ../../Ch01/Ch01_WhyStats_5.rst
 msgid "*“We are drowning in information,*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0 ../../Ch01/Ch01_WhyStats_5.rst
 msgid "* but we are starved for knowledge”*"
 msgstr ""
 

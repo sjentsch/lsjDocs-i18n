@@ -6,6 +6,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-23 21:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-22 13:23+0200\n"
@@ -20,7 +31,7 @@ msgstr ""
 msgid "A brief introduction to research design"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign.rst
+#: ../../Ch02/Ch02_StudyDesign.rst:0 ../../Ch02/Ch02_StudyDesign.rst
 msgid ""
 "*To consult the statistician after an experiment is finished is often merely "
 "to ask him to conduct a post mortem examination. He can perhaps say what the "
@@ -421,19 +432,19 @@ msgid ""
 "beliefs:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Temperatures are not rising"
 msgstr ""
 
@@ -708,23 +719,23 @@ msgstr ""
 msgid "and then the options presented to the participant are these:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Strongly disagree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Disagree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Neither agree nor disagree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Agree"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(5\\) Strongly agree"
 msgstr ""
 
@@ -737,15 +748,15 @@ msgid ""
 "a perfectly good example of a 5-point Likert scale too:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
 msgstr "\\(2\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
 msgstr "\\(3\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
 msgstr "\\(4\\)"
 
@@ -1885,11 +1896,11 @@ msgstr ""
 msgid "Fraud, deception and self-deception"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst
+#: ../../Ch02/Ch02_StudyDesign_5.rst:0 ../../Ch02/Ch02_StudyDesign_5.rst
 msgid "*It is difficult to get a man to understand something,*"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst
+#: ../../Ch02/Ch02_StudyDesign_5.rst:0 ../../Ch02/Ch02_StudyDesign_5.rst
 msgid "*when his salary depends on his not understanding it.*"
 msgstr ""
 

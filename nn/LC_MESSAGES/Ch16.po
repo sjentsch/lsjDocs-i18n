@@ -6,6 +6,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-23 21:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:08+0200\n"
@@ -20,7 +31,7 @@ msgstr ""
 msgid "Bayesian statistics"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes.rst
+#: ../../Ch16/Ch16_Bayes.rst:0 ../../Ch16/Ch16_Bayes.rst
 msgid ""
 "*In our reasonings concerning matter of fact, there are all imaginable "
 "degrees of assurance, from the highest certainty to the lowest species of "
@@ -891,7 +902,7 @@ msgstr ""
 msgid "Statistics that mean what you think they mean"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid ""
 "*You keep using that word. I do not think it means what you think it means*"
 msgstr ""
@@ -993,7 +1004,7 @@ msgstr ""
 msgid "Evidentiary standards you can believe"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid ""
 "If [*p*] is below 0.02 it is strongly indicated that the [null] hypothesis "
 "fails to account for the whole of the facts. We shall not often be astray if "
@@ -1048,7 +1059,7 @@ msgstr ""
 msgid "The *p*-value is a lie."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid "*The cake is a lie.*"
 msgstr ""
 
@@ -1389,7 +1400,7 @@ msgid ""
 "point is this:"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid "*Good laws have their origins in bad morals.*"
 msgstr ""
 
