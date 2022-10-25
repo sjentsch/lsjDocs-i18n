@@ -13,27 +13,16 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-22 12:03+0000\n"
+"PO-Revision-Date: 2022-10-25 18:02+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -117,13 +106,8 @@ msgid "nominal"
 msgstr "nominal"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:51
-#, fuzzy
 msgid "continuous"
-msgstr ""
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"continuous\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Kontinuierlich"
+msgstr "continuous"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:24
 msgid ""
@@ -2705,13 +2689,8 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:51
-#, fuzzy
 msgid "ordinal"
-msgstr ""
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"ordinal\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Ordinal"
+msgstr "ordinal"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "‘Repeated Measures ANOVA (Non-parametric)’ dialogue box in jamovi"
