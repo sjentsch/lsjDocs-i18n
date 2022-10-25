@@ -13,27 +13,16 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-21 15:29+0200\n"
-"PO-Revision-Date: 2022-10-22 12:03+0000\n"
+"PO-Revision-Date: 2022-10-25 18:02+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -578,13 +567,8 @@ msgstr ""
 "zugeordnet sind, und ist daher für ordinale Daten nicht wirklich geeignet."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:397
-#, fuzzy
 msgid "ordinal"
-msgstr ""
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"ordinal\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Ordinal"
+msgstr "ordinal"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:180
 msgid ""
@@ -2089,6 +2073,15 @@ msgid ""
 "2.12) indicating that the distribution has “fat” tails. Note that kurtosis "
 "is measured with respect to a normal distribution (black line)."
 msgstr ""
+"Eine Illustration der Kurtosis. Auf der linken Seite haben wir eine "
+"„platykurtische“ Verteilung (Kurtosis = -0,95), was bedeutet, dass die "
+"Verteilung „dünne“ oder flache Ausläufer (oder Schwänze) hat. In der Mitte "
+"haben wir eine „mesokurtische“ Verteilung (Kurtosis ist fast genau 0), was "
+"bedeutet, dass die Ausläufer weder dünn noch dick sind. Auf der rechten "
+"Seite schließlich haben wir eine „leptokurtische“ Verteilung (Kurtosis = "
+"2,12), die anzeigt, dass die Verteilung „dicke“ Enden hat. Beachten Sie, "
+"dass die Kurtosis in Bezug auf eine Normalverteilung (schwarze Linie) "
+"gemessen wird."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:83
 msgid ""
@@ -2100,54 +2093,62 @@ msgid ""
 "tails, so we say that it is *mesokurtic* and has kurtosis zero. This is "
 "summarised in the table below:"
 msgstr ""
+"Die Daten im linken Feld von :numref:`fig-kurtosis` haben eine ziemlich "
+"flache Verteilung mit dünnen Ausläufern, daher ist die Kurtosis negativ und "
+"wir nennen die Daten *platykurtisch*. Die Daten im rechten Feld haben eine "
+"Verteilung mit dicken Ausläufern, so dass die Kurtosis positiv ist und wir "
+"sagen, dass die Daten *leptokurtisch* sind. Nur die Daten im mittleren Feld "
+"haben weder dünne noch dicke Ausläufer, so dass wir sagen, dass sie "
+"*mesokurtisch* sind und eine Wölbung von Null haben. Dies wird in der "
+"nachstehenden Tabelle zusammengefasst:"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:91
 msgid "informal term"
-msgstr ""
+msgstr "informeller Begriff"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:91
 msgid "technical name"
-msgstr ""
+msgstr "Bezeichnung"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:91
 msgid "kurtosis value"
-msgstr ""
+msgstr "Kurtosis-Wert"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:93
 msgid "“tails to thin”"
-msgstr ""
+msgstr "„Ausläufer zu dünn“"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:93
 msgid "platykurtic"
-msgstr ""
+msgstr "platykurtisch"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:93
 msgid "negative"
-msgstr ""
+msgstr "negativ"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:95
 msgid "“tails neither thin or fat”"
-msgstr ""
+msgstr "„Ausläufer weder dünn noch dick“"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:95
 msgid "mesokurtic"
-msgstr ""
+msgstr "mesokurtisch"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:95
 msgid "zero"
-msgstr ""
+msgstr "Null"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:97
 msgid "“tails too fat”"
-msgstr ""
+msgstr "„Ausläufer zu dick“"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:97
 msgid "leptokurtic"
-msgstr ""
+msgstr "leptokurtisch"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:97
 msgid "positive"
-msgstr ""
+msgstr "positiv"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:100
 msgid ""
@@ -2157,6 +2158,11 @@ msgid ""
 "deviations, the kurtosis involves raising the deviations to the fourth power:"
 "\\ [#]_"
 msgstr ""
+"Die Gleichung für die Kurtosis ist den Formeln, die wir bereits für die "
+"Varianz und die Schiefe gesehen haben, sehr ähnlich. Nur dass es sich bei "
+"der Varianz um quadratische Abweichungen und bei der Schiefe um kubische "
+"Abweichungen handelt, während bei der Kurtosis die Abweichungen auf die "
+"vierte Potenz angehoben werden müssen:\\ [#]_"
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:106
 msgid ""
@@ -2170,7 +2176,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:108
 msgid "I know, it’s not terribly interesting to me either."
-msgstr ""
+msgstr "Ich weiß, für mich ist das auch nicht sonderlich interessant."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:110
 msgid ""
@@ -2179,6 +2185,11 @@ msgid ""
 "standard error of **0.364**. This means that the AFL winning margins data "
 "has only a small kurtosis, which is ok."
 msgstr ""
+"jamovi hat ein Kontrollkästchen für die Kurtosis direkt unter dem "
+"Kontrollkästchen für die Schiefe, und dies ergibt einen Wert für die Wölbung "
+"von **0,101** mit einem Standardfehler von **0,364**. Dies bedeutet, dass "
+"die AFL-Gewinnspannen-Daten nur eine geringe Kurtosis aufweisen, was in "
+"Ordnung ist."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:118
 msgid ""
@@ -2187,10 +2198,14 @@ msgid ""
 "at the end of the formula, but there are good mathematical reasons for doing "
 "this."
 msgstr ""
+"Der „- 3“-Teil wird von Statistikern angehängt, um sicherzustellen, dass die "
+"Wölbung der Normalkurve gleich Null ist. Es sieht ein bisschen dumm aus, "
+"einfach eine „- 3“ an das Ende der Formel zu hängen, aber es gibt gute "
+"mathematische Gründe dafür, dies zu tun."
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:4
 msgid "Descriptive statistics separately for each group"
-msgstr ""
+msgstr "Nach Gruppen unterteilte deskriptivstatistische Analysen"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:6
 msgid ""
@@ -2204,16 +2219,28 @@ msgid ""
 "<../Ch13/Ch13_ANOVA>` (you can find a complete description of the data at "
 "the start of that chapter). Let’s load it and see what we’ve got:"
 msgstr ""
+"Es kommt sehr häufig vor, dass man deskriptivstatistische Maße nach einer "
+"Gruppierungsvariable (nominal) aufgeschlüsselt betrachten möchte. Das ist in "
+"jamovi ziemlich einfach zu machen. Nehmen wir zum Beispiel an, ich möchte "
+"die deskriptivstatistischen Maße für einige klinische Studiendaten "
+"betrachten, aufgeschlüsselt nach ``therapy``-Typ. Dies ist ein neuer "
+"Datensatz, den Sie noch nie gesehen haben. Die Daten sind im Datensatz "
+"|clinicaltrial|_ gespeichert, und wir werden sie in Kapitel :doc:`Vergleich "
+"mehrerer Mittelwerte (einseitige ANOVA) <../Ch13/Ch13_ANOVA>` häufig "
+"verwenden (eine vollständige Beschreibung der Daten finden Sie am Anfang "
+"dieses Kapitels). Laden wir sie und sehen wir uns an, was wir bekommen haben:"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:22
 msgid "Variables in ``clinicaltrial``"
-msgstr ""
+msgstr "Variablen in ``clinicaltrial``"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:22
 msgid ""
 "Screenshot of jamovi showing the variables stored in the |clinicaltrial|_ "
 "data set"
 msgstr ""
+"jamovi-Screenshot mit den im Datensatz |clinicaltrial|_ gespeicherten "
+"Variablen"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:27
 msgid ""
@@ -2226,6 +2253,16 @@ msgid ""
 "here it’s hard to say much more than that. Still, that’s not too bad. "
 "Overall I feel that I learned something from that."
 msgstr ""
+"Offensichtlich gab es drei Medikamente: ein Placebo, ein Medikament namens "
+"„anxifree“ und ein Medikament namens „joyzepam“. Jedes Medikament wurde 6 "
+"Personen verabreicht. Es gab 9 Personen, die mit kognitiver "
+"Verhaltenstherapie (CBT) behandelt wurden, und 9 Personen, die keine "
+"psychologische Behandlung erhielten. Und wenn man sich die ``Descriptives`` "
+"der ``mood.gain`` Variable ansieht, kann man erkennen, dass die meisten "
+"Personen eine Verbesserung der Stimmung zeigten (Mittelwert = 0,88), obwohl "
+"es schwer ist, mehr als das zu sagen, wenn man nicht weiß, wie die Skala "
+"hier aussieht. Dennoch ist das nicht allzu schlecht. Insgesamt habe ich das "
+"Gefühl, dass ich daraus etwas gelernt habe."
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:36
 msgid ""
@@ -2235,16 +2272,24 @@ msgid ""
 "transfer the ``therapy`` variable into the ``Split by`` box, and you should "
 "get something like :numref:`fig-clinicaltrial_grouping`."
 msgstr ""
+"Wir können uns auch einige andere deskriptivstatistische Maße ansehen, und "
+"zwar diesmal getrennt für jede Therapieart. Wählen Sie in jamovi die "
+"Optionen Std.-Abweichung, Schiefe und Kurtosis in den Feldern ``Statistics`` "
+"an. Übertragen Sie gleichzeitig die Variable ``therapy`` in das Feld ``Split "
+"by``, und Sie sollten eine Ausgabe erhälten, die :numref:`fig-"
+"clinicaltrial_grouping` ähnelt."
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:48
 msgid "Variables in ``clinicaltrial`` split by therapy type"
-msgstr ""
+msgstr "Variablen in ``clinicaltrial``, aufgeteilt nach Therapieart"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:48
 msgid ""
 "Screenshot of jamovi showing ``Descriptives`` of the variables in the |"
 "clinicaltrial|_ data set split by therapy type"
 msgstr ""
+"jamovi-Screenshot mit den deskriptivstatistischen Maßen der Variablen im "
+"|clinicaltrial|_ Datensatz aufgeteilt nach Therapieart"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:53
 msgid ""
@@ -2256,6 +2301,14 @@ msgid ""
 "meaningful calculations. In this case jamovi tells you this by stating "
 "something like ``NaN`` or ``Inf``.\\ [#]_"
 msgstr ""
+"Was ist, wenn Sie mehrere Gruppierungsvariablen |nominal| haben? Angenommen, "
+"Sie möchten die durchschnittliche Stimmungsverbesserung, getrennt für alle "
+"möglichen Kombinationen von Medikament und Therapie, betrachten. Dies ist "
+"möglich, indem man eine weitere Variable, ``drug``, in das Feld ``Split by`` "
+"einfügt. Das ist ganz einfach, aber wenn Sie Ihren Datensatz zu sehr "
+"aufteilen, gibt es manchmal nicht genug Daten für jede Kombination, um "
+"sinnvolle Berechnungen durchzuführen. In diesem Fall teilt jamovi Ihnen dies "
+"mit, indem es etwas wie ``NaN`` oder ``Inf`` angibt. [#]_"
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:64
 msgid ""
@@ -2268,10 +2321,19 @@ msgid ""
 "are expressed in this way, for example **6.51e-16**, which would be quite "
 "unwieldy to write out in the normal way."
 msgstr ""
+"Manchmal stellt jamovi Zahlen auch auf eine ungewöhnliche Weise dar. Wenn "
+"eine Zahl sehr klein oder sehr groß ist, dann wechselt jamovi zu einer "
+"Exponentialform für Zahlen. Zum Beispiel **6.51e-4** bedeutet, dass das "
+"Komma um 4 Stellen nach links verschoben wird, so dass die tatsächliche Zahl "
+"**0.000651** ist. Bei einem Pluszeichen (z. B. **6,51e+4** ) wird der "
+"Dezimalpunkt nach rechts verschoben, z. B. **65.100,00**. In der Regel "
+"werden nur sehr kleine oder sehr große Zahlen auf diese Weise ausgedrückt, "
+"z. B. **6,51e-16**, die auf normalem Wege ziemlich unhandlich zu schreiben "
+"wären."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:4
 msgid "Standard scores"
-msgstr ""
+msgstr "Standardwerte"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:6
 #, python-format
@@ -2292,6 +2354,24 @@ msgid ""
 "of survey questions*. Even if it’s a very good questionnaire this isn’t very "
 "a informative statement."
 msgstr ""
+"Angenommen, mein Freund stellt einen neuen Fragebogen zusammen, mit dem die "
+"„Miesepetrigkeit“ (der Grad, in dem ich mürrisch bin) gemessen werden soll. "
+"Der Fragebogen enthält 50 Fragen, die man mürrisch oder nicht mürrisch "
+"beantworten kann. Bei einer großen Stichprobe (nehmen wir an, es handelt "
+"sich um eine Million Menschen!) sind die Daten ziemlich normal verteilt, "
+"wobei der Mittelwert der Miesepetrigkeit bei 17 von 50 miesepetrig "
+"beantworteten Fragen liegt und die Standardabweichung 5 beträgt. Wenn ich "
+"den Fragebogen ausfülle, beantworte ich dagegen 35 von 50 Fragen "
+"miesepetrig. Wie mürrisch bin ich also? Eine Möglichkeit, darüber "
+"nachzudenken, wäre zu sagen, dass ich eine „Miesepetrigkeit“ von 35/50 habe, "
+"also könnte man sagen, dass ich 70% mürrisch bin. Aber das ist ein bisschen "
+"seltsam, wenn man darüber nachdenkt. Wenn meine Freundin ihre Fragen etwas "
+"anders formuliert hätte, hätten die Leute vielleicht anders geantwortet, so "
+"dass sich die Gesamtverteilung der Antworten leicht nach oben oder unten "
+"verschieben könnte, je nachdem, wie genau die Fragen gestellt wurden. Ich "
+"bin also nur 70% mürrisch *in Bezug auf diesen Satz von Umfragefragen*. Auch "
+"wenn es sich um einen sehr guten Fragebogen handelt, ist dies keine sehr "
+"informative Aussage."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:23
 #, python-format
@@ -2312,6 +2392,24 @@ msgid ""
 "The problem is that almost certainly not a single person in that sample "
 "would be as grumpy as me."
 msgstr ""
+"Eine einfachere Methode ist es, meine Miesepetrigkeit zu beschreiben, indem "
+"ich mich mit anderen Menschen vergleiche. Schockierenderweise waren in der "
+"Stichprobe meines Freundes von 1.000.000 Menschen nur 159 Menschen so "
+"mürrisch wie ich (das ist, ehrlich gesagt, gar nicht so unrealistisch), was "
+"darauf hindeutet, dass ich zu den 0,016% Menschen gehöre, die am "
+"mürrischsten sind. Das macht viel mehr Sinn als der Versuch, die Rohdaten zu "
+"interpretieren. Diese Idee, dass wir meine Miesepetrigkeit im Hinblick auf "
+"die Gesamtverteilung der Miesepetrigkeit der Menschen beschreiben sollten, "
+"ist die qualitative Idee, welche die Standardisierung zu erreichen versucht. "
+"Eine Möglichkeit, dies zu tun, besteht darin, genau das zu tun, was ich "
+"gerade getan habe, und alles in Form von Perzentilen zu beschreiben. Das "
+"Problem dabei ist jedoch, dass „es an der Spitze einsam ist“. Nehmen wir an, "
+"mein Freund hätte nur eine Stichprobe von 1000 Personen gezogen (immer noch "
+"eine ziemlich große Stichprobe für die Zwecke des Tests eines neuen "
+"Fragebogens, möchte ich hinzufügen), und dieses Mal einen Mittelwert von, "
+"sagen wir, 16 von 50 mit einer Standardabweichung von 5 erhalten. Das "
+"Problem ist, dass mit ziemlicher Sicherheit nicht eine einzige Person in "
+"dieser Stichprobe so mürrisch wäre wie ich."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:40
 msgid ""
@@ -2321,6 +2419,12 @@ msgid ""
 "mean that my grumpiness score lies. To phrase it in “pseudo-maths” the "
 "standard score is calculated like this:"
 msgstr ""
+"Aber es ist noch nicht alles verloren. Ein anderer Ansatz ist die Umwandlung "
+"meines Miesepetrigkeitswertes in einen **Standardwert**, der auch als *z*-"
+"Wert bezeichnet wird. Der Standardwert ist definiert als die Anzahl der "
+"Standardabweichungen über dem Mittelwert, um die mein Miesepetrigkeitswert "
+"liegt. Um es in „Pseudo-Mathematik“ auszudrücken, wird der Standardwert wie "
+"folgt berechnet:"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:46
 msgid ""
@@ -2334,7 +2438,7 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:48
 msgid "In actual maths, the equation for the *z*-score is"
-msgstr ""
+msgstr "In der Mathematik lautet die Gleichung für den *z*-score"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:50
 msgid ""
@@ -2349,6 +2453,8 @@ msgid ""
 "So, going back to the grumpiness data, we can now transform Dani’s raw "
 "grumpiness into a standardised grumpiness score."
 msgstr ""
+"Zurück zu den Daten zur Miesepetrigkeit, können wir nun Dani's rohe "
+"Miesepetrigkeit in einen standardisierten Miesepetrigkeitswert umwandeln."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:55
 msgid ""
