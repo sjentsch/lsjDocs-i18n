@@ -13,27 +13,16 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 23:29+0200\n"
-"PO-Revision-Date: 2022-10-22 12:03+0000\n"
+"PO-Revision-Date: 2022-10-25 18:02+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1768,13 +1757,8 @@ msgid "*O*\\ :sub:`21`"
 msgstr "*O*\\ :sub:`21`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
-#, fuzzy
 msgid "*O*\\ :sub:`22`"
-msgstr ""
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"*O*\\ :sub:`21`\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"*O*\\ :sub:`22`"
+msgstr "*O*\\ :sub:`22`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:88 ../../Ch10/Ch10_ChiSquare_6.rst:48
 msgid "*R*\\ :sub:`2`"
