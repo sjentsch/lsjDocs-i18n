@@ -13,32 +13,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-18 11:07+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch17/de/"
-">\n"
+"PO-Revision-Date: 2022-10-25 18:02+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch17/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../Ch17/Ch17_Epilogue.rst:5
@@ -162,13 +151,8 @@ msgstr ""
 "es wäre gut, wenn diese einbezogen würden."
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
-#, fuzzy
 msgid "continuous"
-msgstr ""
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"continuous\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Kontinuierlich"
+msgstr "continuous"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
@@ -353,13 +337,8 @@ msgstr ""
 "logistische Regression."
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:180
-#, fuzzy
 msgid "ordinal"
-msgstr ""
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"ordinal\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Ordinal"
+msgstr "ordinal"
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:40
 msgid ""
