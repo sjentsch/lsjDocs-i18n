@@ -416,9 +416,11 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_3.rst:17
 msgid ""
-"``afl.finalists == \"Brisbane\" or afl.finalists == \"Carlton\" or afl."
-"finalists == \"Fremantle\" or afl.finalists == \"Richmond\"``\\ [#]_"
+"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
+"finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
 msgstr ""
+"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
+"finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics_3.rst:20
 msgid ""
