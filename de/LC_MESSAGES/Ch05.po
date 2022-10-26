@@ -1,20 +1,22 @@
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: 2022-10-22 12:03+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch05/de/"
-">\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -654,7 +656,7 @@ msgid ""
 "the first step is to set up a filter so just those four teams are "
 "included in the bar graph. This is straightforward in jamovi and you can "
 "do it by using the ``Filters`` function that we used previously. Open up "
-"the ``Filters`` screen and type in the following:"
+"the ``Filters`` screen and type in the following:\\ [#]_"
 msgstr ""
 "Ein anderes, häufig verwendetes Diagramm ist das **Balkendiagramm**. "
 "Verwenden wir den Datensatz |afl.finalists|_ mit der Variablen "
@@ -666,19 +668,11 @@ msgstr ""
 "Carlton, Fremantle und Richmond. Der erste Schritt besteht also darin, "
 "einen Filter einzurichten, damit nur diese vier Teams in das "
 "Balkendiagramm aufgenommen werden. Das ist in jamovi ganz einfach und "
-"kann mit der Funktion ``Filters`` gemacht werden, die wir zuvor verwendet"
-" haben. Öffnen Sie die ``Filters``-Eingabemaske und geben Sie Folgendes "
-"ein:"
+"kann mit der Funktion ``Filters`` gemacht werden, die wir zuvor "
+"verwendet haben. Öffnen Sie die ``Filters``-Eingabemaske und geben Sie "
+"Folgendes ein: \\ [#]_"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:17
-msgid ""
-"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or "
-"afl.finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
-msgstr ""
-"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or "
-"afl.finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
-
-#: ../../Ch05/Ch05_Graphics_3.rst:20
+#: ../../Ch05/Ch05_Graphics_3.rst:22
 msgid ""
 "When you have done this you will see, in the ``Data`` view, that jamovi "
 "has filtered out all values apart from those we have specified. Next, "
@@ -696,21 +690,21 @@ msgstr ""
 "damit jamovi weiß, welche Variable zu verwenden ist). Sie sollten dann "
 "ein Balkendiagramm erhalten, das etwa so aussieht wie :numref:`fig-bar1`."
 
-#: ../../Ch05/Ch05_Graphics_3.rst:33
+#: ../../Ch05/Ch05_Graphics_3.rst:35
 msgid "Bar plot in jamovi, showing just four AFL teams"
 msgstr "Balkendiagramm in jamovi, das nur vier AFL-Teams zeigt"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:33
+#: ../../Ch05/Ch05_Graphics_3.rst:35
 msgid "Filtering to include just four AFL teams, and drawing a bar plot in jamovi"
 msgstr ""
 "Filtern, um nur vier AFL-Teams einzuschließen, und Zeichnen eines "
 "Balkendiagramms in jamovi"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:38
+#: ../../Ch05/Ch05_Graphics_3.rst:40
 msgid "Saving image files using jamovi"
 msgstr "Speichern von Bilddateien mit jamovi"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:40
+#: ../../Ch05/Ch05_Graphics_3.rst:42
 msgid ""
 "Hold on, you might be thinking. What’s the good of being able to draw "
 "pretty pictures in jamovi if I can’t save them and send them to friends "
@@ -729,9 +723,9 @@ msgstr ""
 "erlauben eine gute Darstellung Ihrer Diagramme, die Sie an Ihre Freunde "
 "schicken oder in Ihre Aufgaben oder Manuskripte einfügen können."
 
-#: ../../Ch05/Ch05_Graphics_3.rst:50
-msgid "jamovi uses the symbol “``==``” here to mean “matches”."
-msgstr "jamovi verwendet das Symbol „``==``“ für „Übereinstimmung“."
+#: ../../Ch05/Ch05_Graphics_3.rst:52
+msgid "jamovi uses the symbol ``==`` here to mean “matches”."
+msgstr "jamovi verwendet das Symbol ``==`` für „Übereinstimmung“."
 
 #: ../../Ch05/Ch05_Graphics_4.rst:4
 msgid "Summary"
@@ -811,15 +805,4 @@ msgstr ""
 "es eine Weile, bis man den Dreh raus hat. Aber es lohnt es sich, die Zeit"
 " zu investieren, um es sich selbst beizubringen, denn es ist ein viel "
 "leistungsfähigeres und saubereres System."
-
-#~ msgid ""
-#~ "``afl.finalists == \"Brisbane\" or "
-#~ "afl.finalists == \"Carlton\" or afl.finalists"
-#~ " == \"Fremantle\" or afl.finalists == "
-#~ "\"Richmond\"``\\ [#]_"
-#~ msgstr ""
-#~ "``afl.finalists == \"Brisbane\" or "
-#~ "afl.finalists == \"Carlton\" or afl.finalists"
-#~ " == \"Fremantle\" or afl.finalists == "
-#~ "\"Richmond\"``\\ [#]_"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
+"POT-Creation-Date: 2022-10-26 13:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -651,7 +651,7 @@ msgid ""
 "a few key ways you can do these things in jamovi."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:296
+#: ../../Ch06/Ch06_DataHandling_3.rst:298
 msgid "continuous"
 msgstr "continuous"
 
@@ -740,18 +740,14 @@ msgid ""
 "sign``, and then type the following into the function box:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:92
-msgid "``IF(likert.centred == 0, 0, likert.centred / opinion.strength)``"
-msgstr ""
-
-#: ../../Ch06/Ch06_DataHandling_3.rst:94
+#: ../../Ch06/Ch06_DataHandling_3.rst:96
 msgid ""
 "When done, you’ll see that all negative numbers from the ``likert.centred`` "
 "variable are converted to **-1**, all positive numbers are converted to "
 "**1** and zero stays as **0**, like so:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:102
+#: ../../Ch06/Ch06_DataHandling_3.rst:104
 msgid ""
 "Let’s break down what this ``IF`` command is doing. In jamovi there are "
 "three parts to an ``IF`` statement, written as ``IF(expression, value, "
@@ -767,18 +763,18 @@ msgid ""
 "depending of the sign of the original value in likert.centred.\\ [#]_"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:115
+#: ../../Ch06/Ch06_DataHandling_3.rst:117
 msgid ""
 "And we’re done. We now have three shiny new variables, all of which are "
 "useful transformations of the original ``likert.raw`` variable."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:119
+#: ../../Ch06/Ch06_DataHandling_3.rst:121
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels or categories"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:121
+#: ../../Ch06/Ch06_DataHandling_3.rst:123
 msgid ""
 "One pragmatic task that comes up quite often is the problem of collapsing a "
 "variable into a smaller number of discrete levels or categories. For "
@@ -786,7 +782,7 @@ msgid ""
 "people at a social gathering:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:130
+#: ../../Ch06/Ch06_DataHandling_3.rst:132
 msgid ""
 "In some situations it can be quite helpful to group these into a smallish "
 "number of categories. For example, we could group the data into three broad "
@@ -802,7 +798,7 @@ msgid ""
 "written as:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:147
+#: ../../Ch06/Ch06_DataHandling_3.rst:149
 msgid ""
 "Note that there are three left parentheses used during the nesting, so the "
 "whole statement has to end with three right parentheses otherwise you will "
@@ -811,17 +807,17 @@ msgid ""
 "agecats`:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:159
+#: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid "Using the ``IF`` function"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:159
+#: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels using the "
 "jamovi ``IF`` function"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:164
+#: ../../Ch06/Ch06_DataHandling_3.rst:166
 msgid ""
 "It’s important to take the time to figure out whether or not the resulting "
 "categories make any sense at all in terms of your research project. If they "
@@ -835,11 +831,11 @@ msgid ""
 "times, so I would advise some caution if you are thinking about doing it."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:177
+#: ../../Ch06/Ch06_DataHandling_3.rst:179
 msgid "Creating a transformation that can be applied to multiple variables"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:179
+#: ../../Ch06/Ch06_DataHandling_3.rst:181
 msgid ""
 "Sometimes you want to apply the same transformation to more than one "
 "variable, for example when you have multiple questionnaire items that all "
@@ -857,16 +853,16 @@ msgid ""
 "transform1`."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:200
+#: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid "Using the jamovi ``Transform`` command"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:200
+#: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid ""
 "Creating a new variable transformation using the jamovi ``Transform`` command"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:205
+#: ../../Ch06/Ch06_DataHandling_3.rst:207
 msgid ""
 "Give your new variable a name, let’s call it ``opinion.strength`` and then "
 "click on the ``Using transform`` selection box and select ``Create New "
@@ -885,17 +881,17 @@ msgid ""
 "the dataset as an ``.omv`` file, otherwise you’ll lose it!)."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:228
+#: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid "Specifying a transformation in jamovi"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:228
+#: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid ""
 "Specifying a transformation in jamovi, to be saved as the imaginatively "
 "named ``Transform 1``"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:233
+#: ../../Ch06/Ch06_DataHandling_3.rst:235
 msgid ""
 "You can also create a transformation with the second example we looked at, "
 "the age distribution of people at a social gathering. Go on, you know you "
@@ -921,23 +917,23 @@ msgid ""
 "you want to recode."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:261
+#: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid "jamovi transformation into categories"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:261
+#: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid ""
 "jamovi transformation into three age categories, using the ``Add condition`` "
 "button"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:269
+#: ../../Ch06/Ch06_DataHandling_3.rst:271
 msgid ""
 "The absolute value of a number is its distance from zero, regardless of "
 "whether it’s sign is negative or positive."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:273
+#: ../../Ch06/Ch06_DataHandling_3.rst:275
 msgid ""
 "The reason we have to use the ``IF`` command and keep zero as zero is that "
 "you cannot just use likert.centred / opinion.strength to calculate the sign "
@@ -945,7 +941,7 @@ msgid ""
 "work. Try it and see"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:279
+#: ../../Ch06/Ch06_DataHandling_3.rst:281
 msgid ""
 "If you’ve read further into the book, and are re-reading this section, then "
 "a good example of this would be someone choosing to do an ANOVA using "

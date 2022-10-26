@@ -1,4 +1,3 @@
-# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -18,10 +17,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-10-26 13:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -436,18 +434,10 @@ msgid ""
 "the first step is to set up a filter so just those four teams are "
 "included in the bar graph. This is straightforward in jamovi and you can "
 "do it by using the ``Filters`` function that we used previously. Open up "
-"the ``Filters`` screen and type in the following:"
+"the ``Filters`` screen and type in the following:\\ [#]_"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:17
-msgid ""
-"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
-"finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
-msgstr ""
-"``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
-"finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
-
-#: ../../Ch05/Ch05_Graphics_3.rst:20
+#: ../../Ch05/Ch05_Graphics_3.rst:22
 msgid ""
 "When you have done this you will see, in the ``Data`` view, that jamovi "
 "has filtered out all values apart from those we have specified. Next, "
@@ -458,19 +448,19 @@ msgid ""
 ":numref:`fig-bar1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:33
+#: ../../Ch05/Ch05_Graphics_3.rst:35
 msgid "Bar plot in jamovi, showing just four AFL teams"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:33
+#: ../../Ch05/Ch05_Graphics_3.rst:35
 msgid "Filtering to include just four AFL teams, and drawing a bar plot in jamovi"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:38
+#: ../../Ch05/Ch05_Graphics_3.rst:40
 msgid "Saving image files using jamovi"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:40
+#: ../../Ch05/Ch05_Graphics_3.rst:42
 msgid ""
 "Hold on, you might be thinking. What’s the good of being able to draw "
 "pretty pictures in jamovi if I can’t save them and send them to friends "
@@ -481,8 +471,8 @@ msgid ""
 "assignments or manuscripts."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:50
-msgid "jamovi uses the symbol “``==``” here to mean “matches”."
+#: ../../Ch05/Ch05_Graphics_3.rst:52
+msgid "jamovi uses the symbol ``==`` here to mean “matches”."
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_4.rst:4
@@ -532,11 +522,4 @@ msgid ""
 "you’re ready it’s worth taking the time to teach yourself, because it’s a"
 " much more powerful and cleaner system."
 msgstr ""
-
-#~ msgid ""
-#~ "``afl.finalists == \"Brisbane\" or "
-#~ "afl.finalists == \"Carlton\" or afl.finalists"
-#~ " == \"Fremantle\" or afl.finalists == "
-#~ "\"Richmond\"``\\ [#]_"
-#~ msgstr ""
 
