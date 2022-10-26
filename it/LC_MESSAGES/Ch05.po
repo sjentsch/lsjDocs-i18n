@@ -1,6 +1,5 @@
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-<<<<<<< HEAD
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -11,42 +10,14 @@ msgstr ""
 "#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-=======
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 12:05+0200\n"
->>>>>>> temp2
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-<<<<<<< HEAD
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
-=======
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
->>>>>>> temp2
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
@@ -459,13 +430,8 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_3.rst:17
 msgid ""
-<<<<<<< HEAD
 "``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
 "finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
-=======
-"``afl.finalists == \"Brisbane\" or afl.finalists == 'Carlton' or "
-"afl.finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
->>>>>>> temp2
 msgstr ""
 "``afl.finalists == 'Brisbane' or afl.finalists == 'Carlton' or afl."
 "finalists == 'Fremantle' or afl.finalists == 'Richmond'``\\ [#]_"
@@ -555,11 +521,4 @@ msgid ""
 "you’re ready it’s worth taking the time to teach yourself, because it’s a"
 " much more powerful and cleaner system."
 msgstr ""
-
-#~ msgid ""
-#~ "``afl.finalists == \"Brisbane\" or "
-#~ "afl.finalists == \"Carlton\" or afl.finalists"
-#~ " == \"Fremantle\" or afl.finalists == "
-#~ "\"Richmond\"``\\ [#]_"
-#~ msgstr ""
 
