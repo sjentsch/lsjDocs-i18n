@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-10-31 12:02+0000\n"
+"PO-Revision-Date: 2022-11-02 12:30+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for ``speaker`` and ``utterances``"
-msgstr ""
+msgstr "Kreuztabelle für ``Sprecher`` und ``Ausspruch``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for the ``speaker`` and ``utterances`` variables"
@@ -252,10 +252,17 @@ msgid ""
 " column of numbers corresponds to a value of 2 indicates that ``makka-"
 "pakka`` (row 1) says ``onk`` (column 2) twice in this data set."
 msgstr ""
+"Kümmern Sie sich nicht um die Tabelle \"χ² Tests\", die automatisch "
+"miterzeugt wird. Wir werden später in Kapitel :doc:`Kategoriale Datenanalyse "
+"<../Ch10/Ch10_ChiSquare>` darauf zurückkommen. Wenn Sie die Kreuztabelle "
+"interpretieren, denken Sie daran, dass es sich hier um Häufigkeiten handelt. "
+"Die Tatsache, dass in der ersten Zeile und in der zweiten Spalte, die Zahlen "
+"enthält, einen Wert von 2 steht, bedeutet, dass ``makka-pakka`` (Zeile 1) "
+"zweimal ``onk`` (Spalte 2) sagt in diesem Datensatz."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:83
 msgid "Adding percentages to a contingency table"
-msgstr ""
+msgstr "Prozentränge zu einer Kreuztabelle hinzufügen"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:85
 msgid ""
