@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-11-02 12:30+0000\n"
+"PO-Revision-Date: 2022-11-02 13:35+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -171,11 +171,11 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:20
 msgid "``speaker`` variable"
-msgstr "``Sprecher``-Variable"
+msgstr "Variable ``Sprecher``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:26
 msgid "``utterance`` variable"
-msgstr "``Ausspruch``-Variable"
+msgstr "Variabe ``Äußerung``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:33
 msgid ""
@@ -275,16 +275,30 @@ msgid ""
 "on the ``Row`` check box and the Contingency Table in the output window "
 "will change to the one in :numref:`fig-contingencyrow`."
 msgstr ""
+"Die Kreuztabelle in :numref:`fig-kreuztabelle` zeigt eine Tabelle der "
+"absoluten Häufigkeiten in den Rohdaten. Das heißt also die Gesamtzahl der "
+"Fälle für die jeweiligen Kombinationen der verschiedenen Ausprägungen (Level)"
+" der angegebenen Variablen. Häufig möchten Sie Ihre Daten jedoch nicht nur "
+"in Form von Häufigkeiten, sondern auch in Form von Prozenträngen (relative "
+"Häufigkeiten) aufbereiten. Sie finden die Kontrollkästchen für die "
+"verschiedenen Prozentangaben unter der Option ``Zellen`` im Fenster "
+"``Kreuztabellen``. Klicken Sie zunächst auf das Kontrollkästchen ``Zeile`` "
+"und die Kreuztabelle im Ausgabefenster wird in die Tabelle in der Abbildung "
+":numref:`fig-contingencyrow` zu sehen ist geändert."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid "Contingency table with row percentages for ``speaker`` and ``utterances``"
 msgstr ""
+"Kreuztabelle mit zeilenweisen Prozenträngen für die Variablen ``Sprecher`` "
+"und ``Aussruch``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid ""
 "Contingency table for the ``speaker`` and ``utterances`` variables, with "
 "row percentages"
 msgstr ""
+"Kreuztabelle für die Variablen ``Sprecher`` und ``Ausspruch`` mit "
+"Prozenträngen für jede Zeile"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:105
 #, python-format
@@ -299,6 +313,16 @@ msgid ""
 "utterance ``ee`` is made (in this data set), 100% of the time it’s a "
 "Tombliboo saying it."
 msgstr ""
+"Was wir hier sehen können, ist der prozentuale Anteil der Äußerungen von "
+"jedem der Charaktere. Mit anderen Worten: 50% der Äußerungen von ``makka-"
+"pakka`` sind ``pip``, und die anderen 50% sind ``onk``. Vergleichen wir dies "
+"mit der Tabelle, die wir erhalten, wenn wir die prozentualen Anteile der "
+"Spalten berechnen (deaktivieren Sie das Kontrollhäkchen in ``Zeile`` und "
+"aktivieren Sie ``Spalte`` im Optionsfenster ``Cells``), siehe :numref:`fig-"
+"contingencycol`. In dieser Version sehen wir den prozentualen Anteil der "
+"Charaktere, die zu jeder Äußerung gehören. Wenn in diesem Datensatz zum "
+"Beispiel ``ee`` gesagt wird, dann ist es in 100% der Fälle ein Tombliboo, "
+"der das sagt."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:120
 msgid ""
