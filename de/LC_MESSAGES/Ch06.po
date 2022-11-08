@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-11-07 16:07+0000\n"
+"PO-Revision-Date: 2022-11-08 13:08+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -431,10 +431,22 @@ msgid ""
 "``FALSE`` that ``2 + 2 = 5``, regardless of whether you use the correct "
 "**equality operator**, ``==``, or the equals sign ``=``."
 msgstr ""
+"Und was erhalten Sie? Es sollte eine ganze Reihe von ``FALSE`` Werten in der "
+"Spalte für Ihre neu berechnete Variable in der Datentabelle sein. Booyah! "
+"Freiheit und Ponys für alle! Oder so ähnlich. Wie auch immer, es lohnt sich, "
+"einen Blick darauf zu werfen, was passiert, wenn ich *versuche*, jamovi zu "
+"zwingen, zu glauben, dass zwei plus zwei gleich fünf ist, indem ich eine "
+"Aussage wie ``2 + 2 = 5`` mache. Ich weiß, dass, wenn ich dies in einem "
+"anderen Programm tue, sagen wir ``R``, eine Fehlermeldung ausgegeben wird. "
+"Aber warte, wenn Sie das in jamovi machen, bekommen Sie einen ganzen Satz "
+"von ``FALSE`` Werten. Was ist hier also los? Nun, es scheint, dass jamovi "
+"ziemlich schlau ist und erkennt, dass Sie testen, ob es ``TRUE`` oder "
+"``FALSE`` ist, dass ``2 + 2 = 5``, unabhängig davon, ob Sie den korrekten "
+"**Gleichheitsoperator**, ``==``, oder das Gleichheitszeichen ``=`` verwenden."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:55
 msgid "Logical operations"
-msgstr ""
+msgstr "Logische Operationen"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:57
 msgid ""
@@ -443,10 +455,15 @@ msgid ""
 "discover that we can combine logical operations with other operations and"
 " functions in a more complicated way, like this:"
 msgstr ""
+"Jetzt haben wir also gesehen, wie logische Operationen funktionieren. Aber "
+"bisher haben wir nur das einfachste mögliche Beispiel gesehen. Es wird Sie "
+"wahrscheinlich nicht überraschen, dass wir logische Operationen mit anderen "
+"Operationen und Funktionen auf kompliziertere Weise kombinieren können, etwa "
+"so:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:66
 msgid "or this"
-msgstr ""
+msgstr "oder so:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:72
 msgid ""
@@ -459,6 +476,14 @@ msgid ""
 "are equal, or if the one on the right is larger, then jamovi returns an "
 "answer of ``FALSE``."
 msgstr ""
+"Darüber hinaus gibt es, wie :numref:`tab-logicals` zeigt, mehrere andere "
+"logische Operatoren, die Sie entsprechend einigen grundlegenden "
+"mathematischen Konzepten verwenden können. Hoffentlich sind diese alle "
+"ziemlich selbsterklärend. Der Operator **less than** ` `<`` prüft zum "
+"Beispiel, ob die Zahl auf der linken Seite kleiner ist als die Zahl auf der "
+"rechten Seite. Wenn sie kleiner ist, gibt jamovi die Antwort ``TRUE``, aber "
+"wenn die beiden Zahlen gleich sind oder wenn die Zahl rechts größer ist, "
+"gibt jamovi die Antwort ``FALSE``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:80
 msgid ""
@@ -466,106 +491,110 @@ msgid ""
 "relational operators”, but quite frankly I don’t want to. It’s my book so"
 " no-one can make me."
 msgstr ""
+"Andere logische Operatoren. Wenn ich sie technisch völlig korrekt "
+"beschreiben sollte, würde ich sie „binäre relationale Operatoren“ nennen, "
+"aber ehrlich gesagt will ich das nicht. Es ist mein Buch, also kann mich "
+"niemand zwingen."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "operation"
-msgstr ""
+msgstr "Operation"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "operator"
-msgstr ""
+msgstr "Operator"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "example input"
-msgstr ""
+msgstr "Beispieleingabe"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "answer"
-msgstr ""
+msgstr "Antwort"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:88
 msgid "less than"
-msgstr ""
+msgstr "weniger als"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:88
 msgid "``<``"
-msgstr ""
+msgstr "``<``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:88
 msgid "``2 < 3``"
-msgstr ""
+msgstr "``2 < 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:88 ../../Ch06/Ch06_DataHandling_2.rst:90
 #: ../../Ch06/Ch06_DataHandling_2.rst:94 ../../Ch06/Ch06_DataHandling_2.rst:98
 #: ../../Ch06/Ch06_DataHandling_2.rst:140
 msgid "``TRUE``"
-msgstr ""
+msgstr "``TRUE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:90
 msgid "less than or equal to"
-msgstr ""
+msgstr "kleiner als oder gleich"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:90
 msgid "``<=``"
-msgstr ""
+msgstr "``<=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:90
 msgid "``2 <= 2``"
-msgstr ""
+msgstr "``2 <= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:92
 msgid "greater than"
-msgstr ""
+msgstr "größer als"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:92
 msgid "``>``"
-msgstr ""
+msgstr "``>``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:92
 msgid "``2 > 3``"
-msgstr ""
+msgstr "``2 > 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:92 ../../Ch06/Ch06_DataHandling_2.rst:96
 #: ../../Ch06/Ch06_DataHandling_2.rst:138
 #: ../../Ch06/Ch06_DataHandling_2.rst:142
 msgid "``FALSE``"
-msgstr ""
+msgstr "``FALSE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:94
 msgid "greater than or equal to"
-msgstr ""
+msgstr "größer als oder gleich"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:94
 msgid "``>=``"
-msgstr ""
+msgstr "``>=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:94
 msgid "``2 >= 2``"
-msgstr ""
+msgstr "``2 >= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:96
 msgid "equal to"
-msgstr ""
+msgstr "gleich"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:96
 msgid "``==``"
-msgstr ""
+msgstr "``==``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:96
 msgid "``2 == 3``"
-msgstr ""
+msgstr "``2 == 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:98
 msgid "not equal to"
-msgstr ""
+msgstr "ungleich"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:98
 msgid "``!=``"
-msgstr ""
+msgstr "``!=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:98
 msgid "``2 != 3``"
-msgstr ""
+msgstr "``2 != 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:102
 msgid ""
@@ -575,6 +604,11 @@ msgid ""
 "side. At this point I hope it’s pretty obvious what the **greater than** "
 "operator ``>`` and the **greater than or equal to** operator ``>=`` do!"
 msgstr ""
+"Im Gegensatz dazu tut der **kleiner als oder gleich** Operator ``<=`` genau "
+"das, was er sagt. Er gibt einen Wert von ``TRUE`` zurück, wenn die Zahl auf "
+"der linken Seite kleiner oder gleich der Zahl auf der rechten Seite ist. An "
+"dieser Stelle ist es hoffentlich ziemlich offensichtlich, was der **größer "
+"als** Operator ``>`` und der **größer oder gleich** Operator ``>=`` tun!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:108
 msgid ""
@@ -584,6 +618,12 @@ msgid ""
 "to each other. Therefore, since ``2 + 2`` isn’t equal to *5* we would get"
 " ``TRUE`` as the value for our newly computed variable. Try it and see:"
 msgstr ""
+"Der nächste auf der Liste der logischen Operatoren ist der Operator "
+"**ungleich** ``!=``, der, wie alle anderen auch, das tut, was er sagt. Er "
+"gibt einen Wert von ``TRUE`` zurück, wenn die Dinge auf beiden Seiten nicht "
+"gleich sind. Da also ``2 + 2`` nicht gleich *5* ist, würden wir ``TRUE`` als "
+"Wert für unsere neu berechnete Variable erhalten. Probieren Sie es aus und "
+"sehen Sie selbst:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:118
 msgid ""
@@ -597,14 +637,24 @@ msgid ""
 "statement, all we need is for one of the two parts to be true. That’s "
 "what the ``or`` operator does:\\ [#]_"
 msgstr ""
+"Wir sind noch nicht ganz fertig. Es gibt noch drei weitere logische "
+"Operationen, die es wert sind, kennengelernt zu werden, und die in :numref"
+":`tab-logicals2` aufgeführt sind. Dies sind der **Nicht**-Operator ``!``, "
+"der ``and``-Operator sowie der ``or``-Operator. Wie die anderen logischen "
+"Operatoren verhalten sie sich mehr oder weniger genau so, wie man es "
+"aufgrund ihres Namens erwarten würde. Wenn ich Sie zum Beispiel bitte, die "
+"Behauptung zu beurteilen, dass \"entweder ``2 + 2 = 4`` *or* (oder) ``2+2 = "
+"5``\" wahr ist, würden Sie sagen, dass sie wahr ist. Da es sich um eine "
+"\"Entweder-oder\"-Aussage handelt, muss nur einer der beiden Teile wahr "
+"sein. Das ist es, was der Operator ``or`` tut:\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:132
 msgid "Some more logical operators."
-msgstr ""
+msgstr "Einige weitere logische Operatoren."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:138
 msgid "not"
-msgstr ""
+msgstr "not (nicht)"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:138
 msgid "``NOT``"
@@ -616,7 +666,7 @@ msgstr "``NOT(1==1)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:140
 msgid "or"
-msgstr ""
+msgstr "or (oder)"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:140
 msgid "``or``"
@@ -628,7 +678,7 @@ msgstr "``(1==1) or (2==3)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:142
 msgid "and"
-msgstr ""
+msgstr "and (und)"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:142
 msgid "``and``"
@@ -645,6 +695,10 @@ msgid ""
 "statement we need both parts to be true. And that’s what the ``and`` "
 "operator does:"
 msgstr ""
+"Wenn ich Sie dagegen bitte, die Behauptung zu bewerten, dass „sowohl 2 + 2 = "
+"4 *als auch* 2 + 2 = 5“ ist, würden Sie sagen, dass sie falsch ist. Da dies "
+"eine *and*-Aussage (und) ist, müssen beide Teile wahr sein. Und genau das "
+"tut der ``and`` Operator:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:153
 msgid ""
@@ -654,6 +708,12 @@ msgid ""
 "actually my claim is that “``2 + 2 = 5`` is false”. And I’m right. If we "
 "write this in jamovi we use this:"
 msgstr ""
+"Schließlich gibt es noch den *not*-Operator (nicht), der einfach, aber "
+"lästig zu beschreiben ist. Wenn ich Sie bitte, meine Behauptung zu bewerten, "
+"dass „es nicht wahr ist, dass ``2 + 2 = 5``“, dann würden Sie sagen, dass "
+"meine Behauptung wahr ist, denn eigentlich ist meine Behauptung, dass „``2 + "
+"2 = 5`` falsch ist\". Und ich habe Recht. Wenn wir dies in jamovi schreiben, "
+"verwenden wir dies:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:163
 msgid ""
@@ -664,6 +724,12 @@ msgid ""
 "in a much more black or white world. For jamovi everything is either true"
 " or false. No shades of grey are allowed."
 msgstr ""
+"Mit anderen Worten: Da ``2 + 2 == 5`` eine ``FALSE``-Aussage ist, muss ``NOT("
+"2 + 2 == 5)`` eine ``TRUE``-Aussage sein. Im Grunde haben wir nur behauptet, "
+"dass „nicht falsch“ dasselbe ist wie „wahr“. Das ist im wirklichen Leben "
+"offensichtlich nicht ganz richtig. Aber jamovi lebt in einer viel schwarz-"
+"weißeren Welt. Für jamovi ist alles entweder wahr oder falsch. Grautöne sind "
+"nicht erlaubt."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:170
 msgid ""
@@ -672,10 +738,14 @@ msgid ""
 "separate operators. We could have just used the “not equals to” operator "
 "``!=`` like this:"
 msgstr ""
+"In unserem Beispiel ``2 + 2 = 5`` war es natürlich nicht nötig, den „nicht“-"
+"Operator ``NOT`` und den „gleich“-Operator ``==`` als zwei separate "
+"Operatoren zu verwenden. Wir hätten einfach den „ungleich“-Operator ``!=`` "
+"wie folgt verwenden können:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:180
 msgid "Applying logical operation to text"
-msgstr ""
+msgstr "Logische Operationen auf Text anwenden"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:182
 msgid ""
@@ -688,6 +758,15 @@ msgid ""
 "answers to ``==`` so I’m implicitly talking about that one too, but I "
 "won’t give specific commands showing the use of ``!=``."
 msgstr ""
+"Ich möchte auch kurz darauf hinweisen, dass man diese logischen Operatoren "
+"sowohl auf Text als auch auf logische Daten anwenden kann. Wir müssen nur "
+"etwas vorsichtiger sein, um zu verstehen, wie jamovi die verschiedenen "
+"Operationen interpretiert. In diesem Abschnitt werde ich darüber sprechen, "
+"wie der Gleichheitsoperator ``==`` auf Text angewendet wird, da dies der "
+"wichtigste Operator ist. Offensichtlich gibt der ungleich-Operator ``!=`` "
+"genau die gegenteiligen Antworten zu ``==``, so dass ich implizit auch über "
+"diesen spreche, aber ich werde keine spezifischen Befehle verwenden, welche "
+"die Verwendung von ``!=`` zeigen."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:191
 msgid ""
@@ -695,12 +774,18 @@ msgid ""
 "instance, I can ask jamovi if the word ``cat`` is the same as the word "
 "``dog``, like this:"
 msgstr ""
+"Okay, sehen wir uns an, wie es funktioniert. In einer Hinsicht ist es sehr "
+"einfach. Ich kann zum Beispiel jamovi fragen, ob das Wort ``cat`` dasselbe "
+"ist wie das Wort ``dog``, zum Beispiel so:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:199
 msgid ""
 "That’s pretty obvious, and it’s good to know that even jamovi can figure "
 "that out. Similarly, jamovi does recognise that a ``cat`` is a ``cat``:"
 msgstr ""
+"Das ist ziemlich offensichtlich, aber es ist gut zu wissen, dass sogar "
+"jamovi das herausfinden kann. In ähnlicher Weise erkennt jamovi, dass eine "
+"``cat`` eine ``cat`` ist:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:206
 msgid ""
@@ -709,6 +794,11 @@ msgid ""
 "spacing. If two strings differ in any way whatsoever, jamovi will say "
 "that they’re not equal to each other, as with the following:"
 msgstr ""
+"Auch das ist genau das, was wir erwarten würden. Was Sie jedoch beachten "
+"müssen, ist, dass jamovi überhaupt nicht tolerant ist, wenn es um Grammatik "
+"und Abstände geht. Wenn sich zwei Zeichenketten in irgendeiner Weise "
+"unterscheiden, wird jamovi sagen, dass sie nicht gleich sind, wie zum "
+"Beispiel im folgenden Fall:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:217
 msgid ""
@@ -718,6 +808,11 @@ msgid ""
 "it’s a bit more complicated than that, but let’s start with a simple "
 "example:"
 msgstr ""
+"Sie können auch andere logische Operatoren verwenden. Mit jamovi können Sie "
+"zum Beispiel auch die Operatoren ``<`` und ``>`` verwenden, um zu bestimmen, "
+"welcher von zwei Text-„Strings“ alphabetisch an erster Stelle steht. So in "
+"etwa. Eigentlich ist es ein bisschen komplizierter, aber fangen wir mit "
+"einem einfachen Beispiel an:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:227
 msgid ""
@@ -729,6 +824,13 @@ msgid ""
 "dictionary suggests. What about ``cat`` and ``CAT``? Which of these comes"
 " first? Try it and find out:"
 msgstr ""
+"In jamovi wird dieses Beispiel als ``TRUE`` ausgewertet. Das liegt daran, "
+"dass ``cat`` alphabetisch vor ``dog`` steht, so dass jamovi die Aussage für "
+"wahr hält. Wenn wir jedoch jamovi bitten, uns zu sagen, ob ``cat`` vor "
+"``anteater`` steht, dann wird es den Ausdruck als ``FALSE`` bewerten. So "
+"weit, so gut. Aber Textdaten sind ein bisschen komplizierter, als das "
+"Wörterbuch vermuten lässt. Was ist mit ``cat`` und ``CAT``? Welcher dieser "
+"Ausdrücke kommt zuerst? Probieren Sie es aus und finden Sie es heraus:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:239
 msgid ""
@@ -741,6 +843,14 @@ msgid ""
 "it is *not* true to say that ``\"anteater\" < \"ZEBRA\"``, as the "
 "following extract illustrates. Try this:"
 msgstr ""
+"Dies ergibt in der Tat ``TRUE``. Mit anderen Worten: jamovi geht davon aus, "
+"dass Großbuchstaben vor Kleinbuchstaben kommen. Das ist in Ordnung. Das wird "
+"wohl niemanden überraschen. Was Sie vielleicht überraschen könnte, ist, dass "
+"jamovi davon ausgeht, dass *alle* Großbuchstaben vor *allen* Kleinbuchstaben "
+"kommen. Das heißt, während ``\"anteater\" < \"zebra\"`` eine wahre Aussage "
+"ist, und das Äquivalent in Großbuchstaben ``\"ANTEATER\" < \"ZEBRA\"`` "
+"ebenfalls wahr ist, ist es *nicht* wahr, zu sagen, dass ``\"anteater\" < "
+"\"ZEBRA\"``, wie der folgende Auszug zeigt. Versuchen Sie dies:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:252
 msgid ""
@@ -748,12 +858,18 @@ msgid ""
 "With that in mind, it may help to have a quick look at the various text "
 "characters in the order that jamovi processes them:"
 msgstr ""
+"Die Auswertung ergibt ``FALSE``, was etwas kontraintuitiv erscheinen mag. "
+"Vor diesem Hintergrund kann es hilfreich sein, einen kurzen Blick auf die "
+"verschiedenen Textzeichen in der Reihenfolge zu werfen, in der sie von "
+"jamovi verarbeitet werden:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:265
 msgid ""
 "I offer up my teenage attempts to be “cool” as evidence that some things "
 "just can’t be done."
 msgstr ""
+"Ich biete meine jugendlichen Versuche, „cool“ zu sein, als Beweis dafür an, "
+"dass manche Dinge einfach nicht machbar sind."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:269
 msgid ""
@@ -761,6 +877,9 @@ msgid ""
 "calculating ``2 + 2`` for every cell of a new variable is not very "
 "useful!"
 msgstr ""
+"Sie können dies im Eingabefeld „Compute new variable“ tun, obwohl die "
+"Berechnung von ``2 + 2`` für jede Zelle einer neuen Variablen nicht sehr "
+"nützlich ist!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:274
 msgid ""
