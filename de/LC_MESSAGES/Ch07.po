@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-10 17:49+0000\n"
+"PO-Revision-Date: 2022-11-10 18:06+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/>"
 "\n"
@@ -1051,10 +1051,19 @@ msgid ""
 "detail, but I’ll try to give you a bit of a sense of how it works. And in "
 "order to do so I’m going to have to talk about my trousers."
 msgstr ""
+"Ungeachtet der ideologischen Auseinandersetzungen zwischen Bayesianern und "
+"Frequentisten zeigt sich, dass die meisten Menschen sich über die Regeln "
+"einig sind, denen Wahrscheinlichkeiten gehorchen sollten. Es gibt viele "
+"verschiedene Methoden, um zu diesen Regeln zu gelangen. Der am weitesten "
+"verbreitete Ansatz basiert auf der Arbeit von Andrej Kolmogorow, einem der "
+"großen sowjetischen Mathematiker des 20. Jahrhunderts. Ich werde nicht zu "
+"sehr ins Detail gehen, aber ich werde versuchen, Ihnen einen Eindruck davon "
+"zu vermitteln, wie es funktioniert. Und dazu muss ich über meine Hose "
+"sprechen."
 
 #: ../../Ch07/Ch07_Probability_3.rst:16
 msgid "Introducing probability distributions"
-msgstr ""
+msgstr "Einführung in Wahrscheinlichkeitsverteilungen"
 
 #: ../../Ch07/Ch07_Probability_3.rst:18
 msgid ""
@@ -1076,6 +1085,25 @@ msgid ""
 "Granted, some people would call it a “wardrobe”, but that’s because they’re "
 "refusing to think about my trousers in probabilistic terms. Sad."
 msgstr ""
+"Eine der beunruhigenden Wahrheiten über mein Leben ist, dass ich nur 5 Paar "
+"Hosen besitze. Drei Paar Jeans, die untere Hälfte eines Anzugs und eine "
+"Jogginghose. Noch trauriger ist, dass ich ihnen Namen gegeben habe: Ich "
+"nenne sie *X*\\ :sub:`1`\\ , *X*\\ :sub:`2`\\ , *X*\\ :sub:`3`\\ , *X*\\ "
+":sub:`4` und *X*\\ :sub:`5`\\ . Das habe ich wirklich, deshalb nennt man "
+"mich auch Mister Fantasievoll. Jetzt suche ich mir jeden Tag genau eine Hose "
+"aus, die ich anziehen kann. Nicht einmal ich bin so dumm, dass ich versuche, "
+"zwei Hosen zu tragen, und dank jahrelangem Training gehe ich auch nie mehr "
+"ohne Hose aus dem Haus. Wenn ich diese Situation in der Sprache der "
+"Wahrscheinlichkeitstheorie beschreiben würde, würde ich jede Hose (d. h. "
+"jedes *X*) als **Elementarereignis** bezeichnen. Das Hauptmerkmal von "
+"Elementarereignissen ist, dass jedes Mal, wenn wir eine Beobachtung machen ("
+"z. B. jedes Mal, wenn ich eine Hose anziehe), das Ergebnis eines und nur "
+"eines dieser Ereignisse sein kann. Wie ich schon sagte, trage ich heutzutage "
+"immer genau eine Hose, so dass meine Hose diese Bedingung erfüllt. In "
+"ähnlicher Weise wird die Menge aller möglichen Ereignisse als "
+"**Stichprobenraum** bezeichnet. Zugegeben, manche Leute würden ihn als "
+"„Kleiderschrank“ bezeichnen, aber das liegt daran, dass sie sich weigern, "
+"über meine Hosen in probabilistischen Begriffen zu denken. Schade."
 
 #: ../../Ch07/Ch07_Probability_3.rst:37
 msgid ""
@@ -1091,6 +1119,19 @@ msgid ""
 "wear those trousers. For instance, if *P*\\ (X) = 0.5 it means that I wear "
 "those trousers half of the time."
 msgstr ""
+"Jetzt haben wir einen Stichprobenraum (einen Kleiderschrank), der aus vielen "
+"möglichen Elementarereignissen (Hosen) aufgebaut ist. Was wir tun wollen, "
+"ist, eine **Wahrscheinlichkeit** zu jedem dieser Elementarereignisse "
+"zuzuordnen. Für ein Ereignis *X* ist die Wahrscheinlichkeit dieses "
+"Ereignisses *P*\\ (X) eine Zahl, die zwischen 0 und 1 liegt. Je größer der "
+"Wert von *P*\\ (X), desto wahrscheinlicher ist das Eintreten des "
+"Ereignisses. Wenn also zum Beispiel *P*\\ (X) = 0 ist, bedeutet dies, dass "
+"das Ereignis *X* unmöglich ist (d. h., ich trage diese Hose nie). Wenn "
+"andererseits *P*\\ (X) = 1 ist, bedeutet dies, dass das Ereignis *X* mit "
+"Sicherheit eintritt (d. h., ich trage diese Hose immer). Für "
+"Wahrscheinlichkeitswerte in der Mitte bedeutet es, dass ich diese Hose "
+"manchmal trage. Wenn zum Beispiel *P*\\(X) = 0,5 ist, bedeutet dies, dass "
+"ich diese Hose die Hälfte der Zeit trage."
 
 #: ../../Ch07/Ch07_Probability_3.rst:50
 msgid ""
@@ -1104,22 +1145,31 @@ msgid ""
 "distribution**. For example, this is an example of a probability "
 "distribution:"
 msgstr ""
+"An diesem Punkt sind wir fast fertig. Das letzte, was wir erkennen müssen, "
+"ist, dass „immer etwas passiert“. Jedes Mal, wenn ich eine Hose anziehe, "
+"habe ich am Ende wirklich eine Hose an (verrückt, nicht wahr?). Diese etwas "
+"banale Aussage bedeutet in der Wahrscheinlichkeitsrechnung, dass sich die "
+"Wahrscheinlichkeiten der Elementarereignisse zu 1 addieren müssen. Dies ist "
+"als **Gesetz der Gesamtwahrscheinlichkeit** bekannt, auch wenn es niemanden "
+"von uns wirklich interessiert. Noch wichtiger ist, dass wir, wenn diese "
+"Voraussetzungen erfüllt sind, eine **Wahrscheinlichkeitsverteilung** haben. "
+"Dies ist zum Beispiel ein Beispiel für eine Wahrscheinlichkeitsverteilung:"
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Which trousers?"
-msgstr ""
+msgstr "Welche Hose?"
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Label"
-msgstr ""
+msgstr "Bezeichnung"
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Probability"
-msgstr ""
+msgstr "Wahrscheinlichkeit"
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "Blue jeans"
-msgstr ""
+msgstr "Blaue Jeans"
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "*X*\\ :sub:`1`"
@@ -1131,7 +1181,7 @@ msgstr "*P*\\ (X\\ :sub:`1`\\ ) = 0.5"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "Grey jeans"
-msgstr ""
+msgstr "Graue Jeans"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "*X*\\ :sub:`2`"
@@ -1143,7 +1193,7 @@ msgstr "*P*\\ (X\\ :sub:`2`\\ ) = 0.3"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "Black jeans"
-msgstr ""
+msgstr "Schwarze Jeans"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "*X*\\ :sub:`3`"
@@ -1155,7 +1205,7 @@ msgstr "*P*\\ (X\\ :sub:`3`\\ ) = 0.1"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "Black suit"
-msgstr ""
+msgstr "Schwarze Anzughose"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "*X*\\ :sub:`4`"
@@ -1167,7 +1217,7 @@ msgstr "*P*\\ (X\\ :sub:`4`\\ ) = 0"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "Blue tracksuit"
-msgstr ""
+msgstr "Blaue Trainingshose"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "*X*\\ :sub:`5`"
@@ -1187,10 +1237,19 @@ msgid ""
 "probability distribution is, and I’ve finally managed to find a way to "
 "create a graph that focuses entirely on my trousers. Everyone wins!"
 msgstr ""
+"Jedes der Ereignisse hat eine Wahrscheinlichkeit, die zwischen 0 und 1 "
+"liegt, und wenn wir die Wahrscheinlichkeiten aller Ereignisse addieren, "
+"ergeben sie 1. Fantastisch. Wir können sogar ein hübsches Balkendiagramm "
+"zeichnen (siehe :doc:`Balkendiagramme <../Ch05/Ch05_Graphics_3>`), um diese "
+"Verteilung zu visualisieren, wie in :numref:`fig-pantsDistribution` gezeigt. "
+"Und an diesem Punkt haben wir alle etwas erreicht. Sie haben gelernt, was "
+"eine Wahrscheinlichkeitsverteilung ist, und ich habe endlich einen Weg "
+"gefunden, ein Diagramm zu erstellen, das sich ausschließlich auf meine Hose "
+"konzentriert. Alle haben gewonnen!"
 
 #: ../../Ch07/Ch07_Probability_3.rst:88
 msgid "“Trousers” probability distribution"
-msgstr ""
+msgstr "„Hosen“-Wahrscheinlichkeitsverteilung"
 
 #: ../../Ch07/Ch07_Probability_3.rst:88
 msgid ""
@@ -1199,6 +1258,11 @@ msgid ""
 "Each event has some probability of occurring: this probability is a number "
 "between 0 to 1. The sum of these probabilities is 1."
 msgstr ""
+"Visuelle Darstellung der „Hosen“-Wahrscheinlichkeitsverteilung. Es gibt fünf "
+"„Elementarereignisse“, die den fünf Hosen entsprechen, die ich besitze. "
+"Jedes dieser Ereignis hat eine gewisse Eintrittswahrscheinlichkeit: Diese "
+"Wahrscheinlichkeit ist eine Zahl zwischen 0 und 1. Die Summe dieser "
+"Wahrscheinlichkeiten ist 1."
 
 #: ../../Ch07/Ch07_Probability_3.rst:95
 msgid ""
