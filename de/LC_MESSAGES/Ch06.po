@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-11-10 08:49+0000\n"
+"PO-Revision-Date: 2022-11-10 09:46+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:30
 msgid "Roger Zelazny (Home is the Hangman, 1975)"
-msgstr "Roger Zelazny (Home is the Hangman, 1975)"
+msgstr "Roger Zelazny (*Home is the Hangman*, 1975)"
 
 #: ../../Ch06/Ch06_DataHandling.rst:27
 msgid ""
@@ -66,7 +66,7 @@ msgstr ""
 "über die Realität der Datenverarbeitung zu sprechen. Das Problem mit realen "
 "Datensätzen ist nämlich, dass sie *messy* sind. Sehr oft sind die Variablen "
 "in dem Datensatz, mit dem Sie beginnen, nicht in dem Format gespeichert, "
-"dass Sie für Ihre Analyse brauchen. Gelegentlich wird Ihr Datensatz viele "
+"welches Sie für Ihre Analyse brauchen. Gelegentlich wird Ihr Datensatz viele "
 "fehlende Werte enthalten. Manchmal wollen Sie nur eine Teilmenge der Daten "
 "analysieren. Et cetera. Mit anderen Worten: Sie müssen viele "
 "**Datenmanipulationen** vornehmen, um die Variablen in Ihrem Datensatz in "
@@ -83,8 +83,8 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling.rst:45
 msgid ":doc:`Tabulating and cross-tabulating data <../Ch06/Ch06_DataHandling_1>`"
 msgstr ""
-":doc:`Tabellieren und Kreuztabellieren von Daten <../Ch06/"
-"Ch06_DataHandling_1>`"
+":doc:`Erstellen von Häufigkeitstabellen und Kreuztabellen aus Ihren Daten "
+"<../Ch06/Ch06_DataHandling_1>`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
 msgid ":doc:`Logical expressions in jamovi <../Ch06/Ch06_DataHandling_2>`"
@@ -93,7 +93,7 @@ msgstr ":doc:`Logische Ausdrücke in jamovi <../Ch06/Ch06_DataHandling_2>`"
 #: ../../Ch06/Ch06_DataHandling.rst:49
 msgid ":doc:`Transforming or recoding a variable <../Ch06/Ch06_DataHandling_3>`"
 msgstr ""
-":doc:`Transformieren oder Umcodieren einer Variablen <.. /Ch06/"
+":doc:`Transformieren und Umkodieren einer Variablen <.. /Ch06/"
 "Ch06_DataHandling_3>`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:51
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:4
 msgid "Tabulating and cross-tabulating data"
-msgstr "Erstellen von Tabellen und Kreuztabellen aus den Daten"
+msgstr "Erstellen von Tabellen und Kreuztabellen aus Ihren Daten"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:6
 msgid ""
@@ -206,9 +206,9 @@ msgid ""
 " data. In other words, it’s a frequency table."
 msgstr ""
 "Die Ausgabe, die wir erhalten, sagt uns in der ersten Zeile, dass es sich um "
-"eine Tabelle für die Variable ``Sprecher`` handelt. In der Spalte ``Levels`` "
+"eine Tabelle für die Variable ``speaker`` handelt. In der Spalte ``Levels`` "
 "werden alle Sprecher aufgelistet, die es in diesem Datensatz gibt und in der "
-"Spalte ``Anzahl`` wird angegeben, wie häufig dieser Sprecher im Datensatz "
+"Spalte ``Counts`` wird angegeben, wie häufig dieser Sprecher im Datensatz "
 "vorkommt. Mit anderen Worten, es ist eine Häufigkeitstabelle."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:55
@@ -224,24 +224,25 @@ msgid ""
 "have a contingency table like the one shown in :numref:`fig-"
 "contingencytable`."
 msgstr ""
-"In jamovi wird das Kontrollkästchen ``Häufigkeitstabellen`` nur eine Tabelle "
-"für einzelne Variablen erstellen. Für eine Tabelle mit zwei Variablen, zum "
-"Beispiel die Kombination von ``Sprecher`` und ``Ausspruch``, um zu sehen, "
-"wie oft jeder Sprecher eine bestimmte Äußerung gesagt hat, brauchen wir eine "
-"Kreuztabelle oder eine Kontingenztabelle. In jamovi können Sie dies tun, "
-"indem Sie die Analyse ``Häufigkeiten`` → ``Kreuztabellen`` → ``Unabhängige "
-"Stichproben`` auswählen und die Variable ``Sprecher`` in das Feld ``Zeilen`` "
-"und die Variable ``Ausspruch`` in das Feld ``Spalten`` verschieben. Sie "
-"sollten dann eine Kontingenztabelle wie die in :numref:`fig-contingencytable`"
-" gezeigte erhalten."
+"Wird das Kontrollkästchen ``Frequency tables`` in jamovi ausgewählt, wird "
+"jeweils eine Tabelle für jede einzelne Variablen erstellt. Für eine Tabelle, "
+"welche die Kombination zweier Variablen darstellt, zum Beispiel die "
+"Kombination von ``speaker`` und ``utterance``, brauchen wir eine "
+"Kreuztabelle. In dieser Kreuztabelle ist zu sehen, wie oft jeder Sprecher "
+"eine bestimmte Äußerung gemacht hat. In jamovi können Sie dies tun, indem "
+"Sie die Analyse ``Frequencies`` → ``Contingency Tables`` → ``Independent "
+"Samples`` auswählen und die Variable ``speaker`` in das Feld ``Rows`` und "
+"die Variable ``utterance`` in das Feld ``Columns`` verschieben. Sie sollten "
+"dann eine Kontingenztabelle wie die in :numref:`fig-contingencytable` "
+"gezeigte erhalten."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for ``speaker`` and ``utterances``"
-msgstr "Kreuztabelle für ``Sprecher`` und ``Ausspruch``"
+msgstr "Kreuztabelle für ``speaker`` und ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for the ``speaker`` and ``utterances`` variables"
-msgstr "Kreuztabelle für die Variablen ``speaker`` und ``utterances``"
+msgstr "Kreuztabelle für die Variablen ``speaker`` und ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
@@ -252,17 +253,17 @@ msgid ""
 " column of numbers corresponds to a value of 2 indicates that ``makka-"
 "pakka`` (row 1) says ``onk`` (column 2) twice in this data set."
 msgstr ""
-"Kümmern Sie sich nicht um die Tabelle \"χ² Tests\", die automatisch "
-"miterzeugt wird. Wir werden später in Kapitel :doc:`Kategoriale Datenanalyse "
+"Kümmern Sie sich nicht um die Tabelle „χ² Tests“, die automatisch mit "
+"erzeugt wird. Wir werden später in Kapitel :doc:`Analyse kategorialer Daten "
 "<../Ch10/Ch10_ChiSquare>` darauf zurückkommen. Wenn Sie die Kreuztabelle "
 "interpretieren, denken Sie daran, dass es sich hier um Häufigkeiten handelt. "
 "Die Tatsache, dass in der ersten Zeile und in der zweiten Spalte, die Zahlen "
-"enthält, einen Wert von 2 steht, bedeutet, dass ``makka-pakka`` (Zeile 1) "
-"zweimal ``onk`` (Spalte 2) sagt in diesem Datensatz."
+"enthält, einen Wert von 2 steht, bedeutet, dass ``makka-pakka`` (Zeile 1) in "
+"diesem Datensatz zweimal ``onk`` (Spalte 2) sagt."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:83
 msgid "Adding percentages to a contingency table"
-msgstr "Prozentränge zu einer Kreuztabelle hinzufügen"
+msgstr "Prozentanteile zu einer Kreuztabelle hinzufügen"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:85
 msgid ""
@@ -275,30 +276,30 @@ msgid ""
 "on the ``Row`` check box and the Contingency Table in the output window "
 "will change to the one in :numref:`fig-contingencyrow`."
 msgstr ""
-"Die Kreuztabelle in :numref:`fig-kreuztabelle` zeigt eine Tabelle der "
+"Die Kreuztabelle in :numref:`fig-contingencytable` zeigt eine Tabelle der "
 "absoluten Häufigkeiten in den Rohdaten. Das heißt also die Gesamtzahl der "
 "Fälle für die jeweiligen Kombinationen der verschiedenen Ausprägungen (Level)"
 " der angegebenen Variablen. Häufig möchten Sie Ihre Daten jedoch nicht nur "
 "in Form von Häufigkeiten, sondern auch in Form von Prozenträngen (relative "
 "Häufigkeiten) aufbereiten. Sie finden die Kontrollkästchen für die "
-"verschiedenen Prozentangaben unter der Option ``Zellen`` im Fenster "
-"``Kreuztabellen``. Klicken Sie zunächst auf das Kontrollkästchen ``Zeile`` "
-"und die Kreuztabelle im Ausgabefenster wird in die Tabelle in der Abbildung "
-":numref:`fig-contingencyrow` zu sehen ist geändert."
+"verschiedenen Prozentangaben unter der Option ``Cells`` im Fenster ``"
+"Contingency Tables``. Klicken Sie zunächst auf das Kontrollkästchen ``Rows`` "
+"und die Kreuztabelle im Ausgabefenster wird so verändert, so dass sie der "
+"Tabelle in der Abbildung :numref:`fig-contingencyrow` ähnelt."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid "Contingency table with row percentages for ``speaker`` and ``utterances``"
 msgstr ""
-"Kreuztabelle mit zeilenweisen Prozenträngen für die Variablen ``Sprecher`` "
-"und ``Aussruch``"
+"Kreuztabelle mit zeilenweisen Prozenträngen für die Variablen ``speaker`` "
+"und ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid ""
 "Contingency table for the ``speaker`` and ``utterances`` variables, with "
 "row percentages"
 msgstr ""
-"Kreuztabelle für die Variablen ``Sprecher`` und ``Ausspruch`` mit "
-"Prozenträngen für jede Zeile"
+"Kreuztabelle für die Variablen ``speaker`` und ``utterances`` mit "
+"Prozentanteilen für jede Zeile"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:105
 #, python-format
@@ -317,8 +318,8 @@ msgstr ""
 "jedem der Charaktere. Mit anderen Worten: 50% der Äußerungen von ``makka-"
 "pakka`` sind ``pip``, und die anderen 50% sind ``onk``. Vergleichen wir dies "
 "mit der Tabelle, die wir erhalten, wenn wir die prozentualen Anteile der "
-"Spalten berechnen (deaktivieren Sie das Kontrollhäkchen in ``Zeile`` und "
-"aktivieren Sie ``Spalte`` im Optionsfenster ``Cells``), siehe :numref:`fig-"
+"Spalten berechnen (deaktivieren Sie das Kontrollhäkchen in ``Row`` und "
+"aktivieren Sie ``Column`` im Optionsfenster ``Cells``), siehe :numref:`fig-"
 "contingencycol`. In dieser Version sehen wir den prozentualen Anteil der "
 "Charaktere, die zu jeder Äußerung gehören. Wenn in diesem Datensatz zum "
 "Beispiel ``ee`` gesagt wird, dann ist es in 100% der Fälle ein Tombliboo, "
@@ -328,15 +329,14 @@ msgstr ""
 msgid ""
 "Contingency table with column percentages for ``speaker`` and "
 "``utterances``"
-msgstr ""
-"Kreuztabelle mit Spaltenprozentsätzen für ``speaker`` und ``utterances``"
+msgstr "Kreuztabelle mit Spaltenprozentsätzen für ``speaker`` und ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:120
 msgid ""
 "Contingency table for the ``speaker`` and ``utterances`` variables, with "
 "column percentages"
 msgstr ""
-"Kreuztabelle für die Variablen ``speaker`` und ``utterances``, mit "
+"Kreuztabelle für die Variablen ``speaker`` und ``utterance``, mit "
 "Spaltenprozentsätzen"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:4
@@ -477,7 +477,7 @@ msgstr ""
 "Darüber hinaus gibt es, wie :numref:`tab-logicals` zeigt, mehrere andere "
 "logische Operatoren, die Sie entsprechend einigen grundlegenden "
 "mathematischen Konzepten verwenden können. Hoffentlich sind diese alle "
-"ziemlich selbsterklärend. Der Operator **less than** ` `<`` prüft zum "
+"ziemlich selbsterklärend. Der Operator **weniger als** ` `<`` prüft zum "
 "Beispiel, ob die Zahl auf der linken Seite kleiner ist als die Zahl auf der "
 "rechten Seite. Wenn sie kleiner ist, gibt jamovi die Antwort ``TRUE``, aber "
 "wenn die beiden Zahlen gleich sind oder wenn die Zahl rechts größer ist, "
@@ -504,11 +504,11 @@ msgstr "Operator"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "example input"
-msgstr "Beispieleingabe"
+msgstr "Beispiel-Eingabe"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:86 ../../Ch06/Ch06_DataHandling_2.rst:136
 msgid "answer"
-msgstr "Antwort"
+msgstr "Ausgabe"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:88
 msgid "less than"
@@ -938,11 +938,11 @@ msgstr ""
 "Bei der Datenanalyse in der Praxis kommt es oft vor, dass eine Ihrer "
 "Variablen nicht mit der Variable, die Sie eigentlich haben wollen, "
 "gleichwertig ist. Zum Beispiel ist es oft praktisch, eine kontinuierliche "
-"Variable (z. B. das Alter) in eine kleinere Anzahl von Kategorien (z. B. "
-"jünger, mittel, älter) aufzuteilen. In anderen Fällen kann es erforderlich "
-"sein, eine numerische Variable in eine andere numerische Variable "
-"umzuwandeln (z. B. wenn Sie den absoluten Wert der ursprünglichen Variable "
-"analysieren möchten). In diesem Abschnitt beschreibe ich einige "
+"Variable |continuous| (z. B. das Alter) in eine kleinere Anzahl von "
+"Kategorien (z. B. jünger, mittel, älter) aufzuteilen. In anderen Fällen kann "
+"es erforderlich sein, eine numerische Variable in eine andere numerische "
+"Variable umzuwandeln (z. B. wenn Sie den absoluten Wert der ursprünglichen "
+"Variable analysieren möchten). In diesem Abschnitt beschreibe ich einige "
 "Möglichkeiten, wie Sie diese Dinge in jamovi tun können."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:298
@@ -1457,7 +1457,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:4
 msgid "A few more mathematical functions and operations"
-msgstr "Einige weitere mathematische Funktionen und Operationen"
+msgstr "Mathematische Funktionen und Operationen"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:6
 msgid ""
@@ -1805,7 +1805,7 @@ msgstr "Wir verschieben die Box-Cox-Funktion auf :ref:`später auf <box-cox>`."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:4
 msgid "Extracting a subset of the data"
-msgstr "Extrahieren einer Teilmenge der Daten"
+msgstr "Extrahieren einer Teilmenge von Daten"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:6
 msgid ""
