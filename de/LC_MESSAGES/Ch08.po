@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-10 19:49+0000\n"
+"PO-Revision-Date: 2022-11-10 20:49+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
 "\n"
@@ -263,20 +263,25 @@ msgid ""
 "All outcomes if Wellseley and Croker lived forever and played the game until "
 "the world ran out of hills?"
 msgstr ""
+"Alle Ergebnisse, wenn Wellesley und Croker ewig leben würden bis es keine "
+"Hügel auf der Erde mehr gäbe?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:88
 msgid ""
 "All outcomes if we created an infinite set of parallel universes and the "
 "Wellesely/Croker pair made guesses about the same 12 hills in each universe?"
 msgstr ""
+"Alle Ergebnisse, wenn wir eine unendliche Anzahl von Paralleluniversen "
+"schaffen würden und das Paar Wellesely/Croker würde Schätzungen über "
+"dieselben 12 Hügel in jedem der Universen machen?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:92
 msgid "Again, it’s not obvious what the population is."
-msgstr ""
+msgstr "Auch hier ist nicht klar, was die Population ist."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:95
 msgid "Simple random samples"
-msgstr ""
+msgstr "Einfache Zufallsstichproben"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:97
 msgid ""
@@ -287,6 +292,14 @@ msgid ""
 "was selected. This procedure is referred to as a **sampling method** and it "
 "is important to understand why it matters."
 msgstr ""
+"Unabhängig davon, wie ich die Grundgesamtheit definiere, ist der "
+"entscheidende Punkt, dass die Stichprobe eine Teilmenge der Grundgesamtheit "
+"ist und das Ziel darin besteht, unser Wissen über die Stichprobe zu nutzen, "
+"um Rückschlüsse auf die Eigenschaften der Grundgesamtheit zu ziehen. Die "
+"Beziehung zwischen den beiden hängt von dem *Verfahren* ab, mit dem die "
+"Stichprobe ausgewählt wurde. Dieses Verfahren wird als "
+"**Stichprobenverfahren** bezeichnet, und es ist wichtig zu verstehen, warum "
+"es wichtig ist."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:104
 msgid ""
