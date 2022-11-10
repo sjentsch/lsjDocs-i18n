@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-11-08 14:09+0000\n"
+"PO-Revision-Date: 2022-11-10 08:33+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch06/Ch06_DataHandling.rst:4
@@ -1116,18 +1116,37 @@ msgid ""
 "give ``-1`` or ``+1`` depending of the sign of the original value in "
 "likert.centred.\\ [#]_"
 msgstr ""
+"Lassen Sie uns aufschlüsseln, was dieser ``IF`` Befehl tut. In jamovi gibt "
+"es drei Teile einer ``IF`` Anweisung, geschrieben als ``IF(expression, "
+"value, else)``. Der erste Teil, „Ausdruck“, kann eine logische oder "
+"mathematische Anweisung sein. In unserem Beispiel haben wir ``likert.centred "
+"== 0`` angegeben, was ``TRUE`` für Werte ist, bei denen ``likert.centred`` "
+"Null ist. Der nächste Teil, ``value``, ist der neue Wert, bei dem der "
+"Ausdruck im ersten Teil ``TRUE`` lautet. In unserem Beispiel haben wir "
+"gesagt, dass alle Werte, bei denen ``likert.centred`` Null ist, auf Null "
+"gesetzt werden sollen. Im nächsten Teil, ``else``, können wir eine weitere "
+"logische oder mathematische Aussage eingeben, die verwendet wird, wenn Teil "
+"eins ``FALSE`` ergibt, d.h. wenn ``likert.centred`` nicht Null ist. In "
+"unserem Beispiel haben wir ``likert.centred`` durch Meinungsstärke geteilt, "
+"um ``-1`` oder ``+1`` zu erhalten, je nach dem Vorzeichen des ursprünglichen "
+"Wertes in likert.centred.\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:117
 msgid ""
 "And we’re done. We now have three shiny new variables, all of which are "
 "useful transformations of the original ``likert.raw`` variable."
 msgstr ""
+"Und schon sind wir fertig. Wir haben jetzt drei glänzende neue Variablen, "
+"die alle nützliche Transformationen der ursprünglichen ``likert.raw`` "
+"Variable sind."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:121
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels or "
 "categories"
 msgstr ""
+"Zerlegen einer Variablen in eine geringere Anzahl diskreter Ebenen oder "
+"Kategorien"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:123
 msgid ""
@@ -1136,6 +1155,10 @@ msgid ""
 "instance, suppose I’m interested in looking at the age distribution of "
 "people at a social gathering:"
 msgstr ""
+"Eine Aufgabe, die sich häufig stellt, ist das Problem, eine Variable in eine "
+"geringere Anzahl von diskreten Ebenen oder Kategorien zu zerlegen. Nehmen "
+"wir zum Beispiel an, ich möchte die Altersverteilung der Teilnehmer an einer "
+"gesellschaftlichen Veranstaltung untersuchen:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:132
 msgid ""
@@ -1152,6 +1175,19 @@ msgid ""
 "a second value, but IF a third logical expression is TRUE, then insert a "
 "third value. This can be written as:"
 msgstr ""
+"In vielen Situationen ist es hilfreich, die Daten in Kategorien einzuteilen. "
+"Wir könnten die Daten zum Beispiel in drei große Kategorien einteilen: jung "
+"(0-20), erwachsen (21-40) und älter (41-60). Dies ist eine recht grobkörnige "
+"Klassifizierung, und die Bezeichnungen, die ich angebracht habe, machen nur "
+"im Kontext dieses Datensatzes Sinn (z. B. würde sich ein 42-Jähriger, "
+"allgemein betrachtet, nicht als „älter“ betrachten). Wir können diese "
+"Variable ganz einfach mit den jamovi ``IF’ function that we have already "
+"used. This time we have to specify nested ‘IF`` Anweisungen aufteilen, was "
+"einfach bedeutet, dass ``IF`` der erste logische Ausdruck ``TRUE`` ist, ein "
+"erster Wert eingefügt wird, aber ``IF`` ein zweiter logischer Ausdruck "
+"``TRUE`` ist, ein zweiter Wert eingefügt wird, aber ``IF`` ein dritter "
+"logischer Ausdruck ``TRUE`` ist, dann ein dritter Wert eingefügt wird. Dies "
+"kann geschrieben werden als:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:149
 msgid ""
@@ -1161,16 +1197,23 @@ msgid ""
 "manipulation, along with an accompanying frequency table, is shown in "
 ":numref:`fig-agecats`:"
 msgstr ""
+"Beachten Sie, dass bei der Verschachtelung drei linke Klammern verwendet "
+"werden, so dass die gesamte Anweisung mit drei rechten Klammern enden muss, "
+"sonst erhalten Sie eine Fehlermeldung. Der jamovi-Screenshot für diese "
+"Datenmanipulation ist zusammen mit einer zugehörigen Häufigkeitstabelle in "
+":numref:`fig-agecats` zu sehen:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid "Using the ``IF`` function"
-msgstr ""
+msgstr "Verwendung der Funktion ``IF``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels using the "
 "jamovi ``IF`` function"
 msgstr ""
+"Zerlegen einer Variablen in eine kleinere Anzahl diskreter Stufen mit der "
+"jamovi-Funktion ``IF``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:166
 msgid ""
@@ -1186,10 +1229,25 @@ msgid ""
 "fairly serious drawbacks at times, so I would advise some caution if you "
 "are thinking about doing it."
 msgstr ""
+"Es ist wichtig, dass Sie sich die Zeit nehmen, um herauszufinden, ob die "
+"resultierenden Kategorien für Ihr Forschungsprojekt überhaupt einen Sinn "
+"ergeben oder nicht. Wenn sie für Sie als sinnvolle Kategorien keinen Sinn "
+"ergeben, dann wird jede Datenanalyse, die diese Kategorien verwendet, "
+"wahrscheinlich genauso sinnlos sein. Generell habe ich in der Praxis "
+"festgestellt, dass die Leute ein sehr starkes Verlangen danach haben, ihre ("
+"kontinuierlichen und unübersichtlichen) Daten in einige wenige (diskrete und "
+"einfache) Kategorien zu zerlegen und dann Analysen unter Verwendung der "
+"kategorisierten Daten anstelle der ursprünglichen Daten durchzuführen.\\ [#]"
+"_ Ich würde nicht so weit gehen zu sagen, dass dies eine von Natur aus "
+"schlechte Idee ist, aber es hat zuweilen einige ziemlich schwerwiegende "
+"Nachteile, so dass ich zur Vorsicht raten würde, wenn Sie darüber "
+"nachdenken, dies zu tun."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:179
 msgid "Creating a transformation that can be applied to multiple variables"
 msgstr ""
+"Erstellen einer Transformation, die auf mehrere Variablen angewendet werden "
+"kann"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:181
 msgid ""
@@ -1208,16 +1266,35 @@ msgid ""
 "``Transform`` button in the jamovi ``Data`` tab, and you’ll see something"
 " like :numref:`fig-transform1`."
 msgstr ""
+"Manchmal möchte man dieselbe Transformation auf mehrere Variablen anwenden, "
+"zum Beispiel wenn man mehrere Fragebogenelemente hat, die alle auf dieselbe "
+"Weise neu berechnet oder umkodiert werden müssen. Eine der praktischen "
+"Funktionen von jamovi ist, dass Sie mit der Schaltfläche ``Transform`` auf "
+"der Registerkarte ``Data`` eine Transformation erstellen können, die dann "
+"gespeichert und auf mehrere Variablen angewendet werden kann. Gehen wir "
+"zurück zum ersten Beispiel oben, mit dem Datensatz |likert|_, der eine "
+"einzelne Variable mit rohen Likert-Skalenantworten für 10 Personen enthält. "
+"Um eine Transformation zu erstellen, die Sie speichern und dann auf mehrere "
+"Variablen anwenden können (unter der Annahme, dass Sie mehrere solcher "
+"Variablen in Ihrer Datendatei haben), wählen Sie zunächst im "
+"Tabellenkalkulationseditor die Variable aus (d. h. Sie klicken auf die "
+"„Titelzeile“ mit dem Variablennamen), die Sie für die ursprüngliche "
+"Erstellung der Transformation verwenden möchten. In unserem Beispiel ist "
+"dies ``likert.raw``. Klicken Sie dann auf die Schaltfläche ``Transform`` in "
+"der Registerkarte jamovi ``Data``, und Sie werden eine Bildschirmausgabe "
+"ähnlich :numref:`fig-transform1` sehen."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid "Using the jamovi ``Transform`` command"
-msgstr ""
+msgstr "Verwendung des jamovi-Befehls ``Transform``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid ""
 "Creating a new variable transformation using the jamovi ``Transform`` "
 "command"
 msgstr ""
+"Erstellen einer neuen Variablentransformation mit dem jamovi-Befehl "
+"``Transform``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:207
 msgid ""
@@ -1238,16 +1315,35 @@ msgid ""
 " been saved and can be re-used any time you like (providing you save the "
 "dataset as an ``.omv`` file, otherwise you’ll lose it!)."
 msgstr ""
+"Geben Sie Ihrer neuen Variablen einen Namen, nennen wir sie ``opinion."
+"strength`` und klicken Sie dann auf das Auswahlfeld ``Using transform`` und "
+"wählen Sie ``Create New Transform...``. Hier werden Sie die Transformation "
+"erstellen und benennen, die auf beliebig viele Variablen angewendet werden "
+"kann. Die Transformation wird für uns automatisch als ``Transform 1`` "
+"benannt (einfallsreich, was? Sie können dies ändern, wenn Sie möchten). "
+"Geben Sie dann den Ausdruck ``ABS($source - 4)`` in das Textfeld der "
+"Funktion ein, wie in :numref:`fig-transform2`, drücken Sie Enter oder Return "
+"auf Ihrer Tastatur und schon haben Sie eine neue Transformation erstellt und "
+"auf die Variable ``likert.raw`` angewendet! Einfach, oder? Beachten Sie, "
+"dass wir statt der Variablenbezeichnung im Ausdruck ``$source`` verwendet "
+"haben. So können wir dieselbe Transformation auf beliebig viele verschiedene "
+"Variablen anwenden - jamovi verlangt, dass Sie ``$source`` verwenden, um auf "
+"die Quellvariable zu verweisen, die Sie transformieren. Ihre Transformation "
+"wurde auch gespeichert und kann jederzeit wiederverwendet werden ("
+"vorausgesetzt, Sie speichern den Datensatz als ``.omv`` Datei, sonst geht er "
+"verloren)."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid "Specifying a transformation in jamovi"
-msgstr ""
+msgstr "Spezifizieren einer Transformation in jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid ""
 "Specifying a transformation in jamovi, to be saved as the imaginatively "
 "named ``Transform 1``"
 msgstr ""
+"Festlegen einer Transformation in jamovi, die unter dem fantasievollen Namen "
+"``Transform 1`` gespeichert werden soll"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:235
 msgid ""
@@ -1275,22 +1371,52 @@ msgid ""
 "jamovi by creating and then re-applying your transformation for each "
 "variable that you want to recode."
 msgstr ""
+"Sie können auch das zweite Beispiel, das wir uns angesehen haben, nämlich "
+"die Altersverteilung der Teilnehmer an einem gesellschaftlichen Treffen, "
+"umwandeln. Nur zu, Sie wissen, dass Sie das wollen! Erinnern Sie sich daran, "
+"dass wir diese Variable in drei Gruppen eingeteilt haben: Jüngere, "
+"Erwachsene und Ältere. Diesmal werden wir das Gleiche tun, aber mit der "
+"Schaltfläche jamovi ``Transform`` → ``Add condition``. Mit diesem Datensatz ("
+"gehen Sie zu ihm zurück oder erstellen Sie ihn neu, wenn Sie ihn nicht "
+"gespeichert haben) richten Sie eine neue Variablentransformation ein. Nennen "
+"Sie die transformierte Variable ``AgeCats`` und die Transformation, die Sie "
+"erstellen werden ``Agegroupings``. Klicken Sie dann auf das große ``+`` "
+"Zeichen neben dem Funktionsfeld. Dies ist die Schaltfläche ``Add condition`` "
+"und ich habe einen großen roten Pfeil auf :numref:`fig-transform3` geklebt, "
+"damit Sie genau sehen können, wo sich diese befindet. Führen Sie die in "
+":numref:`fig-transform3` gezeigte Transformation erneut durch, und Sie "
+"werden sehen, dass die neuen Werte im Tabellenfenster erscheinen. Darüber "
+"hinaus wurde die Transformation ``Agegroupings`` gespeichert und kann "
+"jederzeit wieder angewendet werden. Ok, ich weiß, dass Sie wahrscheinlich "
+"nicht mehr als eine ``Age`` Variable haben werden, aber Sie haben jetzt eine "
+"Vorstellung davon, wie man in jamovi Transformationen einrichtet, so dass "
+"Sie diese Idee mit anderen Arten von Variablen verfolgen können. Ein "
+"typisches Szenario ist, wenn Sie eine Fragebogenskala mit, sagen wir, 20 "
+"Items (Variablen) haben und jedes Item ursprünglich von 1 bis 6 bewertet "
+"wurde, Sie aber aus irgendeinem Grund oder einer Eigenart der Daten "
+"beschließen, alle Items als 1 bis 3 umzukodieren. Sie können dies in jamovi "
+"leicht tun, indem Sie Ihre Transformation für jede Variable, die Sie "
+"umkodieren wollen, erstellen und dann erneut anwenden."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid "jamovi transformation into categories"
-msgstr ""
+msgstr "Umwandeln in Kategorien in jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid ""
 "jamovi transformation into three age categories, using the ``Add "
 "condition`` button"
 msgstr ""
+"jamovi-Transformation in drei Alterskategorien, mit Hilfe der ``Add "
+"condition`` Taste"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:271
 msgid ""
 "The absolute value of a number is its distance from zero, regardless of "
 "whether it’s sign is negative or positive."
 msgstr ""
+"Der Absolutwert einer Zahl ist ihr Abstand von Null, unabhängig davon, ob "
+"sie ein negatives oder positives Vorzeichen hat."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:275
 msgid ""
@@ -1299,6 +1425,11 @@ msgid ""
 "the sign of likert.centred, because mathematically dividing zero by zero "
 "does not work. Try it and see"
 msgstr ""
+"Der Grund dafür, dass wir den Befehl ``IF`` verwenden und Null als Null "
+"beibehalten müssen, ist, dass Sie nicht einfach likert.centred / "
+"opinion.strength verwenden können, um das Vorzeichen von likert.centred zu "
+"berechnen, weil es mathematisch nicht funktioniert, Null durch Null zu "
+"teilen. Versuchen Sie es und sehen Sie:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:281
 msgid ""
@@ -1314,10 +1445,21 @@ msgid ""
 "violate the normality assumption) and you can lose a lot of statistical "
 "power."
 msgstr ""
+"Wenn Sie die weiteren Kapitel im Buch lesen und dann diesen Abschnitt erneut "
+"lesen, dann wäre ein gutes Beispiel dafür, dass jemand eine ANOVA mit "
+"``AgeCats`` als Gruppierungsvariable durchführt, anstatt eine Regression mit "
+"``Age`` als Prädiktor. Manchmal gibt es gute Gründe für diese "
+"Vorgehensweise. Zum Beispiel, wenn die Beziehung zwischen ``Age`` und Ihrer "
+"Ergebnisvariablen hochgradig nicht-linear ist und Sie sich nicht wohl dabei "
+"fühlen, eine nicht-lineare Regression durchzuführen! Es ist jedoch besser, "
+"dies nicht zu tun, es sei denn, Sie haben wirklich einen guten Grund dafür, "
+"dies zu tun. Es führt in der Regel zu allen möglichen anderen Problemen (z. "
+"B. werden die Daten wahrscheinlich die Normalitätsannahme verletzen) und Sie "
+"können viel statistische Aussagekraft verlieren."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:4
 msgid "A few more mathematical functions and operations"
-msgstr ""
+msgstr "Einige weitere mathematische Funktionen und Operationen"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:6
 msgid ""
@@ -1333,26 +1475,38 @@ msgid ""
 "possibilities available, but it does cover a range of functions that are "
 "used regularly in data analysis and that are available in jamovi."
 msgstr ""
+"Im vorigen Abschnitt habe ich die Ideen hinter den Variablentransformationen "
+"erörtert und gezeigt, dass viele der Transformationen, die Sie auf Ihre "
+"Daten anwenden möchten, auf recht einfachen mathematischen Funktionen und "
+"Operationen beruhen. In diesem Abschnitt möchte ich auf diese Diskussion "
+"zurückkommen und einige andere mathematische Funktionen und arithmetische "
+"Operationen erwähnen, die für viele Datenanalysen sehr nützlich sein können. "
+":numref:`tab-mathfunc` gibt einen kurzen Überblick über die verschiedenen "
+"mathematischen Funktionen, über die ich hier oder später sprechen möchte.\\ "
+"[#]_ Natürlich reicht dies nicht einmal annähernd aus, um die Bandbreite der "
+"verfügbaren Möglichkeiten zu katalogisieren, aber es deckt eine Reihe von "
+"Funktionen ab, die regelmäßig in der Datenanalyse verwendet werden und die "
+"in jamovi verfügbar sind."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:17
 msgid "Some of the mathematical functions available in jamovi"
-msgstr ""
+msgstr "Einige der in jamovi verfügbaren mathematischen Funktionen"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Function"
-msgstr ""
+msgstr "Funktion"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Example input"
-msgstr ""
+msgstr "Beispiel-Eingabe"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "result"
-msgstr ""
+msgstr "Ausgabe"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "Square root"
-msgstr ""
+msgstr "Quadratwurzel"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "``SQRT(x)``"
@@ -1368,7 +1522,7 @@ msgstr "5"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "Absolute value"
-msgstr ""
+msgstr "Absoluter Wert"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "``ABS(x)``"
@@ -1384,7 +1538,7 @@ msgstr "23"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "Logarithm (base 10)"
-msgstr ""
+msgstr "Logarithmus (zur Basis 10)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "``LOG10(x)``"
@@ -1400,7 +1554,7 @@ msgstr "3"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "Logarithm (base *e*)"
-msgstr ""
+msgstr "Logarithmus (zur Basis *e*)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "``LN(x)``"
@@ -1416,7 +1570,7 @@ msgstr "6.908"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "Exponentiation"
-msgstr ""
+msgstr "Potenzierung"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "``EXP(x)``"
@@ -1432,7 +1586,7 @@ msgstr "1000.245"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "Box-Cox"
-msgstr ""
+msgstr "Box-Cox-Transformation"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "``BOXCOX(x, lamda)``"
@@ -1448,7 +1602,7 @@ msgstr "109.551"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "Rounding to nearest"
-msgstr ""
+msgstr "Runden zur nächsten Ganzzahl"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "``ROUND()``"
@@ -1464,7 +1618,7 @@ msgstr "1"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "Rounding down"
-msgstr ""
+msgstr "Abrunden"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "``FLOOR()``"
@@ -1476,7 +1630,7 @@ msgstr "``FLOOR(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "Rounding up"
-msgstr ""
+msgstr "Aufrunden"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "``CEILING()``"
@@ -1492,7 +1646,7 @@ msgstr "2"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:47
 msgid "Logarithms and exponentials"
-msgstr ""
+msgstr "Logarithmen und Exponentialfunktionen"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:49
 msgid ""
@@ -1511,6 +1665,21 @@ msgid ""
 "statistics class who haven’t touched logarithms since high school, and "
 "would appreciate a bit of a refresher."
 msgstr ""
+"Wie ich bereits erwähnt habe, verfügt jamovi über eine ganze Reihe "
+"nützlicher mathematischer Funktionen, und es hätte wirklich keinen Sinn, sie "
+"alle zu beschreiben oder gar aufzulisten. Zum größten Teil habe ich mich auf "
+"die Funktionen konzentriert, die für dieses Buch notwendig sind. Ich möchte "
+"jedoch eine Ausnahme für Logarithmen und Exponentialfunktionen machen. "
+"Obwohl sie in diesem Buch nirgendwo anders benötigt werden, erscheinen sie "
+"*überall* in der Statistik. Und nicht nur das, es gibt *viele* Situationen, "
+"in denen es praktisch ist, den Logarithmus einer Variablen zu analysieren ("
+"d. h. eine „Logarithmus-Transformation“ der Variablen vorzunehmen). Ich "
+"vermute, dass viele (vielleicht die meisten) Leser dieses Buches schon "
+"einmal mit Logarithmen und Exponentialfunktionen in Berührung gekommen sind. "
+"Aber aus Erfahrung weiß ich, dass es einen beträchtlichen Anteil von "
+"Studenten gibt, die einen Statistik-Kurs in den Sozialwissenschaften belegen "
+"und seit dem Abitur nichts mehr mit Logarithmen zu tun hatten und eine "
+"kleine Auffrischung schätzen."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:64
 msgid ""
@@ -1525,6 +1694,16 @@ msgid ""
 "start by noting that 10-cubed is 1000. Mathematically, we would write "
 "this:"
 msgstr ""
+"Um Logarithmen und Exponentialfunktionen zu verstehen, ist es am "
+"einfachsten, sie selbst zu berechnen und zu sehen, wie sie mit anderen "
+"einfachen Berechnungen zusammenhängen. Es gibt insbesondere drei jamovi-"
+"Funktionen, über die ich sprechen möchte, nämlich ``LN()``, ``LOG10()`` und "
+"``EXP()``. Betrachten wir zunächst ``LOG10()``, die als „Logarithmus zur "
+"Basis 10“ bekannt ist. Der Trick, um den **Logarithmus** zu verstehen, "
+"besteht darin, dass er im Grunde das „Gegenteil“ der Potenzierung ist. "
+"Insbesondere ist der Logarithmus zur Basis 10 eng mit den Potenzen von 10 "
+"verbunden. Stellen wir also zunächst fest, dass 10-kubisch (10³) 1000 ist. "
+"Mathematisch würden wir das so schreiben:"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:75
 msgid "10³ = 1000"
@@ -1537,6 +1716,10 @@ msgid ""
 "statement that “the logarithm (in base 10) of 1000 is equal to 3”. "
 "Mathematically, we write this as follows,"
 msgstr ""
+"Der Trick, um einen Logarithmus zu verstehen, besteht darin, zu erkennen, "
+"dass die Aussage „10 hoch 3 ist gleich 1000“ gleichbedeutend ist mit der "
+"Aussage „der Logarithmus (zur Basis 10) von 1000 ist gleich 3“. Mathematisch "
+"lässt sich dies wie folgt ausdrücken:"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:82
 msgid "log\\ :sub:`10`\\(1000) = 3"
@@ -1563,6 +1746,23 @@ msgid ""
 " of the most important numbers in mathematics. The first few digits of "
 "*e* are:"
 msgstr ""
+"Da sich die Funktion ``LOG10()`` auf die Potenzen von 10 bezieht, könnte man "
+"erwarten, dass es andere Logarithmen (mit anderen Basen als 10) gibt, die "
+"sich auch auf andere Potenzen beziehen. Und natürlich stimmt auch, dass die "
+"Zahl 10 mathematisch gesehen nichts Besonderes ist. Sie und ich finden sie "
+"nützlich, weil Dezimalzahlen um die Zahl 10 herum aufgebaut sind, aber die "
+"große böse Welt der Mathematik macht sich über unsere Dezimalzahlen lustig. "
+"Leider ist es dem Universum egal, wie wir Zahlen aufschreiben. Die Folge "
+"dieser kosmischen Gleichgültigkeit ist, dass es nichts Besonderes ist, "
+"Logarithmen zur Basis 10 zu berechnen. Sie könnten Ihre Logarithmen zum "
+"Beispiel auch zur Basis 2 berechnen. Eine dritte Art von Logarithmus, die in "
+"der Statistik viel häufiger vorkommt als zur Basis 10 oder zur Basis 2, wird "
+"**natürlicher Logarithmus** genannt und entspricht dem Logarithmus zur Basis "
+"*e*. Da Sie vielleicht eines Tages darauf stoßen werden, erkläre ich Ihnen "
+"besser, was *e* ist. Die Zahl *e*, auch bekannt als **Eulersche Zahl**, ist "
+"eine dieser lästigen „irrationalen“ Zahlen, deren Dezimalentwicklung "
+"unendlich lang ist, und gilt als eine der wichtigsten Zahlen der Mathematik. "
+"Die ersten paar Ziffern von *e* sind:"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:102
 msgid "*e* = 2.718282"
@@ -1581,20 +1781,33 @@ msgid ""
 "fact, jamovi works the same way: the ``LN()`` function corresponds to the"
 " natural logarithm."
 msgstr ""
+"Es gibt eine Reihe von Situationen in der Statistik, in denen wir Potenzen "
+"von *e* berechnen müssen, obwohl keine davon in diesem Buch vorkommt. Die "
+"Erhöhung von *e* auf die Potenz *x* wird als **Exponentialwert** von *x* "
+"bezeichnet, und so sieht man e\\ :sup:`x` häufig als *exp(x)* geschrieben. "
+"Und so ist es keine Überraschung, dass jamovi eine Funktion zur Berechnung "
+"von Exponentialwerten hat, die ``EXP()`` heißt. Da die Zahl *e* in der "
+"Statistik so häufig vorkommt, taucht auch der natürliche Logarithmus (d.h. "
+"der Logarithmus zur Basis *e*) immer wieder auf. Mathematiker schreiben ihn "
+"oft als log\\ :sub:`e`\\ (x) oder *ln(x)*. In der Tat funktioniert jamovi "
+"auf die gleiche Weise: Die Funktion ``LN()`` entspricht dem natürlichen "
+"Logarithmus."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:115
 msgid ""
 "And with that, I think we’ve had quite enough exponentials and logarithms"
 " for this book!"
 msgstr ""
+"Und damit, denke ich, haben wir genug Logarithmen und Exponentialfunktionen "
+"für dieses Buch gehabt!"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:121
 msgid "We’ll leave the box-cox function until :ref:`later on <box-cox>`."
-msgstr ""
+msgstr "Wir verschieben die Box-Cox-Funktion auf :ref:`später auf <box-cox>`."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:4
 msgid "Extracting a subset of the data"
-msgstr ""
+msgstr "Extrahieren einer Teilmenge der Daten"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:6
 msgid ""
@@ -1605,6 +1818,12 @@ msgid ""
 " the first step is getting jamovi to filter the subset of the data "
 "corresponding to the observations that you’re interested in."
 msgstr ""
+"Ein sehr wichtiger Schritt bei der Datenverarbeitung ist, eine bestimmte "
+"Teilmenge der Daten zu extrahieren. Zum Beispiel könnte es sein, dass Sie "
+"nur an der Analyse der Daten einer Versuchsbedingung interessiert sind, oder "
+"dass Sie sich die Daten von Personen über 50 Jahren genauer ansehen möchten. "
+"Zu diesem Zweck muss jamovi zunächst die Teilmenge der Daten filtern, die "
+"den Beobachtungen entspricht, an denen Sie interessiert sind."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:13
 msgid ""
@@ -1619,6 +1838,17 @@ msgid ""
 "clicking on ``Filters`` on the main jamovi ``Data`` toolbar. Then, in the"
 " ``Filter 1`` text box, next to the ``=`` sign, type the following:"
 msgstr ""
+"Dieser Abschnitt kehrt zum Datensatz |nightgarden|_ zurück. Wenn Sie dieses "
+"ganze Kapitel in einer Sitzung lesen, dann sollten Sie diesen Datensatz "
+"bereits in jamovi geladen haben. In diesem Abschnitt wollen wir uns auf die "
+"beiden Variablen ``speaker`` und ``utterance`` konzentrieren (siehe :doc:`"
+"Tabellierung und Kreuztabellierung von Daten <../Ch06/Ch06_DataHandling_1>`, "
+"falls Sie vergessen haben, wie diese Variablen aussehen). Nehmen wir an, "
+"dass ich nur die Äußerungen herausziehen möchte, die von ``makka-pakka`` "
+"gemacht wurden. Zu diesem Zweck müssen wir einen Filter in jamovi erstellen. "
+"Öffnen Sie zunächst ein Filter-Eingabefeld, indem Sie auf ``Filters`` in der "
+"Symbolleiste des jamovi-Tabs ``Data`` klicken. Geben Sie dann in das "
+"Textfeld ``Filter 1`` neben dem Zeichen ``=`` Folgendes ein:"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:28
 msgid ""
@@ -1631,16 +1861,27 @@ msgid ""
 "assigning ``speaker`` to the ``Variables``- box and checking ``Frequency "
 "tables``. Go on, try it, and see what that shows!"
 msgstr ""
+"Wenn Sie dies getan haben, werden Sie sehen, dass eine neue Spalte zum "
+"Tabellenfenster hinzugefügt wurde (siehe :numref:`fig-subset1`), die mit ``"
+"Filter 1`` beschriftet ist. Die Fälle, in denen ``speaker`` nicht ``makka-"
+"pakka`` ist, sind ausgegraut (d.h. herausgefiltert) und umgekehrt haben die "
+"Fälle, in denen ``speaker`` ``makka-pakka`` ist, ein grünes Häkchen, das "
+"anzeigt, dass sie aktiv (d.h. in Analysen eingeschlossen) sind. Sie können "
+"dies testen, indem Sie ``Exploration`` → ``Descriptives`` ausführen, "
+"``speaker`` dem Feld ``Variables``- zuordnen und ``Frequency tables`` "
+"ankreuzen. Probieren Sie es aus, und sehen Sie, was dabei herauskommt!"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:42
 msgid "Creating a subset using ``Filters``"
-msgstr ""
+msgstr "Erstellen einer Teilmenge mit ``Filters``"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:42
 msgid ""
 "Creating a subset of the |nightgarden| data set using the jamovi "
 "``Filters`` option"
 msgstr ""
+"Erstellen einer Teilmenge des Datensatzes |nightgarden|_ unter Verwendung "
+"der Option jamovi ``Filters``"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:47
 msgid ""
@@ -1650,3 +1891,8 @@ msgid ""
 "``oo``. In this case in the ``Filter 1`` text box, next to the ``=`` "
 "sign, you would type the following:"
 msgstr ""
+"Ausgehend von diesem einfachen Beispiel können Sie auch komplexere Filter "
+"mit logischen Ausdrücken in jamovi erstellen. Nehmen wir zum Beispiel an, "
+"ich möchte nur die Fälle behalten, in denen die Äußerung entweder ``pip`` "
+"oder ``oo`` ist. In diesem Fall würde man in das Textfeld ``Filter 1`` neben "
+"dem Zeichen ``=`` folgendes eingeben:"
