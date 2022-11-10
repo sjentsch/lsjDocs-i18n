@@ -569,7 +569,7 @@ msgid ""
 msgstr ""
 "Der Reihenfolge nach: die Summe von A und B, der Logarithmus von len zur "
 "Basis 10, der Mittelwert von A und B und der z-Wert der Variable „Dosis“. :"
-"numref:`fig-computedvariable` zeigt den Jamovi-Bildschirm für die neue "
+"numref:`fig-computedvariable` zeigt den jamovi-Bildschirm für die neue "
 "Variable, die als z-Wert der Dosis berechnet wird (aus dem Beispiel-"
 "Datensatz ``Tooth Growth``)."
 
