@@ -1,7 +1,17 @@
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 #, fuzzy
 msgid ""
@@ -9,67 +19,24 @@ msgstr ""
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
+"#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 23:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
 msgid "Comparing two means"
@@ -393,6 +360,7 @@ msgid "z\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "z\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:181
+#, python-format
 msgid ""
 "(again, see section :doc:`Standard scores <../Ch04/Ch04_Descriptives_5>` if "
 "you’ve forgotten why this is true). In other words, regardless of what scale "
@@ -738,6 +706,7 @@ msgid "Conducting an One-sample t-test in jamovi"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:133
+#, python-format
 msgid ""
 "Also reported are two other things you might care about: the 95% confidence "
 "interval and a measure of effect size (we’ll talk more about effect sizes "
@@ -749,6 +718,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:141
+#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher "
 "than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -964,6 +934,7 @@ msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
+#, python-format
 msgid ""
 "The plots show the mean grade for students in Anastasia’s and Bernadette’s "
 "tutorials. Error bars depict 95% confidence intervals around the mean. "
@@ -1291,6 +1262,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:292
+#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1312,6 +1284,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:308
+#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1% (std dev = 5.8). A Student’s "
@@ -1756,6 +1729,7 @@ msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:55
+#, python-format
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
 "ttest_paired1`, we see that this impression seems to be supported. Across "
@@ -1774,6 +1748,7 @@ msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
+#, python-format
 msgid ""
 "Mean grade for test 1 and test 2, with associated 95% confidence intervals "
 "(left panel). Scatterplot showing the individual grades for test 1 and test "
@@ -1926,6 +1901,7 @@ msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:185
+#, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ‘One Sample *t*-"
@@ -1982,6 +1958,7 @@ msgid "One-sided tests"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
+#, python-format
 msgid ""
 "When introducing the theory of null hypothesis tests, I mentioned that there "
 "are some situations when it’s appropriate to specify a *one-sided* test (see "
@@ -2011,6 +1988,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
+#, python-format
 msgid ""
 "Notice that there are a few changes from the output that we saw last time. "
 "Most important is the fact that the actual hypothesis has changed, to "
@@ -2311,6 +2289,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:144
+#, python-format
 msgid ""
 "This is the version of Cohen’s *d* that gets reported by the jamovi ‘Paired "
 "Samples *t*-Test’ analysis. The only wrinkle is figuring out whether this is "
@@ -2509,33 +2488,36 @@ msgid ""
 "In the meantime, it’s probably worth showing you an example of what happens "
 "to the QQ plot and the Shapiro-Wilk test when the data turn out to be non-"
 "normal. For that, let’s look at the distribution of our AFL winning margins "
-"data (``aflsmall_margins``), which if you remember back to th chapter on :"
-"doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>` didn’t look like "
-"they came from a normal distribution at all. Here’s what happens to the QQ "
-"plot:"
+"(``afl.margins``) variable (from the |aflsmall_margins|_ data set), which if "
+"you remember back to th chapter on :doc:`Descriptive statistics <../Ch04/"
+"Ch04_Descriptives>` didn’t look like they came from a normal distribution at "
+"all. Here’s what happens to the QQ plot:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:154
-msgid "QQ plot for the data (skewed) data from the aflsmall_margins dataset"
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_08.rst:154
+#: ../../Ch11/Ch11_tTest_08.rst:156
 msgid ""
-"QQ plot for the data (skewed) data from the |aflsmall_margins|_ data set"
+"QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
+"of the |aflsmall_margins| dataset"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:158
+#: ../../Ch11/Ch11_tTest_08.rst:156
+msgid ""
+"QQ plot for the (skewed) data in the ``afl.margins`` variable of the |"
+"aflsmall_margins|_ data set"
+msgstr ""
+
+#: ../../Ch11/Ch11_tTest_08.rst:161
 msgid ""
 "And when we run the Shapiro-Wilk test on the AFL margins data, we get a "
 "value for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-"
 "value = 9.481e-07. Clearly a significant effect!"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:165
+#: ../../Ch11/Ch11_tTest_08.rst:168
 msgid "This is a massive oversimplification."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:168
+#: ../../Ch11/Ch11_tTest_08.rst:171
 msgid ""
 "Either that, or the Kolmogorov-Smirnov test, which is probably more "
 "traditional than the Shapiro-Wilk. Although most things I’ve read seem to "

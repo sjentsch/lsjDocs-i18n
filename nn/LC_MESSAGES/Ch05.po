@@ -4,13 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -21,25 +14,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +38,7 @@ msgstr ""
 "#-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -152,8 +141,8 @@ msgid ""
 "completeness I’ll describe them. All you do is divide up the possible values "
 "into **bins** and then count the number of observations that fall within "
 "each bin. This count is referred to as the frequency or density of the bin "
-"and is displayed as a vertical bar. Ihe AFL winning margins data there are "
-"33 games in which the winning margin was less than 10 points and it is this "
+"and is displayed as a vertical bar. The ``afl.margins`` variable contains 33 "
+"games in which the winning margin was less than 10 points and it is this "
 "fact that is represented by the height of the leftmost bar that we showed "
 "earlier in :doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>`, and :"
 "numref:`fig-aflMargins`. With these earlier graphs we used an advanced "
@@ -198,11 +187,11 @@ msgid ""
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
-msgid "Density plot of ``afl.margins``"
+msgid "Density plot for the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
-msgid "Density plot of the ``afl.margins`` variable plotted in jamovi"
+msgid "Density plot for the ``afl.margins`` variable plotted in jamovi"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:67
@@ -218,7 +207,7 @@ msgid ""
 "data are nominal scale |nominal| then histograms are useless."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:200
+#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:201
 msgid "nominal"
 msgstr "nominal"
 
@@ -240,7 +229,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
-msgid "Box plot of ``afl.margins``"
+msgid "Box plot of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
@@ -263,11 +252,11 @@ msgid ""
 "boundary, and *75th percentile \\+ (1.5 \\* IQR)* for the upper boundary. "
 "Any observation whose value falls outside this range is plotted as a circle "
 "or dot instead of being covered by the whiskers, and is commonly referred to "
-"as an **outlier**. For our AFL margins data there are two observations that "
-"fall outside this range, and these observations are plotted as dots (the "
-"upper boundary is 107, and looking over the data column in the spreadsheet "
-"there are two observations with values higher than this, 108 and 116, so "
-"these are the dots)."
+"as an **outlier**. For the ``afl.margins`` variable there are two "
+"observations that fall outside this range, and these observations are "
+"plotted as dots (the upper boundary is 107, and looking over the data column "
+"in the spreadsheet there are two observations with values higher than this, "
+"108 and 116, so these are the dots)."
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:45
@@ -289,7 +278,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
-msgid "Violin plot of ``afl.margins``"
+msgid "Violin plot of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
@@ -338,7 +327,7 @@ msgstr ""
 #: ../../Ch05/Ch05_Graphics_2.rst:107
 msgid ""
 "Multiple box plots: ``margin`` split by ``year`` from\n"
-"``aflmarginbyyear``"
+"|aflmarginbyyear|"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:107
@@ -357,19 +346,20 @@ msgid ""
 "outside a certain range, depicting them with a dot in jamovi, people often "
 "use them as an informal method for detecting **outliers**: observations that "
 "are “suspiciously” distant from the rest of the data. Here’s an example. "
-"Suppose that I’d drawn the box plot for the AFL margins data and it came up "
-"looking like :numref:`fig-boxplot4`."
+"Suppose that I’d drawn the box plot for the ``afl.margins`` variable and it "
+"came up looking like :numref:`fig-boxplot4`."
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
-msgid "Box plot with outliers"
+msgid "Box plot of the ``afl.margins`` variable with outliers"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
-msgid "Box plot showing two very suspicious outliers"
+msgid ""
+"Box plot of the ``afl.margins`` variable showing two very suspicious outliers"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:132
+#: ../../Ch05/Ch05_Graphics_2.rst:133
 msgid ""
 "It’s pretty clear that something funny is going on with two of the "
 "observations. Apparently, there were two games in which the margin was over "
@@ -384,15 +374,15 @@ msgid ""
 "filter field, as in :numref:`fig-filter1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:151
+#: ../../Ch05/Ch05_Graphics_2.rst:152
 msgid "jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:151
+#: ../../Ch05/Ch05_Graphics_2.rst:152
 msgid "The jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:155
+#: ../../Ch05/Ch05_Graphics_2.rst:156
 msgid ""
 "This filter creates a new column in the spreadsheet view where only those "
 "observations that pass the filter are included. One neat way to quickly "
@@ -405,17 +395,17 @@ msgid ""
 "should go back to the original data source to find out what is going on."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:171
+#: ../../Ch05/Ch05_Graphics_2.rst:172
 msgid "Frequency table for ID"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:171
+#: ../../Ch05/Ch05_Graphics_2.rst:172
 msgid ""
 "Frequency table for ID showing the ID numbers for the two suspicious "
 "outliers: 14 and 134"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:176
+#: ../../Ch05/Ch05_Graphics_2.rst:177
 msgid ""
 "Usually you find that someone has just typed in the wrong number. Whilst "
 "this might seem like a silly example, I should stress that this kind of "
@@ -427,7 +417,7 @@ msgid ""
 "data and all sorts of other obnoxious errors in raw data files."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:185
+#: ../../Ch05/Ch05_Graphics_2.rst:186
 msgid ""
 "For less extreme values, even if they are flagged in a a box plot as "
 "outliers, the decision about whether to include outliers or exclude them in "

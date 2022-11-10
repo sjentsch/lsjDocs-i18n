@@ -4,13 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -21,33 +14,22 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch05.po (Learning statistics with jamovi)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +39,7 @@ msgstr ""
 "#-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -199,8 +181,8 @@ msgid ""
 "completeness I’ll describe them. All you do is divide up the possible values "
 "into **bins** and then count the number of observations that fall within "
 "each bin. This count is referred to as the frequency or density of the bin "
-"and is displayed as a vertical bar. Ihe AFL winning margins data there are "
-"33 games in which the winning margin was less than 10 points and it is this "
+"and is displayed as a vertical bar. The ``afl.margins`` variable contains 33 "
+"games in which the winning margin was less than 10 points and it is this "
 "fact that is represented by the height of the leftmost bar that we showed "
 "earlier in :doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>`, and :"
 "numref:`fig-aflMargins`. With these earlier graphs we used an advanced "
@@ -217,32 +199,6 @@ msgid ""
 "or kurtosis? Our first impressions of these characteristics come from "
 "drawing a **histogram**."
 msgstr ""
-"Začnimo s skromnim **histogramom**. Histogrami so eden od najpreprostejših "
-"in najuporabnejših načinov vizualizacije podatkov. Najbolj smiselni so, "
-"kadar imate spremenljivko z intervalno ali razmernostno lestvico (npr. "
-"spremenljivko ``afl.margins`` iz podatkovnega niza |aflsmall_finalists|_, ki "
-"smo jo uporabili v :doc:`Opisna statistika <../Ch04/Ch04_Descriptives>`) in "
-"želite dobiti splošni vtis o spremenljivki. Večina vas verjetno ve, kako "
-"delujejo histogrami, saj se pogosto uporabljajo, vendar jih bom zaradi "
-"popolnosti opisal. Vse, kar naredite, je, da možne vrednosti razdelite v "
-"**bine** in nato preštejete število opazovanj, ki spadajo v vsak bin. To "
-"število se imenuje pogostost ali gostota košarice in je prikazano kot "
-"navpična vrstica. V podatkih o zmagovalnih razlikah AFL je 33 tekem, v "
-"katerih je bila zmagovalna razlika manjša od 10 točk, in prav to dejstvo je "
-"predstavljeno z višino skrajne leve črte, ki smo jo prej prikazali v :doc:"
-"`Descriptive statistics <../Ch04/Ch04_Descriptives>` in :numref:`fig-"
-"aflMargins`. Pri teh prejšnjih grafih smo uporabili napreden paket za "
-"izrisovanje v R, ki za zdaj presega jamove zmožnosti. Toda jamovi nas "
-"približa in izris tega histograma v jamoviju je precej enostaven. Odprite "
-"možnosti ``Plots`` pod ``Exploration`` → ``Descriptives`` in kliknite "
-"potrditveno polje ``Histogram``, kot je prikazano v :numref:`fig-"
-"jamovi_histogram`. Jamovi privzeto označi os y kot 'gostota', os x pa z "
-"imenom spremenljivke. Datoteke **bins** se izberejo samodejno, na osi y pa "
-"ni informacij o lestvici ali številu, za razliko od prejšnjega :numref:`fig-"
-"aflMargins`. Vendar to ni preveč pomembno, saj nas navsezadnje v resnici "
-"zanima naš vtis o obliki porazdelitve: ali je porazdeljena normalno ali pa "
-"je prisotna poševnost ali kurtoza? Prvi vtis o teh značilnostih dobimo z "
-"risanjem **histograma**."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "Histogram check box in jamovi"
@@ -284,11 +240,11 @@ msgstr ""
 "histogram z 20 košaricami. Vendar pri diagramih gostote to ni težava."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
-msgid "Density plot of ``afl.margins``"
+msgid "Density plot for the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
-msgid "Density plot of the ``afl.margins`` variable plotted in jamovi"
+msgid "Density plot for the ``afl.margins`` variable plotted in jamovi"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:67
@@ -313,7 +269,7 @@ msgstr ""
 "histogramov, ne da bi preobremenili gledalca. In seveda, če so vaši podatki "
 "v nominalnem merilu |nominalni|, so histogrami neuporabni."
 
-#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:200
+#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:201
 msgid "nominal"
 msgstr "nominal"
 
@@ -344,7 +300,7 @@ msgstr ""
 "spremenljivko ``afl.margins`` iz niza podatkov |aflsmall_margins|_."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
-msgid "Box plot of ``afl.margins``"
+msgid "Box plot of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
@@ -367,27 +323,12 @@ msgid ""
 "boundary, and *75th percentile \\+ (1.5 \\* IQR)* for the upper boundary. "
 "Any observation whose value falls outside this range is plotted as a circle "
 "or dot instead of being covered by the whiskers, and is commonly referred to "
-"as an **outlier**. For our AFL margins data there are two observations that "
-"fall outside this range, and these observations are plotted as dots (the "
-"upper boundary is 107, and looking over the data column in the spreadsheet "
-"there are two observations with values higher than this, 108 and 116, so "
-"these are the dots)."
+"as an **outlier**. For the ``afl.margins`` variable there are two "
+"observations that fall outside this range, and these observations are "
+"plotted as dots (the upper boundary is 107, and looking over the data column "
+"in the spreadsheet there are two observations with values higher than this, "
+"108 and 116, so these are the dots)."
 msgstr ""
-"Najlažji način, da opišete, kako izgleda škatlasta ploskev, je, da jo "
-"narišete. Kliknite potrditveno polje ``Box plot`` in dobili boste izris, "
-"prikazan spodaj desno od :numref:`fig-boxplot1``. jamovi so narisali "
-"najosnovnejšo možno škatlasto zgodbo. Ko pogledate ta prikaz, si ga morate "
-"razlagati takole: debela črta na sredini polja je mediana; sam okvir obsega "
-"razpon od 25. percentila do 75. percentila; in \"brki\" segajo do najbolj "
-"skrajne podatkovne točke, ki ne presega določene meje. Privzeto je ta "
-"vrednost 1,5-kratnik interkvartilnega razpona (IQR), izračunanega kot *25. "
-"percentil - (1,5 \\* IQR)* za spodnjo mejo in *75. percentil \\+ (1,5 \\* "
-"IQR)* za zgornjo mejo. Vsako opazovanje, katerega vrednost je zunaj tega "
-"obsega, je narisano kot krog ali pika, namesto da bi bilo pokrito z brki, in "
-"se običajno imenuje **izstopanje**. Za naše podatke o robovih AFL obstajata "
-"dve opazki, ki spadata zunaj tega obsega, in ti opazki sta narisani kot pike "
-"(zgornja meja je 107 in če pogledamo stolpec podatkov v preglednici, sta dve "
-"opazki z vrednostmi, višjimi od te, 108 in 116, torej to so pike)."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:45
 msgid "Violin plots"
@@ -419,7 +360,7 @@ msgstr ""
 "v praksi morda bolje uporabiti preprost okvirni graf."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
-msgid "Violin plot of ``afl.margins``"
+msgid "Violin plot of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
@@ -478,7 +419,7 @@ msgstr ""
 #: ../../Ch05/Ch05_Graphics_2.rst:107
 msgid ""
 "Multiple box plots: ``margin`` split by ``year`` from\n"
-"``aflmarginbyyear``"
+"|aflmarginbyyear|"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:107
@@ -497,19 +438,20 @@ msgid ""
 "outside a certain range, depicting them with a dot in jamovi, people often "
 "use them as an informal method for detecting **outliers**: observations that "
 "are “suspiciously” distant from the rest of the data. Here’s an example. "
-"Suppose that I’d drawn the box plot for the AFL margins data and it came up "
-"looking like :numref:`fig-boxplot4`."
+"Suppose that I’d drawn the box plot for the ``afl.margins`` variable and it "
+"came up looking like :numref:`fig-boxplot4`."
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
-msgid "Box plot with outliers"
+msgid "Box plot of the ``afl.margins`` variable with outliers"
 msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
-msgid "Box plot showing two very suspicious outliers"
+msgid ""
+"Box plot of the ``afl.margins`` variable showing two very suspicious outliers"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:132
+#: ../../Ch05/Ch05_Graphics_2.rst:133
 msgid ""
 "It’s pretty clear that something funny is going on with two of the "
 "observations. Apparently, there were two games in which the margin was over "
@@ -524,15 +466,15 @@ msgid ""
 "filter field, as in :numref:`fig-filter1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:151
+#: ../../Ch05/Ch05_Graphics_2.rst:152
 msgid "jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:151
+#: ../../Ch05/Ch05_Graphics_2.rst:152
 msgid "The jamovi filter screen"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:155
+#: ../../Ch05/Ch05_Graphics_2.rst:156
 msgid ""
 "This filter creates a new column in the spreadsheet view where only those "
 "observations that pass the filter are included. One neat way to quickly "
@@ -545,17 +487,17 @@ msgid ""
 "should go back to the original data source to find out what is going on."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:171
+#: ../../Ch05/Ch05_Graphics_2.rst:172
 msgid "Frequency table for ID"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:171
+#: ../../Ch05/Ch05_Graphics_2.rst:172
 msgid ""
 "Frequency table for ID showing the ID numbers for the two suspicious "
 "outliers: 14 and 134"
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:176
+#: ../../Ch05/Ch05_Graphics_2.rst:177
 msgid ""
 "Usually you find that someone has just typed in the wrong number. Whilst "
 "this might seem like a silly example, I should stress that this kind of "
@@ -567,7 +509,7 @@ msgid ""
 "data and all sorts of other obnoxious errors in raw data files."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:185
+#: ../../Ch05/Ch05_Graphics_2.rst:186
 msgid ""
 "For less extreme values, even if they are flagged in a a box plot as "
 "outliers, the decision about whether to include outliers or exclude them in "
@@ -679,3 +621,97 @@ msgid ""
 "worth taking the time to teach yourself, because it’s a much more powerful "
 "and cleaner system."
 msgstr ""
+
+#~ msgid ""
+#~ "Let’s begin with the humble **histogram**. Histograms are one of the "
+#~ "simplest and most useful ways of visualising data. They make most sense "
+#~ "when you have an interval or ratio scale variable (e.g., the ``afl."
+#~ "margins`` variable from the |aflsmall_finalists|_ data set that we used "
+#~ "in :doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>`) and what "
+#~ "you want to do is get an overall impression of the variable. Most of you "
+#~ "probably know how histograms work, since they’re so widely used, but for "
+#~ "the sake of completeness I’ll describe them. All you do is divide up the "
+#~ "possible values into **bins** and then count the number of observations "
+#~ "that fall within each bin. This count is referred to as the frequency or "
+#~ "density of the bin and is displayed as a vertical bar. Ihe AFL winning "
+#~ "margins data there are 33 games in which the winning margin was less than "
+#~ "10 points and it is this fact that is represented by the height of the "
+#~ "leftmost bar that we showed earlier in :doc:`Descriptive statistics <../"
+#~ "Ch04/Ch04_Descriptives>`, and :numref:`fig-aflMargins`. With these "
+#~ "earlier graphs we used an advanced plotting package in R which, for now, "
+#~ "is beyond the capability of jamovi. But jamovi gets us close, and drawing "
+#~ "this histogram in jamovi is pretty straightforward. Open up the ``Plots`` "
+#~ "options under ``Exploration`` →  ``Descriptives`` and click the "
+#~ "``Histogram`` check box, as shown in :numref:`fig-jamovi_histogram`. "
+#~ "jamovi defaults to labelling the y-axis as ‘density’ and the x-axis with "
+#~ "the variable name. The **bins** are selected automatically, and there is "
+#~ "no scale, or count, information on the y-axis unlike the previous :numref:"
+#~ "`fig-aflMargins`. But this does not matter too much because after all "
+#~ "what we are really interested in is our impression of the shape of the "
+#~ "distribution: is it normally distributed or is there a skew or kurtosis? "
+#~ "Our first impressions of these characteristics come from drawing a "
+#~ "**histogram**."
+#~ msgstr ""
+#~ "Začnimo s skromnim **histogramom**. Histogrami so eden od "
+#~ "najpreprostejših in najuporabnejših načinov vizualizacije podatkov. "
+#~ "Najbolj smiselni so, kadar imate spremenljivko z intervalno ali "
+#~ "razmernostno lestvico (npr. spremenljivko ``afl.margins`` iz podatkovnega "
+#~ "niza |aflsmall_finalists|_, ki smo jo uporabili v :doc:`Opisna statistika "
+#~ "<../Ch04/Ch04_Descriptives>`) in želite dobiti splošni vtis o "
+#~ "spremenljivki. Večina vas verjetno ve, kako delujejo histogrami, saj se "
+#~ "pogosto uporabljajo, vendar jih bom zaradi popolnosti opisal. Vse, kar "
+#~ "naredite, je, da možne vrednosti razdelite v **bine** in nato preštejete "
+#~ "število opazovanj, ki spadajo v vsak bin. To število se imenuje pogostost "
+#~ "ali gostota košarice in je prikazano kot navpična vrstica. V podatkih o "
+#~ "zmagovalnih razlikah AFL je 33 tekem, v katerih je bila zmagovalna "
+#~ "razlika manjša od 10 točk, in prav to dejstvo je predstavljeno z višino "
+#~ "skrajne leve črte, ki smo jo prej prikazali v :doc:`Descriptive "
+#~ "statistics <../Ch04/Ch04_Descriptives>` in :numref:`fig-aflMargins`. Pri "
+#~ "teh prejšnjih grafih smo uporabili napreden paket za izrisovanje v R, ki "
+#~ "za zdaj presega jamove zmožnosti. Toda jamovi nas približa in izris tega "
+#~ "histograma v jamoviju je precej enostaven. Odprite možnosti ``Plots`` pod "
+#~ "``Exploration`` → ``Descriptives`` in kliknite potrditveno polje "
+#~ "``Histogram``, kot je prikazano v :numref:`fig-jamovi_histogram`. Jamovi "
+#~ "privzeto označi os y kot 'gostota', os x pa z imenom spremenljivke. "
+#~ "Datoteke **bins** se izberejo samodejno, na osi y pa ni informacij o "
+#~ "lestvici ali številu, za razliko od prejšnjega :numref:`fig-aflMargins`. "
+#~ "Vendar to ni preveč pomembno, saj nas navsezadnje v resnici zanima naš "
+#~ "vtis o obliki porazdelitve: ali je porazdeljena normalno ali pa je "
+#~ "prisotna poševnost ali kurtoza? Prvi vtis o teh značilnostih dobimo z "
+#~ "risanjem **histograma**."
+
+#~ msgid ""
+#~ "The easiest way to describe what a box plot looks like is just to draw "
+#~ "one. Click on the ``Box plot`` check box and you will get the plot shown "
+#~ "on the lower right of :numref:`fig-boxplot1`. jamovi has drawn the most "
+#~ "basic box plot possible. When you look at this plot this is how you "
+#~ "should interpret it: the thick line in the middle of the box is the "
+#~ "median; the box itself spans the range from the 25th percentile to the "
+#~ "75th percentile; and the “whiskers” go out to the most extreme data point "
+#~ "that doesn’t exceed a certain bound. By default, this value is 1.5 times "
+#~ "the interquartile range (IQR), calculated as *25th percentile - (1.5 \\* "
+#~ "IQR)* for the lower boundary, and *75th percentile \\+ (1.5 \\* IQR)* for "
+#~ "the upper boundary. Any observation whose value falls outside this range "
+#~ "is plotted as a circle or dot instead of being covered by the whiskers, "
+#~ "and is commonly referred to as an **outlier**. For our AFL margins data "
+#~ "there are two observations that fall outside this range, and these "
+#~ "observations are plotted as dots (the upper boundary is 107, and looking "
+#~ "over the data column in the spreadsheet there are two observations with "
+#~ "values higher than this, 108 and 116, so these are the dots)."
+#~ msgstr ""
+#~ "Najlažji način, da opišete, kako izgleda škatlasta ploskev, je, da jo "
+#~ "narišete. Kliknite potrditveno polje ``Box plot`` in dobili boste izris, "
+#~ "prikazan spodaj desno od :numref:`fig-boxplot1``. jamovi so narisali "
+#~ "najosnovnejšo možno škatlasto zgodbo. Ko pogledate ta prikaz, si ga "
+#~ "morate razlagati takole: debela črta na sredini polja je mediana; sam "
+#~ "okvir obsega razpon od 25. percentila do 75. percentila; in \"brki\" "
+#~ "segajo do najbolj skrajne podatkovne točke, ki ne presega določene meje. "
+#~ "Privzeto je ta vrednost 1,5-kratnik interkvartilnega razpona (IQR), "
+#~ "izračunanega kot *25. percentil - (1,5 \\* IQR)* za spodnjo mejo in *75. "
+#~ "percentil \\+ (1,5 \\* IQR)* za zgornjo mejo. Vsako opazovanje, katerega "
+#~ "vrednost je zunaj tega obsega, je narisano kot krog ali pika, namesto da "
+#~ "bi bilo pokrito z brki, in se običajno imenuje **izstopanje**. Za naše "
+#~ "podatke o robovih AFL obstajata dve opazki, ki spadata zunaj tega obsega, "
+#~ "in ti opazki sta narisani kot pike (zgornja meja je 107 in če pogledamo "
+#~ "stolpec podatkov v preglednici, sta dve opazki z vrednostmi, višjimi od "
+#~ "te, 108 in 116, torej to so pike)."

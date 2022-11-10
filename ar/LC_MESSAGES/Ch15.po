@@ -11,28 +11,8 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -41,13 +21,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,55 +46,20 @@ msgstr ""
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 12:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 15:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -627,8 +580,8 @@ msgstr "ordinal"
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:246
 msgid ""
 "Select ``Factor`` → ``Exploratory Factor Analysis`` from the ``Analyses`` "
-"ribbon menu to open the analysis panel where you can determine the settings "
-"for the EFA (:numref:`fig-efa2`)."
+"tab to open the analysis panel where you can determine the settings for the "
+"EFA (:numref:`fig-efa2`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:250
@@ -1134,8 +1087,8 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:38
 msgid ""
 "Once you have loaded up the |bfi_sample|_ data set, select ``Factor`` → "
-"``Principal Component Analysis`` from the ``Analyses`` ribbbon menu to open "
-"the analysis panel where you can determine the settings for the PCA (:numref:"
+"``Principal Component Analysis`` from the ``Analyses`` tab to open the "
+"analysis panel where you can determine the settings for the PCA (:numref:"
 "`fig-pca1`). Then select the 25 personality questions and transfer them into "
 "the ‘Variables’ box. Check appropriate options, including ``Assumption "
 "Checks``, but also ``Rotation`` under ``Method``, ``Number of Factors`` to "
@@ -1448,8 +1401,8 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:78
 msgid ""
 "Select ``Factor`` → ``Confirmatory Factor Analysis`` from the ``Analyses`` "
-"ribbon menu to open the analysis panel where you can determine the settings "
-"for the CFA (:numref:`fig-cfa2`)."
+"tab to open the analysis panel where you can determine the settings for the "
+"CFA (:numref:`fig-cfa2`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:82
@@ -1868,9 +1821,9 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:84
 msgid ""
-"Select ``Factor`` → ``Reliability Analysis`` from the ``Analyses`` ribbon "
-"menu in jamovi to open the analysis panel where you can determine the "
-"settings for the reliability analysis (:numref:`fig-rel1`)."
+"Select ``Factor`` → ``Reliability Analysis`` from the ``Analyses`` tab in "
+"jamovi to open the analysis panel where you can determine the settings for "
+"the reliability analysis (:numref:`fig-rel1`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:88

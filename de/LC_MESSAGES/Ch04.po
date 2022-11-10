@@ -4,78 +4,20 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 15:29+0200\n"
-"PO-Revision-Date: 2022-10-25 20:39+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/"
-">\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
 msgid "Descriptive statistics"
@@ -163,8 +105,9 @@ msgstr ""
 "interpretierbare Darstellung der Variablen ``afl.margins`` liefert."
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
-msgid "Histogram of AFL 2010 winning margin data"
-msgstr "Histogramm der Gewinnspanne der AFL 2010"
+msgid ""
+"Histogram of AFL 2010 winning margin data (the ``afl.margins`` variable)"
+msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
 msgid ""
@@ -884,8 +827,8 @@ msgstr ""
 "Endspielen im Zeitraum 1987 bis 2010 teilgenommen haben."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:311
-msgid "Variables in ``aflsmall_finalists``"
-msgstr "Variablen in ``aflsmall_finalists``"
+msgid "Variables in |aflsmall_finalists|"
+msgstr "Variablen in |aflsmall_finalists|"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:311
 msgid ""
@@ -896,8 +839,10 @@ msgstr ""
 "Variablen"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:320
-msgid "Frequency table for ``afl.margins`` in ``aflsmall_finalists``"
-msgstr "Häufigkeitstabelle für ``afl.margins`` in ``aflsmall_finalists``"
+msgid ""
+"Frequency table for the ``afl.margins`` variable in |aflsmall_finalists|"
+msgstr ""
+"Häufigkeitstabelle für die ``afl.margins``-Variable in |aflsmall_finalists|"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:320
 msgid ""
@@ -997,8 +942,8 @@ msgstr ""
 "sollten."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
-msgid "Modal value in of ``afl.margins`` in ``aflsmall_finalists``"
-msgstr "Modalwert in von ``afl.margins`` in ``aflsmall_finalists``"
+msgid "Modal value of the ``afl.margins`` variable in |aflsmall_finalists|"
+msgstr "Modalwert der ``afl.margins``-Variable in |aflsmall_finalists|"
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
 msgid ""
@@ -1034,22 +979,22 @@ msgid ""
 "a measure of the **variability** of the data. That is, how “spread out” are "
 "the data? How “far” away from the mean or median do the observed values tend "
 "to be? For now, let’s assume that the data are interval or ratio scale, and "
-"we’ll continue to use the ``afl.margins`` data. We’ll use this data to "
+"we’ll continue to use the ``afl.margins`` variable. We’ll use this data to "
 "discuss several different measures of spread, each with different strengths "
 "and weaknesses."
 msgstr ""
-"Die Statistiken, die wir bisher besprochen haben, beziehen sich alle auf die "
-"*zentrale Tendenz*. Das heißt, sie alle sagen aus, welche Werte in den Daten "
-"„in der Mitte“ liegen oder „beliebt“ sind. Die zentrale Tendenz ist jedoch "
-"nicht die einzige Art der zusammenfassenden Statistik, die wir berechnen "
-"wollen. Der zweite Aspekt, der uns interessiert, ist ein Maß für die "
-"**Variabilität** der Daten. Das heißt, wie „gestreut“ sind die Daten? Wie "
-"„weit“ entfernt vom Mittelwert oder Median liegen die beobachteten Werte "
-"tendenziell? Nehmen wir zunächst an, dass es sich bei den Daten um eine "
-"Intervall- oder Verhältnisskala handelt. Wir verwenden weiterhin die Daten "
-"von ``afl.margins``. Anhand dieser Daten werden wir verschiedene "
-"Streuungsmaße erörtern, die jeweils unterschiedliche Stärken und Schwächen "
-"aufweisen."
+"Die Statistiken, die wir bisher besprochen haben, beziehen sich alle auf "
+"die *zentrale Tendenz*. Das heißt, sie alle sagen aus, welche Werte in "
+"den Daten „in der Mitte“ liegen oder „beliebt“ sind. Die zentrale Tendenz "
+"ist jedoch nicht die einzige Art der zusammenfassenden Statistik, die wir "
+"berechnen wollen. Der zweite Aspekt, der uns interessiert, ist ein Maß "
+"für die **Variabilität** der Daten. Das heißt, wie „gestreut“ sind die "
+"Daten? Wie „weit“ entfernt vom Mittelwert oder Median liegen die "
+"beobachteten Werte tendenziell? Nehmen wir zunächst an, dass es sich bei "
+"den Daten um eine Intervall- oder Verhältnisskala handelt. Wir verwenden "
+"weiterhin die ``afl.margins``-Variable. Anhand dieser Daten werden wir "
+"verschiedene Streuungsmaße erörtern, die jeweils unterschiedliche Stärken "
+"und Schwächen aufweisen."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:18
 msgid "Range"
@@ -1113,8 +1058,8 @@ msgstr ""
 "``Statistics`` anklicken."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
-msgid "Quartiles for ``afl.margins``"
-msgstr "Quartile für ``afl.margins``"
+msgid "Quartiles for the ``afl.margins`` variable"
+msgstr "Quartile für die Variable ``afl.margins``"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
 msgid ""
@@ -1528,38 +1473,37 @@ msgid ""
 "the heck does a variance of 324.64 actually mean?) and instead talk a bit "
 "more about how to do the calculations in jamovi, because this will reveal "
 "something very weird. Start a new jamovi session by clicking on the main "
-"menu button (three horizontal lines in the top left corner and selecting "
-"``New``. Now type in the first five values from the afl.margins data set in "
-"column A (56, 31, 56, 8, 32). Change the variable type to ``Continuous`` and "
-"under ``Descriptives`` click the ``Variance`` check box, and you get the "
-"same values for variance as the one we calculated by hand (**324.64**). No, "
-"wait, you get a completely *different* answer (**405.80**) - see :numref:"
-"`fig-aflsmall_margins_variance1`. That’s just weird. Is jamovi broken? Is "
-"this a typo? Am I an idiot?"
+"menu button (``☰``; top left hand corner) and selecting ``New``. Now type in "
+"the first five values from the |aflsmall_margins|_ data set in column A (56, "
+"31, 56, 8, 32). Change the variable type to ``Continuous`` and under "
+"``Descriptives`` click the ``Variance`` check box, and you get the same "
+"values for variance as the one we calculated by hand (**324.64**). No, wait, "
+"you get a completely *different* answer (**405.80**) - see :numref:`fig-"
+"aflsmall_margins_variance1`. That’s just weird. Is jamovi broken? Is this a "
+"typo? Am I an idiot?"
 msgstr ""
 "Diese letzte Spalte enthält alle unsere quadrierten Abweichungen, so dass "
-"wir nur noch den Mittelwert bilden müssen. Wenn wir das von Hand, d.h. mit "
-"einem Taschenrechner, machen, erhalten wir eine Varianz von 324,64. "
+"wir nur noch den Mittelwert bilden müssen. Wenn wir das von Hand, d.h. "
+"mit einem Taschenrechner, machen, erhalten wir eine Varianz von 324,64. "
 "Aufregend, nicht wahr? Lassen wir die brennende Frage, die ihr euch "
 "wahrscheinlich alle stellt (nämlich: Was zum Teufel bedeutet eine Varianz "
 "von 324,64?), erst einmal beiseite und gehen stattdessen etwas genauer "
-"darauf ein, wie man die Berechnungen in jamovi durchführt, denn dabei kommt "
-"etwas sehr Merkwürdiges zum Vorschein. Starten Sie eine neue jamovi-Sitzung, "
-"indem Sie auf die Hauptmenü-Schaltfläche (drei horizontale Linien in der "
-"oberen linken Ecke) klicken und ``New`` wählen. Geben Sie nun die ersten "
-"fünf Werte aus dem Datensatz ``afl.margins`` in Spalte A ein (56, 31, 56, 8, "
-"32). Ändern Sie den Variablentyp in ``Continuous`` und klicken Sie unter "
-"``Descriptives`` auf das Kontrollkästchen ``Variance``, und Sie erhalten die "
-"gleichen Werte für die Varianz wie die, die wir von Hand berechnet haben "
+"darauf ein, wie man die Berechnungen in jamovi durchführt, denn dabei "
+"kommt etwas sehr Merkwürdiges zum Vorschein. Starten Sie eine neue jamovi-"
+"Sitzung, indem Sie auf die Hauptmenü-Schaltfläche (``☰``; in der oberen "
+"linken Ecke) klicken und ``New`` wählen. Geben Sie nun die ersten fünf "
+"Werte aus dem Datensatz ``afl.margins`` in Spalte A ein (56, 31, 56, 8, 32)."
+" Ändern Sie den Variablentyp in ``Continuous`` und klicken Sie unter "
+"``Descriptives`` auf das Kontrollkästchen ``Variance``, und Sie erhalten die"
+" gleichen Werte für die Varianz wie die, die wir von Hand berechnet haben "
 "(**324.64**). Nein, warten Sie, Sie erhalten eine völlig *andere* Antwort "
 "(**405.80**) - siehe :numref:`fig-aflsmall_margins_variance1`. Das ist "
-"einfach seltsam. Ist jamovi kaputt? Ist das ein Tippfehler? Bin ich ein "
+"einfach seltsam. Ist jamovi kaputt? Ist das ein Tippfehler? Bin ich ein"
 "Idiot?"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
-#: ../../Ch04/Ch04_Descriptives_2.rst:384
-msgid "Variance for the first 5 values of ``afl.margins``"
-msgstr "Varianz für die ersten 5 Werte von ``afl.margins``"
+msgid "Variance for the first 5 values of the ``afl.margins`` variable"
+msgstr "Varianz für die ersten 5 Werte der Variable ``afl.margins``"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
 msgid ""
@@ -1827,6 +1771,11 @@ msgstr ""
 "dargestellt."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:384
+msgid ""
+"Standard deviation for the first 5 values of the ``afl.margins`` variable"
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_2.rst:384
 #, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data. "
@@ -2073,22 +2022,22 @@ msgid ""
 "less can mean that the data is not very skewed, and a value of over 2 that "
 "there is sufficient skew in the data to possibly limit its use in some "
 "statistical analyses. Though there is no clear agreement on this "
-"interpretation. That said, this does indicate that the AFL winning margins "
-"data is somewhat skewed (0.780 / 0.183 = 4.262)."
+"interpretation. That said, this does indicate that the ``afl.margins`` "
+"variable is somewhat skewed (0.780 / 0.183 = 4.262)."
 msgstr ""
-"Vielleicht noch hilfreicher ist, dass Sie jamovi zur Berechnung der Schiefe "
-"verwenden können: Es ist ein Kontrollkästchen in den Optionen ``Statistics`` "
-"unter ``Exploration`` → ``Descriptives``. Für die Variable ``afl.margins`` "
-"beträgt der Wert für die Schiefe **0,780**. Wenn Sie die Schiefe-Schätzung "
-"durch den Std.-Fehler für die Schiefe teilen, erhalten Sie einen Hinweis "
-"darauf, wie schief die Daten sind. Eine Faustregel besagt, dass insbesondere "
-"bei kleinen Stichproben (*N* < 50) ein Wert von 2 oder weniger bedeuten "
-"kann, dass die Daten nicht sehr schief sind, und dass ein Wert von über 2 "
-"bedeutet, dass die Daten so schief sind, dass ihre Verwendung in einigen "
-"statistischen Analysen möglicherweise eingeschränkt ist. Es besteht jedoch "
-"keine eindeutige Einigkeit über diese Interpretation. Dennoch zeigt dies, "
-"dass die Daten zu den Gewinnmargen der AFL etwas verzerrt sind (0,780 / "
-"0,183 = 4,262)."
+"Vielleicht noch hilfreicher ist, dass Sie jamovi zur Berechnung der "
+"Schiefe verwenden können: Es ist ein Kontrollkästchen in den Optionen "
+"``Statistics`` unter ``Exploration`` → ``Descriptives``. Für die Variable "
+"``afl.margins`` beträgt der Wert für die Schiefe **0,780**. Wenn Sie die "
+"Schiefe-Schätzung durch den Std.-Fehler für die Schiefe teilen, erhalten "
+"Sie einen Hinweis darauf, wie schief die Daten sind. Eine Faustregel "
+"besagt, dass insbesondere bei kleinen Stichproben (*N* < 50) ein Wert von "
+"2 oder weniger bedeuten kann, dass die Daten nicht sehr schief sind, und "
+"dass ein Wert von über 2 bedeutet, dass die Daten so schief sind, dass "
+"ihre Verwendung in einigen statistischen Analysen möglicherweise "
+"eingeschränkt ist. Es besteht jedoch keine eindeutige Einigkeit über "
+"diese Interpretation. Dennoch zeigt dies, dass die Daten in der "
+"``afl.margins``-Variable etwas verzerrt sind (0,780 / 0,183 = 4,262)."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:61
 msgid ""
@@ -2230,14 +2179,14 @@ msgstr "Ich weiß, für mich ist das auch nicht sonderlich interessant."
 msgid ""
 "More to the point, jamovi has a check box for kurtosis just below the check "
 "box for skewness, and this gives a value for kurtosis of **0.101** with a "
-"standard error of **0.364**. This means that the AFL winning margins data "
+"standard error of **0.364**. This means that the ``afl.margins`` variable "
 "has only a small kurtosis, which is ok."
 msgstr ""
 "jamovi hat ein Kontrollkästchen für die Kurtosis direkt unter dem "
-"Kontrollkästchen für die Schiefe, und dies ergibt einen Wert für die Wölbung "
-"von **0,101** mit einem Standardfehler von **0,364**. Dies bedeutet, dass "
-"die AFL-Gewinnspannen-Daten nur eine geringe Kurtosis aufweisen, was in "
-"Ordnung ist."
+"Kontrollkästchen für die Schiefe, und dies ergibt einen Wert von **0,101** "
+"für die Kurtosis mit einem Standardfehler von **0,364**. Dies bedeutet, "
+"dass die ``afl.margins``-Variable nur eine geringe Kurtosis aufweist, was "
+"in Ordnung ist."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:118
 msgid ""
@@ -2700,11 +2649,11 @@ msgstr ""
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr "Epilog: Gute deskriptivstatistische Maße sind anschaulich!"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of one man is a tragedy.*"
 msgstr "*Der Tod eines Menschen ist eine Tragödie.*"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of millions is a statistic.*"
 msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 
@@ -2712,7 +2661,7 @@ msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 msgid "Josef Stalin, Potsdam 1945"
 msgstr "Josef Stalin, Potsdam 1945"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*950,000 – 1,200,000*"
 msgstr "*950.000 - 1.200.000*"
 

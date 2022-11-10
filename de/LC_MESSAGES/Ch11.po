@@ -4,64 +4,20 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-10-25 18:02+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/"
-">\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
 msgid "Comparing two means"
@@ -2513,33 +2469,36 @@ msgid ""
 "In the meantime, it’s probably worth showing you an example of what happens "
 "to the QQ plot and the Shapiro-Wilk test when the data turn out to be non-"
 "normal. For that, let’s look at the distribution of our AFL winning margins "
-"data (``aflsmall_margins``), which if you remember back to th chapter on :"
-"doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>` didn’t look like "
-"they came from a normal distribution at all. Here’s what happens to the QQ "
-"plot:"
+"(``afl.margins``) variable (from the |aflsmall_margins|_ data set), which if "
+"you remember back to th chapter on :doc:`Descriptive statistics <../Ch04/"
+"Ch04_Descriptives>` didn’t look like they came from a normal distribution at "
+"all. Here’s what happens to the QQ plot:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:154
-msgid "QQ plot for the data (skewed) data from the aflsmall_margins dataset"
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_08.rst:154
+#: ../../Ch11/Ch11_tTest_08.rst:156
 msgid ""
-"QQ plot for the data (skewed) data from the |aflsmall_margins|_ data set"
+"QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
+"of the |aflsmall_margins| dataset"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:158
+#: ../../Ch11/Ch11_tTest_08.rst:156
+msgid ""
+"QQ plot for the (skewed) data in the ``afl.margins`` variable of the |"
+"aflsmall_margins|_ data set"
+msgstr ""
+
+#: ../../Ch11/Ch11_tTest_08.rst:161
 msgid ""
 "And when we run the Shapiro-Wilk test on the AFL margins data, we get a "
 "value for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-"
 "value = 9.481e-07. Clearly a significant effect!"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:165
+#: ../../Ch11/Ch11_tTest_08.rst:168
 msgid "This is a massive oversimplification."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:168
+#: ../../Ch11/Ch11_tTest_08.rst:171
 msgid ""
 "Either that, or the Kolmogorov-Smirnov test, which is probably more "
 "traditional than the Shapiro-Wilk. Although most things I’ve read seem to "

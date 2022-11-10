@@ -4,13 +4,24 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +31,7 @@ msgstr ""
 "#-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1373,8 +1384,8 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:654
 msgid ""
 "In order to see the *p*-value with a high number of decimal places, click on "
-"the ⋮-symbol (top-right corner of the jamovi-window) and set the ``p-value "
-"format`` to ``16 dp``."
+"the settings menu (``⋮``, top-right corner) and set the ``p-value format`` "
+"to ``16 dp``."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:4

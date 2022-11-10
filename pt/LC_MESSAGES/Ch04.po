@@ -4,35 +4,8 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -41,67 +14,31 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 11:10+0100\n"
+"POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 10:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-21 15:29+0200\n"
+"#-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 14:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,7 +102,8 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
-msgid "Histogram of AFL 2010 winning margin data"
+msgid ""
+"Histogram of AFL 2010 winning margin data (the ``afl.margins`` variable)"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
@@ -661,7 +599,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:311
-msgid "Variables in ``aflsmall_finalists``"
+msgid "Variables in |aflsmall_finalists|"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:311
@@ -671,7 +609,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:320
-msgid "Frequency table for ``afl.margins`` in ``aflsmall_finalists``"
+msgid "Frequency table for ``afl.margins`` in |aflsmall_finalists|"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:320
@@ -729,7 +667,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
-msgid "Modal value in of ``afl.margins`` in ``aflsmall_finalists``"
+msgid "Modal value in of ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:371
@@ -760,7 +698,7 @@ msgid ""
 "a measure of the **variability** of the data. That is, how “spread out” are "
 "the data? How “far” away from the mean or median do the observed values tend "
 "to be? For now, let’s assume that the data are interval or ratio scale, and "
-"we’ll continue to use the ``afl.margins`` data. We’ll use this data to "
+"we’ll continue to use the ``afl.margins`` variable. We’ll use this data to "
 "discuss several different measures of spread, each with different strengths "
 "and weaknesses."
 msgstr ""
@@ -806,7 +744,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
-msgid "Quartiles for ``afl.margins``"
+msgid "Quartiles for the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:55
@@ -1131,19 +1069,18 @@ msgid ""
 "the heck does a variance of 324.64 actually mean?) and instead talk a bit "
 "more about how to do the calculations in jamovi, because this will reveal "
 "something very weird. Start a new jamovi session by clicking on the main "
-"menu button (three horizontal lines in the top left corner and selecting "
-"``New``. Now type in the first five values from the afl.margins data set in "
-"column A (56, 31, 56, 8, 32). Change the variable type to ``Continuous`` and "
-"under ``Descriptives`` click the ``Variance`` check box, and you get the "
-"same values for variance as the one we calculated by hand (**324.64**). No, "
-"wait, you get a completely *different* answer (**405.80**) - see :numref:"
-"`fig-aflsmall_margins_variance1`. That’s just weird. Is jamovi broken? Is "
-"this a typo? Am I an idiot?"
+"menu button (``☰``; top left hand corner) and selecting ``New``. Now type in "
+"the first five values from the |aflsmall_margins|_ data set in column A (56, "
+"31, 56, 8, 32). Change the variable type to ``Continuous`` and under "
+"``Descriptives`` click the ``Variance`` check box, and you get the same "
+"values for variance as the one we calculated by hand (**324.64**). No, wait, "
+"you get a completely *different* answer (**405.80**) - see :numref:`fig-"
+"aflsmall_margins_variance1`. That’s just weird. Is jamovi broken? Is this a "
+"typo? Am I an idiot?"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
-#: ../../Ch04/Ch04_Descriptives_2.rst:384
-msgid "Variance for the first 5 values of ``afl.margins``"
+msgid "Variance for the first 5 values of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
@@ -1310,6 +1247,11 @@ msgid ""
 "our data! Even so, the rule is approximately correct. As it turns out, "
 "65.3% of the AFL margins data fall within one standard deviation of the "
 "mean. This is shown visually in :numref:`fig-aflSD`."
+msgstr ""
+
+#: ../../Ch04/Ch04_Descriptives_2.rst:384
+msgid ""
+"Standard deviation for the first 5 values of the ``afl.margins`` variable"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:384
@@ -1480,8 +1422,8 @@ msgid ""
 "less can mean that the data is not very skewed, and a value of over 2 that "
 "there is sufficient skew in the data to possibly limit its use in some "
 "statistical analyses. Though there is no clear agreement on this "
-"interpretation. That said, this does indicate that the AFL winning margins "
-"data is somewhat skewed (0.780 / 0.183 = 4.262)."
+"interpretation. That said, this does indicate that the ``afl.margins`` "
+"variable is somewhat skewed (0.780 / 0.183 = 4.262)."
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:61
@@ -1595,7 +1537,7 @@ msgstr ""
 msgid ""
 "More to the point, jamovi has a check box for kurtosis just below the check "
 "box for skewness, and this gives a value for kurtosis of **0.101** with a "
-"standard error of **0.364**. This means that the AFL winning margins data "
+"standard error of **0.364**. This means that the ``afl.margins`` variable "
 "has only a small kurtosis, which is ok."
 msgstr ""
 
