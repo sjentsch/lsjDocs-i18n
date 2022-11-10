@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-10-26 13:44+0200\n"
-"PO-Revision-Date: 2022-11-10 08:33+0000\n"
+"PO-Revision-Date: 2022-11-10 08:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
 "\n"
@@ -88,7 +88,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
 msgid ":doc:`Logical expressions in jamovi <../Ch06/Ch06_DataHandling_2>`"
-msgstr ":doc:` Logische Ausdrücke in jamovi <../Ch06/Ch06_DataHandling_2>`"
+msgstr ":doc:`Logische Ausdrücke in jamovi <../Ch06/Ch06_DataHandling_2>`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:49
 msgid ":doc:`Transforming or recoding a variable <../Ch06/Ch06_DataHandling_3>`"
@@ -104,7 +104,7 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling.rst:53
 msgid ":doc:`Extracting a subset of the data <../Ch06/Ch06_DataHandling_5>`"
 msgstr ""
-"doc:`Extrahieren einer Teilmenge von Daten <../Ch06/Ch06_DataHandling_5>`"
+":doc:`Extrahieren einer Teilmenge von Daten <../Ch06/Ch06_DataHandling_5>`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:55
 msgid ""
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:4
 msgid "Tabulating and cross-tabulating data"
-msgstr "Tabellieren und Kreuztabellieren von Daten"
+msgstr "Erstellen von Tabellen und Kreuztabellen aus den Daten"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:6
 msgid ""
@@ -144,13 +144,13 @@ msgid ""
 "can be achieved in jamovi and I’ll show you how in this section."
 msgstr ""
 "Eine sehr häufige Aufgabe bei der Analyse von Daten ist die Erstellung von "
-"Häufigkeitstabellen oder die Kreuztabellierung einer Variablen mit einer "
-"anderen. Diese Aufgaben können in jamovi erledigt werden, und ich zeige "
-"Ihnen in diesem Abschnitt, wie."
+"Häufigkeitstabellen einer Variablen oder von Kreuztabellen einer Variablen "
+"mit einer anderen. Diese Aufgaben können in jamovi einfach erledigt werden. "
+"In diesem Abschnitt, zeige ich Ihnen, wie Sie das machen können."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:11
 msgid "Creating tables for single variables"
-msgstr "Tabellen für einzelne Variablen erstellen"
+msgstr "Häufigkeitstabellen für einzelne Variablen erstellen"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:13
 msgid ""
@@ -163,21 +163,20 @@ msgid ""
 " like this:"
 msgstr ""
 "Lassen Sie uns mit einem einfachen Beispiel beginnen. Als Elternteil eines "
-"kleinen Kindes verbringe ich natürlich viel Zeit damit, Fernsehsendungen wie "
-"*In the Night Garden* zu sehen. In dem Datensatz |nightgarden| habe ich "
-"einen kurzen Abschnitt des Dialogs transkribiert. Die Datei enthält zwei "
-"Variablen, die von von Interesse sind: ``Sprecher`` und ``Ausspruch``. "
-"Öffnen Sie diesen Datensatz in jamovi und werfen Sie einen Blick auf die "
-"Daten in der Ansicht ``Daten``. Sie werden sehen, dass die Daten etwa so "
-"aussehen:"
+"kleinen Kindes verbringe ich viel Zeit damit, Fernsehsendungen wie *In the "
+"Night Garden* zu sehen. In dem Datensatz |nightgarden|_ habe ich einen "
+"kurzen Abschnitt des Dialogs transkribiert. Die Datei enthält zwei "
+"Variablen, die von Interesse sind: ``speaker`` und ``utterance``. Öffnen Sie "
+"diesen Datensatz in jamovi und werfen Sie einen Blick auf die Daten (drücken "
+"Sie auf den Tab ``Data``). Sie werden sehen, dass die Daten etwa so aussehen:"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:20
 msgid "``speaker`` variable"
-msgstr "Variable ``Sprecher``"
+msgstr "Variable ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:26
 msgid "``utterance`` variable"
-msgstr "Variabe ``Äußerung``"
+msgstr "Variable ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:33
 msgid ""
@@ -190,14 +189,13 @@ msgstr ""
 "Wenn ich mir das ansehe, wird mir klar, was mit meinem Verstand passiert "
 "ist! Eine Aufgabe, die ich mit diesen Daten zu erledigen habe, könnte zum "
 "Beispiel sein, eine Liste mit der Anzahl der Wörter, die jeder Charakter "
-"während der Serie spricht, zu erstellen. Der jamovi-Bildschirm "
-"``Deskriptivstatistik`` hat ein Kontrollkästchen namens "
-"``Häufigkeitstabellen``, was folgendes tut, wenn man es anklickt. Siehe "
-":numref:`fig-freqtable`."
+"während der Serie spricht, zu erstellen. Das jamovi-Eingabefeld "
+"``Descriptives`` hat ein Kontrollkästchen namens ``Frequency tables``, was "
+"Folgendes tut, wenn man es anklickt (siehe :numref:`fig-freqtable`):"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
-msgstr "Häufigkeitstabelle für die Variable ``Sprecher``"
+msgstr "Häufigkeitstabelle für die Variable ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:49
 msgid ""
