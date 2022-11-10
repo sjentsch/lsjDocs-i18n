@@ -22,29 +22,21 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-10 14:16+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-10 14:31+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch05/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
@@ -204,6 +196,36 @@ msgid ""
 "or kurtosis? Our first impressions of these characteristics come from "
 "drawing a **histogram**."
 msgstr ""
+"Beginnen wir mit dem **Histogramm**. Histogramme sind eine der einfachsten "
+"und nützlichsten Methoden zur Visualisierung von Daten. Sie sind am "
+"sinnvollsten, wenn Sie eine Variable mit Intervall- oder Verhältnisskala "
+"haben (z. B. die Variable ``afl.margins`` aus dem Datensatz "
+"|aflsmall_finalists|_, den wir in :doc:`Deskriptive Statistik <../Ch04/"
+"Ch04_Deskriptive>` verwendet haben) und Sie einen Gesamteindruck der "
+"Variable erhalten möchten. Die meisten von Ihnen wissen wahrscheinlich, wie "
+"Histogramme funktionieren, da sie so häufig verwendet werden, aber der "
+"Vollständigkeit halber werde ich sie beschreiben. Sie müssen lediglich die "
+"möglichen Werte in **Bins** aufteilen und dann die Anzahl der Beobachtungen "
+"zählen, die in jedes Bin fallen. Diese Anzahl wird als Häufigkeit oder "
+"Dichte des Bereichs bezeichnet und als vertikaler Balken angezeigt. Die "
+"Variable ``afl.margins`` enthält 33 Spiele, in denen der Gewinnvorsprung "
+"weniger als 10 Punkte betrug, und diese Tatsache wird durch die Höhe des "
+"ganz linken Balkens dargestellt, den wir zuvor in :doc:`Deskriptive "
+"Statistik <../Ch04/Ch04_Descriptives>` und :numref:`fig-aflMargins` gezeigt "
+"haben. Für diese früheren Diagramme haben wir ein fortgeschrittenes Plot-"
+"Paket in R verwendet, das im Moment die Möglichkeiten von jamovi übersteigt. "
+"Aber mit jamovi kommen wir dem nahe, und das Zeichnen dieses Histogramms in "
+"jamovi ist ziemlich einfach. Öffnen Sie die Optionen ``Plots`` unter "
+"``Exploration`` → ``Descriptives`` und klicken Sie auf das Kontrollkästchen "
+"``Histogram``, wie in :numref:`fig-jamovi_histogram` gezeigt. jamovi "
+"beschriftet die y-Achse standardmäßig mit „Dichte“ und die x-Achse mit dem "
+"Namen der Variablen. Die **bins** werden automatisch ausgewählt, und die y-"
+"Achse enthält im Gegensatz zu :numref:`fig-aflMargins` keine Skalen- oder "
+"Zählinformationen. Aber das ist nicht so wichtig, denn was uns wirklich "
+"interessiert, ist unser Eindruck von der Form der Verteilung: Ist sie "
+"normalverteilt oder gibt es eine Schiefe oder Kurtosis? Unsere ersten "
+"Eindrücke von diesen Merkmalen erhalten wir, wenn wir ein **Histogramm** "
+"zeichnen."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "Histogram check box in jamovi"
@@ -250,11 +272,11 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
 msgid "Density plot for the ``afl.margins`` variable"
-msgstr ""
+msgstr "Dichtediagramm für die Variable ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:63
 msgid "Density plot for the ``afl.margins`` variable plotted in jamovi"
-msgstr ""
+msgstr "Dichtediagramm für die Variable ``afl.margins``, erstellt in jamovi"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:67
 msgid ""
@@ -313,7 +335,7 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
 msgid "Box plot of the ``afl.margins`` variable"
-msgstr ""
+msgstr "Boxplot für die Variable ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:22
 msgid ""
@@ -343,6 +365,25 @@ msgid ""
 "in the spreadsheet there are two observations with values higher than this, "
 "108 and 116, so these are the dots)."
 msgstr ""
+"Der einfachste Weg zu beschreiben, wie ein Boxplot aussieht, ist, einen zu "
+"zeichnen. Klicken Sie auf das Kontrollkästchen ``Box plot`` und Sie erhalten "
+"das Diagramm, das unten rechts in :numref:`fig-boxplot1` gezeigt wird. "
+"jamovi hat das einfachste Boxplot gezeichnet, das möglich ist. Wenn Sie "
+"dieses Diagramm betrachten, sollten Sie es folgendermaßen interpretieren: "
+"Die dicke Linie in der Mitte der Box ist der Median; die Box selbst umfasst "
+"den Bereich vom 25. Perzentil bis zum 75. Perzentil; und die „Whiskers“ "
+"reichen bis zum extremsten Datenpunkt, der eine bestimmte Grenze nicht "
+"überschreitet. Standardmäßig ist dieser Wert das 1,5-fache des "
+"Interquartilsabstand (IQR), berechnet als *25. Perzentil - (1,5 \\* IQR)* "
+"für die untere Grenze und *75. Perzentil \\+ (1,5 \\* IQR)* für die obere "
+"Grenze. Jede Beobachtung, deren Wert außerhalb dieses Bereichs liegt, wird "
+"als Kreis oder Punkt dargestellt, anstatt von den Whiskern abgedeckt zu "
+"werden, und wird gemeinhin als **Ausreißer** bezeichnet. Für die Variable "
+"``afl.margins`` gibt es zwei Beobachtungen, die außerhalb dieses Bereichs "
+"liegen, und diese Beobachtungen werden als Punkte dargestellt (die obere "
+"Grenze liegt bei 107, und wenn man sich die Datenspalte in der "
+"Kalkulationstabelle ansieht, gibt es zwei Beobachtungen mit höheren Werten "
+"als diesem, 108 und 116, also sind dies die Punkte)."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:45
 msgid "Violin plots"
@@ -375,7 +416,7 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
 msgid "Violin plot of the ``afl.margins`` variable"
-msgstr ""
+msgstr "Violinplot für die Variable ``afl.margins``"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:64
 msgid ""
@@ -446,6 +487,7 @@ msgid ""
 "Multiple box plots: ``margin`` split by ``year`` from\n"
 "|aflmarginbyyear|"
 msgstr ""
+"Mehrere Boxplots: ``margin`` geteilt durch ``year`` aus |aflmarginbyyear|"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:107
 msgid ""
@@ -468,15 +510,24 @@ msgid ""
 "Suppose that I’d drawn the box plot for the ``afl.margins`` variable and it "
 "came up looking like :numref:`fig-boxplot4`."
 msgstr ""
+"Da der Boxplot automatisch diejenigen Beobachtungen hervorhebt, die "
+"außerhalb eines bestimmten Bereichs liegen, und sie mit einem Punkt in "
+"jamovi darstellt, werden sie oft als informelle Methode zur Erkennung von "
+"**Ausreißern** verwendet: Beobachtungen, die „verdächtig“ weit vom Rest der "
+"Daten entfernt sind. Hier ist ein Beispiel. Angenommen, ich hätte einen "
+"Boxplot für die Variable ``afl.margins`` gezeichnet und er sähe aus wie "
+":numref:`fig-boxplot4`."
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
 msgid "Box plot of the ``afl.margins`` variable with outliers"
-msgstr ""
+msgstr "Boxplot für die Variable ``afl.margins`` mit Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:128
 msgid ""
 "Box plot of the ``afl.margins`` variable showing two very suspicious outliers"
 msgstr ""
+"Boxplot für die Variable ``afl.margins`` mit zwei sehr verdächtigen "
+"Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:133
 msgid ""
