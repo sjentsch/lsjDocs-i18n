@@ -4,21 +4,8 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -27,45 +14,30 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 11:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 12:28+0200\n"
+"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 10:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1995,7 +1967,7 @@ msgid "Lower 95% CI = 99.68 - (1.96 \\* 0.15) = 99.39"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:191
-msgid "Upper 95% CI = 99.68 + (1.96 \\* 0.) = 99.98"
+msgid "Upper 95% CI = 99.68 + (1.96 \\* 0.15) = 99.98"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:193
@@ -2073,4 +2045,3 @@ msgid ""
 "There is a lot of statistical theory you can draw on to handle this "
 "situation, but it’s well beyond the scope of this book."
 msgstr ""
-

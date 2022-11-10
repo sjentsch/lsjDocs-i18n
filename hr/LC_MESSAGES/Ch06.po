@@ -7,19 +7,12 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 11:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -118,11 +111,11 @@ msgstr ""
 msgid ""
 "Let’s start with a simple example. As a parent of a small child I "
 "naturally spend a lot of time watching TV shows like *In the Night "
-"Garden*. In the |nightgarden| data set, I’ve transcribed a short section "
-"of the dialogue. The file contains two variables of interest, ``speaker``"
-" and ``utterance``. Open up this data set in jamovi and take a look at "
-"the data in the ``Data`` view. You will see that the data looks something"
-" like this:"
+"Garden*. In the |nightgarden|_ data set, I’ve transcribed a short section"
+" of the dialogue. The file contains two variables of interest, "
+"``speaker`` and ``utterance``. Open up this data set in jamovi and take a"
+" look at the data in the ``Data`` view. You will see that the data looks "
+"something like this:"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:20
@@ -164,17 +157,17 @@ msgid ""
 "contingency table. In jamovi you can do this by selecting the "
 "``Frequencies`` → ``Contingency Tables`` → ``Independent Samples`` "
 "analysis, and moving the ``speaker`` variable into the ``Rows`` box, and "
-"the ``utterances`` variable into the ``Columns`` box. You then should "
-"have a contingency table like the one shown in :numref:`fig-"
+"the ``utterance`` variable into the ``Columns`` box. You then should have"
+" a contingency table like the one shown in :numref:`fig-"
 "contingencytable`."
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
-msgid "Contingency table for ``speaker`` and ``utterances``"
+msgid "Contingency table for ``speaker`` and ``utterance``"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
-msgid "Contingency table for the ``speaker`` and ``utterances`` variables"
+msgid "Contingency table for the ``speaker`` and ``utterance`` variables"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
@@ -204,12 +197,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
-msgid "Contingency table with row percentages for ``speaker`` and ``utterances``"
+msgid "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid ""
-"Contingency table for the ``speaker`` and ``utterances`` variables, with "
+"Contingency table for the ``speaker`` and ``utterance`` variables, with "
 "row percentages"
 msgstr ""
 
@@ -230,12 +223,12 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling_1.rst:120
 msgid ""
 "Contingency table with column percentages for ``speaker`` and "
-"``utterances``"
+"``utterance``"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:120
 msgid ""
-"Contingency table for the ``speaker`` and ``utterances`` variables, with "
+"Contingency table for the ``speaker`` and ``utterance`` variables, with "
 "column percentages"
 msgstr ""
 
@@ -748,7 +741,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:82
-msgid "fx button to select functions and variables"
+msgid "*f*\\ :sub:`x` button to select functions and variables"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:82
@@ -816,12 +809,12 @@ msgid ""
 "a quite coarse-grained classification, and the labels that I’ve attached "
 "only make sense in the context of this data set (e.g., viewed more "
 "generally, a 42 year old wouldn’t consider themselves as “older”). We can"
-" slice this variable up quite easily using the jamovi ``IF’ function that"
-" we have already used. This time we have to specify nested ‘IF`` "
-"statements, meaning simply that IF the first logical expression is TRUE, "
-"insert a first value, but IF a second logical expression is TRUE, insert "
-"a second value, but IF a third logical expression is TRUE, then insert a "
-"third value. This can be written as:"
+" slice this variable up quite easily using the jamovi ``IF`` function "
+"that we have already used. This time we have to specify nested ``IF`` "
+"statements, meaning simply that ``IF`` the first logical expression is "
+"``TRUE``, insert a first value, but ``IF`` a second logical expression is"
+" ``TRUE``, insert a second value, but ``IF`` a third logical expression "
+"is ``TRUE``, then insert a third value. This can be written as:"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:149
@@ -987,7 +980,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:4
-msgid "A few more mathematical functions and operations"
+msgid "Mathematical functions and operations"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:6
@@ -1309,7 +1302,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:42
 msgid ""
-"Creating a subset of the |nightgarden| data set using the jamovi "
+"Creating a subset of the |nightgarden|_ data set using the jamovi "
 "``Filters`` option"
 msgstr ""
 
@@ -1321,4 +1314,3 @@ msgid ""
 "``oo``. In this case in the ``Filter 1`` text box, next to the ``=`` "
 "sign, you would type the following:"
 msgstr ""
-

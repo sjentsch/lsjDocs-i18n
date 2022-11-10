@@ -1,3 +1,4 @@
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
@@ -9,45 +10,24 @@ msgstr ""
 "#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 11:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
+"#-#-#-#-#  Ch10.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 10:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 23:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
 msgid "Categorical data analysis"
@@ -296,6 +276,7 @@ msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:106
+#, python-format
 msgid ""
 "Now, because this is statistics, we have to be able to say the same thing in "
 "a mathematical way. To do this, let’s use the notation *P*\\ :sub:`j`\\ to "
@@ -657,6 +638,7 @@ msgid "Testing the null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:363
+#, python-format
 msgid ""
 "The final step in the process of constructing our hypothesis test is to "
 "figure out what the rejection region is. That is, what values of χ² would "
@@ -1182,6 +1164,7 @@ msgid "Specifying a different null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:468
+#, python-format
 msgid ""
 "At this point you might be wondering what to do if you want to run a "
 "goodness-of-fit test but your null hypothesis is *not* that all categories "
@@ -1347,11 +1330,11 @@ msgstr ""
 msgid "A comment on statistical notation"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:0
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0 ../../Ch10/Ch10_ChiSquare_1.rst
 msgid "*Satan delights equally in statistics and in quoting scripture*"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:0
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0 ../../Ch10/Ch10_ChiSquare_1.rst
 msgid "– H.G. Wells"
 msgstr ""
 
@@ -2188,6 +2171,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:10
+#, python-format
 msgid ""
 "*Expected frequencies are sufficiently large*. Remember how in the previous "
 "section we saw that the χ² sampling distribution emerges because the "
@@ -2262,7 +2246,7 @@ msgid ""
 "\\ [#]_ Unfortunately for the scientist (but rather fortunately for the "
 "general populace), it’s actually quite hard to find people in the process of "
 "being set on fire, so the cell counts are awfully small in some cases. A "
-"contingency table of the |salem| data set illustrates the point:"
+"contingency table of the |salem|_ data set illustrates the point:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:29
@@ -2339,7 +2323,7 @@ msgstr ""
 msgid ""
 "You can specify this test in jamovi from a check box in the ‘Statistics’ "
 "options of the ‘Contingency Tables’ analysis. When you do this with the |"
-"salem| data set, the Fisher exact test statistic is shown in the results. "
+"salem|_ data set, the Fisher exact test statistic is shown in the results. "
 "The main thing we’re interested in here is the *p*-value, which in this case "
 "is small enough (*p* = 0.036) to justify rejecting the null hypothesis that "
 "people on fire are just as happy as people not on fire (see :numref:`fig-"

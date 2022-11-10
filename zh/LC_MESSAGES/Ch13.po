@@ -4,77 +4,30 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 13:44+0200\n"
+"POT-Creation-Date: 2022-11-10 11:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 12:05+0200\n"
+"#-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-10 10:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 21:20+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-04 22:54+0200\n"
-"PO-Revision-Date: 2022-03-02 17:24+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"lsjdocs/ch13/zh_Hans/>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
 msgid "Comparing several means (one-way ANOVA)"
@@ -883,7 +836,7 @@ msgstr ""
 msgid ""
 "The previous discussion was fairly abstract and a little on the technical "
 "side, so I think that at this point it might be useful to see a worked "
-"example. For that, let’s go back to the |clinicaltrial| data set that was "
+"example. For that, let’s go back to the |clinicaltrial|_ data set that was "
 "introduced earlier in the chapter. The descriptive statistics that we "
 "calculated at the beginning tell us our group means: An average mood gain of "
 "0.45 for the placebo, 0.72 for Anxifree, and 1.48 for Joyzepam. With that in "
@@ -1414,7 +1367,7 @@ msgid ""
 "We could as well do this with creating yet another computed variable, named "
 "``F`` using the formula ``(VSUM(sq_res_btw) / 2) / (VSUM(sq_res_wth) / 15)`` "
 "which gives us 18.611 as value. If you could not reprodcuce the calculation "
-"steps above, you can download and open the |clinicaltrial_anova| data set."
+"steps above, you can download and open the |clinicaltrial_anova|_ data set."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:654
