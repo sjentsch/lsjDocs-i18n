@@ -1586,6 +1586,12 @@ msgid ""
 "probability distribution, each of the probabilities must be a number between "
 "0 and 1, and the heights of the bars must sum to 1 as well."
 msgstr ""
+"Binomialverteilung mit einem Größenparameter von N = 20 und einer zugrunde "
+"liegenden Erfolgswahrscheinlichkeit von θ = 1/6. Jeder vertikale Balken "
+"stellt die Wahrscheinlichkeit eines bestimmten Ergebnisses dar (d. h. einen "
+"möglichen Wert von X). Da es sich um eine Wahrscheinlichkeitsverteilung "
+"handelt, muss jede der Wahrscheinlichkeiten eine Zahl zwischen 0 und 1 sein, "
+"und die Höhe aller Balken muss sich ebenfalls zu 1 summieren."
 
 #: ../../Ch07/Ch07_Probability_4.rst:100
 #, python-format
