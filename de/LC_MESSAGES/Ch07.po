@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-11 10:52+0000\n"
+"PO-Revision-Date: 2022-11-12 23:53+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/>"
 "\n"
@@ -1325,6 +1325,17 @@ msgid ""
 "assumptions that I’ve outlined above, but since we don’t actually use these "
 "rules for anything in this book I won’t do so here."
 msgstr ""
+"An dieser Stelle denken Sie vielleicht, dass dies alles furchtbar "
+"offensichtlich und einfach ist, und Sie hätten Recht. Alles, was wir bisher "
+"getan haben, ist, einige grundlegende mathematische Konzepte mit einigen "
+"Intuitionen auf der Basis gesunden Menschenverstands zu verbinden. Aus "
+"diesen einfachen Anfängen lassen sich jedoch einige äußerst leistungsfähige "
+"mathematische Werkzeuge konstruieren. Ich werde in diesem Buch sicher nicht "
+"ins Detail gehen, aber ich werde in :numref:`tab-probrules` einige der "
+"anderen Regeln auflisten, die Wahrscheinlichkeiten erfüllen. Diese Regeln "
+"lassen sich aus den einfachen Annahmen ableiten, die ich oben skizziert "
+"habe. Aber da wir diese Regeln in diesem Buch nicht wirklich für irgendetwas "
+"verwenden, werde ich das hier nicht tun."
 
 #: ../../Ch07/Ch07_Probability_3.rst:125
 msgid ""
@@ -1333,22 +1344,26 @@ msgid ""
 "later in the book, but they are important if you want to understand "
 "probability theory a bit more deeply."
 msgstr ""
+"Wahrscheinlichkeiten müssen einige grundlegende Regeln erfüllen. Sie müssen "
+"diese Regeln nicht unbedingt kennen, um die Analysen zu verstehen, über die "
+"wir später im Buch sprechen werden, aber sie sind wichtig, wenn Sie die "
+"Wahrscheinlichkeitstheorie etwas tiefer verstehen wollen."
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "English"
-msgstr ""
+msgstr "Englisch"
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "Notation"
-msgstr ""
+msgstr "Notation"
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "Formula"
-msgstr ""
+msgstr "Formel"
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "not *A*"
-msgstr ""
+msgstr "nicht *A*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "*P*\\ (¬ A)"
@@ -1365,7 +1380,7 @@ msgstr "1 - *P*\\ (A)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*A* or *B*"
-msgstr ""
+msgstr "*A* oder *B*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*P*\\ (A ∪ B)"
@@ -1377,7 +1392,7 @@ msgstr "*P*\\ (A) + *P*\\ (B) - *P*\\ (A ∩ B)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*A* and *B*"
-msgstr ""
+msgstr "*A* und *B*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*P*\\ (A ∩ B)"
@@ -1389,7 +1404,7 @@ msgstr "*P*\\ (A|B) *P*\\ (B)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:4
 msgid "The binomial distribution"
-msgstr ""
+msgstr "Die Binomialverteilung"
 
 #: ../../Ch07/Ch07_Probability_4.rst:6
 msgid ""
@@ -1403,10 +1418,20 @@ msgid ""
 "to the binomial and the normal. I’ll start with the binomial distribution "
 "since it’s the simplest of the five."
 msgstr ""
+"Wie Sie sich vielleicht vorstellen können, sind "
+"Wahrscheinlichkeitsverteilungen sehr unterschiedlich, und es gibt eine "
+"enorme Bandbreite an Verteilungen. Sie sind jedoch nicht alle gleich "
+"wichtig. Der größte Teil des Inhalts dieses Buches bezieht sich auf eine von "
+"fünf Verteilungen: die Binomialverteilung, die Normalverteilung, die *t*-"
+"Verteilung, die *χ²*-Verteilung (Chi-Quadrat) und die *F*-Verteilung. Aus "
+"diesem Grund werde ich in den nächsten Abschnitten eine kurze Einführung in "
+"alle fünf Verteilungen geben. Dabei werde ich besonders auf die Binomial- "
+"und die Normalverteilung eingehen. Ich beginne mit der Binomialverteilung, "
+"da sie die einfachste der fünf ist."
 
 #: ../../Ch07/Ch07_Probability_4.rst:17
 msgid "Introducing the binomial"
-msgstr ""
+msgstr "Einführung des Binomialsystems"
 
 #: ../../Ch07/Ch07_Probability_4.rst:19
 msgid ""
@@ -1422,6 +1447,19 @@ msgid ""
 "single die is approximately 0.167. This is enough information to answer our "
 "question, so let’s have a look at how it’s done."
 msgstr ""
+"Die Wahrscheinlichkeitstheorie hat ihren Ursprung in dem Versuch, die "
+"Funktionsweise von Glücksspielen zu beschreiben. Daher erscheint es passend, "
+"dass unsere Diskussion über die **Binomialverteilung** eine Diskussion über "
+"das Würfeln und das Werfen von Münzen einschließt. Stellen wir uns ein "
+"einfaches „Experiment“ vor. In meiner kleinen Hand halte ich 20 identische "
+"sechsseitige Würfel. Auf einer Seite eines jeden Würfels ist ein Totenkopf "
+"abgebildet, die anderen fünf Seiten sind leer. Wenn ich nun alle 20 Würfel "
+"werfe, wie hoch ist die Wahrscheinlichkeit, dass ich genau 4 Totenköpfe "
+"erhalte? Unter der Annahme, dass die Würfel „normal“ sind, wissen wir, dass "
+"die Wahrscheinlichkeit, dass ein Würfel einen Schädel zeigt, 1 zu 6 ist. "
+"Anders ausgedrückt: Die Wahrscheinlichkeit, dass ein einzelner Würfel einen "
+"Schädel ergibt, liegt bei 0,167. Das sind genug Informationen, um unsere "
+"Frage zu beantworten, also schauen wir uns an, wie das geht."
 
 #: ../../Ch07/Ch07_Probability_4.rst:32
 msgid ""
@@ -1435,6 +1473,15 @@ msgid ""
 "<../Ch06/Ch06_DataHandling>`. If these equations don’t make a lot of sense "
 "to you, don’t worry too much about them."
 msgstr ""
+"Formeln für die Binomial- und Normalverteilung. Wir verwenden diese Formeln "
+"in diesem Buch eigentlich für nichts, aber sie sind ziemlich wichtig für "
+"fortgeschrittene Arbeiten, daher dachte ich, es wäre am besten, sie hier in "
+"einer Tabelle aufzuführen. In der Gleichung für die Binomialverteilung ist "
+"*X!* die Fakultät (d.h. alle ganzen Zahlen von 1 bis *X* multiplizieren), "
+"und für die Normalverteilung bezieht sich „exp“ auf die Exponentialfunktion, "
+"die wir in Kapitel :doc:`Pragmatische Fragen <../Ch06/Ch06_DataHandling>` "
+"besprochen haben. Wenn diese Gleichungen für Sie nicht viel Sinn ergeben, "
+"machen Sie sich nicht allzu viele Gedanken darüber."
 
 #: ../../Ch07/Ch07_Probability_4.rst:44
 msgid "Binomial"
@@ -1468,6 +1515,21 @@ msgid ""
 "that *θ* = 0.167 and *N* = 20. The general “form” of the thing I’m "
 "interested in calculating could be written as"
 msgstr ""
+"Wie üblich werden wir einige Namen und eine Notation einführen. Mit *N* "
+"bezeichnen wir die Anzahl der Würfelwürfe in unserem Experiment, was oft als "
+"**Größenparameter** unserer Binomialverteilung bezeichnet wird. Wir werden "
+"auch *θ* verwenden, um uns auf die Wahrscheinlichkeit zu beziehen, dass ein "
+"bestimmer Wurf einen Totenkopf ergibt, eine Größe, die gewöhnlich als "
+"**Erfolgswahrscheinlichkeit** der Binomialverteilung bezeichnet wird.\\ [#]_ "
+"Schließlich werden wir *X* verwenden, um uns auf die Ergebnisse unseres "
+"Experiments zu beziehen, nämlich die Anzahl der Totenköpfe, die ich erhalte, "
+"wenn ich würfele. Da der tatsächliche Wert von *X* auf den Zufall "
+"zurückzuführen ist, bezeichnen wir ihn als **Zufallsvariable**. Da wir nun "
+"alle diese Begriffe und Bezeichnungen kennen, können wir sie verwenden, um "
+"das Problem ein wenig genauer zu formulieren. Die Größe, die wir berechnen "
+"wollen, ist die Wahrscheinlichkeit, dass *X* = 4 ist, wenn wir wissen, dass "
+"*θ* = 0,167 und *N* = 20 ist. Die allgemeine „Form“ der Sache, die ich "
+"berechnen möchte, könnte wie folgt geschrieben werden"
 
 #: ../../Ch07/Ch07_Probability_4.rst:65
 msgid "*P*\\ (X | θ, N)"
@@ -1481,6 +1543,11 @@ msgid ""
 "is generated randomly from a binomial distribution with parameters *θ* and "
 "*N*, the notation I would use is as follows:"
 msgstr ""
+"und wir interessieren uns für den speziellen Fall, dass *X* = 4, *θ* = 0,167 "
+"und *N* = 20 ist. Es gibt nur noch eine weitere Notation, auf die ich "
+"hinweisen möchte, bevor ich zur Lösung des Problems übergehe. Wenn ich sagen "
+"möchte, dass *X* zufällig aus einer Binomialverteilung mit den Parametern *θ*"
+" und *N* generiert wird, würde ich die folgende Notation verwenden:"
 
 #: ../../Ch07/Ch07_Probability_4.rst:74
 msgid "*X* ~ Binomial(θ, N)"
@@ -1497,10 +1564,19 @@ msgid ""
 "we don’t need the formula in this book, I won’t talk about it in any detail. "
 "Instead, I just want to show you what the binomial distribution looks like."
 msgstr ""
+"Ja, ja, ja. Ich weiß, was Sie denken: Notation, Notation, Notation. "
+"Wirklich, wen interessiert das? Die wenigsten Leser dieses Buches sind wegen "
+"der Notation hier, also sollte ich wahrscheinlich weitermachen und darüber "
+"sprechen, wie man die Binomialverteilung verwendet. Ich habe die Formel für "
+"die Binomialverteilung in :numref:`tab-distformulas` aufgenommen, da einige "
+"Leser vielleicht selbst damit spielen wollen, aber da die meisten Leute sich "
+"wahrscheinlich nicht so sehr dafür interessieren und wir die Formel in "
+"diesem Buch nicht brauchen, werde ich nicht im Detail darauf eingehen. "
+"Stattdessen möchte ich Ihnen nur zeigen, wie die Binomialverteilung aussieht."
 
 #: ../../Ch07/Ch07_Probability_4.rst:92
 msgid "Binomial distribution for N = 20 and θ = 1/6"
-msgstr ""
+msgstr "Binomialverteilung für N = 20 und θ = 1/6"
 
 #: ../../Ch07/Ch07_Probability_4.rst:92
 msgid ""
