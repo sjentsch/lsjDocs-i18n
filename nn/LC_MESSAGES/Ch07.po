@@ -1,3 +1,4 @@
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -6,12 +7,19 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-13 01:52+0100\n"
+"POT-Creation-Date: 2022-11-13 14:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1293,17 +1301,15 @@ msgid ""
 "The area under the curve tells you the probability that an observation "
 "falls within a particular range. The solid lines plot normal "
 "distributions with mean μ = 0 and standard deviation σ = 1. The shaded "
-"areas illustrate “areas under the curve” for two important cases. In "
-"panel a, we can see that there is a 68.3% chance that an observation will"
-" fall within one standard deviation of the mean. In panel b, we see that "
-"there is a 95.4% chance that an observation will fall within two standard"
-" deviations of the mean."
+"areas illustrate “areas under the curve” for two important cases. In the "
+"left panel, we can see that there is a 68.3% chance that an observation "
+"will fall within one standard deviation of the mean. In the right panel, "
+"we see that there is a 95.4% chance that an observation will fall within "
+"two standard deviations of the mean."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
-msgid ""
-"Normal distribution: area under the curve for 1 SD bordering the mean\n"
-"and below 1 SD to the tails of the distribution"
+msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
@@ -1341,7 +1347,7 @@ msgid ""
 "Throughout my discussion of the normal distribution there’s been one or "
 "two things that don’t quite make sense. Perhaps you noticed that the "
 "*y*-axis in these figures is labelled “Probability Density” rather than "
-"density. Maybe you noticed that I used *p*\\ (X) instead of *P*\\ (X) "
+"“Density”. Maybe you noticed that I used *p*\\ (X) instead of *P*\\ (X) "
 "when giving the formula for the normal distribution."
 msgstr ""
 
@@ -1488,7 +1494,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
-msgid "χ²-distribution with with df = 3"
+msgid "χ²-distribution with df = 3"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
@@ -1616,7 +1622,3 @@ msgid ""
 "*t*-test it really helps to have a sense of what a *t*-distribution "
 "actually looks like. You get the idea, I hope."
 msgstr ""
-
-#~ msgid "Binomial distribution: θ = 1/2 and N = 20 (left) or N = 1000 (right)"
-#~ msgstr ""
-
