@@ -46,6 +46,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -58,6 +65,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1262,12 +1280,12 @@ msgid ""
 "don’t have an opinion on that topic. But I *do* have an opinion about "
 "whether or not ESP exists, and I *definitely* have an opinion about whether "
 "my research should be published in a reputable scientific journal. And "
-"amazingly, now that I’ve looked at the data I’m starting to think that a "
-"9% error rate isn’t so bad, especially when compared to how annoying it "
-"would be to have to admit to the world that my experiment has failed. So, to "
-"avoid looking like I just made it up after the fact, I now say that my *α* "
-"is 0.1, with the argument that a 10% type I error rate isn’t too bad and at "
-"that level my test is significant! I win."
+"amazingly, now that I’ve looked at the data I’m starting to think that a 9% "
+"error rate isn’t so bad, especially when compared to how annoying it would "
+"be to have to admit to the world that my experiment has failed. So, to avoid "
+"looking like I just made it up after the fact, I now say that my *α* is 0.1, "
+"with the argument that a 10% type I error rate isn’t too bad and at that "
+"level my test is significant! I win."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:66

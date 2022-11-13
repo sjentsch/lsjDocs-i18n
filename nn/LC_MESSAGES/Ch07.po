@@ -4,6 +4,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -24,6 +31,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1286,9 +1304,9 @@ msgid ""
 "mean μ = 0 and standard deviation σ = 1. The shaded areas illustrate “areas "
 "under the curve” for two important cases. In the left panel, we can see that "
 "there is a 68.3% chance that an observation will fall within one standard "
-"deviation of the mean. In the right panel, we see that there is a "
-"95.4% chance that an observation will fall within two standard deviations of "
-"the mean."
+"deviation of the mean. In the right panel, we see that there is a 95.4% "
+"chance that an observation will fall within two standard deviations of the "
+"mean."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
@@ -1297,8 +1315,8 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
 msgid ""
-"Two more examples of the “area under the curve” idea. There is a "
-"15.9% chance that an observation is one standard deviation below the mean or "
+"Two more examples of the “area under the curve” idea. There is a 15.9% "
+"chance that an observation is one standard deviation below the mean or "
 "smaller (left panel), and a 34.1% chance that the observation is somewhere "
 "between one standard deviation below the mean and the mean (right panel). "
 "Notice that if you add these two numbers together you get 15.9% + 34.1% = "

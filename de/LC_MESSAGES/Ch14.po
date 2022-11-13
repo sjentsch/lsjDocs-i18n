@@ -4,7 +4,7 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
@@ -53,16 +53,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: 2022-11-13 19:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/>"
-"\n"
-"Language: de\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1948,8 +1966,8 @@ msgid ""
 msgstr ""
 "Tabelle mit den geschätzten Randmittelwerten innerhalb der ANCOVA: "
 "Abgebildet ist das mittlere Glücksniveau in Abhängigkeit von Stress und "
-"Pendelmethode (kontrolliert für die Kovariate Alter) mit "
-"95%-Konfidenzintervallen"
+"Pendelmethode (kontrolliert für die Kovariate Alter) mit 95%-"
+"Konfidenzintervallen"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:103
 msgid ""
@@ -2507,10 +2525,10 @@ msgstr ""
 "was darauf hindeutet, dass die Schüler, die am Unterricht teilgenommen "
 "haben, 18% mehr Punkte erzielt haben als die, welche nicht teilgenommen "
 "haben. Unsere Erwartung wäre also, dass die Schüler, die zum Unterricht "
-"erschienen sind, aber das Lehrbuch nicht gelesen haben, eine Note von *b*\\ "
-":sub:`0` + *b*\\ :sub:`1` erhalten würden, was 43,5 + 18,0 = 61,5 "
-"entspricht. Sie können selbst überprüfen, dass dasselbe passiert, wenn wir "
-"uns die Schüler ansehen, die das Lehrbuch gelesen haben."
+"erschienen sind, aber das Lehrbuch nicht gelesen haben, eine Note von *b*\\ :"
+"sub:`0` + *b*\\ :sub:`1` erhalten würden, was 43,5 + 18,0 = 61,5 entspricht. "
+"Sie können selbst überprüfen, dass dasselbe passiert, wenn wir uns die "
+"Schüler ansehen, die das Lehrbuch gelesen haben."
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:279
 msgid ""
@@ -3190,8 +3208,8 @@ msgstr ""
 "Unterschied zwischen Anxifree und Placebo, und der erste Teil der Ausgabe "
 "zeigt an, dass der beobachtete Unterschied zwischen den Gruppenmitteln 0,27 "
 "beträgt. Die nächste Zahl ist der Standardfehler für den Unterschied, aus "
-"dem wir das 95%-Konfidenzintervall berechnen könnten, wenn wir wollten ("
-"jamovi bietet diese Option derzeit nicht an). Dann gibt es eine Spalte mit "
+"dem wir das 95%-Konfidenzintervall berechnen könnten, wenn wir wollten "
+"(jamovi bietet diese Option derzeit nicht an). Dann gibt es eine Spalte mit "
 "den Freiheitsgraden, eine Spalte mit dem *t*-Wert und schließlich eine "
 "Spalte mit dem *p*-Wert. Für den ersten Vergleich beträgt der bereinigte *p*-"
 "Wert 0,21. Im Gegensatz dazu sehen wir in der nächsten Zeile, dass der "

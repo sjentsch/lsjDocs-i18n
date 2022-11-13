@@ -4,6 +4,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi)  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -53,16 +60,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
 "PO-Revision-Date: 2022-11-13 19:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/>"
-"\n"
-"Language: de\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -402,13 +420,13 @@ msgstr ""
 "Schreibweise *P*\\ :sub:`j`\\ für die wahre Wahrscheinlichkeit, dass die *j*-"
 "te Farbe gewählt wird. Wenn die Nullhypothese wahr ist, dann hat jede der "
 "vier Farben eine Wahrscheinlichkeit von 25 %, ausgewählt zu werden. Mit "
-"anderen Worten: Unsere Nullhypothese besagt, dass *P*\\ :sub:`1` = 0,25, *P*"
-"\\ :sub:`2` = 0,25, *P*\\ :sub:`3` = 0,25 und schließlich, dass *P*\\ "
-":sub:`4` = 0,25. So wie wir unsere beobachteten Häufigkeiten in einem Vektor "
+"anderen Worten: Unsere Nullhypothese besagt, dass *P*\\ :sub:`1` = 0,25, "
+"*P*\\ :sub:`2` = 0,25, *P*\\ :sub:`3` = 0,25 und schließlich, dass *P*\\ :"
+"sub:`4` = 0,25. So wie wir unsere beobachteten Häufigkeiten in einem Vektor "
 "*O* gruppieren können, der den gesamten Datensatz zusammenfasst, können wir "
 "*P* verwenden, um uns auf die Wahrscheinlichkeiten zu beziehen, die unserer "
-"Nullhypothese entsprechen. Wenn ich also den mit dem Vektor P = (*P*\\ "
-":sub:`1`\\, *P*\\ :sub:`2`\\, *P*\\ :sub:`3`\\, *P*\\ :sub:`4`\\) die "
+"Nullhypothese entsprechen. Wenn ich also den mit dem Vektor P = (*P*\\ :sub:"
+"`1`\\, *P*\\ :sub:`2`\\, *P*\\ :sub:`3`\\, *P*\\ :sub:`4`\\) die "
 "Wahrscheinlichkeiten für unsere Nullhypothese beschreibe, dann erhalten wir:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:119 ../../Ch10/Ch10_ChiSquare_1.rst:142
@@ -784,13 +802,13 @@ msgstr ""
 "vernünftige Strategie, zu sagen, dass es einen kritischen Wert gibt, wobei "
 "wir die Nullhypothese verwerfen, wenn χ² größer als der kritische Wert ist. "
 "Ist χ² kleiner als dieser Wert, beibehalten wir die Nullhypothese. Mit "
-"anderen Worten, um die Sprache zu verwenden, die wir in Kapitel :doc:`"
-"Hypothesentests <../Ch09/Ch09_HypothesisTesting>` eingeführt haben, ist der "
-"χ²-Anpassungstest (χ²-*Goodness of Fit*-Test) immer ein **einseitiger Test**"
-". Wir müssen also nur noch herausfinden, wie hoch der kritische Wert ist. "
-"Und das ist ziemlich einfach. Wenn unser Test ein Signifikanzniveau von *α* "
-"= 0,05 haben soll (d. h. wir sind bereit, eine Typ-I-Fehlerrate von 5 % zu "
-"tolerieren), dann müssen wir unseren kritischen Wert so wählen, dass die "
+"anderen Worten, um die Sprache zu verwenden, die wir in Kapitel :doc:"
+"`Hypothesentests <../Ch09/Ch09_HypothesisTesting>` eingeführt haben, ist der "
+"χ²-Anpassungstest (χ²-*Goodness of Fit*-Test) immer ein **einseitiger "
+"Test**. Wir müssen also nur noch herausfinden, wie hoch der kritische Wert "
+"ist. Und das ist ziemlich einfach. Wenn unser Test ein Signifikanzniveau von "
+"*α* = 0,05 haben soll (d. h. wir sind bereit, eine Typ-I-Fehlerrate von 5 % "
+"zu tolerieren), dann müssen wir unseren kritischen Wert so wählen, dass die "
 "Wahrscheinlichkeit dafür, dass die Nullhypothese wahr ist, wenn χ² so groß "
 "wird, nur 5 % beträgt. Dies wird in :numref:`fig-chiSqTest` veranschaulicht."
 
@@ -2357,8 +2375,8 @@ msgstr ""
 "ist, wenn mindestens 80% der erwarteten Häufigkeiten über 5 und keine unter "
 "1 liegen. Nach dem, was ich herausfinden konnte (`Cochran, 1954 <../Other/"
 "References.html#cochran-1954>`__\\ ), werden diese Werte als grobe "
-"Richtlinien vorgeschlagen, und sie scheinen eher konservativ zu sein (`"
-"Larntz, 1978 <../Other/References.html#larntz-1978>`__\\ )."
+"Richtlinien vorgeschlagen, und sie scheinen eher konservativ zu sein "
+"(`Larntz, 1978 <../Other/References.html#larntz-1978>`__\\ )."
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:26
 msgid ""

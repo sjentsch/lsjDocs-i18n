@@ -46,6 +46,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -67,6 +74,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1839,10 +1857,10 @@ msgid ""
 "factor or construct rather than multiple related constructs). Scales that "
 "are multidimensional will cause *α* to be under-estimated if not assessed "
 "separately for each dimension, but high values for *α* are not necessarily "
-"indicators of unidimensionality. So, an *α* of 0.80 does not mean that "
-"80% of a single underlying construct is accounted for. It could be that the "
-"80% comes from more than one underlying construct. That’s why EFA and CFA "
-"are useful to do first."
+"indicators of unidimensionality. So, an *α* of 0.80 does not mean that 80% "
+"of a single underlying construct is accounted for. It could be that the 80% "
+"comes from more than one underlying construct. That’s why EFA and CFA are "
+"useful to do first."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:45

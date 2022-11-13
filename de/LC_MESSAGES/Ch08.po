@@ -4,6 +4,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
@@ -12,16 +19,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 14:44+0100\n"
 "PO-Revision-Date: 2022-11-13 21:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
-"\n"
-"Language: de\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -249,7 +267,8 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:80
 msgid "All outcomes until Wellesley and Croker arrived at their destination?"
-msgstr "Alle Ergebnisse bis zur Ankunft von Wellesley und Croker an ihrem Ziel?"
+msgstr ""
+"Alle Ergebnisse bis zur Ankunft von Wellesley und Croker an ihrem Ziel?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:82
 msgid ""
@@ -413,10 +432,10 @@ msgstr ""
 "notieren das Ergebnis). Wir wiederholen diesen Vorgang, bis wir 4 Chips "
 "haben. Bei den auf diese Weise erzeugten Datensätzen handelt es sich immer "
 "noch um eine einfache Zufallsstichprobe, aber da wir die Chips sofort nach "
-"dem Ziehen wieder in die Tüte stecken, spricht man von einer Stichprobe **"
-"mit Zurücklegen**. Der Unterschied zwischen dieser Situation und der ersten "
-"ist, dass es möglich ist, dasselbe Mitglied der Population mehrfach zu "
-"beobachten, wie in numref:`fig-srs2` dargestellt."
+"dem Ziehen wieder in die Tüte stecken, spricht man von einer Stichprobe "
+"**mit Zurücklegen**. Der Unterschied zwischen dieser Situation und der "
+"ersten ist, dass es möglich ist, dasselbe Mitglied der Population mehrfach "
+"zu beobachten, wie in numref:`fig-srs2` dargestellt."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
@@ -441,8 +460,8 @@ msgstr ""
 "zweimal an einem Experiment teilnehmen darf. Die meisten statistischen "
 "Theorien basieren jedoch auf der Annahme, dass die Daten aus einer einfachen "
 "Zufallsstichprobe *mit* Zurücklegen stammen. Im wirklichen Leben ist dies "
-"nur sehr selten der Fall. Wenn die interessierende Grundgesamtheit groß ist ("
-"z. B. mehr als 10 Einheiten umfasst!), ist der Unterschied zwischen "
+"nur sehr selten der Fall. Wenn die interessierende Grundgesamtheit groß ist "
+"(z. B. mehr als 10 Einheiten umfasst!), ist der Unterschied zwischen "
 "Stichproben mit und ohne Ersetzung relativ gering, und man muss sich daher "
 "darüber keine Gedanken machen. Der Unterschied zwischen einfachen "
 "Zufallsstichproben und verzerrten Stichproben sollte dagegen nicht "
@@ -1955,10 +1974,10 @@ msgstr "*µ* – 1.96 × SEM ≤ *X̄* ≤ *µ* + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
 msgid ""
-"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be "
-"95% confident that this is true. However, that’s not answering the question "
-"that we’re actually interested in. The equation above tells us what we "
-"should expect about the sample mean given that we know what the population "
+"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be 95% "
+"confident that this is true. However, that’s not answering the question that "
+"we’re actually interested in. The equation above tells us what we should "
+"expect about the sample mean given that we know what the population "
 "parameters are. What we *want* is to have this work the other way around. We "
 "want to know what we should believe about the population parameters, given "
 "that we have observed a particular sample. However, it’s not too difficult "
@@ -2067,9 +2086,9 @@ msgid ""
 "up the frequencies of different kinds of events. From that perspective, the "
 "nterpretation of a 95% confidence interval must have something to do with "
 "replication. Specifically, if we replicated the experiment over and over "
-"again and computed a 95% confidence interval for each replication, then "
-"95% of those *intervals* would contain the true mean. More generally, 95% of "
-"all confidence intervals constructed using this procedure should contain the "
+"again and computed a 95% confidence interval for each replication, then 95% "
+"of those *intervals* would contain the true mean. More generally, 95% of all "
+"confidence intervals constructed using this procedure should contain the "
 "true population mean. This idea is illustrated in :numref:`fig-confIntSmp`, "
 "which shows 50 confidence intervals constructed for a “measure 10 IQ scores” "
 "experiment (top panel) and another 50 confidence intervals for a “measure 25 "
