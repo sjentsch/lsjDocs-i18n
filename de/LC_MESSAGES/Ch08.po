@@ -12,28 +12,16 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 16:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 14:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2022-11-13 20:43+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -156,7 +144,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:32
 msgid "Defining a population"
-msgstr ""
+msgstr "Definieren einer Grundgesamtheit"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:34
 msgid ""
@@ -208,7 +196,7 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_1.rst:55
 msgid ""
 "All of the undergraduate psychology students at the University of Adelaide?"
-msgstr ""
+msgstr "Alle Psychologiestudenten an der University of Adelaide?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:58
 msgid "Undergraduate psychology students in general, anywhere in the world?"
@@ -261,7 +249,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:80
 msgid "All outcomes until Wellesley and Croker arrived at their destination?"
-msgstr ""
+msgstr "Alle Ergebnisse bis zur Ankunft von Wellesley und Croker an ihrem Ziel?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:82
 msgid ""
@@ -368,6 +356,8 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr ""
+"Einfache Zufallsstichprobenziehung aus einer endlichen Grundgesamtheit OHNE "
+"Zurücklegen"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:137
 msgid ""
@@ -383,10 +373,25 @@ msgid ""
 "reason statisticians really like it when a data set can be considered a "
 "simple random sample, because it makes the data analysis *much* easier."
 msgstr ""
+"Um sicherzugehen, dass Sie die Bedeutung der Auswahl einer Stichprobe "
+"verstehen, überlegen Sie sich, wie das Experiment alternativ hätte "
+"durchgeführt werden können. Nehmen wir an, mein 5-jähriger Sohn hätte die "
+"Tüte geöffnet und beschlossen, vier schwarze Chips herauszuziehen, ohne "
+"einen davon in die Tüte zurückzulegen. Dieses *voreingenommene* "
+"Stichprobenverfahren ist in :numref:`fig-brs` dargestellt. Betrachten wir "
+"nun den Beweiswert, wenn wir 4 schwarze Chips und 0 weiße Chips sehen. Er "
+"hängt eindeutig vom Stichprobenplan ab, nicht wahr? Wenn Sie wissen, dass "
+"die Stichprobenauswahl so voreingenommen ist, dass nur schwarze Chips "
+"ausgewählt werden, dann sagt eine Stichprobe, die nur aus schwarzen Chips "
+"besteht, nicht viel über die Grundgesamtheit aus! Aus diesem Grund mögen es "
+"Statistiker sehr, wenn ein Datensatz als einfache Zufallsstichprobe "
+"betrachtet werden kann, denn das macht die Datenanalyse *viel* einfacher."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
+"Verzerrte (*biased*) Stichprobenziehung aus einer endlichen Grundgesamtheit "
+"OHNE Zurücklegen"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:159
 msgid ""
@@ -401,10 +406,23 @@ msgid ""
 "to observe the same population member multiple times, as illustrated in "
 "numref:`fig-srs2`."
 msgstr ""
+"Ein drittes Verfahren ist erwähnenswert. Diesmal schließen wir die Augen, "
+"schütteln den Beutel und ziehen einen Chip heraus. Danach notieren wir die "
+"Beobachtung und stecken den Chip wieder in die Tüte. Wir verschließen erneut "
+"die Augen, schütteln die Tüte und ziehen einen weiteren Chip heraus (und "
+"notieren das Ergebnis). Wir wiederholen diesen Vorgang, bis wir 4 Chips "
+"haben. Bei den auf diese Weise erzeugten Datensätzen handelt es sich immer "
+"noch um eine einfache Zufallsstichprobe, aber da wir die Chips sofort nach "
+"dem Ziehen wieder in die Tüte stecken, spricht man von einer Stichprobe **"
+"mit Zurücklegen**. Der Unterschied zwischen dieser Situation und der ersten "
+"ist, dass es möglich ist, dasselbe Mitglied der Population mehrfach zu "
+"beobachten, wie in numref:`fig-srs2` dargestellt."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr ""
+"Einfache Zufallsstichprobenziehung MIT Zurücklegen in einer endlichen "
+"Grundgesamtheit"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:179
 msgid ""
@@ -418,10 +436,21 @@ msgid ""
 "The difference between simple random samples and biased samples, on the "
 "other hand, is not such an easy thing to dismiss."
 msgstr ""
+"Meiner Erfahrung nach handelt es sich bei den meisten psychologischen "
+"Experimenten um Stichproben ohne Zurücklegen, da dieselbe Person nicht "
+"zweimal an einem Experiment teilnehmen darf. Die meisten statistischen "
+"Theorien basieren jedoch auf der Annahme, dass die Daten aus einer einfachen "
+"Zufallsstichprobe *mit* Zurücklegen stammen. Im wirklichen Leben ist dies "
+"nur sehr selten der Fall. Wenn die interessierende Grundgesamtheit groß ist ("
+"z. B. mehr als 10 Einheiten umfasst!), ist der Unterschied zwischen "
+"Stichproben mit und ohne Ersetzung relativ gering, und man muss sich daher "
+"darüber keine Gedanken machen. Der Unterschied zwischen einfachen "
+"Zufallsstichproben und verzerrten Stichproben sollte dagegen nicht "
+"vernachlässigt werden."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:190
 msgid "Most samples are not simple random samples"
-msgstr ""
+msgstr "Die meisten Stichproben sind keine einfachen Zufallsstichproben"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:192
 msgid ""
