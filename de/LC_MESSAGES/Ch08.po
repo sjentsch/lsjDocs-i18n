@@ -5,40 +5,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -52,62 +18,19 @@ msgstr ""
 "#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 16:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 14:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 14:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 15:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-11 10:52+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/"
 ">\n"
@@ -163,7 +86,7 @@ msgstr ""
 "ergibt, wenn man die Stichprobentheorie verstanden hat. Aus diesem Grund "
 "teilt sich das Kapitel in zwei Teile: :doc:`Stichproben, Grundgesamtheiten "
 "und Stichprobenziehung <../Ch08/Ch08_Estimation_1>` bis :doc:"
-"`Stichprobenverteilungen und der zentrale Grenzwertsatz <.. /Ch08/"
+"`Stichprobenverteilungen und der zentrale Grenzwertsatz <../Ch08/"
 "Ch08_Estimation_3>` konzentrieren sich auf die Stichprobentheorie und :doc:"
 "`Schätzung von Mittelwerten und Standardabweichungen <../Ch08/"
 "Ch08_Estimation_4>` und :doc:`Schätzung eines Konfidenzintervalls <../Ch08/"
@@ -432,15 +355,15 @@ msgstr ""
 "wiederholen, wie auf der rechten Seite von :numref:`fig-srs1` dargestellt. "
 "Jedes Mal erhält man andere Ergebnisse, aber das Verfahren ist in jedem Fall "
 "identisch. Die Tatsache, dass dasselbe Verfahren jedes Mal zu "
-"unterschiedlichen Ergebnissen führen kann, bezeichnen wir als *Zufall*. Da "
-"wir die Tüte geschüttelt haben, bevor wir die Chips herausgezogen haben, "
-"liegt die Vermutung nahe, dass jeder Chip die gleiche Chance hat, ausgewählt "
-"zu werden. Ein Verfahren, bei dem jedes Mitglied der Grundgesamtheit die "
-"gleiche Chance hat, ausgewählt zu werden, nennt man eine **einfache "
-"Zufallsstichprobe**. Die Tatsache, dass wir die Chips *nicht* in die Tüte "
-"zurückgelegt haben, nachdem wir sie herausgezogen haben, bedeutet, dass man "
-"dasselbe nicht zweimal beobachten kann, in solchen Fällen sagt man, dass die "
-"Stichprobe **ohne Replacement** gezogen wurde."
+"unterschiedlichen Ergebnissen führen kann, bezeichnen wir als *Zufall*.\\ "
+"[#]_ Da wir die Tüte geschüttelt haben, bevor wir die Chips herausgezogen "
+"haben, liegt die Vermutung nahe, dass jeder Chip die gleiche Chance hat, "
+"ausgewählt zu werden. Ein Verfahren, bei dem jedes Mitglied der "
+"Grundgesamtheit die gleiche Chance hat, ausgewählt zu werden, nennt man eine "
+"**einfache Zufallsstichprobe**. Die Tatsache, dass wir die Chips *nicht* in "
+"die Tüte zurückgelegt haben, nachdem wir sie herausgezogen haben, bedeutet, "
+"dass man dasselbe nicht zweimal beobachten kann, in solchen Fällen sagt man, "
+"dass die Stichprobe **ohne Replacement** gezogen wurde."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"

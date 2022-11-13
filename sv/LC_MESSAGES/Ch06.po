@@ -7,7 +7,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -15,12 +14,13 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-13 14:44+0100\n"
+"POT-Creation-Date: 2022-11-13 16:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -461,7 +461,7 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling_2.rst:118
 msgid ""
 "We’re not quite done yet. There are three more logical operations that "
-"are worth knowing about, listed in :numref:'tab-logicals2`. These are the"
+"are worth knowing about, listed in :numref:`tab-logicals2`. These are the"
 " **not** operator ``!``, the ``and``-operator and, and the "
 "``or``-operator ``or``. Like the other logical operators, their behaviour"
 " is more or less exactly what you’d expect given their names. For "

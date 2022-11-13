@@ -11,34 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -55,73 +27,19 @@ msgstr ""
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 16:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 14:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 14:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 15:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 15:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-10 14:31+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/"
 ">\n"
@@ -290,11 +208,11 @@ msgid ""
 "weakness; more so than any other option I’ve encountered so far."
 msgstr ""
 "Das sind die Hauptgründe, warum ich jamovi verwende. Es ist allerdings nicht "
-"ohne Schwächen. Es ist relativ neu, daher gibt es keine große Anzahl von "
-"Lehrbüchern und anderen Ressourcen, die es unterstützen, und es hat ein paar "
-"ärgerliche Macken, mit denen wir alle ziemlich zu kämpfen haben, aber im "
-"Großen und Ganzen denke ich, dass die Stärken die Schwächen überwiegen; mehr "
-"als bei jeder anderen Option, die ich bisher kennengelernt habe."
+"ohne Schwächen. Es ist relativ neu,\\ [#]_ daher gibt es keine große Anzahl "
+"von Lehrbüchern und anderen Ressourcen, die es unterstützen, und es hat ein "
+"paar ärgerliche Macken, mit denen wir alle ziemlich zu kämpfen haben, aber "
+"im Großen und Ganzen denke ich, dass die Stärken die Schwächen überwiegen; "
+"mehr als bei jeder anderen Option, die ich bisher kennengelernt habe."
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:96
 msgid "As of writing this in August 2018."
@@ -334,7 +252,7 @@ msgstr ""
 "Oben auf der Seite, unter der Überschrift „Download“ <https://www.jamovi.org/"
 "download.html>`__, finden Sie separate Links für Windows-, Mac- und Linux-"
 "Benutzer. Wenn Sie dem entsprechenden Link folgen, werden Sie feststellen, "
-"dass die Online-Anweisungen ziemlich selbsterklärend sind"
+"dass die Online-Anweisungen ziemlich selbsterklärend sind.\\ [#]_"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:21
 msgid "Starting up jamovi"
@@ -857,7 +775,7 @@ msgid ""
 "TextEdit program on a Mac), which shows how the file is formatted. The "
 "entries in the table are wrapped in quote marks and separated by commas."
 msgstr ""
-"Die Datei |booksales|. Auf der linken Seite habe ich die Datei mit einem "
+"Die Datei |booksales|_\\ . Auf der linken Seite habe ich die Datei mit einem "
 "Tabellenprogramm (LibreOffice) geöffnet, dort sehen wir, dass es sich bei "
 "dieser Datei im Wesentlichen um eine Tabelle handelt. Rechts ist dieselbe "
 "Datei in einem Standard-Texteditor (dem Programm TextEdit auf einem Mac) "
@@ -1071,7 +989,7 @@ msgstr ""
 "wie erwartet zu funktionieren. Dessen sollten Sie sich bewusst sein – "
 "möglicherweise benötigen Sie auch noch einen weiteren Schritt: Importieren "
 "Sie die SPSS-Datei in jamovi, exportieren Sie sie dann als CSV-Datei, bevor "
-"Sie sie erneut in jamovi öffnen"
+"Sie sie erneut in jamovi öffnen. \\ [#]_"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:302
 msgid ""
@@ -1148,7 +1066,7 @@ msgstr ""
 "Skalenniveau einer Variable ändern möchten, können Sie dies in der jamovi-"
 "Datenansicht für diese Variable tun. Klicken Sie einfach auf das "
 "Kontrollkästchen für das gewünschte Skalenniveau - kontinuierlich |"
-"kontinuierlich|, ordinal |ordinal| oder nominal |nominal|."
+"continuous|, ordinal |ordinal| oder nominal |nominal|."
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:23
 msgid "Installing add-on modules into jamovi"

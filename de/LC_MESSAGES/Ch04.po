@@ -5,40 +5,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -52,73 +18,19 @@ msgstr ""
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-13 16:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-13 14:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 14:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 01:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 15:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 15:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch04.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-11-10 14:30+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/"
 ">\n"
@@ -204,7 +116,7 @@ msgstr ""
 "besonders effektive Methode, um Daten zu verstehen. Um eine Vorstellung "
 "davon zu bekommen, was die Daten tatsächlich aussagen, müssen wir einige "
 "deskriptive Statistiken berechnen (dieses Kapitel) und einige Grafiken "
-"erstellen (Kapitel :doc:`Diagramme erstellen <../Ch05/Ch05_Grafiken>`). Da "
+"erstellen (Kapitel :doc:`Diagramme erstellen <../Ch05/Ch05_Graphics>`). Da "
 "die deskriptive Statistik das einfachere der beiden Themen ist, fange ich "
 "mit ihr an, aber ich zeige Ihnen trotzdem ein Histogramm der Variable ``afl."
 "margins``, da es Ihnen helfen soll, ein Gefühl dafür zu bekommen, wie die "
@@ -1602,14 +1514,15 @@ msgstr ""
 "darauf ein, wie man die Berechnungen in jamovi durchführt, denn dabei kommt "
 "etwas sehr Merkwürdiges zum Vorschein. Starten Sie eine neue jamovi-Sitzung, "
 "indem Sie auf die Hauptmenü-Schaltfläche (``☰``; in der oberen linken Ecke) "
-"klicken und ``New`` wählen. Geben Sie nun die ersten fünf Werte der ``afl."
-"margins`` Variable in Spalte A ein (56, 31, 56, 8, 32). Ändern Sie den "
-"Variablentyp in ``Continuous`` und klicken Sie unter ``Descriptives`` auf "
-"das Kontrollkästchen ``Variance``, und Sie erhalten die gleichen Werte für "
-"die Varianz wie die, welche wir von Hand berechnet haben (**324.64**). Nein, "
-"warten Sie, Sie erhalten eine völlig *andere* Antwort (**405.80**) - siehe :"
-"numref:`fig-aflsmall_margins_variance1`. Das ist einfach seltsam. Ist jamovi "
-"kaputt? Ist das ein Tippfehler? Bin ich ein Idiot?"
+"klicken und ``New`` wählen. Geben Sie nun die ersten fünf Werte aus der |"
+"aflsmall_margins|_-Datendatei in Spalte A ein (56, 31, 56, 8, 32). Ändern "
+"Sie den Variablentyp in ``Continuous`` und klicken Sie unter "
+"``Descriptives`` auf das Kontrollkästchen ``Variance``, und Sie erhalten die "
+"gleichen Werte für die Varianz wie die, welche wir von Hand berechnet haben "
+"(**324.64**). Nein, warten Sie, Sie erhalten eine völlig *andere* Antwort "
+"(**405.80**) - siehe :numref:`fig-aflsmall_margins_variance1`. Das ist "
+"einfach seltsam. Ist jamovi kaputt? Ist das ein Tippfehler? Bin ich ein "
+"Idiot?"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
 msgid "Variance for the first 5 values of the ``afl.margins`` variable"
