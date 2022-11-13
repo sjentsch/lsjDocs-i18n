@@ -102,7 +102,6 @@ msgstr ""
 "Meinungsumfragen ist."
 
 #: ../../Ch07/Ch07_Probability.rst:45
-#, python-format
 msgid ""
 "This kind of remark is entirely unremarkable in the papers or in everyday "
 "life, but let’s have a think about what it entails. A polling company has "
@@ -138,7 +137,6 @@ msgstr ""
 "kommen, dass die Vorzugsstimmen der ALP nur etwa 23% betragen?"
 
 #: ../../Ch07/Ch07_Probability.rst:61
-#, python-format
 msgid ""
 "The answer to the question is pretty obvious. If I call 1000 people at "
 "random, and 230 of them say they intend to vote for the ALP, then it seems "
@@ -243,7 +241,6 @@ msgid "What are the chances that I’ll win the lottery?"
 msgstr "Wie stehen die Chancen, dass ich im Lotto gewinne?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:25
-#, python-format
 msgid ""
 "Notice that all of these questions have something in common. In each case "
 "the “truth of the world” is known and my question relates to the “what kind "
@@ -752,7 +749,6 @@ msgstr ""
 "kommen."
 
 #: ../../Ch07/Ch07_Probability_2.rst:124
-#, python-format
 msgid ""
 "However, it also has undesirable characteristics. First, infinite sequences "
 "don’t exist in the physical world. Suppose you picked up a coin from your "
@@ -1610,7 +1606,6 @@ msgstr ""
 "und die Höhe aller Balken muss sich ebenfalls zu 1 summieren."
 
 #: ../../Ch07/Ch07_Probability_4.rst:100
-#, python-format
 msgid ""
 "To that end, :numref:`fig-binomSkulls20` plots the binomial probabilities "
 "for all possible values of *X* for our dice rolling experiment, from *X* = 0 "
@@ -1905,7 +1900,6 @@ msgstr ""
 "ist breiter als die durchgezogene Linie."
 
 #: ../../Ch07/Ch07_Probability_5.rst:109
-#, python-format
 msgid ""
 "Notice, though, that when we widen the distribution the height of the peak "
 "shrinks. This has to happen, in the same way that the heights of the bars "
@@ -1936,7 +1930,6 @@ msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr "Normalverteilung: Fläche unter der Kurve für 1 und 2 SD (Standardabw.)"
 
 #: ../../Ch07/Ch07_Probability_5.rst:127
-#, python-format
 msgid ""
 "The area under the curve tells you the probability that an observation falls "
 "within a particular range. The solid lines plot normal distributions with "
@@ -1964,7 +1957,6 @@ msgstr ""
 "Ausläufer der Verteilung"
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
-#, python-format
 msgid ""
 "Two more examples of the “area under the curve” idea. There is a "
 "15.9% chance that an observation is one standard deviation below the mean or "

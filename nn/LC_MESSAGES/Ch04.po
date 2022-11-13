@@ -786,7 +786,6 @@ msgid "Interquartile range"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:39
-#, python-format
 msgid ""
 "The **interquartile range** (IQR) is like the range, but instead of the "
 "difference between the biggest and smallest value the difference between the "
@@ -1286,7 +1285,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:362
-#, python-format
 msgid ""
 "Interpreting standard deviations is slightly more complex. Because the "
 "standard deviation is derived from the variance, and the variance is a "
@@ -1311,7 +1309,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:384
-#, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data. "
 "The shaded bars in the histogram show how much of the data fall within one "
@@ -1691,7 +1688,6 @@ msgid "Standard scores"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:6
-#, python-format
 msgid ""
 "Suppose my friend is putting together a new questionnaire intended to "
 "measure “grumpiness”. The survey has 50 questions which you can answer in a "
@@ -1711,7 +1707,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:23
-#, python-format
 msgid ""
 "A simpler way around this is to describe my grumpiness by comparing me to "
 "other people. Shockingly, out of my friend’s sample of 1,000,000 people, "
@@ -1776,7 +1771,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:57
-#, python-format
 msgid ""
 "To interpret this value, recall the rough heuristic that I provided in "
 "section :doc:`Standard deviation <../Ch04/Ch04_Descriptives_2>` in which I "

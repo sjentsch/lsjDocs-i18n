@@ -478,7 +478,6 @@ msgid "And finally, an invalid argument with an unbelievable conclusion:"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
-#, python-format
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
@@ -504,7 +503,6 @@ msgid "**argument is valid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
-#, python-format
 msgid "100% say “valid”"
 msgstr ""
 
@@ -514,7 +512,6 @@ msgid "**argument is invalid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
-#, python-format
 msgid "0% say “valid”"
 msgstr ""
 
@@ -537,12 +534,10 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "92% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "8% say “valid”"
 msgstr ""
 
@@ -554,17 +549,14 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "*46% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "*92% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
-#, python-format
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
@@ -575,7 +567,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
-#, python-format
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
@@ -592,7 +583,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
-#, python-format
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95% of what "
 "I read on the internet."
@@ -643,7 +633,6 @@ msgid "35%"
 msgstr "35%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
-#, python-format
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
 "nearly 13,000 applicants, a difference of 9% in admission rates between "
@@ -1056,7 +1045,6 @@ msgid "Various authors, original probably John Naisbitt"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:12
-#, python-format
 msgid ""
 "When I started writing up my lecture notes I took the 20 most recent news "
 "articles posted to the ABC news website. Of those 20 articles, it turned out "
@@ -1081,7 +1069,6 @@ msgid "There’s more to research methods than statistics"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:31
-#, python-format
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "

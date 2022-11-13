@@ -449,7 +449,6 @@ msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:106
-#, python-format
 msgid ""
 "Now, because this is statistics, we have to be able to say the same thing in "
 "a mathematical way. To do this, let’s use the notation *P*\\ :sub:`j`\\ to "
@@ -811,7 +810,6 @@ msgid "Testing the null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:363
-#, python-format
 msgid ""
 "The final step in the process of constructing our hypothesis test is to "
 "figure out what the rejection region is. That is, what values of χ² would "
@@ -1337,7 +1335,6 @@ msgid "Specifying a different null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:468
-#, python-format
 msgid ""
 "At this point you might be wondering what to do if you want to run a "
 "goodness-of-fit test but your null hypothesis is *not* that all categories "
@@ -2344,7 +2341,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:10
-#, python-format
 msgid ""
 "*Expected frequencies are sufficiently large*. Remember how in the previous "
 "section we saw that the χ² sampling distribution emerges because the "

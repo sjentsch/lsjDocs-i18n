@@ -1752,7 +1752,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
-#, python-format
 msgid ""
 "Looking at the η² values first, we see that ``drug`` accounts for 71% of the "
 "variance (i.e. η² = 0.71) in ``mood.gain``, whereas ``therapy`` only "
@@ -1820,7 +1819,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
-#, python-format
 msgid ""
 "In the output we see that the estimated mean mood gain for the placebo group "
 "with no therapy was 0.300, with a 95% confidence interval from 0.006 to "
@@ -2044,7 +2042,6 @@ msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:97
-#, python-format
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
@@ -2577,7 +2574,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:268
-#, python-format
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -3207,7 +3203,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
-#, python-format
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "
@@ -3243,7 +3238,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:80
-#, python-format
 msgid ""
 "The output shown in the ‘Post Hoc Tests’ results table is (I hope) pretty "
 "straightforward. The first comparison, for example, is the Anxifree versus "

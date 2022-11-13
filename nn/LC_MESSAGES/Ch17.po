@@ -770,7 +770,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_4.rst:45
-#, python-format
 msgid ""
 "**Power analysis.** In chapter :doc:`Hypothesis testing <../Ch09/"
 "Ch09_HypothesisTesting>` I discussed the concept of power (i.e., how likely "

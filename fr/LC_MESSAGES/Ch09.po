@@ -820,14 +820,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:33
-#, python-format
 msgid ""
 "If *α* = 0.05, the critical region must cover 5% of this sampling "
 "distribution."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:36
-#, python-format
 msgid ""
 "It’s important to make sure you understand this last point. The critical "
 "region corresponds to those values of *X* for which we would reject the null "
@@ -847,7 +845,6 @@ msgid "Critical region associated with a two-sided test"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
-#, python-format
 msgid ""
 "The critical region associated with the hypothesis test for the ESP study, "
 "for a hypothesis test with a significance level of α = 0.05. The plot shows "
@@ -964,7 +961,6 @@ msgid "H\\ :sub:`1`: *θ* ≠ 0.5"
 msgstr "H\\ :sub:`1`: *θ* ≠ 0.5"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:137
-#, python-format
 msgid ""
 "we notice that the alternative hypothesis covers *both* the possibility that "
 "*θ* < 0.5 and the possibility that *θ* > 0.5. This makes sense if I really "
@@ -1005,7 +1001,6 @@ msgid "Critical region associated with a one-sided test"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:168
-#, python-format
 msgid ""
 "The critical region for a one-sided test. In this case, the alternative "
 "hypothesis is that θ = 0.5 so we would only reject the null hypothesis for "
@@ -1016,7 +1011,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:180
-#, python-format
 msgid ""
 "Strictly speaking, the test I just constructed has *α* = 0.057, which is a "
 "bit too generous. However, if I’d chosen 39 and 61 to be the boundaries for "
@@ -1184,7 +1178,6 @@ msgid "A common mistake"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:103
-#, python-format
 msgid ""
 "Okay, so you can see that there are two rather different but legitimate ways "
 "to interpret the *p* value, one based on Neyman’s approach to hypothesis "
@@ -1246,7 +1239,6 @@ msgid "The issue"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:28
-#, python-format
 msgid ""
 "To see why this is an issue, the key thing to recognise is that *p* values "
 "are *terribly* convenient. In practice, the fact that we can compute a *p* "
@@ -1267,7 +1259,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:47
-#, python-format
 msgid ""
 "This flexibility is both the advantage and the disadvantage to the *p* "
 "value. The reason why a lot of people don’t like the idea of reporting an "
@@ -1487,7 +1478,6 @@ msgid "Effect size, sample size and power"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:6
-#, python-format
 msgid ""
 "In previous sections I’ve emphasised the fact that the major design "
 "principle behind statistical hypothesis testing is that we try to control "
@@ -1675,7 +1665,6 @@ msgid "no effect observed"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:153
-#, python-format
 msgid ""
 "Why calculate effect size? Let’s assume that you’ve run your experiment, "
 "collected the data, and gotten a significant effect when you ran your "
@@ -1910,7 +1899,6 @@ msgid "Bayesians versus frequentists"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:73
-#, python-format
 msgid ""
 "Earlier on in this chapter I was quite emphatic about the fact that you "
 "*cannot* interpret the *p* value as the probability that the null hypothesis "

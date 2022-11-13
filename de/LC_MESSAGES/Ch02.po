@@ -2676,7 +2676,6 @@ msgid "Selection bias"
 msgstr "Selektionsverzerrung"
 
 #: ../../Ch02/Ch02_StudyDesign_5.rst:360
-#, python-format
 msgid ""
 "**Selection bias** is a pretty broad term. Suppose that you’re running an "
 "experiment with two groups of participants where each group gets a different "
