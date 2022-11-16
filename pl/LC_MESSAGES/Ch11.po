@@ -7,7 +7,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -15,12 +14,13 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1531,9 +1531,9 @@ msgid ""
 " about the data is shown in :numref:`fig-ttesthyp2`, to provide a "
 "contrast with the Student test version in :numref:`fig-ttesthyp`. I’ll "
 "admit it’s a bit odd to talk about the cure before talking about the "
-"diagnosis, but as it happens the Welch test can be specified as one of "
-"the ‘Independent Samples *t*-Test’ options in jamovi, so this is probably"
-" the best place to discuss it."
+"diagnosis, but as it happens the ``Welch's`` test can be specified as one"
+" of the ``Independent Samples T-Test`` options in jamovi, so this is "
+"probably the best place to discuss it."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:30
@@ -1733,7 +1733,7 @@ msgid ""
 "the second test and get a better mark. Is she right? To test this, let’s "
 "import the |chico|_ data set into jamovi. This time jamovi does a good "
 "job during the import of attributing measurement levels correctly. The "
-"chico data set contains three variables: an ``id`` variable that "
+"|chico|_ data set contains three variables: an ``id`` variable that "
 "identifies each student in the class, the ``grade_test1`` variable that "
 "records the student grade for the first test, and the ``grade_test2`` "
 "variable that has the grades for the second test."
@@ -1933,8 +1933,8 @@ msgstr ""
 #, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
-"exactly the same was as it was the last time we used the ‘One Sample "
-"*t*-Test’ analysis (section :doc:`The one-sample t-test "
+"exactly the same was as it was the last time we used the ``One Sample "
+"T-Test`` analysis (section :doc:`The one-sample t-test "
 "<../Ch11/Ch11_tTest_02>`), and it confirms our intuition. There’s an "
 "average improvement of 1.4% from test 1 to test 2, and this is "
 "significantly different from 0 (*t*\\(19) = 6.48, p < 0.001)."
@@ -1945,7 +1945,7 @@ msgid ""
 "However, suppose you’re lazy and you don’t want to go to all the effort "
 "of creating a new variable. Or perhaps you just want to keep the "
 "difference between one-sample and paired-samples tests clear in your "
-"head. If so, you can use the jamovi ‘Paired Samples *t*-Test’ analysis, "
+"head. If so, you can use the jamovi ``Paired Samples T-Test`` analysis, "
 "getting the results shown in :numref:`fig-ttest_paired3`."
 msgstr ""
 
@@ -2008,7 +2008,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
-msgid "jamovi results showing a One Sample T-Test"
+msgid "jamovi results showing a ``One Sample T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
@@ -2050,12 +2050,12 @@ msgid ""
 "interest in finding out if group B has higher scores than group A. Let’s "
 "suppose that, for Dr Harpo’s class, you wanted to see if Anastasia’s "
 "students had higher grades than Bernadette’s. For this analysis, in the "
-"‘Hypothesis’ options, specify that ``Group 1 > Group2``. You should get "
-"the results shown in :numref:`fig-ttest_onesided2`."
+"``Hypothesis`` options, specify that ``Group 1 > Group2``. You should get"
+" the results shown in :numref:`fig-ttest_onesided2`."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
-msgid "One-sided hypothesis in an Independent Samples t-Test"
+msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
@@ -2077,22 +2077,22 @@ msgid ""
 "What about the paired samples *t*-test? Suppose we wanted to test the "
 "hypothesis that grades go *up* from test 1 to test 2 in Dr Zeppo’s class,"
 " and are not prepared to consider the idea that the grades go down. In "
-"jamovi you would do this by specifying, under the ‘Hypotheses’ option, "
-"that ``grade_test2`` (‘Measure 1’ in jamovi, because we copied this first"
-" into the paired variables box) > ``grade_test1`` (‘Measure 2’ in "
+"jamovi you would do this by specifying, under the ``Hypotheses`` option, "
+"that ``grade_test2`` (``Measure 1`` in jamovi, because we copied this "
+"first into the paired variables box) > ``grade_test1`` (``Measure 2`` in "
 "jamovi). You should get the results shown in :numref:`fig-"
 "ttest_onesided3`."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
-msgid "One-sided hypothesis in an Paired Samples t-Test"
+msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid ""
 "jamovi results showing a ``Paired Samples T-Test`` where the actual "
-"hypothesis is one-sided, i.e. that ``grade test2`` (‘Measure 1’) is "
-"larger than ``grade test1`` (‘Measure 2’)."
+"hypothesis is one-sided, i.e. that ``grade test2`` (``Measure 1``) is "
+"larger than ``grade test1`` (``Measure 2``)."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:99
@@ -2349,8 +2349,8 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:162
 msgid ""
-"If you are interested, you can look at how this was done in the "
-"``chico2`` dataset"
+"If you are interested, you can look at how this was done in the |chico2|_"
+" dataset"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
@@ -2693,7 +2693,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:67
 msgid ""
-"In jamovi, if we run an ``Independent Samples t-Test`` with ``scores`` "
+"In jamovi, if we run an ``Independent Samples T-Test`` with ``scores`` "
 "|continuous| as the dependent variable. and ``group`` as the grouping "
 "variable |nominal|, and then under the options for ``Tests`` check the "
 "option for ``Mann-Whitney U``, we will get results showing that U = 3 "
@@ -2864,3 +2864,16 @@ msgid ""
 "If your data are non-normal, you can use :doc:`Mann-Whitney or Wilcoxon "
 "tests <../Ch11/Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+

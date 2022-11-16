@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1534,7 +1534,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:22
-msgid "Variables in ``clinicaltrial``"
+msgid "Variables in |clinicaltrial|"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:22
@@ -1565,7 +1565,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:48
-msgid "Variables in ``clinicaltrial`` split by therapy type"
+msgid "Variables in |clinicaltrial| split by therapy type"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:48

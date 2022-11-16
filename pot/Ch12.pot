@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgid ""
 "continuous outcomes |continuous|."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:417
+#: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:420
 msgid "continuous"
 msgstr "continuous"
 
@@ -518,7 +518,7 @@ msgid ""
 "for all *X* variables are almost identical, as are those for the *Y* "
 "variables. And in each case the correlation between *X* and *Y* is *r* = "
 "0.816`. You can verify this yourself, since I happen to have saved it as a "
-"dataset called ``anscombe``."
+"dataset called |anscombe|_."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:272
@@ -622,7 +622,7 @@ msgid ""
 "you have to put a bit of effort into remembering!"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:420
+#: ../../Ch12/Ch12_Regression_01.rst:423
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -795,11 +795,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:41
-msgid "Scatterplot via the ‘Correlation Matrix’ command in jamovi"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_02.rst:41
-msgid "Scatterplot via the ``Correlation Matrix`` command in jamovi"
+msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:45
@@ -815,11 +811,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:60
-msgid "Scatterplot via the ‘scatr’ add-on module in jamovi"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_02.rst:60
-msgid "Scatterplot via the ``scatr`` add-on module in jamovi"
+msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:65
@@ -836,12 +828,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:80
-msgid "Matrix of scatterplots produced using ‘Correlation Matrix’"
+msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:80
 msgid ""
-"Matrix of scatterplots produced using the ``Correlation Matrix`` command in "
+"Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis in "
 "jamovi."
 msgstr ""
 
@@ -2400,28 +2392,27 @@ msgid ""
 "Like many of the statistical tools we’ve discussed in this book, regression "
 "models rely on a normality assumption. In this case, we assume that the "
 "residuals are normally distributed. The first thing we can do is draw a QQ-"
-"plot via the ``Assumption Checks`` → ``Assumption Checks`` → ``Q-Q plot of "
-"residuals`` option."
+"plot via the ``Assumption Checks`` → ``Q-Q plot of residuals`` option."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:276
+#: ../../Ch12/Ch12_Regression_11.rst:275
 msgid ""
 "The output is shown in :numref:`fig-reg5`, showing the standardised "
 "residuals plotted as a function of their theoretical quantiles according to "
 "the regression model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:286
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:286
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid ""
 "Plot of the theoretical quantiles according to the model, against the "
 "quantiles of the standardised residuals, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:291
+#: ../../Ch12/Ch12_Regression_11.rst:290
 msgid ""
 "Another thing we should check is the relationship between the fitted values "
 "and the residuals themselves. We can get jamovi to do this using the "
@@ -2435,11 +2426,11 @@ msgid ""
 "probably not worth worrying about."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:308
+#: ../../Ch12/Ch12_Regression_11.rst:307
 msgid "Residuals plots produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:312
+#: ../../Ch12/Ch12_Regression_11.rst:311
 msgid ""
 "If we were worried, then in a lot of cases the solution to this problem (and "
 "many others) is to transform one or more of the variables. We discussed the "
@@ -2450,11 +2441,11 @@ msgid ""
 "earlier: the Box-Cox transform."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:322
+#: ../../Ch12/Ch12_Regression_11.rst:321
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:324
+#: ../../Ch12/Ch12_Regression_11.rst:323
 msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
@@ -2462,23 +2453,23 @@ msgstr ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:326
+#: ../../Ch12/Ch12_Regression_11.rst:325
 msgid ""
 "for all values of λ except λ = 0. When λ = 0 we just take the natural "
 "logarithm (i.e., *ln*\\(x))."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:329
+#: ../../Ch12/Ch12_Regression_11.rst:328
 msgid ""
 "You can calculate it using the ``BOXCOX`` function in the ``Compute`` "
 "variables screen in jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:333
+#: ../../Ch12/Ch12_Regression_11.rst:332
 msgid "Checking for collinearity"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:335
+#: ../../Ch12/Ch12_Regression_11.rst:334
 msgid ""
 "The last kind of regression diagnostic that I’m going to discuss in this "
 "chapter is the use of **variance inflation factors** (VIFs), which are "
@@ -2487,15 +2478,15 @@ msgid ""
 "inflation factor associated with each predictor *X*\\ :sub:`k` in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:342
+#: ../../Ch12/Ch12_Regression_11.rst:341
 msgid "The formula for the k-th VIF is:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:344
+#: ../../Ch12/Ch12_Regression_11.rst:343
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R²*\\ :sub:`(-k)`\\)"
 msgstr "VIF\\ :sub:`k` = 1 / (1 - *R²*\\ :sub:`(-k)`\\)"
 
-#: ../../Ch12/Ch12_Regression_11.rst:346
+#: ../../Ch12/Ch12_Regression_11.rst:345
 msgid ""
 "where *R²*\\ :sub:`(-k)` refers to *R*-squared value you would get if you "
 "ran a regression using *X*\\ :sub:`k` as the outcome variable, and all the "
@@ -2504,20 +2495,20 @@ msgid ""
 "correlated with all the other variables in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:352
+#: ../../Ch12/Ch12_Regression_11.rst:351
 msgid ""
 "The square root of the VIF is pretty interpretable. It tells you how much "
 "wider the confidence interval for the corresponding coefficient *b*\\ :sub:"
 "`k` is, relative to what you would have expected if the predictors are all "
 "nice and uncorrelated with one another. If you’ve only got two predictors, "
 "the VIF values are always going to be the same, as we can see if we click on "
-"the ``Collinearity`` checkbox in the ``Regression`` → ``Assumptions`` "
+"the ``Collinearity`` checkbox in the ``Regression`` → ``Assumption Checks`` "
 "options in jamovi. For both ``dani.sleep`` and ``baby.sleep`` the VIF is "
 "1.65. And since the square root of 1.65 is 1.28, we see that the correlation "
 "between our two predictors isn’t causing much of a problem."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:363
+#: ../../Ch12/Ch12_Regression_11.rst:362
 msgid ""
 "To give a sense of how we could end up with a model that has bigger "
 "collinearity problems, suppose I were to run a much less interesting "
@@ -2527,7 +2518,7 @@ msgid ""
 "correlation matrix for all four variables:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:378
+#: ../../Ch12/Ch12_Regression_11.rst:377
 msgid ""
 "We have some fairly large correlations between some of our predictor "
 "variables! When we run the regression model and look at the VIF values, we "
@@ -2537,15 +2528,15 @@ msgid ""
 "there."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:390
+#: ../../Ch12/Ch12_Regression_11.rst:389
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:397
+#: ../../Ch12/Ch12_Regression_11.rst:396
 msgid "Or have no hope, as the case may be."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:400
+#: ../../Ch12/Ch12_Regression_11.rst:399
 msgid ""
 "Again, for the linear algebra fanatics: the “hat matrix” is defined to be "
 "that matrix **H** that converts the vector of observed values *y* into a "
@@ -2557,7 +2548,7 @@ msgid ""
 "**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:410
+#: ../../Ch12/Ch12_Regression_11.rst:409
 msgid ""
 "Although, currently there isn’t a very easy way to do this in jamovi, so a "
 "more powerful regression program such as the ``car`` package in ``R`` would "
@@ -2854,10 +2845,6 @@ msgid ""
 "where *ŷ*\\ :sub:`i`\\ :sup:`(1)` is the fitted value for *y*\\ :sub:`i` "
 "according to model M\\ :sub:`1` and *ŷ*\\ :sub:`i`\\ :sup:`(2)` is the "
 "fitted value for *y*\\ :sub:`i` according to model M\\ :sub:`2`."
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_12.rst:223
-msgid "Model comparison in jamovi using the ‘Model Builder’ option"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:223
