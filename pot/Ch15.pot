@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:15
 msgid ""
-"In :numref:`fig-efa1` each observed variable V is ‘caused’ to some extent by "
+"In :numref:`fig-efa1` each observed variable V is “caused” to some extent by "
 "the underlying latent factor (F), depicted by the coefficients b1 to b5 "
 "(also called factor loadings). Each observed variable also has an associated "
 "error term, e1 to e5. Each error term is the variance in the associated "
@@ -728,12 +728,12 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
 msgid ""
-"We can also see in :numref:`fig-efa6` the “uniqueness” of each variable. "
-"Uniqueness is the proportion of variance that is ‘unique’ to the variable "
+"We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
+"Uniqueness is the proportion of variance that is “unique” to the variable "
 "and not explained by the factors.\\ [#]_ For example, 72% of the variance in "
 "``A1`` is not explained by the factors in the five factor solution. In "
 "contrast, ``N1`` has relatively low variance not accounted for by the factor "
-"solution (35%). Note that the greater the ‘uniqueness’, the lower the "
+"solution (35%). Note that the greater the ``Uniqueness``, the lower the "
 "relevance or contribution of the variable in the factor model."
 msgstr ""
 
@@ -1022,9 +1022,9 @@ msgid ""
 "PCA has been popular in Psychology for a number of reasons, and therefore "
 "it’s worth covering, although nowadays EFA is just as easy to do given the "
 "power of desktop computers and can be less susceptible to bias than PCA, "
-"especially with a small number of factors and variables. We’ll use the same "
-"``bfi_sample`` dataset as before. Much of the procedure is similar to EFA, "
-"so although there are some conceptual differences, practically the steps are "
+"especially with a small number of factors and variables. We’ll use the same |"
+"bfi_sample|_ dataset as before. Much of the procedure is similar to EFA, so "
+"although there are some conceptual differences, practically the steps are "
 "the same,\\ [#]_ and with large samples and a sufficient number of factors "
 "and variables, the results from PCA and EFA should be fairly similar."
 msgstr ""
@@ -1039,7 +1039,7 @@ msgid ""
 "``Principal Component Analysis`` from the ``Analyses`` tab to open the "
 "analysis panel where you can determine the settings for the PCA (:numref:"
 "`fig-pca1`). Then select the 25 personality questions and transfer them into "
-"the ‘Variables’ box. Check appropriate options, including ``Assumption "
+"the ``Variables`` box. Check appropriate options, including ``Assumption "
 "Checks``, but also ``Rotation`` under ``Method``, ``Number of Factors`` to "
 "extract, and the ``Additional Output`` options (see :numref:`fig-pca1` for "
 "suggested options for this PCA, and please note that ``Rotation`` under "
@@ -1206,13 +1206,13 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
 msgid ""
-"We can also see in :numref:`fig-pca1` the “uniqueness” of each variable. "
-"Uniqueness is the proportion of variance that is ‘unique’ to the variable "
+"We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
+"Uniqueness is the proportion of variance that is “unique” to the variable "
 "and not explained by the components. For example, 52% of the variance in "
 "``A1`` is not explained by the components in the five component solution. In "
 "contrast, ``N1`` has relatively low variance not accounted for by the "
-"component solution (30%). Note that the greater the ‘uniqueness’, the lower "
-"the relevance or contribution of the variable in the component model."
+"component solution (30%). Note that the greater the ``Uniqueness``, the "
+"lower the relevance or contribution of the variable in the component model."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:187
@@ -1367,21 +1367,21 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:89
 msgid ""
-"Create another new Factor in the ‘Factors’ box and label it “Extraversion”. "
-"Select the 5 ``E`` variables and transfer them into the ``Factors`` box "
-"under the “Extraversion” label."
+"Create another new Factor in the ``Factors`` box and label it "
+"“Extraversion”. Select the 5 ``E`` variables and transfer them into the "
+"``Factors`` box under the “Extraversion” label."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:93
 msgid ""
-"Create another new Factor in the ‘Factors’ box and label it “Neuroticism”. "
+"Create another new Factor in the ``Factors`` box and label it “Neuroticism”. "
 "Select the 5 ``N`` variables and transfer them into the ``Factors`` box "
 "under the “Neuroticism” label."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:97
 msgid ""
-"Create another new Factor in the ‘Factors’ box and label it “Openness”. "
+"Create another new Factor in the ``Factors`` box and label it “Openness”. "
 "Select the 5 ``O`` variables and transfer them into the ``Factors`` box "
 "under the “Openness” label."
 msgstr ""
@@ -1415,11 +1415,11 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
-msgid "Model Fit results for the specified CFA model in jamovi"
+msgid "``Model Fit`` results for the specified CFA model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
-msgid "Table with Model Fit results for the specified CFA model in jamovi"
+msgid "Table with ``Model Fit`` results for the specified CFA model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:134
@@ -1469,16 +1469,16 @@ msgid ""
 "doesn’t appear to be any reason to remove any of the specified variable-"
 "factor paths, or factor-factor correlations from the model. Often the "
 "standardized estimates are easier to interpret, and these can be specified "
-"under the ‘Estimates’ option. These tables can usefully be incorporated into "
-"a written report or scientific article."
+"under the ``Estimates`` option. These tables can usefully be incorporated "
+"into a written report or scientific article."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:175
-msgid "Table with Factor Loadings for the specified CFA model in jamovi"
+msgid "Table with ``Factor Loadings`` for the specified CFA model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:183
-msgid "Table with Factor Covariances for the specified CFA model in jamovi"
+msgid "Table with ``Factor Covariances`` for the specified CFA model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:187
@@ -1487,18 +1487,18 @@ msgid ""
 "think again about the items / measures we are using and how they might be "
 "improved or changed. Another option is to make some *post-hoc* tweaks to the "
 "model to improve the fit. One way of doing this is to use “modification "
-"indices”, specified as an ‘Additional output’ option in jamovi (see :numref:"
-"`fig-cfa6`)."
+"indices”, specified as an ``Additional Output`` option in jamovi (see :"
+"numref:`fig-cfa6`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
-msgid "Table with Factor Loadings Modification Indices"
+msgid "Table with ``Factor Loadings Modification Indices``"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid ""
-"Table with Factor Loadings Modification Indices for the specified CFA model "
-"in jamovi"
+"Table with ``Factor Loadings Modification Indices`` for the specified CFA "
+"model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:204
@@ -1537,23 +1537,24 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:227
 msgid ""
-"There is also a Table of Residual Covariance Modification Indices produced "
-"by jamovi (:numref:`fig-cfa7`). In other words, a table showing which "
-"correlated errors, if added to the model, would improve the model fit the "
-"most. It’s a good idea to look across both MI tables at the same time, spot "
-"the largest MI, think about whether the addition of the suggested parameter "
-"can be reasonably justified and, if it can, add it to the model. And then "
-"you can start again looking for the biggest MI in the re-calculated results."
+"There is also a Table of ``Residual Covariance Modification Indices`` "
+"produced by jamovi (:numref:`fig-cfa7`). In other words, a table showing "
+"which correlated errors, if added to the model, would improve the model fit "
+"the most. It’s a good idea to look across both MI tables at the same time, "
+"spot the largest MI, think about whether the addition of the suggested "
+"parameter can be reasonably justified and, if it can, add it to the model. "
+"And then you can start again looking for the biggest MI in the re-calculated "
+"results."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
-msgid "Table with Residual Covariances Modification Indices"
+msgid "Table with ``Residual Covariances Modification Indices``"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
 msgid ""
-"Table with Residual Covariances Modification Indices for the specified CFA "
-"model in jamovi"
+"Table with ``Residual Covariances Modification Indices`` for the specified "
+"CFA model in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:246

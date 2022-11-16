@@ -1,4 +1,3 @@
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -8,21 +7,26 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
-"PO-Revision-Date: 2022-11-14 09:48+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
-"\n"
-"Language: de\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
@@ -1583,9 +1587,9 @@ msgid ""
 " about the data is shown in :numref:`fig-ttesthyp2`, to provide a "
 "contrast with the Student test version in :numref:`fig-ttesthyp`. I’ll "
 "admit it’s a bit odd to talk about the cure before talking about the "
-"diagnosis, but as it happens the Welch test can be specified as one of "
-"the ‘Independent Samples *t*-Test’ options in jamovi, so this is probably"
-" the best place to discuss it."
+"diagnosis, but as it happens the ``Welch's`` test can be specified as one"
+" of the ``Independent Samples T-Test`` options in jamovi, so this is "
+"probably the best place to discuss it."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:30
@@ -1785,7 +1789,7 @@ msgid ""
 "the second test and get a better mark. Is she right? To test this, let’s "
 "import the |chico|_ data set into jamovi. This time jamovi does a good "
 "job during the import of attributing measurement levels correctly. The "
-"chico data set contains three variables: an ``id`` variable that "
+"|chico|_ data set contains three variables: an ``id`` variable that "
 "identifies each student in the class, the ``grade_test1`` variable that "
 "records the student grade for the first test, and the ``grade_test2`` "
 "variable that has the grades for the second test."
@@ -2007,26 +2011,19 @@ msgstr ""
 #, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
-"exactly the same was as it was the last time we used the ‘One Sample "
-"*t*-Test’ analysis (section :doc:`The one-sample t-test "
+"exactly the same was as it was the last time we used the ``One Sample "
+"T-Test`` analysis (section :doc:`The one-sample t-test "
 "<../Ch11/Ch11_tTest_02>`), and it confirms our intuition. There’s an "
 "average improvement of 1.4% from test 1 to test 2, and this is "
 "significantly different from 0 (*t*\\(19) = 6.48, p < 0.001)."
 msgstr ""
-"Die in :numref:`fig-ttest_paired2` gezeigte Ausgabe ist (natürlich) genau"
-" so formatiert wie bei der letzten Verwendung des *t*-Tests für eine "
-"Stichprobe (Abschnitt :doc:`The one-sample t-test "
-"<../Ch11/Ch11_tTest_02>`), und sie bestätigt unsere Intuition. Es gibt "
-"eine durchschnittliche Verbesserung von 1,4% von Test 1 zu Test 2, und "
-"diese Verbesserung unterscheidet sich signifikant von 0 (*t*\\(19) = "
-"6,48, p < 0,001)."
 
 #: ../../Ch11/Ch11_tTest_05.rst:192
 msgid ""
 "However, suppose you’re lazy and you don’t want to go to all the effort "
 "of creating a new variable. Or perhaps you just want to keep the "
 "difference between one-sample and paired-samples tests clear in your "
-"head. If so, you can use the jamovi ‘Paired Samples *t*-Test’ analysis, "
+"head. If so, you can use the jamovi ``Paired Samples T-Test`` analysis, "
 "getting the results shown in :numref:`fig-ttest_paired3`."
 msgstr ""
 
@@ -2087,27 +2084,28 @@ msgid ""
 "option, under ``Hypothesis``. When you have done this, you will get the "
 "results as shown in :numref:`fig-ttest_onesided1`."
 msgstr ""
-"Bei der Einführung in die Theorie der Nullhypothesentests habe ich erwähnt, "
-"dass es einige Situationen gibt, in denen es angebracht ist, einen "
-"*einseitigen* Test zu verwenden (siehe Abschnitt :doc:`Der Unterschied "
-"zwischen einseitigen und zweiseitigen Tests <../Ch09/"
-"Ch09_HypothesisTesting_04>`). Bisher waren alle *t*-Tests zweiseitige Tests. "
-"Als wir zum Beispiel einen einseitigen *t*-Test für die Noten in Dr. Zeppos "
-"Klasse festgelegt haben, lautete die Nullhypothese, dass der wahre "
-"Mittelwert 67,5 % ist. Die Alternativhypothese war, dass der wahre "
-"Mittelwert größer *oder* kleiner als 67,5% ist. Nehmen wir an, dass wir nur "
-"daran interessiert sind, herauszufinden, ob der wahre Mittelwert größer als "
-"67,5% ist, und dass wir keinerlei Interesse daran haben, zu testen, ob der "
-"wahre Mittelwert kleiner als \\67,5 % ist. In diesem Fall wäre unsere "
-"Nullhypothese, dass der wahre Mittelwert 67,5% oder kleiner ist. Die "
-"Alternativhypothese wäre, dass der wahre Mittelwert größer als 67,5% ist. In "
-"jamovi können Sie dies für die Analyse ``One Sample *t*-Test`` angeben, "
-"indem Sie auf die Option ``> Test Value`` unter ``Hypothesis`` klicken. Wenn "
-"Sie dies getan haben, erhalten Sie die in :numref:`fig-test_onesided1` "
-"gezeigte Ergebnisausgabe."
+"Bei der Einführung in die Theorie der Nullhypothesentests habe ich "
+"erwähnt, dass es einige Situationen gibt, in denen es angebracht ist, "
+"einen *einseitigen* Test zu verwenden (siehe Abschnitt :doc:`Der "
+"Unterschied zwischen einseitigen und zweiseitigen Tests "
+"<../Ch09/Ch09_HypothesisTesting_04>`). Bisher waren alle *t*-Tests "
+"zweiseitige Tests. Als wir zum Beispiel einen einseitigen *t*-Test für "
+"die Noten in Dr. Zeppos Klasse festgelegt haben, lautete die "
+"Nullhypothese, dass der wahre Mittelwert 67,5 % ist. Die "
+"Alternativhypothese war, dass der wahre Mittelwert größer *oder* kleiner "
+"als 67,5% ist. Nehmen wir an, dass wir nur daran interessiert sind, "
+"herauszufinden, ob der wahre Mittelwert größer als 67,5% ist, und dass "
+"wir keinerlei Interesse daran haben, zu testen, ob der wahre Mittelwert "
+"kleiner als \\67,5 % ist. In diesem Fall wäre unsere Nullhypothese, dass "
+"der wahre Mittelwert 67,5% oder kleiner ist. Die Alternativhypothese "
+"wäre, dass der wahre Mittelwert größer als 67,5% ist. In jamovi können "
+"Sie dies für die Analyse ``One Sample *t*-Test`` angeben, indem Sie auf "
+"die Option ``> Test Value`` unter ``Hypothesis`` klicken. Wenn Sie dies "
+"getan haben, erhalten Sie die in :numref:`fig-test_onesided1` gezeigte "
+"Ergebnisausgabe."
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
-msgid "jamovi results showing a One Sample T-Test"
+msgid "jamovi results showing a ``One Sample T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
@@ -2142,25 +2140,27 @@ msgid ""
 " than* *a* (or less than *a* if you selected ``Measure 1 < Measure 2`` in"
 " the ``Hypothesis`` section)."
 msgstr ""
-"Beachten Sie, dass es einige Änderungen gegenüber der Ausgabe vom letzten "
-"Mal gibt. Am wichtigsten ist die Tatsache, dass sich die eigentliche "
-"Hypothese geändert hat, um den anderen Test widerzuspiegeln. Als Zweites ist "
-"zu beachten, dass sich zwar die *t*-Statistik und die Freiheitsgrade nicht "
-"geändert haben, wohl aber der *p*-Wert. Das liegt daran, dass der einseitige "
-"Test einen anderen Ablehnungsbereich hat als der zweiseitige Test. Wenn Sie "
-"vergessen haben, warum dies so ist und was es bedeutet, sollten Sie das "
-"Kapitel :doc:`Hypothesentests <../Ch09/Ch09_Hypothesentesting>` und "
-"insbesondere den Abschnitt :doc:`Der Unterschied zwischen einseitigen und "
-"zweiseitigen Tests <../Ch09/Ch09_HypothesisTesting_04>` noch einmal lesen. "
-"Drittens ist auch das Konfidenzintervall anders: Es wird jetzt ein "
-"„einseitiges“ Konfidenzintervall und nicht mehr ein zweiseitiges angegeben. "
-"In einem zweiseitigen Konfidenzintervall versuchen wir, Zahlen *a* und *b* "
-"zu finden, bei denen wir sicher sein können, dass bei einer mehrmaligen "
-"Wiederholung der Studie 95 % der Mittelwerte *zwischen* *a* und *b* liegen "
-"würde. Bei einem einseitigen Konfidenzintervall versuchen wir, eine einzelne "
-"Zahl *a* zu finden, bei der wir sicher sind, dass der wahre Mittelwert in "
-"95% der Fälle *größer* ist als *a* (oder kleiner als *a*, wenn Sie ``Measure "
-"1 < Measure 2`` im Abschnitt ``Hypothese`` gewählt haben)."
+"Beachten Sie, dass es einige Änderungen gegenüber der Ausgabe vom letzten"
+" Mal gibt. Am wichtigsten ist die Tatsache, dass sich die eigentliche "
+"Hypothese geändert hat, um den anderen Test widerzuspiegeln. Als Zweites "
+"ist zu beachten, dass sich zwar die *t*-Statistik und die Freiheitsgrade "
+"nicht geändert haben, wohl aber der *p*-Wert. Das liegt daran, dass der "
+"einseitige Test einen anderen Ablehnungsbereich hat als der zweiseitige "
+"Test. Wenn Sie vergessen haben, warum dies so ist und was es bedeutet, "
+"sollten Sie das Kapitel :doc:`Hypothesentests "
+"<../Ch09/Ch09_Hypothesentesting>` und insbesondere den Abschnitt "
+":doc:`Der Unterschied zwischen einseitigen und zweiseitigen Tests "
+"<../Ch09/Ch09_HypothesisTesting_04>` noch einmal lesen. Drittens ist auch"
+" das Konfidenzintervall anders: Es wird jetzt ein „einseitiges“ "
+"Konfidenzintervall und nicht mehr ein zweiseitiges angegeben. In einem "
+"zweiseitigen Konfidenzintervall versuchen wir, Zahlen *a* und *b* zu "
+"finden, bei denen wir sicher sein können, dass bei einer mehrmaligen "
+"Wiederholung der Studie 95 % der Mittelwerte *zwischen* *a* und *b* "
+"liegen würde. Bei einem einseitigen Konfidenzintervall versuchen wir, "
+"eine einzelne Zahl *a* zu finden, bei der wir sicher sind, dass der wahre"
+" Mittelwert in 95% der Fälle *größer* ist als *a* (oder kleiner als *a*, "
+"wenn Sie ``Measure 1 < Measure 2`` im Abschnitt ``Hypothese`` gewählt "
+"haben)."
 
 #: ../../Ch11/Ch11_tTest_06.rst:51
 msgid ""
@@ -2171,12 +2171,12 @@ msgid ""
 "interest in finding out if group B has higher scores than group A. Let’s "
 "suppose that, for Dr Harpo’s class, you wanted to see if Anastasia’s "
 "students had higher grades than Bernadette’s. For this analysis, in the "
-"‘Hypothesis’ options, specify that ``Group 1 > Group2``. You should get "
-"the results shown in :numref:`fig-ttest_onesided2`."
+"``Hypothesis`` options, specify that ``Group 1 > Group2``. You should get"
+" the results shown in :numref:`fig-ttest_onesided2`."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
-msgid "One-sided hypothesis in an Independent Samples t-Test"
+msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
@@ -2198,22 +2198,22 @@ msgid ""
 "What about the paired samples *t*-test? Suppose we wanted to test the "
 "hypothesis that grades go *up* from test 1 to test 2 in Dr Zeppo’s class,"
 " and are not prepared to consider the idea that the grades go down. In "
-"jamovi you would do this by specifying, under the ‘Hypotheses’ option, "
-"that ``grade_test2`` (‘Measure 1’ in jamovi, because we copied this first"
-" into the paired variables box) > ``grade_test1`` (‘Measure 2’ in "
+"jamovi you would do this by specifying, under the ``Hypotheses`` option, "
+"that ``grade_test2`` (``Measure 1`` in jamovi, because we copied this "
+"first into the paired variables box) > ``grade_test1`` (``Measure 2`` in "
 "jamovi). You should get the results shown in :numref:`fig-"
 "ttest_onesided3`."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
-msgid "One-sided hypothesis in an Paired Samples t-Test"
+msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid ""
 "jamovi results showing a ``Paired Samples T-Test`` where the actual "
-"hypothesis is one-sided, i.e. that ``grade test2`` (‘Measure 1’) is "
-"larger than ``grade test1`` (‘Measure 2’)."
+"hypothesis is one-sided, i.e. that ``grade test2`` (``Measure 1``) is "
+"larger than ``grade test1`` (``Measure 2``)."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:99
@@ -2486,14 +2486,14 @@ msgstr ""
 "Cohen's d, die Sie für einen Student- oder Welch-Test verwenden würden. "
 "Es ist nicht so einfach, dies in jamovi zu tun. Dafür müssten Sie die "
 "Struktur der Daten in der Datentabelle ändern. Ich werde daher hier nicht"
-" näher darauf eingehen werde. Aber das Cohen's *d* für diese Perspektive"
-" ist ganz anders: Es ist 0,22. Das heißt, es ist ziemlich klein relativ "
+" näher darauf eingehen werde. Aber das Cohen's *d* für diese Perspektive "
+"ist ganz anders: Es ist 0,22. Das heißt, es ist ziemlich klein relativ "
 "zur Variation der ursprünglichen Variablen."
 
 #: ../../Ch11/Ch11_tTest_07.rst:162
 msgid ""
-"If you are interested, you can look at how this was done in the "
-"``chico2`` dataset"
+"If you are interested, you can look at how this was done in the |chico2|_"
+" dataset"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
@@ -2836,7 +2836,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:67
 msgid ""
-"In jamovi, if we run an ``Independent Samples t-Test`` with ``scores`` "
+"In jamovi, if we run an ``Independent Samples T-Test`` with ``scores`` "
 "|continuous| as the dependent variable. and ``group`` as the grouping "
 "variable |nominal|, and then under the options for ``Tests`` check the "
 "option for ``Mann-Whitney U``, we will get results showing that U = 3 "
@@ -3007,3 +3007,16 @@ msgid ""
 "If your data are non-normal, you can use :doc:`Mann-Whitney or Wilcoxon "
 "tests <../Ch11/Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+

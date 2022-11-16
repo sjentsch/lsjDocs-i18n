@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
+"POT-Creation-Date: 2022-11-16 00:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -442,11 +442,11 @@ msgid ""
 "`Introduction to psychological measurement <../Ch02/Ch02_StudyDesign_1>`), "
 "statisticians operationalise the concept of a “population” in terms of "
 "mathematical objects that they know how to work with. You’ve already come "
-"across these objects in chapter :doc:`Introduction to probability  <../Ch07/"
+"across these objects in chapter :doc:`Introduction to probability <../Ch07/"
 "Ch07_Probability>`. They’re called probability distributions."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:341
+#: ../../Ch08/Ch08_Estimation_1.rst:342
 msgid ""
 "The idea is quite simple. Let’s say we’re talking about IQ scores. To a "
 "psychologist the population of interest is a group of actual humans who have "
@@ -460,25 +460,25 @@ msgid ""
 "deviation *σ* is 15."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:359
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:359
 msgid ""
 "The population distribution of IQ scores (left panel) and two samples drawn "
 "randomly from it: In the middle panel, we have a sample of 100 observations, "
 "and in the right panel, we have a sample of 10,000 observations."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:364
+#: ../../Ch08/Ch08_Estimation_1.rst:365
 msgid ""
 "Now suppose I run an experiment. I select 100 people at random and "
 "administer an IQ test, giving me a simple random sample from the population. "
 "My sample would consist of a collection of numbers like this:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:373
+#: ../../Ch08/Ch08_Estimation_1.rst:374
 msgid ""
 "Each of these IQ scores is sampled from a normal distribution with mean 100 "
 "and standard deviation 15. So if I plot a histogram of the sample I get "
@@ -501,7 +501,7 @@ msgid ""
 "sampling theory that you need to know about."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:396
+#: ../../Ch08/Ch08_Estimation_1.rst:397
 msgid ""
 "The proper mathematical definition of randomness is extraordinarily "
 "technical, and way beyond the scope of this book. We’ll be non-technical "
@@ -509,7 +509,7 @@ msgid ""
 "is possible to repeat the process and get different answers each time."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:403
+#: ../../Ch08/Ch08_Estimation_1.rst:404
 msgid ""
 "Nothing in life is that simple. There’s not an obvious division of people "
 "into binary categories like “schizophrenic” and “not schizophrenic”. But "
@@ -1897,21 +1897,22 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_5.rst:174
 msgid ""
 "As far as I can tell, jamovi does not (yet) include a simple way to "
-"calculate confidence intervals for the mean as part of the ‘Descriptives’ "
-"functionality. But the ``Descriptives`` do have a check box for the S.E. "
-"Mean, so you can use this to calculate the lower 95% confidence interval as:"
+"calculate confidence intervals for the mean as part of the functionality of "
+"``Descriptives``. But the ``Descriptives`` do have a check box for the ``S."
+"E. Mean``, so you can use this to calculate the lower 95% confidence "
+"interval as:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:179
+#: ../../Ch08/Ch08_Estimation_5.rst:180
 msgid ""
 "``Mean - (1.96 * S.E. Mean)`` , and the upper 95% confidence interval as:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:182
+#: ../../Ch08/Ch08_Estimation_5.rst:183
 msgid "``Mean + (1.96 * S.E. Mean)``"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:184
+#: ../../Ch08/Ch08_Estimation_5.rst:185
 msgid ""
 "95% confidence intervals are the de facto standard in psychology. So, for "
 "example, if I load the |IQsim|_ data set, check mean and S.E mean under "
@@ -1919,15 +1920,15 @@ msgid ""
 "simulated mean IQ:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:189
+#: ../../Ch08/Ch08_Estimation_5.rst:190
 msgid "Lower 95% CI = 99.68 - (1.96 \\* 0.15) = 99.39"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:191
+#: ../../Ch08/Ch08_Estimation_5.rst:192
 msgid "Upper 95% CI = 99.68 + (1.96 \\* 0.15) = 99.98"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:193
+#: ../../Ch08/Ch08_Estimation_5.rst:194
 msgid ""
 "So, in our simulated large sample data with N=10,000, the mean IQ score is "
 "\\99.68 with a 95% CI from 99.39 to 99.98. Hopefully that’s fairly clear. "
@@ -1936,7 +1937,7 @@ msgid ""
 "options, if we wanted to we could pretty easily work it out by hand."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:199
+#: ../../Ch08/Ch08_Estimation_5.rst:200
 msgid ""
 "Similarly, when it comes to plotting confidence intervals in jamovi, this is "
 "not (yet) available as part of the ``Descriptives`` options. However, when "
@@ -1946,7 +1947,7 @@ msgid ""
 "analysis. That’s pretty cool, so we’ll show you how to do that later on."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:209
+#: ../../Ch08/Ch08_Estimation_5.rst:210
 msgid ""
 "This quote appears on a great many t-shirts and websites, and even gets a "
 "mention in a few academic papers (e.g., https://www.amstat.org/publications/"
