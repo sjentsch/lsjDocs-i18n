@@ -8,23 +8,26 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 # #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-19 00:48+0000\n"
+"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
 msgid "Comparing several means (one-way ANOVA)"
-msgstr ""
+msgstr "Vergleich mehrerer Mittelwerte (einfaktorielle (*one-way *) ANOVA)"
 
 #: ../../Ch13/Ch13_ANOVA.rst:22
 msgid ""
@@ -45,6 +48,23 @@ msgid ""
 "outcome variable of interest. This is the question that is addressed by a"
 " **one-way ANOVA**."
 msgstr ""
+"In diesem Kapitel wird eines der am weitesten verbreiteten Instrumente der "
+"psychologischen Statistik vorgestellt, das als \"Varianzanalyse\" bekannt "
+"ist, gewöhnlich allerdings als ANOVA bezeichnet wird. Die grundlegende "
+"Technik wurde von Sir Ronald Fisher Anfang des 20. Jahrhunderts entwickelt "
+"und ihm verdanken wir auch die etwas unglückliche Terminologie. Der Begriff "
+"ANOVA ist in zweierlei Hinsicht etwas irreführend. Erstens bezieht sich der "
+"Name der Technik zwar auf die Varianzen, jedoch geht es bei der ANOVA um die "
+"Untersuchung von Mittelwertunterschieden. Zweitens gibt es verschiedene "
+"Verfahren, die alle als ANOVAs bezeichnet werden und von denen einige nur "
+"eine sehr schwache Verbindung zueinander haben. Im weiteren Verlauf des "
+"Buches werden wir eine Reihe verschiedener ANOVA-Methoden kennenlernen, die "
+"in ganz unterschiedlichen Situationen Anwendung finden. In diesem Kapitel "
+"werden wir nur die einfachste Form der ANOVA betrachten, bei der wir mehrere "
+"verschiedene Gruppen von Beobachtungen haben und herausfinden wollen, ob "
+"sich diese Gruppen in Bezug auf eine interessierende Ergebnisvariable "
+"unterscheiden. Dies ist die Frage, die mit einer **Einfaktoriellen-ANOVA** "
+"(*one-way ANOVA) beantwortet wird."
 
 #: ../../Ch13/Ch13_ANOVA.rst:39
 msgid ""
@@ -2853,27 +2873,3 @@ msgid ""
 "beginners, but it’s an excellent book for more advanced readers who are "
 "interested in understanding the mathematics behind ANOVA."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
