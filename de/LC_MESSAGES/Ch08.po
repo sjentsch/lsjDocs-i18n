@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-18 10:48+0000\n"
+"PO-Revision-Date: 2022-11-18 13:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
 "\n"
@@ -1068,6 +1068,7 @@ msgstr ""
 "Populationsparametern immer mehr annähern."
 
 #: ../../Ch08/Ch08_Estimation_2.rst:79
+#, fuzzy
 msgid ""
 "Technically, the law of large numbers pertains to any sample statistic "
 "that can be described as an average of independent quantities. That’s "
@@ -1078,10 +1079,20 @@ msgid ""
 "sample, however, cannot be written as an average of anything and is "
 "therefore not governed by the law of large numbers."
 msgstr ""
+"Technisch gesehen bezieht sich das Gesetz der großen Zahlen auf jede "
+"statistische Stichprobe, die als Durchschnitt unabhängiger Größen "
+"beschrieben werden kann. Das gilt sicherlich für den Stichprobenmittelwert. "
+"Es ist jedoch auch möglich, viele andere Stichprobenstatistiken als "
+"Durchschnittswerte der einen oder anderen Form zu schreiben. Die Varianz "
+"einer Stichprobe zum Beispiel kann als eine Art Durchschnitt umgeschrieben "
+"werden und unterliegt somit dem Gesetz der großen Zahlen. Der Minimalwert "
+"einer Stichprobe kann jedoch nicht als Mittelwert von irgendetwas "
+"geschrieben werden und unterliegt daher nicht dem Gesetz der großen Zahlen."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:4
+#, fuzzy
 msgid "Sampling distributions and the central limit theorem"
-msgstr ""
+msgstr "Stichprobenverteilungen und der zentrale Grenzwertsatz"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:6
 msgid ""
