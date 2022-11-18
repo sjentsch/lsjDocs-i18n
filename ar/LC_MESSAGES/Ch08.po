@@ -1714,7 +1714,6 @@ msgid "Unknown origin\\ [#]_"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:12
-#, python-format
 msgid ""
 "Up to this point in this chapter, I’ve outlined the basics of sampling "
 "theory which statisticians rely on to make guesses about population "
@@ -1733,7 +1732,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:26
-#, python-format
 msgid ""
 "Armed with an understanding of sampling distributions, constructing a "
 "confidence interval for the mean is actually pretty easy. Here’s how it "
@@ -1749,7 +1747,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:37
-#, python-format
 msgid ""
 "To be more precise, the more correct answer is that there is a 95% chance"
 " that a normally-distributed quantity will fall within 1.96 standard "
@@ -1770,7 +1767,6 @@ msgid "*µ* – 1.96 × SEM ≤ *X̄* ≤ *µ* + (1.96 × SEM)"
 msgstr "*µ* – 1.96 × SEM ≤ *X̄* ≤ *µ* + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
-#, python-format
 msgid ""
 "where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be 95% "
 "confident that this is true. However, that’s not answering the question "
@@ -1788,7 +1784,6 @@ msgid "*X̄* − (1.96 × SEM) ≤ *µ* ≤ *X̄* + (1.96 × SEM)"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:60
-#, python-format
 msgid ""
 "What this is telling is is that the range of values has a 95% probability"
 " of containing the population mean *µ*. We refer to this range as a **95%"
@@ -1809,7 +1804,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:69
-#, python-format
 msgid ""
 "Of course, there’s nothing special about the number 1.96. It just happens"
 " to be the multiplier you need to use if you want a 95% confidence "
@@ -1822,7 +1816,6 @@ msgid "A slight mistake in the formula"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:77
-#, python-format
 msgid ""
 "As usual, I lied. The formula that I’ve given above for the 95% "
 "confidence interval is approximately correct, but I glossed over an "
@@ -1861,7 +1854,6 @@ msgid "Interpreting a confidence interval"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:105
-#, python-format
 msgid ""
 "The hardest thing about confidence intervals is understanding what they "
 "*mean*. Whenever people first encounter confidence intervals, the first "
@@ -1883,7 +1875,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:121
-#, python-format
 msgid ""
 "Okay, so if that’s not the right answer, what is? Remember what we said "
 "about frequentist probability. The only way we are allowed to make "
@@ -1908,7 +1899,6 @@ msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:142
-#, python-format
 msgid ""
 "95% confidence intervals. The top panel shows 50 simulated replications "
 "of an experiment in which we measure the IQs of 10 people. The dot marks "
@@ -1951,7 +1941,6 @@ msgid "Calculating confidence intervals in jamovi"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:174
-#, python-format
 msgid ""
 "As far as I can tell, jamovi does not (yet) include a simple way to "
 "calculate confidence intervals for the mean as part of the functionality "
@@ -1961,7 +1950,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:180
-#, python-format
 msgid "``Mean - (1.96 * S.E. Mean)`` , and the upper 95% confidence interval as:"
 msgstr ""
 
@@ -1970,7 +1958,6 @@ msgid "``Mean + (1.96 * S.E. Mean)``"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:185
-#, python-format
 msgid ""
 "95% confidence intervals are the de facto standard in psychology. So, for"
 " example, if I load the |IQsim|_ data set, check mean and S.E mean under "

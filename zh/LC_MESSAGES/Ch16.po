@@ -164,7 +164,6 @@ msgid "Likelihoods: theories about the data"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
-#, python-format
 msgid ""
 "To solve the reasoning problem you need a theory about my behaviour. When"
 " does Dani carry an umbrella? You might guess that I’m not a complete "
@@ -523,7 +522,6 @@ msgid "0.486"
 msgstr "0.486"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:261
-#, python-format
 msgid ""
 "What this table is telling you is that, after being told that I’m "
 "carrying an umbrella, you believe that there’s a 51.4% chance that today "
@@ -933,7 +931,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:30
-#, python-format
 msgid ""
 "To me, one of the biggest advantages to the Bayesian approach is that it "
 "answers the right questions. Within the Bayesian framework, it is "
@@ -983,7 +980,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:68
-#, python-format
 msgid ""
 "Nope! That’s *not* what *p* < 0.05 means. That’s *not* what 95% "
 "confidence means to a frequentist statistician. The bolded section is "
@@ -1008,7 +1004,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:87
-#, python-format
 msgid ""
 "Speaking for myself, I found this to be the most liberating thing about "
 "switching to the Bayesian view. Once you’ve made the jump, you no longer "
@@ -1054,7 +1049,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:123
-#, python-format
 msgid ""
 "Well, how true is that? One way to approach this question is to try to "
 "convert *p*-values to Bayes factors, and see how the two compare. It’s "
@@ -1283,7 +1277,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:275
-#, python-format
 msgid ""
 "Worse yet, they’re a lie in a dangerous way, because they’re all *too "
 "small*. To give you a sense of just how bad it can be, consider the "
@@ -1321,7 +1314,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:311
-#, python-format
 msgid ""
 "So how bad is it? The answer is shown as the solid black line in :numref"
 ":`fig-adapt`, and it’s *astoundingly* bad. If you peek at your data after"

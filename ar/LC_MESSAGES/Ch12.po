@@ -1439,7 +1439,6 @@ msgid "R² = 1 - 0.184"
 msgstr "R² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
-#, python-format
 msgid ""
 "This gives a value for R² of **0.816**. The R² value, sometimes called "
 "the **coefficient of determination**\\ [#]_ has a simple interpretation: "
@@ -1784,7 +1783,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:153
-#, python-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
 "shown in `fig-reg2` provides the coefficients of the regression model. "
@@ -1803,7 +1801,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:169
-#, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
 "degrees of freedom used in the *t*-test, which is always *N* - K - 1 and "
@@ -1888,7 +1885,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
-#, python-format
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -1978,12 +1974,10 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
-#, python-format
 msgid "Standardised coefficients with 95% confidence intervals"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
-#, python-format
 msgid ""
 "Standardised coefficients, with 95% confidence intervals, for multiple "
 "linear regression"

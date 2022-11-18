@@ -364,7 +364,6 @@ msgid "z\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "z\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:181
-#, python-format
 msgid ""
 "(again, see section :doc:`Standard scores <../Ch04/Ch04_Descriptives_5>` "
 "if you’ve forgotten why this is true). In other words, regardless of what"
@@ -729,7 +728,6 @@ msgid "Conducting an One-sample t-test in jamovi"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:133
-#, python-format
 msgid ""
 "Also reported are two other things you might care about: the 95% "
 "confidence interval and a measure of effect size (we’ll talk more about "
@@ -749,7 +747,6 @@ msgstr ""
 "das Ergebnis in etwa so wiedergeben:"
 
 #: ../../Ch11/Ch11_tTest_02.rst:141
-#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher"
 " than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -973,7 +970,6 @@ msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
-#, python-format
 msgid ""
 "The plots show the mean grade for students in Anastasia’s and "
 "Bernadette’s tutorials. Error bars depict 95% confidence intervals around"
@@ -1314,7 +1310,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:292
-#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval "
 "actually refers to. It is a confidence interval for the *difference* "
@@ -1351,7 +1346,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:308
-#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5% (std dev = 9.0), whereas "
 "the mean in Bernadette’s class was 69.1% (std dev = 5.8). A Student’s "
@@ -1814,7 +1808,6 @@ msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:55
-#, python-format
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
 "ttest_paired1`, we see that this impression seems to be supported. Across"
@@ -1846,7 +1839,6 @@ msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
-#, python-format
 msgid ""
 "Mean grade for test 1 and test 2, with associated 95% confidence "
 "intervals (left panel). Scatterplot showing the individual grades for "
@@ -2008,7 +2000,6 @@ msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:185
-#, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample "
@@ -2065,7 +2056,6 @@ msgid "One-sided tests"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
-#, python-format
 msgid ""
 "When introducing the theory of null hypothesis tests, I mentioned that "
 "there are some situations when it’s appropriate to specify a *one-sided* "
@@ -2118,7 +2108,6 @@ msgstr ""
 "einseitig getestet wurde."
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
-#, python-format
 msgid ""
 "Notice that there are a few changes from the output that we saw last "
 "time. Most important is the fact that the actual hypothesis has changed, "
@@ -2457,7 +2446,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:144
-#, python-format
 msgid ""
 "This is the version of Cohen’s *d* that gets reported by the jamovi "
 "``Paired Samples T-Test`` analysis. The only wrinkle is figuring out "

@@ -308,7 +308,6 @@ msgstr ""
 "Prozentanteilen für jede Zeile"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:105
-#, python-format
 msgid ""
 "What we’re looking at here is the percentage of utterances made by each "
 "character. In other words, 50% of ``makka-pakka``’s utterances are "
