@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-20 15:47+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-11-20 22:03+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
 "Language: de\n"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:4
 msgid "Estimating a linear regression model"
-msgstr ""
+msgstr "Schätzen eines linearen Regressionsmodells"
 
 #: ../../Ch12/Ch12_Regression_04.rst:12
 msgid "Residuals associated with the best and with a poor regression line"
