@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-20 21:48+0000\n"
+"PO-Revision-Date: 2022-11-20 22:03+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
 "\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation.rst:4
 msgid "Estimating unknown quantities from a sample"
-msgstr "Schätzung unbekannter Größen aus einer Stichprobe"
+msgstr "Schätzen unbekannter Größen aus einer Stichprobe"
 
 #: ../../Ch08/Ch08_Estimation.rst:18
 msgid ""
@@ -66,23 +66,23 @@ msgstr ""
 "Position, um über das Problem der statistischen Inferenz nachzudenken. Über "
 "welche Dinge möchten wir etwas lernen? Und wie können wir sie lernen? Diese "
 "Fragen stehen im Mittelpunkt der Inferenzstatistik und werden traditionell "
-"in zwei „große Ideen“ unterteilt: Schätzung und Hypothesentestung. Das "
-"Ziel dieses Kapitels ist es, die erste dieser großen Ideen, die "
-"Schätztheorie, vorzustellen. Ich werde mich zunächst jedoch mit der "
-"Stichprobentheorie beschäftigen, weil die Schätztheorie erst dann Sinn "
-"ergibt, wenn man die Stichprobentheorie verstanden hat. Aus diesem Grund "
-"teilt sich das Kapitel in zwei Teile: :doc:`Stichproben, Grundgesamtheiten "
-"und Stichprobenziehung <../Ch08/Ch08_Estimation_1>` bis :doc:"
-"`Stichprobenverteilungen und der zentrale Grenzwertsatz <../Ch08/"
-"Ch08_Estimation_3>` konzentrieren sich auf die Stichprobentheorie und :doc:"
-"`Schätzung von Mittelwerten und Standardabweichungen <../Ch08/"
-"Ch08_Estimation_4>` und :doc:`Schätzung eines Konfidenzintervalls <../Ch08/"
-"Ch08_Estimation_5>` machen wiederum Gebrauch von der Stichprobentheorie, um "
-"zu erläutern, wie Statistiker über Schätzungen nachdenken."
+"in zwei „große Ideen“ unterteilt: Schätzung und Hypothesentestung. Das Ziel "
+"dieses Kapitels ist es, die erste dieser großen Ideen, die Schätztheorie, "
+"vorzustellen. Ich werde mich zunächst jedoch mit der Stichprobentheorie "
+"beschäftigen, weil die Schätztheorie erst dann Sinn ergibt, wenn man die "
+"Stichprobentheorie verstanden hat. Aus diesem Grund teilt sich das Kapitel "
+"in zwei Teile: :doc:`Stichproben, Grundgesamtheiten und Stichprobenziehung "
+"<../Ch08/Ch08_Estimation_1>` bis :doc:`Stichprobenverteilungen und der "
+"zentrale Grenzwertsatz <../Ch08/Ch08_Estimation_3>` konzentrieren sich auf "
+"die Stichprobentheorie und :doc:`Schätzen von Mittelwerten und "
+"Standardabweichungen <../Ch08/Ch08_Estimation_4>` und :doc:`Schätzen eines "
+"Konfidenzintervalls <../Ch08/Ch08_Estimation_5>` machen wiederum Gebrauch "
+"von der Stichprobentheorie, um zu erläutern, wie Statistiker über "
+"Schätzungen nachdenken."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:4
 msgid "Samples, populations and sampling"
-msgstr "Stichproben, Populationen und Stichprobenziehung"
+msgstr "Stichproben, Grundgesamtheit und Stichprobenziehung"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:6
 msgid ""
@@ -1068,7 +1068,6 @@ msgstr ""
 "Populationsparametern immer mehr annähern."
 
 #: ../../Ch08/Ch08_Estimation_2.rst:79
-#, fuzzy
 msgid ""
 "Technically, the law of large numbers pertains to any sample statistic "
 "that can be described as an average of independent quantities. That’s "
@@ -1090,7 +1089,6 @@ msgstr ""
 "geschrieben werden und unterliegt daher nicht dem Gesetz der großen Zahlen."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:4
-#, fuzzy
 msgid "Sampling distributions and the central limit theorem"
 msgstr "Stichprobenverteilungen und der zentrale Grenzwertsatz"
 
@@ -1874,7 +1872,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:4
 msgid "Estimating population parameters"
-msgstr "Schätzung von Populationsparametern"
+msgstr "Schätzen von Populationsparametern"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:6
 msgid ""
@@ -1944,7 +1942,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:37
 msgid "Estimating the population mean"
-msgstr "Schätzung des Mittelwerts der Grundgesamtheit"
+msgstr "Schätzen des Mittelwerts der Grundgesamtheit"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:39
 msgid ""
@@ -1988,7 +1986,7 @@ msgid ""
 "also :math:`\\hat\\mu` = 98.5. To help keep the notation clear, here’s a "
 "handy table:"
 msgstr ""
-"In diesem Beispiel ist die Schätzung des unbekannten Populationsparameters "
+"In diesem Beispiel ist das Schätzen des unbekannten Populationsparameters "
 "ganz einfach. Ich berechne den Stichprobenmittelwert und verwende ihn als **"
 "Schätzung des Populationsmittelwerts**. Das ist ziemlich einfach, und im "
 "nächsten Abschnitt werde ich die statistische Rechtfertigung für diese "
@@ -2061,7 +2059,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:82
 msgid "Estimating the population standard deviation"
-msgstr "Schätzung der Standardabweichung der Grundgesamtheit"
+msgstr "Schätzen der Standardabweichung der Grundgesamtheit"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:84
 msgid ""
@@ -2086,9 +2084,9 @@ msgstr ""
 "überlegen wir uns, wie wir eine **Schätzung der Standardabweichung der "
 "Grundgesamtheit** konstruieren können, die wir als :math:`\\hat\\sigma` "
 "bezeichnen. Was sollen wir in diesem Fall als Schätzung verwenden? Ihr "
-"erster Gedanke könnte sein, dass wir dasselbe tun könnten wie bei der "
-"Schätzung des Mittelwerts und einfach die Stichprobenstatistik als Schätzung "
-"verwenden. Das ist fast das Richtige, aber nicht ganz."
+"erster Gedanke könnte sein, dass wir dasselbe tun könnten wie beim Schätzen "
+"des Mittelwerts und einfach die Stichprobenstatistik als Schätzer verwenden. "
+"Das ist fast das Richtige, aber nicht ganz."
 
 #: ../../Ch08/Ch08_Estimation_4.rst:95
 msgid ""
@@ -3173,7 +3171,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_6.rst:22
 msgid ":doc:`Estimating a confidence interval <../Ch08/Ch08_Estimation_5>`"
-msgstr ":doc:`Schätzen von Konfidenzintervallen <../Ch08/Ch08_Estimation_5>`"
+msgstr ":doc:`Schätzen eines Konfidenzintervalls <../Ch08/Ch08_Estimation_5>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:24
 msgid ""
