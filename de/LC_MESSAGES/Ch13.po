@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-20 14:48+0000\n"
+"PO-Revision-Date: 2022-11-20 15:47+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -160,7 +160,7 @@ msgstr "nominal"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:51
 msgid "continuous"
-msgstr "continuous"
+msgstr "konitunierlich"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:24
 msgid ""
@@ -171,14 +171,23 @@ msgid ""
 " some of the descriptive statistics we can calculate in jamovi are shown "
 "in :numref`fig-anova1`."
 msgstr ""
+"Für die Zwecke dieses Kapitels sind wir an den Auswirkungen von ``drug`` auf "
+"``mood.gain`` interessiert. Als Erstes müssen wir einige deskriptive "
+"Statistiken berechnen und einige Diagramme zeichnen. In :doc:`Descriptive "
+"statistics <../Ch04/Ch04_Descriptives>` haben wir Ihnen gezeigt, wie man das "
+"macht, und einige der deskriptiven Statistiken, die wir in jamovi berechnen "
+"können, sind in :numref`fig-anova1` dargestellt."
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:36
 msgid "Descriptives for mood.gain, and box plots by drug administered"
 msgstr ""
+"Deskriptivstatistik zu mood.gain und Boxplots entsprechend verabreichter "
+"Medikamente"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:36
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
+"Deskripivstatistik für ``mood.gain``, und Boxplots von ``drug`` verabreicht"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:40
 msgid ""
@@ -189,10 +198,17 @@ msgid ""
 "The question that we want to answer is are these difference “real”, or "
 "are they just due to chance?"
 msgstr ""
+"Wie die Grafik verdeutlicht, verbessert sich die Stimmung der Teilnehmer in "
+"der ``Joyzepam`` Gruppe stärker als in der ``Anxifree`` Gruppe, oder der "
+"``Placebo`` Gruppe. Die ``Anxifree`` Gruppe zeigt eine stärkere Verbesserung "
+"der Stimmung als die ``Placebo`` Gruppe, allerdings ist der Unterschied ist "
+"nicht so groß. Die Frage, die wir beantworten wollen, ist, ob diese "
+"Unterschiede \"echt\" sind, oder ob sie nur auf den Zufall zurückzuführen "
+"sind?"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:4
 msgid "How ANOVA works"
-msgstr ""
+msgstr "Wie die ANOVA funktioniert"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:6
 msgid ""
