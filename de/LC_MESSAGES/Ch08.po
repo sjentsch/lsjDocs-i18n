@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-18 13:48+0000\n"
+"PO-Revision-Date: 2022-11-20 19:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
 "\n"
@@ -1104,6 +1104,14 @@ msgid ""
 "Maynard Keynes famously argued in economics, a long run guarantee is of "
 "little use in real life."
 msgstr ""
+"Das Gesetz der großen Zahlen ist ein sehr mächtiges Instrument. Aber es "
+"reicht nicht aus, um alle unsere Fragen zu beantworten. Es gibt uns unter "
+"anderem nur eine „Langzeitgarantie“. Wenn es uns irgendwie gelänge, "
+"unendlich viele Daten zu sammeln, dann garantiert das Gesetz der großen "
+"Zahlen, dass unsere Stichprobenstatistiken auf lange Sicht korrekt sein "
+"werden. Aber wie John Maynard Keynes in den Wirtschaftswissenschaften "
+"bekanntlich argumentierte, ist eine Garantie auf lange Sicht im wirklichen "
+"Leben von geringem Nutzen."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:14
 msgid ""
@@ -1113,6 +1121,11 @@ msgid ""
 "long past, the ocean is flat again* (`Keynes, 1923 "
 "<../Other/References.html#keynes-1923>`__\\ )."
 msgstr ""
+"*Die Langfristigkeit ist ein irreführender Leitfaden für aktuelle "
+"Angelegenheiten. Auf lange Sicht sind wir alle tot. Die Ökonomen machen es "
+"sich zu leicht, zu nutzlos, wenn sie uns in stürmischen Zeiten nur sagen "
+"können, dass das Meer wieder flach ist, wenn der Sturm längst vorüber ist* (`"
+"Keynes, 1923 <../Other/References.html#keynes-1923>`__\\ )."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:20
 msgid ""
@@ -1124,10 +1137,19 @@ msgid ""
 "we must know something about the behaviour of the sample mean when it is "
 "calculated from a more modest data set!"
 msgstr ""
+"Wie in der Wirtschaft gilt dies auch für die Psychologie und die Statistik. "
+"Es reicht nicht aus, zu wissen, dass wir *langfristig* die richtige Antwort "
+"erhalten, wenn wir den Stichprobenmittelwert berechnen. Das Wissen, dass ein "
+"unendlich großer Datensatz mir den genauen Wert des Mittelwerts der "
+"Grundgesamtheit sagen wird, ist ein schwacher Trost, wenn mein "
+"*tatsächlicher* Datensatz einen Stichprobenumfang von *N* = 100 hat. Im "
+"wirklichen Leben müssen wir also etwas über das Verhalten des "
+"Stichprobenmittelwerts wissen, wenn er aus einem bescheideneren Datensatz "
+"berechnet wird!"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:29
 msgid "Sampling distribution of the mean"
-msgstr ""
+msgstr "Stichprobenverteilung des Mittelwerts"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:31
 msgid ""
@@ -1138,6 +1160,13 @@ msgid ""
 "NORM(100,15)`` function, but I only need 5 participant IDs this time, not"
 " 10,000. These are the five numbers that jamovi generated:"
 msgstr ""
+"Vor diesem Hintergrund sollten wir uns von der Vorstellung verabschieden, "
+"dass unsere Studien eine Stichprobengröße von 10.000 Personen haben, und "
+"stattdessen ein viel bescheideneres Experiment in Betracht ziehen. Diesmal "
+"nehmen wir eine Stichprobe *N* = 5 Personen und messen ihre IQ-Werte. Wie "
+"zuvor kann ich dieses Experiment in der Funktion jamovi ``= NORM(100,15)`` "
+"simulieren, aber diesmal brauche ich nur 5 Teilnehmer-IDs, nicht 10.000. "
+"Dies sind die fünf Zahlen, die jamovi erzeugt hat:"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:42
 msgid ""
@@ -1148,6 +1177,13 @@ msgid ""
 "measure their IQ. Again, jamovi allows me to simulate the results of this"
 " procedure, and generates these five numbers:"
 msgstr ""
+"Der durchschnittliche IQ in dieser Stichprobe liegt bei genau 95. Es "
+"überrascht nicht, dass dies viel ungenauer ist als das vorherige Experiment. "
+"Stellen Sie sich nun vor, ich beschließe, das Experiment zu **replizieren**. "
+"Das heißt, ich wiederhole das Verfahren so genau wie möglich und nehme nach "
+"dem Zufallsprinzip 5 neue Personen und messe ihren IQ. Wiederum erlaubt mir "
+"jamovi, die Ergebnisse dieses Verfahrens zu simulieren, und generiert diese "
+"fünf Zahlen:"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:53
 msgid ""
@@ -1156,38 +1192,44 @@ msgid ""
 "replications`, and as you can see the sample mean varies from one "
 "replication to the next."
 msgstr ""
+"Dieses Mal liegt der mittlere IQ in meiner Stichprobe bei 101. Wenn ich das "
+"Experiment 10 Mal wiederhole, erhalte ich die in :numref:`tab-replications` "
+"gezeigten Ergebnisse, und wie Sie sehen können, variiert der "
+"Stichprobenmittelwert von einer Wiederholung zur nächsten."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:57
 msgid "Ten replications of the IQ experiment, each with a sample size of *N* =5"
 msgstr ""
+"Zehn Wiederholungen des IQ-Experiments, jeweils mit einer Stichprobengröße "
+"von *N* =5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Person 1"
-msgstr ""
+msgstr "Person 1"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Person 2"
-msgstr ""
+msgstr "Person 2"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Person 3"
-msgstr ""
+msgstr "Person 3"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Person 4"
-msgstr ""
+msgstr "Person 4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Person 5"
-msgstr ""
+msgstr "Person 5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:61
 msgid "Sample Mean"
-msgstr ""
+msgstr "Stichprobenmittelwert"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Replication 1"
-msgstr ""
+msgstr "Replikation 1"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "90"
@@ -1215,7 +1257,7 @@ msgstr "95.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "Replication 2"
-msgstr ""
+msgstr "Replikation 2"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "78"
@@ -1239,7 +1281,7 @@ msgstr "101.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "Replication 3"
-msgstr ""
+msgstr "Replikation 3"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "122"
@@ -1264,7 +1306,7 @@ msgstr "101.6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "Replication 4"
-msgstr ""
+msgstr "Replikation 4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "96"
@@ -1284,7 +1326,7 @@ msgstr "103.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "Replication 5"
-msgstr ""
+msgstr "Replikation 5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "105"
@@ -1304,7 +1346,7 @@ msgstr "104.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "Replication 6"
-msgstr ""
+msgstr "Replikation 6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "81"
@@ -1332,7 +1374,7 @@ msgstr "92.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "Replication 7"
-msgstr ""
+msgstr "Replikation 7"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "100"
@@ -1352,7 +1394,7 @@ msgstr "106.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "Replication 8"
-msgstr ""
+msgstr "Replikation 8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "102.8"
@@ -1360,7 +1402,7 @@ msgstr "102.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "Replication 9"
-msgstr ""
+msgstr "Replikation 9"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "73"
@@ -1376,7 +1418,7 @@ msgstr "100.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "Replication 10"
-msgstr ""
+msgstr "Replikation 10"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "95"
@@ -1412,6 +1454,14 @@ msgid ""
 "means listed in :numref:`tab-replications`, so my data set starts out "
 "like this:"
 msgstr ""
+"Nehmen wir nun an, ich beschließe, so weiterzumachen und das Experiment „"
+"fünf IQ-Werte“ immer wieder zu wiederholen. Jedes Mal, wenn ich das "
+"Experiment wiederhole, schreibe ich den Mittelwert der Stichprobe auf. Mit "
+"der Zeit würde ich einen neuen Datensatz sammeln, in dem jedes Experiment "
+"einen einzelnen Datenpunkt erzeugt. Die ersten 10 Beobachtungen meines "
+"Datensatzes sind die Stichprobenmittelwerte, die in :numref:`tab-"
+"replications` aufgelistet sind, so dass mein Datensatz folgendermaßen "
+"beginnt:"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:96
 msgid ""
@@ -1424,10 +1474,19 @@ msgid ""
 "distribution has a special name in statistics, it’s called the **sampling"
 " distribution of the mean**."
 msgstr ""
+"Was wäre, wenn ich 10.000 Wiederholungen durchführen und dann ein Histogramm "
+"zeichnen würde? Nun, genau das habe ich getan, und Sie können die Ergebnisse "
+"in :numref:`fig-samplingDist4` sehen. Wie dieses Bild zeigt, liegt der "
+"Durchschnitt von 5 IQ-Werten normalerweise zwischen 90 und 110. Was aber "
+"noch wichtiger ist, ist die Tatsache, dass wir, wenn wir ein Experiment "
+"immer und immer wieder wiederholen, eine *Verteilung* der "
+"Stichprobenmittelwerte erhalten! Diese Verteilung hat in der Statistik einen "
+"besonderen Namen, sie heißt **Stichprobenverteilung des Mittelwerts**."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:111
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr ""
+"Stichprobenverteilung: Mittelwert für das „Experiment mit fünf IQ-Werten“"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:111
 msgid ""
@@ -1438,6 +1497,12 @@ msgid ""
 "For comparison, the black line plots the population distribution of IQ "
 "scores."
 msgstr ""
+"Die Stichprobenverteilung des Mittelwerts für das „Experiment mit fünf IQ-"
+"Werten“: Wenn man eine Zufallsstichprobe von 5 Personen nimmt und ihren "
+"durchschnittlichen IQ berechnet, erhält man mit ziemlicher Sicherheit eine "
+"Zahl zwischen 80 und 120, auch wenn es eine ganze Reihe von Personen gibt, "
+"deren IQ über 120 oder unter 80 liegt. Zum Vergleich: Die schwarze Linie "
+"zeigt die Verteilung der IQ-Werte in der Bevölkerung."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:119
 msgid ""
@@ -1450,10 +1515,18 @@ msgid ""
 "experiment, the sampling distribution tells me that I can expect to see a"
 " sample mean anywhere between 80 and 120."
 msgstr ""
+"Stichprobenverteilungen sind eine weitere wichtige theoretische Idee in der "
+"Statistik, und sie sind entscheidend für das Verständnis des Verhaltens "
+"kleiner Stichproben. Als ich zum Beispiel das allererste „Fünf IQ-Werte“-"
+"Experiment durchführte, stellte sich heraus, dass der Stichprobenmittelwert "
+"bei 95 lag. Die Stichprobenverteilung in :numref:`fig-samplingDist4` sagt "
+"uns jedoch, dass das Experiment „Fünf IQ-Werte“ nicht sehr genau ist. Wenn "
+"ich das Experiment wiederhole, sagt mir die Stichprobenverteilung, dass ich "
+"einen Stichprobenmittelwert irgendwo zwischen 80 und 120 erwarten kann."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:129
 msgid "Sampling distributions exist for any sample statistic!"
-msgstr ""
+msgstr "Stichprobenverteilungen existieren für jede Stichprobenstatistik!"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:131
 msgid ""
@@ -1463,6 +1536,12 @@ msgid ""
 "IQ scores” experiment I wrote down the largest IQ score in the "
 "experiment. This would give me a data set that started out like this:"
 msgstr ""
+"Wenn Sie über Stichprobenverteilungen nachdenken, sollten Sie daran denken, "
+"dass *jede* Stichprobenstatistik, die Sie berechnen möchten, eine "
+"Stichprobenverteilung hat. Nehmen wir zum Beispiel an, dass ich jedes Mal, "
+"wenn ich das Experiment „fünf IQ-Werte“ wiederhole, den höchsten IQ-Wert des "
+"Experiments notiere. Dadurch würde ich einen Datensatz erhalten, der wie "
+"folgt beginnt:"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:141
 msgid ""
@@ -1474,10 +1553,17 @@ msgid ""
 " an above average IQ. Most of the time you’ll end up with someone whose "
 "IQ is measured in the 100 to 140 range."
 msgstr ""
+"Würde ich dies immer wieder tun, würde ich eine ganz andere "
+"Stichprobenverteilung erhalten, nämlich die *Stichprobenverteilung des "
+"Maximums*. Die Stichprobenverteilung des Maximums von 5 IQ-Werten ist in "
+":numref:`fig-samplingDistMax` dargestellt. Es überrascht nicht, dass, wenn "
+"man 5 Personen nach dem Zufallsprinzip auswählt und dann die Person mit dem "
+"höchsten IQ-Wert findet, diese einen überdurchschnittlichen IQ haben wird. "
+"Meistens findet man jemanden, dessen IQ im Bereich von 100 bis 140 liegt."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:155
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
-msgstr ""
+msgstr "Stichprobenverteilung: Maximum für das „Experiment mit fünf IQ-Werten“"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:155
 msgid ""
@@ -1486,10 +1572,14 @@ msgid ""
 " highest IQ score you’ll probably see someone with an IQ between 100 and "
 "140."
 msgstr ""
+"Die Stichprobenverteilung des Maximums für das „Experiment mit fünf IQ-"
+"Werten“: Wenn man 5 Personen nach dem Zufallsprinzip auswählt und diejenige "
+"mit dem höchsten IQ-Wert auswählt, wird man wahrscheinlich jemanden mit "
+"einem IQ zwischen 100 und 140 finden."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:163
 msgid "The central limit theorem"
-msgstr ""
+msgstr "Der zentrale Grenzwertsatz"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:165
 msgid ""
@@ -1513,10 +1603,32 @@ msgid ""
 "just by looking at the picture, as the sample size *N* increases, the SEM"
 " decreases."
 msgstr ""
+"Ich hoffe, Sie haben jetzt eine Vorstellung davon, was "
+"Stichprobenverteilungen sind, und insbesondere, was die "
+"Stichprobenverteilung des Mittelwerts ist. In diesem Abschnitt möchte ich "
+"darüber sprechen, wie sich die Stichprobenverteilung des Mittelwerts in "
+"Abhängigkeit vom Stichprobenumfang verändert. Intuitiv kennen Sie bereits "
+"einen Teil der Antwort. Wenn Sie nur wenige Beobachtungen haben, ist der "
+"Stichprobenmittelwert wahrscheinlich recht ungenau. Wenn Sie ein Experiment "
+"mit wenigen Teilnehmern wiederholen und den Mittelwert neu berechnen, werden "
+"Sie eine ganz andere Antwort erhalten. Mit anderen Worten: Die "
+"Stichprobenverteilung ist recht breit. Wenn Sie ein Experiment mit vielen "
+"Teilnehmern wiederholen und den Mittelwert der Stichprobe neu berechnen, "
+"erhalten Sie wahrscheinlich eine sehr ähnliche Antwort wie beim letzten Mal, "
+"d. h. die Stichprobenverteilung ist sehr eng. Dies wird in :numref:`fig-"
+"samplingDistDiffN` deutlich: Je größer die Stichprobe ist, desto enger wird "
+"die Stichprobenverteilung. Wir können diesen Effekt quantifizieren, indem "
+"wir die Standardabweichung der Stichprobenverteilung berechnen, die als "
+"**Standardfehler** bezeichnet wird. Der Standardfehler einer Statistik wird "
+"oft mit SE bezeichnet, und da wir uns in der Regel für den Standardfehler "
+"des *Mittelwerts* der Stichprobe interessieren, verwenden wir oft das "
+"Akronym SEM. Wie Sie aus der Abbildung ersehen können, nimmt der SEM ab, "
+"wenn der Stichprobenumfang *N* steigt."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:191
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr ""
+"Aussehen der Stichprobenverteilung in Abhängigkeit vom Stichprobenumfang"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:191
 msgid ""
@@ -1538,6 +1650,25 @@ msgid ""
 " sample means tend to be fairly tightly clustered around the true "
 "population mean."
 msgstr ""
+"Veranschaulichung der Abhängigkeit der Stichprobenverteilung des Mittelwerts "
+"vom Stichprobenumfang. In jedem Panel habe ich 10.000 Stichproben von IQ-"
+"Daten generiert und den in jedem dieser Datensätze beobachteten mittleren IQ "
+"berechnet. Die Histogramme in diesen Diagrammen zeigen die Verteilung dieser "
+"Mittelwerte (d. h. die Stichprobenverteilung des Mittelwerts). Jeder "
+"einzelne IQ-Wert wurde einer Normalverteilung mit einem Mittelwert von 100 "
+"und einer Standardabweichung von 15 entnommen, die als durchgezogene "
+"schwarze Linie dargestellt ist. Im linken Feld enthielt jeder Datensatz nur "
+"eine einzige Beobachtung, so dass der Mittelwert jeder Stichprobe nur den IQ-"
+"Wert einer Person darstellt. Folglich ist die Stichprobenverteilung des "
+"Mittelwerts natürlich identisch mit der Grundgesamtheitsverteilung der IQ-"
+"Werte. Erhöht man jedoch den Stichprobenumfang auf 2 (mittleres Feld), so "
+"liegt der Mittelwert einer Stichprobe tendenziell näher am Mittelwert der "
+"Grundgesamtheit als am IQ-Wert einer einzelnen Person, so dass das "
+"Histogramm (d. h. die Stichprobenverteilung) etwas enger ist als die "
+"Grundgesamtheitsverteilung. Wenn wir den Stichprobenumfang auf 10 erhöhen ("
+"rechtes Feld), können wir sehen, dass die Verteilung der "
+"Stichprobenmittelwerte dazu neigt, sich ziemlich eng um den wahren "
+"Grundgesamtheitsmittelwert zu gruppieren."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:210
 msgid ""
@@ -1569,10 +1700,39 @@ msgid ""
 " the sampling distribution of the mean will be approximately normal no "
 "matter what your population distribution looks like!"
 msgstr ""
+"Das ist also ein Teil der Geschichte. Es gibt jedoch etwas, das ich bisher "
+"übersehen habe. Alle meine bisherigen Beispiele basierten auf den "
+"Experimenten zu den „IQ-Werten“, und da die IQ-Werte ungefähr normal "
+"verteilt sind, habe ich angenommen, dass die Verteilung in der Bevölkerung "
+"normal ist. Was aber, wenn sie nicht normal ist? Was passiert dann mit der "
+"Stichprobenverteilung des Mittelwerts? Das Bemerkenswerte ist, dass "
+"unabhängig von der Form der Grundgesamtheit die Stichprobenverteilung des "
+"Mittelwerts mit zunehmender *N* immer mehr wie eine Normalverteilung "
+"aussieht. Um Ihnen einen Eindruck davon zu vermitteln, habe ich einige "
+"Simulationen durchgeführt. Dazu habe ich mit der „Rampen“-Verteilung "
+"begonnen, die im Histogramm in :numref:`fig-cltDemo` (oben links) "
+"dargestellt ist. Wenn man das dreieckige Histogramm mit der Glockenkurve "
+"vergleicht, die durch die schwarze Linie dargestellt wird, sieht die "
+"Verteilung der Bevölkerung überhaupt nicht wie eine Normalverteilung aus. "
+"Als Nächstes habe ich die Ergebnisse einer großen Anzahl von Experimenten "
+"simuliert. Bei jedem Experiment habe ich *N* = 2 Stichproben aus dieser "
+"Verteilung genommen und dann den Stichprobenmittelwert berechnet. :numref"
+":`fig-cltDemo` (rechts oben) zeigt das Histogramm dieser "
+"Stichprobenmittelwerte (d.h. die Stichprobenverteilung des Mittelwertes für "
+"*N* = 2). Dieses Mal ergibt das Histogramm eine ∩-förmige Verteilung. Sie "
+"ist zwar immer noch nicht normal, aber sie liegt viel näher an der schwarzen "
+"Linie als die Verteilung der Grundgesamtheit in :numref:`fig-cltDemo` (links "
+"oben). Wenn ich den Stichprobenumfang auf *N* = 4 erhöhe, ist die "
+"Stichprobenverteilung des Mittelwerts sehr nahe an der Normalverteilung "
+"(:numref:`fig-cltDemo`, unten links), und bei einem Stichprobenumfang von *N*"
+" = 8 (:numref:`fig-cltDemo`; unten rechts) ist sie fast vollkommen normal. "
+"Mit anderen Worten: Solange der Stichprobenumfang nicht winzig ist, ist die "
+"Stichprobenverteilung des Mittelwerts annähernd normal, egal wie die "
+"Verteilung in der Grundgesamtheit aussieht!"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:243
 msgid "Demonstration of the central limit theorem"
-msgstr ""
+msgstr "Veranschaulichung des zentralen Grenzwertsatzes"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:243
 msgid ""
@@ -1585,30 +1745,46 @@ msgid ""
 "mean becomes pretty close to normal by the time you have a sample of even"
 " 4 observations."
 msgstr ""
+"Veranschaulichung des zentralen Grenzwertsatzes: Im linken oberen Feld haben "
+"wir eine nicht-normale Verteilung der Grundgesamtheit, und die übrigen "
+"Felder zeigen die Stichprobenverteilung des Mittelwerts für Stichproben der "
+"Größe 2 (oben rechts), 4 (unten links) und 8 (unten rechts) für Daten, die "
+"aus der Verteilung im linken oberen Feld gezogen wurden. Wie Sie sehen, "
+"nähert sich die Stichprobenverteilung des Mittelwerts trotz der nicht-"
+"normalen Verteilung der Grundgesamtheit der Normalverteilung an, sobald Sie "
+"eine Stichprobe mit nur 4 Beobachtungen haben."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:253
 msgid ""
 "On the basis of these figures, it seems like we have evidence for all of "
 "the following claims about the sampling distribution of the mean."
 msgstr ""
+"Auf der Grundlage dieser Zahlen scheint es, als hätten wir Beweise für alle "
+"folgenden Behauptungen über die Stichprobenverteilung des Mittelwerts."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:256
 msgid ""
 "The mean of the sampling distribution is the same as the mean of the "
 "population"
 msgstr ""
+"Der Mittelwert der Stichprobenverteilung entspricht dem Mittelwert der "
+"Grundgesamtheit"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:259
 msgid ""
 "The standard deviation of the sampling distribution (i.e., the standard "
 "error) gets smaller as the sample size increases"
 msgstr ""
+"Die Standardabweichung der Stichprobenverteilung (d. h. der Standardfehler) "
+"wird mit zunehmendem Stichprobenumfang kleiner"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:262
 msgid ""
 "The shape of the sampling distribution becomes normal as the sample size "
 "increases"
 msgstr ""
+"Die Form der Stichprobenverteilung nähert sich mit zunehmendem "
+"Stichprobenumfang einer Normalverteilung"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:265
 msgid ""
@@ -1619,6 +1795,13 @@ msgid ""
 "deviation *σ*, then the sampling distribution of the mean also has mean "
 "*µ* and the standard error of the mean is"
 msgstr ""
+"Zufälligerweise sind nicht nur alle diese Aussagen wahr, sondern es gibt "
+"auch ein sehr berühmtes Theorem in der Statistik, das alle drei Aussagen "
+"beweist, der so genannte **zentrale Grenzwertsatz**. Der zentrale "
+"Grenzwertsatz besagt unter anderem, dass, wenn die Verteilung der "
+"Grundgesamtheit einen Mittelwert *µ* und eine Standardabweichung *σ* hat, so "
+"hat die Stichprobenverteilung des Mittelwerts ebenfalls den Mittelwert *µ* "
+"und der Standardfehler des Mittelwerts beträgt"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:273
 msgid ""
@@ -1635,6 +1818,10 @@ msgid ""
 "increases. It also tells us that the shape of the sampling distribution "
 "becomes normal.\\ [#]_"
 msgstr ""
+"Da wir die Standardabweichung der Grundgesamtheit *σ* durch die "
+"Quadratwurzel des Stichprobenumfangs *N* teilen, wird der SEM kleiner, wenn "
+"der Stichprobenumfang zunimmt. Er sagt uns auch, dass die Form der "
+"Stichprobenverteilung sich der Normalverteilung annähert.\\ [#]_"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:280
 msgid ""
@@ -1650,6 +1837,17 @@ msgid ""
 "this mathematical law, the normal distribution pops up over and over "
 "again in real data."
 msgstr ""
+"Dieses Ergebnis ist für alle möglichen Dinge nützlich. Es sagt uns, warum "
+"große Experimente zuverlässiger sind als kleine, und weil es eine explizite "
+"Formel für den Standardfehler angibt, sagt es uns *wie viel* zuverlässiger "
+"ein großes Experiment ist. Sie sagt uns auch, warum die Normalverteilung, "
+"*normal* ist. In realen Experimenten sind viele der Dinge, die wir messen "
+"wollen, eigentlich Durchschnittswerte aus vielen verschiedenen Größen (z. B. "
+"ist die „allgemeine“ Intelligenz, die durch den IQ gemessen wird, wohl ein "
+"Durchschnittswert aus einer großen Anzahl „spezifischer“ Fähigkeiten und "
+"Fertigkeiten), und wenn das passiert, sollte die gemittelte Größe einer "
+"Normalverteilung folgen. Aufgrund dieses mathematischen Gesetzes taucht die "
+"Normalverteilung immer wieder in realen Daten auf."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:295
 msgid ""
