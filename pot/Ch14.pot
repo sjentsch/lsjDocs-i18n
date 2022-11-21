@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-16 00:38+0100\n"
+"POT-Creation-Date: 2022-11-21 13:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1837,12 +1837,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:67
-msgid "The jamovi ANCOVA analysis panel"
+msgid "The jamovi ANCOVA options panel"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:67
 msgid ""
-"Analysis panel showing the variable boxes to assign the ``Dependent "
+"Options panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
 
@@ -3059,12 +3059,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:73
-msgid "Analysis panel to set up post hoc tests"
+msgid "Options panel to set up post hoc tests"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:73
 msgid ""
-"Analysis panel for setting up post-hoc test within jamovi's factorial ANOVA "
+"Options panel for setting up post-hoc test within jamovi's factorial ANOVA "
 "procedure (the current settings request a Tukey HSD statistic): Unsaturated "
 "model with the factors ``drug`` and ``therapy`` but without an interaction "
 "term (using the |clinicaltrial|_ data set)"

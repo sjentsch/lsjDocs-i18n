@@ -11,13 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -28,6 +21,7 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -41,7 +35,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-16 00:38+0100\n"
+"POT-Creation-Date: 2022-11-21 13:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,18 +46,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 22:45+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 16:32+0100\n"
+"POT-Creation-Date: 2022-11-21 13:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +56,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-13 14:44+0100\n"
+"POT-Creation-Date: 2022-11-21 12:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1144,10 +1127,10 @@ msgid ""
 "heads that I observe. In this scenario, the success probability is now *θ* = "
 "1/2. Suppose I were to flip the coin *N* = 20 times. In this example, I’ve "
 "changed the success probability but kept the size of the experiment the "
-"same. What does this do to our binomial distribution? Well, as :numref:`fig-"
-"binomHeads` (left panel) shows, the main effect of this is to shift the "
-"whole distribution, as you’d expect. Okay, what if we flipped a coin *N* = "
-"100 times? Well, in that case we get what is shown in the right panel. The "
+"same. What does this do to our binomial distribution? Well, as the left "
+"panel of :numref:`fig-binomHeads` shows, the main effect of this is to shift "
+"the whole distribution, as you’d expect. Okay, what if we flipped a coin *N* "
+"= 100 times? Well, in that case we get what is shown in the right panel. The "
 "distribution stays roughly in the middle but there’s a bit more variability "
 "in the possible outcomes."
 msgstr ""
@@ -1322,9 +1305,9 @@ msgid ""
 "mean μ = 0 and standard deviation σ = 1. The shaded areas illustrate “areas "
 "under the curve” for two important cases. In the left panel, we can see that "
 "there is a 68.3% chance that an observation will fall within one standard "
-"deviation of the mean. In the right panel, we see that there is a 95.4% "
-"chance that an observation will fall within two standard deviations of the "
-"mean."
+"deviation of the mean. In the right panel, we see that there is a "
+"95.4% chance that an observation will fall within two standard deviations of "
+"the mean."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
@@ -1333,8 +1316,8 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
 msgid ""
-"Two more examples of the “area under the curve” idea. There is a 15.9% "
-"chance that an observation is one standard deviation below the mean or "
+"Two more examples of the “area under the curve” idea. There is a "
+"15.9% chance that an observation is one standard deviation below the mean or "
 "smaller (left panel), and a 34.1% chance that the observation is somewhere "
 "between one standard deviation below the mean and the mean (right panel). "
 "Notice that if you add these two numbers together you get 15.9% + 34.1% = "

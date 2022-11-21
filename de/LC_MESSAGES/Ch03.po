@@ -11,20 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -35,22 +21,50 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi)  #-#-#-#-#
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-13 14:44+0100\n"
-"PO-Revision-Date: 2022-11-20 15:47+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/>"
-"\n"
-"Language: de\n"
+"POT-Creation-Date: 2022-11-21 13:16+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-21 13:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-11-21 12:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:5
 msgid "Getting started with jamovi"
@@ -340,17 +354,17 @@ msgstr ""
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:64
 msgid ""
 "When you have the analysis set up correctly you can dismiss the analysis "
-"options by clicking the arrow to the top right of the optional panel. If you "
+"options by clicking the arrow to the top right of the options panel. If you "
 "wish to return to these options, you can click on the results that were "
 "produced. In this way, you can return to any analysis that you (or say, a "
 "colleague) created earlier."
 msgstr ""
 "Wenn Sie die Analyse richtig eingestellt haben, können Sie die "
-"Analyseoptionen auch ausblenden, indem Sie auf den Pfeil oben rechts im "
-"optionalen Bereich klicken. Wenn Sie zu diesen Optionen zurückkehren "
-"möchten, können Sie auf die Ergebnisse klicken, die sich ergeben haben. Auf "
-"diese Weise können Sie zu jeder Analyse zurückkehren, die Sie (oder "
-"beispielsweise ein Kollege) zuvor erstellt haben."
+"Analyseoptionen ausblenden, indem Sie auf den Pfeil oben rechts im "
+"Analyseoptionen-Fenster klicken. Wenn Sie zu den Analyseoptionen "
+"zurückkehren möchten, können Sie auf die Ergebnisse klicken, die sich "
+"ergeben haben. Auf diese Weise können Sie zu jeder Analyse zurückkehren, die "
+"Sie (oder ein Kollege) zuvor erstellt haben."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:70
 msgid ""
@@ -477,7 +491,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:326 ../../Ch03/Ch03_jamoviIntro_3.rst:82
 msgid "continuous"
-msgstr "konitunierlich"
+msgstr "continuous"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:42
 msgid ""
