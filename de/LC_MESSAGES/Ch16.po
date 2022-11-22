@@ -30,56 +30,26 @@
 #
 # #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch16.po (Learning statistics with jamovi)  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 13:16+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 13:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 12:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-22 18:47+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch16/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
 msgid "Bayesian statistics"
-msgstr ""
+msgstr "Bayes'sche Statistik"
 
 #: ../../Ch16/Ch16_Bayes.rst:0 ../../Ch16/Ch16_Bayes.rst
 msgid ""
@@ -88,10 +58,14 @@ msgid ""
 "moral evidence. A wise man, therefore, proportions his belief to the "
 "evidence.*"
 msgstr ""
+"*In unseren Überlegungen über Tatsachen gibt es alle denkbaren Grade der "
+"Gewissheit, von der höchsten Gewissheit bis zu den niedrigsten Arten "
+"moralischer Beweise. Ein kluger Mensch passt daher seinen Glauben an die "
+"Beweise an.*"
 
 #: ../../Ch16/Ch16_Bayes.rst:30
 msgid "`David Hume <https://en.wikiquote.org/wiki/David_Hume>`__"
-msgstr ""
+msgstr "`David Hume <https://en.wikiquote.org/wiki/David_Hume>`__"
 
 #: ../../Ch16/Ch16_Bayes.rst:26
 msgid ""
@@ -112,6 +86,24 @@ msgid ""
 "think this and provide an introduction to Bayesian statistics, an approach "
 "that I think is generally superior to the orthodox approach."
 msgstr ""
+"Die Ideen, die ich Ihnen in diesem Buch vorgestellt habe, beschreiben die "
+"Inferenzstatistik aus einer frequentistischen Perspektive. Damit stehe ich "
+"nicht alleine da. Tatsächlich werden in fast jedem Lehrbuch, das "
+"Psychologiestudenten im Grundstudium benutzen, werden die Ansichten der "
+"frequentistischen Statistiker so dargestellt, als sei es die einzig wahre "
+"Art inferentielle Statistik zu betreiben. Ich habe den frequentistischen "
+"Ansatz aus praktischen Gründen gelehrt. Die frequentistische Sichtweise der "
+"Statistik dominierte das akademische Feld der Statistik während des größten "
+"Teils des 20. Jahrunderts. Unter Psychologen war und ist es gängige Praxis, "
+"frequentistische Methoden zu verwenden. Da frequentistische Methoden in "
+"wissenschaftlichen Arbeiten allgegenwärtig sind, muss jeder "
+"Psychologiestudent diese Methoden verstehen, da er sonst nicht in der Lage "
+"ist, die Aussagen dieser Arbeiten zu verstehen! Leider ist die derzeitige "
+"Praxis in der Psychologie, zumindest meiner Meinung nach, oft fehlgeleitet, "
+"und das Vertrauen auf frequentistische Methoden ist teilweise schuld daran. "
+"In diesem Kapitel erkläre ich, warum ich das glaube, und gebe eine "
+"Einführung in die Bayes'sche Statistik. Dieser Ansatz ist meiner Meinung "
+"nach dem orthodoxen, frequentistischen Ansatz in vielen Aspekten überlegen."
 
 #: ../../Ch16/Ch16_Bayes.rst:44
 msgid ""
@@ -123,10 +115,18 @@ msgid ""
 "I provide a brief overview of how you can do :doc:`Bayesian versions of t-"
 "tests <../Ch16/Ch16_Bayes_5>`."
 msgstr ""
+"Dieses Kapitel ist in zwei Teile gegliedert: In den Abschnitten :doc:`"
+"Probabilistisches Schlussfolgern durch rationale Akteure <../Ch16/"
+"Ch16_Bayes_1>` bis :doc:`Warum Bayesianer sein? <../Ch16/Ch16_Bayes_3>` "
+"spreche ich darüber, worum es in der Bayes'schen Statistik geht: Ich "
+"erläutere die grundlegenden mathematischen Regeln, nach denen sie "
+"funktioniert, und erkläre, warum ich den Bayes'schen Ansatz für so nützlich "
+"halte. Anschließend gebe ich einen kurzen Überblick darüber, wie man :doc:`"
+"Bayes'sche Versionen von t-Tests <../Ch16/Ch16_Bayes_5>` durchführen kann."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:4
 msgid "Probabilistic reasoning by rational agents"
-msgstr ""
+msgstr "Probabilistisches Schlussfolgern durch rationale Akteure"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:6
 msgid ""
@@ -142,10 +142,22 @@ msgid ""
 "work through a simple example in order to introduce the key ideas. Consider "
 "the following reasoning problem."
 msgstr ""
+"Aus einer Bayes'schen Perspektive geht es bei der statistischen Inferenz um "
+"die *Revision von Überzeugungen*. Ich beginne mit einer Reihe von "
+"Kandidatenhypothesen *h* über die Welt. Ich weiß nicht, welche dieser "
+"Hypothesen wahr ist, aber ich habe einige Überzeugungen darüber, welche "
+"Hypothesen plausibel sind und welche nicht. Wenn ich die Daten beobachte, *d*"
+", muss ich diese Überzeugungen revidieren. Wenn die Daten mit einer "
+"Hypothese übereinstimmen, wird mein Glaube an diese Hypothese gestärkt. Wenn "
+"die Daten nicht mit der Hypothese übereinstimmen, wird mein Glaube an diese "
+"Hypothese geschwächt. Am Ende dieses Abschnitts werde ich genau beschreiben, "
+"wie die Bayes'sche Argumentation funktioniert, aber zunächst möchte ich ein "
+"einfaches Beispiel durchspielen, um die wichtigsten Ideen vorzustellen. "
+"Betrachten Sie das folgende Argumentationsproblem."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:19
 msgid "*I’m carrying an umbrella. Do you think it will rain?*"
-msgstr ""
+msgstr "*Ich habe einen Regenschirm dabei. Glauben Sie, dass es regnen wird?*"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:21
 msgid ""
@@ -154,10 +166,15 @@ msgid ""
 "hypothesis about whether it’s raining. You have two alternatives, *h*: "
 "either it will rain today or it will not. How should you solve this problem?"
 msgstr ""
+"In dieser Aussage habe ich Ihnen eine einzige Information vorgelegt (*d* = "
+"Ich trage den Regenschirm), und ich bitte Sie, mir Ihre Überzeugung oder "
+"Hypothese darüber mitzuteilen, ob es regnet. Sie haben zwei Alternativen, "
+"*h*: entweder es wird heute regnen oder nicht. Wie sollten Sie diese Aufgabe "
+"lösen?"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:28
 msgid "Priors: what you believed before"
-msgstr ""
+msgstr "a-priori-Wahrscheinlichkeiten: was Sie vorher geglaubt haben"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:30
 msgid ""
@@ -204,15 +221,15 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:50 ../../Ch16/Ch16_Bayes_1.rst:71
 msgid "Hypothesis"
-msgstr ""
+msgstr "Hypothese"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:50
 msgid "Degree of Belief"
-msgstr ""
+msgstr "Grad der Überzeugung"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "**Rainy day**"
-msgstr ""
+msgstr "**Regentag**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.15"
@@ -220,7 +237,7 @@ msgstr "0.15"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:75
 msgid "**Dry day**"
-msgstr ""
+msgstr "**Trockener Tag**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.85"
@@ -228,7 +245,7 @@ msgstr "0.85"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:58
 msgid "Likelihoods: theories about the data"
-msgstr ""
+msgstr "Wahrscheinlichkeiten: Theorien über die Daten"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
 msgid ""
@@ -256,11 +273,11 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:142 ../../Ch16/Ch16_Bayes_1.rst:173
 #: ../../Ch16/Ch16_Bayes_1.rst:219 ../../Ch16/Ch16_Bayes_1.rst:252
 msgid "Umbrella"
-msgstr ""
+msgstr "Regenschirm"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:71
 msgid "No umbrella"
-msgstr ""
+msgstr "Kein Regenschirm"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "0.30"
@@ -287,10 +304,17 @@ msgid ""
 "statistics, this is referred to as the **likelihood** of the data *d* given "
 "the hypothesis *h*.\\ [#]_"
 msgstr ""
+"Es ist wichtig, sich daran zu erinnern, dass jede Zelle in dieser Tabelle "
+"Ihre Überzeugungen darüber beschreibt, welche Daten *d* beobachtet werden, "
+"*wenn* eine bestimmte Hypothese *h* zutrifft. Diese „bedingte "
+"Wahrscheinlichkeit“ wird *P*\\(d|h) geschrieben, was man als „die "
+"Wahrscheinlichkeit von *d* gegeben *h*“ lesen kann. In der Bayes'schen "
+"Statistik wird dies als **Wahrscheinlichkeit** der Daten *d* gegeben die "
+"Hypothese *h* bezeichnet. \\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:87
 msgid "The joint probability of data and hypothesis"
-msgstr ""
+msgstr "Die kombinierte Wahrscheinlichkeit von Daten und Hypothese"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:89
 msgid ""
@@ -301,6 +325,15 @@ msgid ""
 "important that you understand why we use it so I’m going to try to build it "
 "up from more basic ideas."
 msgstr ""
+"Zu diesem Zeitpunkt sind alle Elemente vorhanden. Nachdem Sie die a-priori-"
+"Wahrscheinlichkeit und die Likelihood (manchmal auch inverse "
+"Wahrscheinlichkeit oder „Plausibilität“ genannt) aufgeschrieben haben, "
+"verfügen Sie über alle Informationen, die Sie für die Bayes'sche "
+"Argumentation benötigen. Nun stellt sich die Frage: *wie* verwenden wir "
+"diese Informationen? Wie sich herausstellt, gibt es eine sehr einfache "
+"Gleichung, die wir hier verwenden können, aber es ist wichtig, dass Sie "
+"verstehen, warum wir sie verwenden, also werde ich versuchen, sie aus "
+"grundlegenderen Ideen aufzubauen."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:96
 msgid ""
