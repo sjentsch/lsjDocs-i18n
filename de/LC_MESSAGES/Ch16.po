@@ -35,7 +35,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-11-22 18:47+0000\n"
+"PO-Revision-Date: 2022-11-22 19:44+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch16/de/>"
 "\n"
@@ -245,7 +245,7 @@ msgstr "0.85"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:58
 msgid "Likelihoods: theories about the data"
-msgstr "Wahrscheinlichkeiten: Theorien über die Daten"
+msgstr "Likelihood: Theorien über die Daten"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
 msgid ""
@@ -261,13 +261,13 @@ msgstr ""
 "Um das Argumentationsproblem zu lösen, brauchen Sie eine Theorie über mein "
 "Verhalten. Wann trägt Dani einen Regenschirm? Sie können sich denken, dass "
 "ich kein kompletter Idiot bin,\\ [#]_ und ich versuche, Regenschirme nur an "
-"regnerischen Tagen mitzunehmen. Andererseits wissen Sie auch, dass ich "
-"kleine Kinder habe. Es würde Sie daher nicht überraschen, wenn Sie wüssten, "
-"dass ich bei solchen Dingen ziemlich vergesslich bin. Nehmen wir an, dass "
-"ich an Regentagen meinen Regenschirm etwa 30% der Zeit nicht vergesse (ich "
-"bin wirklich schlecht darin). Aber nehmen wir an, dass ich an trockenen "
-"Tagen nur etwa 5% wahrscheinlich einen Regenschirm dabei habe. Man könnte "
-"also eine kleine Tabelle wie diese aufstellen:"
+"Regentagen mitzunehmen. Andererseits wissen Sie auch, dass ich kleine Kinder "
+"habe. Es würde Sie daher nicht überraschen, wenn Sie wüssten, dass ich bei "
+"solchen Dingen ziemlich vergesslich bin. Nehmen wir an, dass ich an "
+"Regentagen meinen Regenschirm etwa 30% der Zeit nicht vergesse (ich bin "
+"wirklich schlecht darin). Aber nehmen wir an, dass ich an trockenen Tagen "
+"nur etwa 5% wahrscheinlich einen Regenschirm dabei habe. Man könnte also "
+"eine kleine Tabelle wie diese aufstellen:"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:71 ../../Ch16/Ch16_Bayes_1.rst:130
 #: ../../Ch16/Ch16_Bayes_1.rst:142 ../../Ch16/Ch16_Bayes_1.rst:173
@@ -309,8 +309,9 @@ msgstr ""
 "*wenn* eine bestimmte Hypothese *h* zutrifft. Diese „bedingte "
 "Wahrscheinlichkeit“ wird *P*\\(d|h) geschrieben, was man als „die "
 "Wahrscheinlichkeit von *d* gegeben *h*“ lesen kann. In der Bayes'schen "
-"Statistik wird dies als **Wahrscheinlichkeit** der Daten *d* gegeben die "
-"Hypothese *h* bezeichnet. \\ [#]_"
+"Statistik wird dies als **Likelihood** (manchmal auch als inverse "
+"Wahrscheinlichkeit oder „Plausibilität“) der Daten *d* gegeben die Hypothese "
+"*h* bezeichnet. \\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:87
 msgid "The joint probability of data and hypothesis"
@@ -326,14 +327,12 @@ msgid ""
 "up from more basic ideas."
 msgstr ""
 "Zu diesem Zeitpunkt sind alle Elemente vorhanden. Nachdem Sie die a-priori-"
-"Wahrscheinlichkeit und die Likelihood (manchmal auch inverse "
-"Wahrscheinlichkeit oder „Plausibilität“ genannt) aufgeschrieben haben, "
-"verfügen Sie über alle Informationen, die Sie für die Bayes'sche "
-"Argumentation benötigen. Nun stellt sich die Frage: *wie* verwenden wir "
-"diese Informationen? Wie sich herausstellt, gibt es eine sehr einfache "
-"Gleichung, die wir hier verwenden können, aber es ist wichtig, dass Sie "
-"verstehen, warum wir sie verwenden, also werde ich versuchen, sie aus "
-"grundlegenderen Ideen aufzubauen."
+"Wahrscheinlichkeit und die Likelihood aufgeschrieben haben, verfügen Sie "
+"über alle Informationen, die Sie für die Bayes'sche Argumentation benötigen. "
+"Nun stellt sich die Frage: *wie* verwenden wir diese Informationen? Wie sich "
+"herausstellt, gibt es eine sehr einfache Gleichung, die wir hier verwenden "
+"können, aber es ist wichtig, dass Sie verstehen, warum wir sie verwenden, "
+"also werde ich versuchen, sie aus grundlegenderen Ideen aufzubauen."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:96
 msgid ""
@@ -347,6 +346,18 @@ msgid ""
 "written *P*\\ (d, h), and you can calculate it by multiplying the prior "
 "*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
+"Beginnen wir mit einer der Regeln der Wahrscheinlichkeitsrechnung. Ich habe "
+"sie schon vor langer Zeit in :numref:`tab-probrules` aufgelistet, aber ich "
+"habe damals keine große Sache daraus gemacht und Sie haben sie "
+"wahrscheinlich ignoriert. Die fragliche Regel ist diejenige, die sich mit "
+"der Wahrscheinlichkeit befasst, dass *zwei* Dinge wahr sind. In unserem "
+"Beispiel möchten Sie vielleicht die Wahrscheinlichkeit berechnen, dass es "
+"heute regnet (d. h., die Hypothese *h* ist wahr) und ich einen Regenschirm "
+"trage (d. h., die Daten *d* werden beobachtet). Die **kombinierte "
+"Wahrscheinlichkeit** der Hypothese und der Daten wird *P*\\ (d, h) "
+"geschrieben, und man kann sie berechnen, indem man den Prior *P*\\ (h) mit "
+"der Likelihood *P*\\ (d|h) multipliziert. Mathematisch gesehen, sagen wir "
+"das:"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:106
 msgid "*P*\\ (d, h) = *P*\\ (d|h) *P*\\ (h)"
@@ -377,6 +388,11 @@ msgid ""
 "& = & 0.30 \\times 0.15 \\\\\n"
 "& = & 0.045\\end{aligned}"
 msgstr ""
+"\\begin{aligned}\n"
+"P(\\mbox{Regentag}, \\mbox{Regenschirm}) & = & P(\\mbox{Regenschirm} | \\mbox"
+"{Regentag}) \\times P(\\mbox{Regentag}) \\\\\n"
+"& = & 0.30 \\times 0.15 \\\\\n"
+"& = & 0.045\\end{aligned}"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:122
 msgid ""
@@ -397,13 +413,13 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:173 ../../Ch16/Ch16_Bayes_1.rst:219
 #: ../../Ch16/Ch16_Bayes_1.rst:252
 msgid "No-umbrella"
-msgstr ""
+msgstr "Kein Regenschirm"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 #: ../../Ch16/Ch16_Bayes_1.rst:175 ../../Ch16/Ch16_Bayes_1.rst:221
 #: ../../Ch16/Ch16_Bayes_1.rst:254
 msgid "**Rainy**"
-msgstr ""
+msgstr "**Regentag**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.0450"
@@ -417,7 +433,7 @@ msgstr "0.1050"
 #: ../../Ch16/Ch16_Bayes_1.rst:177 ../../Ch16/Ch16_Bayes_1.rst:223
 #: ../../Ch16/Ch16_Bayes_1.rst:256
 msgid "**Dry**"
-msgstr ""
+msgstr "**Trockener Tag**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:134 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.0425"
@@ -433,15 +449,19 @@ msgid ""
 "possibilities are likely. To really get the full picture, though, it helps "
 "to add the row totals and column totals. That gives us this table:"
 msgstr ""
+"In dieser Tabelle sind alle Informationen darüber enthalten, welche der vier "
+"Möglichkeiten wahrscheinlich sind. Um ein vollständiges Bild zu erhalten, "
+"ist es jedoch hilfreich, die Zeilensummen und Spaltensummen zu addieren. So "
+"erhalten wir diese Tabelle:"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:142
 msgid "Total"
-msgstr ""
+msgstr "Insgesamt"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148 ../../Ch16/Ch16_Bayes_1.rst:225
 #: ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "**Total**"
-msgstr ""
+msgstr "**Insgesamt**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "0.0875"
@@ -498,38 +518,41 @@ msgid ""
 "Now, because this table is so useful, I want to make sure you understand "
 "what all the elements correspond to and how they written:"
 msgstr ""
+"Da diese Tabelle so nützlich ist, möchte ich sicherstellen, dass Sie "
+"verstehen, was die einzelnen Elemente bedeuten und wie sie geschrieben "
+"werden:"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Umbrella, Rainy)"
-msgstr ""
+msgstr "*P*\\ (Regenschirm, Regentag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (No-umbrella, Rainy)"
-msgstr ""
+msgstr "*P*\\ (Kein Regenschirm, Regentag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Rainy)"
-msgstr ""
+msgstr "*P*\\ (Regentag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Umbrella, Dry)"
-msgstr ""
+msgstr "P\\ (Regenschirm, trockener Tag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (No-umbrella, Dry)"
-msgstr ""
+msgstr "*P*\\ (Kein Regenschirm, trockener Tag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Dry)"
-msgstr ""
+msgstr "*P*\\ (trockener Tag)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (Umbrella)"
-msgstr ""
+msgstr "*P*\\ (Regenschirm)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (No-umbrella)"
-msgstr ""
+msgstr "*P*\\ (Kein Regenschirm)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:182
 msgid ""
@@ -541,6 +564,14 @@ msgid ""
 "is rainy, and *h*\\ :sub:`2` is the hypothesis that it is not. Using this "
 "notation, the table looks like this:"
 msgstr ""
+"Schließlich sollten wir die „richtige“ statistische Notation verwenden. Beim "
+"Regentagsproblem beziehen sich die Daten auf die Beobachtung, ob ich einen "
+"Regenschirm dabei habe oder nicht. * d*\\ :sub:`1` bezieht sich also auf die "
+"Möglichkeit, dass Sie mich mit einem Regenschirm beobachten, und *d*\\ "
+":sub:`2` bezieht sich darauf, dass Sie mich ohne Regenschirm beobachten. In "
+"ähnlicher Weise ist *h*\\ :sub:`1` Ihre Hypothese, dass es heute regnet, und "
+"*h*\\ :sub:`2` ist die Hypothese, dass es nicht regnet. Mit dieser Notation "
+"sieht die Tabelle wie folgt aus:"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:191
 msgid "**d**\\ :sub:`1`"
@@ -592,7 +623,7 @@ msgstr "*P*\\ (d\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:201
 msgid "Updating beliefs using Bayes’ rule"
-msgstr ""
+msgstr "Aktualisieren der Überzeugungen unter Verwendung der Bayes-Regel"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:203
 msgid ""
@@ -647,6 +678,12 @@ msgid ""
 "umbrella, so the column sum on the left must be 1 to correctly describe the "
 "fact that *P*\\ (umbrella) = 1."
 msgstr ""
+"Mit anderen Worten, die Fakten haben jede Möglichkeit von „kein Regenschirm“ "
+"ausgeschlossen, also müssen wir Nullen in jede Zelle der Tabelle setzen, die "
+"impliziert, dass ich keinen Regenschirm trage. Außerdem wissen Sie genau, "
+"dass ich einen Regenschirm bei mir trage, also muss die Spaltensumme auf der "
+"linken Seite 1 sein, um die Tatsache korrekt zu beschreiben, dass *P*\\ "
+"(Regenschirm) = 1."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:234
 msgid ""
@@ -721,6 +758,19 @@ msgid ""
 "the posterior probability of the hypothesis *given* the data that have been "
 "observed. To write this as an equation:\\ [#]_"
 msgstr ""
+"Wie habe ich diese Zahlen berechnet? Sie können es sich wahrscheinlich "
+"denken. Um herauszufinden, dass die Wahrscheinlichkeit für „Regen“ bei 0,514 "
+"liegt, habe ich einfach die Wahrscheinlichkeit von 0,045 für „Regen und "
+"Regenschirm“ durch die Wahrscheinlichkeit von 0,0875 für „Regenschirm“ "
+"geteilt. Das Ergebnis ist eine Tabelle, die sowohl unserem Bedürfnis "
+"entspricht, dass die Summe 1 ergibt, als auch unserem Bedürfnis, die "
+"relative Plausibilität der beiden Ereignisse, die tatsächlich mit den Daten "
+"übereinstimmen, nicht zu beeinträchtigen. Um dasselbe mit Hilfe eines "
+"ausgefallenen statistischen Jargons zu sagen, habe ich hier die kombinierte "
+"Wahrscheinlichkeit von Hypothese und Daten *P*\\ (d, h) durch die "
+"**Randwahrscheinlichkeit** der Daten *P*\\ (d) geteilt, und so erhalten wir "
+"die a-posteriori-Wahrscheinlichkeit der Hypothese *unter Berücksichtigung* "
+"der beobachteten Daten. Um dies in eine Gleichung zu fassen:\\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:280
 msgid ""
@@ -739,6 +789,13 @@ msgid ""
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
+"Erinnern Sie sich jedoch an das, was ich zu Beginn des letzten Abschnitts "
+"gesagt habe, nämlich dass die gemeinsame Wahrscheinlichkeit *P*\\ (d, h) "
+"durch Multiplikation des Prior *P*\\ (h) mit der Wahrscheinlichkeit *P*\\ "
+"(d|h) berechnet wird. Im wirklichen Leben sind die Prioren und die "
+"Wahrscheinlichkeit die Dinge, von denen wir wissen, wie man sie aufschreibt, "
+"also setzen wir sie wieder in die Gleichung ein. Daraus ergibt sich die "
+"folgende Formel für die a-posteriori-Wahrscheinlichkeit"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:289
 msgid ""
@@ -756,10 +813,16 @@ msgid ""
 "data. In the Bayesian paradigm, all statistical inference flows from this "
 "one simple rule."
 msgstr ""
+"Und diese Formel ist bekannt als **Bayes-Regel**. Sie beschreibt, wie ein "
+"Lernender mit Vorannahmen über die Plausibilität verschiedener Hypothesen "
+"beginnt, und sagt Ihnen, wie diese Vorannahmen angesichts der Daten "
+"revidiert werden sollten. Im Bayes'schen Paradigma ergeben sich alle "
+"statistischen Schlussfolgerungen aus dieser einen einfachen Regel."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:300
 msgid "It’s a leap of faith, I know, but let’s run with it okay?"
 msgstr ""
+"Ich weiß, es ist ein Vertrauensvorschuss, aber lassen wir uns darauf ein?"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:303
 msgid ""
@@ -778,12 +841,31 @@ msgid ""
 "function” almost always refers to one of the *columns*. This distinction "
 "matters in some contexts, but it’s not important for our purposes."
 msgstr ""
+"Ich spreche das nur ungern an, aber einige Statistiker würden mir "
+"widersprechen, wenn ich hier das Wort „Likelihood“ verwende. Das Problem "
+"ist, dass das Wort „Likelihood“ in der frequentistischen Statistik eine ganz "
+"bestimmte Bedeutung hat, die nicht ganz mit seiner Bedeutung in der "
+"Bayes'schen Statistik übereinstimmt. Soweit ich weiß, hatten die Bayesianer "
+"ursprünglich keine einheitliche Bezeichnung für die Likelihood, und so wurde "
+"es zur gängigen Praxis, die frequentistische Terminologie zu verwenden. Das "
+"wäre kein Problem gewesen, wenn sich nicht herausgestellt hätte, dass die "
+"Bayesianer das Wort ganz anders verwenden als die Frequentisten. Dies ist "
+"nicht der richtige Ort für eine weitere lange Geschichtsstunde, aber um es "
+"grob auszudrücken: Wenn ein Bayesianer sagt „*a* likelihood function“, "
+"bezieht er sich normalerweise auf eine der *Zeilen* der Tabelle. Wenn ein "
+"Frequentist dasselbe sagt, bezieht er sich auf dieselbe Tabelle, aber für "
+"ihn bezieht sich „*a* likelihood function“ fast immer auf eine der *Spalten*"
+". Diese Unterscheidung ist in manchen Kontexten von Bedeutung, aber für "
+"unsere Zwecke ist sie nicht wichtig."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:321
 msgid ""
 "Just to be clear, “prior” information is pre-existing knowledge or beliefs, "
 "before we collect or use any data to improve that information."
 msgstr ""
+"Nur um das klarzustellen: „a-priori“-Informationen sind vorhandenes Wissen "
+"oder Überzeugungen. Als zweiten Schritt sammeln oder verwenden wir Daten, um "
+"diese Informationen zu verbessern."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:326
 msgid ""
@@ -791,6 +873,9 @@ msgid ""
 "accommodate the possibility that I’m lying about the umbrella. But let’s "
 "keep things simple, shall we?"
 msgstr ""
+"Wenn wir etwas anspruchsvoller wären, könnten wir das Beispiel erweitern, um "
+"die Möglichkeit zu berücksichtigen, dass ich mit dem Regenschirm lüge. Aber "
+"lassen Sie uns die Dinge einfach halten?"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:331
 msgid ""
@@ -801,10 +886,17 @@ msgid ""
 "So I’m not actually introducing any “new” rules here, I’m just using the "
 "same rule in a different way."
 msgstr ""
+"Sie werden feststellen, dass diese Gleichung eigentlich eine Umformulierung "
+"der gleichen Grundregel ist, die ich zu Beginn des letzten Abschnitts "
+"aufgeführt habe. Wenn Sie beide Seiten der Gleichung mit *P*\\ (d) "
+"multiplizieren, erhalten Sie *P*\\ (d) *P*\\ (h|d) = *P*\\ (d, h), was die "
+"Regel für die Berechnung der kombinierten Wahrscheinlichkeiten ist. Ich "
+"führe hier also keine „neuen“ Regeln ein, sondern verwende nur dieselbe "
+"Regel auf eine andere Weise."
 
 #: ../../Ch16/Ch16_Bayes_2.rst:4
 msgid "Bayesian hypothesis tests"
-msgstr ""
+msgstr "Bayes'sche Hypothesentests"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:6
 msgid ""
@@ -822,6 +914,22 @@ msgid ""
 "hypothesis is true. Better yet, it allows us to calculate the **posterior "
 "probability of the null hypothesis**, using Bayes’ rule:"
 msgstr ""
+"In Kapitel :doc:`Hypothesentests <../Ch09/Ch09_HypothesisTesting>` habe ich "
+"den frequentistischen Ansatz für Hypothesentests beschrieben. Die "
+"Beschreibung dieses Ansatzes nahm ein ganzes Kapitel in Anspruch, da der "
+"Nullhypothesentest eine sehr komplizierte Konstruktion ist, die für die "
+"meisten Menschen nur schwer verständlich ist. Im Gegensatz dazu ist der "
+"Bayes'sche Ansatz zur Hypothesenprüfung unglaublich einfach. Wählen wir eine "
+"Situation, die dem frequentistischen Szenario sehr ähnlich ist. Es gibt zwei "
+"Hypothesen, die wir miteinander vergleichen wollen, eine Nullhypothese *h*\\ "
+":sub:`0` und eine Alternativhypothese *h*\\ :sub:`1`. Bevor wir das "
+"Experiment durchführen, haben wir einige Überzeugungen *P*\\(h) darüber, "
+"welche Hypothesen wahr sind. Wir führen ein Experiment durch und erhalten "
+"Daten *d*. Im Gegensatz zur frequentistischen Statistik können wir in der "
+"Bayes'schen Statistik über die Wahrscheinlichkeit sprechen, dass die "
+"Nullhypothese wahr ist. Besser noch, sie erlaubt uns die Berechnung der **a"
+"-posteriori-Wahrscheinlichkeit der Nullhypothese**, unter Verwendung der "
+"Bayes-Regel:"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:20
 msgid ""
@@ -838,6 +946,11 @@ msgid ""
 "how much belief to place in the alternative hypothesis using essentially the "
 "same equation. All we do is change the subscript:"
 msgstr ""
+"Diese Formel sagt uns genau, wie viel Vertrauen wir in die Nullhypothese "
+"haben können, nachdem wir die Daten *d* beobachtet haben. In ähnlicher Weise "
+"können wir berechnen, wie viel Vertrauen wir in die Alternativhypothese "
+"setzen sollten, indem wir fast die gleiche Gleichung verwenden. Wir müssen "
+"nur den tiefgestellten Index ändern:"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:27
 msgid ""
@@ -853,10 +966,13 @@ msgid ""
 "equations down, since all I’m doing is copying Bayes rule from the previous "
 "section.\\ [#]_"
 msgstr ""
+"Das ist alles so einfach, dass ich mir wie ein Idiot vorkomme, wenn ich mir "
+"die Mühe mache, diese Gleichungen aufzuschreiben, da ich ja nur die Bayes-"
+"Regel aus dem vorherigen Abschnitt kopiere.\\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:34
 msgid "The Bayes factor"
-msgstr ""
+msgstr "Der Bayes-Faktor"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
@@ -893,7 +1009,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:48
 msgid "Or, to write the same thing in terms of the equations above"
-msgstr ""
+msgstr "Oder, um dasselbe in Form der obigen Gleichungen zu schreiben"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:50
 msgid ""
@@ -916,6 +1032,14 @@ msgid ""
 "the **Bayes factor**, which describes the amount of evidence provided by the "
 "data"
 msgstr ""
+"Es lohnt sich, diese Gleichung näher zu erläutern. Hier gibt es drei "
+"verschiedene Begriffe, die Sie kennen sollten. Auf der linken Seite haben "
+"wir die a-posteriori-Wahrscheinlichkeit, die angibt, was Sie über die "
+"relative Plausibilität der Nullhypothese und der alternativen Hypothese "
+"glauben, *nachdem* Sie die Daten gesehen haben. Auf der rechten Seite haben "
+"wir die **a-priori-Wahrscheinlichkeit** (*prior odds*), die angeben, was Sie "
+"dachten, *bevor* Sie die Daten gesehen haben. In der Mitte befindet sich der "
+"**Bayes-Faktor**, der den Grad an Evidenz beschreibt, den die Daten liefern"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:61
 msgid ""
@@ -928,6 +1052,15 @@ msgid ""
 "factor}}               & ~      & \\mbox{Prior odds}                  \\\\\n"
 "\\end{array}"
 msgstr ""
+"\\begin{array}{ccccc}\\displaystyle\n"
+"\\frac{P(h_1 | d)}{P(h_0 | d)} & = & \\displaystyle\\frac{P(d|h_1)}{P(d|h_0)}"
+" & \\times & \\displaystyle\\frac{P(h_1)}{P(h_0)} \\\\[6pt] \\\\[-2pt]\n"
+"\\uparrow                      & ~ & \\uparrow                               "
+"& ~      & \\uparrow                           \\\\[6pt]\n"
+"\\mbox{a-posteriori-Wahrscheinlichkeit}         & ~ & \\mbox{\\bf{Bayes-"
+"Faktor}}               & ~      & \\mbox{a-priori-Wahrscheinlichkeit}"
+"                  \\\\\n"
+"\\end{array}"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:69
 msgid ""
@@ -948,10 +1081,27 @@ msgid ""
 "the prior odds equals 1, and the posterior odds becomes the same as the "
 "Bayes factor."
 msgstr ""
+"Der Bayes-Faktor (oft als **BF** abgekürzt) nimmt im Bayes'schen "
+"Hypothesentest eine besondere Stellung ein, da er eine ähnliche Funktion "
+"erfüllt wie der *p*-Wert in frequentistischen Hypothesentests. Der Bayes-"
+"Faktor quantifiziert die Stärke der Evidenz, die von den Daten geliefert "
+"wird. Daher ist der Bayes-Faktor, das Resultat, das man gewöhnlich angibt, "
+"wenn man einen Bayes-Hypothesentest durchführt. Der Grund für die Angabe von "
+"Bayes-Faktoren anstelle von a-posteriori-Wahrscheinlichkeiten ist, dass "
+"verschiedene Forscher unterschiedliche Prioritäten haben. Manche Leute "
+"glauben eher, dass die Nullhypothese wahr ist, andere glauben eher, dass sie "
+"falsch ist. Aus diesem Grund ist es für einen angewandten Forscher besser, "
+"den Bayes-Faktor anzugeben. Auf diese Weise kann jeder, der die Arbeit "
+"liest, den Bayes-Faktor mit seiner eigenen *persönlichen* a-priori-"
+"Wahrscheinlichkeit multiplizieren und selbst ausrechnen, wie die a"
+"-posteriori-Wahrscheinlichkeit aussehen würde. In jedem Fall tun wir gerne "
+"so, als würden wir die Nullhypothese und die Alternative gleichermaßen "
+"berücksichtigen. In diesem Fall ist die a-priori-Wahrscheinlichkeit gleich "
+"1, und die a-posteriori-Wahrscheinlichkeit entsprechen dem Bayes-Faktor."
 
 #: ../../Ch16/Ch16_Bayes_2.rst:87
 msgid "Interpreting Bayes factors"
-msgstr ""
+msgstr "Interpretieren von Bayes-Faktoren"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:89
 msgid ""
@@ -966,14 +1116,25 @@ msgid ""
 "to prefer the `Kass and Raftery (1995) <../Other/References."
 "html#kass-1995>`__ table because it’s a bit more conservative. So here it is:"
 msgstr ""
+"Eine der schönen Seiten des Bayes-Faktors ist, dass die Zahlen von sich aus "
+"aussagekräftig sind. Wenn Sie ein Experiment durchführen und einen Bayes-"
+"Faktor von 4 berechnen, bedeutet dies, dass die aus Ihren Daten gewonnenen "
+"Erkenntnisse einer Wettquote von 4:1 zugunsten der Alternativhypothese "
+"entsprechen. Es hat einige Versuche gegeben, Standards für Evidenz "
+"festzulegen, die in einem wissenschaftlichen Kontext als aussagekräftig "
+"gelten können. Die beiden am häufigsten verwendeten stammen von `Jeffreys "
+"(1961) <../Other/References.html#jeffreys-1961>`__ und `Kass und Raftery "
+"(1995) <../Other/References.html#kass-1995>`__. Von den beiden ziehe ich die "
+"Tabelle von `Kass und Raftery (1995) <../Other/References.html#kass-1995>`__ "
+"vor, weil sie etwas konservativer ist. Hier ist sie also:"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:101
 msgid "Bayes factor"
-msgstr ""
+msgstr "Bayes-Faktor"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:101
 msgid "Interpretation"
-msgstr ""
+msgstr "Interpretation"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:103
 msgid "1 –   3"
@@ -981,7 +1142,7 @@ msgstr "1 –   3"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:103
 msgid "Negligible evidence"
-msgstr ""
+msgstr "Vernachlässigbare Evidenz"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:105
 msgid "3 –  20"
@@ -989,7 +1150,7 @@ msgstr "3 –  20"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:105
 msgid "Positive evidence"
-msgstr ""
+msgstr "Evidenz"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:107
 msgid "20 – 150"
@@ -997,7 +1158,7 @@ msgstr "20 – 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:107
 msgid "Strong evidence"
-msgstr ""
+msgstr "Starke Evidenz"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:109
 msgid "> 150"
@@ -1005,7 +1166,7 @@ msgstr "> 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:109
 msgid "Very strong evidence"
-msgstr ""
+msgstr "Sehr starke Evidenz"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:112
 msgid ""
@@ -1018,6 +1179,14 @@ msgid ""
 "you are and upon the standards that your community insists upon before it is "
 "willing to label a finding as “true”."
 msgstr ""
+"Und um ganz ehrlich zu sein, denke ich, dass selbst die Standards von `Kass "
+"und Raftery (1995) <../Other/References.html#kass-1995>`__ eher großzügig "
+"sind. Wenn es nach mir ginge, würde ich die Kategorie „Evidenz“ als „"
+"schwache Evidenz“ bezeichnen. Für mich ist alles im Bereich von 3:1 bis 20:1 "
+"bestenfalls „schwache“ oder „bescheidene“ Evidenz. Aber es gibt hier keine "
+"harten Regeln. Was als starke oder schwache Evidenz gilt, hängt ganz davon "
+"ab, wie konservativ Sie sind und auf welchen Standards Ihre Kollegen "
+"bestehen, bevor sie bereit sind, eine Erkenntnis als „wahr“ zu bezeichnen."
 
 #: ../../Ch16/Ch16_Bayes_2.rst:121
 msgid ""
@@ -1033,6 +1202,18 @@ msgid ""
 "hypothesis is 0.1. Using the equations given above, Bayes factor here would "
 "be"
 msgstr ""
+"In jedem Fall ist zu beachten, dass alle oben aufgeführten Zahlen sinnvoll "
+"sind, wenn der Bayes-Faktor größer als 1 ist (d. h., die Evidenz spricht für "
+"die Alternativhypothese). Ein großer praktischer Vorteil des Bayes'schen "
+"Ansatzes gegenüber dem frequentistischen Ansatz ist, dass er auch die "
+"Quantifizierung der Evidenz *für* die Nullhypothese ermöglicht. In diesem "
+"Fall ist der Bayes-Faktor kleiner als 1. Sie können sich dafür entscheiden, "
+"einen Bayes-Faktor kleiner als 1 anzugeben, aber um ehrlich zu sein, finde "
+"ich das verwirrend. Nehmen wir zum Beispiel an, dass die Wahrscheinlichkeit "
+"der Daten unter der Nullhypothese *P*\\ (d|h\\ :sub:`0`) gleich 0,2 ist, und "
+"die entsprechende Wahrscheinlichkeit *P*\\ (d|h\\ :sub:`1`) unter der "
+"Alternativhypothese 0,1 ist. Unter Verwendung der oben genannten Gleichungen "
+"würde der Bayes-Faktor hier lauten"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:133
 msgid ""
@@ -1049,6 +1230,11 @@ msgid ""
 "lot more sense to turn the equation “upside down”, and report the amount op "
 "evidence in favour of the *null*. In other words, what we calculate is this"
 msgstr ""
+"Wörtlich genommen besagt dieses Ergebnis, dass die Evidenz zugunsten der "
+"Alternative 0,5 zu 1 ist. Das ist für mich schwer zu verstehen. Für mich "
+"macht es viel mehr Sinn, die Gleichung „auf den Kopf zu stellen“ und die "
+"Evidenz *zugunsten der Nullhypothese* anzugeben. Mit anderen Worten, wir "
+"berechnen Folgendes"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:141
 msgid ""
@@ -1063,6 +1249,9 @@ msgid ""
 "And what we would report is a Bayes factor of 2:1 in favour of the null. "
 "Much easier to understand, and you can interpret this using the table above."
 msgstr ""
+"Und wir würden einen Bayes-Faktor von 2:1 zugunsten der Nullhypothese "
+"ausweisen. Das ist viel einfacher zu verstehen, und Sie können dies anhand "
+"der obigen Tabelle interpretieren."
 
 #: ../../Ch16/Ch16_Bayes_2.rst:150
 msgid ""
@@ -1073,10 +1262,17 @@ msgid ""
 "to highlight that although this simple story is true as far as it goes, real "
 "life is messier than I’m able to cover in an introductory stats textbook."
 msgstr ""
+"Natürlich ist dies eine stark vereinfachte Geschichte. Die ganze Komplexität "
+"der Bayes'schen Hypothesentests besteht darin, wie man die "
+"Wahrscheinlichkeit *P*\\ (d|h) berechnet, wenn die Hypothese *h* komplex "
+"oder vage ist. Ich werde in diesem Buch nicht auf diese Komplexität "
+"eingehen, aber ich möchte betonen, dass diese vereinfachte Geschichte zwar "
+"im Großen und Ganzen wahr ist, das wirkliche Leben aber chaotischer ist, als "
+"ich es in einem einführenden Statistik-Lehrbuch behandeln kann."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:4
 msgid "Why be a Bayesian?"
-msgstr ""
+msgstr "Warum Bayesianer sein?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:6
 msgid ""
