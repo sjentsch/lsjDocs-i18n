@@ -4,20 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -28,42 +14,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 13:16+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 13:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-21 12:42+0100\n"
+"POT-Creation-Date: 2022-11-23 12:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +38,7 @@ msgstr ""
 "#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-16 00:38+0100\n"
+"POT-Creation-Date: 2022-11-23 12:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,6 +180,7 @@ msgid "Likelihoods: theories about the data"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
+#, python-format
 msgid ""
 "To solve the reasoning problem you need a theory about my behaviour. When "
 "does Dani carry an umbrella? You might guess that I’m not a complete idiot,"
@@ -569,6 +535,7 @@ msgid "0.486"
 msgstr "0.486"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:261
+#, python-format
 msgid ""
 "What this table is telling you is that, after being told that I’m carrying "
 "an umbrella, you believe that there’s a 51.4% chance that today will be a "
@@ -782,8 +749,8 @@ msgid ""
 "h_0)} & \\times & \\displaystyle\\frac{P(h_1)}{P(h_0)} \\\\[6pt] \\\\[-2pt]\n"
 "\\uparrow                      & ~ & \\uparrow                               "
 "& ~      & \\uparrow                           \\\\[6pt]\n"
-"\\mbox{Posterior odds}         & ~ & \\mbox{\\bf{Bayes "
-"factor}}               & ~      & \\mbox{Prior odds}                  \\\\\n"
+"\\mbox{Posterior odds}         & ~ & \\mbox{Bayes factor}                    "
+"& ~      & \\mbox{Prior odds}                  \\\\\n"
 "\\end{array}"
 msgstr ""
 
@@ -967,6 +934,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:30
+#, python-format
 msgid ""
 "To me, one of the biggest advantages to the Bayesian approach is that it "
 "answers the right questions. Within the Bayesian framework, it is perfectly "
@@ -976,8 +944,8 @@ msgid ""
 "being, this would seem to be the whole *point* of doing statistics, i.e., to "
 "determine what is true and what isn’t. Any time that you aren’t exactly sure "
 "about what the truth is, you should use the language of probability theory "
-"to say things like “there is an 80% chance that Theory A is true, but a 20% "
-"chance that Theory B is true instead”."
+"to say things like “there is an 80% chance that Theory A is true, but a "
+"20% chance that Theory B is true instead”."
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:42
@@ -1014,6 +982,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:68
+#, python-format
 msgid ""
 "Nope! That’s *not* what *p* < 0.05 means. That’s *not* what 95% confidence "
 "means to a frequentist statistician. The bolded section is just plain wrong. "
@@ -1038,13 +1007,14 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:87
+#, python-format
 msgid ""
 "Speaking for myself, I found this to be the most liberating thing about "
 "switching to the Bayesian view. Once you’ve made the jump, you no longer "
 "have to wrap your head around counter-intuitive definitions of *p*-values. "
-"You don’t have to bother remembering why you can’t say that you’re 95% "
-"confident that the true mean lies within some interval. All you have to do "
-"is be honest about what you believed before you ran the study and then "
+"You don’t have to bother remembering why you can’t say that you’re "
+"95% confident that the true mean lies within some interval. All you have to "
+"do is be honest about what you believed before you ran the study and then "
 "report what you learned from doing it. Sounds nice, doesn’t it? To me, this "
 "is the big promise of the Bayesian approach. You do the analysis you really "
 "want to do, and express what you really believe the data are telling you."
@@ -1081,6 +1051,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:123
+#, python-format
 msgid ""
 "Well, how true is that? One way to approach this question is to try to "
 "convert *p*-values to Bayes factors, and see how the two compare. It’s not "
@@ -1302,6 +1273,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:275
+#, python-format
 msgid ""
 "Worse yet, they’re a lie in a dangerous way, because they’re all *too "
 "small*. To give you a sense of just how bad it can be, consider the "
@@ -1338,6 +1310,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:311
+#, python-format
 msgid ""
 "So how bad is it? The answer is shown as the solid black line in :numref:"
 "`fig-adapt`, and it’s *astoundingly* bad. If you peek at your data after "

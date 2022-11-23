@@ -4,6 +4,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -23,16 +51,60 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 12:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 12:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 12:16+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 12:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-21 13:14+0100\n"
 "PO-Revision-Date: 2022-11-21 12:26+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/>"
-"\n"
-"Language: de\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2709,10 +2781,10 @@ msgstr "*µ* – 1.96 × SEM ≤ *X̄* ≤ *µ* + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
 msgid ""
-"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be "
-"95% confident that this is true. However, that’s not answering the question "
-"that we’re actually interested in. The equation above tells us what we "
-"should expect about the sample mean given that we know what the population "
+"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be 95% "
+"confident that this is true. However, that’s not answering the question that "
+"we’re actually interested in. The equation above tells us what we should "
+"expect about the sample mean given that we know what the population "
 "parameters are. What we *want* is to have this work the other way around. We "
 "want to know what we should believe about the population parameters, given "
 "that we have observed a particular sample. However, it’s not too difficult "
@@ -2743,8 +2815,8 @@ msgid ""
 "distribution of the mean is normal), then we can write this as our formula "
 "for the 95% confidence interval:"
 msgstr ""
-"Das bedeutet, dass der Wertebereich mit einer Wahrscheinlichkeit von 95 "
-"% den Mittelwert der Grundgesamtheit *µ* enthält. Wir bezeichnen diesen "
+"Das bedeutet, dass der Wertebereich mit einer Wahrscheinlichkeit von 95 % "
+"den Mittelwert der Grundgesamtheit *µ* enthält. Wir bezeichnen diesen "
 "Bereich als **95%-Konfidenzintervall**, bezeichnet als *CI*\\ :sub:`95`\\ . "
 "Kurz gesagt, solange *N* hinreichend groß ist (groß genug, um zu glauben, "
 "dass die Stichprobenverteilung des Mittelwerts normal ist), können wir dies "
@@ -2889,9 +2961,9 @@ msgid ""
 "up the frequencies of different kinds of events. From that perspective, the "
 "nterpretation of a 95% confidence interval must have something to do with "
 "replication. Specifically, if we replicated the experiment over and over "
-"again and computed a 95% confidence interval for each replication, then "
-"95% of those *intervals* would contain the true mean. More generally, 95% of "
-"all confidence intervals constructed using this procedure should contain the "
+"again and computed a 95% confidence interval for each replication, then 95% "
+"of those *intervals* would contain the true mean. More generally, 95% of all "
+"confidence intervals constructed using this procedure should contain the "
 "true population mean. This idea is illustrated in :numref:`fig-confIntSmp`, "
 "which shows 50 confidence intervals constructed for a “measure 10 IQ scores” "
 "experiment (top panel) and another 50 confidence intervals for a “measure 25 "
@@ -3030,8 +3102,8 @@ msgstr ""
 "Wenn es darum geht, Konfidenzintervalle für den Mittelwert in jamovi "
 "darzustellen, ist dies (noch) nicht als Teil der ``Descriptives``-Optionen "
 "verfügbar. Wenn wir uns jedoch mit spezifischen statistischen Tests "
-"beschäftigen, zum Beispiel in Kapitel :doc:`Vergleich mehrerer Mittelwerte ("
-"einseitige ANOVA) <../Ch13/Ch13_ANOVA>`, werden wir sehen, dass wir "
+"beschäftigen, zum Beispiel in Kapitel :doc:`Vergleich mehrerer Mittelwerte "
+"(einseitige ANOVA) <../Ch13/Ch13_ANOVA>`, werden wir sehen, dass wir "
 "Konfidenzintervalle als Teil der Datenanalyse darstellen können. Das ist "
 "ziemlich cool, also werden wir Ihnen später zeigen, wie man das macht."
 
