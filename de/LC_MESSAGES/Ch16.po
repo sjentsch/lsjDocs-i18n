@@ -28,7 +28,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-23 12:22+0100\n"
-"PO-Revision-Date: 2022-11-27 11:48+0000\n"
+"PO-Revision-Date: 2022-11-27 12:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch16/de/>"
 "\n"
@@ -1486,10 +1486,15 @@ msgid ""
 "we draw a conventional line at 0.05 and consider that [smaller values of "
 "*p*] indicate a real discrepancy."
 msgstr ""
+"Wenn [*p*] unter 0,02 liegt, ist dies ein starkes Indiz dafür, dass die "
+"[Null-]Hypothese die Gesamtheit der Fakten nicht erklärt. Wir werden nicht "
+"oft in die Irre gehen, wenn wir eine konventionelle Linie bei 0,05 ziehen "
+"und davon ausgehen, dass [kleinere Werte von *p*] eine echte Diskrepanz "
+"anzeigen."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:116
 msgid "`Sir Ronald Fisher (1925) <../Other/References.html#fisher-1925>`__"
-msgstr ""
+msgstr "`Sir Ronald Fisher (1925) <../Other/References.html#fisher-1925>`__"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:111
 msgid ""
@@ -1504,6 +1509,18 @@ msgid ""
 "views very similar to Fisher’s. In essence, the *p* < 0.05 convention is "
 "assumed to represent a fairly stringent evidential standard."
 msgstr ""
+"Dieses Zitat stammt von Sir Ronald Fisher, einem der Begründer des "
+"frequentistischen Ansatzes in der Statistik. Wenn jemand jemals berechtigt "
+"war, eine Meinung über die beabsichtigte Funktion von *p*-Werten zu äußern, "
+"dann ist es Fisher. In dieser Passage aus seinem klassischen Leitfaden *"
+"Statistical Methods for Research Workers* ist er ziemlich klar darüber, was "
+"es bedeutet, eine Nullhypothese bei *p* < 0,05 zurückzuweisen. Seiner "
+"Meinung nach bedeutet *p* < 0,05, dass es „einen echten Effekt“ gibt, dann „"
+"werden wir nicht oft in die Irre gehen“. Diese Ansicht ist nicht "
+"ungewöhnlich. Meiner Erfahrung nach vertreten die meisten Praktiker eine "
+"sehr ähnliche Auffassung wie Fisher. Im Wesentlichen wird davon ausgegangen, "
+"dass die Konvention *p* < 0,05 einen ziemlich strengen Beweisstandard "
+"darstellt."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:123
 #, python-format
@@ -1554,15 +1571,15 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:146
 msgid "The *p*-value is a lie."
-msgstr ""
+msgstr "Der *p*-Wert ist eine Lüge."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid "*The cake is a lie.*"
-msgstr ""
+msgstr "*Der Kuchen ist eine Lüge.*"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:162
 msgid "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
-msgstr ""
+msgstr "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:158
 msgid ""
@@ -1578,6 +1595,18 @@ msgid ""
 "how humans actually do research, and because of this most *p*-values are "
 "wrong."
 msgstr ""
+"An dieser Stelle werden Sie vielleicht denken, dass das eigentliche Problem "
+"nicht die frequentistische Statistik ist, sondern nur der *p* < 0,05 "
+"Standard. In gewisser Weise stimmt das auch. Die Empfehlung, die `Johnson "
+"(2013) <../Other/References.html#johnson-2013>`__ gibt, lautet nicht, dass „"
+"jeder jetzt ein Bayesianer sein muss“. Stattdessen wird vorgeschlagen, dass "
+"es klüger wäre, den konventionellen Standard auf einen Wert wie *p* < 0,01 "
+"zu verschieben. Das ist kein unvernünftiger Standpunkt, aber meiner Meinung "
+"nach ist das Problem noch ein wenig gravierender als das. Meiner Meinung "
+"nach liegt ein ziemlich großes Problem in der Art und Weise, wie die meisten "
+"(aber nicht alle) frequentistischen Hypothesentests konstruiert sind. Sie "
+"sind sehr naiv in Bezug darauf, wie Menschen tatsächlich forschen, und "
+"deshalb sind die meisten *p*-Werte falsch."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:169
 msgid ""
@@ -1588,31 +1617,44 @@ msgid ""
 "hypothesis test and out pops a *p*-value of 0.072. Really bloody annoying, "
 "right?"
 msgstr ""
+"Das klingt nach einer absurden Behauptung? Stellen Sie sich folgendes "
+"Szenario vor: Sie haben eine wirklich spannende Forschungshypothese "
+"aufgestellt und entwerfen eine Studie, um sie zu testen. Da Sie sehr "
+"sorgfältig sind, führen Sie eine Power-Analyse (Teststärke-Berechnung) "
+"durch, um zu ermitteln, wie groß Ihre Stichprobe sein sollte, und führen die "
+"Studie durch. Sie führen dann Ihren Hypothesentest durch, und heraus kommt "
+"ein *p*-Wert von 0,072. Wirklich verdammt ärgerlich, oder?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:176
 msgid "What should you do? Here are some possibilities:"
-msgstr ""
+msgstr "Was sollten Sie tun? Hier sind einige Möglichkeiten:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:178
 msgid ""
 "You conclude that there is no effect and try to publish it as a null result"
 msgstr ""
+"Sie kommen zu dem Schluss, dass es keinen Effekt gibt und versuchen, dies "
+"als Nullergebnis zu veröffentlichen"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:181
 msgid ""
 "You guess that there might be an effect and try to publish it as a "
 "“borderline significant” result"
 msgstr ""
+"Sie vermuten, dass es einen Effekt geben könnte, und versuchen, ihn als „"
+"marginal signifikantes“ Ergebnis zu veröffentlichen"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:184
 msgid "You give up and try a new study"
-msgstr ""
+msgstr "Sie geben auf und probieren eine neue Studie aus"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:186
 msgid ""
 "You collect some more data to see if the *p* value goes up or (preferably!) "
 "drops below the “magic” criterion of *p* < 0.05"
 msgstr ""
+"Sie sammeln weitere Daten, um zu sehen, ob der Wert *p* ansteigt oder "
+"(vorzugsweise!) unter das „magische“ Kriterium *p* < 0,05 fällt"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:189
 msgid ""
@@ -1622,6 +1664,13 @@ msgid ""
 "own experiences as an author, reviewer and editor, as well as stories I’ve "
 "heard from others, here’s what will happen in each case:"
 msgstr ""
+"Was würden *Sie* wählen? Bevor Sie weiterlesen, möchte ich Sie bitten, sich "
+"etwas Zeit zu nehmen und darüber nachzudenken. Seien Sie ehrlich zu sich "
+"selbst. Aber machen Sie sich nicht zu viel Stress, denn Sie sind auf jeden "
+"Fall aufgeschmissen, egal wie Sie sich entscheiden. Basierend auf meinen "
+"eigenen Erfahrungen als Autor, Gutachter und Redakteur sowie auf "
+"Geschichten, die ich von anderen gehört habe, ist hier, was in jedem Fall "
+"passieren wird:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:195
 msgid ""
@@ -1633,6 +1682,15 @@ msgid ""
 "two reviewers might even be on your side, but you’ll be fighting an uphill "
 "battle to get it through."
 msgstr ""
+"Beginnen wir mit Option 1. Wenn Sie versuchen, es als Nullergebnis zu "
+"veröffentlichen, wird die Arbeit kaum veröffentlicht werden. Einige "
+"Gutachter werden denken, dass *p* = 0,072 nicht wirklich ein Null-Ergebnis "
+"ist. Sie werden argumentieren, dass es marginal signifikant ist. Andere "
+"Gutachter werden zwar zustimmen, dass es sich um ein Nullergebnis handelt, "
+"aber behaupten, dass Ihr Nullergebnisse nicht *publizierbar* ist, obwohl "
+"andere Nullergebnisse es sind. Ein oder zwei Gutachter könnten sogar auf "
+"Ihrer Seite sein, aber Sie werden einen harten Kampf führen müssen, um eine "
+"Publikation durchzusetzen."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:203
 msgid ""
@@ -1642,6 +1700,13 @@ msgid ""
 "ambiguous, and that you should collect more data until you get a clear "
 "significant result. Again, the publication process does not favour you."
 msgstr ""
+"Lassen Sie uns nun über Option 2 nachdenken. Nehmen wir an, Sie versuchen, "
+"es als ein marginal signifikantes Ergebnis zu veröffentlichen. Einige "
+"Gutachter werden behaupten, dass es ein Null-Ergebnis ist und nicht "
+"veröffentlicht werden sollte. Andere werden behaupten, dass die Beweise "
+"nicht eindeutig genug sind und dass Sie mehr Daten sammeln sollten, bis Sie "
+"ein eindeutiges signifikantes Ergebnis erhalten. Auch hier gilt: Der "
+"Publikationsprozess ist nicht zu Ihren Gunsten."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:210
 msgid ""
@@ -1652,6 +1717,14 @@ msgid ""
 "published. And if you’re in academia without a publication record you can "
 "lose your job. So that option is out."
 msgstr ""
+"Angesichts der Schwierigkeiten, ein „zweideutiges“ Ergebnis wie *p* = 0,072 "
+"zu veröffentlichen, mag Option 3 verlockend erscheinen: Aufgeben und eine "
+"andere Studie machen. Aber das ist ein Rezept für Karriereselbstmord. Wenn "
+"Sie jedes Mal, wo Sie mit einem unklaren Ergebnis konfrontiert werden, "
+"aufgeben und ein neues Projekt in Angriff nehmen, werden große Teile Ihrer "
+"Arbeit nie veröffentlicht werden. Und wenn Sie im akademischen Bereich tätig "
+"sind und nur wenige Veröffentlichungen vorweisen können, könnten Sie Ihren "
+"Job verlieren. Diese Option ist also ausgeschlossen."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:218
 msgid ""
@@ -1663,6 +1736,14 @@ msgid ""
 "in the past and all the *p*-values you will calculate in the future. "
 "Fortunately, no-one will notice. You’ll get published, and you’ll have lied."
 msgstr ""
+"Es sieht so aus, als bliebe Ihnen nur Option 4. Sie haben keine schlüssigen "
+"Ergebnisse, also beschließen Sie, weiter Daten zu sammeln und die Analyse "
+"erneut durchzuführen. Das scheint vernünftig zu sein, aber leider sind in "
+"diesem Fall alle *p*-Werte nicht mehr korrekt. *Alle*! Nicht nur die *p*-"
+"Werte, die Sie für *diese* Studie berechnet haben, sondern alle *p*-Werte, "
+"die Sie in der Vergangenheit berechnet haben, und alle *p*-Werte, die Sie in "
+"der Zukunft berechnen werden. Glücklicherweise wird es niemandem auffallen. "
+"Sie werden veröffentlicht, und Sie werden gelogen haben."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:227
 msgid ""
@@ -1671,6 +1752,10 @@ msgid ""
 "results weren’t conclusive, so now what you want to do is collect more data "
 "until the the results *are* conclusive. What’s wrong with that?"
 msgstr ""
+"Moment, aber warum? Wie kann der letzte Teil wahr sein? Option 4 klingt doch "
+"nach einer vernünftigen Strategie? Sie haben einige Daten gesammelt, die "
+"Ergebnisse waren nicht schlüssig, also wollen Sie jetzt mehr Daten sammeln, "
+"bis die Ergebnisse *schlüssig sind*. Was ist daran falsch?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:232
 msgid ""
@@ -1683,30 +1768,40 @@ msgid ""
 "assumes the experiment is over, it only considers *two* possible decisions. "
 "If you’re using the conventional *p* < 0.05 threshold, those decisions are:"
 msgstr ""
+"Ehrlich gesagt, ist daran nichts auszusetzen. Es erscheint wie eine "
+"vernünftige und rationale Sache. Im wirklichen Leben ist es genau das, was "
+"jeder Forscher tut. Leider *verbietet* die Theorie der Nullhypothesentests, "
+"die ich in Kapitel :doc:`Hypothesentests <../Ch09/Ch09_HypothesisTesting>` "
+"beschrieben habe, Ihnen genau das zu tun.\\ [#]_ Der Grund dafür ist, dass "
+"die Theorie davon ausgeht, dass das Experiment beendet ist wenn alle Daten "
+"vorhanden sind. Und weil die Theorie davon ausgeht, dass das Experiment "
+"beendet ist, berücksichtigt sie nur *zwei* mögliche Entscheidungen. Wenn Sie "
+"den konventionellen *p* < 0,05 Schwellenwert verwenden, lauten diese "
+"Entscheidungen:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:242 ../../Ch16/Ch16_Bayes_3.rst:256
 msgid "Outcome"
-msgstr ""
+msgstr "Ergebnis"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:242 ../../Ch16/Ch16_Bayes_3.rst:256
 msgid "Action"
-msgstr ""
+msgstr "Schlussfolgerung"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:244 ../../Ch16/Ch16_Bayes_3.rst:258
 msgid "*p* less than 0.05"
-msgstr ""
+msgstr "*p* ist kleiner als 0,05"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:244
 msgid "Reject the null"
-msgstr ""
+msgstr "Verwerfen Sie die Nullhypothese"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:246
 msgid "*p* greater than 0.05"
-msgstr ""
+msgstr "*p* ist größer als 0,05"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:246
 msgid "Retain the null"
-msgstr ""
+msgstr "Behalten Sie die Nullhypothese bei"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:249
 msgid ""
@@ -1715,26 +1810,31 @@ msgid ""
 "reason to justify continuing the experiment. And as a consequence you’ve "
 "transformed the decision-making procedure into one that looks more like this:"
 msgstr ""
+"Was *Sie* tun, ist, dem Entscheidungsproblem eine dritte mögliche Handlung "
+"hinzuzufügen. Genauer gesagt, verwenden Sie den *p*-Wert selbst als Grund, "
+"um die Fortsetzung des Experiments zu rechtfertigen. Infolgedessen haben Sie "
+"das Entscheidungsverfahren in ein Verfahren umgewandelt, das eher wie folgt "
+"aussieht:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:258
 msgid "Stop the experiment and reject the null"
-msgstr ""
+msgstr "Beenden Sie das Experiment und verwerfen Sie die Nullhypothese"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:260
 msgid "*p* between 0.05 and 0.1"
-msgstr ""
+msgstr "*p* zwischen 0,05 und 0,1"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:260
 msgid "Continue the experiment"
-msgstr ""
+msgstr "Setzen Sie das Experiment fort"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:262
 msgid "*p* greater than 0.1"
-msgstr ""
+msgstr "*p* ist größer als 0,1"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:262
 msgid "Stop the experiment and retain the null"
-msgstr ""
+msgstr "Beenden Sie das Experiment und behalten Sie die Nullhypothese bei"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:265
 msgid ""
@@ -1748,6 +1848,17 @@ msgid ""
 "failure to follow the process that is causing the problem (a `related "
 "problem <https://xkcd.com/1478>`__). Your *p*-values are a lie."
 msgstr ""
+"Die „grundlegende“ Theorie des Nullhypothesentests ist nicht dafür "
+"ausgelegt, mit dieser Art von Dingen umzugehen; nicht in der Form, wie ich "
+"sie in Kapitel :doc:`Hypothesentests <../Ch09/Ch09_HypothesisTesting>` "
+"beschrieben habe. Wenn Sie zu den Menschen gehören, die im wirklichen Leben „"
+"mehr Daten sammeln“ wollen, bedeutet das, dass Sie *nicht* Entscheidungen "
+"nach den für die Überprüfung von Nullhypothese aufgestellten Regeln treffen. "
+"Selbst wenn Sie zufällig zu der gleichen Entscheidung kommen, wie der "
+"Hypothesentest, befolgen Sie nicht den *Entscheidungsprozess* der damit "
+"einhergeht. Es ist dieses Versäumnis, dem „vorgeschriebenen“ Prozess zu "
+"folgen, welches das Problem verursacht (ein `verwandtes Problem <https://xkcd"
+".com/1478>`__). Ihre *p*-Werte sind eine Lüge."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:275
 #, python-format
@@ -1804,12 +1915,16 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_3.rst:306
 msgid "Effect of re-running your tests every time new data arrive"
 msgstr ""
+"Auswirkung der erneuten Durchführung Ihrer Tests beim Eintreffen neuer Daten"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:306
 msgid ""
 "How badly can things go wrong if you re-run your tests every time new data "
 "arrive? If you are a frequentist, the answer is “very wrong”."
 msgstr ""
+"Wie schlimm kann etwas schiefgehen, wenn Sie Ihre Tests jedes Mal erneut "
+"ausführen, wenn neue Daten eintreffen? Wenn Sie ein Frequentist sind, ist "
+"die Antwort „sehr schlimm“."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:311
 #, python-format
@@ -1867,10 +1982,18 @@ msgid ""
 "standard, which most Bayesians would consider unacceptably lax, is much "
 "safer than the *p* < 0.05 rule."
 msgstr ""
+"In gewisser Weise ist dies bemerkenswert. Der gesamte *Punkt* der "
+"frequentistischen Nullhypothesentests besteht darin, die Fehlerrate vom Typ "
+"I zu kontrollieren. Bayes'sche Methoden sind dafür eigentlich gar nicht "
+"ausgelegt. Trotzdem ist der Bayes'sche Ansatz viel effektiver, wenn man es "
+"mit einem „schießwütigen“ Forscher zu tun hat, der ständig aufs neue "
+"Hypothesentests durchführt, sobald weitere Daten eintreffen. Selbst der 3:1-"
+"Standard, den die meisten Bayesianer als inakzeptabel lasch ansehen würden, "
+"ist viel sicherer als die Regel *p* < 0,05."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:339
 msgid "Is it really this bad?"
-msgstr ""
+msgstr "Ist es wirklich so schlimm?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:341
 msgid ""
@@ -1956,6 +2079,25 @@ msgid ""
 "the decision making procedure that the researcher used. And so the reported "
 "*p*-value remains a lie."
 msgstr ""
+"Bedenken Sie Folgendes: Die wissenschaftliche Literatur ist voll von *t*-"
+"Tests, ANOVAs, Regressionen und χ²-Tests. Als ich dieses Buch schrieb, habe "
+"ich diese Tests nicht willkürlich ausgewählt. Der Grund, warum diese vier "
+"Instrumente in den meisten einführenden Statistik-Texten vorkommen, ist, "
+"dass es sich dabei um die „Brot und Butter“-Werkzeuge der Wissenschaft "
+"handelt. Keines dieser Werkzeuge enthält eine Korrektur für das „*data "
+"peeking*“: Sie alle gehen davon aus, dass man es nicht tut. Aber wie "
+"realistisch ist diese Annahme? Was glauben Sie, wie viele Menschen im "
+"wirklichen Leben einen „Blick“ auf ihre Daten geworfen haben, bevor das "
+"Experiment beendet war, und dann ihr Verhalten angepasst haben, nachdem sie "
+"gesehen hatten, wie die Daten aussahen? Außer wenn das Stichprobenverfahren "
+"durch eine äußere Bedingung festgelegt ist, lautet die Antwort wohl „die "
+"meisten Menschen würden sich so verhalten“. Wenn dies der Fall war, kann man "
+"daraus schließen, dass die angegebenen *p*-Werte falsch sind. Schlimmer "
+"noch, da wir nicht wissen, welchem Entscheidungsprozess diese Menschen "
+"tatsächlich gefolgt sind, haben wir keine Möglichkeit zu erfahren, wie die "
+"*p*-Werte *hätten lauten sollen*. Man kann keinen *p*-Wert berechnen, wenn "
+"man das Entscheidungsverfahren nicht kennt, das der Forscher angewandt hat. "
+"Und so bleibt der *p*-Wert eine Lüge."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:387
 msgid ""
@@ -1975,14 +2117,31 @@ msgid ""
 "might *look at their own data* isn’t a theory worth having. In essence, my "
 "point is this:"
 msgstr ""
+"Was ist nun die Schlussfolgerung aus allen diesen Erwägungen? Bayes'sche "
+"Methoden sind nicht narrensicher. Wenn ein Forscher entschlossen ist, zu "
+"betrügen, kann er das immer tun. Die Bayes-Regel kann weder verhindern, dass "
+"jemand lügt, noch kann sie ihn davon abhalten, ein Experiment zu "
+"manipulieren. Doch darum geht es hier auch nicht. Es ist derselbe Punkt, den "
+"ich ganz am Anfang des Buches im Abschnitt :doc:`Über die Psychologie der "
+"Statistik <../Ch01/Ch01_WhyStats_1>` dargelegt habe: Der Grund, warum wir "
+"statistische Tests durchführen, ist, um uns vor uns selbst zu schützen. Und "
+"der Grund, warum „*data peeking*“ so besorgniserregend ist, ist, dass es *"
+"sogar für ehrliche Forscher* äußerst verlockend ist. Jede Theorie für "
+"statistische Schlussfolgerungen muss dies anerkennen. Ja, man könnte "
+"versuchen, *p*-Werte zu verteidigen, indem man sagt, dass es die Schuld des "
+"Forschers ist, wenn er sie nicht richtig verwendet, aber meiner Meinung nach "
+"geht das am Thema vorbei. Eine Theorie der statistischen Inferenz, die den "
+"Menschen so naiv betrachtet, dass sie nicht einmal die Möglichkeit in "
+"Betracht zieht, dass der Forscher *seine eigenen Daten* betrachtet, ist "
+"keine Theorie wert. Im Wesentlichen geht es mir um Folgendes:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
 msgid "*Good laws have their origins in bad morals.*"
-msgstr ""
+msgstr "*Gute Gesetze haben ihren Ursprung in schlechten Gewohnheiten.*"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:410
 msgid "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
-msgstr ""
+msgstr "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:409
 msgid ""
@@ -1991,6 +2150,11 @@ msgid ""
 "statistical inference should still work even when it is used by actual "
 "humans. Orthodox null hypothesis testing does not.\\ [#]_"
 msgstr ""
+"Gute Regeln für statistische Tests müssen menschliche Schwächen anerkennen. "
+"Niemand von uns ist ohne Sünde und völlig vor Versuchungen gefeit. Ein gutes "
+"System für statistische Schlussfolgerungen sollte auch dann noch "
+"funktionieren, wenn es von echten, fehlbaren Menschen benutzt wird. "
+"Frequentistische Nullhypothesentests erfüllen dieses Kriterium nicht.\\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:417
 msgid ""
@@ -2000,6 +2164,12 @@ msgid ""
 "to use in this context and I refuse to miss any opportunity to quote *The "
 "Princess Bride*."
 msgstr ""
+"Ich sollte am Rande erwähnen, dass ich nicht der erste bin, der dieses Zitat "
+"verwendet, um sich über frequentistische Methoden zu beschweren. Richard "
+"Morey und seine Kollegen hatten diese Idee zuerst. Ich klaue es schamlos, "
+"weil es so ein tolles Zitat ist, das man in diesem Zusammenhang verwenden "
+"kann. Und außerdem weigere ich mich, irgendeine Gelegenheit zu verpassen, *"
+"The Princess Bride* zu zitieren."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:424
 msgid ""
@@ -2015,6 +2185,19 @@ msgid ""
 "I’m raising here is valid for every single orthodox test I’ve presented so "
 "far and for almost every test I’ve seen reported in the papers I read."
 msgstr ""
+"Um ganz ehrlich zu sein, sollte ich zugeben, dass nicht alle statistischen "
+"Tests, die auf der frequentistischen Sichtweise basieren, auf der gleichen "
+"dummen Annahme beruhen. Es gibt eine Reihe von *sequentiellen "
+"Analysewerkzeugen*, die in manchen klinischen Studien (und ähnlichem) "
+"verwendet werden. Diese Methoden beruhen auf der Annahme, dass die Daten "
+"analysiert werden, sobald sie eintreffen, und diese Tests sind nicht so "
+"schrecklich fehlerhaft, wie ich es hier beklagt habe. Allerdings sind "
+"sequenzielle Analysemethoden anders aufgebaut als die „Standard“-Version der "
+"Nullhypothesentests. Sie sind in keinem Einführungslehrbuch zu finden und "
+"werden in der psychologischen Literatur nicht sehr häufig verwendet. Die "
+"Bedenken, die ich hier äußere, gelten für jeden einzelnen frequentistischen "
+"Test, den ich bisher vorgestellt habe, und für fast alle Tests, die ich in "
+"den von mir gelesenen Arbeiten gesehen habe."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:437
 msgid ""
@@ -2024,6 +2207,12 @@ msgid ""
 "the *p*-value. If I’d chosen a 5:1 Bayes factor instead, the results would "
 "look even better for the Bayesian approach."
 msgstr ""
+"Einige Leser werden sich fragen, warum ich 3:1 und nicht 5:1 gewählt habe, "
+"da `Johnson (2013) <../Other/References.html#johnson-2013>`__ nahelegt, dass "
+"*p* = 0,05 irgendwo in diesem Bereich liegt. Ich habe dies getan, um dem *p*-"
+"Wert gegenüber wohlwollend zu sein. Hätte ich stattdessen einen Bayes-Faktor "
+"von 5:1 gewählt, würden die Ergebnisse für den Bayes-Ansatz noch besser "
+"aussehen."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:444
 msgid ""
@@ -2042,10 +2231,26 @@ msgid ""
 "analysis practices as they exist in the real world. *Default* orthodox "
 "methods suck, and we all know it."
 msgstr ""
+"Obwohl ich *weiß*, dass nur einige sachkundige Vielleser diesen Abschnitt "
+"lesen und sich darüber beschweren werden, bin ich nicht naiv. Ich weiß "
+"genau, dass man diese Fehler innerhalb des frequentistischen Rahmens "
+"vermeiden kann, wenn man eine sequenzielle Analyseperspektive einnimmt. Ich "
+"weiß auch, dass man Studien explizit unter Berücksichtigung von "
+"Zwischenanalysen konzipieren kann. In gewissem Sinne greife ich also einen "
+"„Strohmann“ der frequentistischen Methoden an. Der Strohmann, den ich "
+"angreife, ist jedoch derjenige, der *von fast jedem Praktiker* verwendet "
+"wird. Sollte es jemals so weit kommen, dass sequenzielle Methoden unter "
+"Experimentalpsychologen zur Norm werden und ich nicht mehr gezwungen bin, "
+"täglich über 20 extrem fragwürdige ANOVAs zu lesen, verspreche ich, diesen "
+"Abschnitt zu überarbeiten und die Schärfe zu reduzieren. Aber bis es so weit "
+"ist, bleibe ich bei meiner Behauptung, dass auf *Bayes-Faktoren* beruhende "
+"Analysemethoden *viel robuster* gegenüber den Praktiken der Datenanalyse "
+"sind, die in der realen Welt existieren. Die *gewöhnlichen* "
+"frequentistischen Methoden sind unzulängich, und wir alle wissen das."
 
 #: ../../Ch16/Ch16_Bayes_5.rst:4
 msgid "Bayesian t-tests"
-msgstr ""
+msgstr "Bayes'sche t-Tests"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:6
 msgid ""
@@ -2056,10 +2261,18 @@ msgid ""
 "the *t*-test. I’ll talk a little about Bayesian versions of the independent "
 "samples *t*-tests and the paired samples *t*-test in this section."
 msgstr ""
+"Eine wichtige Art von inferenzstatistischen Schlussfolgerungen, das in "
+"diesem Buch behandelt wird, ist der Vergleich von zwei Mittelwerten, der im "
+"Kapitel über *t*-Tests (:doc:`Vergleich zweier Mittelwerte <../Ch11/"
+"Ch11_tTest>`) ausführlich behandelt wird. Wenn Sie sich so weit "
+"zurückerinnern können, werden Sie sich daran erinnern, dass es mehrere "
+"Versionen des *t*-Tests gibt. In diesem Abschnitt werde ich ein wenig über "
+"die Bayes'schen Versionen des *t*-Tests für unabhängige Stichproben und des "
+"*t*-Tests für gepaarte Stichproben sprechen."
 
 #: ../../Ch16/Ch16_Bayes_5.rst:14
 msgid "Independent samples t-test"
-msgstr ""
+msgstr "t-Test für unabhängige Stichproben"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:16
 msgid ""
@@ -2075,10 +2288,22 @@ msgid ""
 "`fig-bayes1`. As we obtain a *p*-value less than \\0.05, we reject the null "
 "hypothesis."
 msgstr ""
+"Die am häufigsten benutzte Variante des *t*-Tests ist der *t*-Test für "
+"unabhängigen Stichproben. Er wird verwendet, wenn man Daten wie im |harpo|_ -"
+"Datensatz hat, den wir zuvor im Kapitel über *t*-Tests (Kapitel :doc:`"
+"Vergleich zweier Mittelwerte <../Ch11/Ch11_tTest>`) verwendet haben. In "
+"diesem Datensatz haben wir zwei Gruppen von Studenten, nämlich diejenigen, "
+"die von Anastasia unterrichtet wurden, und diejenigen, die den Unterricht "
+"bei Bernadette besuchten. Die Frage, die wir beantworten wollen, ist, ob es "
+"einen Unterschied zwischen den Noten dieser beiden Gruppen von Studenten "
+"gibt. In diesem vorigen Kapitel habe ich vorgeschlagen, diese Art von Daten "
+"mit dem *t*-Test für unabhängige Stichproben in jamovi zu analysieren, der "
+"uns die Ergebnisse in :numref:`fig-bayes1` liefert. Da wir einen *p*-Wert "
+"von weniger als \\0,05 erhalten, lehnen wir die Nullhypothese ab."
 
 #: ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "``Independent Samples T-Test`` result in jamovi"
-msgstr ""
+msgstr "Ergebnisse des ``Independent Samples T-Test`` in jamovi"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:37
 msgid ""
