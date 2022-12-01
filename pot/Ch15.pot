@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-23 12:23+0100\n"
+"POT-Creation-Date: 2022-12-01 16:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,9 +235,9 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid ""
 "First, we need some data. Twenty-five personality self-report items (see :"
-"numref:`tab-bfi`) taken from the International Personality Item Pool (http://"
-"ipip.ori.org) were included as part of the Synthetic Aperture Personality "
-"Assessment (SAPA) web-based personality assessment (SAPA: http://sapa-"
+"numref:`tab-bfi`) taken from the International Personality Item Pool "
+"(https://ipip.ori.org) were included as part of the Synthetic Aperture "
+"Personality Assessment (SAPA) web-based personality assessment (https://sapa-"
 "project.org) project. The 25 items are short phrases that one should respond "
 "to by indicating how accurately the statement describes one's typical "
 "behaviour or attitudes. The items are organized by five putative factors: "
@@ -261,7 +261,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "A1"
-msgstr ""
+msgstr "A1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
@@ -271,7 +271,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Am indifferent to the feelings of others."
@@ -279,7 +279,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "A2"
-msgstr ""
+msgstr "A2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Inquire about others' well-being."
@@ -287,7 +287,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A3"
-msgstr ""
+msgstr "A3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "Know how to comfort others."
@@ -295,7 +295,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Love children."
@@ -303,7 +303,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A5"
-msgstr ""
+msgstr "A5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "Make people feel at ease."
@@ -311,7 +311,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "C1"
-msgstr ""
+msgstr "C1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Am exacting in my work."
@@ -319,7 +319,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C2"
-msgstr ""
+msgstr "C2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Continue until everything is perfect."
@@ -327,7 +327,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C3"
-msgstr ""
+msgstr "C3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Do things according to a plan."
@@ -335,7 +335,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C4"
-msgstr ""
+msgstr "C4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things in a half-way manner."
@@ -343,7 +343,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C5"
-msgstr ""
+msgstr "C5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Waste my time."
@@ -351,7 +351,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "E1"
-msgstr ""
+msgstr "E1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Don't talk a lot."
@@ -359,7 +359,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E2"
-msgstr ""
+msgstr "E2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "Find it difficult to approach others."
@@ -367,7 +367,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "E3"
-msgstr ""
+msgstr "E3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Know how to captivate people."
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E4"
-msgstr ""
+msgstr "E4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Make friends easily."
@@ -383,7 +383,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E5"
-msgstr ""
+msgstr "E5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Take charge."
@@ -391,7 +391,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "N1"
-msgstr ""
+msgstr "N1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "Get angry easily."
@@ -399,7 +399,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "N2"
-msgstr ""
+msgstr "N2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get irritated easily."
@@ -407,7 +407,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N3"
-msgstr ""
+msgstr "N3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Have frequent mood swings."
@@ -415,7 +415,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N4"
-msgstr ""
+msgstr "N4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "Often feel blue."
@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "N5"
-msgstr ""
+msgstr "N5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Panic easily."
@@ -431,7 +431,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "O1"
-msgstr ""
+msgstr "O1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "Am full of ideas."
@@ -439,7 +439,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "O2"
-msgstr ""
+msgstr "O2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "Avoid difficult reading material."
@@ -447,7 +447,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "O3"
-msgstr ""
+msgstr "O3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "Carry the conversation to a higher level."
@@ -455,7 +455,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "O4"
-msgstr ""
+msgstr "O4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Spend time reflecting on things."
@@ -463,7 +463,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O5"
-msgstr ""
+msgstr "O5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Will not probe deeply into a subject."

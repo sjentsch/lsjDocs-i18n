@@ -4,41 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -49,29 +14,28 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-01 16:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-11-21 12:42+0100\n"
-"PO-Revision-Date: 2022-12-01 15:30+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
-"\n"
-"Language: de\n"
+"POT-Creation-Date: 2022-12-01 16:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
@@ -123,11 +87,11 @@ msgid ""
 "tests how consistently a scale measures a psychological construct."
 msgstr ""
 "In diesem Kapitel werden wir eine Reihe unterschiedlicher "
-"faktorenanalytischer Techniken betrachten. Wir beginnen mit der :doc:`"
-"Explorativen Faktorenanalyse <../Ch15/Ch15_Faktoranalyse_1>` (EFA). Die EFA "
+"faktorenanalytischer Techniken betrachten. Wir beginnen mit der :doc:"
+"`Explorativen Faktorenanalyse <../Ch15/Ch15_Faktoranalyse_1>` (EFA). Die EFA "
 "ist ein statistisches Verfahren, um latente Faktoren in einem Datensatz zu "
-"identifizieren. Im nächsten Abschnitt geht es um die :doc:`"
-"Hauptkomponentenanalyse <../Ch15/Ch15_FactorAnalysis_2>` (PCA; *principal "
+"identifizieren. Im nächsten Abschnitt geht es um die :doc:"
+"`Hauptkomponentenanalyse <../Ch15/Ch15_FactorAnalysis_2>` (PCA; *principal "
 "component analysis*), ein Verfahren, das streng genommen keine latenten "
 "Faktoren ermittelt, sondern zur Datenreduzierung verwendet werden kann. "
 "Dabei wird durch die PCA einfach eine Linearkombination der beobachteten "
@@ -231,8 +195,8 @@ msgstr ""
 "Ein weiteres Beispiel: Wir können die Angst vor Statistik vielleicht nicht "
 "direkt messen, aber wir können mit einer Reihe von Fragen in einem "
 "Fragebogen messen, ob die Angst vor Statistik hoch oder niedrig ist. Zum "
-"Beispiel: Q1: „Erledigung der Aufgabe für einen Statistikkurs“, Q2: „"
-"Versuch, die in einem Zeitschriftenartikel beschriebene Statistik zu "
+"Beispiel: Q1: „Erledigung der Aufgabe für einen Statistikkurs“, Q2: "
+"„Versuch, die in einem Zeitschriftenartikel beschriebene Statistik zu "
 "verstehen“ und Q3: „Den Dozenten um Hilfe bitten, um etwas aus dem Kurs zu "
 "verstehen“, usw., jeweils mit einer Bewertung von geringer Angst bis zu "
 "großer Angst. Personen mit hoher Statistikangst werden aufgrund ihrer hohen "
@@ -446,9 +410,9 @@ msgstr "EFA in jamovi"
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid ""
 "First, we need some data. Twenty-five personality self-report items (see :"
-"numref:`tab-bfi`) taken from the International Personality Item Pool (http://"
-"ipip.ori.org) were included as part of the Synthetic Aperture Personality "
-"Assessment (SAPA) web-based personality assessment (SAPA: http://sapa-"
+"numref:`tab-bfi`) taken from the International Personality Item Pool "
+"(https://ipip.ori.org) were included as part of the Synthetic Aperture "
+"Personality Assessment (SAPA) web-based personality assessment (https://sapa-"
 "project.org) project. The 25 items are short phrases that one should respond "
 "to by indicating how accurately the statement describes one's typical "
 "behaviour or attitudes. The items are organized by five putative factors: "
@@ -511,7 +475,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A3"
-msgstr ""
+msgstr "A3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "Know how to comfort others."
@@ -519,7 +483,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Love children."
@@ -527,7 +491,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A5"
-msgstr ""
+msgstr "A5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "Make people feel at ease."
@@ -535,7 +499,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "C1"
-msgstr ""
+msgstr "C1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Am exacting in my work."
@@ -543,7 +507,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C2"
-msgstr ""
+msgstr "C2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Continue until everything is perfect."
@@ -551,7 +515,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C3"
-msgstr ""
+msgstr "C3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Do things according to a plan."
@@ -559,7 +523,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C4"
-msgstr ""
+msgstr "C4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things in a half-way manner."
@@ -567,7 +531,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C5"
-msgstr ""
+msgstr "C5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Waste my time."
@@ -575,7 +539,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "E1"
-msgstr ""
+msgstr "E1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Don't talk a lot."
@@ -583,7 +547,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E2"
-msgstr ""
+msgstr "E2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "Find it difficult to approach others."
@@ -591,7 +555,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "E3"
-msgstr ""
+msgstr "E3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Know how to captivate people."
@@ -599,7 +563,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E4"
-msgstr ""
+msgstr "E4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Make friends easily."
@@ -607,7 +571,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E5"
-msgstr ""
+msgstr "E5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Take charge."
@@ -615,7 +579,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "N1"
-msgstr ""
+msgstr "N1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "Get angry easily."
@@ -623,7 +587,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "N2"
-msgstr ""
+msgstr "N2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get irritated easily."
@@ -631,7 +595,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N3"
-msgstr ""
+msgstr "N3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Have frequent mood swings."
@@ -639,7 +603,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N4"
-msgstr ""
+msgstr "N4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "Often feel blue."
@@ -647,7 +611,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "N5"
-msgstr ""
+msgstr "N5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Panic easily."
@@ -655,7 +619,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "O1"
-msgstr ""
+msgstr "O1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "Am full of ideas."
@@ -663,7 +627,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "O2"
-msgstr ""
+msgstr "O2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "Avoid difficult reading material."
@@ -671,7 +635,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "O3"
-msgstr ""
+msgstr "O3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "Carry the conversation to a higher level."
@@ -679,7 +643,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "O4"
-msgstr ""
+msgstr "O4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Spend time reflecting on things."
@@ -687,7 +651,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O5"
-msgstr ""
+msgstr "O5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Will not probe deeply into a subject."
@@ -885,6 +849,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -951,6 +916,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1381,6 +1347,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
@@ -1429,6 +1396,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1657,6 +1625,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
@@ -1668,6 +1637,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
@@ -1918,6 +1888,7 @@ msgstr ""
 "Konstrukts sind."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s *α** (alpha; `Cronbach, 1951 <../Other/References."
@@ -1952,16 +1923,17 @@ msgstr ""
 "*α* von 0,80 enthält etwa 20 % Ungenauigkeit oder Fehler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
 "factor or construct rather than multiple related constructs). Scales that "
 "are multidimensional will cause *α* to be under-estimated if not assessed "
 "separately for each dimension, but high values for *α* are not necessarily "
-"indicators of unidimensionality. So, an *α* of 0.80 does not mean that 80% "
-"of a single underlying construct is accounted for. It could be that the 80% "
-"comes from more than one underlying construct. That’s why EFA and CFA are "
-"useful to do first."
+"indicators of unidimensionality. So, an *α* of 0.80 does not mean that "
+"80% of a single underlying construct is accounted for. It could be that the "
+"80% comes from more than one underlying construct. That’s why EFA and CFA "
+"are useful to do first."
 msgstr ""
 "ABER (und das ist ein GROSSES „ABER“): Cronbachs *α* ist kein Maß für "
 "Eindimensionalität (d. h. es ist *kein* Indikator dafür, ob eine Skala einen "
@@ -2019,6 +1991,7 @@ msgstr ""
 "ist *ω* vorzuziehen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for *α* or *ω* is provided, suggesting a “good enough” "
 "value. This might be something like *α*s of 0.70 or 0.80 representing "
@@ -2028,13 +2001,13 @@ msgid ""
 "*α* or *ω* of 0.70 is associated with 30% error variance in a scale, and an "
 "*α* or *ω* of 0.80 is associated with 20%."
 msgstr ""
-"Manchmal wird ein Schwellenwert für *α* oder *ω* angegeben, der einen „"
-"ausreichend guten“ Wert suggeriert. Dies könnte z. B. *α* von 0,70 oder 0,80 "
-"sein, was eine „akzeptable“ bzw. „gute“ Reliabilität bedeutet. Dies hängt "
-"jedoch davon ab, was genau mit der Skala gemessen werden soll. Daher sollten "
-"solche Schwellenwerte mit Bedacht verwendet werden. Es wäre besser, einfach "
-"zu sagen, dass ein *α* oder *ω* von 0,70 mit einer Fehlervarianz von 30 % in "
-"einer Skala verbunden ist, und ein *α* oder *ω* von 0,80 mit einer "
+"Manchmal wird ein Schwellenwert für *α* oder *ω* angegeben, der einen "
+"„ausreichend guten“ Wert suggeriert. Dies könnte z. B. *α* von 0,70 oder "
+"0,80 sein, was eine „akzeptable“ bzw. „gute“ Reliabilität bedeutet. Dies "
+"hängt jedoch davon ab, was genau mit der Skala gemessen werden soll. Daher "
+"sollten solche Schwellenwerte mit Bedacht verwendet werden. Es wäre besser, "
+"einfach zu sagen, dass ein *α* oder *ω* von 0,70 mit einer Fehlervarianz von "
+"30 % in einer Skala verbunden ist, und ein *α* oder *ω* von 0,80 mit einer "
 "Fehlervarianz von 20 %."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:71
@@ -2111,6 +2084,7 @@ msgstr ""
 "Reliabilitätsanalyse in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
@@ -2160,8 +2134,8 @@ msgid ""
 "and indicates that Openness is substantially less consistent as a reliable "
 "measure of a personality attribute than the other personality scales."
 msgstr ""
-"Das Verfahren zur Berechnung und Überprüfung der Relibilitätsstatistiken (*α*"
-" und *ω*) ist für alle anderen Skalen gleich, und alle hatten ähnliche "
+"Das Verfahren zur Berechnung und Überprüfung der Relibilitätsstatistiken "
+"(*α* und *ω*) ist für alle anderen Skalen gleich, und alle hatten ähnliche "
 "Reliabilitätsschätzungen mit Ausnahme von Offenheit für Erfahrungen (*α* = "
 "0,60, *ω* = 0,62). Bei Offenheit beträgt die Fehlervarianz etwa 40 %, was "
 "hoch ist und darauf hindeutet, dass Offenheit als zuverlässiges Maß für ein "
@@ -2179,8 +2153,9 @@ msgid ""
 "relationships in a data set. Specifically, we have covered:"
 msgstr ""
 "In diesem Kapitel über die Faktorenanalyse und verwandte Techniken haben wir "
-"statistische Analysen vorgestellt, die Muster von Beziehungen (Korrelationen)"
-" in einem Datensatz bewerten. Im Einzelnen haben wir Folgendes behandelt:"
+"statistische Analysen vorgestellt, die Muster von Beziehungen "
+"(Korrelationen) in einem Datensatz bewerten. Im Einzelnen haben wir "
+"Folgendes behandelt:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:10
 msgid ""
@@ -2219,11 +2194,12 @@ msgid ""
 "in your data are related to each other. You then test your model against the "
 "observed data and assess how good a fit the model is to the data."
 msgstr ""
-":doc:`Konfirmatorische Faktorenanalyse <../Ch15/Ch15_FactorAnalysis_3>` (CFA)"
-", bei der man anders als bei der EFA von einer Vorstellung – einem Modell – "
-"davon ausgeht, wie die Variablen in den Daten zueinander in Beziehung "
-"stehen. Anschließend testen Sie dieses Modell anhand der beobachteten Daten "
-"und bewerten, wie gut das Modell mit den Daten übereinstimmt."
+":doc:`Konfirmatorische Faktorenanalyse <../Ch15/Ch15_FactorAnalysis_3>` "
+"(CFA), bei der man anders als bei der EFA von einer Vorstellung – einem "
+"Modell – davon ausgeht, wie die Variablen in den Daten zueinander in "
+"Beziehung stehen. Anschließend testen Sie dieses Modell anhand der "
+"beobachteten Daten und bewerten, wie gut das Modell mit den Daten "
+"übereinstimmt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:27
 msgid ""
