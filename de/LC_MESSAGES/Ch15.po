@@ -62,7 +62,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-21 12:42+0100\n"
-"PO-Revision-Date: 2022-11-27 16:11+0000\n"
+"PO-Revision-Date: 2022-12-01 15:30+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
 "\n"
@@ -350,6 +350,15 @@ msgid ""
 "then they will assess whether some items should be removed because they "
 "don’t usefully or distinctly measure one of the latent factors."
 msgstr ""
+"Wenn die EFA eine gute Lösung (d. h. ein Faktorenmodell) ergeben hat, müssen "
+"wir entscheiden, was wir mit unseren glänzenden neuen Faktoren tun wollen. "
+"Forscher verwenden die EFA häufig bei der Entwicklung psychometrischer "
+"Skalen. Sie entwickeln einen Pool von Fragebogenitems, von denen sie "
+"glauben, dass diese sich auf ein oder mehrere psychologische Konstrukte "
+"beziehen, verwenden die EFA, um zu sehen, welche Items sich gut zu latenten "
+"Faktoren „zusammenführen“ lassen, und beurteilen dann, ob einige Items "
+"entfernt werden sollten, weil sie keinen der latenten Faktoren sinnvoll oder "
+"eindeutig messen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:112
 msgid ""
@@ -358,18 +367,27 @@ msgid ""
 "known as a scale score. There are two options for combining variables into a "
 "scale score:"
 msgstr ""
+"In Verbindung mit diesem Ansatz besteht ein weiteres Ergebnis einer EFA "
+"darin, die Variablen, die auf unterschiedlichen Faktoren laden, jeweils zu "
+"einem Faktorwert zu kombinieren, der manchmal auch als Skalenwert bezeichnet "
+"wird. Es gibt zwei Optionen für die Kombination von Variablen zu einem "
+"Skalenwert:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:117
 msgid ""
 "Create a new variable with a score weighted by the factor loadings for each "
 "item that contributes to the factor."
 msgstr ""
+"Erstellen Sie eine neue Variable mit einer nach den Faktorladungen "
+"gewichteten Antwort (*score*) für jedes Item, das zum Faktor beiträgt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:120
 msgid ""
 "Create a new variable based on each item that contributes to the factor, but "
 "weighting them equally."
 msgstr ""
+"Erstellen Sie eine neue Variable auf der Grundlage der einem Faktor "
+"zugeordneten Items, aber gewichten Sie sie diese gleich."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:123
 msgid ""
@@ -387,6 +405,22 @@ msgid ""
 "combined variable measure as an average of items is simpler and more "
 "intuitive than using a sample specific optimally-weighted combination."
 msgstr ""
+"Bei der ersten Option hängt der Beitrag der einzelnen Items zum kombinierten "
+"Ergebnis davon ab, wie stark sie sich auf dem betreffenden Faktor laden. Bei "
+"der zweiten Option wird in der Regel einfach der Durchschnitt oder die Summe "
+"aller Antworten über die verschiedenen Items gebildet, die einen Beitrag zu "
+"diesem Faktor leisten, um die kombinierte Skalenwertvariable zu erstellen. "
+"Ein Nachteil der ersten Option ist jedoch, dass die Ladungen von Stichprobe "
+"zu Stichprobe unterschiedlich sein können. In den Verhaltens- und "
+"Gesundheitswissenschaften sind wir oft daran interessiert, zusammengesetzte "
+"Fragebogen-Skalenwerte für verschiedene Studien und verschiedene Stichproben "
+"zu entwickeln und zu verwenden. In diesem Fall ist es sinnvoll, ein "
+"zusammengesetztes Maß zu verwenden, das auf den gleichwertigen Beiträgen der "
+"wesentlichen Items basiert, anstatt sie mit stichprobenspezifischen Ladungen "
+"aus einer anderen Stichprobe zu gewichten. Auf jeden Fall ist es einfacher "
+"und intuitiver, wenn ein Durchschnitt oder eine Summe der betreffenden Items "
+"verwendet wird (im Vergleich zur Verwendung einer stichprobenspezifischen, "
+"optimal gewichteten Kombination)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:138
 msgid ""
@@ -397,10 +431,17 @@ msgid ""
 "packages dedicated to this approach. But let’s not get ahead of ourselves; "
 "what we should really focus on now is how to do an EFA in jamovi."
 msgstr ""
+"Eine fortgeschrittenere statistische Technik, die den Rahmen dieses Buches "
+"sprengen würde, ist die Regressionsmodellierung, bei der latente Faktoren in "
+"Vorhersagemodellen für andere latente Faktoren verwendet werden. Diese "
+"werden als „Strukturgleichungsmodelle“ bezeichnet, und es gibt spezielle "
+"Softwareprogramme und R-Pakete für diesen Ansatz. Aber wir wollen nicht "
+"vorgreifen, sondern uns darauf konzentrieren, eine EFA in jamovi "
+"durchzuführen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:147
 msgid "EFA in jamovi"
-msgstr ""
+msgstr "EFA in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid ""
@@ -413,6 +454,16 @@ msgid ""
 "behaviour or attitudes. The items are organized by five putative factors: "
 "Agreeableness, Conscientiousness, Extraversion, Neuroticism, and Openness."
 msgstr ""
+"Zunächst benötigen wir einen Datensatz: Fünfundzwanzig Persönlichkeits-Items "
+"zur Selbsteinschätzung (siehe :numref:`tab-bfi`) aus dem International "
+"Personality Item Pool (https://ipip.ori.org) wurden als Teil des Projekts "
+"Synthetic Aperture Personality Assessment (SAPA) zur webbasierten "
+"Persönlichkeitsbewertung (https://sapa-project.org) aufgenommen. Bei den 25 "
+"Items handelt es sich um kurze Sätze, für die man angibt, wie genau diese "
+"Aussage das eigene typische Verhalten oder die eigenen Einstellungen "
+"beschreibt. Die Items sind nach fünf mutmaßlichen Faktoren geordnet: "
+"Verträglichkeit, Gewissenhaftigkeit, Extraversion, Neurotizismus und "
+"Offenheit (für Erfahrungen)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:159
 msgid ""
@@ -420,18 +471,21 @@ msgid ""
 "factors in the |bfi_sample|_ data set. If there is an R in the second "
 "column, the item is reversed."
 msgstr ""
+"Fünfundzwanzig beobachtete Variablen-Items, geordnet nach fünf mutmaßlichen "
+"Persönlichkeitsdimensionen im Datensatz |bfi_sample|_. Wenn in der zweiten "
+"Spalte ein R steht, ist das Item invertiert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:165
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:165
 msgid "Question / Item"
-msgstr ""
+msgstr "Frage / Item"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "A1"
-msgstr ""
+msgstr "A1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
@@ -441,15 +495,15 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Am indifferent to the feelings of others."
-msgstr ""
+msgstr "Ich bin gleichgültig gegenüber den Gefühlen von anderen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "A2"
-msgstr ""
+msgstr "A2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Inquire about others' well-being."
