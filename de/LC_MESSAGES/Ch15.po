@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-01 16:33+0100\n"
-"PO-Revision-Date: 2022-12-01 17:47+0000\n"
+"PO-Revision-Date: 2022-12-01 18:47+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
 "\n"
@@ -1199,6 +1199,10 @@ msgid ""
 "factor score variables is labelled corresponding to the order that the "
 "factors are listed in the factor loadings table."
 msgstr ""
+"Mit Hilfe der Befehle im Editor |Rj|_ erstellte Datendatei ``bfifactscores."
+"csv``, welche die fünf Faktor-Score-Variablen enthält. Beachten Sie, dass "
+"jede der neuen Faktor-Score-Variablen entsprechend der Reihenfolge der "
+"Faktoren in der Tabelle der Faktorladungen beschriftet ist."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:497
 msgid ""
@@ -1212,20 +1216,32 @@ msgid ""
 "were less agreeable than females, this was not a significant difference "
 "(Mann-Whitney *U* = 5760.5, p = 0.073)."
 msgstr ""
+"Nun können Sie weitere Analysen durchführen, entweder mit den als "
+"Durchschnitt der zu einem Faktor beitragenden Variablen berechneten "
+"Skalenwerten oder mit den optimal gewichteten Faktor-Scores, die mit dem "
+"Editor |Rj|_ berechnet wurden. Sie haben die Wahl! Sie könnten zum Beispiel "
+"untersuchen, für welche unserer Persönlichkeitsdimensionen es "
+"geschlechtsspezifische Unterschiede gibt. Wir haben dies für den Wert für "
+"Verträglichkeit getan, den wir mit dem Durchschnitts-Ansatz berechnet haben, "
+"und obwohl das Diagramm (siehe :numref:`fig-efa11`) audeutet, dass Männer "
+"weniger verträglich sind als Frauen, war der Unterschied nicht signifikant "
+"(Mann-Whitney *U* = 5760.5, p = 0.073)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
 msgid "Gender differences in Agreeableness factor-based scores"
-msgstr ""
+msgstr "Geschlechtsspezifische Unterschiede für den Faktor „Verträglichkeit“"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
 msgid ""
 "Comparing differences in Agreeableness factor-based scores between males and "
 "females"
 msgstr ""
+"Vergleich der Unterschiede zwischen Männern und Frauen in Bezug auf die "
+"Ausprägung auf dem Faktor „Verträglichkeit“"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:518
 msgid "Writing up an EFA"
-msgstr ""
+msgstr "Berichten einer EFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:520
 msgid ""
@@ -1235,6 +1251,12 @@ msgid ""
 "vary by discipline and researcher. That said, there are some fairly standard "
 "pieces of information to include in your write-up:"
 msgstr ""
+"Hoffentlich konnten wir Ihnen einen Eindruck darüber vermitteln, was eine "
+"EFA ist und wie sie in jamovi durchgeführt wird. Wenn Sie Ihre EFA "
+"abgeschlossen haben, wie berichten Sie diese? Es gibt keine Standardmethode, "
+"um eine EFA zu berichten, und die Beispiele variieren je nach Disziplin und "
+"Forscher. Dennoch gibt es einige Informationen, die Sie in Ihren Bericht "
+"aufnehmen sollten:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:526
 msgid ""
@@ -1242,6 +1264,9 @@ msgid ""
 "specifically for the constructs that you are interested in uncovering "
 "through EFA."
 msgstr ""
+"Welches sind die theoretischen Grundlagen für den von Ihnen untersuchten "
+"Gegenstand und insbesondere was sind die Konstrukte, die Sie mittels der EFA "
+"untersuchen möchten?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:279
@@ -1249,6 +1274,8 @@ msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
+"Eine Beschreibung der Stichprobe (z. B. demografische Informationen, "
+"Stichprobengröße, Verfahren zur Stichprobenziehung)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:282
@@ -1256,6 +1283,8 @@ msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
 msgstr ""
+"Eine Beschreibung der Art der verwendeten Daten (z. B. nominal |nominal|, "
+"kontinuierlich |continuous|) sowie Deskriptivstatistik für diese Variablen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
@@ -1268,6 +1297,9 @@ msgid ""
 "regarding sphericity checks and measures of sampling adequacy should be "
 "reported."
 msgstr ""
+"Beschreiben Sie, wie Sie beim Testen der Voraussetzungen für das Durchführen "
+"einer EFA vorgegangen sind. Dies sollte Details zu Sphärizitätsprüfungen "
+"(Bartlett) und Maßen der Stichprobenangemessenheit (KMO) umfassen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:540
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
