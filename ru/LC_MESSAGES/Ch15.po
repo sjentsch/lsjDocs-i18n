@@ -687,7 +687,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
-#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -754,7 +753,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
-#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each "
 "variable. Uniqueness is the proportion of variance that is “unique” to "
@@ -1191,7 +1189,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
-#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in "
 "the data that is accounted for by the two components. Components one and "
@@ -1241,7 +1238,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
-#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each "
 "variable. Uniqueness is the proportion of variance that is “unique” to "
@@ -1474,7 +1470,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
-#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides "
 "several by default. These are the Comparative Fit Index (CFI), the Tucker"
@@ -1486,7 +1481,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
-#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large "
 "and highly significant. Our sample size is not too large, so this "
@@ -1723,7 +1717,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
-#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s *α** (alpha; `Cronbach, 1951 "
@@ -1743,7 +1736,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
-#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
@@ -1782,7 +1774,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
-#, python-format
 msgid ""
 "Sometimes a threshold for *α* or *ω* is provided, suggesting a “good "
 "enough” value. This might be something like *α*s of 0.70 or 0.80 "
@@ -1847,7 +1838,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
-#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
