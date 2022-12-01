@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 16:40+0100\n"
+"POT-Creation-Date: 2022-12-01 17:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -502,7 +502,7 @@ msgid ""
 "to group (2), (3) and (4) together and say that 49 out of 100 people "
 "registered *at least some disagreement* with the dominant scientific view. "
 "However, it would be entirely bizarre to try to group (1), (2) and (4) "
-"together and say that 90 out of 100 people said…what? There’s nothing "
+"together and say that 90 out of 100 people said… what? There’s nothing "
 "sensible that allows you to group those responses together at all."
 msgstr ""
 
@@ -785,7 +785,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
-msgid "Ah, psychology …never an easy answer to anything!"
+msgid "Ah, psychology… never an easy answer to anything!"
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:4

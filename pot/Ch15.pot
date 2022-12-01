@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 16:40+0100\n"
+"POT-Creation-Date: 2022-12-01 17:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1243,7 +1243,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:211
 msgid ""
-"...and that means there is a fair bit of repetition in the PCA steps set out "
+"…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
 msgstr ""
 

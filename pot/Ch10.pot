@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 16:40+0100\n"
+"POT-Creation-Date: 2022-12-01 17:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1498,7 +1498,7 @@ msgid "LEELA:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
-msgid "Robot...we be."
+msgid "Robot… we be."
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15

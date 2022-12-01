@@ -1,135 +1,3 @@
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch02.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch02.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -379,7 +247,7 @@ msgid ""
 "safe in saying that the largest possible age is *150*, since no human has "
 "ever lived that long."
 msgstr ""
-"Mein **Alter** (in Jahren) könnte *0, 1, 2, 3 ...*, usw. sein. Die "
+"Mein **Alter** (in Jahren) könnte *0, 1, 2, 3 …*, usw. sein. Die "
 "Obergrenze für das mögliche Alter ist etwas unscharf, aber in der Praxis "
 "kann man mit Sicherheit sagen, dass das höchstmögliche Alter *150* ist, da "
 "kein Mensch jemals so lange gelebt hat."
@@ -916,7 +784,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:107
 msgid "…because it seems to violate the natural “structure” to the question."
-msgstr "...weil so die natürliche „Struktur“ der Frage verletzt scheint."
+msgstr "…weil so die natürliche „Struktur“ der Frage verletzt scheint."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:109
 msgid ""
@@ -970,7 +838,7 @@ msgid ""
 "to group (2), (3) and (4) together and say that 49 out of 100 people "
 "registered *at least some disagreement* with the dominant scientific view. "
 "However, it would be entirely bizarre to try to group (1), (2) and (4) "
-"together and say that 90 out of 100 people said…what? There’s nothing "
+"together and say that 90 out of 100 people said… what? There’s nothing "
 "sensible that allows you to group those responses together at all."
 msgstr ""
 "Bei der Analyse dieser Daten scheint es vernünftig, die Aussagen (1), (2) "
@@ -980,7 +848,7 @@ msgstr ""
 "sagen, dass 49 von 100 Personen angaben, mit der vorherrschenden "
 "wissenschaftlichen Ansicht *wenigstens teilweise* nicht einverstanden zu "
 "sein. Es wäre jedoch völlig bizarr, die Aussagen (1), (2) und (4) "
-"zusammenzufassen und zu sagen, dass 90 von 100 Personen... was eigentlich? "
+"zusammenzufassen und zu sagen, dass 90 von 100 Personen… was eigentlich? "
 "Es gibt keinen vernünftigen Grund, der es erlauben würde, diese Antworten "
 "zusammenzufassen."
 
@@ -1404,8 +1272,8 @@ msgstr ""
 "ignorieren."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
-msgid "Ah, psychology …never an easy answer to anything!"
-msgstr "Ah, Psychologie ... nie eine einfache Antwort!"
+msgid "Ah, psychology… never an easy answer to anything!"
+msgstr "Ah, Psychologie… nie eine einfache Antwort!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:4
 msgid "Assessing the reliability of a measurement"

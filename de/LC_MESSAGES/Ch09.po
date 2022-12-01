@@ -1532,7 +1532,7 @@ msgid "English translation"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
-msgid "The null is..."
+msgid "The null is…"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:110

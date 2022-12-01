@@ -1227,11 +1227,11 @@ msgstr ""
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:37
 msgid ""
 "It’s that easy. The newly installed modules can then be accessed from the "
-"``Analyses`` tab. Try it... useful add-on modules to install include "
+"``Analyses`` tab. Try it… useful add-on modules to install include "
 "``scatr`` (added under ``Descriptives``) and |Rj|_."
 msgstr ""
 "So einfach geht's. Die neu installierten Module können dann über den "
-"``Analyses``-Tab aufgerufen werden. Probieren Sie es aus... Nützliche "
+"``Analyses``-Tab aufgerufen werden. Probieren Sie es aus… Nützliche "
 "Zusatzmodule, die Sie installieren sollten, sind ``scatr`` (hinzugefügt "
 "unter ``Descriptives``) und |Rj|_."
 

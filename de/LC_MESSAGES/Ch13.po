@@ -1361,8 +1361,8 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:520 ../../Ch13/Ch13_ANOVA_02.rst:522
 #: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
 #: ../../Ch13/Ch13_ANOVA_02.rst:528
-msgid "..."
-msgstr "..."
+msgid "…"
+msgstr "…"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "sample size"
@@ -2300,7 +2300,7 @@ msgid ""
 "test could be non-significant (i.e. *p* > 0.05). What this means is that, "
 "alongside any statistical test of the assumption being met, you should "
 "always plot the standard deviation around the means for each group / "
-"category in the analysis...just to see if they look fairly similar (i.e. "
+"category in the analysis… just to see if they look fairly similar (i.e. "
 "homogeneity of variance) or not."
 msgstr ""
 

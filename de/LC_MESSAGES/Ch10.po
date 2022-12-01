@@ -1754,7 +1754,7 @@ msgid "LEELA:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
-msgid "Robot...we be."
+msgid "Robot… we be."
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
