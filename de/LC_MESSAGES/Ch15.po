@@ -16,26 +16,19 @@
 #
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 16:40+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-01 16:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-01 16:47+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
@@ -471,7 +464,7 @@ msgstr "A2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Inquire about others' well-being."
-msgstr ""
+msgstr "Sich nach dem Wohlbefinden anderer erkundigen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A3"
@@ -479,7 +472,7 @@ msgstr "A3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "Know how to comfort others."
-msgstr ""
+msgstr "Wissen, wie Sie andere trösten können."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "A4"
@@ -487,7 +480,7 @@ msgstr "A4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Love children."
-msgstr ""
+msgstr "Kinder lieben."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A5"
@@ -495,7 +488,7 @@ msgstr "A5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "Make people feel at ease."
-msgstr ""
+msgstr "Dafür sorgen, dass sich die Menschen wohlfühlen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "C1"
@@ -503,7 +496,7 @@ msgstr "C1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Am exacting in my work."
-msgstr ""
+msgstr "Anspruchsvoll in meiner Arbeit sein."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C2"
@@ -511,7 +504,7 @@ msgstr "C2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Continue until everything is perfect."
-msgstr ""
+msgstr "Fortfahren, bis alles perfekt ist."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C3"
@@ -519,7 +512,7 @@ msgstr "C3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Do things according to a plan."
-msgstr ""
+msgstr "Dinge entsprechend einem Plan erledigen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C4"
@@ -527,7 +520,7 @@ msgstr "C4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things in a half-way manner."
-msgstr ""
+msgstr "Dinge nur mit halber Kraft erledigen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C5"
@@ -535,7 +528,7 @@ msgstr "C5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Waste my time."
-msgstr ""
+msgstr "Zeit verschwenden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "E1"
@@ -543,7 +536,7 @@ msgstr "E1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Don't talk a lot."
-msgstr ""
+msgstr "Nicht viel reden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E2"
@@ -551,7 +544,7 @@ msgstr "E2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "Find it difficult to approach others."
-msgstr ""
+msgstr "Es schwierig finden, auf andere zuzugehen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "E3"
@@ -559,7 +552,7 @@ msgstr "E3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Know how to captivate people."
-msgstr ""
+msgstr "Wissen, wie man Menschen fesselt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E4"
@@ -567,7 +560,7 @@ msgstr "E4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Make friends easily."
-msgstr ""
+msgstr "Leicht Freunde finden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E5"
@@ -575,7 +568,7 @@ msgstr "E5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Take charge."
-msgstr ""
+msgstr "Verantwortung übernehmen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "N1"
@@ -583,7 +576,7 @@ msgstr "N1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "Get angry easily."
-msgstr ""
+msgstr "Leicht wütend werden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "N2"
@@ -591,7 +584,7 @@ msgstr "N2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get irritated easily."
-msgstr ""
+msgstr "Leicht gereizt werden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N3"
@@ -599,7 +592,7 @@ msgstr "N3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Have frequent mood swings."
-msgstr ""
+msgstr "Häufige Stimmungsschwankungen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N4"
@@ -607,7 +600,7 @@ msgstr "N4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "Often feel blue."
-msgstr ""
+msgstr "Sich oft traurig fühlen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "N5"
@@ -615,7 +608,7 @@ msgstr "N5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Panic easily."
-msgstr ""
+msgstr "Leicht in Panik geraten."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "O1"
@@ -623,7 +616,7 @@ msgstr "O1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "Am full of ideas."
-msgstr ""
+msgstr "Voller Ideen stecken."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "O2"
@@ -631,7 +624,7 @@ msgstr "O2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "Avoid difficult reading material."
-msgstr ""
+msgstr "Schwierigen Lesestoff vermeiden."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "O3"
@@ -639,7 +632,7 @@ msgstr "O3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "Carry the conversation to a higher level."
-msgstr ""
+msgstr "Gespräche auf ein höheres Niveau bringen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "O4"
@@ -647,7 +640,7 @@ msgstr "O4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Spend time reflecting on things."
-msgstr ""
+msgstr "Zeit damit verbringen, über Dinge nachzudenken."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O5"
@@ -655,35 +648,35 @@ msgstr "O5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Will not probe deeply into a subject."
-msgstr ""
+msgstr "Nicht tief in ein Thema eindringen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:219
 msgid "The item data were collected using a 6-point response scale:"
-msgstr ""
+msgstr "Die Daten wurden mit Hilfe einer 6-stufigen Antwortskala erhoben:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:221
 msgid "Very Inaccurate"
-msgstr ""
+msgstr "Trifft überhaupt nicht zu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:223
 msgid "Moderately Inaccurate"
-msgstr ""
+msgstr "Trifft nicht zu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:225
 msgid "Slightly Inaccurate"
-msgstr ""
+msgstr "Trifft eher nicht zu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:227
 msgid "Slightly Accurate"
-msgstr ""
+msgstr "Trifft eher zu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:229
 msgid "Moderately Accurate"
-msgstr ""
+msgstr "Trifft zu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:231
 msgid "Very Accurate."
-msgstr ""
+msgstr "Trifft absolut zu."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:233
 msgid ""
@@ -692,6 +685,10 @@ msgid ""
 "``ID`` (the respondent ID, a five digit number) as well as the age (``age``) "
 "and the gender (``gender``) of the respondent."
 msgstr ""
+"Eine Stichprobe von N = 250 Antworten ist im Datensatz |bfi_sample|_ "
+"enthalten. Neben den Items gibt es drei weitere Spalten im Datensatz: ``ID`` "
+"(die Teilnehmer-ID, eine fünfstellige Zahl) sowie das Alter (``age``) und "
+"das Geschlecht (``gender``) der Befragten."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:238
 msgid ""
@@ -704,6 +701,15 @@ msgid ""
 "which case continuous variables |continuous| are needed). To perform an EFA "
 "in jamovi:"
 msgstr ""
+"Als Forscher sind wir daran interessiert, die Daten zu untersuchen, um zu "
+"sehen, ob es zugrundeliegende latente Faktoren gibt, die durch die 25 "
+"beobachteten Variablen im Datensatz |bfi_sample|_ einigermaßen gut "
+"repräsentiert werden. Öffnen Sie den Datensatz und überprüfen Sie, ob die 25 "
+"Variablen als kontinuierliche Variablen |continuous| kodiert sind (technisch "
+"gesehen sind sie ordinal |ordinal|, aber für die EFA in jamovi spielt das "
+"meist keine Rolle; eine Ausnahme ist, wenn Sie sich entscheiden, gewichtete "
+"Faktorwerte zu berechnen, in diesem Fall werden kontinuierliche Variablen "
+"|continuous| benötigt). Um eine EFA in jamovi durchzuführen:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:605
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
@@ -722,6 +728,9 @@ msgid ""
 "tab to open the options panel where you can determine the settings for the "
 "EFA (:numref:`fig-efa2`)."
 msgstr ""
+"Wählen Sie ``Factor`` → ``Exploratory Factor Analysis`` aus der "
+"Registerkarte ``Analyses``. Damit öffnet sich ein Optionsfeld, in dem Sie "
+"die Einstellungen für die EFA (:numref:`fig-efa2`) festlegen können."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:250
 msgid ""
