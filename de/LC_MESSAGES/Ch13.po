@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-12-02 09:47+0000\n"
+"PO-Revision-Date: 2022-12-02 10:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -239,9 +239,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:36
 msgid "Descriptives for mood.gain, and box plots by drug administered"
-msgstr ""
-"Deskriptivstatistik zu mood.gain und Boxplots entsprechend verabreichter "
-"Medikamente"
+msgstr "Deskriptivstatistik zu mood.gain und Boxplots für drug administered"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:36
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
