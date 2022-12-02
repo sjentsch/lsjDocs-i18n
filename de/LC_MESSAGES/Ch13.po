@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-12-02 15:48+0000\n"
+"PO-Revision-Date: 2022-12-02 16:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -929,6 +929,8 @@ msgid ""
 "Finally, we calculate the *F*-ratio by dividing the between-groups MS by the "
 "within-groups MS:"
 msgstr ""
+"Schließlich berechnen wir den *F*-Wert, indem wir die MQS (*MS*) zwischen "
+"den Gruppen durch die MQS (*M*) innerhalb der Gruppen dividieren:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:255 ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "F = |MS_b| / |MS_w|"
@@ -945,6 +947,13 @@ msgid ""
 "deeper understanding of what ANOVA is and what the mean squares values "
 "actually are."
 msgstr ""
+"Auf einer sehr allgemeinen Ebene ist die *F* Statistik ziemlich intuitiv. "
+"Größere *F*-Werte bedeuten, dass die Variation zwischen den Gruppen im "
+"Verhältnis zu der Variation innerhalb der Gruppen groß ist. Je größer also "
+"der *F*-Wert, desto stärker ist die Evidenz gegen die Nullhypothese. Aber "
+"wie groß muss *F* sein, um die H\\ :sub:`0` tatsächlich *abzulehnen*? Um "
+"dies zu verstehen, müssen Sie etwas genauer wissen, was eine ANOVA ist und "
+"was die Werte der mittleren Quadrate eigentlich bedeuten."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:266
 msgid ""
@@ -960,6 +969,19 @@ msgid ""
 "between groups degrees of freedom |df_b|, and the second one *df*\\ :sub:`2` "
 "is the within groups degrees of freedom |df_w|\\."
 msgstr ""
+"Im nächsten Abschnitt wird dies etwas ausführlicher erörtert, aber für "
+"Leser, die sich nicht für die Einzelheiten dessen interessieren, was der "
+"Test eigentlich misst, werde ich mich kurz fassen. Um unseren Hypothesentest "
+"durchführen zu können, müssen wir die Stichprobenverteilung für *F* kennen, "
+"wenn die Nullhypothese wahr ist. Es überrascht nicht, dass die "
+"Stichprobenverteilung für die *F* Statistik unter der Nullhypothese eine *F* "
+"Verteilung ist. Wenn Sie sich an unsere Diskussion der *F* -Verteilung in "
+"Kapitel :doc:`Introduction to probability <../Ch07/Ch07_Probability>` "
+"erinnern, hat die *F*-Verteilung zwei Parameter, die den zwei beteiligten "
+"Freiheitsgraden entsprechen. Der erste Parameter *df*\\ :sub:`1` entspricht "
+"den Freiheitsgraden zwischen den Gruppen |df_b|, und der zweite Parameter "
+"*df*\\ :sub:`2` entspricht den Freiheitsgraden innerhalb der Gruppen |df_w|\\"
+"."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:278
 msgid ""
@@ -967,6 +989,9 @@ msgid ""
 "the formulas showing how they are calculated, is shown in :numref:`tab-"
 "anovatable`."
 msgstr ""
+"Eine Zusammenfassung aller wichtigen Größen, die an einer einfaktoriellen "
+"ANOVA (*one-way ANOVA*) beteiligt sind, einschließlich der Formeln, die "
+"zeigen, wie sie berechnet werden, ist zu finden in :numref:`tab-anovatable`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:281
 msgid ""
@@ -975,6 +1000,10 @@ msgid ""
 "a very ugly formula and would be nightmarishly hard to calculate without a "
 "computer) are shown."
 msgstr ""
+"Alle wichtigen Größen, die man für die Berechnung einer ANOVA benötigt, sind "
+"in einer „Standard“-ANOVA-Tabelle zusammengefasst. Die Formeln für alle "
+"Größen (mit Ausnahme des *p*-Wertes, der eine sehr hässliche Formel hat und "
+"ohne Computer nur sehr schwer zu berechnen wäre) sind angegeben."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "df"
@@ -982,23 +1011,23 @@ msgstr "df"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "sum of squares"
-msgstr ""
+msgstr "Quadratsummen"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "mean squares"
-msgstr ""
+msgstr "Mittlere Quadrate"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "*F*-statistic"
-msgstr ""
+msgstr "*F*-Statistik"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "*p*-value"
-msgstr ""
+msgstr "*p*-Wert"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:290 ../../Ch13/Ch13_ANOVA_02.rst:597
 msgid "**between groups**"
-msgstr ""
+msgstr "**zwischen Gruppen**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|SS_b| = |f_SS_b|"
@@ -1006,11 +1035,11 @@ msgstr "|SS_b| = |f_SS_b|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "[complicated]"
-msgstr ""
+msgstr "[kompliziert]"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:292 ../../Ch13/Ch13_ANOVA_02.rst:599
 msgid "**within groups**"
-msgstr ""
+msgstr "**innerhalb von Gruppen**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:292
 msgid "|SS_w| = |f_SS_w|"
@@ -1018,7 +1047,7 @@ msgstr "|SS_w| = |f_SS_w|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:296
 msgid "The model for the data and the meaning of *F*"
-msgstr ""
+msgstr "Das Modell für die Daten und die Bedeutung von *F*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:298
 msgid ""
@@ -1040,12 +1069,34 @@ msgid ""
 "“residual” is a better term than the word “error”. In statistics both words "
 "mean “leftover variability”, that is “stuff” that the model can’t explain."
 msgstr ""
+"Im Grunde ist die ANOVA ein Wettbewerb zwischen zwei verschiedenen "
+"statistischen Modellen, H\\ :sub:`0` und H\\ :sub:`1`. Als ich zu Beginn des "
+"Abschnitts die Null- und Alternativhypothesen beschrieben habe, war ich "
+"etwas ungenau in der Beschriebung, was diese Modelle eigentlich sind. Ich "
+"werde das jetzt korrigieren, auch wenn Sie das wahrscheinlich nicht gut "
+"finden werden. Wenn Sie sich erinnern, war unsere Nullhypothese, dass alle "
+"Gruppenmittelwerte identisch sind. Wenn dies der Fall ist, dann ist eine "
+"natürliche Art und Weise, über die Ergebnisvariable |Y_ik| nachzudenken, die "
+"individuellen Ergebnisse in Form eines einzigen Populationsmittelwerts *µ* "
+"zu beschreiben, plus der Abweichung von diesem Populationsmittelwert. Diese "
+"Abweichung wird in der Regel mit ϵ\\ :sub:`ik` bezeichnet und wird "
+"traditionell als *Fehler* oder **Residuum** bezeichnet, die mit dieser "
+"Beobachtung verbunden ist. Seien Sie jedoch vorsichtig. Genau wie beim Wort "
+"„signifikant“ hat das Wort „Fehler“ in der Statistik eine technische "
+"Bedeutung, die nicht ganz mit der alltagssprachlichen Definition "
+"übereinstimmt. In der Alltagssprache impliziert „Fehler“ eine Art von "
+"Irrtum, in der Statistik jedoch nicht (oder zumindest nicht unbedingt). In "
+"diesem Sinne ist das Wort „Residuum“ ein besserer Begriff als das Wort "
+"„Fehler“. In der Statistik bedeuten beide Wörter „Restvariabilität“, d. h. "
+"„Dinge“, die das Modell nicht erklären kann."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:318
 msgid ""
 "In any case, here’s what the null hypothesis looks like when we write it as "
 "a statistical model"
 msgstr ""
+"In jeden Fall sieht die Nullhypothese so aus, wenn wir sie als statistisches "
+"Modell schreiben"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:321
 msgid "|Y_ik| = µ + ϵ\\ :sub:`ik`"
@@ -1059,6 +1110,12 @@ msgid ""
 "in chapter :doc:`Introduction to probability <../Ch07/Ch07_Probability>` we "
 "would write this assumption like this:"
 msgstr ""
+"wobei wir die *Annahme* machen (die später diskutiert wird), dass die "
+"Residualwerte ϵ\\ :sub:`ik` normalverteilt sind, mit einem Mittelwert von 0 "
+"und einer Standardabweichung *σ*, die für alle Gruppen gleich ist. Um die "
+"Notation zu verwenden, die wir in Kapitel :doc:`Introduction to probability "
+"<../Ch07/Ch07_Probability>`eingeführt haben, würden wir diese Annahme wie "
+"folgt schreiben:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:329 ../../Ch13/Ch13_ANOVA_06.rst:29
 msgid "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
@@ -1072,6 +1129,13 @@ msgid ""
 "denote the population mean for the *k*-th group in our experiment, then the "
 "statistical model corresponding to H\\ :sub:`1` is"
 msgstr ""
+"Und was ist mit der Alternativhypothese, H\\ :sub:`1`? Der einzige "
+"Unterschied zwischen der Nullhypothese und der Alternativhypothese besteht "
+"darin, dass wir zulassen, dass jede Gruppe einen anderen "
+"Populationsmittelwert hat. Wenn wir also µ\\ :sub:`k` als den "
+"Populationsmittelwert für die *k*-te Gruppe in unserem Experiment "
+"bezeichnen, dann lautet das entsprechende statistische Modell, das H\\ "
+":sub:`1`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:338
 msgid "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
@@ -1083,6 +1147,9 @@ msgid ""
 "with mean 0 and standard deviation *σ*. That is, the alternative hypothesis "
 "also assumes that ϵ ~ Normal(0, σ²)"
 msgstr ""
+"wobei wir wiederum annehmen, dass die Fehlerterme normalverteilt sind mit "
+"Mittelwert 0 und Standardabweichung *σ*. Das heißt, die Alternativhypothese "
+"geht ebenfalls davon aus, dass ϵ ~ Normal(0, σ²)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:345
 msgid ""
@@ -1098,6 +1165,19 @@ msgid ""
 "differences among the group means. If we call this quantity Q, then we can "
 "see that the *F*-statistic is basically:\\ [#]_"
 msgstr ""
+"Okay, nachdem wir nun die statistischen Modelle, die der H\\ :sub:`0` und "
+"der H\\ :sub:`1` zugrunde liegen, genauer beschrieben haben, ist es jetzt "
+"ziemlich einfach zu sagen, was die mittleren Quadratwerte messen und was "
+"dies für die Interpretation von *F* bedeutet. Ich werde Sie nicht mit dem "
+"Beweis dafür langweilen, aber es stellt sich heraus, dass das mittlere "
+"Quadrat innerhalb der Gruppen, |MS_w|, als ein Schätzer (im technischen "
+"Sinne, Kapiter :doc:`Estimating unknown quantities from a sample <../Ch08/"
+"Ch08_Estimation>`) der Fehlervarianz σ² angesehen werden kann. Das mittlere "
+"Quadrat zwischen den Gruppen |MS_b| ist ebenfalls ein Schätzer, aber dieses "
+"schätzt die Fehlervarianz *plus* eine Größe, die von den wahren "
+"Unterschieden zwischen den Gruppenmitteln abhängt. Wenn wir diese Größe Q "
+"nennen, dann können wir sehen, dass die *F*-Statistik im Grunde genommen ist:"
+"\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:356
 msgid ""
