@@ -8,7 +8,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
