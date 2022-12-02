@@ -77,7 +77,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-21 12:42+0100\n"
-"PO-Revision-Date: 2022-12-02 09:47+0000\n"
+"PO-Revision-Date: 2022-12-02 12:16+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/>"
 "\n"
@@ -486,7 +486,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:329 ../../Ch03/Ch03_jamoviIntro_3.rst:85
 msgid "nominal"
-msgstr "nominal"
+msgstr "Nominal"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:34
 msgid ""
