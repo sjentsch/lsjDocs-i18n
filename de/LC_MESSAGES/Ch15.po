@@ -20,7 +20,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-01 16:33+0100\n"
 "PO-Revision-Date: 2022-12-02 12:16+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
 "\n"
 "Language: de\n"
@@ -1286,7 +1286,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
 msgid "nominal"
-msgstr "nominal"
+msgstr "Nominal"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:536
 msgid ""
