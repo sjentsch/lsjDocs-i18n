@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-12-02 13:48+0000\n"
+"PO-Revision-Date: 2022-12-02 14:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -629,6 +629,10 @@ msgid ""
 "and so the formula that I gave above is actually identical to our original "
 "formula for the variance, which would be"
 msgstr ""
+"Mit anderen Worten, jede Person *p* entspricht einer eindeutigen Kombination "
+"von *ik*, und so ist die Formel, die ich oben angegeben habe, eigentlich "
+"identisch mit unserer ursprünglichen Formel für die Varianz, welche lauten "
+"würde"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:123
 msgid ""
@@ -648,10 +652,16 @@ msgid ""
 "doing an ANOVA it’s important to keep track of which participants belong in "
 "which groups, and we need to use the |Y_ik| notation to do this."
 msgstr ""
+"In beiden Formeln wird lediglich die Summe über alle Beobachtungen in der "
+"Stichprobe gebildet. In den meisten Fällen würden wir die einfachere "
+"Schreibweise |Y_p| verwenden und die Gleichung mit |Y_p| ist eindeutig die "
+"einfachere der beiden. Bei einer ANOVA ist es jedoch wichtig zu wissen, "
+"welche Teilnehmer zu welchen Gruppen gehören, und dafür müssen wir die "
+"Notation |Y_ik| verwenden."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:133
 msgid "From variances to sums of squares"
-msgstr ""
+msgstr "Von den Varianzen zu den Quadratsummen"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:135
 msgid ""
@@ -660,12 +670,19 @@ msgid ""
 "|SS_t|\\. This is very simple. Instead of averaging the squared deviations, "
 "which is what we do when calculating the variance, we just add them up."
 msgstr ""
+"Okay, jetzt, wo wir wissen, wie die Varianz berechnet wird, definieren wir "
+"die **gesamte Quadratsumme** (**total sum of squares**), die bezeichnet wird "
+"als |SS_t|\\. Dies ist sehr einfach. Anstatt den Mittelwert der quadrierten "
+"Abweichungen zu bilden, was wir bei der Berechnung der Varianz tun, addieren "
+"wir sie einfach auf."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:141
 msgid ""
 "So the formula for the total sum of squares is almost identical to the "
 "formula for the variance"
 msgstr ""
+"Die Formel für die gesamte Quadratsumme (*total sum of squares*) ist also "
+"fast identisch mit der Formel für die Varianz"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:144
 msgid ""
@@ -684,12 +701,21 @@ msgid ""
 "actual variance. One very nice thing about the total sum of squares is that "
 "we can break it up into two different kinds of variation."
 msgstr ""
+"Wenn wir im Rahmen der ANOVA über die Analyse von Varianzen sprechen, "
+"arbeiten wir eigentlich mit den Quadratsummen (*total sums of squares*) und "
+"nicht mit der tatsächlichen Varianz. Eine sehr schöne Sache an der geamten "
+"Quadratsumme (*total sums of squares*) ist, dass wir sie in zwei "
+"verschiedene Arten der Variation aufteilen können."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:151
 msgid ""
 "First, we can talk about the **within-group sum of squares**, in which we "
 "look to see how different each individual person is from their own group mean"
 msgstr ""
+"Zunächst können wir über die **Quadratsumme innerhalb** einer Gruppe "
+"(**within-group sum of squares**) sprechen, bei der wir untersuchen, wie "
+"sehr sich jede einzelne Person von ihrem eigenen Gruppenmittelwert "
+"unterscheidet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:155
 msgid ""
@@ -711,6 +737,15 @@ msgid ""
 "sum of squares, because it’s completely ignoring any group differences, i."
 "e., whether the drugs will have different effects on people’s moods."
 msgstr ""
+"wobei |Yb_k| der Gruppenmittelwert ist. In unserem Beispiel wäre |Yb_k| die "
+"durchschnittliche Stimmungsänderung der Personen, die das *k*-te Medikament "
+"erhalten haben. Anstatt also einzelne Personen mit dem Durchschnitt aller "
+"Personen im Experiment zu vergleichen, vergleichen wir sie nur mit den "
+"Personen innerhalb derselben Gruppe. Folglich erwartet man, dass der Wert "
+"von |SS_w| kleiner ist als die gesamte Quadratsumme (*total sum of squares*)"
+", weil jegliche Gruppenunterschiede ignoriert werden, d. h. wenn die "
+"Medikamente unterschiedliche Auswirkungen auf die Stimmung der Menschen "
+"haben."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:165
 msgid ""
@@ -718,12 +753,18 @@ msgid ""
 "differences between groups. We do this by looking at the differences between "
 "the group means |Yb_k| and grand mean |Yb|."
 msgstr ""
+"Als Nächstes können wir einen dritten Begriff der Variation definieren, der "
+"*nur* die Unterschiede zwischen den Gruppen erfasst. Wir tun dies, indem wir "
+"die Unterschiede zwischen den Gruppenmitteln |Yb_k| und dem Gesamtmittelwert "
+"|Yb| betrachten."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:169
 msgid ""
 "In order to quantify the extent of this variation, what we do is calculate "
 "the **between-group sum of squares**"
 msgstr ""
+"Um das Ausmaß dieser Variation zu erfassen, berechnen wir die **Quadratsumme "
+"zwischen** den Gruppen (**between-group sum of squares**)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:172
 msgid ""
@@ -745,6 +786,10 @@ msgid ""
 "experiment |SS_t| is actually the sum of the differences between the groups |"
 "SS_b| and the variation inside the groups S\\ :sub:`w`\\. That is,"
 msgstr ""
+"Es ist nicht allzu schwierig zu zeigen, dass die Gesamtvariation zwischen "
+"den Personen im Experiment |SS_t| eigentlich die Summe der Unterschiede "
+"zwischen den Gruppen |SS_b| und der Variation innerhalb der Gruppen S\\ "
+":sub:`w`\\ ist. Das bedeutet,"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:183
 msgid "|SS_w| + |SS_b| = |SS_t|"
@@ -752,11 +797,11 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:185
 msgid "Yay."
-msgstr ""
+msgstr "Juhu (*Yay*)."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:193
 msgid "illustration of between and within groups variation"
-msgstr ""
+msgstr "Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:193
 msgid ""
