@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-12-02 12:48+0000\n"
+"PO-Revision-Date: 2022-12-02 13:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -359,10 +359,23 @@ msgid ""
 "around with variances and it will turn out that this gives us a useful tool "
 "for investigating means."
 msgstr ""
+"Diese Nullhypothese ist viel schwieriger zu testen als alle anderen, die wir "
+"bisher gesehen haben. Wie machen wir das also? Eine vorsichtige Vermutung "
+"wäre, „eine ANOVA durchzuführen“, da dies der Titel des Kapitels ist. Jedoch "
+"ist es nicht besonders klar, warum eine „*Varianz*analyse“ (*„analysis of "
+"*variances*“*) uns helfen soll, etwas Nützliches über *Mittelwerte* (*means*)"
+" zu erfahren. In der Tat ist dies eine der größten konzeptionellen "
+"Schwierigkeiten, die Menschen haben, wenn sie zum ersten Mal mit der ANOVA "
+"in Berührung kommen. Um zu sehen, wie das funktioniert, halte ich es für "
+"sehr hilfreich, zunächst über Varianzen zu sprechen. Ich werde nämlich "
+"zunächst einige mathematische Spiele mit der Formel zur Beschreibung der "
+"Varianz machen. Das heißt, wir beginnen damit, etwas mit den Varianzen zu "
+"spielen und es wird sich herausstellen, dass wir so ein nützliches Werkzeug "
+"für die Untersuchung von Mittelwerten erhalten."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:49
 msgid "Two formulas for the variance of *Y*"
-msgstr ""
+msgstr "Zwei Formeln für die Varianz von *Y*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:51
 msgid ""
@@ -379,6 +392,20 @@ msgid ""
 "the experiment, and |Yb_k| to refer to the average mood change experienced "
 "by the 6 people in group *k*.\\ [#]"
 msgstr ""
+"Beginnen wir mit der Einführung der Notation. Wir verwenden *G*, um die "
+"Gesamtanzahl der Gruppen zu bezeichnen. Für unseren Datensatz gibt es drei "
+"Medikamente, also *G* = 3 Gruppen. Als Nächstes verwenden wir *N* für die "
+"Gesamtgröße der Stichprobe; in unserem Datensatz gibt es insgesamt *N* = 18 "
+"Personen. Analog dazu bezeichnen wir mit |N_k| die Anzahl der Personen in "
+"der *k*-ten Gruppe. In unserer gefälschten klinischen Studie beträgt der "
+"Stichprobenumfang |N_k| = 6` für alle drei Gruppen.\\ [#]_ Schließlich "
+"verwenden wir *Y*, um die Ergebnisvariable zu bezeichnen. In unserem Fall "
+"bezieht sich *Y* auf die Veränderung der Stimmung. Genauer gesagt, verwenden "
+"wir |Y_ik| für die Stimmungsänderung, die das *i*-te Mitglied der *k*-ten "
+"Gruppe erlebt. In ähnlicher Weise verwenden wir |Yb| für die "
+"durchschnittliche Stimmungsänderung aller 18 Personen im Experiment und "
+"|Yb_k| für die durchschnittliche erlebte Stimmungsänderung der 6 Personen in "
+"der Gruppe *k*.\\ [#]"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:66
 msgid ""
@@ -388,6 +415,11 @@ msgid ""
 "back in those kinder days when we were just doing descriptive statistics. "
 "The sample variance of *Y* is defined as follows"
 msgstr ""
+"Nun, da wir die Notation geklärt haben, können wir damit beginnen, Formeln "
+"aufzuschreiben. Für den Anfang erinnern wir uns an die Formel für die "
+"Varianz, die wir in :doc:`Measures of variability <../Ch04/"
+"Ch04_Descriptives_2>`verwendet haben, als wir uns noch mit deskriptiver "
+"Statistik befassten. Die Stichprobenvarianz von *Y* ist wie folgt definiert"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:72
 msgid ""
@@ -412,6 +444,16 @@ msgid ""
 "classified people into groups, and then assigned numbers to people within "
 "groups."
 msgstr ""
+"Diese Formel sieht ziemlich identisch aus mit der Formel für die Varianz in "
+":doc:`Measures of variability <../Ch04/Ch04_Descriptives_2>`. Der einzige "
+"Unterschied ist, dass ich diesmal zwei Summen gebildet habe: Ich summiere "
+"über die Gruppen (d.h., Werte für *k*) und über die Personen innerhalb der "
+"Gruppen (d.h., Werte für *:`i*). Dabei handelt es sich um ein rein "
+"kosmetisches Detail. Hätte ich stattdessen die Schreibweise |Y_p| verwendet, "
+"um den Wert der Ergebnisvariable für die Person *p* in der Stichprobe zu "
+"bezeichnen, dann hätte ich nur eine Summe. Der einzige Grund, warum wir hier "
+"zwei Summen haben, ist, dass ich die Personen in Gruppen eingeteilt und dann "
+"den Personen innerhalb der Gruppen Zahlen zugewiesen habe."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:84
 msgid ""
@@ -421,54 +463,60 @@ msgid ""
 "group 2. It turns out that we have three cool people (*N*\\ :sub:`1` = 3) "
 "and two uncool people (*N*\\ :sub:`2` = 2)."
 msgstr ""
+"Ein konkretes Beispiel könnte hier nützlich sein. Betrachten wir diese "
+"Tabelle, in der wir insgesamt *N* = 5 Personen haben, die in :*G* = 2 "
+"Gruppen eingeteilt. Nehmen wir willkürlich an, dass die \"coolen\" Leute in "
+"Gruppe 1 und die \"uncoolen\" Leute in Gruppe 2 sind. Es stellt sich heraus, "
+"dass wir drei coole Leute (*N*\\ :sub:`1` = 3) und zwei uncoole Leute (*N*\\ "
+":sub:`2` = 2) haben."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "name"
-msgstr ""
+msgstr "Name"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "person"
-msgstr ""
+msgstr "Person"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:397
 #: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
 #: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "group"
-msgstr ""
+msgstr "Gruppe"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "group num."
-msgstr ""
+msgstr "Gruppennr."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "index in group"
-msgstr ""
+msgstr "Index in der Gruppe"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "grumpiness"
-msgstr ""
+msgstr "Griesgrämigkeit"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*p*"
-msgstr ""
+msgstr "*p*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:399
 #: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
 #: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "*k*"
-msgstr ""
+msgstr "*k*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*i*"
-msgstr ""
+msgstr "*i*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "|Y_ik| or |Y_p|"
-msgstr ""
+msgstr "|Y_ik| oder |Y_p|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "Ann"
-msgstr ""
+msgstr "Ann"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_02.rst:101
@@ -480,7 +528,7 @@ msgstr "1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "cool"
-msgstr ""
+msgstr "cool"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "20"
@@ -488,7 +536,7 @@ msgstr "20"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
@@ -504,7 +552,7 @@ msgstr "55"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "Cat"
-msgstr ""
+msgstr "Cat"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:205 ../../Ch13/Ch13_ANOVA_07.rst:71
@@ -517,7 +565,7 @@ msgstr "21"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "Tim"
-msgstr ""
+msgstr "Tim"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_05.rst:49
 #: ../../Ch13/Ch13_ANOVA_05.rst:203 ../../Ch13/Ch13_ANOVA_07.rst:73
@@ -527,7 +575,7 @@ msgstr "4"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "uncool"
-msgstr ""
+msgstr "uncool"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "91"
@@ -535,7 +583,7 @@ msgstr "91"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "Egg"
-msgstr ""
+msgstr "Egg"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:201 ../../Ch13/Ch13_ANOVA_07.rst:71
@@ -561,6 +609,19 @@ msgid ""
 "valid to refer to Tim’s grumpiness by saying that |Y_ik| = 91, where *k* = 2 "
 "and *i* = 1."
 msgstr ""
+"Beachten Sie, dass ich hier zwei verschiedene Bezeichnungsschemata "
+"konstruiert habe. Wir haben eine \"Personen\"-Variable *p*, so dass es "
+"durchaus sinnvoll wäre, |Y_p| als die Grießgrämigkeit der *p*-ten Person in "
+"der Stichprobe zu bezeichnen. Zum Beispiel zeigt die Tabelle, dass Tim die "
+"vierte Person ist, also würden wir sagen *p* = 4. Wenn wir also über die "
+"Grießgrämigkeit *Y* dieser Person „Tim“ sprechen, wer auch immer er sein "
+"mag, könnten wir seine Grißegrämigkeit bezeihnen, indem wir also sagen, |Y_p|"
+" = 91 für die Person *p* = 4. Das ist jedoch nicht die einzige Möglichkeit, "
+"wie wir uns auf Tim beziehen können. Alternativ könnten wir feststellen, "
+"dass Tim zur Gruppe der \"Uncoolen\" gehört (*k* = 2) und sogar die erste "
+"Person ist, die in der Gruppe der \"Uncoolen\" aufgeführt ist (*i* = 1). Es "
+"ist also ebenso gültig, Tims Grießgrämigkeit mit |Y_ik| = 91 zu bezeichnen, "
+"wobei *k* = 2 und *i* = 1 ist."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:119
 msgid ""
