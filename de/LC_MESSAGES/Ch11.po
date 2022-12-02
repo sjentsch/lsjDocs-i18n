@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-01 16:40+0100\n"
-"PO-Revision-Date: 2022-12-02 09:47+0000\n"
+"PO-Revision-Date: 2022-12-02 12:16+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
 "\n"
@@ -51,7 +51,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
 #: ../../Ch11/Ch11_tTest_09.rst:139
 msgid "nominal"
-msgstr "nominal"
+msgstr "Nominal"
 
 #: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
 #: ../../Ch11/Ch11_tTest_09.rst:136
