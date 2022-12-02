@@ -77,7 +77,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-21 12:42+0100\n"
-"PO-Revision-Date: 2022-12-02 09:47+0000\n"
+"PO-Revision-Date: 2022-12-02 12:16+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/>"
 "\n"
@@ -113,7 +113,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:552
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
-msgstr "nominal"
+msgstr "Nominal"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
 #: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
