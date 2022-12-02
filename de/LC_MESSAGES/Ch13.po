@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-11-16 00:38+0100\n"
-"PO-Revision-Date: 2022-12-02 16:48+0000\n"
+"PO-Revision-Date: 2022-12-02 18:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -1198,6 +1198,15 @@ msgid ""
 "distribution of the *F* ratio has a mean of 1,\\ [#]_ and so we need to see "
 "*F*-values larger than 1 in order to safely reject the null."
 msgstr ""
+"wobei der wahre Wert Q = 0 ist, wenn die Nullhypothese wahr ist, und Q > 0, "
+"wenn die Alternativhypothese wahr ist (`Hays, 1994 <../Other/References."
+"html#hays-1994>`__\\ , Ch. 10). Daher muss *der *F* Wert mindestens größer "
+"als 1* sein, um eine Chance zu haben, die Nullhypothese zurückzuweisen. "
+"Beachten Sie, dass dies *nicht* bedeutet, dass es unmöglich ist, einen *F*-"
+"Wert kleiner als 1 zu erhalten. Es bedeutet vielmehr, dass, wenn die "
+"Nullhypothese wahr ist, die Stichprobenverteilung des *F* -Werts einen "
+"Mittelwert von 1 hat, [#]_ und wir daher *F*-Werte größer als 1 sehen "
+"müssen, um die Nullhypothese sicher zurückzuweisen."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:368
 msgid ""
@@ -1214,10 +1223,22 @@ msgid ""
 "over a whole lot of stuff when I say this, but in broad terms, this really "
 "is where our sampling distribution comes from."
 msgstr ""
+"Um die Stichprobenverteilung etwas genauer zu beschreiben, ist zu beachten, "
+"dass, wenn die Nullhypothese wahr ist, sowohl |MS_b| als auch |MS_w| "
+"Schätzer der Varianz der Residuen ϵ\\ :sub:`ik` sind. Wenn diese Residuen "
+"normalverteilt sind, dann könnte man vermuten, dass die Schätzung der "
+"Varianz von ϵ\\ :sub:`ik` χ²-verteilt ist, weil (wie in :doc:`Other useful "
+"distributions <../Ch07/Ch07_Probability_6>`) das iat es, was eine χ²-"
+"Verteilung *ist*: Sie entsteht, wenn man eine Reihe normalverteilter Dinge "
+"quadriert und sie addiert. Und da die *F* -Verteilung (wiederum per "
+"Definition) das ist, was man erhält, wenn man das Verhältnis zwischen zwei "
+"Dingen nimmt, die χ²-verteilt sind, haben wir unsere Stichprobenverteilung. "
+"Natürlich beschönige ich eine ganze Menge, wenn ich das sage, aber im Großen "
+"und Ganzen ist das der Ursprung unserer Stichprobenverteilung."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:382
 msgid "A worked example"
-msgstr ""
+msgstr "Ein praktisches Beispiel"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:384
 msgid ""
@@ -1233,6 +1254,19 @@ msgid ""
 "the within-group sums of squares. First, let’s draw up a nice table to help "
 "us with our calculations:"
 msgstr ""
+"Die vorangegangene Diskussion war ziemlich abstrakt und ein wenig technisch, "
+"daher denke ich, dass es an dieser Stelle nützlich sein könnte, ein "
+"praktisches Beispiel zu betrachten. Kehren wir dazu zum Datensatz "
+"|clinicaltrial|_ zurück, der zu Beginn des Kapitels vorgestellt wurde. Die "
+"deskriptive Statistik, die wir zu Beginn berechnet haben, gibt uns unsere "
+"Gruppenmittelwerte: Eine durchschnittliche Stimmungsverbesserung von 0,45 "
+"für das Placebo, 0,72 für Anxifree und 1,48 für Joyzepam. Mit diesem Wissen "
+"im Hinterkopf, lassen Sie uns feiern, als wäre es 1899\\ [#]_ und beginnen "
+"Sie damit, einige Berechnungen mit Bleistift und Papier durchzuführen. Ich "
+"werde dies nur für die ersten 5 Beobachtungen tun, da es nicht das verdammte "
+"Jahr 1899 ist und ich sehr faul bin. Beginnen wir mit der Berechnung von "
+"|SS_w|, den Quadratsummen innerhalb der Gruppe. Zunächst erstellen wir eine "
+"schöne Tabelle, die uns bei unseren Berechnungen hilft:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:397 ../../Ch13/Ch13_ANOVA_02.rst:423
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
@@ -1251,7 +1285,7 @@ msgstr "|Y_ik|"
 #: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
 #: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "placebo"
-msgstr ""
+msgstr "Placebo"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:427
 #: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_06.rst:332
@@ -1273,7 +1307,7 @@ msgstr "0.1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
 #: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "anxifree"
-msgstr ""
+msgstr "Anxifree"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:433
 #: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_06.rst:332
@@ -1296,11 +1330,20 @@ msgid ""
 "particularly difficult since we already calculated those group means when "
 "doing our descriptive statistics:"
 msgstr ""
+"In diesem Stadium habe ich nur die Rohdaten in die Tabelle aufgenommen. Das "
+"heißt, die Gruppierungsvariable (in diesem Fall ``drug``) und die "
+"Ergebnisvariable (d. h. ``mood.gain``) für jede Person. Beachten Sie, dass "
+"die Ergebnisvariable hier dem Wert |Y_ik| in unserer vorherigen Gleichung "
+"entspricht. Der nächste Schritt in der Berechnung besteht darin, für jede "
+"Person in der Studie den entsprechenden Gruppenmittelwert, |Yb_k|, "
+"aufzuschreiben. Dies ist eine leichte Wiederholung, aber nicht besonders "
+"schwierig, da wir diese Gruppenmittelwerte bereits bei der Erstellung "
+"unserer deskriptiven Statistik berechnet haben:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
 #: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "group mean"
-msgstr ""
+msgstr "Gruppenmittelwert"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
 #: ../../Ch13/Ch13_ANOVA_02.rst:492
@@ -1323,10 +1366,15 @@ msgid ""
 "subtract |Y_ik| - |Yb_k|. After we’ve done that, we need to square "
 "everything. When we do that, here’s what we get:"
 msgstr ""
+"Nachdem wir diese nun aufgeschrieben haben, müssen wir wieder für jede "
+"Person die Abweichung vom entsprechenden Gruppenmittelwert berechnen. Das "
+"heißt, wir wollen |Y_ik| - |Yb_k| subtrahieren. Nachdem wir das getan haben, "
+"müssen wir alles quadrieren. Wenn wir das tun, erhalten wir das folgende "
+"Ergebnis:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "dev. from group mean"
-msgstr ""
+msgstr "Abweichung vom Gruppenmittelwert"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "squared deviation"
@@ -1396,6 +1444,9 @@ msgid ""
 "group sum of squares we just add up the squared deviations across all "
 "observations:"
 msgstr ""
+"Der letzte Schritt ist ebenso einfach. Um die Quadratsummen innerhalb der "
+"Gruppen zu berechnen, addieren wir einfach die quadrierten Abweichungen über "
+"alle Beobachtungen:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:463
 msgid "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
@@ -1408,6 +1459,11 @@ msgid ""
 "could continue with the pencil and paper calculations if we wanted to, but "
 "it’s pretty tedious. Alternatively, it’s not too hard to do this in jamovi."
 msgstr ""
+"Wenn wir tatsächlich die *richtige* Antwort erhalten wollten, müssten wir "
+"dies natürlich für alle 18 Beobachtungen im Datensatz tun, nicht nur für die "
+"ersten fünf. Wir könnten mit den Berechnungen mit Bleistift und Papier "
+"weitermachen, wenn wir wollten, aber das ist ziemlich mühsam. Alternativ "
+"dazu ist es nicht allzu schwer, dies in Jamovi zu tun."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:471
 msgid ""
