@@ -135,7 +135,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-10 14:23+0100\n"
-"PO-Revision-Date: 2022-12-02 09:47+0000\n"
+"PO-Revision-Date: 2022-12-02 12:16+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch17/de/>"
 "\n"
@@ -273,7 +273,7 @@ msgstr "Kontinuierlich"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
-msgstr "nominal"
+msgstr "Nominal"
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:22
 msgid ""
