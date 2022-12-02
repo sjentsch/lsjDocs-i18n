@@ -7,7 +7,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -15,13 +14,14 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch15.po (Learning statistics with jamovi)  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-01 17:23+0100\n"
+"POT-Creation-Date: 2022-12-02 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -540,13 +540,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:605
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
 msgstr "continuous"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:324
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -688,6 +688,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -754,6 +755,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each "
 "variable. Uniqueness is the proportion of variance that is “unique” to "
@@ -908,21 +910,21 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:279
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:282
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
 msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, "
 "continuous |continuous|) and descriptive statistics."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
 msgid "nominal"
 msgstr "nominal"
 
@@ -1190,6 +1192,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in "
 "the data that is accounted for by the two components. Components one and "
@@ -1239,6 +1242,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each "
 "variable. Uniqueness is the proportion of variance that is “unique” to "
@@ -1471,6 +1475,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides "
 "several by default. These are the Comparative Fit Index (CFI), the Tucker"
@@ -1482,6 +1487,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large "
 "and highly significant. Our sample size is not too large, so this "
@@ -1527,8 +1533,8 @@ msgid ""
 " think again about the items / measures we are using and how they might "
 "be improved or changed. Another option is to make some *post-hoc* tweaks "
 "to the model to improve the fit. One way of doing this is to use "
-"“modification indices”, specified as an ``Additional Output`` option in "
-"jamovi (see :numref:`fig-cfa6`)."
+"``Modification indices``, specified as an ``Additional Output`` option in"
+" jamovi (see :numref:`fig-cfa6`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
@@ -1618,31 +1624,29 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:257
 msgid ""
-"Although we could have tweaked the CFA using modification indexes, there "
-"really were not any good reasons (that I could think of) for these "
-"suggested additional factor loadings or residual covariances to be "
-"included. However, sometimes there is a good reason for residuals to be "
-"allowed to co-vary (or correlate), and a good example of this is shown in"
-" the next section on **Multi-Trait Multi-Method (MTMM)** CFA. Before we "
-"do that, let’s cover how to report the results of a CFA."
+"Whereas there are sometimes good reasons for allowing residuals to covary"
+" (or correlate), there were no such reasons to “optimize” the CFA for the"
+" model that we defined by including additional factor loadings or "
+"residual covariances using modification indices. Nevertheless, let's "
+"discuss how to report the results of a CFA (with a more fitted model)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:264
 msgid "Reporting a CFA"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:268
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
 msgid ""
 "There is not a formal standard way to write up a CFA, and examples tend "
 "to vary by discipline and researcher. That said, there are some fairly "
 "standard pieces of information to include in your write-up:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:274
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
 msgid ""
 "A complete description of how the model was specified (e.g. the indicator"
 " variables for each latent factor, covariances between latent variables, "
@@ -1650,35 +1654,35 @@ msgid ""
 "in :numref:`fig-cfa3` would be good to include."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:283
 msgid "Tests of assumptions and estimation method used."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
 msgid "Measures, and the criteria used, to judge model fit."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:293
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
 msgid ""
 "Any alterations made to the original model based on model fit or "
 "modification indices."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:296
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:294
 msgid ""
 "All parameter estimates (i.e., loadings, error variances, latent "
 "(co)variances) and their standard errors, probably in a table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:302
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:300
 msgid ""
 "As an aside, given that we had a pretty firm idea from our initial "
 "“putative” factors, we could just have gone straight to CFA and skipped "
@@ -1718,6 +1722,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s *α** (alpha; `Cronbach, 1951 "
@@ -1737,6 +1742,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
@@ -1775,6 +1781,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for *α* or *ω* is provided, suggesting a “good "
 "enough” value. This might be something like *α*s of 0.70 or 0.80 "
@@ -1839,6 +1846,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
@@ -1924,10 +1932,15 @@ msgid ""
 msgstr ""
 
 #~ msgid ""
-#~ "...and that means there is a fair"
-#~ " bit of repetition in the PCA "
-#~ "steps set out in the next section."
-#~ " Sorry about that, but hopefully it"
-#~ " is not too bad!"
+#~ "Whereas there are sometimes good reasons"
+#~ " for allowing residuals to covary (or"
+#~ " correlate), there were no such "
+#~ "reasons to \"optimize\" the CFA for "
+#~ "the model that we defined by "
+#~ "including additional factor loadings or "
+#~ "residual covariances using modification "
+#~ "indices. Nevertheless, let's discuss how "
+#~ "to report the results of a CFA "
+#~ "(with a more fitted model)."
 #~ msgstr ""
 

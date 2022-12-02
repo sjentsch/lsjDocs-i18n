@@ -8,10 +8,11 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  index.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  index.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 16:40+0100\n"
+"POT-Creation-Date: 2022-12-02 13:16+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/start/de/"

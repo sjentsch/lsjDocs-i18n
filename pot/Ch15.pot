@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-01 17:26+0100\n"
+"POT-Creation-Date: 2022-12-02 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -518,13 +518,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:605
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
 msgstr "continuous"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:324
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -879,21 +879,21 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:279
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:282
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
 msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
 msgid "nominal"
 msgstr "nominal"
 
@@ -1486,8 +1486,8 @@ msgid ""
 "How could we improve the model? One option is to go back a few stages and "
 "think again about the items / measures we are using and how they might be "
 "improved or changed. Another option is to make some *post-hoc* tweaks to the "
-"model to improve the fit. One way of doing this is to use “modification "
-"indices”, specified as an ``Additional Output`` option in jamovi (see :"
+"model to improve the fit. One way of doing this is to use ``Modification "
+"indices``, specified as an ``Additional Output`` option in jamovi (see :"
 "numref:`fig-cfa6`)."
 msgstr ""
 
@@ -1577,31 +1577,29 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:257
 msgid ""
-"Although we could have tweaked the CFA using modification indexes, there "
-"really were not any good reasons (that I could think of) for these suggested "
-"additional factor loadings or residual covariances to be included. However, "
-"sometimes there is a good reason for residuals to be allowed to co-vary (or "
-"correlate), and a good example of this is shown in the next section on "
-"**Multi-Trait Multi-Method (MTMM)** CFA. Before we do that, let’s cover how "
-"to report the results of a CFA."
+"Whereas there are sometimes good reasons for allowing residuals to covary "
+"(or correlate), there were no such reasons to “optimize” the CFA for the "
+"model that we defined by including additional factor loadings or residual "
+"covariances using modification indices. Nevertheless, let's discuss how to "
+"report the results of a CFA (with a more fitted model)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:264
 msgid "Reporting a CFA"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:268
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
 msgid ""
 "There is not a formal standard way to write up a CFA, and examples tend to "
 "vary by discipline and researcher. That said, there are some fairly standard "
 "pieces of information to include in your write-up:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:274
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
 msgid ""
 "A complete description of how the model was specified (e.g. the indicator "
 "variables for each latent factor, covariances between latent variables, and "
@@ -1609,35 +1607,35 @@ msgid ""
 "numref:`fig-cfa3` would be good to include."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:283
 msgid "Tests of assumptions and estimation method used."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
 msgid "Measures, and the criteria used, to judge model fit."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:293
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
 msgid ""
 "Any alterations made to the original model based on model fit or "
 "modification indices."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:296
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:294
 msgid ""
 "All parameter estimates (i.e., loadings, error variances, latent "
 "(co)variances) and their standard errors, probably in a table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:302
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:300
 msgid ""
 "As an aside, given that we had a pretty firm idea from our initial "
 "“putative” factors, we could just have gone straight to CFA and skipped the "

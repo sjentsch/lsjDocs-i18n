@@ -1,9 +1,3 @@
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -14,21 +8,20 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-01 16:33+0100\n"
-"PO-Revision-Date: 2022-12-02 12:16+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch15/de/>"
-"\n"
-"Language: de\n"
+"POT-Creation-Date: 2022-12-02 13:16+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
@@ -708,17 +701,17 @@ msgstr ""
 "Variablen als kontinuierliche Variablen |continuous| kodiert sind (technisch "
 "gesehen sind sie ordinal |ordinal|, aber für die EFA in jamovi spielt das "
 "meist keine Rolle; eine Ausnahme ist, wenn Sie sich entscheiden, gewichtete "
-"Faktorwerte zu berechnen, in diesem Fall werden kontinuierliche Variablen "
-"|continuous| benötigt). Um eine EFA in jamovi durchzuführen:"
+"Faktorwerte zu berechnen, in diesem Fall werden kontinuierliche Variablen |"
+"continuous| benötigt). Um eine EFA in jamovi durchzuführen:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:605
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:318
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
-msgstr "Kontinuierlich"
+msgstr "continuous"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:324
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -749,14 +742,14 @@ msgid ""
 "``Method`` and ``Number of Factors`` extracted is typically adjusted by the "
 "researcher during the analysis to find the best result, as described below)."
 msgstr ""
-"Setzen Sie die entsprechenden Optionen, einschließlich ``Assumption Checks``"
-", welche ``Rotation`` verwendet werden soll (unter ``Method``), wie viele "
-"Faktoren Sie extrahieren möchten (``Number of Factors``), und die Optionen "
-"unter ``Additional Output`` (siehe :numref:`fig-efa2` für vorgeschlagene "
-"Optionen für diese EFA-Beispielanalyse; beachten Sie bitte, dass, wie weiter "
-"unten beschrieben, ``Rotation`` und ``Number of Factors`` in der Regel "
-"während der Analyse durch den Forscher angepasst werden, um ein optimales "
-"Ergebnis zu erhalten)."
+"Setzen Sie die entsprechenden Optionen, einschließlich ``Assumption "
+"Checks``, welche ``Rotation`` verwendet werden soll (unter ``Method``), wie "
+"viele Faktoren Sie extrahieren möchten (``Number of Factors``), und die "
+"Optionen unter ``Additional Output`` (siehe :numref:`fig-efa2` für "
+"vorgeschlagene Optionen für diese EFA-Beispielanalyse; beachten Sie bitte, "
+"dass, wie weiter unten beschrieben, ``Rotation`` und ``Number of Factors`` "
+"in der Regel während der Analyse durch den Forscher angepasst werden, um ein "
+"optimales Ergebnis zu erhalten)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:267
 msgid "jamovi EFA analysis window"
@@ -802,9 +795,9 @@ msgid ""
 "One convention is to choose all components with Eigen values greater than 1."
 "\\ [#]_ This would give us four factors with our data (try it and see)."
 msgstr ""
-"Eine Konvention ist es, alle Komponenten mit Eigenwerten größer als 1,\\ [#]"
-"_ auszuwählen. Damit würden wir aus unseren Daten vier Faktoren extrahieren ("
-"probieren Sie es aus)."
+"Eine Konvention ist es, alle Komponenten mit Eigenwerten größer als 1,\\ "
+"[#]_ auszuwählen. Damit würden wir aus unseren Daten vier Faktoren "
+"extrahieren (probieren Sie es aus)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:293
 msgid ""
@@ -902,8 +895,8 @@ msgid ""
 "then give about the same solution as the oblique rotation)."
 msgstr ""
 "Wenn sich bei einer schiefwinkligen Rotation herausstellt, dass die Faktoren "
-"erheblich korreliert sind (positiv oder negativ; mit einem Absolutwert > 0,3)"
-", wie in :numref:`fig-efa5`, wo die Korrelation zwischen zwei der "
+"erheblich korreliert sind (positiv oder negativ; mit einem Absolutwert > "
+"0,3), wie in :numref:`fig-efa5`, wo die Korrelation zwischen zwei der "
 "extrahierten Faktoren 0,31 beträgt, dann würde dies unsere Intuition "
 "bestätigen, eine schräge Rotation vorzuziehen. Wenn die Faktoren tatsächlich "
 "korreliert sind, dann führt eine schräge Rotation zu einer besseren "
@@ -927,6 +920,7 @@ msgstr ""
 "Lösung mit fünf Faktoren in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -980,8 +974,8 @@ msgid ""
 msgstr ""
 ":numref:`fig-efa6` zeigt die Faktorladungen, d.h. wie die 25 verschiedenen "
 "Persönlichkeitsmerkmale auf jedem der fünf ausgewählten Faktoren laden. Wir "
-"haben Ladungen von weniger als 0,3 ausgeblendet (in den Optionen unter "
-":numref:`fig-efa2` eingestellt)."
+"haben Ladungen von weniger als 0,3 ausgeblendet (in den Optionen unter :"
+"numref:`fig-efa2` eingestellt)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:384
 msgid "Factor loadings for a five factor solution"
@@ -1034,6 +1028,7 @@ msgstr ""
 "negative Faktorladung, wie in :numref:`fig-efa6` gezeigt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1105,8 +1100,8 @@ msgid ""
 "e. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) using the jamovi transform "
 "variable command (see :numref:`fig-efa7`)."
 msgstr ""
-"Rekodieren Sie ``A1`` in ``A1R`` durch Umkehrung der Werte in der Variable ("
-"d.h. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) mit dem Befehl ``Transform "
+"Rekodieren Sie ``A1`` in ``A1R`` durch Umkehrung der Werte in der Variable "
+"(d.h. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) mit dem Befehl ``Transform "
 "variable`` in jamovi (siehe :numref:`fig-efa7`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:438
@@ -1141,8 +1136,8 @@ msgid ""
 "steps:"
 msgstr ""
 "Eine andere Möglichkeit besteht darin, einen optimal gewichteten Faktor-"
-"Score zu erstellen. Dazu können wir in ``R``-Syntax innerhalb des jamovi "
-"|Rj|_-Editor verwenden.\\ [#]_ Auch hier sind zwei Schritte notwendig:"
+"Score zu erstellen. Dazu können wir in ``R``-Syntax innerhalb des jamovi |Rj|"
+"_-Editor verwenden.\\ [#]_ Auch hier sind zwei Schritte notwendig:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:464
 msgid ""
@@ -1154,8 +1149,8 @@ msgstr ""
 "Benutzen Sie den Editor |Rj|_, um die EFA in ``R`` mit den gleichen "
 "Spezifikationen wie in jamovi auszuführen (d.h. fünf Faktoren und Oblimin-"
 "Rotation) und optimal gewichtete Faktor-Scores zu berechnen. Speichern Sie "
-"den neuen Datensatz mit den Faktorergebnissen in einer Datei (siehe :numref"
-":`fig-efa9`)."
+"den neuen Datensatz mit den Faktorergebnissen in einer Datei (siehe :numref:"
+"`fig-efa9`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:469
 msgid ""
@@ -1266,7 +1261,7 @@ msgstr ""
 "untersuchen möchten?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:279
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
@@ -1275,7 +1270,7 @@ msgstr ""
 "Stichprobengröße, Verfahren zur Stichprobenziehung)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:282
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
 msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
@@ -1284,9 +1279,9 @@ msgstr ""
 "kontinuierlich |continuous|) sowie Deskriptivstatistik für diese Variablen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:321
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
 msgid "nominal"
-msgstr "Nominal"
+msgstr "nominal"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:536
 msgid ""
@@ -1391,8 +1386,8 @@ msgstr ""
 "die Beziehung dieses Faktors zu allen anderen Faktoren ignoriert wird (d. h. "
 "eine Korrelation nullter Ordnung). Die Koeffizienten der Mustermatrix zeigen "
 "den (*unique*) Beitrag eines Faktors zu einer Variablen, während die "
-"Auswirkungen anderer Faktoren auf diese Variable kontrolliert werden ("
-"ähnlich wie standardisierte partielle Regressionskoeffizienten). Bei "
+"Auswirkungen anderer Faktoren auf diese Variable kontrolliert werden "
+"(ähnlich wie standardisierte partielle Regressionskoeffizienten). Bei "
 "orthogonaler Rotation sind die Struktur- und Musterkoeffizienten identisch."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:585
@@ -1495,8 +1490,8 @@ msgstr ""
 "als die PCA, insbesondere bei einer geringen Anzahl von Faktoren und "
 "Variablen. Wir verwenden denselben |bfi_sample|_\\ -Datensatz wie zuvor. Ein "
 "Großteil des Verfahrens ähnelt der EFA, so dass trotz einiger "
-"konzeptioneller Unterschiede die Schritte praktisch die gleichen sind,\\ [#]"
-"_ Bei hinreichend großen Stichproben und einer ausreichenden Anzahl von "
+"konzeptioneller Unterschiede die Schritte praktisch die gleichen sind,\\ "
+"[#]_ Bei hinreichend großen Stichproben und einer ausreichenden Anzahl von "
 "Faktoren und Variablen sollten die Ergebnisse von PCA und EFA ziemlich "
 "ähnlich sein."
 
@@ -1521,14 +1516,15 @@ msgstr ""
 "→ ``Principal Component Analysis`` (in der Registerkarte ``Analyses``), um "
 "das Optionsfeld zu öffnen, in dem Sie die Einstellungen für die PCA "
 "festlegen können (:numref:`fig-pca1`). Wählen Sie dann die 25 "
-"Persönlichkeitsfragen aus und übertragen Sie diese in das Feld ``Variables``"
-". Wählen Sie die entsprechenden Optionen, einschließlich ``Assumption "
-"Checks``, ``Rotation`` (unter ``Method``), die Anzahl der zu extrahierenden "
-"Faktoren (``Number of Factors``), sowie die gewünschten Optionen unter ``"
-"Additional Output`` (siehe :numref:`fig-pca1` für empfohlene Optionen für "
-"diese PCA; beachten Sie bitte außerdem, dass ``Rotation`` und ``Number of "
-"Factors`` normalerweise während der Analyse angepasst wird, um das beste "
-"Ergebnis zu finden; dies wird weiter unten beschrieben)."
+"Persönlichkeitsfragen aus und übertragen Sie diese in das Feld "
+"``Variables``. Wählen Sie die entsprechenden Optionen, einschließlich "
+"``Assumption Checks``, ``Rotation`` (unter ``Method``), die Anzahl der zu "
+"extrahierenden Faktoren (``Number of Factors``), sowie die gewünschten "
+"Optionen unter ``Additional Output`` (siehe :numref:`fig-pca1` für "
+"empfohlene Optionen für diese PCA; beachten Sie bitte außerdem, dass "
+"``Rotation`` und ``Number of Factors`` normalerweise während der Analyse "
+"angepasst wird, um das beste Ergebnis zu finden; dies wird weiter unten "
+"beschrieben)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:55
 msgid "jamovi PCA analysis window"
@@ -1698,6 +1694,7 @@ msgstr ""
 "Persönlichkeitsdaten in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
@@ -1778,6 +1775,7 @@ msgstr ""
 "aber nicht wesentlich auf Komponente 5 lädt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1788,13 +1786,14 @@ msgid ""
 "lower the relevance or contribution of the variable in the component model."
 msgstr ""
 "Wir können auch in :numref:`fig-pca1` die ``Uniqueness`` jeder Variablen "
-"sehen. Dieses Maß beschreibt den Anteil der Varianz, der „einzigartig“ "
-"(*unique*) für die Variable ist und nicht durch die Komponenten erklärt "
-"wird. So werden zum Beispiel 52 % der Varianz von ``A1`` nicht durch die "
-"Komponenten der Fünf-Komponenten-Lösung erklärt. Im Gegensatz dazu hat ``N1``"
-" eine relativ geringe Varianz, die nicht durch die Komponentenlösung erklärt "
-"wird (30%). Beachten Sie, dass die Relevanz oder der Beitrag der Variable im "
-"Komponentenmodell umso geringer ist, je größer ``Uniqueness`` ist."
+"sehen. Dieses Maß beschreibt den Anteil der Varianz, der "
+"„einzigartig“ (*unique*) für die Variable ist und nicht durch die "
+"Komponenten erklärt wird. So werden zum Beispiel 52 % der Varianz von ``A1`` "
+"nicht durch die Komponenten der Fünf-Komponenten-Lösung erklärt. Im "
+"Gegensatz dazu hat ``N1`` eine relativ geringe Varianz, die nicht durch die "
+"Komponentenlösung erklärt wird (30%). Beachten Sie, dass die Relevanz oder "
+"der Beitrag der Variable im Komponentenmodell umso geringer ist, je größer "
+"``Uniqueness`` ist."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:187
 msgid ""
@@ -1913,8 +1912,8 @@ msgid ""
 "**measurement error**."
 msgstr ""
 "Eine einfache konfirmatorische Faktorenanalyse (CFA) der "
-"Persönlichkeitselemente würde daher fünf latente Faktoren ergeben, wie in "
-":numref:`fig-cfa1` dargestellt, die jeweils durch fünf beobachtete Variablen "
+"Persönlichkeitselemente würde daher fünf latente Faktoren ergeben, wie in :"
+"numref:`fig-cfa1` dargestellt, die jeweils durch fünf beobachtete Variablen "
 "gemessen werden. Jede Variable ist ein Maß für einen zugrunde liegenden "
 "latenten Faktor. So wird zum Beispiel ``A1`` durch den zugrunde liegenden "
 "latenten Faktor Verträglichkeit vorhergesagt. Und da ``A1`` kein perfektes "
@@ -1974,19 +1973,20 @@ msgid ""
 "model and the observed data."
 msgstr ""
 "Ohne korrelierte Fehlerterme entspricht das Modell, das wir testen, um zu "
-"sehen, wie gut es mit unseren beobachteten Daten übereinstimmt, genau dem in "
-":numref:`fig-cfa1` angegeben. Es wird erwartet, dass nur die Parameter, die "
-"im Modell enthalten sind, in den Daten gefunden werden, daher werden bei CFA "
-"alle anderen möglichen Parameter (Koeffizienten) auf Null gesetzt. Wenn also "
-"diese anderen Parameter nicht Null sind (z. B. kann es in den beobachteten "
-"Daten eine beträchtliche Ladung von ``A1`` auf den latenten Faktor "
-"Extraversion geben, aber nicht in unserem Modell), dann würden wir eine "
-"schlechte Übereinstimmung zwischen unserem Modell und den beobachteten Daten "
-"feststellen."
+"sehen, wie gut es mit unseren beobachteten Daten übereinstimmt, genau dem "
+"in :numref:`fig-cfa1` angegeben. Es wird erwartet, dass nur die Parameter, "
+"die im Modell enthalten sind, in den Daten gefunden werden, daher werden bei "
+"CFA alle anderen möglichen Parameter (Koeffizienten) auf Null gesetzt. Wenn "
+"also diese anderen Parameter nicht Null sind (z. B. kann es in den "
+"beobachteten Daten eine beträchtliche Ladung von ``A1`` auf den latenten "
+"Faktor Extraversion geben, aber nicht in unserem Modell), dann würden wir "
+"eine schlechte Übereinstimmung zwischen unserem Modell und den beobachteten "
+"Daten feststellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:69
 msgid "Right, let’s take a look at how we set this CFA analysis up in jamovi."
-msgstr "Schauen wir uns nun an, wie wir diese CFA-Analyse in jamovi definieren."
+msgstr ""
+"Schauen wir uns nun an, wie wir diese CFA-Analyse in jamovi definieren."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:72
 msgid "CFA in jamovi"
@@ -2100,10 +2100,10 @@ msgid ""
 "set to zero."
 msgstr ""
 "Sobald wir die Analyse definiert haben, können wir uns der jamovi-"
-"Ergebnisausgabe zuwenden. Das Erste, was wir uns ansehen sollten, ist der **"
-"Model fit** (:numref:`fig-cfa3`), da dies uns sagt, wie gut unser Modell zu "
-"den beobachteten Daten passt. Beachten Sie, dass in unserem Modell nur die "
-"vorgegebenen Kovarianzen geschätzt werden, einschließlich der "
+"Ergebnisausgabe zuwenden. Das Erste, was wir uns ansehen sollten, ist der "
+"**Model fit** (:numref:`fig-cfa3`), da dies uns sagt, wie gut unser Modell "
+"zu den beobachteten Daten passt. Beachten Sie, dass in unserem Modell nur "
+"die vorgegebenen Kovarianzen geschätzt werden, einschließlich der "
 "standardmäßigen Faktor-Korrelationen. Alles andere wird auf Null gesetzt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
@@ -2133,6 +2133,7 @@ msgstr ""
 "Daten fast immer ein großer und signifikanter (p < 0,05) χ²-Wert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
@@ -2152,6 +2153,7 @@ msgstr ""
 "< 0,05."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
@@ -2205,7 +2207,8 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:175
 msgid "Table with ``Factor Loadings`` for the specified CFA model in jamovi"
-msgstr "Tabelle mit ``Factor Loadings`` für das definierte CFA-Modell in jamovi"
+msgstr ""
+"Tabelle mit ``Factor Loadings`` für das definierte CFA-Modell in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:183
 msgid "Table with ``Factor Covariances`` for the specified CFA model in jamovi"
@@ -2218,8 +2221,8 @@ msgid ""
 "How could we improve the model? One option is to go back a few stages and "
 "think again about the items / measures we are using and how they might be "
 "improved or changed. Another option is to make some *post-hoc* tweaks to the "
-"model to improve the fit. One way of doing this is to use “modification "
-"indices”, specified as an ``Additional Output`` option in jamovi (see :"
+"model to improve the fit. One way of doing this is to use ``Modification "
+"indices``, specified as an ``Additional Output`` option in jamovi (see :"
 "numref:`fig-cfa6`)."
 msgstr ""
 "Wie könnten wir das Modell verbessern? Eine Möglichkeit besteht darin, ein "
@@ -2228,8 +2231,8 @@ msgstr ""
 "könnten. Eine andere Möglichkeit besteht darin, einige *post-hoc* "
 "Anpassungen am Modell vorzunehmen, um die Passung zu verbessern. Eine "
 "Möglichkeit, dies zu tun, ist die Verwendung von ``Modification indices``, "
-"die als ``Additional Output`` Option in jamovi angegeben werden (siehe "
-":numref:`fig-cfa6`)."
+"die als ``Additional Output`` Option in jamovi angegeben werden (siehe :"
+"numref:`fig-cfa6`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid "Table with ``Factor Loadings Modification Indices``"
@@ -2256,8 +2259,8 @@ msgid ""
 msgstr ""
 "Was wir suchen, ist der höchste Wert des Modifikationsindex (MI). Wir würden "
 "dann beurteilen, ob es sinnvoll ist, diesen zusätzlichen Term in das Modell "
-"aufzunehmen, indem wir eine *post-hoc* Rationalisierung vornehmen. In :numref"
-":`fig-cfa6` sehen wir zum Beispiel, dass der größte MI für die "
+"aufzunehmen, indem wir eine *post-hoc* Rationalisierung vornehmen. In :"
+"numref:`fig-cfa6` sehen wir zum Beispiel, dass der größte MI für die "
 "Faktorladungen, die nicht bereits im Modell enthalten sind, ein Wert von "
 "28,786 für die Ladung von ``N4`` (\"Fühle mich oft blau\") auf den latenten "
 "Faktor Extraversion ist. Dies deutet darauf hin, dass sich der χ²-Wert um "
@@ -2283,8 +2286,8 @@ msgstr ""
 "können ein überzeugendes Argument dafür vorbringen, dass „oft traurig sein“ "
 "sowohl Neurotizismus als auch Extraversion misst). Aber lassen Sie uns der "
 "Argumentation halber so tun, als ob es sinnvoll wäre, und diesen Pfad in das "
-"Modell aufnehmen. Gehen Sie zurück zum CFA-Analysefenster (siehe :numref"
-":`fig-cfa2`) und fügen Sie ``N4`` in den Faktor Extraversion ein. Die "
+"Modell aufnehmen. Gehen Sie zurück zum CFA-Analysefenster (siehe :numref:"
+"`fig-cfa2`) und fügen Sie ``N4`` in den Faktor Extraversion ein. Die "
 "Ergebnisse der CFA ändern sich nun (nicht gezeigt); der χ²-Wert ist auf etwa "
 "709 gesunken (ein Rückgang um etwa 30, was in etwa der Größe des MI "
 "entspricht) und die anderen Anpassungsindizes haben sich ebenfalls "
@@ -2366,13 +2369,11 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:257
 msgid ""
-"Although we could have tweaked the CFA using modification indexes, there "
-"really were not any good reasons (that I could think of) for these suggested "
-"additional factor loadings or residual covariances to be included. However, "
-"sometimes there is a good reason for residuals to be allowed to co-vary (or "
-"correlate), and a good example of this is shown in the next section on "
-"**Multi-Trait Multi-Method (MTMM)** CFA. Before we do that, let’s cover how "
-"to report the results of a CFA."
+"Whereas there are sometimes good reasons for allowing residuals to covary "
+"(or correlate), there were no such reasons to “optimize” the CFA for the "
+"model that we defined by including additional factor loadings or residual "
+"covariances using modification indices. Nevertheless, let's discuss how to "
+"report the results of a CFA (with a more fitted model)."
 msgstr ""
 "Während es manchmal gute Gründe dafür gibt, dass Residuen kovariieren (oder "
 "korrelieren) dürfen, gab es keine solche vertretbaren Gründe die CFA für das "
@@ -2381,11 +2382,11 @@ msgstr ""
 "„optimieren“. Lassen Sie uns trotzdem besprechen, wie man die Ergebnisse "
 "einer CFA (bei einem besser angepassten Modell) berichten würde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:264
 msgid "Reporting a CFA"
 msgstr "Berichten einer CFA"
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:268
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
 msgid ""
 "There is not a formal standard way to write up a CFA, and examples tend to "
 "vary by discipline and researcher. That said, there are some fairly standard "
@@ -2395,12 +2396,12 @@ msgstr ""
 "Beispiele variieren je nach Disziplin und Forscher. Dennoch gibt es einige "
 "Standardinformationen, die Sie in Ihren Bericht aufnehmen sollten:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
 msgstr ""
 "Eine theoretische und empirische Begründung für das hypothetische Modell."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:274
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
 msgid ""
 "A complete description of how the model was specified (e.g. the indicator "
 "variables for each latent factor, covariances between latent variables, and "
@@ -2412,26 +2413,26 @@ msgstr ""
 "Variablen und alle Korrelationen zwischen Fehlertermen). Ein Pfaddiagramm, "
 "wie das in :numref:`fig-cfa3`, sollte ebenfalls enthalten sein."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:283
 msgid "Tests of assumptions and estimation method used."
 msgstr ""
 "Welche Voraussetzungen geprüft und welche Schätzmethode verwendet wurde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
 msgstr "Eine Beschreibung von fehlenden Werten und wie diese behandelt wurden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
 msgstr ""
 "Die für die Anpassung des Modells verwendete Statistiksoftware (inkl. der "
 "Versionsnummer)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
 msgid "Measures, and the criteria used, to judge model fit."
 msgstr "Maße und Kriterien zur Beurteilung der Modellgüte."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:293
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
 msgid ""
 "Any alterations made to the original model based on model fit or "
 "modification indices."
@@ -2439,7 +2440,7 @@ msgstr ""
 "Alle Änderungen, die am ursprünglichen Modell aufgrund von Modellanpassungs- "
 "oder Änderungsindizes vorgenommen wurden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:296
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:294
 msgid ""
 "All parameter estimates (i.e., loadings, error variances, latent "
 "(co)variances) and their standard errors, probably in a table."
@@ -2447,7 +2448,7 @@ msgstr ""
 "Alle Parameterschätzungen (d.h. Faktorladungen, Fehlervarianzen, latente "
 "(Ko-)Varianzen) sowie ihre Standardfehler, am besten in einer Tabelle."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:302
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:300
 msgid ""
 "As an aside, given that we had a pretty firm idea from our initial "
 "“putative” factors, we could just have gone straight to CFA and skipped the "
@@ -2464,9 +2465,9 @@ msgstr ""
 "unserer Faktorstruktur) hatten, hätten wir auch direkt zur CFA übergehen und "
 "den EFA-Schritt überspringen können. Ob Sie die EFA verwenden und dann zur "
 "CFA übergehen oder ob Sie direkt zur CFA übergehen, ist eine Frage der "
-"Einschätzung und des Vertrauens, das Sie in Ihr ursprüngliches Modell haben ("
-"in Bezug auf die Anzahl der Faktoren und Variablen). In den ersten Schritten "
-"während der Entwicklung von Skalen oder der Identifizierung der "
+"Einschätzung und des Vertrauens, das Sie in Ihr ursprüngliches Modell haben "
+"(in Bezug auf die Anzahl der Faktoren und Variablen). In den ersten "
+"Schritten während der Entwicklung von Skalen oder der Identifizierung der "
 "zugrundeliegenden latenten Konstrukte neigen Forscher dazu, die EFA zu "
 "verwenden. Später, wenn sie sich einer endgültigen Skala nähern oder wenn "
 "sie eine etablierte Skala bei einer neuen Stichprobe überprüfen wollen, ist "
@@ -2516,6 +2517,7 @@ msgstr ""
 "Konstrukts sind."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s *α** (alpha; `Cronbach, 1951 <../Other/References."
@@ -2550,6 +2552,7 @@ msgstr ""
 "*α* von 0,80 enthält etwa 20 % Ungenauigkeit oder Fehler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
@@ -2617,6 +2620,7 @@ msgstr ""
 "ist *ω* vorzuziehen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for *α* or *ω* is provided, suggesting a “good enough” "
 "value. This might be something like *α*s of 0.70 or 0.80 representing "
@@ -2709,6 +2713,7 @@ msgstr ""
 "Reliabilitätsanalyse in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
