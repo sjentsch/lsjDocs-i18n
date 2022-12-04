@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-03 15:48+0000\n"
+"PO-Revision-Date: 2022-12-04 19:48+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -1918,12 +1918,13 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
 msgid "``ANOVA`` results table for ``mood gain`` by ``drug`` administered"
-msgstr ""
+msgstr "``ANOVA`` Ergebnistabelle für ``mood gain`` nach verabrechter ``drug``"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
 msgid ""
 "jamovi ``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
+"jamovi ``ANOVA`` Ergebnistabelle für ``mood.gain`` nach verabrechter ``drug``"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:35
 msgid ""
