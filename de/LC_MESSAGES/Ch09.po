@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-02 22:27+0000\n"
+"PO-Revision-Date: 2022-12-04 17:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/>"
 "\n"
@@ -624,6 +624,21 @@ msgid ""
 "consequence the goal behind statistical hypothesis testing is not to "
 "*eliminate* errors, but to *minimise* them."
 msgstr ""
+"Bevor ich auf die Einzelheiten der Konstruktion eines statistischen Tests "
+"eingehe, ist es nützlich, die Philosophie dahinter zu verstehen. Ich habe "
+"dies bereits angedeutet, als ich auf die Ähnlichkeit zwischen einem "
+"Nullhypothesen-Signifikanztest und einem Strafprozess hinwies, aber ich "
+"sollte mich jetzt ausdrücklich dazu äußern. Im Idealfall möchten wir unseren "
+"Test so konstruieren, dass wir keine Fehler machen. Da die Welt chaotisch "
+"ist, ist das leider nie möglich. Manchmal hat man einfach wirklich Pech. "
+"Nehmen wir zum Beispiel an, Sie werfen 10 Mal hintereinander eine Münze und "
+"alle 10 Mal kommt Kopf heraus. Das scheint ein sehr starkes Indiz dafür zu "
+"sein, dass die Münze „gezinkt“ ist, aber natürlich besteht eine Chance von 1 "
+"zu 1024, dass dies auch dann passiert, wenn die Münze nicht gezinkt ist. Mit "
+"anderen Worten: Im wirklichen Leben müssen wir *immer* akzeptieren, dass die "
+"Möglichkeit besteht, dass wir einen Fehler gemacht haben. Folglich ist das "
+"Ziel der statistischen Hypothesentests nicht, Fehler zu *eliminieren*, "
+"sondern sie zu *minimieren*."
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:21
 msgid ""
@@ -634,39 +649,45 @@ msgid ""
 "after we run the test and make our choice one of four things might have "
 "happened:"
 msgstr ""
+"An dieser Stelle müssen wir etwas genauer sagen, was wir unter „Fehlern“ "
+"verstehen. Lassen Sie uns zunächst das Offensichtliche feststellen. Es ist "
+"entweder der Fall, dass die Nullhypothese wahr ist oder dass sie falsch ist, "
+"und unser Test behält entweder die Nullhypothese bei oder lehnt sie ab.\\ [#]"
+"_ Wie die folgende Tabelle zeigt, könnte nach dem Ausführen des Tests und "
+"dem Treffen unserer Wahl eines von vier Dingen passiert sein:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:29
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:69
 msgid "retain H\\ :sub:`0`"
-msgstr ""
+msgstr "behalte die H\\ :sub:`0`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:29
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:69
 msgid "reject H\\ :sub:`0`"
-msgstr ""
+msgstr "lehne die H\\ :sub:`0` ab"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:71
 msgid "**H\\ :sub:`0` is true**"
-msgstr ""
+msgstr "**die H\\ :sub:`0` ist korrekt**"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 msgid "correct decision"
-msgstr ""
+msgstr "richtige Entscheidung"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 msgid "error (type I)"
-msgstr ""
+msgstr "Fehler (Typ I)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:74
 msgid "**H\\ :sub:`0` is false**"
-msgstr ""
+msgstr "**die H\\ :sub:`0` ist inkorrekt**"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 msgid "error (type II)"
-msgstr ""
+msgstr "Fehler (Typ II)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:36
 msgid ""
@@ -675,6 +696,11 @@ msgid ""
 "I error**. On the other hand, if we retain the null hypothesis when it is in "
 "fact false then we have made a **type II error**."
 msgstr ""
+"Infolgedessen gibt es hier *zwei* verschiedene Arten von Fehlern. Wenn wir "
+"eine Nullhypothese ablehnen, die eigentlich korrekt ist, haben wir einen **"
+"Fehler vom Typ I** gemacht. Wenn wir hingegen die Nullhypothese beibehalten, "
+"obwohl sie in Wirklichkeit inkorrekt ist, haben wir einen **Fehler vom Typ "
+"II** gemacht."
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:41
 msgid ""
@@ -695,6 +721,25 @@ msgid ""
 "central to the whole set-up, a hypothesis test is said to have significance "
 "level *α* if the type I error rate is no larger than *α*."
 msgstr ""
+"Erinnern Sie sich noch daran, wie ich sagte, dass statistische Tests wie ein "
+"Strafprozess sind? Das habe ich ernst gemeint. In einem Strafprozess muss "
+"man „ohne begründeten Zweifel“ nachweisen, dass der Angeklagte die Straftat "
+"begangen hat. Alle Beweisregeln sollen (zumindest theoretisch) "
+"sicherstellen, dass es (fast) keine Möglichkeit gibt, einen unschuldigen "
+"Angeklagten zu Unrecht zu verurteilen. Das Verfahren soll die Rechte des "
+"Angeklagten schützen, denn, wie der englische Jurist William Blackstone "
+"sagte, ist es „besser, dass zehn Schuldige entkommen, als dass ein "
+"Unschuldiger leidet“. Mit anderen Worten: In einem Strafprozess werden die "
+"beiden Arten von Fehlern nicht gleich behandelt. Einen Unschuldigen zu "
+"bestrafen, wird als viel schlimmer angesehen, als einen Schuldigen "
+"freizulassen. Bei einem statistischen Test verhält es sich ziemlich genau "
+"so. Der wichtigste Grundsatz bei der Konzeption eines Tests ist die "
+"*Kontrolle* der Wahrscheinlichkeit eines Fehlers vom Typ I, um sie unter "
+"einer bestimmten Wahrscheinlichkeit zu halten. Diese Wahrscheinlichkeit, die "
+"mit *α* bezeichnet wird, nennt man das **Signifikanzniveau** des Tests. Und "
+"ich sage es noch einmal, weil es so zentral für den ganzen Aufbau ist: Ein "
+"Hypothesentest hat ein Signifikanzniveau *α*, wenn die Fehlerrate vom Typ I "
+"nicht größer ist als *α*."
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:60
 msgid ""
@@ -705,6 +750,13 @@ msgid ""
 "*β*. To help keep this straight, here’s the same table again but with the "
 "relevant numbers added:"
 msgstr ""
+"Und was ist mit der Fehlerrate vom Typ II? Auch diese möchten wir unter "
+"Kontrolle halten, und wir bezeichnen diese Wahrscheinlichkeit mit *β*. Es "
+"ist jedoch viel gebräuchlicher, sich auf die **Teststärke** (*power*) zu "
+"beziehen, d. h. die Wahrscheinlichkeit, mit der wir eine Nullhypothese "
+"zurückweisen, wenn sie wirklich falsch ist. Diese beträgt 1 - *β*. Um dies "
+"zu verdeutlichen, ist hier noch einmal dieselbe Tabelle, aber mit den "
+"entsprechenden Zahlen:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
@@ -714,17 +766,17 @@ msgstr "1 - *α*"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(probability of correct retention)"
-msgstr ""
+msgstr "(Wahrscheinlichkeit der richtigen Beibehaltung)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "*α*"
-msgstr ""
+msgstr "*α*"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
-msgstr ""
+msgstr "(Fehlerquote vom Typ I)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
@@ -734,7 +786,7 @@ msgstr "*β*"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
-msgstr ""
+msgstr "(Fehlerquote vom Typ II)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
@@ -744,7 +796,7 @@ msgstr "1 - *β*"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(power of the test)"
-msgstr ""
+msgstr "(Stärke des Tests)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:78
 msgid ""
@@ -762,6 +814,22 @@ msgid ""
 "makes sense, and situations where I think it doesn’t, but that’s neither "
 "here nor there. It’s how the tests are built."
 msgstr ""
+"Ein „aussagekräftiger“ (*powerful*) Hypothesentest ist einer, der einen "
+"kleinen Wert von *β* hat, während *α* auf einem (kleinen) gewünschten Niveau "
+"gehalten wird. Konventionell verwenden die Wissenschaftler drei verschiedene "
+"Werte für *α*: *.05*, *.01* und *.001*. Beachten Sie die Asymmetrie hier; "
+"die Tests sind so konzipiert, dass *sicherstellt*, dass das *α*-Niveau klein "
+"gehalten wird. Es gibt aber keine entsprechende Garantie für *β*. Wir "
+"*möchten* natürlich, dass die Fehlerrate vom Typ II klein ist, und wir "
+"versuchen, Tests zu entwerfen, die sie klein halten. Aber dies ist in der "
+"Regel zweitrangig gegenüber der überwältigenden Notwendigkeit, die "
+"Fehlerrate vom Typ I zu kontrollieren. Wäre Blackstone Statistiker, hätte er "
+"vielleicht gesagt: „Es ist besser, 10 falsche Nullhypothesen "
+"aufrechtzuerhalten, als eine einzige richtige zu verwerfen“. Um ehrlich zu "
+"sein, weiß ich nicht, ob ich mit dieser Philosophie einverstanden bin. Es "
+"gibt Situationen, in denen sie meiner Meinung nach sinnvoll ist, und "
+"Situationen, in denen sie es nicht ist, aber das ist weder das eine noch das "
+"andere. Es geht darum, wie die Tests aufgebaut sind."
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:97
 msgid ""
@@ -785,10 +853,31 @@ msgid ""
 "exists so that you’re not caught unawares by it when writing up your own "
 "results."
 msgstr ""
+"Eine Anmerkung zu der Sprache, die Sie verwenden, um über Hypothesentests zu "
+"sprechen. Zunächst einmal sollten Sie das Wort „beweisen“ unbedingt "
+"vermeiden. Ein statistischer Test *beweist nicht*, dass eine Hypothese "
+"korrekt oder inkorrekt ist. Ein Beweis setzt Gewissheit voraus, und, wie man "
+"so schön sagt, bedeutet Statistik, dass man nie sagen muss, dass man sicher "
+"ist. In diesem Punkt würde fast jeder zustimmen. Darüber hinaus gibt es "
+"jedoch eine ganze Menge Verwirrung. Einige Leute argumentieren, dass man nur "
+"Aussagen wie „die Nullhypothese zurückweisen“,„die Nullhypothese nicht "
+"zurückweisen“ oder „die Nullhypothese beibehalten“ machen darf. Nach dieser "
+"Denkweise darf man nicht sagen: „akzeptiere die Alternativhypothese“ oder „"
+"akzeptiere die Nullhypothese“. Ich persönlich denke, dass dies zu stark ist. "
+"Meiner Meinung nach wird hier die Prüfung von Nullhypothesen mit Karl "
+"Poppers falsifikatorischer Sichtweise des wissenschaftlichen Prozesses "
+"vermengt. Es gibt zwar Ähnlichkeiten zwischen Falsifikationismus und "
+"Nullhypothesen-Signifikanztests, aber sie sind nicht gleichwertig. Während "
+"ich es persönlich für in Ordnung halte, über die Akzeptanz einer Hypothese "
+"zu sprechen (unter der Voraussetzung, dass „Akzeptanz“ nicht unbedingt "
+"bedeutet, dass sie „korrekt“ ist, insbesondere im Fall der Nullhypothese), "
+"werden viele Leute anderer Meinung sein. Außerdem sollten Sie wissen, dass "
+"es diese besondere Eigenart gibt, damit Sie nicht unvorbereitet davon "
+"überrascht werden, wenn Sie Ihre eigenen Ergebnisse aufschreiben."
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:4
 msgid "Test statistics and sampling distributions"
-msgstr ""
+msgstr "Teststatistiken und Stichprobenverteilungen"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:6
 msgid ""
@@ -817,6 +906,32 @@ msgid ""
 "name for this thing that we calculate to guide our choices is a **test "
 "statistic**."
 msgstr ""
+"An diesem Punkt müssen wir genauer darüber sprechen, wie ein Hypothesentest "
+"aufgebaut ist. Kehren wir zu diesem Zweck zum ESP-Beispiel zurück. Lassen "
+"wir die tatsächlichen Daten, die wir erhalten haben, für den Moment beiseite "
+"und denken wir über die Struktur des Experiments nach. Unabhängig von den "
+"tatsächlichen Zahlen lautet die *Form* der Daten, dass *X* von *N* Personen "
+"die Farbe der verdeckten Karte richtig erkannt haben. Nehmen wir weiter an, "
+"dass die Nullhypothese wirklich wahr ist, dass ESP nicht existiert und die "
+"wahre Wahrscheinlichkeit, dass jemand die richtige Farbe wählt, genau *θ* = "
+"0,5 ist. Wie würden wir *erwarten*, dass die Daten aussehen? Nun, natürlich "
+"würden wir erwarten, dass der Anteil von Personen, welche die richtige "
+"Antwort geben, ziemlich nahe bei 50 % liegt. Oder, um es mathematisch "
+"auszudrücken, würden wir sagen, dass *X* / *N* ungefähr \\0,5 ist. Natürlich "
+"würden wir nicht erwarten, dass dieser Anteil *genau* \\0,5 beträgt. Wenn "
+"wir zum Beispiel *N* = 100 Personen getestet hätten und *X* = 53 von ihnen "
+"die Frage richtig beantwortet hätten, wären wir wahrscheinlich gezwungen "
+"zuzugeben, dass die Daten mit der Nullhypothese übereinstimmen. Wenn "
+"hingegen *X* = 99 unserer Teilnehmer die Frage richtig beantwortet haben, "
+"können wir ziemlich sicher sein, dass die Nullhypothese falsch ist. Und wenn "
+"nur *X* = 3 Personen die Frage richtig beantwortet haben, können wir "
+"ebenfalls davon überzeugt sein, dass die Nullhypothese falsch ist. "
+"Betrachten wir das Ganze ein wenig technischer. Wir haben eine Größe *X*, "
+"die wir anhand unserer Daten berechnen können. Nachdem wir uns den Wert von "
+"*X* angesehen haben, treffen wir eine Entscheidung darüber, ob wir glauben, "
+"dass die Nullhypothese korrekt ist, oder ob wir die Nullhypothese zugunsten "
+"der Alternativhypothese verwerfen. Der Name für das, was wir berechnen, um "
+"unsere Entscheidungen zu treffen, ist **Teststatistik**."
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:33
 msgid ""
@@ -831,10 +946,22 @@ msgid ""
 "And, therefore, we can use this distribution as a tool for assessing how "
 "closely the null hypothesis agrees with our data."
 msgstr ""
+"Nachdem wir eine Teststatistik ausgewählt haben, besteht der nächste Schritt "
+"darin, genau anzugeben, welche Werte der Teststatistik dazu führen würden, "
+"dass wir die Nullhypothese ablehnen, und welche Werte dazu führen würden, "
+"dass wir sie beibehalten müssen. Dazu müssen wir bestimmen, wie die **"
+"Stichprobenverteilung der Teststatistik** aussehen würde, wenn die "
+"Nullhypothese tatsächlich wahr wäre (über Stichprobenverteilungen haben wir "
+"bereits in :doc:`Stichprobenverteilung des Mittelwertes <../Ch08/"
+"Ch08_Estimation_3>` gesprochen). Warum brauchen wir das? Weil diese "
+"Verteilung uns genau sagt, welche Werte von *X* unsere Nullhypothese "
+"erwarten lassen würde. Und deshalb können wir diese Verteilung als "
+"Hilfsmittel verwenden, um zu beurteilen, wie gut die Nullhypothese mit "
+"unseren Daten übereinstimmt."
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
 msgid "Sampling distribution when the null hypothesis is true"
-msgstr ""
+msgstr "Stichprobenverteilung, wenn die Nullhypothese wahr ist"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
 msgid ""
@@ -845,6 +972,13 @@ msgid ""
 "likely value is 50 (out of 100) correct responses. Most of the probability "
 "mass lies between 40 and 60."
 msgstr ""
+"Die Stichprobenverteilung für unsere Teststatistik X, wenn die Nullhypothese "
+"wahr ist. Für unser ESP-Szenario ist dies eine Binomialverteilung. Da die "
+"Nullhypothese besagt, dass die Wahrscheinlichkeit einer richtigen Antwort θ "
+"= 0,5 ist, überrascht es uns kaum, dass der wahrscheinlichste Wert in "
+"unserer Stichprobenverteilung bei 50 (von 100) richtigen Antworten liegt. "
+"Der Anteil der Antworten mit der höchsten Wahrscheinlichkeitsdichte liegt "
+"zwischen 40 und 60."
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:59
 msgid ""
@@ -863,10 +997,26 @@ msgid ""
 "section, we would say that the null hypothesis predicts that *X* is "
 "binomially distributed, which is written:"
 msgstr ""
+"Wie bestimmen wir eigentlich die Stichprobenverteilung unserer "
+"Teststatistik? Bei vielen Hypothesentests ist dieser Schritt ziemlich "
+"kompliziert, und später im Buch werden Sie sehen, dass ich bei einigen Tests "
+"etwas ausweichend reagiere (einige verstehe ich nicht einmal selbst). "
+"Manchmal ist es aber auch ganz einfach. Und zum Glück für uns bietet unser "
+"ESP-Beispiel einen der einfachsten Fälle. Unser Populationsparameter *θ* ist "
+"einfach die Gesamtwahrscheinlichkeit, dass die Leute richtig antworten, wenn "
+"ihnen die Frage nach der verdeckten Karte gestellt wird. Unsere "
+"Teststatistik *X* ist die *Anzahl* der Personen, die bei einer "
+"Stichprobengröße von *N* korrekt geantwortet haben. Wir haben eine "
+"Verteilung wie diese schon einmal gesehen, im Abschnitt :doc:`"
+"Binomialverteilung <../Ch07/Ch07_Probability_4>`, und das ist genau das, was "
+"die Binomialverteilung beschreibt! Um also die Notation und Terminologie zu "
+"verwenden, die ich in diesem Abschnitt eingeführt habe, würden wir sagen, "
+"dass die Nullhypothese vorhersagt, dass *X* binomialverteilt ist, was wie "
+"folgt geschrieben wird:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:73
 msgid "*X* ~ Binomial(θ, N)"
-msgstr ""
+msgstr "*X* ~ Binomial(θ, N)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:75
 msgid ""
@@ -877,10 +1027,16 @@ msgid ""
 "says that we’re almost certain to see somewhere between 40 and 60 correct "
 "responses."
 msgstr ""
+"Da die Nullhypothese besagt, dass *θ* = 0,5 und unser Experiment *N* = 100 "
+"Personen hat, haben wir die Stichprobenverteilung, die wir brauchen. Diese "
+"Stichprobenverteilung ist in :numref:`fig-samplingDist` eingezeichnet. Die "
+"Nullhypothese besagt, dass *X* = 50 das wahrscheinlichste Ergebnis ist, und "
+"sie besagt, dass wir mit ziemlicher Sicherheit zwischen 40 und 60 richtige "
+"Antworten erhalten werden."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:4
 msgid "Making decisions"
-msgstr ""
+msgstr "Entscheidungen treffen"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:6
 msgid ""
@@ -894,10 +1050,19 @@ msgid ""
 "should I make? Should I choose to believe the null hypothesis or the "
 "alternative hypothesis?"
 msgstr ""
+"Damit sind wir so gut wie fertig: Wir haben eine Teststatistik konstruiert "
+"(*X*) und wir haben eine Teststatistik so gewählt, dass wir ziemlich sicher "
+"sein können, dass wir die Nullhypothese beibehalten sollten, wenn *X* nahe "
+"an *N* / 2 liegt. Ist dies nicht der Fall, können wir die Nullhypothese "
+"zurückweisen. Offen bleibt die Frage, welche Werte der Teststatistik sollten "
+"wir genau der Nullhypothese zuordnen und welche Werte der "
+"Alternativhypothese? In meiner ESP-Studie habe ich zum Beispiel einen Wert "
+"von *X* = 62 beobachtet. Welche Entscheidung sollte ich treffen? Soll ich "
+"mich für die Nullhypothese oder die Alternativhypothese entscheiden?"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:18
 msgid "Critical regions and critical values"
-msgstr ""
+msgstr "Kritische Regionen und kritische Werte"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:20
 msgid ""
@@ -908,23 +1073,35 @@ msgid ""
 "rejection region). How do we find this critical region? Well, let’s consider "
 "what we know:"
 msgstr ""
+"Um diese Frage zu beantworten, müssen wir das Konzept der **kritischen "
+"Region** für die Teststatistik *X* einführen. Die kritische Region des Tests "
+"entspricht den Werten von *X*, die zur Ablehnung der Nullhypothese führen "
+"würden (daher wird der kritische Bereich manchmal auch als Ablehnungsbereich "
+"bezeichnet). Wie finden wir diesen kritischen Bereich? Nun, betrachten wir, "
+"was wir wissen:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:27
 msgid ""
 "*X* should be very big or very small in order to reject the null hypothesis."
 msgstr ""
+"*X* sollte entweder sehr groß oder sehr klein sein, um die Nullhypothese zu "
+"verwerfen."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:30
 msgid ""
 "If the null hypothesis is true, the sampling distribution of *X* is "
 "Binomial(0.5, N)."
 msgstr ""
+"Wenn die Nullhypothese wahr ist, ist die Stichprobenverteilung von *X* "
+"Binomial(0,5, N)."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:33
 msgid ""
 "If *α* = 0.05, the critical region must cover 5% of this sampling "
 "distribution."
 msgstr ""
+"Wenn *α* = 0,05 ist, muss die kritische Region 5 % dieser (Binomial-)"
+"Stichprobenverteilung abdecken."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:36
 msgid ""
