@@ -1592,7 +1592,7 @@ msgstr "Ändern der erwarteten Proportionen im χ²-Anpassungstest in jamovi"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:515
 msgid "How to report the results of the test"
-msgstr ""
+msgstr "Wie berichten Sie diese Testergebnisse?"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:517
 msgid ""
