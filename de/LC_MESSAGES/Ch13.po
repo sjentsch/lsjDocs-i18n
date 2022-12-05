@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-05 11:48+0000\n"
+"PO-Revision-Date: 2022-12-05 12:47+0000\n"
 "Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -2018,6 +2018,14 @@ msgid ""
 "R² (R-squared) value <../Ch12/Ch12_Regression_06>`, and has an equivalent "
 "interpretation."
 msgstr ""
+"Die Interpretation von η² ist ebenso einfach. η² bezieht sich auf den Anteil "
+"der Variabilität der Ergebnisvariable (``mood.gain``), der durch den "
+"Prädiktor (``drug``) erklärt werden kann. Ein Wert von η² = 0 bedeutet, dass "
+"es überhaupt keine Beziehung zwischen den beiden Variablen gibt, während ein "
+"Wert von η = 1 bedeutet, dass die Beziehung perfekt ist. Besser noch, der η²-"
+"Wert ist sehr eng mit *R²* verwandt, wie bereits in Abschnitt :doc:`The R² "
+"(R-squared) value <../Ch12/Ch12_Regression_06>`besprochen, und hat eine "
+"äquivalente Interpretation."
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:30
 msgid ""
@@ -2029,10 +2037,18 @@ msgid ""
 "Usefully, there is also an option in jamovi to specify omega-squared (ω²), "
 "which is less biased, alongside eta-squared."
 msgstr ""
+"Obwohl in vielen Statistikbüchern η² als Standardmaß für die Effektstärke in "
+"der ANOVA empfohlen wird, gibt es einen interessanten Blogbeitrag ` "
+"<https://daniellakens.blogspot.com.au/2015/06/why-you-should-use-omega-"
+"squared.html>` __ von Daniel Lakens, in dem er vorschlägt, dass Eta-Quadrat "
+"vielleicht nicht das beste Maß für die Effektgröße bei der Analyse von "
+"realen Daten ist, da es ein verzerrter Schätzer sein kann. Nützlicherweise "
+"gibt es in jamovi neben Eta-Quadrat auch eine Option zur Angabe von Omega-"
+"Quadrat (ω²), das weniger verzerrt ist."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:4
 msgid "Multiple comparisons and post-hoc tests"
-msgstr ""
+msgstr "Mehrfachvergleiche und Post-hoc-Tests"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:6
 msgid ""
@@ -2044,24 +2060,37 @@ msgid ""
 "hypothesis is actually claiming *three* different things all at once here. "
 "Specifically, it claims that:"
 msgstr ""
+"Jedes Mal, wenn Sie eine ANOVA mit mehr als zwei Gruppen durchführen und "
+"einen signifikanten Effekt feststellen, werden Sie sich wahrscheinlich "
+"zuerst fragen, welche Gruppen sich denn nun tatsächlich voneinander "
+"unterscheiden. In unserem Beispiel mit den Medikamenten war unsere "
+"Nullhypothese, dass alle drei Medikamente (Placebo, Anxifree und Joyzepam) "
+"genau die gleiche Wirkung auf die Stimmung haben. Aber wenn Sie darüber "
+"nachdenken, behauptet die Nullhypothese eigentlich *drei* verschiedene Dinge "
+"auf einmal. Genauer gesagt behauptet sie, dass:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:14
 msgid ""
 "Your competitor’s drug (Anxifree) is no better than a placebo (i.e., µ\\ :"
 "sub:`A` = µ\\ :sub:`P`)"
 msgstr ""
+"Das Medikament Ihres Konkurrenten (Anxifree) ist nicht besser als ein "
+"Placebo (d. h. µ\\ :sub:`A` = µ\\ :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:17
 msgid ""
 "Your drug (Joyzepam) is no better than a placebo (i.e., µ\\ :sub:`J` = µ\\ :"
 "sub:`P`)"
 msgstr ""
+"Ihr Medikament (Joyzepam) ist nicht besser als ein Placebo (d. h., µ\\ "
+":sub:`J` = µ\\ :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:20
 msgid ""
 "Anxifree and Joyzepam are equally effective (i.e., µ\\ :sub:`J` = µ\\ :sub:"
 "`A`)"
 msgstr ""
+"Anxifree und Joyzepam sind gleich wirksam (d. h. µ\\ :sub:`J` = µ\\ :sub:`A`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:23
 msgid ""
@@ -2076,6 +2105,17 @@ msgid ""
 "against placebos by other researchers, it can still be very useful to check "
 "that your study is producing similar results to earlier work."
 msgstr ""
+"Wenn eine dieser drei Behauptungen falsch ist, dann ist auch die "
+"Nullhypothese falsch. Da wir nun also unsere Nullhypothese verworfen haben, "
+"denken wir, dass *zumindest* eine dieser Behauptungen nicht wahr ist. Aber "
+"welche? Alle drei Thesen sind von Interesse. Da Sie wissen wollen, ob Ihr "
+"neues Medikament Joyzepam besser ist als ein Placebo, wäre es sicherlich "
+"auch schön zu wissen, wie gut es im Vergleich zu einer bestehenden "
+"kommerziellen Alternative (d. h. Anxifree) abschneidet. Es wäre sogar "
+"nützlich, die Wirksamkeit von Anxifree im Vergleich zu einem Placebo zu "
+"überprüfen. Selbst wenn Anxifree bereits von anderen Forschern ausführlich "
+"gegen Placebos getestet wurde, kann es sehr sinnvoll sein, zu überprüfen, ob "
+"Ihre Studie ähnliche Ergebnisse liefert wie frühere Arbeiten."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:35
 msgid ""
@@ -2083,26 +2123,29 @@ msgid ""
 "propositions, it becomes clear that there are eight possible “states of the "
 "world” that we need to distinguish between:"
 msgstr ""
+"Wenn wir die Nullhypothese anhand dieser drei unterschiedlichen Aussagen "
+"charakterisieren, wird deutlich, dass es acht mögliche „Zustände der Welt“ "
+"gibt, zwischen denen wir unterscheiden müssen:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "possibility:"
-msgstr ""
+msgstr "Möglichkeit:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`A`"
-msgstr ""
+msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`A` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "which hypothesis?"
-msgstr ""
+msgstr "Welche Hypothese?"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43 ../../Ch13/Ch13_ANOVA_05.rst:45
 #: ../../Ch13/Ch13_ANOVA_05.rst:47 ../../Ch13/Ch13_ANOVA_05.rst:49
@@ -2113,14 +2156,14 @@ msgstr "✓"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43
 msgid "null"
-msgstr ""
+msgstr "Null"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:49 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:53 ../../Ch13/Ch13_ANOVA_05.rst:55
 #: ../../Ch13/Ch13_ANOVA_05.rst:57
 msgid "alternative"
-msgstr ""
+msgstr "Alternativhypothese"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:67
 #: ../../Ch13/Ch13_ANOVA_07.rst:69 ../../Ch13/Ch13_ANOVA_07.rst:77
@@ -2143,10 +2186,20 @@ msgid ""
 "real difference between Anxifree and the placebo. However, if we want to get "
 "a clearer answer about this, it might help to run some tests."
 msgstr ""
+"Indem wir die Nullhypothese ablehnen, haben wir entschieden, dass wir *nicht*"
+" glauben, dass # 1 der wahre Zustand der Welt ist. Die nächste Frage, die "
+"wir uns stellen müssen, ist, welche der anderen sieben Möglichkeiten wir für "
+"*richtig* halten. In dieser Situation ist es meist hilfreich, sich die Daten "
+"anzusehen. Wenn wir uns zum Beispiel die Diagramme in :numref:`fig-anova1` "
+"ansehen, ist es verlockend, zu dem Schluss zu kommen, dass Joyzepam besser "
+"ist als das Placebo und besser als Anxifree, aber es gibt keinen wirklichen "
+"Unterschied zwischen Anxifree und dem Placebo. Wenn wir jedoch eine klarere "
+"Antwort auf diese Frage erhalten wollen, könnte es hilfreich sein, einige "
+"Tests durchzuführen."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:71
 msgid "Running “pairwise” *t*-tests"
-msgstr ""
+msgstr "Durchführung von \"paarweisen\" *t*-tests"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:73
 msgid ""
@@ -2160,14 +2213,24 @@ msgid ""
 "pairwise *t*-test comparisons amongst the three levels of the ``drug`` "
 "variable, as in :numref:`fig-anova3`."
 msgstr ""
+"Wie könnten wir unser Problem lösen? Da wir drei verschiedene Paare von "
+"Mittelwerten haben (Placebo versus Anxifree, Placebo versus Joyzepam und "
+"Anxifree versus Joyzepam), die wir vergleichen wollen, könnten wir drei "
+"verschiedene *t*-Tests durchführen und schauen, was passiert. Dies ist in "
+"jamovi einfach zu machen. Gehen Sie zu den Optionen ``ANOVA`` → ``Post Hoc "
+"Tests``, verschieben Sie die Variable ``drug`` in das Feld auf der rechten "
+"Seite und klicken Sie dann auf das Kontrollkästchen ``No correction``. "
+"Dadurch wird eine übersichtliche Tabelle erstellt, die alle paarweisen *t*-"
+"Testvergleiche zwischen den drei Stufen der Variable ``drug`` zeigt, wie in "
+":numref:`fig-anova3`."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise t-tests as post-hoc comparisons in jamovi"
-msgstr ""
+msgstr "Nicht-korrigierte paarweise t-Tests als Post-hoc-Vergleiche in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:94
 msgid "Corrections for multiple testing"
-msgstr ""
+msgstr "Korrekturen für multiples Testen"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:96
 msgid ""
@@ -2179,6 +2242,13 @@ msgid ""
 "differences is referred to as **post-hoc analysis** (“post-hoc” being Latin "
 "for “after this”).\\ [#]_"
 msgstr ""
+"Im vorigen Abschnitt habe ich angedeutet, dass es ein Problem gibt, wenn man "
+"einfach viele *t*-Tests durchführt. Die Befürchtung ist, dass wir bei der "
+"Durchführung dieser Analysen auf eine „Angeltour“ (*„fishing expedition“*) "
+"gehen. Wir führen viele, viele Tests ohne viel theoretische Anleitung durch, "
+"in der Hoffnung, dass einige von ihnen signifikant sind. Diese Art der "
+"theorielosen Suche nach Gruppenunterschieden wird als **post-hoc-Analyse** "
+"bezeichnet (\"post-hoc\" ist lateinisch für \"danach\").\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:104
 msgid ""
