@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-05 09:47+0000\n"
+"PO-Revision-Date: 2022-12-05 16:47+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/>"
 "\n"
@@ -185,6 +185,11 @@ msgid ""
 "to count the number of times that we observed people choosing each suit. "
 "This is what we get:"
 msgstr ""
+"Im Moment konzentrieren wir uns nur auf die erste Wahl, welche die Leute "
+"getroffen haben. Wir verwenden die Option ``Frequency tables`` unter "
+"``Exploration`` → ``Descriptives``, um zu zählen, wie oft wir beobachtet "
+"haben, dass die Leute eine bestimmte Farbe gewählt haben. Dies ist das "
+"Ergebnis:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:51
 msgid ""
@@ -195,6 +200,12 @@ msgid ""
 "some kind of statistical analysis to find out, which is what I’m going to "
 "talk about in the next section."
 msgstr ""
+"Diese kleine Häufigkeitstabelle ist recht hilfreich. Wenn man sie sich "
+"ansieht, gibt es einen kleinen Hinweis darauf, dass die Leute *eher* Herz "
+"als Kreuz wählen, aber es ist nicht ganz klar, ob das wirklich stimmt oder "
+"ob es nur Zufall ist. Um das herauszufinden, müssen wir wahrscheinlich eine "
+"Art statistische Analyse durchführen, worüber ich im nächsten Abschnitt "
+"sprechen werde."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:58
 msgid ""
@@ -207,26 +218,36 @@ msgid ""
 "written as *O*\\ :sub:`2` in maths. The relationship between the English "
 "descriptions and the mathematical symbols are illustrated below:"
 msgstr ""
+"Von nun an werden wir diese Tabelle als die Daten betrachten, die wir "
+"analysieren wollen. Da ich jedoch (leider!) über diese Daten in "
+"mathematischen Begriffen sprechen muss, ist es vielleicht eine gute Idee, "
+"sich über die Notation im Klaren zu sein. In der mathematischen Notation "
+"verkürzen wir das für Menschen lesbare Wort „beobachtet“ auf den Buchstaben "
+"*O* (*observed*), und wir verwenden tiefgestellte Indizes, um die Position "
+"der Beobachtung zu kennzeichnen. So wird die zweite Beobachtung in unserer "
+"Tabelle in mathematischer Schreibweise als *O*\\ :sub:`2` geschrieben. Die "
+"Beziehung zwischen den englischen Bezeichnungen und den mathematischen "
+"Symbolen wird im Folgenden dargestellt:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "label"
-msgstr ""
+msgstr "Bezeichnung"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "index, *i*"
-msgstr ""
+msgstr "Index, *i*"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "math. symbol"
-msgstr ""
+msgstr "mathematisches Symbol"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:68
 msgid "the value"
-msgstr ""
+msgstr "Wert"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:70
 msgid "clubs (♣)"
-msgstr ""
+msgstr "Kreuz (♣)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:70 ../../Ch10/Ch10_ChiSquare_1.rst:186
 #: ../../Ch10/Ch10_ChiSquare_1.rst:410
@@ -243,7 +264,7 @@ msgstr "35"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72
 msgid "diamonds (♢)"
-msgstr ""
+msgstr "Karo (♢)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:72 ../../Ch10/Ch10_ChiSquare_1.rst:412
 msgid "2"
@@ -300,6 +321,14 @@ msgid ""
 "statisticians group all observed values into a vector,\\ [#]_ which I’ll "
 "refer to as *O*."
 msgstr ""
+"Ich hoffe, das ist ziemlich klar. Es ist auch erwähnenswert, dass "
+"Mathematiker lieber über allgemeine als über spezifische Dinge sprechen, "
+"daher werden Sie auch die Notation *O*\\ :sub:`i`\\ sehen, die sich auf die "
+"Anzahl der Beobachtungen bezieht, die in die *i*-te Kategorie fallen (wobei "
+"*i* 1, 2, 3 oder 4 sein kann). Wenn wir uns schließlich auf die Menge aller "
+"beobachteten Häufigkeiten beziehen wollen, fassen Statistiker alle "
+"beobachteten Werte in einem Vektor zusammen,\\ [#]_ den ich als *O* "
+"bezeichnen werde."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:86
 msgid ""
@@ -314,10 +343,14 @@ msgid ""
 "frequencies (i.e., ``observed``), but I’m referring to it using mathematical "
 "notation."
 msgstr ""
+"Auch das ist nichts Neues oder Interessantes. Es ist nur eine Notation. Wenn "
+"ich sage, dass *O* = (35, 51, 64, 50) ist, ist alles, was ich tue, die "
+"Tabelle der beobachteten Häufigkeiten (d.h., ``observed``) in mathematischer "
+"Notation zu beschreiben."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:94
 msgid "The null hypothesis and the alternative hypothesis"
-msgstr ""
+msgstr "Nullhypothese und Alternativhypothese"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:96
 msgid ""
