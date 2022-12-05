@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-04 19:48+0000\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
+"PO-Revision-Date: 2022-12-05 09:47+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
 "Language: de\n"
@@ -1954,7 +1954,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Effektstärke"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:6
 msgid ""
