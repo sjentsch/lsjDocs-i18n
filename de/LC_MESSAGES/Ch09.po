@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-05 15:11+0000\n"
+"PO-Revision-Date: 2022-12-05 16:47+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/>"
 "\n"
@@ -776,7 +776,7 @@ msgstr "*α*"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
-msgstr "(Fehlerquote vom Typ I)"
+msgstr "(Fehlerrate vom Typ I)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
@@ -786,7 +786,7 @@ msgstr "*β*"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
-msgstr "(Fehlerquote vom Typ II)"
+msgstr "(Fehlerrate vom Typ II)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst
@@ -1395,8 +1395,8 @@ msgstr ""
 "0,057, was etwas zu großzügig ist. Wenn ich jedoch 39 und 61 als Grenzen für "
 "den kritischen Bereich gewählt hätte, dann würde der kritische Bereich nur "
 "3,5 % der Verteilung abdecken. Ich hielt es für sinnvoller, 40 und 60 als "
-"kritische Werte zu verwenden und eine Fehlerquote vom Typ I von 5,7 % in "
-"Kauf zu nehmen, da dies dem Wert von *α* = 0,05 am nächsten kommt."
+"kritische Werte zu verwenden und eine Typ-I-Fehlerrate von 5,7 % in Kauf zu "
+"nehmen, da dies dem Wert von *α* = 0,05 am nächsten kommt."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:189
 msgid ""
@@ -1470,8 +1470,8 @@ msgstr ""
 "Antwort gegeben hätten. Das wäre natürlich auch signifikant, aber mit einem "
 "viel größeren Abstand, so dass es hier wirklich keine Unklarheiten gibt. Das "
 "Verfahren, das ich beschrieben habe, macht keinen Unterschied zwischen den "
-"beiden. Wenn ich die Standardkonvention von *α* = 0,05 als akzeptable "
-"Fehlerquote vom Typ I annehme, dann sind beide Ergebnisse signifikant."
+"beiden. Wenn ich die Standardkonvention von *α* = 0,05 als akzeptable Typ-I-"
+"Fehlerrate annehme, dann sind beide Ergebnisse signifikant."
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:36
 msgid ""
@@ -1555,9 +1555,9 @@ msgid ""
 "equal to *p*, then it’s okay to reject the null hypothesis in favour of your "
 "preferred alternative."
 msgstr ""
-"Wenn sich herausstellt, dass *p* eine Fehlerquote beschreibt, die Sie nicht "
+"Wenn sich herausstellt, dass *p* eine Fehlerrate beschreibt, die Sie nicht "
 "tolerieren wollen, dann müssen Sie die Nullhypothese beibehalten. Wenn Sie "
-"sich mit einer Fehlerquote von *p* abfinden können, ist es in Ordnung, die "
+"sich mit einer Fehlerrate von *p* abfinden können, ist es in Ordnung, die "
 "Nullhypothese zugunsten Ihrer Alternativhypothese zu verwerfen."
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:66
@@ -1582,14 +1582,14 @@ msgstr ""
 "bei denen *p* ≤ *α* ist, hätten Sie die Nullhypothese verworfen, während Sie "
 "bei den Tests, bei denen *p* > *α* ist, die Nullhypothese beibehalten "
 "hätten. In meiner ESP-Studie habe ich *X* = 62 erhalten, und folglich habe "
-"ich *p* = 0,021 erhalten. Die Fehlerquote, die ich hinnehmen muss, beträgt "
+"ich *p* = 0,021 erhalten. Die Fehlerrate, die ich hinnehmen muss, beträgt "
 "also 2,1 %. Nehmen wir dagegen an, mein Experiment hätte *X* = 97 ergeben. "
 "Was passiert jetzt mit meinem Wert *p*? Diesmal ist er auf *p* = 1,36 · 10\\ "
-":sup:`-25` geschrumpft, was eine winzig kleine\\ [#]_ Fehlerquote vom Typ I "
-"ist. Im zweiten Fall wäre ich in der Lage, die Nullhypothese mit viel "
-"größerer Sicherheit abzulehnen, weil ich nur „bereit“ sein muss, eine "
-"Fehlerrate vom Typ I von etwa 1 zu 10 Quadrillionen (10 Billionen · 1 "
-"Billion) zu tolerieren, um meine Entscheidung zur Ablehnung zu rechtfertigen."
+":sup:`-25` geschrumpft, was eine winzig kleine\\ [#]_ Typ-I-Fehlerrate ist. "
+"Im zweiten Fall wäre ich in der Lage, die Nullhypothese mit viel größerer "
+"Sicherheit abzulehnen, weil ich nur „bereit“ sein muss, eine Fehlerrate vom "
+"Typ I von etwa 1 zu 10 Quadrillionen (10 Billionen · 1 Billion) zu "
+"tolerieren, um meine Entscheidung zur Ablehnung zu rechtfertigen."
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:83
 msgid "The probability of extreme data"
@@ -1676,7 +1676,7 @@ msgid ""
 "That’s *p* = 0.000000000000000000000000136 for folks that don’t like "
 "scientific notation!"
 msgstr ""
-"Das ist *p* = 0.000000000000000000000000136 für Leute, welche die "
+"Das ist *p* = 0,000000000000000000000000136 für Leute, welche die "
 "wissenschaftliche Notation nicht mögen!"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:4
@@ -1802,7 +1802,7 @@ msgstr ""
 "sehr definitive Meinung dazu, ob meine Forschung in einer angesehenen "
 "wissenschaftlichen Zeitschrift veröffentlicht werden sollte. Und "
 "erstaunlicherweise denke ich jetzt, nachdem ich mir die Daten angesehen "
-"habe, dass eine Fehlerquote von 9 % gar nicht so schlecht ist, vor allem im "
+"habe, dass eine Fehlerrate von 9 % gar nicht so schlecht ist, vor allem im "
 "Vergleich dazu, wie ärgerlich es wäre, zugeben zu müssen, dass mein "
 "Experiment fehlgeschlagen ist. Um also zu vermeiden, dass es so aussieht, "
 "als hätte ich es mir erst im Nachhinein ausgedacht, sage ich jetzt, dass "
