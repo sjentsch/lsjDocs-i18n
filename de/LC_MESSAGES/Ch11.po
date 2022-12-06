@@ -1,3 +1,10 @@
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -5,16 +12,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-06 18:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
 "PO-Revision-Date: 2022-12-05 17:47+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
-"\n"
-"Language: de\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/"
+">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -722,8 +740,8 @@ msgstr ""
 "werden später mehr über Effektstärken sprechen). Das scheint also einfach "
 "genug zu sein. Was machen wir nun mit dieser Ausgabe? Da wir so tun, als ob "
 "wir uns tatsächlich für mein Spielzeugbeispiel interessieren, sind wir "
-"überglücklich zu entdecken, dass das Ergebnis statistisch signifikant ist ("
-"d. h. einen *p*-Wert von unter 0,05 hat). Wir könnten das Ergebnis in etwa "
+"überglücklich zu entdecken, dass das Ergebnis statistisch signifikant ist "
+"(d. h. einen *p*-Wert von unter 0,05 hat). Wir könnten das Ergebnis in etwa "
 "so wiedergeben:"
 
 #: ../../Ch11/Ch11_tTest_02.rst:141
