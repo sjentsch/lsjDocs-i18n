@@ -1815,15 +1815,15 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_2.rst:165
 msgid ""
 "For a contingency table with *r* rows and *c* columns, the equation that "
-"defines our *X*\\² statistic is"
+"defines our X² statistic is"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:168
 msgid ""
-"X^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
+"\\chi^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
 "\n"
 msgstr ""
-"X^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
+"\\chi^2 = \\sum_{i=1}^r\\sum_{j=1}^c \\frac{({E}_{ij} - O_{ij})^2}{{E}_{ij}}\n"
 "\n"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:170
@@ -1834,10 +1834,10 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:173
 msgid ""
-"As before, large values of *X*\\² indicate that the null hypothesis provides "
-"a poor description of the data, whereas small values of *X*\\² suggest that "
+"As before, large values of χ² indicate that the null hypothesis provides "
+"a poor description of the data, whereas small values of χ² suggest that "
 "it does a good job of accounting for the data. Therefore, just like last "
-"time, we want to reject the null hypothesis if *X*\\² is too large."
+"time, we want to reject the null hypothesis if χ² is too large."
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:179
@@ -2032,7 +2032,7 @@ msgid ""
 "distribution for large *N*. One problem with this is that it often doesn’t "
 "quite work, especially when you’ve only got 1 degree of freedom (e.g., when "
 "you’re doing a test of independence on a 2 · 2 contingency table). The main "
-"reason for this is that the true sampling distribution for the *X*\\²-"
+"reason for this is that the true sampling distribution for the χ²-"
 "statistic is actually discrete (because you’re dealing with categorical "
 "data!) but the χ² distribution is continuous. This can introduce systematic "
 "problems. Specifically, when *N* is small and when *df* = 1, the goodness-of-"
@@ -2102,15 +2102,15 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_4.rst:24
 msgid ""
 "Mathematically, they’re very simple. To calculate the *ϕ* statistic, you "
-"just divide your *X*\\² value by the sample size, and take the square root:"
+"just divide your χ² value by the sample size, and take the square root:"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:28
 msgid ""
-"\\phi = \\sqrt{\\frac{X^2}{N}}\n"
+"\\phi = \\sqrt{\\frac{\\chi^2}{N}}\n"
 "\n"
 msgstr ""
-"\\phi = \\sqrt{\\frac{X^2}{N}}\n"
+"\\phi = \\sqrt{\\frac{\\chi^2}{N}}\n"
 "\n"
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:30
@@ -2129,10 +2129,10 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:42
 msgid ""
-"V = \\sqrt{\\frac{X^2}{N(k-1)}}\n"
+"V = \\sqrt{\\frac{\\chi^2}{N(k-1)}}\n"
 "\n"
 msgstr ""
-"V = \\sqrt{\\frac{X^2}{N(k-1)}}\n"
+"V = \\sqrt{\\frac{\\chi^2}{N(k-1)}}\n"
 "\n"
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:44
