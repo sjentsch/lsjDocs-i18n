@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-06 15:48+0000\n"
+"PO-Revision-Date: 2022-12-06 16:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch10/de/>"
 "\n"
@@ -1844,6 +1844,33 @@ msgid ""
 "new one is written χ²(3) = 8.65, p = 0.034, and so it’s actually unclear "
 "which test I actually ran."
 msgstr ""
+"Das ist leider ziemlich dumm, weil es *viele* verschiedene Teststatistiken "
+"gibt, die eine χ²-Stichprobenverteilung aufweisen. Die χ²-Statistik, die wir "
+"für unseren Anpassungstest verwendet haben, ist nur eine von vielen (wenn "
+"auch eine der am häufigsten vorkommenden). In einer vernünftigen, perfekt "
+"organisierten Welt würden wir *immer* einen separaten Namen für die "
+"Teststatistik und die Stichprobenverteilung haben. Auf diese Weise würde der "
+"Statistikblock selbst Ihnen genau sagen, was der Forscher berechnet hat. Das "
+"kommt manchmal vor. Zum Beispiel wird die Teststatistik, die im χ²-"
+"Anpassungstest verwendet wird, χ² geschrieben, aber es gibt einen eng "
+"verwandten Test, der als *G*-Test bekannt ist (`Sokal & Rohlf, 1994 <../"
+"Other/References.html#sokal-1994>`__\\ ),\\ [#]_ bei dem die Teststatistik "
+"als *G* geschrieben wird. Zufälligerweise testen der χ²-Anpassungstest und "
+"der *G*-Test beide die gleiche Nullhypothese, und die Stichprobenverteilung "
+"ist genau dieselbe (d.h., eine χ²-Verteilung mit *k* - 1 Freiheitsgraden). "
+"Hätte ich einen *G*-Test für die Kartendaten anstatt eines "
+"Anpassungsgütetests durchgeführt, dann hätte ich eine Teststatistik von *G* "
+"= 8,65 erhalten, die sich geringfügig von dem zuvor ermittelten Wert χ² = "
+"8,44 unterscheidet und einen etwas kleineren *p*-Wert von *p* = 0,034 "
+"ergibt. Wenn die Konvention wäre, die Teststatistik, dann die "
+"Stichprobenverteilung und dann den *p*-Wert anzugeben, würden diese beiden "
+"Situationen zu unterschiedlichen Statistikblöcken führen: Mein "
+"ursprüngliches Ergebnis würde χ² = 8,44, χ²(3), p = 0,038 lauten, während "
+"die alternative Version mit dem *G*-Test *G* = 8,65, χ²(3), p = 0,034 lauten "
+"würde. Bei Verwendung des verkürzten Berichtsstandards lautet das "
+"ursprüngliche Ergebnis jedoch χ²(3) = 8,44, p = 0,038 und das neue Ergebnis "
+"χ²(3) = 8,65, p = 0,034, so dass es eigentlich unklar ist, welchen Test ich "
+"tatsächlich durchgeführt habe."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:640
 msgid ""
@@ -1867,6 +1894,27 @@ msgid ""
 "illustrates, two different things with the same sampling distribution are "
 "still, well, different."
 msgstr ""
+"Warum leben wir also nicht in einer Welt, in der der Inhalt des "
+"Statistikblocks eindeutig angibt, welche Tests durchgeführt wurden? Der "
+"Hauptgrund ist, dass das Leben chaotisch ist. Wir (als Benutzer "
+"statistischer Werkzeuge) wollen, dass es schön, ordentlich und organisiert "
+"ist. Wir wollen, dass unser Bericht *entworfen* wird, als ob es ein Produkt "
+"wäre, aber so funktioniert das Leben nicht. Die Statistik ist eine "
+"intellektuelle Disziplin wie jede andere auch, und als solche ist sie ein "
+"stark verteiltes, teils kollaboratives und teils wettbewerbsorientiertes "
+"Projekt, das niemand wirklich vollständig versteht. Die Werkzeuge, die Sie "
+"und ich für die Datenanalyse verwenden, wurden nicht durch einen Akt der "
+"Götter der Statistik geschaffen. Sie wurden von vielen verschiedenen Leuten "
+"erfunden, in akademischen Fachzeitschriften veröffentlicht, von vielen "
+"anderen Leuten implementiert, korrigiert und verändert und dann von jemand "
+"anderem in Lehrbüchern erklärt. Infolgedessen gibt es eine *Menge* von "
+"Teststatistiken, die nicht einmal Namen haben. Infolgedessen werden sie "
+"einfach mit demselben Namen wie die entsprechende Stichprobenverteilung "
+"bezeichnet. Wie wir später sehen werden, wird jede Teststatistik, die einer "
+"χ²-Verteilung folgt, gemeinhin als „χ²-Statistik“ bezeichnet, alles, was "
+"einer *t*-Verteilung folgt, wird als „*t*-Statistik“ bezeichnet, und so "
+"weiter. Aber, wie das Beispiel χ² versus *G* zeigt, sind zwei verschiedene "
+"Dinge mit derselben Stichprobenverteilung immer noch verschieden."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:659
 msgid ""
@@ -1878,10 +1926,17 @@ msgid ""
 "Ch10_ChiSquare_2>`, most readers with stats training can probably guess. "
 "Nevertheless, it’s something to be aware of."
 msgstr ""
+"Daher ist es gewöhnlich eine gute Idee, klar zu sagen, welchen Test Sie "
+"tatsächlich durchgeführt haben, insbesondere wenn Sie etwas Ungewöhnliches "
+"tun. Wenn Sie einfach „χ²-test“ sagen, ist nicht klar, welchen Test Sie "
+"eigentlich meinen. Da die beiden gebräuchlichsten χ²-Anpassungstest und der "
+":doc:`χ²-Unabhängigkeitstest <../Ch10/Ch10_ChiSquare_2>` sind, können die "
+"meisten Leser mit Statistikkenntnissen wahrscheinlich raten. Dennoch sollte "
+"man sich möglicher Fehlinterpretatitionen bewusst sein."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:670
 msgid "A vector is a sequence of data elements of the same basic type"
-msgstr ""
+msgstr "Ein Vektor ist eine Folge von Datenelementen desselben Grundtyps"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:673
 msgid ""
@@ -1892,6 +1947,13 @@ msgid ""
 "do is give you a sense of why the goodness-of-fit statistic is associated "
 "with the χ²-distribution."
 msgstr ""
+"Wenn man die Gleichung für die Anpassungsgüte-Statistik als eine Summe über "
+"*k* - 1 unabhängige Dinge umschreibt, erhält man die „richtige“ "
+"Stichprobenverteilung, nämlich die χ²-Verteilung mit *k* - 1 "
+"Freiheitsgraden. Es würde den Rahmen eines Einführungsbuchs sprengen, die "
+"mathematischen Zusammenhänge so detailliert darzustellen. Ich wollte Ihnen "
+"nur einen Eindruck davon vermitteln, wie die Anpassungsgüte-Statistik mit "
+"der χ²-Verteilung verbunden ist."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:681
 msgid ""
@@ -1908,6 +1970,20 @@ msgid ""
 "I’ve taught you rather than (correctly) realising that there’s something "
 "that I haven’t told you."
 msgstr ""
+"Ich fühle mich verpflichtet, darauf hinzuweisen, dass dies eine starke "
+"Vereinfachung ist! Sie funktioniert in vielen Situationen gut, aber hin und "
+"wieder werden wir auf Freiheitsgrade stoßen, die keine ganzen Zahlen sind. "
+"Lassen Sie sich davon nicht zu sehr beunruhigen; wenn Sie darauf stoßen, "
+"erinnern Sie sich einfach daran, dass „Freiheitsgrade“ in Wirklichkeit ein "
+"eher chaotisches Konzept sind. Daher ist die nette einfache Geschichte, die "
+"ich Ihnen hier erzähle, nicht die ganze Geschichte. Für einen "
+"Einführungskurs ist es normalerweise am besten, sich an die einfache "
+"Geschichte zu halten. Aber ich denke, es ist am besten, Sie zu warnen, dass "
+"diese einfache Geschichte nicht immer die komplexere Realität widerspiegelt. "
+"Wenn ich Sie nicht warnen würde, könnten Sie verwirrt werden, wenn Sie *df* "
+"= 3.4 oder so sehen, und (fälschlicherweise) denken, dass Sie etwas falsch "
+"verstanden haben. Stattdessen ist es so, dass die hier genutzte vereinfachte "
+"Darstellung nicht auf alle Analysesituationen passt."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:695
 msgid ""
@@ -1916,6 +1992,10 @@ msgid ""
 "participating depends on how many people show up. That doesn’t matter for "
 "the current purposes."
 msgstr ""
+"In der Praxis ist die Stichprobengröße nicht immer festgelegt. Wir könnten "
+"das Experiment zum Beispiel über einen bestimmten Zeitraum durchführen, und "
+"die Anzahl der Teilnehmer hängt davon ab, wie viele Personen erscheinen. Für "
+"den aktuellen Zweck spielt das keine Rolle."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:701
 msgid ""
@@ -1925,6 +2005,12 @@ msgid ""
 "principle of providing enough information to the reader to allow them to "
 "check your results is pretty universal, I think."
 msgstr ""
+"Zumindest teilweise. Die Konventionen für die Darstellung von Statistiken "
+"unterscheiden sich von Fachgebiet zu Fachgebiet etwas. Ich habe mich an den "
+"Gepflogenheiten in der Psychologie orientiert, da dies mein Fachgebiet ist. "
+"Aber der allgemeine Grundsatz, dem Leser genügend Informationen zur "
+"Verfügung zu stellen, damit er die Ergebnisse überprüfen kann, ist meiner "
+"Meinung nach ziemlich allgemein."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:708
 msgid ""
@@ -1942,6 +2028,21 @@ msgid ""
 "into incomprehensible garbage. Being understood by your reader is *much* "
 "more important."
 msgstr ""
+"Für manche mag dieser Ratschlag seltsam klingen oder zumindest im "
+"Widerspruch zu den „üblichen“ Ratschlägen für das Verfassen eines "
+"Manuskripts (oder eines Berichts) stehen. In der Regel wird den Studenten "
+"gesagt, dass der Abschnitt „Ergebnisse“ eines Manuskripts der Beschreibung "
+"der Daten und der statistischen Analyse dient, während der Abschnitt "
+"„Diskussion“ der Interpretation dient. Das stimmt zwar im Großen und Ganzen, "
+"aber ich glaube, dass die Leute das oft viel zu wörtlich nehmen. Ich gehe in "
+"der Regel so vor, dass ich im Ergebnisteil eine schnelle und einfache "
+"Interpretation der Daten gebe, damit der Leser versteht, was die Daten "
+"aussagen. In der Diskussion versuche ich dann, eine umfassendere Übersicht "
+"darüber zu geben, ob und wie diese Ergebnisse mit der bisherigen "
+"wissenschaftlichen Literatur übereinstimmen. Kurz gesagt, lassen Sie nicht "
+"zu, dass der Ratschlag „Die Interpretation gehört in die Diskussion“ Ihren "
+"Ergebnisteil in unverständlichen Müll verwandelt. Vom Leser verstanden zu "
+"werden, ist *viel* wichtiger."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:723
 msgid ""
@@ -1949,61 +2050,68 @@ msgid ""
 "tests that are known as *likelihood ratio tests* (LRT). I don’t cover LRTs "
 "in this book, but they are quite handy things to know about."
 msgstr ""
+"Erschwerend kommt hinzu, dass der *G*-Test ein Spezialfall einer ganzen "
+"Klasse von Tests ist, die als *Likelihood-Ratio-Tests* (LRT) bekannt sind. "
+"LRTs werden in diesem Buch nicht behandelt, aber es ist sehr nützlich, sie "
+"zu kennen."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:4
 msgid "The χ² (chi-square) test of independence (or association)"
-msgstr ""
+msgstr "Der χ²-Unabhängigkeitstest"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:9 ../../Ch10/Ch10_ChiSquare_2.rst:17
 #: ../../Ch10/Ch10_ChiSquare_2.rst:23
 msgid "GUARDBOT 1:"
-msgstr ""
+msgstr "GUARDBOT 1:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:9
 msgid "Halt!"
-msgstr ""
+msgstr "Halt!"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:11 ../../Ch10/Ch10_ChiSquare_2.rst:19
 msgid "GUARDBOT 2:"
-msgstr ""
+msgstr "GUARDBOT 2:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:11
 msgid "Be you robot or human?"
-msgstr ""
+msgstr "Bist du ein Roboter oder ein Mensch?"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "LEELA:"
-msgstr ""
+msgstr "LEELA:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "Robot… we be."
-msgstr ""
+msgstr "Roboter... sind wir."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "FRY:"
-msgstr ""
+msgstr "FRY:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "Uh, yup! Just two robots out roboting it up! Eh?"
-msgstr ""
+msgstr "Äh, ja! Nur zwei Roboter, die sich die Köpfe einschlagen! Was?"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:17
 msgid "Administer the test."
-msgstr ""
+msgstr "Führen Sie den Test durch."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:19
 msgid ""
 "Which of the following would you most prefer? A: A puppy, B: A pretty flower "
 "from your sweetie, or C: A large properly-formatted data file?"
 msgstr ""
+"Welche der folgenden Optionen würden Sie am meisten bevorzugen? A: Einen "
+"Hundewelpen, B: Eine hübsche Blume von Ihrer Liebsten oder C: Eine große, "
+"richtig formatierte Datei?"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:23
 msgid "Choose!"
-msgstr ""
+msgstr "Wählen Sie!"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:45
 msgid "Futurama, “Fear of a Bot Planet”"
-msgstr ""
+msgstr "Futurama, „Angst vor einem Bot-Planeten“"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:28
 msgid ""
@@ -2034,14 +2142,43 @@ msgid ""
 "``Contingency Tables`` →  ``Independent Samples`` analysis, and we should "
 "get a table something like this:"
 msgstr ""
+"Neulich habe ich eine animierte Dokumentation gesehen, die sich mit den "
+"seltsamen Bräuchen der Eingeborenen des Planeten *Chapek 9* befasste. "
+"Offenbar muss jeder Besucher, um Zugang zu ihrer Hauptstadt zu erhalten, "
+"beweisen, dass er ein Roboter und kein Mensch ist. Um festzustellen, ob ein "
+"Besucher ein Mensch ist oder nicht, fragen die Eingeborenen ihn, ob er "
+"Welpen, Blumen oder große, richtig formatierte Dateien bevorzugt. „Ziemlich "
+"clever“, dachte ich mir, „aber was ist, wenn Menschen und Roboter die "
+"gleichen Vorlieben haben? Das wäre dann wahrscheinlich kein sehr guter Test?“"
+" Zufällig fielen mir die Testdaten in die Hände, welche die Zivilbehörden "
+"von *Chapek 9* verwendet haben, um dies zu überprüfen. Wie sich "
+"herausstellte, war das, was sie taten, sehr einfach. Sie suchten sich eine "
+"Reihe von Robotern und eine Reihe von Menschen und fragten sie, was sie "
+"bevorzugten. Ich habe ihre Daten im |chapek9|_-Datensatz gespeichert, den "
+"wir nun in jamovi laden können. Neben der Variable ``ID``, die einzelne "
+"Personen identifiziert, gibt es zwei nominale Textvariablen |nominal|, "
+"``species`` und ``choice``. Insgesamt gibt es 180 Einträge im Datensatz, "
+"einen für jede Person (wobei sowohl Roboter als auch Menschen als „Personen“ "
+"gezählt werden), die um eine Entscheidung gebeten wurde. Konkret sind es 93 "
+"Menschen und 87 Roboter, und die überwältigende Mehrheit bevorzugt die "
+"Datendatei. Sie können dies selbst überprüfen, indem Sie jamovi nach ``"
+"Frequency Tables`` fragen, unter der Schaltfläche ``Exploration`` → "
+"``Descriptives``. Diese Zusammenfassung geht jedoch nicht auf die Frage ein, "
+"an der wir interessiert sind. Dazu brauchen wir eine detailliertere "
+"Beschreibung der Daten. Wir wollen uns die Daten ``choices`` aufgeschlüsselt "
+"*nach* ``species`` ansehen. Das heißt, wir müssen die Daten in einer "
+"Kreuztabelle darstellen (siehe :doc:`Tabellieren und Kreuztabellieren von "
+"Daten <../Ch06/Ch06_DataHandling_1>`). In jamovi tun wir dies mit der "
+"Analyse ``Frequencies`` → ``Contingency Tables`` → ``Independent Samples``, "
+"und wir sollten eine Tabelle in etwa wie diese erhalten:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:55 ../../Ch10/Ch10_ChiSquare_2.rst:84
 msgid "Robot"
-msgstr ""
+msgstr "Roboter"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:55 ../../Ch10/Ch10_ChiSquare_2.rst:84
 msgid "Human"
-msgstr ""
+msgstr "Menschen"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:55 ../../Ch10/Ch10_ChiSquare_2.rst:84
 #: ../../Ch10/Ch10_ChiSquare_6.rst:44 ../../Ch10/Ch10_ChiSquare_7.rst:18
@@ -2051,7 +2188,7 @@ msgstr "Insgesamt"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:57 ../../Ch10/Ch10_ChiSquare_2.rst:86
 msgid "**Puppy**"
-msgstr ""
+msgstr "**Welpe**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:57 ../../Ch10/Ch10_ChiSquare_2.rst:59
 msgid "13"
@@ -2067,7 +2204,7 @@ msgstr "28"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:59 ../../Ch10/Ch10_ChiSquare_2.rst:88
 msgid "**Flower**"
-msgstr ""
+msgstr "**Blume**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:59 ../../Ch10/Ch10_ChiSquare_7.rst:20
 #: ../../Ch10/Ch10_ChiSquare_7.rst:52
@@ -2080,7 +2217,7 @@ msgstr "43"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61 ../../Ch10/Ch10_ChiSquare_2.rst:90
 msgid "**Data**"
-msgstr ""
+msgstr "**Daten**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:61
 msgid "44"
@@ -2122,10 +2259,16 @@ msgid ""
 "between human choices and robot choices in the data set is statistically "
 "significant."
 msgstr ""
+"Daraus geht eindeutig hervor, dass die überwiegende Mehrheit der Menschen "
+"die Datendatei wählte, während die Roboter in ihren Präferenzen sehr viel "
+"ausgeglichener waren. Lassen wir einmal die Frage beiseite, *warum* die "
+"Menschen eher die Datendatei wählen (was eher merkwürdig scheint), so müssen "
+"wir zunächst feststellen, ob die Diskrepanz zwischen den Entscheidungen der "
+"Menschen und der Roboter in der Datenmenge statistisch signifikant ist."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:75
 msgid "Constructing our hypothesis test"
-msgstr ""
+msgstr "Aufbau unseres Hypothesentests"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:77
 msgid ""
@@ -2135,6 +2278,11 @@ msgid ""
 "question the same way”? As before, we begin by establishing some notation to "
 "describe the data:"
 msgstr ""
+"Wie können wir diese Daten analysieren? Da meine *Forschungs*-Hypothese "
+"lautet, dass „Menschen und Roboter die Frage auf unterschiedliche Weise "
+"beantworten“, wie kann ich einen Test der *Nullhypothese* konstruieren, dass "
+"„Menschen und Roboter die Frage auf dieselbe Weise beantworten“? Wie zuvor "
+"beginnen wir mit der Festlegung einer Notation zur Beschreibung der Daten:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:86 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*O*\\ :sub:`11`"
@@ -2194,6 +2342,15 @@ msgid ""
 "number of creatures who chose the flower), and *C*\\ :sub:`j` to denote the "
 "column totals (e.g., *C*\\ :sub:`1` is the total number of robots).\\ [#]_"
 msgstr ""
+"In dieser Schreibweise ist *O*\\ :sub:`ij` die Anzahl (beobachtete "
+"Häufigkeit) der Befragten der Spezies *j* (Roboter oder Mensch), welche die "
+"Antwort *i* (Welpe, Blume oder Daten) gegeben haben, als sie aufgefordert "
+"wurden, eine Wahl zu treffen. Die Gesamtzahl der Beobachtungen wird wie "
+"üblich *N* geschrieben. Schließlich habe ich *R*\\ :sub:`i` verwendet, um "
+"die Zeilensummen zu bezeichnen (z. B. ist *R*\\ :sub:`2` die Gesamtzahl der "
+"Lebewesen, die sich für die Blume entschieden haben), und *C*\\ :sub:`j`, um "
+"die Spaltensummen zu bezeichnen (z. B. ist *C*\\ :sub:`1` die Gesamtzahl der "
+"Roboter).\\ [#]_"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:104
 msgid ""
@@ -2204,6 +2361,13 @@ msgid ""
 "*P*\\ :sub:`ij` to denote “the probability that a member of species *j* "
 "gives response *i* then our null hypothesis is that:"
 msgstr ""
+"Lassen Sie uns nun darüber nachdenken, was die Nullhypothese besagt. Wenn "
+"Roboter und Menschen auf dieselbe Weise auf die Frage antworten, bedeutet "
+"das, dass die Wahrscheinlichkeit, dass „ein Roboter Welpe sagt“, dieselbe "
+"ist wie die Wahrscheinlichkeit, dass „ein Mensch Welpe sagt“, und so weiter "
+"für die beiden anderen Möglichkeiten. Wenn wir also *P*\\ :sub:`ij` "
+"verwenden, um „die Wahrscheinlichkeit zu beschreiben, dass ein Mitglied der "
+"Spezies *j* die Antwort *i* gibt“, dann lautet unsere Nullhypothese, dass:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:113
 msgid "H\\ :sub:`0`:"
@@ -2211,20 +2375,26 @@ msgstr "H\\ :sub:`0`:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:113
 msgid "All of the following are true:"
-msgstr ""
+msgstr "Alle folgenden Aussagen sind wahr:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:115
 msgid "*P*\\ :sub:`11` = *P*\\ :sub:`12` (same probability of saying “puppy”),"
 msgstr ""
+"*P*\\ :sub:`11` = *P*\\ :sub:`12` (gleiche Wahrscheinlichkeit, „Welpe“ zu "
+"sagen),"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:118
 msgid ""
 "*P*\\ :sub:`21` = *P*\\ :sub:`22` (same probability of saying “flower”), and"
 msgstr ""
+"*P*\\ :sub:`21` = *P*\\ :sub:`22` (gleiche Wahrscheinlichkeit, „Blume“ zu "
+"sagen), und"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:121
 msgid "*P*\\ :sub:`31` = *P*\\ :sub:`32` (same probability of saying “data”)."
 msgstr ""
+"*P*\\ :sub:`31` = *P*\\ :sub:`32` (gleiche Wahrscheinlichkeit, „Daten“ zu "
+"sagen)."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:125
 msgid ""
@@ -2233,6 +2403,10 @@ msgid ""
 "we can let *P*\\ :sub:`i` refer to this probability, e.g., *P*\\ :sub:`1` is "
 "the true probability of choosing the puppy."
 msgstr ""
+"Und da die Nullhypothese besagt, dass die wahren Wahlwahrscheinlichkeiten "
+"nicht von der Spezies der Person abhängen, welche die Wahl trifft, können "
+"wir *P*\\ :sub:`i` auf diese Wahrscheinlichkeit beziehen, z. B. ist *P*\\ "
+":sub:`1` die wahre Wahrscheinlichkeit, den Welpen zu wählen."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:130
 msgid ""
@@ -2245,6 +2419,14 @@ msgid ""
 "probability of anyone (regardless of species) choosing option *i* is *P*\\ :"
 "sub:`i`, then the expected frequency is just:"
 msgstr ""
+"Als Nächstes müssen wir, ähnlich wie beim χ²-Anpassungstest, die erwarteten "
+"Häufigkeiten berechnen. Das heißt, für jede der beobachteten Zählungen *O*\\ "
+":sub:`ij` müssen wir herausfinden, was die Nullhypothese uns erwarten lassen "
+"würde. Bezeichnen wir diese erwartete Häufigkeit mit *E*\\ :sub:`ij`. "
+"Diesmal ist die Berechnung ein bisschen schwieriger. Wenn es insgesamt *C*\\ "
+":sub:`j` Versuchsteilnehmer gibt, die der Spezies *j* angehören, und die "
+"wahre Wahrscheinlichkeit, dass irgendjemand (unabhängig von der Spezies) die "
+"Option *i* wählt, ist *P*\\ :sub:`i`, dann ist die erwartete Häufigkeit:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:139
 msgid "*E*\\ :sub:`ij` = *C*\\ :sub:`j` · *P*\\ :sub:`i`"
@@ -2262,6 +2444,16 @@ msgid ""
 "terms, what we’re saying is that our estimate for the probability of "
 "choosing option *i* is just the row total divided by the total sample size:"
 msgstr ""
+"Nun, das ist alles schön und gut, aber wir haben ein Problem. Im Gegensatz "
+"zu der Situation, die wir mit dem χ²-Anpassungstest hatten, gibt die "
+"Nullhypothese keinen bestimmten Wert für *P*\\ :sub:`i` vor. Das ist etwas, "
+"das wir aus den :doc:`Daten schätzen müssen <../Ch08/Ch08_Estimation>`! "
+"Glücklicherweise ist das ziemlich einfach. Wenn 28 von 180 Personen die "
+"Blumen gewählt haben, dann ist eine natürliche Schätzung für die "
+"Wahrscheinlichkeit, dass die Blumen gewählt wurden, 28 / 180, d.h. ungefähr "
+"0,16. Mathematisch ausgedrückt bedeutet dies, dass unsere Schätzung für die "
+"Wahrscheinlichkeit der Wahl der Option *i* einfach die Zeilensumme geteilt "
+"durch den Gesamtumfang der Stichprobe ist:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:152
 msgid ""
@@ -2277,6 +2469,9 @@ msgid ""
 "multiplication) of the row total and the column total, divided by the total "
 "number of observations:\\ [#]_"
 msgstr ""
+"Daher ergibt sich die erwartete Häufigkeit als das Produkt (d. h. die "
+"Multiplikation) der Zeilensumme und der Spaltensumme, geteilt durch die "
+"Gesamtzahl der Beobachtungen:\\ [#]_"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:158
 msgid "Ê\\ :sub:`ij` = (R\\ :sub:`i` × C\\ :sub:`j`) / *N*"
@@ -2289,12 +2484,18 @@ msgid ""
 "strategy that we used in the goodness-of-fit test. In fact, it’s pretty much "
 "the *same* statistic."
 msgstr ""
+"Nachdem wir nun herausgefunden haben, wie man die erwarteten Häufigkeiten "
+"berechnet, ist es ein Leichtes, eine Teststatistik zu definieren, und zwar "
+"nach genau derselben Strategie, die wir beim χ²-Anpassungstest verwendet "
+"haben. Tatsächlich ist es sogar annähernd *dieselbe* Statistik."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:165
 msgid ""
 "For a contingency table with *r* rows and *c* columns, the equation that "
 "defines our *X*\\² statistic is"
 msgstr ""
+"Für eine Kontingenztabelle mit *r* Zeilen und *c* Spalten lautet die "
+"Gleichung, die unsere *X*\\²-Statistik definiert"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:168
 msgid ""
@@ -2309,6 +2510,9 @@ msgid ""
 "The only difference is that I have to include two summation signs (i.e., Σ) "
 "to indicate that we’re summing over both rows and columns."
 msgstr ""
+"Der einzige Unterschied besteht darin, dass ich zwei Summenzeichen einfügen "
+"muss (d.h. Σ), um anzuzeigen, dass wir sowohl über Zeilen als auch über "
+"Spalten summieren."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:173
 msgid ""
@@ -2317,6 +2521,10 @@ msgid ""
 "it does a good job of accounting for the data. Therefore, just like last "
 "time, we want to reject the null hypothesis if *X*\\² is too large."
 msgstr ""
+"Wie zuvor deuten große Werte von *X*\\² darauf hin, dass die Nullhypothese "
+"die Daten schlecht beschreibt, während kleine Werte von *X*\\² darauf "
+"hindeuten, dass sie die Daten gut wiedergibt. Daher werden wir, wie beim "
+"letzten Mal, die Nullhypothese verwerfen, wenn *X*\\² zu groß ist."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:179
 msgid ""
@@ -2329,6 +2537,15 @@ msgid ""
 "total number of observations. What about the constraints? Here, it’s "
 "slightly trickier. The answer is always the same"
 msgstr ""
+"Es überrascht nicht, dass diese Statistik χ²-verteilt ist. Alles, was wir "
+"tun müssen, ist herauszufinden, wie viele Freiheitsgrade beteiligt sind, was "
+"eigentlich nicht allzu schwer ist. Wie ich bereits erwähnt habe, kann man "
+"sich die Freiheitsgrade (normalerweise) so vorstellen, dass sie der Anzahl "
+"der zu analysierenden Datenpunkte abzüglich der Anzahl der Beschränkungen "
+"entsprechen. Eine Kontingenztabelle mit *r* Zeilen und *c* Spalten enthält "
+"insgesamt *r* · *c* beobachtete Häufigkeiten, das ist also die Gesamtzahl "
+"der Beobachtungen. Was ist mit den Beschränkungen? Hier ist es etwas "
+"komplizierter. Die Antwort ist immer die gleiche"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:189
 msgid "*df* = (*r* - 1)(*c* - 1)"
