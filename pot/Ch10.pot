@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:45+0100\n"
+"POT-Creation-Date: 2022-12-06 19:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1801,8 +1801,8 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:158
-msgid "Ê\\ :sub:`ij` = (R\\ :sub:`i` × C\\ :sub:`j`) / *N*"
-msgstr "Ê\\ :sub:`ij` = (R\\ :sub:`i` × C\\ :sub:`j`) / *N*"
+msgid "Ê\\ :sub:`ij` = (R\\ :sub:`i` · C\\ :sub:`j`) / *N*"
+msgstr "Ê\\ :sub:`ij` = (R\\ :sub:`i` · C\\ :sub:`j`) / *N*"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:160
 msgid ""
