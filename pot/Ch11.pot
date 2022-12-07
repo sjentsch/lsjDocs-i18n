@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 18:09+0100\n"
+"POT-Creation-Date: 2022-12-07 19:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1367,7 +1367,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_03.rst:395
 msgid ""
 "Bernadette’s class had lower grades than Anastasia’s class: *t*\\(31) = "
-"-2.1, p = 0.04."
+"-2.1, *p* = 0.04."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:398
