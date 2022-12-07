@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 13:07+0100\n"
+"POT-Creation-Date: 2022-12-07 17:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,10 +99,6 @@ msgid ""
 "``Contingency Tables`` analysis in jamovi (see :doc:`Tabulating and cross-"
 "tabulating data <../Ch06/Ch06_DataHandling_1>`), we get the table shown in :"
 "numref:`fig-factorialanova1`."
-msgstr ""
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:38
-msgid "jamovi contingency table of drug by therapy"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:38
