@@ -3002,9 +3002,4 @@ msgid ""
 "tests <../Ch11/Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
 
-#~ msgid ""
-#~ "Bernadette’s class had lower grades than"
-#~ " Anastasia’s class: *t*\\(31) = -2.1, "
-#~ "p = 0.04."
-#~ msgstr ""
 
