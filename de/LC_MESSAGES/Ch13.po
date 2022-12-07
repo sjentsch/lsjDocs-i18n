@@ -45,7 +45,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: 2022-12-07 10:02+0000\n"
+"PO-Revision-Date: 2022-12-07 10:06+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -2540,7 +2540,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:4
 msgid "Assumptions of the one-way ANOVA"
-msgstr ""
+msgstr "Voraussetzungen um eine ANOVA durchführen zu können"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:6
 msgid ""
@@ -3379,7 +3379,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:4
 msgid "On the relationship between ANOVA and the Student *t*-test"
-msgstr ""
+msgstr "Zur Beziehung zwischen ANOVA und Student's *t*-Test"
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:6
 msgid ""
