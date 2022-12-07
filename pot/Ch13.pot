@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
+"POT-Creation-Date: 2022-12-07 13:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,10 +104,6 @@ msgid ""
 "<../Ch04/Ch04_Descriptives>` we showed you how to do this, and some of the "
 "descriptive statistics we can calculate in jamovi are shown in :numref`fig-"
 "anova1`."
-msgstr ""
-
-#: ../../Ch13/Ch13_ANOVA_01.rst:36
-msgid "Descriptives for mood.gain, and box plots by drug administered"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:36
@@ -1395,7 +1391,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
-msgid "``ANOVA`` results table for ``mood gain`` by ``drug`` administered"
+msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31

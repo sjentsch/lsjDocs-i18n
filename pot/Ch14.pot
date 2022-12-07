@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
+"POT-Creation-Date: 2022-12-07 13:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:671
-#: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:552
+#: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:554
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
 msgstr "nominal"
@@ -424,10 +424,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:241
-msgid "jamovi One-way ANOVA of mood.gain by drug"
-msgstr ""
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:241
 msgid "jamovi One-way ANOVA of ``mood.gain`` by ``drug``"
 msgstr ""
 
@@ -442,12 +438,14 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:258
-msgid "jamovi factorial ANOVA for mood.gain with the factors drug and therapy"
+msgid ""
+"jamovi factorial ANOVA for ``mood.gain`` with the factors ``drug`` and "
+"``therapy``"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:258
 msgid ""
-"jamovi factorial ANOVA for mood.gain with the two factors ``drug`` and "
+"jamovi factorial ANOVA for ``mood.gain`` with the two factors ``drug`` and "
 "``therapy``"
 msgstr ""
 
@@ -510,7 +508,7 @@ msgid ""
 "the letter R to refer to the number of rows in the table, but I’m only going "
 "to use “R” to mean residuals in the context of SS\\ :sub:`R` and MS\\ :sub:"
 "`R`, so hopefully this shouldn’t be confusing. Anyway, to apply this formula "
-"to the ``drugs`` factor we take the mean square of 1.73 and divide it by the "
+"to the ``drug`` factor we take the mean square of 1.73 and divide it by the "
 "residual mean square value of 0.07, which gives us an *F*-statistic of "
 "26.15. The corresponding calculation for the ``therapy`` variable would be "
 "to divide 0.47 by 0.07 which gives 7.08 as the *F*-statistic. Not "
@@ -577,9 +575,9 @@ msgstr ""
 msgid ""
 "Okay, let’s start by looking at some of those details. The explanation that "
 "I gave in the last section illustrates the fact that the hypothesis tests "
-"for the main effects (of drug and therapy in this case) are *F*-tests, but "
-"what it doesn’t do is show you how the sum of squares (SS) values are "
-"calculated. Nor does it tell you explicitly how to calculate degrees of "
+"for the main effects (of ``drug`` and ``therapy`` in this case) are *F*-"
+"tests, but what it doesn’t do is show you how the sum of squares (SS) values "
+"are calculated. Nor does it tell you explicitly how to calculate degrees of "
 "freedom (*df* values) though that’s a simple thing by comparison. Let’s "
 "assume for now that we have only two predictor variables, Factor A and "
 "Factor B. If we use *Y* to refer to the outcome variable, then we would use "
@@ -648,8 +646,8 @@ msgstr "Ȳ\\ :sub:`..`"
 msgid ""
 "And if we look at the sample means that I showed earlier, we have Ȳ\\ :sub:"
 "`11` = 0.30, Ȳ\\ :sub:`12` = 0.60 etc. In our clinical trial example, the "
-"``drugs`` factor has 3 levels and the ``therapy`` factor has 2 levels, and "
-"so what we’re trying to run is a 3 × 2 factorial ANOVA. However, we’ll be a "
+"``drug`` factor has 3 levels and the ``therapy`` factor has 2 levels, and so "
+"what we’re trying to run is a 3 × 2 factorial ANOVA. However, we’ll be a "
 "little more general and say that Factor A (the row factor) has *R* levels "
 "and Factor B (the column factor) has *C* levels, and so what we’re runnning "
 "here is an R × C factorial ANOVA."
@@ -719,21 +717,21 @@ msgid ""
 "people who received any particular drug. When we do these calculations in a "
 "spreadsheet programme, we get a value of 3.45 for the sum of squares "
 "associated with the main effect of ``drug``. Not surprisingly, this is the "
-"same number that you get when you look up the SS value for the drugs factor "
-"in the ANOVA table that I presented earlier, in :numref:`fig-"
+"same number that you get when you look up the SS value for the ``drug`` "
+"factor in the ANOVA table that I presented earlier, in :numref:`fig-"
 "factorialanova3`."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:445
 msgid ""
-"We can repeat the same kind of calculation for the effect of therapy. Again, "
-"there are *N* = 3 people in each group, but since there are R = 3 different "
-"drugs, this time around we note that there are 3 · 3 = 9 people who received "
-"CBT and an additional 9 people who received the placebo. So our calculation "
-"in this case gives us a value of 0.47 for the sum of squares associated with "
-"the main effect of ``therapy``. Once again, we are not surprised to see that "
-"our calculations are identical to the ANOVA output in :numref:`fig-"
-"factorialanova3`."
+"We can repeat the same kind of calculation for the effect of ``therapy``. "
+"Again, there are *N* = 3 people in each group, but since there are R = 3 "
+"different values in ``drug``, this time around we note that there are 3 · 3 "
+"= 9 people who received ``CBT`` and an additional 9 people who received ``no."
+"therapy``. So our calculation in this case gives us a value of 0.47 for the "
+"sum of squares associated with the main effect of ``therapy``. Once again, "
+"we are not surprised to see that our calculations are identical to the ANOVA "
+"output in :numref:`fig-factorialanova3`."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:453
@@ -860,16 +858,16 @@ msgid ""
 "The degrees of freedom are calculated in much the same way as for one-way "
 "ANOVA. For any given factor, the degrees of freedom is equal to the number "
 "of levels minus 1 (i.e., R - 1 for the row variable Factor A, and C - 1 for "
-"the column variable Factor B). So, for the ``drugs`` factor we obtain *df* = "
+"the column variable Factor B). So, for the ``drug`` factor we obtain *df* = "
 "2, and for the ``therapy`` factor we obtain *df* = 1. Later on, when we "
 "discuss the interpretation of ANOVA as a regression model (see section :doc:"
 "`ANOVA as a linear model <../Ch14/Ch14_ANOVA2_07>`), I’ll give a clearer "
 "statement of how we arrive at this number. But for the moment we can use the "
 "simple definition of degrees of freedom, namely that the degrees of freedom "
 "equals the number of quantities that are observed, minus the number of "
-"constraints. So, for the ``drugs`` factor, we observe 3 separate group "
-"means, but these are constrained by 1 grand mean, and therefore the degrees "
-"of freedom is 2. For the residuals, the logic is similar, but not quite the "
+"constraints. So, for the ``drug`` factor, we observe 3 separate group means, "
+"but these are constrained by 1 grand mean, and therefore the degrees of "
+"freedom is 2. For the residuals, the logic is similar, but not quite the "
 "same. The total number of observations in our experiment is 18. The "
 "constraints correspond to 1 grand mean, the 2 additional group means that "
 "the ``drug`` factor introduces, and the 1 additional group mean that the the "
@@ -950,21 +948,21 @@ msgid ""
 "will give us a really good sense of *why* it’s a good idea to run the "
 "factorial ANOVA. In chapter :doc:`Comparing several means (one-way ANOVA) "
 "<../Ch13/Ch13_ANOVA>`, I ran a one-way ANOVA that looked to see if there are "
-"any differences between drugs, and a second one-way ANOVA to see if there "
-"were any differences between therapies. As we saw in section :doc:`What "
-"hypotheses are we testing? <../Ch14/Ch14_ANOVA2_01>`, the null and "
-"alternative hypotheses tested by the one-way ANOVAs are in fact identical to "
-"the hypotheses tested by the factorial ANOVA. Looking even more carefully at "
-"the ANOVA tables, we can see that the sum of squares associated with the "
-"factors are identical in the two different analyses (3.453 for ``drug`` and "
-"0.467 for ``therapy``), as are the degrees of freedom (2 for ``drug``, 1 for "
-"``therapy``). But they don’t give the same answers! Most notably, when we "
-"ran the one-way ANOVA for ``therapy`` in section :doc:`On the relationship "
-"between ANOVA and the Student t-test <../Ch13/Ch13_ANOVA_09>` we didn’t find "
-"a significant effect (the *p*-value was 0.210). However, when we look at the "
-"main effect of ``therapy`` within the context of the two-way ANOVA, we do "
-"get a significant effect (p = 0.019). The two analyses are clearly not the "
-"same."
+"any differences between the three levels of ``drug``, and a second one-way "
+"ANOVA to see if there were any differences between the two levels of "
+"``therapy``. As we saw in section :doc:`What hypotheses are we testing? <../"
+"Ch14/Ch14_ANOVA2_01>`, the null and alternative hypotheses tested by the one-"
+"way ANOVAs are in fact identical to the hypotheses tested by the factorial "
+"ANOVA. Looking even more carefully at the ANOVA tables, we can see that the "
+"sum of squares associated with the factors are identical in the two "
+"different analyses (3.453 for ``drug`` and \\0.467 for ``therapy``), as are "
+"the degrees of freedom (2 for ``drug``, 1 for ``therapy``). But they don’t "
+"give the same answers! Most notably, when we ran the one-way ANOVA for "
+"``therapy`` in section :doc:`On the relationship between ANOVA and the "
+"Student t-test <../Ch13/Ch13_ANOVA_09>` we didn’t find a significant effect "
+"(the *p*-value was 0.210). However, when we look at the main effect of "
+"``therapy`` within the context of the two-way ANOVA, we do get a significant "
+"effect (p = 0.019). The two analyses are clearly not the same."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:595
@@ -1071,14 +1069,14 @@ msgid ""
 "Marginal Means`` option - just move ``drug`` and ``therapy`` across into the "
 "``Marginal Means`` box under ``Term 1``. This should look something like :"
 "numref:`fig-interaction`. Our main concern relates to the fact that the two "
-"lines aren’t parallel. The effect of CBT (difference between solid line and "
-"dotted line) when the drug is Joyzepam (right side) appears to be near zero, "
-"even smaller than the effect of CBT when a placebo is used (left side). "
-"However, when Anxifree is administered, the effect of CBT is larger than the "
-"placebo (middle). Is this effect real, or is this just random variation due "
-"to chance? Our original ANOVA cannot answer this question, because we make "
-"no allowances for the idea that interactions even exist! In this section, "
-"we’ll fix this problem."
+"lines aren’t parallel. The effect of ``CBT`` (difference between solid line "
+"and dotted line) when the ``drug`` is ``joyzepam`` (right side) appears to "
+"be near zero, even smaller than the effect of ``CBT`` when a ``placebo`` is "
+"used (left side). However, when ``anxifree`` is administered, the effect of "
+"``CBT`` is larger than that of ``no.therapy`` (middle). Is this effect real, "
+"or is this just random variation due to chance? Our original ANOVA cannot "
+"answer this question, because we make no allowances for the idea that "
+"interactions even exist! In this section, we’ll fix this problem."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:52
@@ -1396,57 +1394,58 @@ msgid ""
 "Adding interaction terms to the ANOVA model in jamovi is straightforward. In "
 "fact it is more than straightforward because it is the default option for "
 "ANOVA. This means that when you specify an ANOVA with two factors, e.g. "
-"``drug`` and ``therapy`` then the interaction component - ``drug*therapy`` - "
-"is added automatically to the model.\\ [#]_ When we run the ANOVA with the "
-"interaction term included, then we get the results shown in :numref:`fig-"
-"factorialanova4`."
+"``drug`` and ``therapy`` then the interaction component - ``drug`` × "
+"``therapy`` (shown as ``drug * therapy``) - is added automatically to the "
+"model.\\ [#]_ When we run the ANOVA with the interaction term included, then "
+"we get the results shown in :numref:`fig-factorialanova4`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:241
+#: ../../Ch14/Ch14_ANOVA2_02.rst:242
 msgid "Results for the full factorial model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:241
+#: ../../Ch14/Ch14_ANOVA2_02.rst:242
 msgid ""
 "Results for the full factorial model, including the interaction component "
-"drug × therapy"
+"``drug`` × ``therapy``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:246
+#: ../../Ch14/Ch14_ANOVA2_02.rst:247
 msgid ""
-"As it turns out, while we do have a significant main effect of drug: "
-"*F*\\(2,12) = 31.7, *p* < 0.001, and therapy type: *F*\\(1,12) = 8.6, *p* = "
-"0.013), there is no significant interaction between the two: *F*\\(2,12) = "
+"As it turns out, while we do have a significant main effect of ``drug``: "
+"*F*\\(2,12) = 31.7, *p* < 0.001, and ``therapy``: *F*\\(1,12) = 8.6, *p* = "
+"\\0.013), there is no significant interaction between the two: *F*\\(2,12) = "
 "2.5, *p* = 0.125)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:251
+#: ../../Ch14/Ch14_ANOVA2_02.rst:253
 msgid "Interpreting the results"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:253
+#: ../../Ch14/Ch14_ANOVA2_02.rst:255
 msgid ""
 "There’s a couple of very important things to consider when interpreting the "
 "results of factorial ANOVA. First, there’s the same issue that we had with "
 "one-way ANOVA, which is that if you obtain a significant main effect of "
-"(say) ``drug``, it doesn’t tell you anything about which drugs are different "
-"to one another. To find that out, you need to run additional analyses. We’ll "
-"talk about some analyses that you can run in sections :doc:`Different ways "
-"to specify contrasts <../Ch14/Ch14_ANOVA2_08>` and :doc:`Post-hoc tests <../"
-"Ch14/Ch14_ANOVA2_09>`. The same is true for interaction effects. Knowing "
-"that there’s a significant interaction doesn’t tell you anything about what "
-"kind of interaction exists. Again, you’ll need to run additional analyses."
+"(say) ``drug``, it doesn’t tell you anything about how the levels of "
+"``drug`` are different to one another. To find that out, you need to run "
+"additional analyses. We’ll talk about some analyses that you can run in "
+"sections :doc:`Different ways to specify contrasts <../Ch14/Ch14_ANOVA2_08>` "
+"and :doc:`Post-hoc tests <../Ch14/Ch14_ANOVA2_09>`. The same is true for "
+"interaction effects. Knowing that there’s a significant interaction doesn’t "
+"tell you anything about what kind of interaction exists. Again, you’ll need "
+"to run additional analyses."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:264
+#: ../../Ch14/Ch14_ANOVA2_02.rst:267
 msgid ""
 "Secondly, there’s a very peculiar interpretation issue that arises when you "
 "obtain a significant interaction effect but no corresponding main effect. "
 "This happens sometimes. For instance, in the crossover interaction shown in :"
-"numref:`fig-interactions`\\ (top-left panel), this is exactly what you’d "
-"find. In this case, neither of the main effects would be significant, but "
-"the interaction effect would be. This is a difficult situation to interpret, "
-"and people often get a bit confused about it. The general advice that "
+"numref:`fig-interactions` (top-left panel), this is exactly what you’d find. "
+"In this case, neither of the main effects would be significant, but the "
+"interaction effect would be. This is a difficult situation to interpret, and "
+"people often get a bit confused about it. The general advice that "
 "statisticians like to give in this situation is that you shouldn’t pay much "
 "attention to the main effects when an interaction is present. The reason "
 "they say this is that, although the tests of the main effects are perfectly "
@@ -1461,7 +1460,7 @@ msgid ""
 "even care about those marginal means."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:283
+#: ../../Ch14/Ch14_ANOVA2_02.rst:286
 msgid ""
 "Here’s what I mean. Again, let’s stick with a clinical example. Suppose that "
 "we had a 2 × 2 design comparing two different treatments for phobias (e.g., "
@@ -1483,7 +1482,7 @@ msgid ""
 "irrelevant."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:301
+#: ../../Ch14/Ch14_ANOVA2_02.rst:304
 msgid ""
 "This sort of thing happens a lot. The main effect are tests of marginal "
 "means, and when an interaction is present we often find ourselves not being "
@@ -1500,7 +1499,7 @@ msgid ""
 "Don’t automatically assume that the main effect is interesting."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:318
+#: ../../Ch14/Ch14_ANOVA2_02.rst:321
 msgid ""
 "You may have spotted this already when looking at the main effects analysis "
 "in jamovi that we described earlier. For the purpose of the explanation in "
@@ -2059,7 +2058,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_07.rst:88 ../../Ch14/Ch14_ANOVA2_07.rst:90
 #: ../../Ch14/Ch14_ANOVA2_07.rst:92 ../../Ch14/Ch14_ANOVA2_07.rst:94
 #: ../../Ch14/Ch14_ANOVA2_07.rst:100 ../../Ch14/Ch14_ANOVA2_07.rst:102
-#: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_07.rst:345
+#: ../../Ch14/Ch14_ANOVA2_07.rst:344 ../../Ch14/Ch14_ANOVA2_07.rst:346
 #: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "1"
 msgstr "1"
@@ -2087,8 +2086,8 @@ msgstr "75"
 #: ../../Ch14/Ch14_ANOVA2_07.rst:92 ../../Ch14/Ch14_ANOVA2_07.rst:94
 #: ../../Ch14/Ch14_ANOVA2_07.rst:96 ../../Ch14/Ch14_ANOVA2_07.rst:98
 #: ../../Ch14/Ch14_ANOVA2_07.rst:100 ../../Ch14/Ch14_ANOVA2_07.rst:102
-#: ../../Ch14/Ch14_ANOVA2_07.rst:341 ../../Ch14/Ch14_ANOVA2_07.rst:343
-#: ../../Ch14/Ch14_ANOVA2_07.rst:345 ../../Ch14/Ch14_ANOVA2_08.rst:13
+#: ../../Ch14/Ch14_ANOVA2_07.rst:342 ../../Ch14/Ch14_ANOVA2_07.rst:344
+#: ../../Ch14/Ch14_ANOVA2_07.rst:346 ../../Ch14/Ch14_ANOVA2_08.rst:13
 #: ../../Ch14/Ch14_ANOVA2_08.rst:15 ../../Ch14/Ch14_ANOVA2_08.rst:17
 #: ../../Ch14/Ch14_ANOVA2_11.rst:544 ../../Ch14/Ch14_ANOVA2_11.rst:546
 msgid "0"
@@ -2483,62 +2482,62 @@ msgid ""
 "called ``druganxifree``. Whenever the ``drug`` variable is equal to "
 "``\"anxifree\"`` we set ``druganxifree = 1``. Otherwise, we set "
 "``druganxifree = 0``. This variable sets up a **contrast**, in this case "
-"between anxifree and the other two drugs. By itself, of course, the "
+"between ``anxifree`` and the other two drugs. By itself, of course, the "
 "``druganxifree`` contrast isn’t enough to fully capture all of the "
 "information in our ``drug`` variable. We need a second contrast, one that "
-"allows us to distinguish between joyzepam and the placebo. To do this, we "
-"can create a second binary contrast, called ``drugjoyzepam``, which equals 1 "
-"if the drug is joyzepam and 0 if it is not. Taken together, these two "
-"contrasts allows us to perfectly discriminate between all three possible "
-"drugs. The table below illustrates this:"
+"allows us to distinguish between ``joyzepam`` and the ``placebo``. To do "
+"this, we can create a second binary contrast, called ``drugjoyzepam``, which "
+"equals 1 if the ``drug`` is ``joyzepam`` and 0 if it is not. Taken together, "
+"these two contrasts allows us to perfectly discriminate between all three "
+"possible levels of ``drug``. The table below illustrates this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:340 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drug``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:340 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``druganxifree``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
+#: ../../Ch14/Ch14_ANOVA2_07.rst:340 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drugjoyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:341 ../../Ch14/Ch14_ANOVA2_08.rst:13
+#: ../../Ch14/Ch14_ANOVA2_07.rst:342 ../../Ch14/Ch14_ANOVA2_08.rst:13
 msgid "``placebo``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_08.rst:15
+#: ../../Ch14/Ch14_ANOVA2_07.rst:344 ../../Ch14/Ch14_ANOVA2_08.rst:15
 msgid "``anxifree``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:345 ../../Ch14/Ch14_ANOVA2_08.rst:17
+#: ../../Ch14/Ch14_ANOVA2_07.rst:346 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "``joyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:348
+#: ../../Ch14/Ch14_ANOVA2_07.rst:349
 msgid ""
-"If the drug administered to a patient is a placebo then both of the two "
-"contrast variables will equal 0. If the drug is Anxifree then the "
-"``druganxifree`` variable will equal 1, and ``drugjoyzepam`` will be 0. The "
-"reverse is true for Joyzepam: ``drugjoyzepam`` is 1 and ``druganxifree`` is "
-"0."
+"If the ``drug`` administered to a patient is a ``placebo`` then both of the "
+"two contrast variables will equal 0. If the ``drug`` is ``anxifree`` then "
+"the ``druganxifree`` variable will equal 1, and ``drugjoyzepam`` will be 0. "
+"The reverse is true for ``joyzepam``: ``drugjoyzepam`` is 1 and "
+"``druganxifree`` is 0."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:353
+#: ../../Ch14/Ch14_ANOVA2_07.rst:355
 msgid ""
 "Creating contrast variables is not too difficult to do using the jamovi "
 "``Compute`` command to create a new variable. For example, to create the "
 "``druganxifree`` variable, write this logical expression in the formula box: "
-"``IF(drug == ’anxifree’, 1, 0)``. Similarly, to create the new variable "
-"``drugjoyzepam`` use this logical expression: ``IF(drug == ’joyzepam’, 1, "
-"0)``. Likewise for ``CBTtherapy``: ``IF(therapy == ’CBT’, 1, 0)``. You can "
+"``IF(drug == 'anxifree', 1, 0)``. Similarly, to create the new variable "
+"``drugjoyzepam`` use this logical expression: ``IF(drug == 'joyzepam', 1, "
+"0)``. Likewise for ``CBTtherapy``: ``IF(therapy == 'CBT', 1, 0)``. You can "
 "see these new variables, and the corresponding logical expressions, in the |"
 "clinicaltrial2|_ data set."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:362
+#: ../../Ch14/Ch14_ANOVA2_07.rst:364
 msgid ""
 "We have now recoded our three-level factor in terms of two binary variables, "
 "and we’ve already seen that ANOVA and regression behave the same way for "
@@ -2546,11 +2545,11 @@ msgid ""
 "in this case, which we’ll discuss in the next section."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:368
+#: ../../Ch14/Ch14_ANOVA2_07.rst:370
 msgid "The equivalence between ANOVA and regression for non-binary factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:370
+#: ../../Ch14/Ch14_ANOVA2_07.rst:372
 msgid ""
 "Now we have two different versions of the same data set. Our original data "
 "in which the ``drug`` variable from the |clinicaltrial|_ data set is "
@@ -2562,18 +2561,18 @@ msgid ""
 "factorialanova9`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:384
+#: ../../Ch14/Ch14_ANOVA2_07.rst:386
 msgid "ANOVA results for the |clinicaltrial| dataset: Unsaturated model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:384
+#: ../../Ch14/Ch14_ANOVA2_07.rst:386
 msgid ""
 "jamovi ANOVA results for the |clinicaltrial|_ dataset: Unsaturated model "
 "with the two main effects for ``drug`` and ``therapy`` but without an "
 "interaction component for these two factors"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:390
+#: ../../Ch14/Ch14_ANOVA2_07.rst:392
 msgid ""
 "Obviously, there are no surprises here. That’s the exact same ANOVA that we "
 "ran earlier. Next, let’s run a regression using ``druganxifree``, "
@@ -2581,17 +2580,17 @@ msgid ""
 "in :numref:`fig-factorialanova10`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:401
+#: ../../Ch14/Ch14_ANOVA2_07.rst:403
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:401
+#: ../../Ch14/Ch14_ANOVA2_07.rst:403
 msgid ""
 "jamovi regression results for the |clinicaltrial|_ data set: Model with the "
 "generated contrast variables ``druganxifree`` and ``drugjoyzepam``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:406
+#: ../../Ch14/Ch14_ANOVA2_07.rst:408
 msgid ""
 "Hmm. This isn’t the same output that we got last time. Not surprisingly, the "
 "regression output prints out the results for each of the three predictors "
@@ -2610,25 +2609,25 @@ msgid ""
 "``drugjoyzepam`` and ``therapyCBT``. However, you and I know better. At this "
 "stage we’re not at all interested in determining whether these two contrasts "
 "are individually significant. We just want to know if there’s an “overall” "
-"effect of drug. That is, what *we* want jamovi to do is to run some kind of "
-"“model comparison” test, one in which the two “drug-related” contrasts are "
-"lumped together for the purpose of the test. Sound familiar? All we need to "
-"do is specify our null model, which in this case would include the "
+"effect of ``drug``. That is, what *we* want jamovi to do is to run some kind "
+"of “model comparison” test, one in which the two “drug-related” contrasts "
+"are lumped together for the purpose of the test. Sound familiar? All we need "
+"to do is specify our null model, which in this case would include the "
 "``CBTtherapy`` predictor, and omit both of the drug-related variables, as "
 "in :numref:`fig-factorialanova11`\\."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:435
+#: ../../Ch14/Ch14_ANOVA2_07.rst:437
 msgid "Model comparison: Null model 1 vs. contrasts model 2"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:435
+#: ../../Ch14/Ch14_ANOVA2_07.rst:437
 msgid ""
 "Model comparison in jamovi regression: Null model (Model 1) vs. model using "
 "the generated contrast variables (Model 2)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:440
+#: ../../Ch14/Ch14_ANOVA2_07.rst:442
 msgid ""
 "Ah, that’s better. Our *F*-statistic is 26.15, the degrees of freedom are 2 "
 "and 14, and the *p*-value is 0.00002. The numbers are identical to the ones "
@@ -2640,7 +2639,7 @@ msgid ""
 "to rely heavily on this idea."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:449
+#: ../../Ch14/Ch14_ANOVA2_07.rst:451
 msgid ""
 "Although we went through all the faff of computing new variables in jamovi "
 "for the contrasts ``druganxifree`` and ``drugjoyzepam``, just to show that "
@@ -2653,17 +2652,17 @@ msgid ""
 "``placebo`` and ``no.therapy``, respectively, because this makes most sense."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:465
+#: ../../Ch14/Ch14_ANOVA2_07.rst:467
 msgid "Regression analysis with factors and contrasts"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:465
+#: ../../Ch14/Ch14_ANOVA2_07.rst:467
 msgid ""
 "Regression analysis with factors and contrasts in jamovi, including omnibus "
 "ANOVA test results"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:470
+#: ../../Ch14/Ch14_ANOVA2_07.rst:472
 msgid ""
 "If you also click on the ``ANOVA`` test checkbox under the ``Model "
 "Coefficients`` → ``Omnibus Test`` option, we see that the *F*-statistic is "
@@ -2675,11 +2674,11 @@ msgid ""
 "identical to the machinery used in regression."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:480
+#: ../../Ch14/Ch14_ANOVA2_07.rst:482
 msgid "Degrees of freedom as parameter counting!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:482
+#: ../../Ch14/Ch14_ANOVA2_07.rst:484
 msgid ""
 "At long last, I can finally give a definition of degrees of freedom that I "
 "am happy with. Degrees of freedom are defined in terms of the number of "
@@ -2697,7 +2696,7 @@ msgid ""
 "between these two models is *df*\\ :sub:`1` = 4 - 2 = 2."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:498
+#: ../../Ch14/Ch14_ANOVA2_07.rst:500
 msgid ""
 "What about the case when there doesn’t seem to *be* a null model? For "
 "instance, you might be thinking of the *F*-test that shows up when you "
@@ -2711,7 +2710,7 @@ msgid ""
 "*df*\\ :sub:`1` = K + 1 - 1 = K."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:510
+#: ../../Ch14/Ch14_ANOVA2_07.rst:512
 msgid ""
 "What about the second *df*-value that appears in the *F*-test? This always "
 "refers to the degrees of freedom associated with the residuals. It is "
@@ -3089,33 +3088,33 @@ msgstr ""
 msgid ""
 "So far, so good. What about the situation where your model includes "
 "interaction terms? For instance, the default option in jamovi is to allow "
-"for the possibility that there is an interaction between drug and therapy. "
-"If that’s the case, the number of pairwise comparisons that we need to "
-"consider starts to increase. As before, we need to consider the three "
-"comparisons that are relevant to the main effect of ``drug`` and the one "
-"comparison that is relevant to the main effect of ``therapy``. But, if we "
-"want to consider the possibility of a significant interaction (and try to "
+"for the possibility that there is an interaction between ``drug`` and "
+"``therapy``. If that’s the case, the number of pairwise comparisons that we "
+"need to consider starts to increase. As before, we need to consider the "
+"three comparisons that are relevant to the main effect of ``drug`` and the "
+"one comparison that is relevant to the main effect of ``therapy``. But, if "
+"we want to consider the possibility of a significant interaction (and try to "
 "find the group differences that underpin that significant interaction), we "
 "need to include comparisons such as the following:"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:104
 msgid ""
-"The difference in mood gain for people given Anxifree and treated with CBT, "
-"versus people given the placebo and treated with CBT"
+"The difference in ``mood.gain`` for people given ``anxifree`` and treated "
+"with ``CBT``, versus people given the ``placebo`` and treated with ``CBT``"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:107
 msgid ""
-"The difference in mood gain for people given Anxifree and given no therapy, "
-"versus people given the placebo and given no therapy."
+"The difference in ``mood.gain`` for people given ``anxifree`` and given ``no."
+"therapy``, versus people given the ``placebo`` and given ``no.therapy``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:110
+#: ../../Ch14/Ch14_ANOVA2_09.rst:111
 msgid "etc"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:112
+#: ../../Ch14/Ch14_ANOVA2_09.rst:113
 msgid ""
 "There are quite a lot of these comparisons that you need to consider. So, "
 "when we run the Tukey post-hoc analysis for this ANOVA model, we see that it "
@@ -3124,18 +3123,18 @@ msgid ""
 "but with a lot more comparisons made."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:124
+#: ../../Ch14/Ch14_ANOVA2_09.rst:125
 msgid "Results table for a Tukey HSD post-hoc test"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:124
+#: ../../Ch14/Ch14_ANOVA2_09.rst:125
 msgid ""
 "Results table for a Tukey HSD post-hoc test within jamovi's factorial ANOVA "
 "procedure: Unsaturated model with the factors ``drug`` and ``therapy`` but "
 "without an interaction term (using the |clinicaltrial|_ data set)"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:133
+#: ../../Ch14/Ch14_ANOVA2_09.rst:134
 msgid ""
 "If, for instance, you actually find yourself interested to know if Group A "
 "is significantly different from the mean of Group B and Group C, then you "
@@ -3156,13 +3155,13 @@ msgid ""
 "deserve a quick discussion. In our discussions of multiple comparisons, in "
 "the previous section and back in chapter :doc:`Comparing several means (one-"
 "way ANOVA) <../Ch13/Ch13_ANOVA>`, I’ve been assuming that the tests you want "
-"to run are genuinely post-hoc. For instance, in our drugs example above, "
-"maybe you thought that the drugs would all have different effects on mood (i."
-"e., you hypothesised a main effect of drug), but you didn’t have any "
-"specific hypothesis about how they would be different, nor did you have any "
-"real idea about *which* pairwise comparisons would be worth looking at. If "
-"that is the case, then you really have to resort to something like Tukey’s "
-"HSD to do your pairwise comparisons."
+"to run are genuinely post-hoc. For instance, in our |clinicaltrial|_ example "
+"above, maybe you thought that the levels of ``drug`` would all have "
+"different effects on mood (i.e., you hypothesised a main effect of "
+"``drug``), but you didn’t have any specific hypothesis about how they would "
+"be different, nor did you have any real idea about *which* pairwise "
+"comparisons would be worth looking at. If that is the case, then you really "
+"have to resort to something like Tukey’s HSD to do your pairwise comparisons."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_10.rst:18
