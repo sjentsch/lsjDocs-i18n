@@ -15,18 +15,21 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-07 20:15+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-07 19:47+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:4
@@ -997,6 +1000,13 @@ msgid ""
 "factor) has *R* levels and Factor B (the column factor) has *C* levels, "
 "and so what we’re runnning here is an R × C factorial ANOVA."
 msgstr ""
+"Wenn wir uns die Stichprobenmittelwerte ansehen, die ich vorhin gezeigt "
+"habe, haben wir Ȳ\\ :sub:`11` = 0,30, Ȳ\\ :sub:`12` = 0,60 usw. In unserem "
+"|clinicaltrial|_-Datensatz hat der Faktor ``drug`` 3 Stufen und der Faktor "
+"``therapy`` 2 Stufen, so dass wir versuchen, eine 3 × 2 faktorielle ANOVA "
+"durchzuführen. Wir werden jedoch etwas allgemeiner sein und sagen, dass der "
+"Faktor A (der Zeilenfaktor) *R* Stufen und der Faktor B (der Spaltenfaktor) "
+"*C* Stufen hat, so dass wir hier eine R × C faktorielle ANOVA durchführen."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:402
 msgid ""
@@ -1010,6 +1020,15 @@ msgid ""
 " values. Specifically, if there are *N* people in each group, then we "
 "calculate this"
 msgstr ""
+"Nachdem wir unsere Notation geklärt haben, können wir die Summe der Quadrate "
+"für jeden der beiden Faktoren auf die gewohnte Weise berechnen. Für Faktor A "
+"wird die Summe der Quadrate zwischen den Gruppen berechnet, indem das Ausmaß "
+"bewertet wird, in dem die (Zeilen-)Randmittel Ȳ\\ :sub:`1.`, Ȳ\\ :sub:`2.` "
+"usw. vom Gesamtmittelwert Ȳ\\ :sub:`..`\\ abweichen. Wir tun dies auf die "
+"gleiche Weise wie bei der einfaktoriellen ANOVA: Wir berechnen die Summe der "
+"quadrierten Abweichungen zwischen den Ȳ\\ :sub:`i.`-Werten und den Ȳ\\ "
+":sub:`..`-Werten. Konkret berechnen wir Folgendes, wenn es *N* Personen in "
+"jeder Gruppe gibt"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:412
 msgid ""
@@ -4524,7 +4543,3 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
 msgstr ""
-
-
-
-
