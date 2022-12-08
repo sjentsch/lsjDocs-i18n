@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-07 20:15+0100\n"
-"PO-Revision-Date: 2022-12-08 16:49+0000\n"
+"PO-Revision-Date: 2022-12-08 17:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -1854,9 +1854,8 @@ msgid ""
 msgstr ""
 "Wenn alle Gruppen die gleiche Anzahl von Beobachtungen haben, wird der "
 "Versuchsplan als „balanciert“ bezeichnet. Balanciertheit ist bei der "
-"einseitigen ANOVA, um die es in diesem Kapitel geht, keine große Sache. "
-"Es wird wichtiger, wenn Sie anfangen, kompliziertere ANOVAs "
-"durchzuführen."
+"einfaktoriellen ANOVA, um die es in diesem Kapitel geht, keine große Sache. "
+"Es wird wichtiger, wenn Sie anfangen, kompliziertere ANOVAs durchzuführen."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:625
 msgid ""
@@ -2817,7 +2816,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:199
 msgid "Checking the normality assumption"
-msgstr ""
+msgstr "Prüfung der Annahme einer Normalverteilung"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:201
 msgid ""
