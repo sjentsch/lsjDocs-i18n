@@ -22,27 +22,16 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-09 10:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-07 20:15+0100\n"
-"PO-Revision-Date: 2022-12-09 08:49+0000\n"
+"PO-Revision-Date: 2022-12-09 10:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2856,13 +2845,16 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:67
 msgid "The jamovi ANCOVA options panel"
-msgstr ""
+msgstr "Das ANCOVA-Optionsfeld in jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:67
 msgid ""
 "Options panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
+"Optionsfeld mit den Feldern für die Zuweisung der Variablen ``Dependent "
+"Variable``, ``Fixed Factors`` und ``Covariates`` innerhalb der ANCOVA in "
+"jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:73
 msgid ""
