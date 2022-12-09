@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 20:15+0100\n"
+"POT-Creation-Date: 2022-12-09 10:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,12 +43,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
-#: ../../Ch11/Ch11_tTest_09.rst:139
+#: ../../Ch11/Ch11_tTest_09.rst:142
 msgid "nominal"
 msgstr "nominal"
 
 #: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
-#: ../../Ch11/Ch11_tTest_09.rst:136
+#: ../../Ch11/Ch11_tTest_09.rst:139
 msgid "continuous"
 msgstr "continuous"
 
@@ -2455,7 +2455,7 @@ msgid ""
 "In the meantime, it’s probably worth showing you an example of what happens "
 "to the QQ plot and the Shapiro-Wilk test when the data turn out to be non-"
 "normal. For that, let’s look at the distribution of our AFL winning margins "
-"(``afl.margins``) variable (from the |aflsmall_margins|_ data set), which if "
+"variable (``afl.margins`` from the |aflsmall_margins|_ data set), which if "
 "you remember back to th chapter on :doc:`Descriptive statistics <../Ch04/"
 "Ch04_Descriptives>` didn’t look like they came from a normal distribution at "
 "all. Here’s what happens to the QQ plot:"
@@ -2475,9 +2475,9 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:161
 msgid ""
-"And when we run the Shapiro-Wilk test on the AFL margins data, we get a "
-"value for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-"
-"value = 9.481e-07. Clearly a significant effect!"
+"And when we run the Shapiro-Wilk test with ``afl.margins``, we get a value "
+"for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-value = "
+"9.481e-07. Clearly a significant effect!"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:168
@@ -2502,9 +2502,10 @@ msgstr ""
 msgid ""
 "Okay, suppose your data turn out to be pretty substantially non-normal, but "
 "you still want to run something like a *t*-test? This situation occurs a lot "
-"in real life. For the AFL winning margins data, for instance, the Shapiro-"
-"Wilk test made it very clear that the normality assumption is violated. This "
-"is the situation where you want to use Wilcoxon tests."
+"in real life. For the AFL winning margins data (``afl.margins`` from the |"
+"aflsmall_margins|_ data set), for instance, the Shapiro-Wilk test made it "
+"very clear that the normality assumption is violated. This is the situation "
+"where you want to use Wilcoxon tests."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:13
@@ -2639,7 +2640,7 @@ msgid ""
 "this:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_09.rst:142
+#: ../../Ch11/Ch11_tTest_09.rst:145
 msgid "ordinal"
 msgstr "ordinal"
 
