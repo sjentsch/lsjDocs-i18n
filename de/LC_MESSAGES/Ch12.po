@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-07 19:28+0100\n"
-"PO-Revision-Date: 2022-12-07 19:47+0000\n"
+"PO-Revision-Date: 2022-12-09 09:17+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
@@ -2079,6 +2079,13 @@ msgid ""
 "residuals ε are normal. See section :doc:`Checking the normality of the "
 "residuals <../Ch12/Ch12_Regression_11>`."
 msgstr ""
+"*Normalverteilung*. Wie viele Modelle in der Statistik beruht auch die "
+"einfache oder multiple lineare Regression auf der Annahme einer "
+"Normalverteilung. Insbesondere wird angenommen, dass die *Residuen* "
+"normalverteilt sind. Es ist eigentlich in Ordnung, wenn die Prädiktoren *X* "
+"und das Ergebnis *Y* nicht normalverteilt sind, solange die Residuen ε "
+"normalverteilt sind. Siehe Abschnitt :doc:`Überprüfen der Normalverteilung "
+"der Residuen <../Ch12/Ch12_Regression_11>`."
 
 #: ../../Ch12/Ch12_Regression_10.rst:18
 msgid ""
@@ -2472,7 +2479,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:268
 msgid "Checking the normality of the residuals"
-msgstr ""
+msgstr "Überprüfen der Normalverteilung der Residuen"
 
 #: ../../Ch12/Ch12_Regression_11.rst:270
 msgid ""
@@ -2481,6 +2488,11 @@ msgid ""
 "residuals are normally distributed. The first thing we can do is draw a QQ-"
 "plot via the ``Assumption Checks`` → ``Q-Q plot of residuals`` option."
 msgstr ""
+"Wie viele der statistischen Werkzeuge, die wir in diesem Buch besprochen "
+"haben, beruhen auch Regressionsmodelle auf der Annahme einer "
+"Normalverteilung. In diesem Fall gehen wir davon aus, dass die Residuen "
+"normalverteilt sind. Als Erstes können wir mit der Option ``Assumption "
+"Checks`` → ``Q-Q plot of residuals`` ein QQ-Diagramm zeichnen."
 
 #: ../../Ch12/Ch12_Regression_11.rst:275
 msgid ""
