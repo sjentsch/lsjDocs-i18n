@@ -48,7 +48,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-09 10:33+0100\n"
-"PO-Revision-Date: 2022-12-11 09:23+0000\n"
+"PO-Revision-Date: 2022-12-11 09:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
 "\n"
@@ -232,6 +232,11 @@ msgid ""
 "hypothesised population mean of µ = 67.5 but, on the other hand, a sample "
 "size of *N* = 20 isn’t all that big. Maybe it’s pure chance."
 msgstr ""
+"Es *könnte* sein, dass die Psychologiestudenten etwas höhere Werte als "
+"andere Studenten erreichen. Der Stichprobenmittelwert von *X̄* = 72,3 ist "
+"ein gutes Stück höher als der hypothetische Populationsmittelwert von µ = "
+"67,5. Aber andererseits ist eine Stichprobengröße von *N* = 20 nicht "
+"wirklich groß. Vielleicht ist es reiner Zufall."
 
 #: ../../Ch11/Ch11_tTest_01.rst:38
 msgid ""
@@ -242,6 +247,13 @@ msgid ""
 "standard deviation is σ = \\9.5. I’ll also assume that since Dr Zeppo is "
 "grading to a curve, the psychology student grades are normally distributed."
 msgstr ""
+"Um die Frage zu beantworten, ist es hilfreich, wenn ich aufschreibe, was ich "
+"zu wissen glaube. Erstens weiß ich, dass der Stichprobenmittelwert *X̄* = "
+"72,3 beträgt. Wenn ich davon ausgehe, dass die Psychologiestudenten die "
+"gleiche Standardabweichung haben wie der Rest der Klasse, kann ich sagen, "
+"dass die Standardabweichung der Grundgesamtheit σ = 9,5 ist. Ich nehme "
+"außerdem an, dass die Noten der Psychologiestudenten normalverteilt sind, da "
+"Dr. Zeppo sie entsprechend einer Normalverteilungskurve benotet."
 
 #: ../../Ch11/Ch11_tTest_01.rst:45
 msgid ""
@@ -254,20 +266,31 @@ msgid ""
 "zeppo`. Not entirely obvious what the right answer is, is it? For this, we "
 "are going to need some statistics."
 msgstr ""
+"Als Nächstes ist es hilfreich, sich darüber klar zu werden, was ich aus den "
+"Daten lernen möchte. In diesem Fall bezieht sich meine Forschungshypothese "
+"auf den Mittelwert *µ* der *Population* in Bezug auf die Noten der "
+"Psychologiestudenten, der unbekannt ist. Konkret möchte ich wissen, ob *µ* = "
+"67,5 ist oder nicht. Können wir, da ich dies weiß, einen Hypothesentest zur "
+"Lösung unseres Problems aufstellen? Die Daten sind zusammen mit der "
+"hypothetischen Verteilung, von der man annimmt, dass sie aus dieser stammen, "
+"in :numref:`fig-zeppo` dargestellt. Es ist nicht ganz klar, was die richtige "
+"Antwort ist. Hierfür benötigen wir einige statistische Daten."
 
 #: ../../Ch11/Ch11_tTest_01.rst:60
 msgid "Theoretical and empirical distribution of student grades"
-msgstr ""
+msgstr "Theoretische und empirische Verteilung der Schülernoten"
 
 #: ../../Ch11/Ch11_tTest_01.rst:60
 msgid ""
 "The theoretical distribution (solid line) from which the psychology student "
 "grades (bars) are supposed to have been generated."
 msgstr ""
+"Die theoretische Verteilung (durchgezogene Linie), aus der sich die Noten "
+"der Psychologiestudenten (Balken) ergeben haben sollen."
 
 #: ../../Ch11/Ch11_tTest_01.rst:66
 msgid "Constructing the hypothesis test"
-msgstr ""
+msgstr "Aufbau unseres Hypothesentests"
 
 #: ../../Ch11/Ch11_tTest_01.rst:68
 msgid ""
@@ -305,14 +328,23 @@ msgid ""
 "might be useful. Specifically, there are two special pieces of information "
 "that we can add:"
 msgstr ""
+"Obwohl diese Notation ehrlich gesagt nicht viel zu unserem Verständnis des "
+"Problems beiträgt, ist es eine kompakte Art, aufzuschreiben, was wir aus den "
+"Daten zu lernen versuchen. Die Nullhypothesen H\\ :sub:`0` und die "
+"Alternativhypothese H\\ :sub:`1` für unseren Test sind beide in :numref:`fig-"
+"ztesthyp` dargestellt. Das oben beschriebene Szenario liefert uns nicht nur "
+"diese Hypothesen, sondern auch einiges an Hintergrundwissen, das nützlich "
+"sein könnte. Insbesondere gibt es zwei spezielle Informationen, die "
+"ebenfalls relevant sind:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:87
 msgid "The psychology grades are normally distributed."
-msgstr ""
+msgstr "Die Noten der Psychologiestudenten sind normalverteilt."
 
 #: ../../Ch11/Ch11_tTest_01.rst:89
 msgid "The true standard deviation of these scores *σ* is known to be 9.5."
 msgstr ""
+"Die tatsächliche Standardabweichung dieser Werte *σ* beträgt bekanntlich 9,5."
 
 #: ../../Ch11/Ch11_tTest_01.rst:92
 msgid ""
