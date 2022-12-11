@@ -1010,35 +1010,13 @@ msgid ""
 "don’t usually show up in an introductory stats and research methods class."
 msgstr ""
 
-#~ msgid "44%"
-#~ msgstr "44%"
 
-#~ msgid "35%"
-#~ msgstr "35%"
 
-#~ msgid "62%"
-#~ msgstr "62%"
 
-#~ msgid "82%"
-#~ msgstr "82%"
 
-#~ msgid "63%"
-#~ msgstr "63%"
 
-#~ msgid "68%"
-#~ msgstr "68%"
 
-#~ msgid "37%"
-#~ msgstr "37%"
 
-#~ msgid "34%"
-#~ msgstr "34%"
 
-#~ msgid "33%"
-#~ msgstr "33%"
 
-#~ msgid "28%"
-#~ msgstr "28%"
 
-#~ msgid "24%"
-#~ msgstr "24%"
