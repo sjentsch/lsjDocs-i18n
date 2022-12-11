@@ -20,119 +20,7 @@
 #
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
@@ -144,7 +32,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,7 +43,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:06+0100\n"
+"POT-Creation-Date: 2022-12-11 19:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -166,7 +54,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 20:06+0100\n"
+"POT-Creation-Date: 2022-12-11 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -175,196 +63,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:53+0100\n"
+"POT-Creation-Date: 2022-12-11 18:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-09 10:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 20:15+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 19:28+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 18:09+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:08+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 16:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 13:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:45+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 18:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Last-Translator: Anna Schmidtke <anna.schmidtke@ipu-berlin.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/"
-">\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch07/Ch07_Probability.rst:4
@@ -426,21 +134,22 @@ msgstr ""
 "Meinungsumfragen ist."
 
 #: ../../Ch07/Ch07_Probability.rst:45
+#, python-format
 msgid ""
 "This kind of remark is entirely unremarkable in the papers or in everyday "
 "life, but let’s have a think about what it entails. A polling company has "
 "conducted a survey, usually a pretty big one because they can afford it. I’m "
 "too lazy to track down the original survey so let’s just imagine that they "
-"called 1000 New South Wales (NSW) voters at random, and 230 (23%) of those "
+"called 1000 New South Wales (NSW) voters at random, and 230 (23\\%) of those "
 "claimed that they intended to vote for the Australian Labor Party (ALP). For "
 "the 2010 Federal election the Australian Electoral Commission reported "
 "4,610,795 enrolled voters in NSW, so the opinions of the remaining 4,609,795 "
-"voters (about 99.98% of voters) remain unknown to us. Even assuming that no-"
-"one lied to the polling company the only thing we can say with 100% "
+"voters (about 99.98\\% of voters) remain unknown to us. Even assuming that "
+"no-one lied to the polling company the only thing we can say with 100\\% "
 "confidence is that the true ALP primary vote is somewhere between "
-"230/4610795 (about \\0.005%) and 4610025/4610795 (about 99.83%). So, on what "
-"basis is it legitimate for the polling company, the newspaper, and the "
-"readership to conclude that the ALP primary vote is only about 23%?"
+"230/4610795 (about \\0.005\\%) and 4610025/4610795 (about 99.83\\%). So, on "
+"what basis is it legitimate for the polling company, the newspaper, and the "
+"readership to conclude that the ALP primary vote is only about 23\\%?"
 msgstr ""
 "Diese Art von Bemerkung ist in den Zeitungen oder im Alltag völlig "
 "unauffällig, aber denken wir einmal darüber nach, was sie bedeutet. Ein "
@@ -448,19 +157,20 @@ msgstr ""
 "ziemlich große, weil sie es sich leisten können. Ich bin zu faul, um die "
 "Originalumfrage ausfindig zu machen, also stellen wir uns einfach vor, dass "
 "1000 Wähler aus New South Wales (NSW) nach dem Zufallsprinzip angerufen "
-"wurden und 230 (23%) von ihnen angaben, dass sie beabsichtigten, für die "
+"wurden und 230 (23 %) von ihnen angaben, dass sie beabsichtigten, für die "
 "Australian Labor Party (ALP) zu stimmen. Für die Parlamentswahl 2010 meldete "
 "die australische Wahlkommission 4 610 795 registrierte Wähler in NSW, so "
-"dass uns die Meinung der übrigen 4 609 795 Wähler (etwa 99,98% der Wähler) "
+"dass uns die Meinung der übrigen 4 609 795 Wähler (etwa 99,98 % der Wähler) "
 "unbekannt bleibt. Selbst wenn man davon ausgeht, dass niemand das "
-"Meinungsforschungsinstitut belogen hat, können wir mit 100% "
+"Meinungsforschungsinstitut belogen hat, können wir mit 100 % "
 "Wahrscheinlichkeit nur sagen, dass das wahre Ergebnis der ALP-Vorwahlen "
-"irgendwo zwischen 230 / 4610795 (etwa 0,005%) und 4610025 / 4610795 (etwa "
-"99,83%) liegt. Auf welcher Grundlage ist es also legitim, dass das "
+"irgendwo zwischen 230 / 4610795 (etwa 0,005 %) und 4610025 / 4610795 (etwa "
+"99,83 %) liegt. Auf welcher Grundlage ist es also legitim, dass das "
 "Meinungsforschungsinstitut, die Zeitung und die Leserschaft zu dem Schluss "
-"kommen, dass die Vorzugsstimmen der ALP nur etwa 23% betragen?"
+"kommen, dass die Vorzugsstimmen der ALP nur etwa 23 % betragen?"
 
 #: ../../Ch07/Ch07_Probability.rst:61
+#, python-format
 msgid ""
 "The answer to the question is pretty obvious. If I call 1000 people at "
 "random, and 230 of them say they intend to vote for the ALP, then it seems "
@@ -468,11 +178,11 @@ msgid ""
 "public who actually intend to vote ALP. In other words, we assume that the "
 "data collected by the polling company is pretty representative of the "
 "population at large. But how representative? Would we be surprised to "
-"discover that the true ALP primary vote is actually 24%? 29%? 37%? At this "
-"point everyday intuition starts to break down a bit. No-one would be "
-"surprised by 24%, and everybody would be surprised by 37%, but it’s a bit "
-"hard to say whether 29% is plausible. We need some more powerful tools than "
-"just looking at the numbers and guessing."
+"discover that the true ALP primary vote is actually 24\\%? 29\\%? 37\\%? At "
+"this point everyday intuition starts to break down a bit. No-one would be "
+"surprised by 24\\%, and everybody would be surprised by 37\\%, but it’s a "
+"bit hard to say whether 29\\% is plausible. We need some more powerful tools "
+"than just looking at the numbers and guessing."
 msgstr ""
 "Die Antwort auf diese Frage ist ziemlich offensichtlich. Wenn ich 1000 "
 "Personen nach dem Zufallsprinzip anrufe und 230 von ihnen sagen, dass sie "
@@ -482,10 +192,10 @@ msgstr ""
 "dass die vom Meinungsforschungsinstitut erhobenen Daten ziemlich "
 "repräsentativ für die Gesamtbevölkerung sind. Aber wie repräsentativ sind "
 "sie? Würde es uns überraschen, wenn wir herausfänden, dass das tatsächliche "
-"Wahlergebnis der ALP in den Vorwahlen bei 24% liegt? 29%? 37%? An diesem "
+"Wahlergebnis der ALP in den Vorwahlen bei 24 % liegt? 29 %? 37 %? An diesem "
 "Punkt beginnt die alltägliche Intuition ein wenig zu versagen. Niemand wäre "
-"von 24% überrascht, und jeder wäre von 37% überrascht, aber es ist ein "
-"bisschen schwierig zu sagen, ob 29% plausibel ist. Wir brauchen "
+"von 24 % überrascht, und jeder wäre von 37 % überrascht, aber es ist ein "
+"bisschen schwierig zu sagen, ob 29 % plausibel ist. Wir brauchen "
 "leistungsfähigere Instrumente, als nur auf die Zahlen zu schauen und zu "
 "raten."
 
@@ -565,13 +275,14 @@ msgid "What are the chances that I’ll win the lottery?"
 msgstr "Wie stehen die Chancen, dass ich im Lotto gewinne?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:25
+#, python-format
 msgid ""
 "Notice that all of these questions have something in common. In each case "
 "the “truth of the world” is known and my question relates to the “what kind "
 "of events” will happen. In the first question I *know* that the coin is fair "
-"so there’s a 50% chance that any individual coin flip will come up heads. In "
-"the second question I *know* that the chance of rolling a 6 on a single die "
-"is 1 in 6. In the third question I *know* that the deck is shuffled "
+"so there’s a 50\\% chance that any individual coin flip will come up heads. "
+"In the second question I *know* that the chance of rolling a 6 on a single "
+"die is 1 in 6. In the third question I *know* that the deck is shuffled "
 "properly. And in the fourth question I *know* that the lottery follows "
 "specific rules. You get the idea. The critical point is that probabilistic "
 "questions start with a known **model** of the world, and we use that model "
@@ -582,7 +293,7 @@ msgstr ""
 "ist die „Wahrheit der Welt“ bekannt und meine Frage bezieht sich auf die "
 "„welche Art von Ereignissen“ eintreten könnten. In der ersten Frage *weiß* "
 "ich, dass wenn die Münze echt ist, die Wahrscheinlichkeit dafür, dass ein "
-"Münzwurf Kopf ergibt, 50% ist. Bei der zweiten Frage *weiß ich*, dass die "
+"Münzwurf Kopf ergibt, 50 % ist. Bei der zweiten Frage *weiß ich*, dass die "
 "Wahrscheinlichkeit, eine 6 zu würfeln, 1 zu 6 ist. Bei der dritten Frage "
 "*weiß* ich, dass das Kartenspiel richtig gemischt wurde. Und bei der vierten "
 "Frage *weiß* ich, dass die Lotterie bestimmten Regeln folgt. Sie verstehen "
@@ -599,7 +310,7 @@ msgstr "P\\ (Kopf) = 0,5"
 #: ../../Ch07/Ch07_Probability_1.rst:40
 msgid ""
 "which you can read as “the probability of heads is 0.5”. As we’ll see later, "
-"in the same way that percentages are numbers that range from 0% to 100%, "
+"in the same way that percentages are numbers that range from 0\\% to 100\\%, "
 "probabilities are just numbers that range from 0 to 1. When using this "
 "probability model to answer the first question I don’t actually know exactly "
 "what’s going to happen. Maybe I’ll get 10 heads, like the question says. But "
@@ -731,13 +442,13 @@ msgstr ""
 msgid ""
 "So I’ll have a go at it. Let’s suppose I want to bet on a soccer game "
 "between two teams of robots, *Arduino Arsenal* and *C Milan*. After thinking "
-"about it, I decide that there is an 80% probability of *Arduino Arsenal* "
+"about it, I decide that there is an 80\\% probability of *Arduino Arsenal* "
 "winning. What do I mean by that? Here are three possibilities:"
 msgstr ""
 "Ich werde es also versuchen. Nehmen wir an, ich möchte auf ein Fußballspiel "
 "zwischen zwei Roboterteams wetten, *Arduino Arsenal* und *C Milan*. Nachdem "
 "ich darüber nachgedacht habe, entscheide ich, dass die Wahrscheinlichkeit, "
-"dass *Arduino Arsenal* gewinnt, bei 80% liegt. Was will ich damit sagen? "
+"dass *Arduino Arsenal* gewinnt, bei 80 % liegt. Was will ich damit sagen? "
 "Hier sind drei Möglichkeiten:"
 
 #: ../../Ch07/Ch07_Probability_2.rst:22
@@ -813,11 +524,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:56
 msgid ""
-"In this case 11 of these 20 coin flips (55%) came up heads. Now suppose that "
-"I’d been keeping a running tally of the number of heads (which I’ll call "
-"*N*\\ :sub:`H`\\ ) that I’ve seen, across the first *N* flips, and calculate "
-"the proportion of heads *N*\\ :sub:`H` / *N* every time. Here’s what I’d get "
-"(I did literally flip coins to produce this!):"
+"In this case 11 of these 20 coin flips (55\\%) came up heads. Now suppose "
+"that I’d been keeping a running tally of the number of heads (which I’ll "
+"call *N*\\ :sub:`H`\\ ) that I’ve seen, across the first *N* flips, and "
+"calculate the proportion of heads *N*\\ :sub:`H` / *N* every time. Here’s "
+"what I’d get (I did literally flip coins to produce this!):"
 msgstr ""
 "In diesem Fall ergaben 11 dieser 20 Münzwürfe (55 %) Kopf. Nehmen wir nun "
 "an, dass ich die Anzahl der Kopf-Würfe (die ich *N*\\ :sub:`K`\\ nenne), die "
@@ -989,8 +700,8 @@ msgid ""
 "values actually being pretty close to the “right” answer of 0.50. This is "
 "the frequentist definition of probability in a nutshell. Flip a fair coin "
 "over and over again, and as *N* grows large (approaches infinity, denoted "
-"*N* → ∞) the proportion of heads will converge to 50%. There are some subtle "
-"technicalities that the mathematicians care about, but qualitatively "
+"*N* → ∞) the proportion of heads will converge to 50\\%. There are some "
+"subtle technicalities that the mathematicians care about, but qualitatively "
 "speaking that’s how the frequentists define probability. Unfortunately, I "
 "don’t have an infinite number of coins or the infinite patience required to "
 "flip a coin an infinite number of times. However, I do have a computer and "
@@ -1008,7 +719,7 @@ msgstr ""
 "tatsächlich ziemlich nahe an der „richtigen“ Antwort von 0,50 liegen. Dies "
 "ist die frequentistische Definition der Wahrscheinlichkeit in Kurzform. "
 "Wirft man eine „normale“ Münze immer wieder, so konvergiert der Anteil der "
-"Köpfe bei *N* mit zunehmender Größe (gegen unendlich, *N* → ∞) auf 50%. Es "
+"Köpfe bei *N* mit zunehmender Größe (gegen unendlich, *N* → ∞) auf 50 %. Es "
 "gibt einige technische Feinheiten, um die sich die Mathematiker kümmern, "
 "aber qualitativ gesehen ist das die Art und Weise, wie die Frequentisten die "
 "Wahrscheinlichkeit definieren. Leider verfüge ich weder über eine unendliche "
@@ -1073,6 +784,7 @@ msgstr ""
 "kommen."
 
 #: ../../Ch07/Ch07_Probability_2.rst:124
+#, python-format
 msgid ""
 "However, it also has undesirable characteristics. First, infinite sequences "
 "don’t exist in the physical world. Suppose you picked up a coin from your "
@@ -1087,21 +799,22 @@ msgid ""
 "assign probability to in everyday language, but cannot (even in theory) be "
 "mapped onto a hypothetical sequence of events. For instance, if a "
 "meteorologist comes on TV and says “the probability of rain in Adelaide on 2 "
-"November 2048 is 60%” we humans are happy to accept this. But it’s not clear "
-"how to define this in frequentist terms. There’s only one city of Adelaide, "
-"and only one 2 November 2048. There’s no infinite sequence of events here, "
-"just a one-off thing. Frequentist probability genuinely *forbids* us from "
-"making probability statements about a single event. From the frequentist "
-"perspective it will either rain tomorrow or it will not. There is no "
-"“probability” that attaches to a single non-repeatable event. Now, it should "
-"be said that there are some very clever tricks that frequentists can use to "
-"get around this. One possibility is that what the meteorologist means is "
-"something like “There is a category of days for which I predict a 60% chance "
-"of rain, and if we look only across those days for which I make this "
-"prediction, then on 60% of those days it will actually rain”. It’s very "
-"weird and counterintuitive to think of it this way, but you do see "
-"frequentists do this sometimes. And it *will* come up later in this book "
-"(see :doc:`Estimating a confidence interval <../Ch08/Ch08_Estimation_5>`)."
+"November 2048 is 60\\%” we humans are happy to accept this. But it’s not "
+"clear how to define this in frequentist terms. There’s only one city of "
+"Adelaide, and only one 2 November 2048. There’s no infinite sequence of "
+"events here, just a one-off thing. Frequentist probability genuinely "
+"*forbids* us from making probability statements about a single event. From "
+"the frequentist perspective it will either rain tomorrow or it will not. "
+"There is no “probability” that attaches to a single non-repeatable event. "
+"Now, it should be said that there are some very clever tricks that "
+"frequentists can use to get around this. One possibility is that what the "
+"meteorologist means is something like “There is a category of days for which "
+"I predict a 60\\% chance of rain, and if we look only across those days for "
+"which I make this prediction, then on 60\\% of those days it will actually "
+"rain”. It’s very weird and counterintuitive to think of it this way, but you "
+"do see frequentists do this sometimes. And it *will* come up later in this "
+"book (see :doc:`Estimating a confidence interval <../Ch08/"
+"Ch08_Estimation_5>`)."
 msgstr ""
 "Sie hat jedoch auch unerwünschte Eigenschaften. Erstens gibt es in der "
 "physischen Welt keine unendlichen Folgen. Nehmen wir an, Sie nehmen eine "
@@ -1118,7 +831,7 @@ msgstr ""
 "Wahrscheinlichkeit zuordnen, die sich aber (selbst in der Theorie) nicht auf "
 "eine hypothetische Abfolge von Ereignissen übertragen lassen. Wenn zum "
 "Beispiel ein Meteorologe im Fernsehen sagt: „Die Wahrscheinlichkeit, dass es "
-"am 2. November 2048 in Adelaide regnet, beträgt 60%“, dann akzeptieren wir "
+"am 2. November 2048 in Adelaide regnet, beträgt 60 %“, dann akzeptieren wir "
 "Menschen das gerne. Aber es ist nicht klar, wie man dies in "
 "frequentistischen Begriffen definieren kann. Es gibt nur eine Stadt "
 "Adelaide, und nur einen 2. November 2048. Es gibt hier keine unendliche "
@@ -1130,9 +843,9 @@ msgstr ""
 "Ereignis zugeordnet werden kann. Nun gibt es aber einige sehr clevere "
 "Tricks, mit denen Anhänger der frequentistischen Sichtweise dies umgehen "
 "können. Eine Möglichkeit ist, dass der Meteorologe etwas meint wie: „Es gibt "
-"eine Kategorie von Tagen, für die ich eine Regenwahrscheinlichkeit von 60% "
+"eine Kategorie von Tagen, für die ich eine Regenwahrscheinlichkeit von 60 % "
 "vorhersage, und wenn wir nur die Tage betrachten, für die ich diese "
-"Vorhersage mache, dann wird es an 60% dieser Tage tatsächlich regnen“. Es "
+"Vorhersage mache, dann wird es an 60 % dieser Tage tatsächlich regnen“. Es "
 "ist sehr seltsam und kontraintuitiv, so darüber zu denken, aber man sieht, "
 "dass Vielleser dies manchmal tun. Und *wird* später in diesem Buch wieder "
 "auftauchen (siehe :doc:`Schätzen eines Konfidenzintervalls <../Ch08/"
@@ -1172,11 +885,11 @@ msgid ""
 "However, in order for this approach to work we need some way of "
 "operationalising “degree of belief”. One way that you can do this is to "
 "formalise it in terms of “rational gambling”, though there are many other "
-"ways. Suppose that I believe that there’s a 60% probability of rain "
+"ways. Suppose that I believe that there’s a 60\\% probability of rain "
 "tomorrow. If someone offers me a bet that if it rains tomorrow then I win "
 "$5, but if it doesn’t rain I lose $5. Clearly, from my perspective, this is "
 "a pretty good bet. On the other hand, if I think that the probability of "
-"rain is only 40% then it’s a bad bet to take. So we can operationalise the "
+"rain is only 40\\% then it’s a bad bet to take. So we can operationalise the "
 "notion of a “subjective probability” in terms of what bets I’m willing to "
 "accept."
 msgstr ""
@@ -1184,11 +897,11 @@ msgstr ""
 "„Grad des Glaubens“ zu operationalisieren. Eine Möglichkeit, dies zu tun, "
 "besteht darin, es als „rationales Glücksspiel“ zu formalisieren, obwohl es "
 "viele andere Möglichkeiten gibt. Angenommen, ich glaube, dass es morgen mit "
-"einer Wahrscheinlichkeit von 60% regnen wird. Wenn mir jemand eine Wette "
+"einer Wahrscheinlichkeit von 60 % regnen wird. Wenn mir jemand eine Wette "
 "anbietet, dass ich 5 Dollar gewinne, wenn es morgen regnet, aber 5 Dollar "
 "verliere, wenn es nicht regnet, dann ist das aus meiner Sicht eine ziemlich "
 "gute Wette. Wenn ich hingegen glaube, dass die Wahrscheinlichkeit, dass es "
-"regnet, nur 40% beträgt, dann ist es eine schlechte Wette, die ich nicht "
+"regnet, nur 40 % beträgt, dann ist es eine schlechte Wette, die ich nicht "
 "eingehen sollte. Wir können also den Begriff der „subjektiven "
 "Wahrscheinlichkeit“ dahingehend operationalisieren, welche Wetten ich zu "
 "akzeptieren bereit bin."
@@ -1930,6 +1643,7 @@ msgstr ""
 "und die Höhe aller Balken muss sich ebenfalls zu 1 summieren."
 
 #: ../../Ch07/Ch07_Probability_4.rst:100
+#, python-format
 msgid ""
 "To that end, :numref:`fig-binomSkulls20` plots the binomial probabilities "
 "for all possible values of *X* for our dice rolling experiment, from *X* = 0 "
@@ -1939,8 +1653,8 @@ msgid ""
 "have all the possible events, and on the vertical axis we can read off the "
 "probability of each of those events. So, the probability of rolling 4 skulls "
 "out of 20 is about 0.20 (the actual answer is 0.2022036, as we’ll see in a "
-"moment). In other words, you’d expect that to happen about 20% of the times "
-"you repeated this experiment."
+"moment). In other words, you’d expect that to happen about 20\\% of the "
+"times you repeated this experiment."
 msgstr ""
 "Zu diesem Zweck zeigt :numref:`fig-binomSkulls20` die binomischen "
 "Wahrscheinlichkeiten für alle möglichen Werte von *X* in unserem "
@@ -1953,7 +1667,7 @@ msgstr ""
 "Ereignisse ablesen. Die Wahrscheinlichkeit, bei 4 von 20 Würfen Totenköpfe "
 "zu erhalten, liegt also bei 0,20 (die genaue Antwort ist 0,2022036, wie wir "
 "gleich sehen werden). Mit anderen Worten, es wäre zu erwarten, dass dies in "
-"etwa 20% der Fälle passiert, wenn das Experiment wiederholt wird."
+"etwa 20 % der Fälle passiert, wenn das Experiment wiederholt wird."
 
 #: ../../Ch07/Ch07_Probability_4.rst:111
 msgid ""
@@ -2028,15 +1742,15 @@ msgid ""
 "understand, it’s not the most important one. That particular honour goes to "
 "the **normal distribution**, also referred to as “the bell curve” or a "
 "“Gaussian distribution”. A normal distribution is described using two "
-"parameters: the mean of the distribution *µ* and the standard deviation of "
-"the distribution *σ*."
+"parameters: the mean of the distribution µ and the standard deviation of the "
+"distribution σ."
 msgstr ""
 "Die Binomialverteilung ist zwar konzeptionell am einfachsten zu verstehen, "
 "sie ist aber nicht die wichtigste Verteilung. Diese Ehre kommt der "
 "**Normalverteilung** zu, die auch als „Glockenkurve“ oder „Gaußverteilung“ "
 "bezeichnet wird. Eine Normalverteilung wird durch zwei Parameter "
-"beschrieben: den Mittelwert der Verteilung *µ* und die Standardabweichung "
-"der Verteilung *σ*."
+"beschrieben: den Mittelwert der Verteilung µ und die Standardabweichung der "
+"Verteilung σ."
 
 #: ../../Ch07/Ch07_Probability_5.rst:13
 msgid ""
@@ -2104,8 +1818,8 @@ msgstr ""
 msgid ""
 "Instead of focusing on the maths, let’s try to get a sense for what it means "
 "for a variable to be normally distributed. To that end, have a look at :"
-"numref:`fig-standardNormal` which plots a normal distribution with mean *µ* "
-"= 0 and standard deviation *σ* = 1. You can see where the name “bell curve” "
+"numref:`fig-standardNormal` which plots a normal distribution with mean µ = "
+"0 and standard deviation σ = 1. You can see where the name “bell curve” "
 "comes from; it looks a bit like a bell. Notice that, unlike the plots that I "
 "drew to illustrate the binomial distribution, the picture of the normal "
 "distribution in :numref:`fig-standardNormal` shows a smooth curve instead of "
@@ -2125,13 +1839,13 @@ msgstr ""
 "Anstatt sich auf die Mathematik zu konzentrieren, sollten wir versuchen, ein "
 "Gefühl dafür zu bekommen, was es bedeutet, wenn eine Variable normalverteilt "
 "ist. Zu diesem Zweck sehen Sie sich :numref:`fig-standardNormal` an, welche "
-"eine Normalverteilung mit dem Mittelwert *µ* = 0 und der Standardabweichung "
-"*σ* = 1 abbildet. Sie sehen, woher der Name „Glockenkurve“ kommt; sie sieht "
-"ein wenig wie eine Glocke aus. Beachten Sie, dass im Gegensatz zu den "
-"Grafiken, die ich zur Veranschaulichung der Binomialverteilung gezeichnet "
-"habe, das Bild der Normalverteilung in :numref:`fig-standardNormal` eine "
-"glatte Kurve anstelle von „histogrammartigen“ Balken zeigt. Dies ist keine "
-"willkürliche Wahl, denn die Normalverteilung ist kontinuierlich, während die "
+"eine Normalverteilung mit dem Mittelwert µ = 0 und der Standardabweichung σ "
+"= 1 abbildet. Sie sehen, woher der Name „Glockenkurve“ kommt; sie sieht ein "
+"wenig wie eine Glocke aus. Beachten Sie, dass im Gegensatz zu den Grafiken, "
+"die ich zur Veranschaulichung der Binomialverteilung gezeichnet habe, das "
+"Bild der Normalverteilung in :numref:`fig-standardNormal` eine glatte Kurve "
+"anstelle von „histogrammartigen“ Balken zeigt. Dies ist keine willkürliche "
+"Wahl, denn die Normalverteilung ist kontinuierlich, während die "
 "Binomialverteilung diskret ist. Im Würfel-Beispiel aus dem letzten Abschnitt "
 "war es zum Beispiel möglich, 3 oder 4 Schädel zu erhalten, aber unmöglich, "
 "3,9 Schädel zu erhalten. Die Zahlen, die ich im vorherigen Abschnitt "
@@ -2224,6 +1938,7 @@ msgstr ""
 "ist breiter als die durchgezogene Linie."
 
 #: ../../Ch07/Ch07_Probability_5.rst:109
+#, python-format
 msgid ""
 "Notice, though, that when we widen the distribution the height of the peak "
 "shrinks. This has to happen, in the same way that the heights of the bars "
@@ -2231,9 +1946,9 @@ msgid ""
 "the total *area under the curve* for the normal distribution must equal 1. "
 "Before moving on, I want to point out one important characteristic of the "
 "normal distribution. Irrespective of what the actual mean and standard "
-"deviation are, 68.3% of the area falls within 1 standard deviation of the "
-"mean. Similarly, 95.4% of the distribution falls within 2 standard "
-"deviations of the mean, and 99.7% of the distribution is within 3 standard "
+"deviation are, 68.3\\% of the area falls within 1 standard deviation of the "
+"mean. Similarly, 95.4\\% of the distribution falls within 2 standard "
+"deviations of the mean, and 99.7\\% of the distribution is within 3 standard "
 "deviations. This idea is illustrated in :numref:`fig-normAreaSD`."
 msgstr ""
 "Beachten Sie jedoch, dass die Höhe der Spitze schrumpft, wenn wir die "
@@ -2242,10 +1957,10 @@ msgstr ""
 "1 ergeben müssen, muss die *Gesamtfläche unter der Kurve* für die "
 "Normalverteilung gleich 1 sein. Bevor ich fortfahre, möchte ich auf eine "
 "wichtige Eigenschaft der Normalverteilung hinweisen. Unabhängig davon, wie "
-"hoch der tatsächliche Mittelwert und die Standardabweichung sind, liegt "
-"68,3% der Fläche innerhalb einer Standardabweichung um den Mittelwert. In "
-"ähnlicher Weise liegt 95,4% der Verteilung innerhalb von 2 "
-"Standardabweichungen um den Mittelwert und 99,7% der Verteilung innerhalb "
+"hoch der tatsächliche Mittelwert und die Standardabweichung sind, liegt 68,3 "
+"% der Fläche innerhalb einer Standardabweichung um den Mittelwert. In "
+"ähnlicher Weise liegt 95,4 % der Verteilung innerhalb von 2 "
+"Standardabweichungen um den Mittelwert und 99,7 % der Verteilung innerhalb "
 "von 3 Standardabweichungen. Diese Idee wird in :numref:`fig-normAreaSD` "
 "veranschaulicht."
 
@@ -2254,14 +1969,15 @@ msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr "Normalverteilung: Fläche unter der Kurve für 1 und 2 SD (Standardabw.)"
 
 #: ../../Ch07/Ch07_Probability_5.rst:127
+#, python-format
 msgid ""
 "The area under the curve tells you the probability that an observation falls "
 "within a particular range. The solid lines plot normal distributions with "
 "mean μ = 0 and standard deviation σ = 1. The shaded areas illustrate “areas "
 "under the curve” for two important cases. In the left panel, we can see that "
-"there is a 68.3% chance that an observation will fall within one standard "
-"deviation of the mean. In the right panel, we see that there is a 95.4% "
-"chance that an observation will fall within two standard deviations of the "
+"there is a 68.3\\% chance that an observation will fall within one standard "
+"deviation of the mean. In the right panel, we see that there is a 95.4\\"
+"% chance that an observation will fall within two standard deviations of the "
 "mean."
 msgstr ""
 "Die Fläche unter der Kurve gibt die Wahrscheinlichkeit an, dass eine "
@@ -2269,10 +1985,10 @@ msgstr ""
 "stellen Normalverteilungen mit Mittelwert μ = 0 und Standardabweichung σ = 1 "
 "dar. Die schattierten Flächen zeigen die „Flächen unter der Kurve“ für zwei "
 "wichtige Fälle. Links sehen wir, dass die Wahrscheinlichkeit, dass eine "
-"Beobachtung innerhalb einer Standardabweichung um den Mittelwert liegt, "
-"68,3% beträgt. Rechts sehen wir, dass die Wahrscheinlichkeit, dass eine "
+"Beobachtung innerhalb einer Standardabweichung um den Mittelwert liegt, 68,3 "
+"% beträgt. Rechts sehen wir, dass die Wahrscheinlichkeit, dass eine "
 "Beobachtung innerhalb von zwei Standardabweichungen um den Mittelwert liegt, "
-"95,4% beträgt."
+"95,4 % beträgt."
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
@@ -2281,26 +1997,27 @@ msgstr ""
 "Ausläufer der Verteilung"
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
+#, python-format
 msgid ""
-"Two more examples of the “area under the curve” idea. There is a 15.9% "
-"chance that an observation is one standard deviation below the mean or "
-"smaller (left panel), and a 34.1% chance that the observation is somewhere "
+"Two more examples of the “area under the curve” idea. There is a 15.9\\"
+"% chance that an observation is one standard deviation below the mean or "
+"smaller (left panel), and a 34.1\\% chance that the observation is somewhere "
 "between one standard deviation below the mean and the mean (right panel). "
-"Notice that if you add these two numbers together you get 15.9% + 34.1% = "
-"50%. For normally distributed data, there is a 50% chance that an "
+"Notice that if you add these two numbers together you get 15.9\\% + 34.1\\% "
+"= 50\\%. For normally distributed data, there is a 50\\% chance that an "
 "observation falls below the mean. And of course that also implies that there "
-"is a 50% chance that it falls above the mean."
+"is a 50\\% chance that it falls above the mean."
 msgstr ""
 "Zwei weitere Beispiele für die Idee der „Fläche unter der Kurve“. Die "
 "Wahrscheinlichkeit, dass eine Beobachtung eine Standardabweichung unter dem "
-"Mittelwert oder darunter liegt, beträgt 15,9% (links), und die "
+"Mittelwert oder darunter liegt, beträgt 15,9 % (links), und die "
 "Wahrscheinlichkeit, dass die Beobachtung irgendwo zwischen einer "
 "Standardabweichung unter dem Mittelwert und dem Mittelwert liegt, beträgt "
-"34,1% (rechts). Wenn Sie diese beiden Zahlen zusammenzählen, erhalten Sie "
-"15,9% + 34.1% = 50%. Bei normalverteilten Daten besteht eine 50% "
+"34,1 % (rechts). Wenn Sie diese beiden Zahlen zusammenzählen, erhalten Sie "
+"15,9 % + 34.1 % = 50 %. Bei normalverteilten Daten besteht eine 50 % "
 "Wahrscheinlichkeit, dass eine Beobachtung unter dem Mittelwert liegt. Das "
 "bedeutet natürlich auch, dass die Wahrscheinlichkeit, dass sie über dem "
-"Mittelwert liegt, ebenfalls 50% beträgt."
+"Mittelwert liegt, ebenfalls 50 % beträgt."
 
 #: ../../Ch07/Ch07_Probability_5.rst:154
 msgid "Probability density"
@@ -2544,16 +2261,16 @@ msgstr ""
 "Ch11_tTest>` wieder begegnen."
 
 #: ../../Ch07/Ch07_Probability_6.rst:30
-msgid "t-distribution with df = 3 in comparison to a normal distribution"
-msgstr "t-Verteilung mit df = 3 im Vergleich zu einer Normalverteilung"
+msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
+msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:30
 msgid ""
-"t-distribution with 3 degrees of freedom (solid line). It looks similar to a "
-"normal distribution, but it’s not quite the same. For comparison purposes "
+"*t*-distribution with 3 degrees of freedom (solid line). It looks similar to "
+"a normal distribution, but it’s not quite the same. For comparison purposes "
 "I’ve plotted a standard normal distribution as the dashed line."
 msgstr ""
-"t-Verteilung mit 3 Freiheitsgraden (*df*; durchgezogene Linie). Sie sieht "
+"*t*-Verteilung mit 3 Freiheitsgraden (*df*; durchgezogene Linie). Sie sieht "
 "einer Normalverteilung sehr ähnlich, ist aber nicht ganz dasselbe. Zum "
 "Vergleich habe ich eine Standard-Normalverteilung als gestrichelte Linie "
 "eingezeichnet."
@@ -2585,8 +2302,8 @@ msgstr ""
 "veranschaulicht, wie eine χ²-Verteilung aussieht."
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
-msgid "χ²-distribution with df = 3"
-msgstr "χ²-Verteilung mit df = 3"
+msgid "χ²-distribution with *df* = 3"
+msgstr "χ²-Verteilung mit *df* = 3"
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
 msgid ""
@@ -2628,16 +2345,16 @@ msgstr ""
 "`fig-Fdist`."
 
 #: ../../Ch07/Ch07_Probability_6.rst:79
-msgid "F-distribution with df = 3 and df = 5"
-msgstr "F-Verteilung mit df = 3 und df = 5"
+msgid "*F*-distribution with *df* = 3 and *df* = 5"
+msgstr "*F*-Verteilung mit *df* = 3 und *df* = 5"
 
 #: ../../Ch07/Ch07_Probability_6.rst:79
 msgid ""
-"F-distribution with 3 and 5 degrees of freedom. Qualitatively speaking, it "
+"*F*-distribution with 3 and 5 degrees of freedom. Qualitatively speaking, it "
 "looks pretty similar to a χ²-distribution, but they’re not quite the same in "
 "general."
 msgstr ""
-"F-Verteilung mit 3 und 5 Freiheitsgraden. Obwohl sie einer χ²-Verteilung "
+"*F*-Verteilung mit 3 und 5 Freiheitsgraden. Obwohl sie einer χ²-Verteilung "
 "ziemlich ähnlich sieht, sie sind die beiden Verteilungen aber nicht dasselbe."
 
 #: ../../Ch07/Ch07_Probability_6.rst:85

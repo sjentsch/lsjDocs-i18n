@@ -11,41 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -56,7 +21,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -64,13 +28,14 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,62 +46,7 @@ msgstr ""
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 20:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-09 10:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 20:15+0100\n"
+"POT-Creation-Date: 2022-12-11 19:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,14 +56,14 @@ msgstr ""
 "#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-07 19:28+0100\n"
+"POT-Creation-Date: 2022-12-11 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
 msgid "Factor Analysis"
@@ -806,11 +716,11 @@ msgid ""
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
 "(``Oblimin``) rotation of the five extracted factors is preferred. We can "
 "also see in :numref:`fig-efa5` that the proportion of overall variance in "
-"the data that is accounted for by the five factors is 46%. Factor one "
-"accounts for around 10% of the variance, factors two to four around 9% each, "
-"and factor five just over 7%. This isn’t great; it would have been better if "
-"the overall solution accounted for a more substantive proportion of the "
-"variance in our data."
+"the data that is accounted for by the five factors is 46\\%. Factor one "
+"accounts for around 10\\% of the variance, factors two to four around 9\\% "
+"each, and factor five just over 7\\%. This isn’t great; it would have been "
+"better if the overall solution accounted for a more substantive proportion "
+"of the variance in our data."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:365
@@ -871,10 +781,10 @@ msgstr ""
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
-"and not explained by the factors.\\ [#]_ For example, 72% of the variance in "
-"``A1`` is not explained by the factors in the five factor solution. In "
+"and not explained by the factors.\\ [#]_ For example, 72\\% of the variance "
+"in ``A1`` is not explained by the factors in the five factor solution. In "
 "contrast, ``N1`` has relatively low variance not accounted for by the factor "
-"solution (35%). Note that the greater the ``Uniqueness``, the lower the "
+"solution (35\\%). Note that the greater the ``Uniqueness``, the lower the "
 "relevance or contribution of the variable in the factor model."
 msgstr ""
 
@@ -1302,9 +1212,9 @@ msgstr ""
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
-"account for just over 12% of the variance each. Taken together, the five "
-"component solution accounts for just over half of the variance (56%) in the "
-"observed data. Be aware that in every PCA you could potentially have the "
+"account for just over 12\\% of the variance each. Taken together, the five "
+"component solution accounts for just over half of the variance (56\\%) in "
+"the observed data. Be aware that in every PCA you could potentially have the "
 "same number of components as observed variables, but every additional "
 "component you include will add a smaller amount of explained variance. If "
 "the first few components explain a good amount of the variance in the "
@@ -1351,10 +1261,10 @@ msgstr ""
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
-"and not explained by the components. For example, 52% of the variance in "
+"and not explained by the components. For example, 52\\% of the variance in "
 "``A1`` is not explained by the components in the five component solution. In "
 "contrast, ``N1`` has relatively low variance not accounted for by the "
-"component solution (30%). Note that the greater the ``Uniqueness``, the "
+"component solution (30\\%). Note that the greater the ``Uniqueness``, the "
 "lower the relevance or contribution of the variable in the component model."
 msgstr ""
 
@@ -1581,7 +1491,7 @@ msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
 "Index (TLI) and the Root Mean Square Error of Approximation (RMSEA) together "
-"with the 90% confidence interval for the RMSEA. Some useful rules of thumb "
+"with the 90\\% confidence interval for the RMSEA. Some useful rules of thumb "
 "are that a satisfactory fit is indicated by CFI > 0.9, TLI > 0.9, and RMSEA "
 "of about 0.05 to 0.08. A good fit is CFI > 0.95, TLI > 0.95, and RMSEA and "
 "upper CI for RMSEA < 0.05."
@@ -1593,8 +1503,9 @@ msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
 "indicates a poor fit. The CFI is 0.762 and the TLI is 0.731, indicating poor "
-"fit between the model and the data. The RMSEA is 0.085 with a 90% confidence "
-"interval from 0.077 to 0.092, again this does not indicate a good fit."
+"fit between the model and the data. The RMSEA is 0.085 with a 90\\"
+"% confidence interval from 0.077 to 0.092, again this does not indicate a "
+"good fit."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:154
@@ -1823,43 +1734,43 @@ msgstr ""
 #, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
-"**Cronbach’s *α** (alpha; `Cronbach, 1951 <../Other/References."
-"html#cronbach-1951>`__\\ ). Cronbach’s *α* is a measure of equivalence "
+"**Cronbach’s α** (alpha; `Cronbach, 1951 <../Other/References."
+"html#cronbach-1951>`__\\ ). Cronbach’s α is a measure of equivalence "
 "(whether different sets of scale items would give the same measurement "
 "outcomes). Equivalence is tested by dividing the scale items into two groups "
 "(a “split-half”) and seeing whether analysis of the two parts gives "
 "comparable results. Of course, there are many ways a set of items could be "
 "split, but if all possible splits are made then it is possible to produce a "
 "statistic that reflects the overall pattern of split-half coefficients. "
-"Cronbach’s *α* is such a statistic: a function of all the split-half "
+"Cronbach’s α is such a statistic: a function of all the split-half "
 "coefficients for a scale. If a set of items that measure a construct (e.g. "
-"an Extraversion scale) has an *α* of 0.80, then the proportion of error "
-"variance in the scale is 0.20. In other words, a scale with an *α* of 0.80 "
-"includes approximately 20% error."
+"an Extraversion scale) has an α of 0.80, then the proportion of error "
+"variance in the scale is 0.20. In other words, a scale with an α of 0.80 "
+"includes approximately 20\\% error."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
 #, python-format
 msgid ""
-"BUT, (and that’s a BIG “BUT”), Cronbach’s *α* is not a measure of "
+"BUT, (and that’s a BIG “BUT”), Cronbach’s α is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
 "factor or construct rather than multiple related constructs). Scales that "
-"are multidimensional will cause *α* to be under-estimated if not assessed "
-"separately for each dimension, but high values for *α* are not necessarily "
-"indicators of unidimensionality. So, an *α* of 0.80 does not mean that "
-"80% of a single underlying construct is accounted for. It could be that the "
-"80% comes from more than one underlying construct. That’s why EFA and CFA "
+"are multidimensional will cause α to be under-estimated if not assessed "
+"separately for each dimension, but high values for α are not necessarily "
+"indicators of unidimensionality. So, an α of 0.80 does not mean that 80\\"
+"% of a single underlying construct is accounted for. It could be that the "
+"80\\% comes from more than one underlying construct. That’s why EFA and CFA "
 "are useful to do first."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:45
 msgid ""
-"Further, another feature of *α* is that it tends to be sample specific: it "
-"is not a characteristic of the scale, but rather a characteristic of the "
-"sample in which the scale has been used. A biased, unrepresentative, or "
-"small sample could produce a very different *α* coefficient than a large, "
-"representative sample. *α* can even vary from large sample to large sample. "
-"Nevertheless, despite these limitations, Cronbach’s *α* has been popular in "
+"Further, another feature of α is that it tends to be sample specific: it is "
+"not a characteristic of the scale, but rather a characteristic of the sample "
+"in which the scale has been used. A biased, unrepresentative, or small "
+"sample could produce a very different α coefficient than a large, "
+"representative sample. α can even vary from large sample to large sample. "
+"Nevertheless, despite these limitations, Cronbach’s α has been popular in "
 "Psychology for estimating internal consistency reliability. It’s pretty easy "
 "to calculate, understand and interpret, and therefore it can be a useful "
 "initial check on scale performance when you administer a scale with a "
@@ -1869,31 +1780,31 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:56
 msgid ""
 "An alternative is **McDonald’s ω** (omega), and jamovi also provides this "
-"statistic. Whereas *α* makes the following assumptions: (a) no residual "
+"statistic. Whereas α makes the following assumptions: (a) no residual "
 "correlations, (b) items have identical loadings, and (c) the scale is "
-"unidimensional, *ω* does not and is therefore a more robust reliability "
-"statistic. If these assumptions are not violated then *α* and *ω* will be "
-"similar, but if they are then *ω* is to be preferred."
+"unidimensional, ω does not and is therefore a more robust reliability "
+"statistic. If these assumptions are not violated then α and ω will be "
+"similar, but if they are then ω is to be preferred."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
 #, python-format
 msgid ""
-"Sometimes a threshold for *α* or *ω* is provided, suggesting a “good enough” "
-"value. This might be something like *α*s of 0.70 or 0.80 representing "
+"Sometimes a threshold for α or ω is provided, suggesting a “good enough” "
+"value. This might be something like αs of 0.70 or 0.80 representing "
 "“acceptable” and “good” reliability, respectively. However, this does depend "
 "on what exactly the scale is supposed to be measuring, so thresholds like "
-"this should be used cautiously. It could be better to simply state that an "
-"*α* or *ω* of 0.70 is associated with 30% error variance in a scale, and an "
-"*α* or *ω* of 0.80 is associated with 20%."
+"this should be used cautiously. It could be better to simply state that an α "
+"or ω of 0.70 is associated with 30\\% error variance in a scale, and an α or "
+"ω of 0.80 is associated with 20\\%."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:71
 msgid ""
-"Can *α* be too high? Probably: if you are getting an *α* coefficient above "
-"0.95 then this indicates high inter-correlations between the items and that "
-"there might be too much overly-redundant specificity in the measurement, "
-"with a risk that the construct being measured is perhaps overly narrow."
+"Can α be too high? Probably: if you are getting an α coefficient above 0.95 "
+"then this indicates high inter-correlations between the items and that there "
+"might be too much overly-redundant specificity in the measurement, with a "
+"risk that the construct being measured is perhaps overly narrow."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:77
@@ -1944,10 +1855,10 @@ msgstr ""
 #, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
-"something like :numref:`fig-rel2`. This tells us that the Cronbach’s *α* "
+"something like :numref:`fig-rel2`. This tells us that the Cronbach’s α "
 "coefficient for the Agreeableness scale is 0.72. This means that just under "
-"30% of the Agreeableness scale score is error variance. McDonald’s *ω* is "
-"also given, and this is 0.74, not much different from *α*."
+"30\\% of the Agreeableness scale score is error variance. McDonald’s ω is "
+"also given, and this is 0.74, not much different from α."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
@@ -1962,19 +1873,18 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:124
 msgid ""
-"We can also check how *α* or *ω* can be improved if a specific item is "
-"dropped from the scale. For example, *α* would increase to 0.72 and *ω* to "
-"0.74 if we dropped item A1. This isn’t a big increase, so probably not worth "
-"doing."
+"We can also check how α or ω can be improved if a specific item is dropped "
+"from the scale. For example, α would increase to 0.72 and ω to 0.74 if we "
+"dropped item A1. This isn’t a big increase, so probably not worth doing."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:128
 msgid ""
-"The process of calculating and checking scale statistics (*α* and *ω*) is "
-"the same for all the other scales, and they all had similar reliability "
-"estimates apart from Openness (*α* = 0.60, *ω* = 0.62). For Openness, the "
-"amount of error variance in the Scale score is around 40\\%, which is high "
-"and indicates that Openness is substantially less consistent as a reliable "
+"The process of calculating and checking scale statistics (α and ω) is the "
+"same for all the other scales, and they all had similar reliability "
+"estimates apart from Openness (α = 0.60, ω = 0.62). For Openness, the amount "
+"of error variance in the Scale score is around 40\\%, which is high and "
+"indicates that Openness is substantially less consistent as a reliable "
 "measure of a personality attribute than the other personality scales."
 msgstr ""
 

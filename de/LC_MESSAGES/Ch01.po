@@ -53,98 +53,24 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 # #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,7 +81,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:06+0100\n"
+"POT-Creation-Date: 2022-12-11 19:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -166,7 +92,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 20:06+0100\n"
+"POT-Creation-Date: 2022-12-11 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -177,7 +103,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:53+0100\n"
+"POT-Creation-Date: 2022-12-11 18:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -188,7 +114,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:44+0100\n"
+"POT-Creation-Date: 2022-12-11 18:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -199,7 +125,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-09 10:33+0100\n"
+"POT-Creation-Date: 2022-12-11 18:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -210,7 +136,7 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 20:15+0100\n"
+"POT-Creation-Date: 2022-12-11 18:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -221,175 +147,50 @@ msgstr ""
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 19:28+0100\n"
+"POT-Creation-Date: 2022-12-11 18:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 18:09+0100\n"
+"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-12-11 17:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:08+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 17:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 16:58+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-07 13:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:45+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 19:25+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 18:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-02 13:16+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch01/de/"
-">\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
 msgid "Why do we learn statistics?"
 msgstr "Warum lernen wir Statistik?"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*“Thou shalt not answer questionnaires*"
 msgstr "*“Thou shalt not answer questionnaires*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Or quizzes upon World Affairs,*"
 msgstr "*Or quizzes upon World Affairs,*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Nor with compliance*"
 msgstr "*Nor with compliance*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Take any test. Thou shalt not sit*"
 msgstr "*Take any test. Thou shalt not sit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*With statisticians nor commit*"
 msgstr "*With statisticians nor commit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*A social science”*"
 msgstr "*A social science”*"
 
@@ -581,15 +382,15 @@ msgstr ""
 "beeinflussen zu lassen, selbst wenn wir das nicht sollten. Hier ist zum "
 "Beispiel ein gültiges Argument, bei dem die Schlussfolgerung glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All cigarettes are expensive (Premise 1)"
 msgstr "Alle Zigaretten sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some addictive things are inexpensive (Premise 2)"
 msgstr "Manche Dinge, die süchtig machen, sind preiswert (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
 msgstr ""
 "Daher sind einige süchtig machende Dinge keine Zigaretten (Schlussfolgerung)"
@@ -600,15 +401,15 @@ msgstr ""
 "Und hier ist ein gültiges Argument, bei dem die Schlussfolgerung nicht "
 "glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All addictive things are expensive (Premise 1)"
 msgstr "Alle süchtig machenden Dinge sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some cigarettes are inexpensive (Premise 2)"
 msgstr "Einige Zigaretten sind billig (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
 msgstr "Daher machen einige Zigaretten nicht süchtig (Schlussfolgerung)"
 
@@ -646,11 +447,12 @@ msgstr ""
 "Schlussfolgerung:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
+#, python-format
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
-"argument on its logical merits. We’d expect 100% of people to say that the "
-"valid arguments are valid, and 0% of people to say that the invalid "
+"argument on its logical merits. We’d expect 100\\% of people to say that the "
+"valid arguments are valid, and 0\\% of people to say that the invalid "
 "arguments are valid. So if you ran an experiment looking at this, you’d "
 "expect to see data like this:"
 msgstr ""
@@ -678,7 +480,8 @@ msgid "**argument is valid**"
 msgstr "**Das Argument ist gültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
-msgid "100% say “valid”"
+#, python-format
+msgid "100\\% say “valid”"
 msgstr "100 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64 ../../Ch01/Ch01_WhyStats_2.rst:84
@@ -687,7 +490,8 @@ msgid "**argument is invalid**"
 msgstr "**Das Argument ist ungültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
-msgid "0% say “valid”"
+#, python-format
+msgid "0\\% say “valid”"
 msgstr "0 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:67
@@ -721,11 +525,13 @@ msgstr ""
 "Überzeugungen) mit der Struktur der Daten übereinstimmten:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
-msgid "92% say “valid”"
+#, python-format
+msgid "92\\% say “valid”"
 msgstr "92 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
-msgid "8% say “valid”"
+#, python-format
+msgid "8\\% say “valid”"
 msgstr "8 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:87
@@ -739,44 +545,48 @@ msgstr ""
 "logische Struktur des Arguments verstoßen:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
-msgid "*46% say “valid”*"
+#, python-format
+msgid "*46\\% say “valid”*"
 msgstr "*46 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
-msgid "*92% say “valid”*"
+#, python-format
+msgid "*92\\% say “valid”*"
 msgstr "*92 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
+#, python-format
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
-"hard to even perceive it to be a strong argument (people only did so 46% of "
-"the time). Even worse, when people are presented with a weak argument that "
-"agrees with our pre-existing biases, almost no-one can see that the argument "
-"is weak (people got that one wrong 92% of the time!).\\ [#]_"
+"hard to even perceive it to be a strong argument (people only did so 46\\"
+"% of the time). Even worse, when people are presented with a weak argument "
+"that agrees with our pre-existing biases, almost no-one can see that the "
+"argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
 "Oh je, das ist nicht so gut. Offensichtlich fällt es uns schwer, ein starkes "
 "Argument, das unseren Überzeugungen widerspricht, überhaupt als starkes "
 "Argument zu erkennen (nur in 46 % der Fälle wurde es als solches erkannt). "
 "Noch schlimmer ist es, wenn Menschen ein schwaches Argument präsentiert "
 "wird, das mit unseren bestehenden Vorurteilen übereinstimmt. Hier kann fast "
-"niemand erkennen, dass das Argument schwach ist (die Menschen lagen in 92 % "
-"der Fälle falsch!).\\ [#]_"
+"niemand erkennen, dass das Argument schwach ist (die Menschen lagen in 92 "
+"% der Fälle falsch!).\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
+#, python-format
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
-"biases, since about 60% of people’s judgements were correct (you’d expect "
-"50% by chance). Even so, if you were a professional “evaluator of evidence”, "
-"and someone came along and offered you a magic tool that improves your "
-"chances of making the right decision from 60% to (say) 95%, you’d probably "
-"jump at it, right? Of course you would. Thankfully, we actually do have a "
-"tool that can do this. But it’s not magic, it’s statistics. So that’s reason "
-"#1 why scientists love statistics. It’s just *too easy* for us to “believe "
-"what we want to believe”. So instead, if we want to “believe in the data”, "
-"we’re going to need a bit of help to keep our personal biases under control. "
-"That’s what statistics does, it helps keep us honest."
+"biases, since about 60\\% of people’s judgements were correct (you’d expect "
+"50\\% by chance). Even so, if you were a professional “evaluator of "
+"evidence”, and someone came along and offered you a magic tool that improves "
+"your chances of making the right decision from 60\\% to (say) 95\\%, you’d "
+"probably jump at it, right? Of course you would. Thankfully, we actually do "
+"have a tool that can do this. But it’s not magic, it’s statistics. So that’s "
+"reason #1 why scientists love statistics. It’s just *too easy* for us to "
+"“believe what we want to believe”. So instead, if we want to “believe in the "
+"data”, we’re going to need a bit of help to keep our personal biases under "
+"control. That’s what statistics does, it helps keep us honest."
 msgstr ""
 "Wenn man darüber nachdenkt, ist es nicht so, dass diese Daten furchtbar "
 "vernichtend sind. Im Großen und Ganzen haben die Menschen ihre Vorurteile "
@@ -794,9 +604,10 @@ msgstr ""
 "Statistik: Sie hilft uns, ehrlich zu bleiben."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
+#, python-format
 msgid ""
-"In my more cynical moments I feel like this fact alone explains 95% of what "
-"I read on the internet."
+"In my more cynical moments I feel like this fact alone explains 95\\% of "
+"what I read on the internet."
 msgstr ""
 "In meinen zynischeren Momenten habe ich das Gefühl, dass allein diese "
 "Tatsache 95 % von dem erklärt, was ich im Internet lese."
@@ -834,8 +645,8 @@ msgid "8442"
 msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
-msgid "44%"
-msgstr "44%"
+msgid "44\\%"
+msgstr "44 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
@@ -846,13 +657,13 @@ msgid "4321"
 msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
-msgid "35%"
-msgstr "35%"
+msgid "35\\%"
+msgstr "35 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
-"nearly 13,000 applicants, a difference of 9% in admission rates between "
+"nearly 13,000 applicants, a difference of 9\\% in admission rates between "
 "males and females is just way too big to be a coincidence. Pretty compelling "
 "data, right? And if I were to say to you that these data *actually* reflect "
 "a weak bias in favour of women (sort of!), you’d probably think that I was "
@@ -911,16 +722,16 @@ msgid "825"
 msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
-msgid "62%"
-msgstr "62%"
+msgid "62\\%"
+msgstr "62 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
 msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
-msgid "82%"
-msgstr "82%"
+msgid "82\\%"
+msgstr "82 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
@@ -931,16 +742,16 @@ msgid "560"
 msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
-msgid "63%"
-msgstr "63%"
+msgid "63\\%"
+msgstr "63 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
 msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
-msgid "68%"
-msgstr "68%"
+msgid "68\\%"
+msgstr "68 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
@@ -951,16 +762,16 @@ msgid "325"
 msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
-msgid "37%"
-msgstr "37%"
+msgid "37\\%"
+msgstr "37 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
 msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
-msgid "34%"
-msgstr "34%"
+msgid "34\\%"
+msgstr "34 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
@@ -971,8 +782,8 @@ msgid "417"
 msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
-msgid "33%"
-msgstr "33%"
+msgid "33\\%"
+msgstr "33 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
@@ -987,16 +798,16 @@ msgid "191"
 msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
-msgid "28%"
-msgstr "28%"
+msgid "28\\%"
+msgstr "28 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
 msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
-msgid "24%"
-msgstr "24%"
+msgid "24\\%"
+msgstr "24 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
@@ -1007,16 +818,16 @@ msgid "272"
 msgstr "272"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
-msgid "6%"
-msgstr "6%"
+msgid "6\\%"
+msgstr "6 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "341"
 msgstr "341"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
-msgid "7%"
-msgstr "7%"
+msgid "7\\%"
+msgstr "7 %"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:58
 msgid ""
@@ -1439,11 +1250,11 @@ msgstr ""
 msgid "Statistics in everyday life"
 msgstr "Statistik im Alltag"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0
+#: ../../Ch01/Ch01_WhyStats_5.rst
 msgid "*“We are drowning in information,*"
 msgstr "„*Wir ertrinken in Informationen,*"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0
+#: ../../Ch01/Ch01_WhyStats_5.rst
 msgid "* but we are starved for knowledge”*"
 msgstr "*aber wir hungern nach Wissen.“*"
 
@@ -1454,13 +1265,14 @@ msgstr ""
 "Naisbitt"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:12
+#, python-format
 msgid ""
 "When I started writing up my lecture notes I took the 20 most recent news "
 "articles posted to the ABC news website. Of those 20 articles, it turned out "
 "that 8 of them involved a discussion of something that I would call a "
 "statistical topic and 6 of those made a mistake. The most common error, if "
 "you’re curious, was failing to report baseline data (e.g., the article "
-"mentions that 5% of people in situation X have some characteristic Y, but "
+"mentions that 5\\% of people in situation X have some characteristic Y, but "
 "doesn’t say how common the characteristic is for everyone else!). The point "
 "I’m trying to make here isn’t that journalists are bad at statistics (though "
 "they almost always are), it’s that a basic knowledge of statistics is very "
@@ -1494,6 +1306,7 @@ msgid "There’s more to research methods than statistics"
 msgstr "Forschungsmethoden sind mehr als nur Statistik"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:31
+#, python-format
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "
@@ -1501,8 +1314,8 @@ msgid ""
 "concept than statistics. So most research methods courses will cover a lot "
 "of topics that relate much more to the pragmatics of research design, and in "
 "particular the issues that you encounter when trying to do research with "
-"humans. However, about 99% of student *fears* relate to the statistics part "
-"of the course, so I’ve focused on the stats in this discussion, and "
+"humans. However, about 99\\% of student *fears* relate to the statistics "
+"part of the course, so I’ve focused on the stats in this discussion, and "
 "hopefully I’ve convinced you that statistics matters, and more importantly, "
 "that it’s not to be feared. That being said, it’s pretty typical for "
 "introductory research methods classes to be very stats-heavy. This is not "
@@ -1569,3 +1382,36 @@ msgstr ""
 "für das Forschungsgebiet, mit dem man sich befasst. In dem Maße, in dem es "
 "eher auf Details ankommt, werden diese normalerweise nicht in einem "
 "Einführungskurs in Statistik und Forschungsmethoden behandelt."
+
+#~ msgid "44%"
+#~ msgstr "44%"
+
+#~ msgid "35%"
+#~ msgstr "35%"
+
+#~ msgid "62%"
+#~ msgstr "62%"
+
+#~ msgid "82%"
+#~ msgstr "82%"
+
+#~ msgid "63%"
+#~ msgstr "63%"
+
+#~ msgid "68%"
+#~ msgstr "68%"
+
+#~ msgid "37%"
+#~ msgstr "37%"
+
+#~ msgid "34%"
+#~ msgstr "34%"
+
+#~ msgid "33%"
+#~ msgstr "33%"
+
+#~ msgid "28%"
+#~ msgstr "28%"
+
+#~ msgid "24%"
+#~ msgstr "24%"

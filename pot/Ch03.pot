@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -349,7 +349,7 @@ msgstr ""
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other variables. Computed Variables can be used for a range "
-"of purposes, including log transforms, z-scores, sum-scores, negative "
+"of purposes, including log transforms, *z*-scores, sum-scores, negative "
 "scoring and means."
 msgstr ""
 
@@ -363,18 +363,19 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:94
 msgid ""
-"In order, these are the sum of A and B, a log (base 10) transform of len, "
-"the mean of A and B, and the z-score of the variable dose. :numref:`fig-"
-"computedvariable` shows the jamovi screen for the new variable computed as "
-"the z-score of dose (from the ``Tooth Growth`` example data set)."
+"In order, these are the sum of ``A`` and ``B``, a log (base 10) transform of "
+"``len``, the mean of ``A`` and ``B``, and the *z*-score of the variable "
+"``dose``. :numref:`fig-computedvariable` shows the jamovi screen for the new "
+"variable computed as the *z*-score of ``dose`` (from the ``Tooth Growth`` "
+"example data set)."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:106
-msgid "Computed variable: z-score of ``dose``"
+msgid "Computed variable: *z*-score of ``dose``"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:106
-msgid "A newly computed variable, the z-score of ``dose``."
+msgid "A newly computed variable, the *z*-score of ``dose``."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:110
@@ -384,11 +385,12 @@ msgstr ""
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:112
 msgid ""
 "Several functions are already available in jamovi and available from the "
-"drop down box labelled *f\\ x*. A number of functions appear in pairs, one "
-"prefixed with a V and the other not. V functions perform their calculation "
-"on a variable as a whole, where as non-V functions perform their calculation "
-"row by row. For example, MEAN(A, B) will produce the mean of A and B for "
-"each row. Where as VMEAN(A) gives the mean of all the values in A."
+"drop down box labelled *f*\\ :sub:`x`. A number of functions appear in "
+"pairs, one prefixed with a V and the other not. V functions perform their "
+"calculation on a variable as a whole, where as non-V functions perform their "
+"calculation row by row. For example, ``MEAN(A, B)`` will produce the mean of "
+"``A`` and ``B`` for each row. Where as ``VMEAN(A)`` gives the mean of all "
+"the values in ``A``."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:121

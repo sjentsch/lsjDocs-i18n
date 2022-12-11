@@ -11,34 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -63,7 +35,7 @@ msgstr ""
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,51 +46,7 @@ msgstr ""
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 20:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 19:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-09 10:33+0100\n"
+"POT-Creation-Date: 2022-12-11 19:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -128,14 +56,14 @@ msgstr ""
 "#-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-07 20:15+0100\n"
+"POT-Creation-Date: 2022-12-11 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
 msgid "Comparing several means (one-way ANOVA)"
@@ -774,7 +702,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
-msgid "df"
+msgid "*df*"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:595
@@ -826,10 +754,10 @@ msgid ""
 "you probably won’t like me for doing so. If you recall, our null hypothesis "
 "was that all of the group means are identical to one another. If so, then a "
 "natural way to think about the outcome variable |Y_ik| is to describe "
-"individual scores in terms of a single population mean *µ*, plus the "
-"deviation from that population mean. This deviation is usually denoted ϵ\\ :"
-"sub:`ik` and is traditionally called the *error* or **residual** associated "
-"with that observation. Be careful though. Just like we saw with the word "
+"individual scores in terms of a single population mean µ, plus the deviation "
+"from that population mean. This deviation is usually denoted ϵ\\ :sub:`ik` "
+"and is traditionally called the *error* or **residual** associated with that "
+"observation. Be careful though. Just like we saw with the word "
 "“significant”, the word “error” has a technical meaning in statistics that "
 "isn’t quite the same as its everyday English definition. In everyday "
 "language, “error” implies a mistake of some kind, but in statistics it "
@@ -852,8 +780,8 @@ msgstr "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 msgid ""
 "where we make the *assumption* (discussed later) that the residual values "
 "ϵ\\ :sub:`ik` are normally distributed, with mean 0 and a standard deviation "
-"*σ* that is the same for all groups. To use the notation that we introduced "
-"in chapter :doc:`Introduction to probability <../Ch07/Ch07_Probability>` we "
+"σ that is the same for all groups. To use the notation that we introduced in "
+"chapter :doc:`Introduction to probability <../Ch07/Ch07_Probability>` we "
 "would write this assumption like this:"
 msgstr ""
 
@@ -877,7 +805,7 @@ msgstr "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 #: ../../Ch13/Ch13_ANOVA_02.rst:340
 msgid ""
 "where, once again, we assume that the error terms are normally distributed "
-"with mean 0 and standard deviation *σ*. That is, the alternative hypothesis "
+"with mean 0 and standard deviation σ. That is, the alternative hypothesis "
 "also assumes that ϵ ~ Normal(0, σ²)"
 msgstr ""
 
@@ -1729,7 +1657,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:89
-msgid "Uncorrected pairwise t-tests as post-hoc comparisons in jamovi"
+msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:94
@@ -1751,8 +1679,8 @@ msgstr ""
 msgid ""
 "It’s okay to run post-hoc analyses, but a lot of care is required. For "
 "instance, the analysis that I ran in the previous section should be avoided, "
-"as each *individual* *t*-test is designed to have a 5% Type I error rate (i."
-"e., *α* = 0.05) and I ran three of these tests. Imagine what would have "
+"as each *individual* *t*-test is designed to have a 5\\% Type I error rate "
+"(i.e., α = 0.05) and I ran three of these tests. Imagine what would have "
 "happened if my ANOVA involved 10 different groups, and I had decided to run "
 "45 “post-hoc” *t*-tests to try to find out which ones were significantly "
 "different from each other, you’d expect 2 or 3 of them to come up "
@@ -1789,7 +1717,7 @@ msgid ""
 "(`Dunn, 1961 <../Other/References.html#dunn-1961>`__\\ ), and it’s very very "
 "simple indeed. Suppose that my post-hoc analysis consists of *m* separate "
 "tests, and I want to ensure that the total probability of making *any* Type "
-"I errors at all is at most *α*.\\ [#]_ If so, then the Bonferroni correction "
+"I errors at all is at most α.\\ [#]_ If so, then the Bonferroni correction "
 "just says “multiply all your raw *p*-values by *m*”. If we let *p* denote "
 "the original *p*-value, and let *p*'\\ :sub:`j` be the corrected value, then "
 "the Bonferroni correction tells that:"
@@ -1802,12 +1730,11 @@ msgstr "*p*'\\ :sub:`j` = *m* × *p*"
 #: ../../Ch13/Ch13_ANOVA_05.rst:144
 msgid ""
 "And therefore, if you’re using the Bonferroni correction, you would reject "
-"the null hypothesis if *p*'\\ :sub:`j` < *α*. The logic behind this "
-"correction is very straightforward. We’re doing *m* different tests, so if "
-"we arrange it so that each test has a Type I error rate of at most *α* / "
-"*m*, then the *total* Type I error rate across these tests cannot be larger "
-"than *α*. That’s pretty simple, so much so that in the original paper, the "
-"author writes,"
+"the null hypothesis if *p*'\\ :sub:`j` < α. The logic behind this correction "
+"is very straightforward. We’re doing *m* different tests, so if we arrange "
+"it so that each test has a Type I error rate of at most α / *m*, then the "
+"*total* Type I error rate across these tests cannot be larger than α. That’s "
+"pretty simple, so much so that in the original paper, the author writes,"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:152
@@ -1865,7 +1792,7 @@ msgid ""
 "First, you sort all of your *p*-values in order, from smallest to largest. "
 "For the smallest *p*-value all you do is multiply it by *m*, and you’re "
 "done. However, for all the other ones it’s a two-stage process. For "
-"instance, when you move to the second smallest *p* value, you first multiply "
+"instance, when you move to the second smallest *p*-value, you first multiply "
 "it by *m* - 1. If this produces a number that is bigger than the adjusted "
 "*p*-value that you got last time, then you keep it. But if it’s smaller than "
 "the last one, then you copy the last *p*-value. To illustrate how this "
@@ -2028,7 +1955,7 @@ msgstr "H\\ :sub:`1`: Y\\ :sub:`ik` = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:19
 msgid ""
-"In these equations *µ* refers to a single grand population mean which is the "
+"In these equations µ refers to a single grand population mean which is the "
 "same for all groups, and µ\\ :sub:`k` is the population mean for the *k*-th "
 "group. Up to this point we’ve been mostly interested in whether our data are "
 "best described in terms of a single grand mean (the null hypothesis) or in "
@@ -2057,9 +1984,9 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_06.rst:42
 msgid ""
 "**Homogeneity of variance**. Notice that we’ve only got the one value for "
-"the population standard deviation (i.e., *σ*), rather than allowing each "
-"group to have it’s own value (i.e., σ\\ :sub:`k`). This is referred to as "
-"the homogeneity of variance (sometimes called homoscedasticity) assumption. "
+"the population standard deviation (i.e., σ), rather than allowing each group "
+"to have it’s own value (i.e., σ\\ :sub:`k`). This is referred to as the "
+"homogeneity of variance (sometimes called homoscedasticity) assumption. "
 "ANOVA assumes that the population standard deviation is the same for all "
 "groups. We’ll talk about this extensively in section :doc:`Checking the "
 "homogeneity of variance assumption <../Ch13/Ch13_ANOVA_06>`."
@@ -2505,7 +2432,7 @@ msgid ""
 "Wallis)``. Most of the time you’ll have data like the |clinicaltrial|_ data "
 "set, in which you have your outcome variable ``mood.gain`` and a grouping "
 "variable ``drug``. If so, you can just go ahead and run the analysis in "
-"jamovi. What this gives us is a Kruskal-Wallis χ² = 12.076, df = 2, *p*-"
+"jamovi. What this gives us is a Kruskal-Wallis χ² = 12.076, *df* = 2, *p*-"
 "value = 0.00239, as in :numref:`fig-anova6`."
 msgstr ""
 

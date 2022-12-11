@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 21:38+0100\n"
+"POT-Creation-Date: 2022-12-11 20:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -207,8 +207,8 @@ msgstr ""
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
-"argument on its logical merits. We’d expect 100% of people to say that the "
-"valid arguments are valid, and 0% of people to say that the invalid "
+"argument on its logical merits. We’d expect 100\\% of people to say that the "
+"valid arguments are valid, and 0\\% of people to say that the invalid "
 "arguments are valid. So if you ran an experiment looking at this, you’d "
 "expect to see data like this:"
 msgstr ""
@@ -229,7 +229,7 @@ msgid "**argument is valid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
-msgid "100% say “valid”"
+msgid "100\\% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64 ../../Ch01/Ch01_WhyStats_2.rst:84
@@ -238,7 +238,7 @@ msgid "**argument is invalid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
-msgid "0% say “valid”"
+msgid "0\\% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:67
@@ -260,11 +260,11 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
-msgid "92% say “valid”"
+msgid "92\\% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
-msgid "8% say “valid”"
+msgid "8\\% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:87
@@ -275,43 +275,43 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
-msgid "*46% say “valid”*"
+msgid "*46\\% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
-msgid "*92% say “valid”*"
+msgid "*92\\% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
-"hard to even perceive it to be a strong argument (people only did so 46% of "
-"the time). Even worse, when people are presented with a weak argument that "
-"agrees with our pre-existing biases, almost no-one can see that the argument "
-"is weak (people got that one wrong 92% of the time!).\\ [#]_"
+"hard to even perceive it to be a strong argument (people only did so 46\\% "
+"of the time). Even worse, when people are presented with a weak argument "
+"that agrees with our pre-existing biases, almost no-one can see that the "
+"argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
-"biases, since about 60% of people’s judgements were correct (you’d expect "
-"50% by chance). Even so, if you were a professional “evaluator of evidence”, "
-"and someone came along and offered you a magic tool that improves your "
-"chances of making the right decision from 60% to (say) 95%, you’d probably "
-"jump at it, right? Of course you would. Thankfully, we actually do have a "
-"tool that can do this. But it’s not magic, it’s statistics. So that’s reason "
-"#1 why scientists love statistics. It’s just *too easy* for us to “believe "
-"what we want to believe”. So instead, if we want to “believe in the data”, "
-"we’re going to need a bit of help to keep our personal biases under control. "
-"That’s what statistics does, it helps keep us honest."
+"biases, since about 60\\% of people’s judgements were correct (you’d expect "
+"50\\% by chance). Even so, if you were a professional “evaluator of "
+"evidence”, and someone came along and offered you a magic tool that improves "
+"your chances of making the right decision from 60\\% to (say) 95\\%, you’d "
+"probably jump at it, right? Of course you would. Thankfully, we actually do "
+"have a tool that can do this. But it’s not magic, it’s statistics. So that’s "
+"reason #1 why scientists love statistics. It’s just *too easy* for us to "
+"“believe what we want to believe”. So instead, if we want to “believe in the "
+"data”, we’re going to need a bit of help to keep our personal biases under "
+"control. That’s what statistics does, it helps keep us honest."
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
 msgid ""
-"In my more cynical moments I feel like this fact alone explains 95% of what "
-"I read on the internet."
+"In my more cynical moments I feel like this fact alone explains 95\\% of "
+"what I read on the internet."
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:4
@@ -343,8 +343,8 @@ msgid "8442"
 msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
-msgid "44%"
-msgstr "44%"
+msgid "44\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
@@ -355,13 +355,13 @@ msgid "4321"
 msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
-msgid "35%"
-msgstr "35%"
+msgid "35\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
-"nearly 13,000 applicants, a difference of 9% in admission rates between "
+"nearly 13,000 applicants, a difference of 9\\% in admission rates between "
 "males and females is just way too big to be a coincidence. Pretty compelling "
 "data, right? And if I were to say to you that these data *actually* reflect "
 "a weak bias in favour of women (sort of!), you’d probably think that I was "
@@ -405,16 +405,16 @@ msgid "825"
 msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
-msgid "62%"
-msgstr "62%"
+msgid "62\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
 msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
-msgid "82%"
-msgstr "82%"
+msgid "82\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
@@ -425,16 +425,16 @@ msgid "560"
 msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
-msgid "63%"
-msgstr "63%"
+msgid "63\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
 msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
-msgid "68%"
-msgstr "68%"
+msgid "68\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
@@ -445,16 +445,16 @@ msgid "325"
 msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
-msgid "37%"
-msgstr "37%"
+msgid "37\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
 msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
-msgid "34%"
-msgstr "34%"
+msgid "34\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
@@ -465,8 +465,8 @@ msgid "417"
 msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
-msgid "33%"
-msgstr "33%"
+msgid "33\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
@@ -481,16 +481,16 @@ msgid "191"
 msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
-msgid "28%"
-msgstr "28%"
+msgid "28\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
 msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
-msgid "24%"
-msgstr "24%"
+msgid "24\\%"
+msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
@@ -501,16 +501,16 @@ msgid "272"
 msgstr "272"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
-msgid "6%"
-msgstr "6%"
+msgid "6\\%"
+msgstr "6\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "341"
 msgstr "341"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
-msgid "7%"
-msgstr "7%"
+msgid "7\\%"
+msgstr "7\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:58
 msgid ""
@@ -777,7 +777,7 @@ msgid ""
 "that 8 of them involved a discussion of something that I would call a "
 "statistical topic and 6 of those made a mistake. The most common error, if "
 "you’re curious, was failing to report baseline data (e.g., the article "
-"mentions that 5% of people in situation X have some characteristic Y, but "
+"mentions that 5\\% of people in situation X have some characteristic Y, but "
 "doesn’t say how common the characteristic is for everyone else!). The point "
 "I’m trying to make here isn’t that journalists are bad at statistics (though "
 "they almost always are), it’s that a basic knowledge of statistics is very "
@@ -802,8 +802,8 @@ msgid ""
 "concept than statistics. So most research methods courses will cover a lot "
 "of topics that relate much more to the pragmatics of research design, and in "
 "particular the issues that you encounter when trying to do research with "
-"humans. However, about 99% of student *fears* relate to the statistics part "
-"of the course, so I’ve focused on the stats in this discussion, and "
+"humans. However, about 99\\% of student *fears* relate to the statistics "
+"part of the course, so I’ve focused on the stats in this discussion, and "
 "hopefully I’ve convinced you that statistics matters, and more importantly, "
 "that it’s not to be feared. That being said, it’s pretty typical for "
 "introductory research methods classes to be very stats-heavy. This is not "
@@ -834,3 +834,36 @@ msgid ""
 "engage in. To the extent that it’s the details that matter, those details "
 "don’t usually show up in an introductory stats and research methods class."
 msgstr ""
+
+#~ msgid "44%"
+#~ msgstr "44%"
+
+#~ msgid "35%"
+#~ msgstr "35%"
+
+#~ msgid "62%"
+#~ msgstr "62%"
+
+#~ msgid "82%"
+#~ msgstr "82%"
+
+#~ msgid "63%"
+#~ msgstr "63%"
+
+#~ msgid "68%"
+#~ msgstr "68%"
+
+#~ msgid "37%"
+#~ msgstr "37%"
+
+#~ msgid "34%"
+#~ msgstr "34%"
+
+#~ msgid "33%"
+#~ msgstr "33%"
+
+#~ msgid "28%"
+#~ msgstr "28%"
+
+#~ msgid "24%"
+#~ msgstr "24%"
