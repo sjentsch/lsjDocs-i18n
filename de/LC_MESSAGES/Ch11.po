@@ -69,7 +69,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-11 17:50+0100\n"
-"PO-Revision-Date: 2022-12-11 20:17+0000\n"
+"PO-Revision-Date: 2022-12-11 20:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
 "\n"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:128
 msgid "Conducting an One-sample *t*-test in jamovi"
-msgstr ""
+msgstr "Durchführen des *t*-Tests mit einer Stichprobe in jamovi"
 
 #: ../../Ch11/Ch11_tTest_02.rst:132
 #, python-format
@@ -1139,6 +1139,12 @@ msgid ""
 "interval included as part of the stat block after reporting the mean "
 "difference, like this:"
 msgstr ""
+"wobei *t*\\(19) die Kurzschreibweise für eine *t*-Statistik mit 19 "
+"Freiheitsgraden ist. Allerdings kommt es häufig vor, dass das "
+"Konfidenzintervall nicht angegeben wird oder in einer viel komprimierteren "
+"Form, als ich es hier getan habe. Es ist zum Beispiel nicht ungewöhnlich, "
+"dass das Konfidenzintervall als Teil des Statistikblocks nach der Angabe der "
+"Mittelwertdifferenz angegeben wird:"
 
 #: ../../Ch11/Ch11_tTest_02.rst:152
 msgid "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
@@ -1149,10 +1155,12 @@ msgid ""
 "With that much jargon crammed into half a line, you know it must be really "
 "smart.\\ [#]_"
 msgstr ""
+"Bei so viel Fachjargon in einer halben Zeile weiß man, dass es wirklich "
+"schlau sein muss.\\ [#]_"
 
 #: ../../Ch11/Ch11_tTest_02.rst:158
 msgid "Assumptions of the one sample *t*-test"
-msgstr ""
+msgstr "Voraussetzungen für den *t*-Test mit einer Stichprobe"
 
 #: ../../Ch11/Ch11_tTest_02.rst:160
 msgid ""
@@ -1162,6 +1170,12 @@ msgid ""
 "assumptions as the *z*-test, minus the one about the known standard "
 "deviation. That is"
 msgstr ""
+"Welche Voraussetzungen müssen erfüllt sein, um den *t*-Test mit einer "
+"Stichprobe durchführen zu können? Da der *t*-Test im Grunde ein *z*-Test "
+"ist, bei dem die Annahme, dass die Standardabweichung bekannt sein muss, "
+"entfällt, sollte es Sie nicht überraschen, dass er dieselben Voraussetzungen "
+"erfordert wie der *z*-Test, abzüglich der Annahme der bekannten "
+"Standardabweichung. Das bedeutet"
 
 #: ../../Ch11/Ch11_tTest_02.rst:167
 msgid ""
@@ -1187,6 +1201,10 @@ msgid ""
 "discussion about the *z*-test for specifics (section :doc:`Assumptions of "
 "the *z*-test <../Ch11/Ch11_tTest_01>`)."
 msgstr ""
+"*Unabhängigkeit*. Auch hier müssen wir davon ausgehen, dass die "
+"Beobachtungen in unserer Stichprobe unabhängig voneinander erzeugt wurden. "
+"Siehe die frühere Diskussion beim *z*-Test für Einzelheiten (Abschnitt :doc:`"
+"Annahmen des *z*-Tests <../Ch11/Ch11_tTest_01>`)."
 
 #: ../../Ch11/Ch11_tTest_02.rst:179
 msgid ""
@@ -1194,6 +1212,10 @@ msgid ""
 "consequence the one-sample *t*-test is pretty widely used in practice as a "
 "way of comparing a sample mean against a hypothesised population mean."
 msgstr ""
+"Insgesamt sind diese beiden Annahmen nicht sehr unvernünftig, und daher wird "
+"der *t*-Test mit einer Stichprobe in der Praxis recht häufig zum Vergleich "
+"eines Stichprobenmittelwerts mit einem hypothetischen Populationsmittelwert "
+"verwendet."
 
 #: ../../Ch11/Ch11_tTest_02.rst:187
 msgid ""
@@ -1201,6 +1223,9 @@ msgid ""
 "solution; the general solution to the problem was provided by Sir Ronald "
 "Fisher."
 msgstr ""
+"Zumindest teilweise. Wenn ich die Geschichte korrekt verstehe, hat Gosset "
+"nur eine Teillösung geliefert; die allgemeine Lösung des Problems wurde von "
+"Sir Ronald Fisher geliefert."
 
 #: ../../Ch11/Ch11_tTest_02.rst:192
 msgid ""
@@ -1212,6 +1237,14 @@ msgid ""
 "lazy. Your readers are smart, but not infinitely patient. Don’t annoy them "
 "if you can help it."
 msgstr ""
+"Im Ernst: Ich glaube eher, dass das Gegenteil der Fall ist. Ich bin "
+"misstrauisch gegenüber Berichten und Manuskripten, die die Abschnitte, in "
+"denen die Ergebnisse berichtet werden, mit nichts anderem als den Zahlen "
+"füllen. Vielleicht bin ich einfach nur arrogant, aber ich habe oft das "
+"Gefühl, dass ein Autor, der keinen Versuch unternimmt, dem Leser seine "
+"Analyse zu erklären und diese zu interpretieren, sie entweder selbst nicht "
+"versteht oder faul ist. Ihre Leser sind klug, aber nicht unendlich geduldig. "
+"Verärgern Sie sie nicht, wenn Sie es vermeiden können."
 
 #: ../../Ch11/Ch11_tTest_02.rst:201
 msgid ""
@@ -1242,7 +1275,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:4
 msgid "The independent samples *t*-test (Student test)"
-msgstr ""
+msgstr "Der *t*-Test für unabhängige Stichproben (nach Student)"
 
 #: ../../Ch11/Ch11_tTest_03.rst:6
 msgid ""
@@ -1256,10 +1289,19 @@ msgid ""
 "population mean. This is the situation that the independent samples *t*-test "
 "is designed for."
 msgstr ""
+"Obwohl der *t*-Test mit einer Stichprobe durchaus seine Berechtigung hat, "
+"ist er nicht das typischste Beispiel für einen *t*-Test.\\ [#]_ Viel "
+"häufiger kommt es vor, dass man zwei verschiedene Gruppen von Beobachtungen "
+"hat. In der Psychologie entspricht dies in der Regel zwei verschiedenen "
+"Gruppen von Teilnehmern, wobei jede Gruppe einer Bedingung in Ihrer Studie "
+"entspricht. Für jede Person in der Studie messen Sie eine Ergebnisvariable "
+"von Interesse, und die Forschungsfrage, die Sie stellen, lautet, ob die "
+"beiden Gruppen denselben Populationsmittelwert haben oder nicht. Für diese "
+"Situation ist der *t*-Test für unabhängige Stichproben konzipiert."
 
 #: ../../Ch11/Ch11_tTest_03.rst:17 ../../Ch11/Ch11_tTest_05.rst:24
 msgid "The data"
-msgstr ""
+msgstr "Die Daten"
 
 #: ../../Ch11/Ch11_tTest_03.rst:19
 msgid ""
@@ -1281,28 +1323,49 @@ msgid ""
 "nominal| that indicates who each student’s tutor was - either Anastasia or "
 "Bernadette."
 msgstr ""
+"Angenommen, 33 Studenten besuchen die Statistikvorlesungen von Dr. Harpo, "
+"und Dr. Harpo benotet nicht im Einklang mit einer Normalverteilungskurve. "
+"Stattdessen ist Dr. Harpos Benotung ein gewisses Mysterium. Wir wissen also "
+"nicht wirklich, wie die Durchschnittsnote für die gesamte Klasse lautet. Es "
+"gibt zwei Tutoren in dieser Klasse, Anastasia und Bernadette. Es gibt *N*\\ "
+":sub:`1` = 15 Schüler in Anastasias Tutorien und *N*\\ :sub:`2` = 18 in "
+"Bernadettes Tutorien. Die Forschungsfrage, die mich interessiert, ist, ob "
+"Anastasia oder Bernadette die bessere Tutorin ist, oder ob es keinen großen "
+"Unterschied macht. Dr. Harpo schickt mir den Datensatz |harpo|_ mit den "
+"Kursnoten. Wie üblich lade ich die Datei in jamovi und schaue mir an, welche "
+"Variablen sie enthält - es gibt drei Variablen, ``ID``, ``grade`` und "
+"``tutor``. Die Variable ``grade`` enthält die Note jedes Schülers, aber sie "
+"wird nicht mit dem richtigen Attribut für die Messungsebene in jamovi "
+"importiert, also muss ich dies ändern, damit sie als kontinuierliche "
+"Variable |continuous| betrachtet wird (siehe :doc:`Daten von einer Ebene zur "
+"anderen ändern <../Ch03/Ch03_jamoviIntro_3>`). Die Variable ``tutor`` ist "
+"ein Faktor |nominal|, der angibt, wer der Tutor des jeweiligen Schülers war: "
+"entweder Anastasia oder Bernadette."
 
 #: ../../Ch11/Ch11_tTest_03.rst:36
 msgid ""
 "We can calculate means and standard deviations, using the ``Exploration`` → "
 "``Descriptives`` analysis, and here’s a nice little summary table:"
 msgstr ""
+"Wir können Mittelwerte und Standardabweichungen berechnen, indem wir die "
+"Analyse ``Exploration`` → ``Descriptives`` verwenden. Wir erhalten dann die "
+"folgende zusammenfassende Tabelle:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "mean"
-msgstr ""
+msgstr "Mittelwert"
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "std. dev."
-msgstr ""
+msgstr "Std.-abw."
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "**Anastasia’s students**"
-msgstr ""
+msgstr "**Anastasias Studenten**"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "74.53"
@@ -1318,7 +1381,7 @@ msgstr "15"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "**Bernadette’s students**"
-msgstr ""
+msgstr "**Bernadettes Studenten**"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "69.06"
@@ -1340,10 +1403,16 @@ msgid ""
 "the means and corresponding confidence intervals for both groups of students "
 "(:numref:`fig-ttestci`)."
 msgstr ""
+"Um Ihnen einen detaillierteren Eindruck davon zu vermitteln, was hier vor "
+"sich geht, habe ich Histogramme (nicht in jamovi, sondern mit R) erstellt, "
+"welche die Verteilung der Noten für beide Tutoren (:numref:`fig-harpohist`) "
+"zeigen, sowie eine einfachere Darstellung, welche die Mittelwerte und die "
+"entsprechenden Konfidenzintervalle für beide Schülergruppen (:numref:`fig-"
+"ttestci`) zeigt."
 
 #: ../../Ch11/Ch11_tTest_03.rst:59
 msgid "Histogram with grades in Anastasia’s and Bernadette’s classes"
-msgstr ""
+msgstr "Histogramm mit den Noten in den Tutorien von Anastasia und Bernadette"
 
 #: ../../Ch11/Ch11_tTest_03.rst:59
 msgid ""
@@ -1352,10 +1421,17 @@ msgid ""
 "suggest that students in Anastasia’s class may be getting slightly better "
 "grades on average, though they also seem a bit more variable."
 msgstr ""
+"Histogramme, welche die Verteilung der Noten für Schüler in Anastasias "
+"(links) und Bernadettes (rechts) Tutorien zeigen. Die Histogramme deuten "
+"darauf hin, dass die Schüler in Anastasias Tutorien im Durchschnitt etwas "
+"bessere Noten erhalten, gleichzeitig scheinen die Noten aber auch etwas "
+"variabler zu sein."
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
 msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes"
 msgstr ""
+"Durchschnittliche Noten (mit Fehlerbalken) in den Tutorien von Anastasia und "
+"Bernadette"
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
 #, python-format
@@ -1373,7 +1449,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:78
 msgid "Introducing the test"
-msgstr ""
+msgstr "Einführung in den Test"
 
 #: ../../Ch11/Ch11_tTest_03.rst:80
 msgid ""
@@ -1393,6 +1469,23 @@ msgid ""
 "groups’ mean performance on some outcome measure, then an independent "
 "samples *t*-test (rather than a paired samples *t*-test) is what we’re after."
 msgstr ""
+"Den **t-Test für unabhängige Stichproben** gibt es in zwei verschiedenen "
+"Versionen, dem Test nach Student und dem von Welch. Der ursprüngliche *t*-"
+"Test nach Student, den ich in diesem Abschnitt beschreiben werde, ist der "
+"einfachere der beiden, beruht aber auf restriktiveren Annahmen als der *t*-"
+"Test von Welch. Angenommen, Sie möchten einen zweiseitigen Test durchführen, "
+"so besteht das Ziel darin, festzustellen, ob zwei „unabhängige Stichproben“ "
+"von Daten aus Populationen mit demselben Mittelwert (Nullhypothese) oder mit "
+"unterschiedlichen Mittelwerten (Alternativhypothese) gezogen wurden. Wenn "
+"wir von „unabhängigen“ Stichproben sprechen, meinen wir damit, dass es keine "
+"besondere Beziehung zwischen den Beobachtungen in den beiden Stichproben "
+"gibt. Das macht im Moment wahrscheinlich nicht viel Sinn, aber es wird "
+"klarer, wenn wir später über den *t*-Test für gepaarte Stichproben sprechen. "
+"Für den Moment wollen wir nur darauf hinweisen, dass wir einen *t*-Test für "
+"unabhängige Stichproben (und nicht einen *t*-Test für gepaarte Stichproben) "
+"benutzen sollten, wenn wir einen Versuchsplan haben, bei dem die Teilnehmer "
+"zufällig einer von zwei Gruppen zugewiesen werden, und wir die mittlere "
+"Leistung der beiden Gruppen bei einer Ergebnismessung vergleichen wollen."
 
 #: ../../Ch11/Ch11_tTest_03.rst:98
 msgid ""
@@ -1405,6 +1498,15 @@ msgid ""
 "this is that they are not (µ\\ :sub:`1` ≠ µ\\ :sub:`1`). Written in "
 "mathematical-ese, this is:"
 msgstr ""
+"Wir bezeichnen µ\\ :sub:`1` als den wahren Populationsmittelwert für Gruppe "
+"1 (z.B. Anastasias Studenten), und µ\\ :sub:`2` als den wahren "
+"Populationsmittelwert für Gruppe 2 (z.B. Bernadette Studenten).\\ [#]_ Wie "
+"üblich bezeichnen wir die beobachteten Stichprobenmittelwerte für diese "
+"beiden Gruppen mit *X̄*\\ :sub:`1`und *X̄*\\ :sub:`2`. Unsere Nullhypothese "
+"besagt, dass die beiden Populationsmittelwerte identisch sind (µ\\ :sub:`1` "
+"= µ\\ :sub:`2`), und die Alternativhypothese ist, dass sie es nicht sind (µ\\"
+" :sub:`1` ≠ µ\\ :sub:`2`). In mathematischer Sprache ausgedrückt bedeutet "
+"dies:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:107
 msgid "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
@@ -1417,6 +1519,8 @@ msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 #: ../../Ch11/Ch11_tTest_03.rst:116
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
 msgstr ""
+"Illustration: Null- und Alternativhypothese beim *t*-Test für unabhängige "
+"Stichproben"
 
 #: ../../Ch11/Ch11_tTest_03.rst:116
 msgid ""
@@ -1428,6 +1532,15 @@ msgid ""
 "alternative hypothesis allows the group to have different means, it assumes "
 "they have the same standard deviation."
 msgstr ""
+"Grafische Veranschaulichung der Null- und Alternativhypothesen, die beim *t*-"
+"Test für unabhängige Stichproben (nach Student) angenommen werden. Die "
+"Nullhypothese geht davon aus, dass beide Gruppen den gleichen Mittelwert µ "
+"haben, während die Alternativhypothese davon ausgeht, dass sie "
+"unterschiedliche Mittelwerte µ\\ :sub:`1` und µ\\ :sub:`2`` haben. Beachten "
+"Sie, dass davon ausgegangen wird, dass die Verteilungen der Grundgesamtheit "
+"normal sind, und dass die Alternativhypothese zwar zulässt, dass die Gruppen "
+"unterschiedliche Mittelwerte haben, aber davon ausgeht, dass sie die gleiche "
+"Standardabweichung haben."
 
 #: ../../Ch11/Ch11_tTest_03.rst:126
 msgid ""
