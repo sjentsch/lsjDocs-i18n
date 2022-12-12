@@ -101,7 +101,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-11 16:44+0100\n"
-"PO-Revision-Date: 2022-12-12 14:49+0000\n"
+"PO-Revision-Date: 2022-12-12 15:50+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
@@ -594,17 +594,19 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:196
 msgid "jamovi screenshot with correlations in the |parenthood| data set"
-msgstr ""
+msgstr "jamovi-Screenshot mit Korrelationen aus dem Datensatz |parenthood|"
 
 #: ../../Ch12/Ch12_Regression_01.rst:196
 msgid ""
 "jamovi screenshot showing correlations between variables in the |parenthood|"
 "_ data set"
 msgstr ""
+"jamovi-Screenshot mit den Korrelationen zwischen den Variablen im Datensatz "
+"|parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:202
 msgid "Interpreting a correlation"
-msgstr ""
+msgstr "Interpretieren einer Korrelation"
 
 #: ../../Ch12/Ch12_Regression_01.rst:204
 msgid ""
@@ -624,6 +626,23 @@ msgid ""
 "a lot on the context. That said, the rough guide in :numref:`tab-"
 "interpretcorrelations` is pretty typical."
 msgstr ""
+"Natürlich gibt es im wirklichen Leben nicht viele Korrelationen von 1. Wie "
+"sollten Sie also eine Korrelation von, sagen wir, *r* = 0,4 interpretieren? "
+"Die ehrliche Antwort ist, dass es wirklich davon abhängt, wofür Sie die "
+"Daten verwenden wollen und wie stark die Korrelationen in Ihrem "
+"Arbeitsbereich typischerweise sind. Ein befreundeter Ingenieur behauptete "
+"einmal, dass jede Korrelation unter 0,95 völlig unbrauchbar ist (ich glaube, "
+"er hat übertrieben, selbst für den Ingenieurbereich). Andererseits gibt es "
+"selbst in der Psychologie Fälle, in denen man wirklich so starke "
+"Korrelationen erwarten sollte. So ist zum Beispiel einer der Benchmark-"
+"Datensätze, mit denen Theorien darüber getestet werden, wie Menschen "
+"Ähnlichkeiten beurteilen, so sauber, dass jede Theorie, die nicht mindestens "
+"eine Korrelation von 0,9 erreicht, als nicht erfolgreich gilt. Wenn man "
+"jedoch nach (sagen wir) elementaren Korrelaten der Intelligenz sucht (z. B. "
+"Inspektionszeit, Reaktionszeit), ist man sehr gut dran, wenn man eine "
+"Korrelation von über 0,3 erreicht. Kurz gesagt, die Interpretation einer "
+"Korrelation hängt stark vom Kontext ab. Die groben Richtwerte in :numref"
+":`tab-interpretcorrelations` sind jedoch ein guter Ausgangspunkt."
 
 #: ../../Ch12/Ch12_Regression_01.rst:220
 msgid ""
@@ -631,100 +650,106 @@ msgid ""
 "There aren’t hard and fast rules for what counts as strong or weak "
 "relationships. It depends on the context."
 msgstr ""
+"Ein grober Leitfaden für die Interpretation von Korrelationen. Beachten Sie, "
+"dass ich sage, ein *grober* Leitfaden. Es gibt keine festen Regeln dafür, "
+"was als starke oder schwache Beziehung gilt. Es kommt auf den Kontext an."
 
 #: ../../Ch12/Ch12_Regression_01.rst:226
 msgid "Correlation"
-msgstr ""
+msgstr "Korrelation"
 
 #: ../../Ch12/Ch12_Regression_01.rst:226
 msgid "Strength"
-msgstr ""
+msgstr "Stärke"
 
 #: ../../Ch12/Ch12_Regression_01.rst:226
 msgid "Direction"
-msgstr ""
+msgstr "Richtung"
 
 #: ../../Ch12/Ch12_Regression_01.rst:228
 msgid "-1.0 to -0.9"
-msgstr ""
+msgstr "-1,0 bis -0,9"
 
 #: ../../Ch12/Ch12_Regression_01.rst:228 ../../Ch12/Ch12_Regression_01.rst:246
 msgid "Very strong"
-msgstr ""
+msgstr "Sehr stark"
 
 #: ../../Ch12/Ch12_Regression_01.rst:228 ../../Ch12/Ch12_Regression_01.rst:230
 #: ../../Ch12/Ch12_Regression_01.rst:232 ../../Ch12/Ch12_Regression_01.rst:234
 #: ../../Ch12/Ch12_Regression_01.rst:236
 msgid "Negative"
-msgstr ""
+msgstr "Negativ"
 
 #: ../../Ch12/Ch12_Regression_01.rst:230
 msgid "-0.9 to -0.7"
-msgstr ""
+msgstr "-0,9 bis -0,7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:230 ../../Ch12/Ch12_Regression_01.rst:244
 msgid "Strong"
-msgstr ""
+msgstr "Stark"
 
 #: ../../Ch12/Ch12_Regression_01.rst:232
 msgid "-0.7 to -0.4"
-msgstr ""
+msgstr "-0,7 bis -0,4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:232 ../../Ch12/Ch12_Regression_01.rst:242
 msgid "Moderate"
-msgstr ""
+msgstr "Mäßig"
 
 #: ../../Ch12/Ch12_Regression_01.rst:234
 msgid "-0.4 to -0.2"
-msgstr ""
+msgstr "-0,4 bis -0,2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:234 ../../Ch12/Ch12_Regression_01.rst:240
 msgid "Weak"
-msgstr ""
+msgstr "Schwach"
 
 #: ../../Ch12/Ch12_Regression_01.rst:236
 msgid "-0.2 to  0.0"
-msgstr ""
+msgstr "-0,2 bis 0,0"
 
 #: ../../Ch12/Ch12_Regression_01.rst:236 ../../Ch12/Ch12_Regression_01.rst:238
 msgid "Negligible"
-msgstr ""
+msgstr "Unbedeutend"
 
 #: ../../Ch12/Ch12_Regression_01.rst:238
 msgid "0.0 to  0.2"
-msgstr ""
+msgstr "0,0 bis 0,2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:238 ../../Ch12/Ch12_Regression_01.rst:240
 #: ../../Ch12/Ch12_Regression_01.rst:242 ../../Ch12/Ch12_Regression_01.rst:244
 #: ../../Ch12/Ch12_Regression_01.rst:246
 msgid "Positive"
-msgstr ""
+msgstr "Positiv"
 
 #: ../../Ch12/Ch12_Regression_01.rst:240
 msgid "0.2 to  0.4"
-msgstr ""
+msgstr "0,2 bis 0,4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:242
 msgid "0.4 to  0.7"
-msgstr ""
+msgstr "0,4 bis 0,7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:244
 msgid "0.7 to  0.9"
-msgstr ""
+msgstr "0,7 bis 0,9"
 
 #: ../../Ch12/Ch12_Regression_01.rst:246
 msgid "0.9 to  1.0"
-msgstr ""
+msgstr "0,9 bis 1,0"
 
 #: ../../Ch12/Ch12_Regression_01.rst:256
 msgid "Anscombe’s quartet"
-msgstr ""
+msgstr "Anscombes Quartett"
 
 #: ../../Ch12/Ch12_Regression_01.rst:256
 msgid ""
 "Anscombe’s quartet: All four of these data sets have a Pearson correlation "
 "of *r* = 0.816, but they are qualitatively different from one another."
 msgstr ""
+"Das Anscombe-Quartett: Alle vier Variablenpaare weisen eine Pearson-"
+"Korrelation von *r* = 0,816 auf, unterscheiden sich aber qualitativ deutlich "
+"voneinander."
 
 #: ../../Ch12/Ch12_Regression_01.rst:261
 msgid ""
@@ -740,6 +765,16 @@ msgid ""
 "0.816`. You can verify this yourself, since I happen to have saved it as a "
 "dataset called |anscombe|_."
 msgstr ""
+"Man kann nicht oft genug betonen, dass man sich *immer* das Streudiagramm "
+"ansehen sollte, bevor man seine Daten interpretiert. Eine Korrelation "
+"bedeutet möglicherweise nicht das, was Sie denken. Das klassische Beispiel "
+"hierfür ist das „Anscombe-Quartett“ (`Anscombe, 1973 <../Other/References."
+"html#anscombe-1973>`__\\ ), eine Sammlung von vier Variablenpaaren, jeweils "
+"*X* und *Y*. Für alle vier Variablenpaare beträgt der Mittelwert für *X* = 9 "
+"und der Mittelwert für *Y* = 7,5. Die Standardabweichung ist für alle *X*-"
+"Variablen fast identisch, ebenso wie die für die *Y* Variablen. Und in jedem "
+"Fall beträgt die Korrelation zwischen *X* und *Y* * r* = 0,816`. Sie können "
+"dies selbst überprüfen, indem Sie den Datensatz |anscombe|_ benutzen."
 
 #: ../../Ch12/Ch12_Regression_01.rst:272
 msgid ""
@@ -750,10 +785,17 @@ msgid ""
 "very many people seem to forget in real life, is *always graph your raw "
 "data* (chapter :doc:`Drawing graphs <../Ch05/Ch05_Graphics>`)."
 msgstr ""
+"Man sollte meinen, dass diese vier Datensätze einander ziemlich ähnlich "
+"sehen. Das tun sie aber nicht. Wenn wir die Streudiagramme *X* gegen *Y* für "
+"alle vier Variablenpaare zeichnen, wie in :numref:`fig-anscombe` gezeigt, "
+"sehen wir, dass sich alle vier *deutlich* voneinander unterscheiden. Die "
+"Lektion hier, die so viele Leute im wirklichen Leben zu vergessen scheinen, "
+"ist *Ihre Rohdaten immer grafisch darzustellen* (Kapitel :doc:`Diagramme "
+"erstellen <../Ch05/Ch05_Graphics>`)."
 
 #: ../../Ch12/Ch12_Regression_01.rst:280
 msgid "Spearman’s rank correlations"
-msgstr ""
+msgstr "Rangkorrelationen nach Spearman"
 
 #: ../../Ch12/Ch12_Regression_01.rst:282
 msgid ""
@@ -766,6 +808,14 @@ msgid ""
 "the Pearson correlation is a good thing to calculate. Sometimes though, it "
 "isn’t."
 msgstr ""
+"Der Pearson-Korrelationskoeffizient ist in vielerlei Hinsicht nützlich, hat "
+"aber auch seine Schwächen. Ein Problem fällt besonders auf: Er misst die "
+"Stärke der *linearen* Beziehung zwischen zwei Variablen. Mit anderen Worten, "
+"es ist ein Maß dafür, inwieweit die Daten alle auf eine einzige, perfekt "
+"gerade Linie fallen. Oft ist dies eine ziemlich gute Annäherung an das, was "
+"wir meinen, wenn wir von „Beziehung“ sprechen, und daher ist das Berechnen "
+"einer Pearson-Korrelation oft eine gute Idee. Manchmal ist dies jedoch nicht "
+"der Fall."
 
 #: ../../Ch12/Ch12_Regression_01.rst:291
 msgid ""
@@ -821,10 +871,29 @@ msgid ""
 "that student 1 will get the better grade. That’s not what a correlation of "
 "*r* = 0.91 says at all."
 msgstr ""
+"Betrachten Sie zur Veranschaulichung die in :numref:`fig-ordinalRelationship`"
+" gezeigten Daten, die für 10 Studenten das Verhältnis zwischen dem "
+"Arbeitseinsatz für einen Kurs (in h) und der Note zeigen. Das Kuriose an "
+"diesem (fiktiven) Datensatz ist, dass eine Erhöhung des Aufwands *immer* die "
+"Note erhöht. Das kann sehr viel oder wenig sein, aber eine Erhöhung des "
+"Arbeitsaufwands führt nie zu einer Verschlechterung der Note. Wenn wir eine "
+"gewöhnliche Pearson-Korrelation durchführen, zeigt sich eine starke "
+"Beziehung zwischen dem Arbeitseinsatz und der Note, mit einem "
+"Korrelationskoeffizienten von **0,91**. Dies entspricht jedoch nicht der "
+"Beobachtung, dass eine Erhöhung der geleisteten Arbeitsstunden *immer zu "
+"einer Verbesserung der Note* führt. In gewissem Sinne möchten wir sagen "
+"können, dass die Korrelation *perfekt ist*, aber wir haben eine etwas andere "
+"Vorstellung davon, was eine „Beziehung“ ist. Was wir suchen, ist etwas, das "
+"die Tatsache festhält, dass es hier eine perfekte **ordinale Beziehung** "
+"gibt. Das heißt, wenn Student 1 mehr Stunden arbeitet als Student 2, dann "
+"können wir garantieren, dass Student 1 die bessere Note erhält. Das sagt "
+"eine Korrelation von *r* = 0,91 aber überhaupt nicht aus."
 
 #: ../../Ch12/Ch12_Regression_01.rst:331
 msgid "relationship between hours worked and grade received"
 msgstr ""
+"Verhältnis zwischen dem geleisteten Arbeitseinsatz (in h) und der erhaltenen "
+"Note"
 
 #: ../../Ch12/Ch12_Regression_01.rst:331
 msgid ""
@@ -839,6 +908,17 @@ msgid ""
 "of ρ = 1.00. With such a small data set, however, it’s an open question as "
 "to which version better describes the actual relationship involved."
 msgstr ""
+"Die Beziehung zwischen den geleisteten Arbeitsstunden und der erhaltenen "
+"Note für einen fiktiven Datensatz mit 10 Studenten (jeder Kreis entspricht "
+"einem Studenten). Die gestrichelte Linie in der Mitte zeigt die lineare "
+"Beziehung zwischen den beiden Variablen mit einer starken Pearson-"
+"Korrelation von *r* = 0,91. Interessant ist jedoch, dass es tatsächlich eine "
+"perfekte monotone Beziehung zwischen den beiden Variablen gibt. Wie die "
+"durchgezogene Linie zeigt, steigt in diesem Beispiel mit zunehmender Zahl "
+"der geleisteten Arbeitsstunden immer auch die erhaltene Note. Dies spiegelt "
+"sich in einer Spearman-Korrelation von ρ = 1,00 wider. Bei einem so kleinen "
+"Datensatz ist es jedoch eine offene Frage, welche der Korrelationen die "
+"tatsächliche Beziehung besser beschreibt."
 
 #: ../../Ch12/Ch12_Regression_01.rst:345
 msgid ""
@@ -857,6 +937,23 @@ msgid ""
 "to largest, but as it’s really easy to forget which way you set things up "
 "you have to put a bit of effort into remembering!"
 msgstr ""
+"Wie sollten wir das angehen? Eigentlich ist es ganz einfach. Wenn wir nach "
+"ordinalen Beziehungen suchen, müssen wir die Daten nur so behandeln, als "
+"wären sie ordinalskaliert |ordinal|! Anstatt also den Arbeitseinsatz in Form "
+"von „Arbeitsstunden“ zu messen, sollten wir alle 10 Studenten entsprechend "
+"der Rangfolge ihrer Arbeitsstunden einordnen. Das heißt, Student 1 hat von "
+"allen am wenigsten gearbeitet (2 Stunden) und erhält daher den niedrigsten "
+"Rang (Rang = 1). Student 4 war etwas fleißiger, hat aber während des "
+"gesamten Semesters nur 6 Stunden Arbeit geleistet, und erhält daher den "
+"nächsthöheren Rang (Rang = 2). Beachten Sie, dass ich „Rang = 1“ im Sinne "
+"von „niedriger Rang“ verwende. In der Alltagssprache sprechen wir manchmal "
+"von „Rang = 1“, um den „höchsten Rang“ und nicht den „niedrigsten Rang“ zu "
+"meinen. Seien Sie also vorsichtig, Sie können eine Rangfolge „vom kleinsten "
+"Wert zum größten Wert“ (d. h. klein ist gleich Rang 1) oder „vom größten "
+"Wert zum kleinsten Wert“ (d. h. groß ist gleich Rang 1) erstellen. In diesem "
+"Fall rangiere ich vom kleinsten zum größten Wert, aber da man sehr leicht "
+"vergessen kann, wie man die Rangfolge einstellt, muss man sich schon ein "
+"wenig Mühe geben, sich daran zu erinnern!"
 
 #: ../../Ch12/Ch12_Regression_01.rst:423
 msgid "ordinal"
@@ -867,18 +964,20 @@ msgid ""
 "Okay, so let’s have a look at our students when we rank them from worst to "
 "best in terms of effort and reward:"
 msgstr ""
+"Schauen wir uns also unsere Studenten an, wenn wir sie in Bezug auf Aufwand "
+"und Belohnung von der schlechtesten bis zur besten Leistung einstufen:"
 
 #: ../../Ch12/Ch12_Regression_01.rst:364
 msgid "rank (hours worked)"
-msgstr ""
+msgstr "Rang (geleistete Arbeitsstunden)"
 
 #: ../../Ch12/Ch12_Regression_01.rst:364
 msgid "rank (grade received)"
-msgstr ""
+msgstr "Rang (erhaltene Note)"
 
 #: ../../Ch12/Ch12_Regression_01.rst:366
 msgid "**student 1**"
-msgstr ""
+msgstr "**Student 1**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:366
 msgid "1"
@@ -886,7 +985,7 @@ msgstr "1"
 
 #: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "**student 2**"
-msgstr ""
+msgstr "**Student 2**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "10"
@@ -894,7 +993,7 @@ msgstr "10"
 
 #: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "**student 3**"
-msgstr ""
+msgstr "**Student 3**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "6"
@@ -902,7 +1001,7 @@ msgstr "6"
 
 #: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "**student 4**"
-msgstr ""
+msgstr "**Student 4**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "2"
@@ -910,7 +1009,7 @@ msgstr "2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "**student 5**"
-msgstr ""
+msgstr "**Student 5**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "3"
@@ -918,7 +1017,7 @@ msgstr "3"
 
 #: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "**student 6**"
-msgstr ""
+msgstr "**Student 6**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "5"
@@ -926,7 +1025,7 @@ msgstr "5"
 
 #: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "**student 7**"
-msgstr ""
+msgstr "**Student 7**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "4"
@@ -934,7 +1033,7 @@ msgstr "4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "**student 8**"
-msgstr ""
+msgstr "**Student 8**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "8"
@@ -942,7 +1041,7 @@ msgstr "8"
 
 #: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "**student 9**"
-msgstr ""
+msgstr "**Student 9**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "7"
@@ -950,7 +1049,7 @@ msgstr "7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "**student 10**"
-msgstr ""
+msgstr "**Student 10**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "9"
@@ -963,6 +1062,12 @@ msgid ""
 "the table above shows, these two rankings are identical, so if we now "
 "correlate them we get a perfect relationship, with a correlation of **1.0**."
 msgstr ""
+"Die Ränge sind *identisch*. Der Student, der sich am meisten angestrengt "
+"hat, hat die beste Note bekommen, der Student mit der geringsten Anstrengung "
+"hat die schlechteste Note bekommen usw. Wie die obige Tabelle zeigt, sind "
+"die Ränge jeweils identisch. Wenn wir sie nun zueinander in Beziehung "
+"setzen, erhalten wir eine perfekte Beziehung, mit einer Korrelation von "
+"**1,0**."
 
 #: ../../Ch12/Ch12_Regression_01.rst:393
 msgid ""
@@ -971,6 +1076,11 @@ msgid ""
 "can calculate Spearman’s ρ using jamovi simply by clicking the ``Spearman`` "
 "check box in the ``Correlation Matrix`` options panel."
 msgstr ""
+"Was wir soeben neu erfunden haben, ist **Spearmans Rangfolgekorrelation**, "
+"die üblicherweise als ρ bezeichnet wird, um sie von der Pearson-Korrelation "
+"*r* zu unterscheiden. Wir können Spearmans ρ mit jamovi berechnen, indem wir "
+"einfach auf das Kontrollkästchen ``Spearman`` innerhalb der Optionen von ``"
+"Correlation Matrix`` klicken."
 
 #: ../../Ch12/Ch12_Regression_01.rst:401
 msgid ""
@@ -978,20 +1088,26 @@ msgid ""
 "people pick *one* measure of central tendency, and *one* measure of "
 "variability only."
 msgstr ""
+"Eigentlich ist selbst diese Tabelle zu umfangreich, als dass ich mich damit "
+"beschäftigen würde. In der Praxis wählen die meisten Leute *ein* Maß für die "
+"zentrale Tendenz und *ein* Maß für die Variabilität."
 
 #: ../../Ch12/Ch12_Regression_01.rst:406
 msgid ""
 "Just like we saw with the variance and the standard deviation, in practice "
 "we divide by *N* - 1 rather than *N*."
 msgstr ""
+"Genau wie bei der Varianz und der Standardabweichung wird in der Praxis "
+"durch *N* - 1 und nicht durch *N* geteilt."
 
 #: ../../Ch12/Ch12_Regression_01.rst:410
 msgid "This is an oversimplification, but it’ll do for our purposes."
 msgstr ""
+"Das ist eine grobe Vereinfachung, aber für unsere Zwecke ist es ausreichend."
 
 #: ../../Ch12/Ch12_Regression_02.rst:4
 msgid "Scatterplots"
-msgstr ""
+msgstr "Streudiagramme"
 
 #: ../../Ch12/Ch12_Regression_02.rst:6
 msgid ""
@@ -1014,6 +1130,26 @@ msgid ""
 "at how to draw scatterplots in jamovi, using the same |parenthood|_ data set "
 "that I used when introducing correlations."
 msgstr ""
+"**Streudiagramme** sind ein einfaches, aber effektives Instrument zur "
+"Visualisierung der Beziehung zwischen *zwei* Variablen, wie wir es bei den "
+"Abbildungen im Abschnitt über (:doc:`Korrelationen <../Ch12/"
+"Ch12_Regression_01>`) gesehen haben. An diese letztere Anwendung denken wir "
+"normalerweise, wenn wir den Begriff „Streudiagramm“ (oder „*scatterplot*“) "
+"verwenden. Bei dieser Art von Diagramm entspricht jede Beobachtung einem "
+"Punkt. Die horizontale Position des Punktes stellt den Wert der Beobachtung "
+"für eine Variable dar, die vertikale Position zeigt den Wert für die andere "
+"Variable. In vielen Situationen hat man keine klare Meinung über die "
+"*kausale* Beziehung (z. B. ob A Ursache für B ist, oder ob B Ursache für A "
+"ist, oder ob eine andere Variable C sowohl A als auch B kontrolliert). Wenn "
+"das der Fall ist, spielt es keine Rolle, welche Variable Sie auf der x-Achse "
+"und welche Sie auf der y-Achse auftragen. In manchen Situationen haben Sie "
+"jedoch eine Vorstellung davon, welche Variable Ihrer Meinung nach am "
+"wahrscheinlichsten kausal ist, oder Sie haben zumindest einen Verdacht in "
+"dieser Richtung. In diesem Fall ist es üblich, der Ursachenvariablen die x-"
+"Achse und der Wirkungsvariablen die y-Achse zuzuweisen. In diesem Sinne "
+"schauen wir uns an, wie man in jamovi Streudiagramme zeichnet, und zwar mit "
+"demselben |parenthood|_-Datensatz, den ich bei der Einführung von "
+"Korrelationen verwendet habe."
 
 #: ../../Ch12/Ch12_Regression_02.rst:24
 msgid ""
@@ -1029,10 +1165,23 @@ msgid ""
 "specify ``Densities for variables`` and this option adds a density curve "
 "showing how the data in each variable is distributed."
 msgstr ""
+"Angenommen, mein Ziel ist es, ein Streudiagramm zu zeichnen, das die "
+"Beziehung zwischen der Menge an Schlaf, die ich bekomme (``dani.sleep``) und "
+"wie miesepetrig ich am nächsten Tag bin (``dani.grump``) darstellt. Es gibt "
+"zwei verschiedene Möglichkeiten, wie wir jamovi verwenden können, um das "
+"gewünschte Diagramm zu erhalten. Die erste Möglichkeit ist die Verwendung "
+"der Option ``Plot`` unter der Schaltfläche ``Regression`` → ``Correlation "
+"Matrix``, die uns die in :numref:`fig-scatterplot1` gezeigte Ausgabe "
+"liefert. Beachten Sie, dass jamovi eine Linie durch die Punkte zieht, wir "
+"werden darauf später im Abschnitt :doc:`Was ist ein lineares "
+"Regressionsmodell? <../Ch12/Ch12_Regression_03>` eingehen. Wenn Sie ein "
+"Streudiagramm auf diese Weise erstellen, können Sie auch ``Densities for "
+"variables`` angeben. Diese Option fügt eine Dichtekurve hinzu, die zeigt, "
+"wie die Daten jeder einzelnen Variablen verteilt sind."
 
 #: ../../Ch12/Ch12_Regression_02.rst:41
 msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
-msgstr ""
+msgstr "Streudiagramm erstellt mit der Analyse ``Correlation Matrix`` in jamovi"
 
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
@@ -1045,14 +1194,23 @@ msgid ""
 "than the first way, see :numref:`fig-scatterplot2`, but the important "
 "information is the same."
 msgstr ""
+"Die zweite Möglichkeit ist, eines der jamovi-Zusatzmodule zu verwenden. "
+"Dieses Modul heißt ``scatr`` und Sie können es installieren, indem Sie auf "
+"das große Symbol ``+`` oben rechts auf dem jamovi-Bildschirm klicken, die "
+"jamovi-Bibliothek öffnen, nach unten scrollen, bis Sie ``scatr`` finden ("
+"bzw. ``scatr`` in die Linie für die Suche eingeben) und dann auf ``Install`` "
+"klicken. Wenn Sie dies getan haben, finden Sie einen neuen Befehl "
+"``Scatterplot`` unter der Schaltfläche ``Exploration``. Diese Darstellung "
+"ist etwas anders als die erste, siehe :numref:`fig-scatterplot2`, aber die "
+"zentralen Informationen sind dieselben."
 
 #: ../../Ch12/Ch12_Regression_02.rst:60
 msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
-msgstr ""
+msgstr "Scatterplot erstellt mit dem ``scatr``-Zusatzmodul in jamovi"
 
 #: ../../Ch12/Ch12_Regression_02.rst:65
 msgid "More elaborate options"
-msgstr ""
+msgstr "Ausgefeiltere Optionen"
 
 #: ../../Ch12/Ch12_Regression_02.rst:67
 msgid ""
@@ -1062,20 +1220,30 @@ msgid ""
 "sleep`` to the list of variables to be correlated, and jamovi will create a "
 "scatterplot matrix for you, just like the one in :numref:`fig-scatterplot3`."
 msgstr ""
+"Oft werden Sie die Beziehungen zwischen mehreren Variablen auf einmal "
+"betrachten wollen, indem Sie eine **Streudiagramm-Matrix** verwenden (in "
+"jamovi über den Befehl ``Correlation Matrix`` - ``Plot``). Fügen Sie einfach "
+"eine weitere Variable, z.B. ``baby.sleep`` zur Liste der zu korrelierenden "
+"Variablen hinzu, und jamovi erstellt für Sie eine Streudiagramm-Matrix, "
+"genau wie die in :numref:`fig-scatterplot3`."
 
 #: ../../Ch12/Ch12_Regression_02.rst:80
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
+"Matrix von Streudiagrammen, die mit der Analyse ``Correlation Matrix`` "
+"erstellt wurden"
 
 #: ../../Ch12/Ch12_Regression_02.rst:80
 msgid ""
 "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis in "
 "jamovi."
 msgstr ""
+"Matrix von Streudiagrammen, die mit der Analyse ``Correlation Matrix`` in "
+"jamovi erstellt wurden."
 
 #: ../../Ch12/Ch12_Regression_03.rst:4
 msgid "What is a linear regression model?"
-msgstr ""
+msgstr "Was ist ein lineares Regressionsmodell?"
 
 #: ../../Ch12/Ch12_Regression_03.rst:6
 msgid ""
@@ -1084,6 +1252,10 @@ msgid ""
 "`Correlations <../Ch12/Ch12_Regression_01>`), though as we’ll see regression "
 "models are much more powerful tools."
 msgstr ""
+"Auf das Wesentliche reduziert, sind lineare Regressionsmodelle im Grunde "
+"eine etwas ausgefeiltere Version der Pearson-Korrelation (Abschnitt :doc:`"
+"Korrelationen <../Ch12/Ch12_Regression_01>`), obwohl Regressionsmodelle, wie "
+"wir sehen werden, viel leistungsfähigere Werkzeuge sind."
 
 #: ../../Ch12/Ch12_Regression_03.rst:25
 msgid ""
@@ -1103,10 +1275,26 @@ msgid ""
 "imagining anything like the rather silly plot shown in :numref:`fig-"
 "regression1` (right panel)."
 msgstr ""
+"Da die grundlegenden Ideen der Regression eng mit der Korrelation verknüpft "
+"sind, kehren wir zum Datensatz |parenthood|_ zurück, den wir zur "
+"Veranschaulichung der Funktionsweise von Korrelationen verwendet haben. "
+"Erinnern Sie sich daran, dass wir mit diesem Datensatz versucht haben, "
+"herauszufinden, warum Dani ständig so schlecht gelaunt ist. Unsere "
+"Arbeitshypothese war, dass ich nicht genug Schlaf bekommen hat. Wir haben "
+"einige Streudiagramme gezeichnet, um die Beziehung zwischen der Menge an "
+"Schlaf, die ich bekommen habe, und meiner schlechten Laune am nächsten Tag "
+"zu untersuchen, wie in :numref:`fig-scatterplot2`. Wie wir zuvor gesehen "
+"haben, entspricht dies einer Korrelation von *r* = -0,90, aber wir stellen "
+"uns insgeheim etwas vor, das näher an :numref:`fig-regression1` (links) "
+"liegt. Das heißt, wir ziehen gedanklich eine gerade Linie durch die Mitte "
+"der Daten. In der Statistik wird diese Linie, die wir zeichnen, als "
+"**Regressionsgerade** bezeichnet. Da wir keine Idioten sind, geht die "
+"Regressionsgerade durch die Mitte der Daten. Wir stellen uns nicht so etwas "
+"vor wie das ziemlich alberne Diagramm in :numref:`fig-regression1` (rechts)."
 
 #: ../../Ch12/Ch12_Regression_03.rst:33
 msgid "Best and poor choice of regression line"
-msgstr ""
+msgstr "Beste und schlechte Wahl der Regressionsgeraden"
 
 #: ../../Ch12/Ch12_Regression_03.rst:33
 msgid ""
@@ -1116,6 +1304,11 @@ msgid ""
 "right panel shows the same data, but with a very poor choice of regression "
 "line drawn over the top."
 msgstr ""
+"Das linke Feld zeigt das Streudiagramm von ``dani.sleep`` und ``dani.grump`` "
+"aus :numref:`fig-scatterplot2` inklusive der am besten passenden "
+"Regressionsgerade. Es überrascht nicht, dass die Linie durch die Mitte der "
+"Daten geht. Im Gegensatz dazu zeigt die rechte Abbildung die gleichen Daten, "
+"diesmal aber mit einer sehr schlecht gewählten Regressionsgerade."
 
 #: ../../Ch12/Ch12_Regression_03.rst:41
 msgid ""
@@ -1127,6 +1320,14 @@ msgid ""
 "To do so, let’s start with a refresher of some high school maths. The "
 "formula for a straight line is usually written like this:"
 msgstr ""
+"Dies ist nicht sehr überraschend. Die Linie, die ich in :numref:`fig-"
+"regression1` (rechts) gezeichnet habe, „passt“ nicht sehr gut zu den Daten, "
+"so dass es nicht sehr sinnvoll ist, sie als Mittel zur Zusammenfassung der "
+"Daten vorzuschlagen? Dies ist eine sehr einfache Beobachtung, die sich "
+"jedoch als sehr aussagekräftig erweist, wenn wir versuchen, sie mit ein "
+"wenig Mathematik zu ummanteln. Beginnen wir also mit einer Auffrischung der "
+"Schulmathematik. Die Formel für eine gerade Linie wird normalerweise so "
+"geschrieben:"
 
 #: ../../Ch12/Ch12_Regression_03.rst:49
 msgid "*y* = *a* + *bx*"
@@ -1149,6 +1350,20 @@ msgid ""
 "outcome variable (the DV) and *X* is the predictor variable (the IV), then "
 "the formula that describes our regression is written like this:"
 msgstr ""
+"Die beiden *Variablen* sind *x* und *y*, und wir haben zwei *Koeffizienten*, "
+"*a* und *b*\\.\\ [#]_ Der Koeffizient *a* stellt den **y-Achsenabschnitt** ("
+"das Interzept) der Geraden dar, und der Koeffizient *b* stellt die *Steigung*"
+" der Geraden dar. Wenn wir weiter in unseren verblassten Erinnerungen an "
+"Mathematik aus unserer Schulzeit kramen, erinnern wir uns, dass der "
+"Achsenabschnitt (das Interzept) als „der Wert von *y* interpretiert wird, "
+"den man erhält, wenn *x* = 0“. In ähnlicher Weise bedeutet eine Steigung von "
+"*b*, dass der *y*-Wert um *b* Einheiten ansteigt, wenn man den *x*-Wert um 1 "
+"Einheit erhöht, und eine negative Steigung bedeutet, dass der *y*-Wert nicht "
+"ansteigt, sondern fällt. Da wir uns nun daran erinnert haben, sollte es "
+"nicht mehr überraschen, dass wir genau dieselbe Formel für eine "
+"Regressionsgerade verwenden können. Wenn *Y* die Ergebnisvariable (die DV) "
+"und *X* die Prädiktorvariable (die IV) ist, dann lautet die Formel, die "
+"unsere Regression beschreibt, wie folgt:"
 
 #: ../../Ch12/Ch12_Regression_03.rst:66
 msgid "*Ŷ*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i`"
@@ -1176,6 +1391,27 @@ msgid ""
 "did. In any case *b*\\ :sub:`0` always refers to the intercept term, and "
 "*b*\\ :sub:`1` refers to the slope."
 msgstr ""
+"Das sieht nach der gleichen Formel aus, aber diese Version enthält ein paar "
+"zusätzliche Details. Vergewissern wir uns, dass wir sie verstehen. Zunächst "
+"fällt auf, dass ich *X*\\ :sub:`i` und *Y*\\ :sub:`i` geschrieben habe und "
+"nicht einfach nur *X* und *Y*. Das liegt daran, dass wir uns daran erinnern "
+"wollen, dass wir es mit tatsächlichen Daten zu tun haben. In dieser "
+"Gleichung ist *X*\\ :sub:`i` der Wert der Vorhersagevariable für die i\\-te "
+"Beobachtung (d. h. die Anzahl der Schlafstunden, die ich am Tag i meiner "
+"Aufzeichnungen bekommen habe), und *Y*\\ :sub:`i` ist der entsprechende Wert "
+"der Ergebnisvariable (d. h. das Ausmaß meiner schlechten Laune an diesem Tag)"
+". Und obwohl ich das in der Gleichung nicht ausdrücklich gesagt habe, gehen "
+"wir davon aus, dass diese Formel für alle Beobachtungen im Datensatz gilt ("
+"d. h. für alle i). Zweitens: Beachten Sie, dass ich *Ŷ*\\ :sub:`i` "
+"geschrieben habe und nicht *Y*\\ :sub:`i`. Das liegt daran, dass wir "
+"zwischen den *tatsächlichen Daten* *Y*\\ :sub:`i` und der *Schätzung* *Ŷ*\\ "
+":sub:`i` (d. h. der Vorhersage, die unsere Regressionsgerade macht) "
+"unterscheiden wollen. Drittens habe ich die Buchstaben zur Beschreibung der "
+"Koeffizienten von *a* und *b* in *b*\\ :sub:`0` und *b*\\ :sub:`1` geändert. "
+"Das ist einfach die Art und Weise, wie Statistiker die Koeffizienten in "
+"einem Regressionsmodell bezeichnen. Ich habe keine Ahnung, warum sie *b* "
+"gewählt haben, aber sie haben es so gemacht. Auf jeden Fall bezieht sich *b*"
+"\\ :sub:`0` immer auf den Interzept-Term und *b*\\ :sub:`1` auf die Steigung."
 
 #: ../../Ch12/Ch12_Regression_03.rst:89
 msgid ""
@@ -1189,6 +1425,15 @@ msgid ""
 "as ε\\ :sub:`i`.\\ [#]_ Written using mathematics, the residuals are defined "
 "as"
 msgstr ""
+"Ausgezeichnet. Als Nächstes kann ich nicht umhin festzustellen, dass die "
+"Daten, unabhängig davon, ob es sich um eine gute oder eine schlechte "
+"Regressionslinie handelt, nicht perfekt auf die Linie fallen. Oder anders "
+"gesagt, die Daten *Y*\\ :sub:`i` sind nicht identisch mit den Vorhersagen "
+"des Regressionsmodells *Ŷ*\\ :sub:`i`. Da Statistiker es lieben, alles mit "
+"Buchstaben, Namen und Zahlen zu versehen, bezeichnen wir die Differenz "
+"zwischen der Modellvorhersage und dem tatsächlichen Datenpunkt als *Residuum*"
+" und bezeichnen sie als ε\\ :sub:`i`.\\ [#]_ Mathematisch ausgedrückt sind "
+"die Residuen definiert als"
 
 #: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:61
 msgid "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
@@ -1199,6 +1444,8 @@ msgid ""
 "which in turn means that we can write down the complete linear regression "
 "model as"
 msgstr ""
+"was wiederum bedeutet, dass wir das vollständige lineare Regressionsmodell "
+"wie folgt aufschreiben können"
 
 #: ../../Ch12/Ch12_Regression_03.rst:104
 msgid ""
@@ -1213,12 +1460,16 @@ msgid ""
 "Also sometimes written as *y* = mx + c where m is the slope coefficient and "
 "c is the intercept (constant) coefficient."
 msgstr ""
+"Manchmal auch geschrieben als *y* = mx + c, wobei m der Steigungskoeffizient "
+"und c der Achsenabschnitts (Interzept, Konstante) ist."
 
 #: ../../Ch12/Ch12_Regression_03.rst:113
 msgid ""
 "The ε symbol is the Greek letter epsilon. It’s traditional to use ε\\ :sub:"
 "`i` or e\\ :sub:`i` to denote a residual."
 msgstr ""
+"Das Symbol ε ist der griechische Buchstabe Epsilon. Es ist üblich, ε\\ "
+":sub:`i` oder e\\ :sub:`i` zu verwenden, um die Residuen zu bezeichnen."
 
 #: ../../Ch12/Ch12_Regression_04.rst:4
 msgid "Estimating a linear regression model"
@@ -1227,6 +1478,7 @@ msgstr "Schätzen eines linearen Regressionsmodells"
 #: ../../Ch12/Ch12_Regression_04.rst:12
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr ""
+"Residuen in Verbindung mit der besten und der schlechtesten Regressionslinie"
 
 #: ../../Ch12/Ch12_Regression_04.rst:12
 msgid ""
@@ -1236,6 +1488,10 @@ msgid ""
 "Again, this is no surprise given that the good line is the one that goes "
 "right through the middle of the data."
 msgstr ""
+"Darstellung der Residuen mit der am besten passenden Regressionsgerade "
+"(links) und einer schlechten Regressionsgerade (rechts). Die Residuen sind "
+"bei der guten Regressionsgerade viel kleiner. Auch hier ist dies keine "
+"Überraschung, da die gute Linie genau durch die Mitte der Daten verläuft."
 
 #: ../../Ch12/Ch12_Regression_04.rst:20
 msgid ""
