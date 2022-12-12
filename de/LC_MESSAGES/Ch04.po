@@ -89,6 +89,20 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -99,6 +113,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 17:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -2214,9 +2250,9 @@ msgstr ""
 "und lässt sich am einfachsten durch ein paar Bilder erklären. Wie :numref:"
 "`fig-skewness` veranschaulicht, sagen wir, wenn die Daten dazu neigen, viele "
 "extrem kleine Werte zu haben (d.h. der untere Schwanz ist „länger“, als der "
-"obere Schwanz) und nicht so viele extrem große Werte (linkes Feld), dann "
+"obere Schwanz) und nicht so viele extrem große Werte (linke Seite), dann "
 "sind die Daten *negativ schief* (linksschief). Gibt es dagegen mehr extrem "
-"große Werte als extrem kleine (rechtes Feld), dann sind die Daten *positiv "
+"große Werte als extrem kleine (rechte Seite), dann sind die Daten *positiv "
 "schief* (rechtsschief). Das ist die qualitative Idee hinter der Schiefe. "
 "Wenn es relativ viele Werte gibt, die weit über dem Mittelwert liegen, ist "
 "die Verteilung positiv schief oder rechtsschief, mit einem sich nach rechts "

@@ -88,6 +88,20 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
@@ -102,6 +116,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 17:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1039,10 +1075,9 @@ msgid ""
 "randomly from it: In the middle panel, we have a sample of 100 observations, "
 "and in the right panel, we have a sample of 10,000 observations."
 msgstr ""
-"Die Verteilung der IQ-Werte in der Grundgesamtheit (linkes Feld) und zwei "
-"daraus zufällig gezogene Stichproben: Im mittleren Feld haben wir eine "
-"Stichprobe von 100 Beobachtungen und im rechten Feld eine Stichprobe von "
-"10.000 Beobachtungen."
+"Die Verteilung der IQ-Werte in der Grundgesamtheit (links) und zwei daraus "
+"zufällig gezogene Stichproben: Eine Stichprobe mit 100 Beobachtungen (Mitte) "
+"und eine Stichprobe mit 10.000 Beobachtungen (rechts)."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:365
 msgid ""
@@ -1859,14 +1894,14 @@ msgstr ""
 "eine einzige Beobachtung, so dass der Mittelwert jeder Stichprobe nur den IQ-"
 "Wert einer Person darstellt. Folglich ist die Stichprobenverteilung des "
 "Mittelwerts natürlich identisch mit der Grundgesamtheitsverteilung der IQ-"
-"Werte. Erhöht man jedoch den Stichprobenumfang auf 2 (mittleres Feld), so "
-"liegt der Mittelwert einer Stichprobe tendenziell näher am Mittelwert der "
+"Werte. Erhöht man jedoch den Stichprobenumfang auf 2 (Mitte), so liegt der "
+"Mittelwert einer Stichprobe tendenziell näher am Mittelwert der "
 "Grundgesamtheit als am IQ-Wert einer einzelnen Person, so dass das "
 "Histogramm (d. h. die Stichprobenverteilung) etwas enger ist als die "
 "Grundgesamtheitsverteilung. Wenn wir den Stichprobenumfang auf 10 erhöhen "
-"(rechtes Feld), können wir sehen, dass die Verteilung der "
-"Stichprobenmittelwerte dazu neigt, sich ziemlich eng um den wahren "
-"Grundgesamtheitsmittelwert zu gruppieren."
+"(rechts), können wir sehen, dass die Verteilung der Stichprobenmittelwerte "
+"dazu neigt, sich ziemlich eng um den wahren Grundgesamtheitsmittelwert zu "
+"gruppieren."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:210
 msgid ""
@@ -2440,9 +2475,9 @@ msgstr ""
 "Verteilung in :numref:`fig-samplingDistSampleSD` aufgezeichnet. Obwohl die "
 "tatsächliche Standardabweichung der Grundgesamtheit 15 beträgt, liegt der "
 "Durchschnitt der Standardabweichungen der *Stichprobe* nur bei 8,5. Dies ist "
-"ein ganz anderes Ergebnis als in :numref:`fig-samplingDistDiffN` (mittleres "
-"Feld), wo wir die Stichprobenverteilung des Mittelwerts aufgetragen haben, "
-"wobei der Mittelwert der Grundgesamtheit 100 und der Durchschnitt der "
+"ein ganz anderes Ergebnis als in :numref:`fig-samplingDistDiffN` (Mitte), wo "
+"wir die Stichprobenverteilung des Mittelwerts aufgetragen haben, wobei der "
+"Mittelwert der Grundgesamtheit 100 und der Durchschnitt der "
 "Stichprobenmittelwerte ebenfalls 100 ist."
 
 #: ../../Ch08/Ch08_Estimation_4.rst:170
