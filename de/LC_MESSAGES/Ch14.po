@@ -81,6 +81,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -102,6 +130,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -890,14 +962,13 @@ msgid ""
 "is also a row corresponding to the ``therapy`` factor and a row "
 "corresponding to the residuals (i.e., the within groups variation)."
 msgstr ""
-"Auch diese Ausgabe ist einfach und übersichtlich. Die erste Zeile der "
-"Tabelle gibt einen Wert für die Summe der Quadrate (SS) an, der mit dem "
-"(Zwischensubjekt- )Faktor ``drug`` verbunden ist, zusammen mit der "
-"entsprechenden Anzahl von Freiheitsgraden (*df*). Es wird außerdem die "
-"mittlere Quadratsumme (MS), eine *F*-Statistik und ein *p*-Wert ausgegeben. "
-"Die zweite Zeile gibt diese Werte für den Faktor ``therapy`` aus und die "
-"dritte Zeile die Residuen (d. h. die verbleibende, unerklärte Variation "
-"innerhalb jeder Gruppe)."
+"Auch diese Ausgabe ist einfach und übersichtlich. Die erste Zeile der Tabelle"
+" gibt einen Wert für die Quadratsumme (SS) an, der mit dem (Zwischensubjekt-)"
+"Faktor ``drug`` verbunden ist, zusammen mit der entsprechenden Anzahl von "
+"Freiheitsgraden (*df*). Es wird außerdem die mittlere Quadratsumme (MS), eine"
+" *F*-Statistik und ein *p*-Wert ausgegeben. Die zweite Zeile gibt diese Werte"
+" für den Faktor ``therapy`` aus und die dritte Zeile die Residuen (d. h. die "
+"verbleibende, unerklärte Variation innerhalb jeder Gruppe)."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:269
 msgid ""
@@ -1209,9 +1280,9 @@ msgid ""
 "between the Ȳ\\ :sub:`i.` values and the Ȳ\\ :sub:`..` values. Specifically, "
 "if there are *N* people in each group, then we calculate this"
 msgstr ""
-"Nachdem wir unsere Notation geklärt haben, können wir die Summe der Quadrate "
-"für jeden der beiden Faktoren auf die gewohnte Weise berechnen. Für Faktor A "
-"wird die Summe der Quadrate zwischen den Gruppen berechnet, indem das Ausmaß "
+"Nachdem wir unsere Notation geklärt haben, können wir die Quadratsumme für "
+"jeden der beiden Faktoren auf die gewohnte Weise berechnen. Für Faktor A "
+"wird die Quadratsumme zwischen den Gruppen berechnet, indem das Ausmaß "
 "bewertet wird, in dem die (Zeilen-)Randmittel Ȳ\\ :sub:`1.`, Ȳ\\ :sub:`2.` "
 "usw. vom Gesamtmittelwert Ȳ\\ :sub:`..`\\ abweichen. Wir tun dies auf die "
 "gleiche Weise wie bei der einfaktoriellen ANOVA: Wir berechnen die Summe der "
@@ -1258,9 +1329,9 @@ msgstr ""
 "Versuchsdesign, die der Droge ``anxifree`` entsprechen: eine für die Gruppe "
 "mit ``no.therapy`` und eine für die Gruppe mit ``CBT``. Und nicht nur das: "
 "Innerhalb jeder dieser Zellen gibt es *N* Beobachtungen. Wenn wir also "
-"unseren SS-Wert in eine Größe umwandeln wollen, welche die Summe der "
-"Quadrate zwischen den Gruppen auf einer „pro Beobachtung“-Basis berechnet, "
-"müssen wir mit N × C multiplizieren."
+"unseren SS-Wert in eine Größe umwandeln wollen, welche die Quadratsumme "
+"zwischen den Gruppen auf einer „pro Beobachtung“-Basis berechnet, müssen "
+"wir mit N × C multiplizieren."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:429
 msgid ""
@@ -1297,9 +1368,9 @@ msgstr ""
 "und *C* = 2 verschiedene Arten von Therapien. Oder anders ausgedrückt, es "
 "gibt 3 · 2 = 6 Personen, die ein bestimmtes Medikament erhalten haben. Wenn "
 "wir diese Berechnungen in einem Tabellenkalkulationsprogramm durchführen, "
-"erhalten wir einen Wert von 3,45 für die Summe der Quadrate im Zusammenhang "
-"mit dem Haupteffekt von ``drug``. Es überrascht nicht, dass dies die gleiche "
-"Zahl ist, die man als SS-Wert für den Faktor ``drug`` in der ANOVA-Tabelle "
+"erhalten wir einen Wert von 3,45 für die mit dem Haupteffekt von ``drug`` "
+"verbundene Quadratsumme. Es überrascht nicht, dass dies die gleiche Zahl "
+"ist, die man als SS-Wert für den Faktor ``drug`` in der ANOVA-Tabelle "
 "erhält, die in :numref:`fig-factorialanova3` dargestellt ist."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:443
@@ -1482,7 +1553,7 @@ msgstr ""
 "- VMEAN(mood.gain, group_by = drug)) ^ 2`` als Formel und (3) ``sq_res_B`` "
 "mit ``(VMEAN(mood.gain) - VMEAN(mood.gain, group_by = therapy)) ^ 2`` als "
 "Formel. Nachdem wir diese drei Variablen erstellt haben, berechnen wir die "
-"Summe der Quadrate mit ``Descriptives`` → ``Descriptive Statistics``\\ : Wir "
+"Quadratsumme mit ``Descriptives`` → ``Descriptive Statistics``\\ : Wir "
 "verschieben dann ``sq_res_T``, ``sq_res_A`` und ``sq_res_B`` in das Feld "
 "``Variables`` und wählen schließlich ``Sum`` aus dem Dropdown-Menü "
 "``Statistics``. SS\\ :sub:`T` (``sq_res_T``) hat einen Wert von **4.845**, "
@@ -2070,19 +2141,19 @@ msgid ""
 "the sample grand mean Ȳ\\ :sub:`..`\\. That is, we would use this as our "
 "estimate of the effect"
 msgstr ""
-"Wie berechnet man die Summe der Quadrate für die Interaktionsterme, SS\\ :"
-"sub:`A:B`? Zunächst einmal ist es hilfreich zu wissen, dass im vorherigen "
-"Abschnitt der Interaktionseffekt als das Ausmaß definiert wurde, in dem sich "
-"die tatsächlichen Gruppenmittelwerte von dem unterscheiden, was man erwarten "
-"würde, wenn man nur die Randmittel betrachtet. Natürlich beziehen sich all "
-"diese Formeln auf Populationsparameter und nicht auf Stichprobenstatistiken, "
-"so dass wir nicht wissen, wie hoch sie tatsächlich sind. Wir können sie "
-"jedoch schätzen, indem wir die Stichprobenmittelwerte anstelle der "
-"Populationsmittelwerte verwenden. Für Faktor A lässt sich der Haupteffekt "
-"auf der Ebene *r* also gut als Differenz zwischen dem Randmittel der "
-"*Stichprobe* Ȳ\\ :sub:`rc` und dem Gesamtmittelwert der Stichprobe Ȳ\\ :sub:"
-"`..`\\ schätzen. Das heißt, wir würden dies als unsere Schätzung des Effekts "
-"verwenden"
+"Wie berechnet man die Quadratsumme für die Interaktionsterme, "
+"SS\\ :sub:`A:B`? Zunächst einmal ist es hilfreich zu wissen, dass im "
+"vorherigen Abschnitt der Interaktionseffekt als das Ausmaß definiert wurde, "
+"in dem sich die tatsächlichen Gruppenmittelwerte von dem unterscheiden, was "
+"man erwarten würde, wenn man nur die Randmittel betrachtet. Natürlich "
+"beziehen sich all diese Formeln auf Populationsparameter und nicht auf "
+"Stichprobenstatistiken, so dass wir nicht wissen, wie hoch sie tatsächlich "
+"sind. Wir können sie jedoch schätzen, indem wir die Stichprobenmittelwerte "
+"anstelle der Populationsmittelwerte verwenden. Für Faktor A lässt sich der "
+"Haupteffekt auf der Ebene *r* also gut als Differenz zwischen dem Randmittel"
+" der *Stichprobe* Ȳ\\ :sub:`rc` und dem Gesamtmittelwert der Stichprobe "
+"Ȳ\\ :sub:`..`\\ schätzen. Das heißt, wir würden dies als unsere Schätzung "
+"des Effekts verwenden"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:144
 msgid ""
@@ -2177,8 +2248,7 @@ msgid ""
 msgstr ""
 "Jetzt müssen wir nur noch alle diese Schätzungen über alle *R* Stufen von "
 "Faktor A und alle *C* Stufen von Faktor B summieren, und wir erhalten die "
-"folgende Formel für die Summe der Quadrate, die mit der Interaktion "
-"verbunden sind"
+"folgende Formel für die Quadratsumme, die mit der Interaktion verbunden sind"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:173
 msgid ""
@@ -2214,7 +2284,7 @@ msgid ""
 msgstr ""
 "Da wir nun eine Formel zur Berechnung von SS\\ :sub:`A:B` haben, ist es "
 "wichtig zu erkennen, dass der Interaktionsterm (selbstverständlich) Teil des "
-"Modells ist, so dass die Gesamtsumme der Quadrate, die mit dem Modell "
+"Modells ist, so dass die Gesamtquadratsumme, die mit dem Modell "
 "verbunden ist, SS\\ :sub:`M`, nun gleich der Summe der drei relevanten SS-"
 "Werte ist, SS\\ :sub:`A` + SS\\ :sub:`B` + SS\\ :sub:`A:B`. Die Quadratsumme "
 "der Residuen SS\\ :sub:`R` ist immer noch definiert als die verbleibende "
@@ -5347,11 +5417,11 @@ msgid ""
 "model up sequentially, starting from the simplest possible model and "
 "gradually adding terms."
 msgstr ""
-"Die Methode vom Typ 1 wird manchmal auch als \"sequentielle\" Summe der "
-"Quadrate bezeichnet, da sie einen Prozess beinhaltet, bei dem dem Modell ein "
-"Term nach dem anderen hinzugefügt wird. Betrachten wir zum Beispiel die |"
-"coffee|_-Daten. Nehmen wir an, wir wollen die vollständige 3 × 2 faktorielle "
-"ANOVA durchführen, einschließlich der Interaktionsterme. Das vollständige "
+"Die Methode vom Typ 1 wird manchmal auch als \"sequentielle\" Quadratsumme "
+"bezeichnet, da sie einen Prozess beinhaltet, bei dem dem Modell ein Term nach"
+" dem anderen hinzugefügt wird. Betrachten wir zum Beispiel die |coffee|_-"
+"Daten. Nehmen wir an, wir wollen die vollständige 3 × 2 faktorielle ANOVA "
+"durchführen, einschließlich der Interaktionsterme. Das vollständige "
 "Modell enthält die Ergebnisvariable ``babble``, die Prädiktorvariablen "
 "``sugar`` und ``milk`` sowie den Interaktionsterm ``sugar * milk``. Dies "
 "kann als ``babble ~ sugar + milk + sugar * milk`` geschrieben werden. Bei "
@@ -5820,7 +5890,7 @@ msgid ""
 msgstr ""
 "Später werden wir sehen, dass Hypothesentests vom Typ 3 in einigen Kontexten "
 "verwendet werden können, aber sehen wir uns zunächst die ANOVA-"
-"Ergebnistabelle mit der Summe der Quadrate vom Typ 3 in :numref:`fig-"
+"Ergebnistabelle mit einer Quadratsumme vom Typ 3 in :numref:`fig-"
 "factorialanova18` an."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:359

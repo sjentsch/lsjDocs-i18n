@@ -53,6 +53,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -67,6 +95,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -646,7 +718,7 @@ msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "44\\%"
-msgstr "44 %"
+msgstr "44\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
@@ -658,7 +730,7 @@ msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "35\\%"
-msgstr "35 %"
+msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
@@ -723,7 +795,7 @@ msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "62\\%"
-msgstr "62 %"
+msgstr "62\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
@@ -731,7 +803,7 @@ msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "82\\%"
-msgstr "82 %"
+msgstr "82\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
@@ -743,7 +815,7 @@ msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "63\\%"
-msgstr "63 %"
+msgstr "63\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
@@ -751,7 +823,7 @@ msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "68\\%"
-msgstr "68 %"
+msgstr "68\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
@@ -763,7 +835,7 @@ msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "37\\%"
-msgstr "37 %"
+msgstr "37\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
@@ -771,7 +843,7 @@ msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "34\\%"
-msgstr "34 %"
+msgstr "34\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
@@ -783,7 +855,7 @@ msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "33\\%"
-msgstr "33 %"
+msgstr "33\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
@@ -799,7 +871,7 @@ msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "28\\%"
-msgstr "28 %"
+msgstr "28\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
@@ -807,7 +879,7 @@ msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "24\\%"
-msgstr "24 %"
+msgstr "24\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
@@ -819,7 +891,7 @@ msgstr "272"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "6\\%"
-msgstr "6 %"
+msgstr "6\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "341"
@@ -827,7 +899,7 @@ msgstr "341"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "7\\%"
-msgstr "7 %"
+msgstr "7\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:58
 msgid ""
@@ -1382,14 +1454,3 @@ msgstr ""
 "für das Forschungsgebiet, mit dem man sich befasst. In dem Maße, in dem es "
 "eher auf Details ankommt, werden diese normalerweise nicht in einem "
 "Einführungskurs in Statistik und Forschungsmethoden behandelt."
-
-
-
-
-
-
-
-
-
-
-

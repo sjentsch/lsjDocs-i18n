@@ -39,6 +39,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -60,6 +88,50 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-12 14:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -2697,7 +2769,7 @@ msgstr ""
 "**Normalverteilung**. Es wird angenommen, dass die Residuen normalverteilt "
 "sind. Wie wir im Abschnitt :doc:`Überprüfen der Normalverteilung in einer "
 "Stichprobe <../Ch11/Ch11_tTest_08>` gesehen haben, können wir dies durch das "
-"Betrachten von QQ-Diagrammen (oder die Durchführung eines Shapiro-Wilk-"
+"Betrachten von Q-Q-Diagrammen (oder die Durchführung eines Shapiro-Wilk-"
 "Tests) beurteilen. Im Zusammenhang mit einer ANOVA werde ich dies im "
 "Abschnitt :doc:`Überprüfen der Annahme einer Normalverteilung <../Ch13/"
 "Ch13_ANOVA_06>` näher erläutern."
@@ -2896,17 +2968,18 @@ msgstr ""
 "Das Überprüfen der Annahme einer Normalverteilung ist relativ einfach. Das "
 "meiste, was Sie wissen müssen, haben wir im Abschnitt :doc:`Überprüfen der "
 "Normalverteilung in einer Stichprobe <../Ch11/Ch11_tTest_08>` behandelt. Das "
-"Einzige, was wir wirklich tun müssen, ist, ein QQ-Diagramm zu zeichnen und, "
-"falls vorhanden, zusätzlich den Shapiro-Wilk-Test durchzuführen. Die QQ-"
-"Darstellung wird in :numref:`fig-anova5` gezeigt und sieht aus als ob die "
-"Daten normalverteilt sind. Wenn der Shapiro-Wilk-Test nicht signifikant ist "
-"(d. h. *p* > 0,05), bedeutet dies, dass die Annahme der Normalverteilung "
-"nicht verletzt ist. Wie beim Levene-Test kann jedoch auch ein signifikanter "
-"Shapiro-Wilk-Test bei einer großen Stichprobengröße ein falsches positives "
-"Ergebnis sein, bei dem die Annahme der Normalverteilung nicht in einem für "
-"die Analyse problematischen Sinne verletzt wird. In ähnlicher Weise kann "
-"eine sehr kleine Stichprobe zu falsch negativen Ergebnissen führen. Deshalb "
-"ist eine visuelle Inspektion des QQ-Plots wichtig."
+"Einzige, was wir wirklich tun müssen, ist, ein Q-Q-Diagramm zu zeichnen und, "
+"falls vorhanden, zusätzlich den Shapiro-Wilk-Test durchzuführen. Die "
+"Darstellung im Q-Q-Diagramm wird in :numref:`fig-anova5` gezeigt und sieht "
+"aus als ob die Daten normalverteilt sind. Wenn der Shapiro-Wilk-Test nicht "
+"signifikant ist (d. h. *p* > 0,05), bedeutet dies, dass die Annahme der "
+"Normalverteilung nicht verletzt ist. Wie beim Levene-Test kann jedoch auch "
+"ein signifikanter Shapiro-Wilk-Test bei einer großen Stichprobengröße ein "
+"falsches positives Ergebnis sein, bei dem die Annahme der Normalverteilung "
+"nicht in einem für die Analyse problematischen Sinne verletzt wird. In "
+"ähnlicher Weise kann eine sehr kleine Stichprobe zu falsch negativen "
+"Ergebnissen führen. Deshalb ist eine visuelle Inspektion des Q-Q-Diagrammen "
+"wichtig."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:214
 msgid ""
@@ -2915,10 +2988,10 @@ msgid ""
 "= 0.6053 (see :numref:`fig-anova4a`). This therefore supports the QQ plot "
 "assessment; both checks find no indication that normality is violated."
 msgstr ""
-"Neben dem Überprüfen des QQ-Diagramms auf Abweichungen von der "
+"Neben dem Überprüfen des Q-Q-Diagramms auf Abweichungen von der "
 "Normalverteilung zeigt der Shapiro-Wilk-Test für unsere Daten einen nicht "
 "signifikanten Effekt, mit *p* = 0,6053 (siehe :numref:`fig-anova4a`). Dies "
-"stützt also den visuellen Eindruck aus dem QQ-Diagramm; beide Prüfungen "
+"stützt also den visuellen Eindruck aus dem Q-Q-Diagramm; beide Prüfungen "
 "ergeben keinen Hinweis auf eine Verletzung der Annahme einer "
 "Normalverteilung."
 
@@ -2946,7 +3019,7 @@ msgid ""
 msgstr ""
 "Nachdem wir nun gesehen haben, wie man auf Normalverteilung prüft, stellt "
 "sich natürlich die Frage, was wir tun können, um Verletzungen der "
-"Normalverteilung zu beheben. Im Zusammenhang mit einer einseitigen ANOVA "
+"Normalverteilung zu beheben. Im Zusammenhang mit einer einfaktoriellen ANOVA "
 "besteht die einfachste Lösung wahrscheinlich darin, zu einem nicht-"
 "parametrischen Test zu wechseln (d.h. einem Test, der nicht auf einer "
 "bestimmten Annahme über die Art der beteiligten Verteilung beruht). Wir "

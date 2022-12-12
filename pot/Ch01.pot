@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 20:20+0100\n"
+"POT-Creation-Date: 2022-12-12 14:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -344,7 +344,7 @@ msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "44\\%"
-msgstr ""
+msgstr "44\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
@@ -356,7 +356,7 @@ msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "35\\%"
-msgstr ""
+msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
@@ -406,7 +406,7 @@ msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "62\\%"
-msgstr ""
+msgstr "62\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
@@ -414,7 +414,7 @@ msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "82\\%"
-msgstr ""
+msgstr "82\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
@@ -426,7 +426,7 @@ msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "63\\%"
-msgstr ""
+msgstr "63\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
@@ -434,7 +434,7 @@ msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "68\\%"
-msgstr ""
+msgstr "68\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
@@ -446,7 +446,7 @@ msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "37\\%"
-msgstr ""
+msgstr "37\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
@@ -454,7 +454,7 @@ msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "34\\%"
-msgstr ""
+msgstr "34\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
@@ -466,7 +466,7 @@ msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "33\\%"
-msgstr ""
+msgstr "33\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
@@ -482,7 +482,7 @@ msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "28\\%"
-msgstr ""
+msgstr "28\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
@@ -490,7 +490,7 @@ msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "24\\%"
-msgstr ""
+msgstr "24\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
@@ -834,36 +834,3 @@ msgid ""
 "engage in. To the extent that it’s the details that matter, those details "
 "don’t usually show up in an introductory stats and research methods class."
 msgstr ""
-
-#~ msgid "44%"
-#~ msgstr "44%"
-
-#~ msgid "35%"
-#~ msgstr "35%"
-
-#~ msgid "62%"
-#~ msgstr "62%"
-
-#~ msgid "82%"
-#~ msgstr "82%"
-
-#~ msgid "63%"
-#~ msgstr "63%"
-
-#~ msgid "68%"
-#~ msgstr "68%"
-
-#~ msgid "37%"
-#~ msgstr "37%"
-
-#~ msgid "34%"
-#~ msgstr "34%"
-
-#~ msgid "33%"
-#~ msgstr "33%"
-
-#~ msgid "28%"
-#~ msgstr "28%"
-
-#~ msgid "24%"
-#~ msgstr "24%"

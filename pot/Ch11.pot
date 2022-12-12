@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 20:20+0100\n"
+"POT-Creation-Date: 2022-12-12 14:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,12 +43,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
-#: ../../Ch11/Ch11_tTest_09.rst:142
+#: ../../Ch11/Ch11_tTest_05.rst:234 ../../Ch11/Ch11_tTest_09.rst:142
 msgid "nominal"
 msgstr "nominal"
 
 #: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
-#: ../../Ch11/Ch11_tTest_09.rst:139
+#: ../../Ch11/Ch11_tTest_05.rst:231 ../../Ch11/Ch11_tTest_09.rst:139
 msgid "continuous"
 msgstr "continuous"
 
@@ -655,7 +655,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:102 ../../Ch11/Ch11_tTest_03.rst:262
-#: ../../Ch11/Ch11_tTest_05.rst:167
+#: ../../Ch11/Ch11_tTest_05.rst:166
 msgid "Doing the test in jamovi"
 msgstr ""
 
@@ -1581,8 +1581,8 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:81
 msgid ""
-"If you tick the check box for the Welch test in the analysis we did above, "
-"then this is what it gives you :numref:`fig-ttest_welch`:"
+"If you tick the check box for the ``Welch's`` test in the analysis we did "
+"above, then this is what it gives you :numref:`fig-ttest_welch`:"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:90
@@ -1666,8 +1666,8 @@ msgid ""
 "end, we could measure each person’s working memory capacity in two "
 "conditions: with music, and without music. In an experimental design such as "
 "this one,\\ [#]_ each participant appears in *both* groups. This requires us "
-"to approach the problem in a different way, by using the **paired samples "
-"*t*-test**."
+"to approach the problem in a different way, by using the **paired samples t-"
+"test**."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:26
@@ -1853,10 +1853,10 @@ msgid ""
 "actually very simple. The only reason it merits a discussion as long as the "
 "one we’ve just gone through is that you need to be able to recognise *when* "
 "a paired samples test is appropriate, and to understand *why* it’s better "
-"than an independent samples t test."
+"than an independent samples *t*-test."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:169
+#: ../../Ch11/Ch11_tTest_05.rst:168
 msgid ""
 "How do you do a paired samples *t*-test in jamovi? One possibility is to "
 "follow the process I outlined above. That is, create a ``difference`` "
@@ -1865,11 +1865,11 @@ msgid ""
 "(see :numref:`fig-ttest_paired2`\\)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:181
+#: ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:185
+#: ../../Ch11/Ch11_tTest_05.rst:184
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample T-"
@@ -1879,7 +1879,7 @@ msgid ""
 "different from 0 (*t*\\(19) = 6.48, p < 0.001)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:192
+#: ../../Ch11/Ch11_tTest_05.rst:191
 msgid ""
 "However, suppose you’re lazy and you don’t want to go to all the effort of "
 "creating a new variable. Or perhaps you just want to keep the difference "
@@ -1888,34 +1888,34 @@ msgid ""
 "shown in :numref:`fig-ttest_paired3`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:204
+#: ../../Ch11/Ch11_tTest_05.rst:203
 msgid "Results showing a paired sample *t*-test"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:204
+#: ../../Ch11/Ch11_tTest_05.rst:203
 msgid ""
 "Results showing a paired sample *t*-test. Compare it with :numref:`fig-"
 "ttest_paired2`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:209
+#: ../../Ch11/Ch11_tTest_05.rst:208
 msgid ""
 "The numbers are identical to those that come from the one sample test, which "
 "of course they have to be given that the paired samples *t*-test is just a "
 "one sample test under the hood."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:216
+#: ../../Ch11/Ch11_tTest_05.rst:215
 msgid ""
 "This design is very similar to the one in section :doc:`The McNemar test <../"
 "Ch10/Ch10_ChiSquare_7>` that motivated the McNemar test. This should be no "
 "surprise. Both are standard repeated measures designs involving two "
 "measurements. The only difference is that this time our outcome variable is "
-"interval scale (working memory capacity) rather than a binary, nominal scale "
-"variable (a yes-or-no question)."
+"interval scale (working memory capacity, |continuous|) rather than a binary "
+"scale variable (a yes-or-no question, |nominal|)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:224
+#: ../../Ch11/Ch11_tTest_05.rst:223
 msgid ""
 "At this point we have Drs Harpo, Chico and Zeppo. No prizes for guessing who "
 "Dr Groucho is."
@@ -2059,7 +2059,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:18
 msgid ""
-"and he suggested a rough guide for interpreting d in :numref:`tab-"
+"and he suggested a rough guide for interpreting *d* in :numref:`tab-"
 "cohensdinterpretation`. You’d think that this would be pretty unambiguous, "
 "but it’s not. This is largely because Cohen wasn’t too specific on what he "
 "thought should be used as the measure of the standard deviation (in his "
@@ -2067,8 +2067,8 @@ msgid ""
 "tiny details). As discussed by `McGrath and Meyer (2006) <../Other/"
 "References.html#mcgrath-2006>`__, there are several different versions in "
 "common usage, and each author tends to adopt slightly different notation. "
-"For the sake of simplicity (as opposed to accuracy), I’ll use d to refer to "
-"any statistic that you calculate from the sample, and use δ to refer to a "
+"For the sake of simplicity (as opposed to accuracy), I’ll use *d* to refer "
+"to any statistic that you calculate from the sample, and use δ to refer to a "
 "theoretical population effect. Obviously, that does mean that there are "
 "several different things all called *d*."
 msgstr ""
@@ -2092,7 +2092,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
-msgid "d-value"
+msgid "*d*-value"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
@@ -2167,12 +2167,12 @@ msgid ""
 "versions of *d* that you might want to use in this situation. To understand "
 "why there are multiple versions of *d*, it helps to take the time to write "
 "down a formula that corresponds to the true population effect size δ. It’s "
-"pretty straightforward, δ = (µ\\ _sub:`1` - µ\\ _sub:`2`) /"
+"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) /"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:86
 msgid ""
-"where, as usual, µ\\ _sub:`1` and µ\\ _sub:`2` are the population means "
+"where, as usual, µ\\ :sub:`1` and µ\\ :sub:`2` are the population means "
 "corresponding to group 1 and group 2 respectively, and σ is the standard "
 "deviation (the same for both populations). The obvious way to estimate δ is "
 "to do exactly the same thing that we did in the *t*-test itself, i.e., use "
@@ -2236,7 +2236,7 @@ msgid ""
 "Finally, what should we do for a paired samples *t*-test? In this case, the "
 "answer depends on what it is you’re trying to do. jamovi assumes that you "
 "want to measure your effect sizes relative to the distribution of difference "
-"scores, and the measure of d that you calculate is:"
+"scores, and the measure of *d* that you calculate is:"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:137
@@ -2264,7 +2264,7 @@ msgid ""
 "relative to the *original* variables, not the *difference* scores (e.g., the "
 "1\\% improvement in Dr Chico’s class over time is pretty small when measured "
 "against the amount of between-student variation in grades), in which case "
-"you use the same versions of Cohen’s d that you would use for a Student or "
+"you use the same versions of Cohen’s *d* that you would use for a Student or "
 "Welch test. It’s not so straightforward to do this in jamovi; essentially "
 "you have to change the structure of the data in the spreadsheet view so I "
 "won’t go into that here,\\ [#]_ but the Cohen’s *d* for this perspective is "
