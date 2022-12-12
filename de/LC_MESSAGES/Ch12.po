@@ -96,60 +96,16 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-11 16:44+0100\n"
-"PO-Revision-Date: 2022-12-11 20:49+0000\n"
+"PO-Revision-Date: 2022-12-12 14:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -159,7 +115,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression.rst:4
 msgid "Correlation and linear regression"
-msgstr ""
+msgstr "Korrelation und lineare Regression"
 
 #: ../../Ch12/Ch12_Regression.rst:24
 msgid ""
@@ -168,6 +124,10 @@ msgid ""
 "analysing the relationship between continuous predictors |continuous| and "
 "continuous outcomes |continuous|."
 msgstr ""
+"Ziel dieses Kapitels ist es, die **Korrelation** und die **lineare "
+"Regression** vorzustellen. Dies sind die Standardinstrumente, auf die sich "
+"Statistiker bei der Analyse der Beziehung zwischen kontinuierlichen "
+"Prädiktoren und kontinuierlichen Ergebnissen verlassen."
 
 #: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:420
 msgid "continuous"
@@ -175,7 +135,7 @@ msgstr "continuous"
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
 msgid "Correlations"
-msgstr ""
+msgstr "Korrelationen"
 
 #: ../../Ch12/Ch12_Regression_01.rst:6
 msgid ""
@@ -183,6 +143,10 @@ msgid ""
 "variables in the data. To do that, we want to talk mostly about the "
 "**correlation** between variables. But first, we need some data."
 msgstr ""
+"In diesem Abschnitt werden wir darüber sprechen, wie die Beziehungen "
+"*zwischen* Variablen in den Daten beschrieben werden können. Zu diesem Zweck "
+"wollen wir vor allem über die **Korrelation** zwischen den Variablen "
+"sprechen. Aber zuerst brauchen wir einige Daten."
 
 #: ../../Ch12/Ch12_Regression_01.rst:12
 msgid "The data"
@@ -190,19 +154,19 @@ msgstr "Die Daten"
 
 #: ../../Ch12/Ch12_Regression_01.rst:14
 msgid "Descriptive statistics for the |parenthood|_ data set."
-msgstr ""
+msgstr "Deskriptivstatistik für den Datensatz |parenthood|_."
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "min"
-msgstr ""
+msgstr "Min."
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "max"
-msgstr ""
+msgstr "Max."
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "mean"
@@ -210,19 +174,19 @@ msgstr "Mittelwert"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "median"
-msgstr ""
+msgstr "Median"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "std. dev"
-msgstr ""
+msgstr "Std.-abw."
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "IQR"
-msgstr ""
+msgstr "IQR"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "**Dani’s grumpiness**"
-msgstr ""
+msgstr "**Danis Miesepetrigkeit**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "41"
@@ -250,7 +214,7 @@ msgstr "14"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "**Dani’s hours slept**"
-msgstr ""
+msgstr "**Dani's Stunden mit Schlaf**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "4.84"
@@ -278,7 +242,7 @@ msgstr "1.45"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "**Dani’s son’s hours slept**"
-msgstr ""
+msgstr "**Stunden mit Schlaf von Dani's Sohn**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "3.25"
@@ -316,6 +280,17 @@ msgid ""
 "parenthood|_ data set, that contains four variables ``dani.sleep``, ``baby."
 "sleep``, ``dani.grump`` and ``day``."
 msgstr ""
+"Wenden wir uns einem Thema zu, das allen Eltern am Herzen liegt: dem Schlaf. "
+"Der Datensatz, den wir verwenden werden, ist fiktiv, basiert aber auf realen "
+"Ereignissen. Angenommen, ich möchte herausfinden, wie sehr die "
+"Schlafgewohnheiten meines kleinen Sohnes meine Stimmung beeinflussen. Nehmen "
+"wir an, ich kann meine Miesepetrigkeit auf einer Skala von 0 (überhaupt "
+"nicht miesepetrig) bis 100 (so miesepetrig wie sehr, sehr miesepetrige "
+"ältere Menschen) sehr genau einschätzen. Und nehmen wir weiter an, dass ich "
+"meine Miesepetrigkeit, mein Schlafverhalten und das Schlafverhalten meines "
+"Sohnes 100 Tage lang gemessen habe. Die Daten sind im Datensatz |parenthood|"
+"_ gespeichert, der vier Variablen enthält: ``dani.sleep``, ``baby.sleep``, "
+"``dani.grump`` und ``day``."
 
 #: ../../Ch12/Ch12_Regression_01.rst:37
 msgid ""
@@ -331,19 +306,32 @@ msgid ""
 "also that I’m not getting enough sleep. This isn’t good practice, but other "
 "parents tell me that it’s pretty standard."
 msgstr ""
+"Als Nächstes werfe ich einen Blick auf einige grundlegende deskriptive "
+"Statistiken und, um eine grafische Darstellung zu geben, wie jede der drei "
+"interessanten Variablen aussieht, zeigt :numref:`fig-grumpHist` Histogramme. "
+"Eine Anmerkung: Nur weil jamovi Dutzende verschiedener Statistiken berechnen "
+"kann, heißt das nicht, dass man sie alle ausgeben sollte. Würde ich über "
+"diese Daten berichten wollen, würde ich wahrscheinlich die Statistiken "
+"auswählen, die für mich (und meine angenommene Leserschaft) am "
+"interessantesten sind, und sie dann in eine einfache Tabelle wie :numref"
+":`tab-parenthood`einfügen.\\ [#]_ Das ist immer eine gute Vorgehensweise. "
+"Beachten Sie auch, dass ich nicht genug Schlaf bekomme. Das ist nicht "
+"empfehlenswert, aber andere Eltern sagen mir, dass das ziemlich normal ist."
 
 #: ../../Ch12/Ch12_Regression_01.rst:55
 msgid "Histograms for three variables from the |parenthood| data set"
-msgstr ""
+msgstr "Histogramme für drei Variablen aus dem Datensatz |parenthood|"
 
 #: ../../Ch12/Ch12_Regression_01.rst:55
 msgid ""
 "Histograms for the three interesting variables in the |parenthood|_ data set"
 msgstr ""
+"Histogramme für die drei interessierenden Variablen aus dem Datensatz "
+"|parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:61
 msgid "The strength and direction of a relationship"
-msgstr ""
+msgstr "Die Stärke und Richtung einer Beziehung"
 
 #: ../../Ch12/Ch12_Regression_01.rst:63
 msgid ""
@@ -361,11 +349,27 @@ msgid ""
 "mood is, it’d help you a little bit to know how many hours my son slept, but "
 "it’d be more helpful to know how many hours I slept."
 msgstr ""
+"Wir können Streudiagramme zeichnen, die uns einen allgemeinen Eindruck davon "
+"vermitteln, wie eng zwei Variablen miteinander zusammenhängen. Idealerweise "
+"sollten wir jedoch etwas mehr darüber aussagen, als das. Vergleichen wir zum "
+"Beispiel die Beziehung zwischen ``dani.sleep`` und ``dani.grump`` (:numref"
+":`fig-grumpCor1`, links) mit der zwischen ``baby.sleep`` und ``dani.grump`` "
+"(:numref:`fig-grumpCor1`, rechts). Wenn man sich diese beiden Diagramme "
+"nebeneinander ansieht, wird deutlich, dass die Beziehung *qualitativ* in "
+"beiden Fällen die gleiche ist: mehr Schlaf bedeutet weniger Miesepetrigkeit! "
+"Es ist jedoch auch ziemlich offensichtlich, dass die Beziehung zwischen "
+"``dani.sleep`` und ``dani.grump`` *stärker* ist als die Beziehung zwischen "
+"``baby.sleep`` und ``dani.grump``. Das Diagramm auf der linken Seite ist "
+"„ordentlicher“ als das auf der rechten Seite. Wenn Sie meine Stimmung "
+"vorhersagen wollen, hilft es Ihnen ein wenig, wenn Sie wissen, wie viele "
+"Stunden mein Sohn geschlafen hat. Es ist stattdessen hilfreicher, wenn Sie "
+"wissen, wie viele Stunden ich geschlafen habe."
 
 #: ../../Ch12/Ch12_Regression_01.rst:84
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
+"Streudiagramme zwischen ``dani.sleep`` bzw. ``baby.sleep`` und ``dani.grump``"
 
 #: ../../Ch12/Ch12_Regression_01.rst:84
 msgid ""
@@ -373,6 +377,9 @@ msgid ""
 "grump`` (left panel) and the relationship between ``baby.sleep`` and ``dani."
 "grump`` (right panel)."
 msgstr ""
+"Streudiagramme, die das Verhältnis zwischen ``dani.sleep`` und ``dani.grump``"
+" (links) und das Verhältnis zwischen ``baby.sleep`` und ``dani.grump`` "
+"(rechts) zeigen."
 
 #: ../../Ch12/Ch12_Regression_01.rst:90
 msgid ""
@@ -384,10 +391,19 @@ msgid ""
 "(positive relationship, right hand side), but if he sleeps more then I get "
 "*less* grumpy (negative relationship, left hand side)."
 msgstr ""
+"Betrachten wir im Gegensatz dazu die beiden in :numref:`fig-grumpCor2` "
+"dargestellten Streudiagramme. Wenn wir das Streudiagramm von ``baby.sleep`` "
+"vs. ``dani.grump`` (links) mit dem Streudiagramm von ``baby.sleep`` vs. "
+"``dani.sleep`` (rechts) vergleichen, ist die Gesamtstärke der Beziehung die "
+"gleiche, aber die Richtung ist anders. Das heißt, wenn mein Sohn mehr "
+"schläft, bekomme ich *mehr* Schlaf (positive Beziehung, rechts). "
+"Gleichzeitig bin ich *weniger* miesepetrig, wenn er mehr schläft (negative "
+"Beziehung, links)."
 
 #: ../../Ch12/Ch12_Regression_01.rst:105
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
 msgstr ""
+"Streudiagramme zwischen ``baby.sleep`` zu ``dani.grump`` bzw. ``dani.sleep``"
 
 #: ../../Ch12/Ch12_Regression_01.rst:105
 msgid ""
@@ -395,10 +411,13 @@ msgid ""
 "grump`` (left panel) and the relationship between ``baby.sleep`` and ``dani."
 "sleep`` (right panel)."
 msgstr ""
+"Streudiagramme, die das Verhältnis zwischen ``baby.sleep`` und ``dani.grump``"
+" (links) sowie das Verhältnis zwischen ``baby.sleep`` und ``dani.sleep`` "
+"(rechts) zeigen."
 
 #: ../../Ch12/Ch12_Regression_01.rst:112
 msgid "The correlation coefficient"
-msgstr ""
+msgstr "Der Korrelationskoeffizient"
 
 #: ../../Ch12/Ch12_Regression_01.rst:114
 msgid ""
@@ -413,10 +432,21 @@ msgid ""
 "numref:`fig-corr`, you can see several plots showing what different "
 "correlations look like."
 msgstr ""
+"Wir können diese Ideen etwas deutlicher machen, indem wir die Idee eines "
+"**Korrelationskoeffizienten** (oder, genauer gesagt, des Pearsonschen "
+"Korrelationskoeffizienten) einführen, der traditionell als *r* bezeichnet "
+"wird. Der Korrelationskoeffizient zwischen zwei Variablen *X* und *Y* ("
+"manchmal als r\\ :sub:`XY` bezeichnet), den wir im nächsten Abschnitt "
+"genauer definieren werden, ist ein Maß, das von -1 bis 1 variiert. Wenn *r* "
+"= -1 ist, bedeutet dies, dass wir eine perfekte negative Beziehung haben, "
+"und wenn *r* = 1 ist, bedeutet dies, dass wir eine perfekte positive "
+"Beziehung haben. Wenn *r* = 0 ist, gibt es überhaupt keine Beziehung. Unter "
+":numref:`fig-corr` finden Sie mehrere Diagramme, die zeigen, wie die "
+"verschiedenen Korrelationen aussehen können."
 
 #: ../../Ch12/Ch12_Regression_01.rst:130
 msgid "Effect of varying the strength and direction of a correlation"
-msgstr ""
+msgstr "Auswirkung der Variation von Stärke und Richtung einer Korrelation"
 
 #: ../../Ch12/Ch12_Regression_01.rst:130
 msgid ""
@@ -425,6 +455,10 @@ msgid ""
 "and 1.00 In the right hand column, the correlations are 0.00, -0.33, -0.67 "
 "and -1.00."
 msgstr ""
+"Veranschaulichung der Auswirkungen einer Änderung der Stärke und Richtung "
+"einer Korrelation. In der linken Spalte sind die Korrelationen 0,00, 0,33, "
+"0,67 und 1,00 dargestellt, in der rechten Spalte die Korrelationen 0,00, -"
+"0,33, -0,67 und -1,00."
 
 #: ../../Ch12/Ch12_Regression_01.rst:137
 msgid ""
@@ -436,6 +470,13 @@ msgid ""
 "way of describing the relationship between two variables that isn’t terribly "
 "informative to humans"
 msgstr ""
+"Die Formel für den Pearsonschen Korrelationskoeffizienten kann auf "
+"verschiedene Arten geschrieben werden. Meiner Meinung nach ist es am "
+"einfachsten, die Formel in zwei Schritte aufzuteilen. Führen wir zunächst "
+"die Idee einer **Kovarianz** ein. Die Kovarianz zwischen zwei Variablen *X* "
+"und *Y* ist eine Verallgemeinerung des Begriffs der Varianz und stellt eine "
+"mathematisch einfache Möglichkeit dar, die Beziehung zwischen zwei Variablen "
+"zu beschreiben, die für den Menschen nicht sehr informativ ist"
 
 #: ../../Ch12/Ch12_Regression_01.rst:145
 msgid ""
@@ -454,6 +495,10 @@ msgid ""
 "you can think of the formula for the covariance as an “average cross "
 "product” between *X* and *Y*."
 msgstr ""
+"Da wir eine Größe, die von *X* abhängt, mit einer Größe, die von *Y* "
+"abhängt, multiplizieren (d. h. das „Produkt“ davon nehmen) und dann den "
+"Mittelwert bilden, [#]_ können Sie sich die Formel für die Kovarianz als „"
+"durchschnittliches Kreuzprodukt“ zwischen *X* und *Y* vorstellen."
 
 #: ../../Ch12/Ch12_Regression_01.rst:152
 msgid ""
@@ -470,6 +515,20 @@ msgid ""
 "``dani.grump`` variable (units: grumps), then the units for their covariance "
 "are “hours × grumps”. And I have no freaking idea what that would even mean."
 msgstr ""
+"Die Kovarianz hat die nützliche Eigenschaft, dass die Kovarianz genau Null "
+"ist, wenn *X* und *Y* völlig unabhängig voneinander sind. Wenn die Beziehung "
+"zwischen ihnen positiv ist (im Sinne von :numref:`fig-corr`), dann ist auch "
+"die Kovarianz positiv, und wenn die Beziehung negativ ist, dann ist auch die "
+"Kovarianz negativ. Mit anderen Worten: Die Kovarianz gibt die grundlegende "
+"qualitative Idee der Korrelation wieder. Leider ist die Kovarianz für "
+"Rohdaten nicht einfach zu interpretieren, da sie von den Einheiten abhängt, "
+"in denen *X* und *Y* ausgedrückt werden. Schlimmer ist, dass die "
+"tatsächlichen Einheiten, in denen die Kovarianz ausgedrückt wird, wirklich "
+"seltsam sind. Wenn sich zum Beispiel *X* auf die Variable ``dani.sleep`` "
+"(Einheit: Stunden) und *Y* auf die Variable ``dani.grump`` (Einheit: "
+"Miesepeter) bezieht, dann sind die Einheiten für ihre Kovarianz \"Stunden × "
+"Miesepeter\". Und ich habe keinen blassen Schimmer, was das überhaupt "
+"bedeuten soll."
 
 #: ../../Ch12/Ch12_Regression_01.rst:165
 msgid ""
@@ -481,6 +540,14 @@ msgid ""
 "[#]_ In other words, the correlation between *X* and *Y* can be written as "
 "follows:"
 msgstr ""
+"Der Pearson-Korrelationskoeffizient *r* behebt dieses "
+"Interpretationsproblem, indem er die Kovarianz standardisiert, und zwar auf "
+"ziemlich genau dieselbe Weise, wie der *z*-Score eine Rohdaten-Variable "
+"standardisiert, indem er durch die Standardabweichung dividiert wird. Da wir "
+"jedoch zwei Variablen haben, die zur Kovarianz beitragen, funktioniert die "
+"Standardisierung nur, wenn wir durch beide Standardabweichungen dividieren.\\"
+" [#]_ Das bedeutet, dass die Korrelation zwischen *X* und *Y* wie folgt "
+"geschrieben werden kann:"
 
 #: ../../Ch12/Ch12_Regression_01.rst:173
 msgid ""
@@ -500,10 +567,18 @@ msgid ""
 "Ch12/Ch12_Regression_01>`. But before I do, let’s look at how to calculate "
 "correlations in jamovi."
 msgstr ""
+"Durch die Standardisierung der Kovarianz bleiben nicht nur die zuvor "
+"besprochenen nützlichen Eigenschaften der Kovarianz erhalten, sondern die "
+"tatsächlichen Werte für *r* liegen auf einer sinnvollen Skala: *r* = 1 "
+"bedeutet eine perfekte positive Beziehung und *r* = -1 bedeutet eine "
+"perfekte negative Beziehung. Auf diesen Punkt werde ich später im Abschnitt "
+":doc:`Interpretation einer Korrelation <../Ch12/Ch12_Regression_01>` noch "
+"etwas näher eingehen. Zuvor wollen wir uns jedoch ansehen, wie Korrelationen "
+"in jamovi berechnet werden."
 
 #: ../../Ch12/Ch12_Regression_01.rst:183
 msgid "Calculating correlations in jamovi"
-msgstr ""
+msgstr "Berechnen von Korrelationen in jamovi"
 
 #: ../../Ch12/Ch12_Regression_01.rst:185
 msgid ""
@@ -512,6 +587,10 @@ msgid ""
 "variables |continuous| across into the box on the right to get the output "
 "in :numref:`fig-correlations`."
 msgstr ""
+"Das Berechnen von Korrelationen in jamovi erfolgt durch Klicken auf die "
+"Schaltfläche ``Regression`` → ``Correlation Matrix``. Übertragen Sie alle "
+"vier kontinuierlichen Variablen |continuous| in das Feld auf der rechten "
+"Seite, um die Ausgabe in :numref:`fig-correlations` zu erhalten."
 
 #: ../../Ch12/Ch12_Regression_01.rst:196
 msgid "jamovi screenshot with correlations in the |parenthood| data set"
