@@ -69,7 +69,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-11 17:50+0100\n"
-"PO-Revision-Date: 2022-12-12 10:49+0000\n"
+"PO-Revision-Date: 2022-12-12 11:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
 "\n"
@@ -3140,7 +3140,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
-msgstr "Eine einseitige Hypothese bei einem ``Independent Samples T-Test``"
+msgstr "Einseitige Hypothesenprüfung bei einem ``Independent Samples T-Test``"
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
 msgid ""
@@ -3148,6 +3148,9 @@ msgid ""
 "hypothesis is one-sided, i.e. that Anastasia’s students had higher grades "
 "than Bernadette’s."
 msgstr ""
+"jamovi-Ergebnisse, die einen ``Independent Samples T-Test`` zeigen, wobei "
+"die Hypothese einseitig geprüft wird, d.h. dass Anastasias Schüler bessere "
+"Noten haben als Bernadettes Schüler."
 
 #: ../../Ch11/Ch11_tTest_06.rst:73
 msgid ""
@@ -3155,6 +3158,10 @@ msgid ""
 "alternative hypothesis has changed, the *p*-value has changed, and it now "
 "reports a one-sided confidence interval rather than a two-sided one."
 msgstr ""
+"Auch hier ändert sich die Ausgabe in einer vorhersehbaren Weise: Die "
+"Definition der Alternativhypothese hat sich geändert, der *p*-Wert hat sich "
+"geändert, und es wird nun ein einseitiges Konfidenzintervall anstelle eines "
+"zweiseitigen bereichtet."
 
 #: ../../Ch11/Ch11_tTest_06.rst:78
 msgid ""
@@ -3166,10 +3173,18 @@ msgid ""
 "the paired variables box) > ``grade_test1`` (``Measure 2`` in jamovi). You "
 "should get the results shown in :numref:`fig-ttest_onesided3`."
 msgstr ""
+"Was ist mit dem *t*-Test mit gepaarten Stichproben? Angenommen, wir wollen "
+"die Hypothese testen, dass die Noten in Dr. Zeppos Klasse von Examen 1 zu "
+"Examen 2 *steigen*, ohne zu prüfen, ob die Noten möglicherweise sinken. In "
+"jamovi würden Sie dies tun, indem Sie unter der Option ``Hypotheses`` "
+"angeben, dass ``grade_test2`` (``Measure 1`` in jamovi, weil wir dies zuerst "
+"in das Feld für gepaarte Variablen kopiert haben) > ``grade_test1`` (``"
+"Measure 2`` in jamovi). Sie sollten die in :numref:`fig-test_onesided3` "
+"gezeigten Ergebnisse erhalten."
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
-msgstr ""
+msgstr "Einseitige Hypothesenprüfung bei einem ``Paired Samples T-Test``"
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid ""
@@ -3177,6 +3192,9 @@ msgid ""
 "hypothesis is one-sided, i.e. that ``grade test2`` (``Measure 1``) is larger "
 "than ``grade test1`` (``Measure 2``)."
 msgstr ""
+"jamovi-Ergebnisse, die einen ``Paired Samples T-Test`` zeigen, bei dem die "
+"Hypothese einseitig geprüft wird, d.h. dass ``grade test2`` (``Measure 1``) "
+"größer ist als ``grade test1`` (``Measure 2``)."
 
 #: ../../Ch11/Ch11_tTest_06.rst:99
 msgid ""
@@ -3184,6 +3202,9 @@ msgid ""
 "changed, the *p*-value has changed, and the confidence interval is now one-"
 "sided."
 msgstr ""
+"Auch hier ändert sich die Ausgabe auf vorhersehbare Weise. Die Hypothese hat "
+"sich geändert, der *p*-Wert hat sich geändert, und das Konfidenzintervall "
+"ist jetzt einseitig."
 
 #: ../../Ch11/Ch11_tTest_07.rst:4
 msgid "Effect size"
@@ -3213,7 +3234,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:16
 msgid "d = (mean 1 - mean 2) / std. dev."
-msgstr ""
+msgstr "d = (Mittelwert 1 - Mittelwert 2) / Std. abw."
 
 #: ../../Ch11/Ch11_tTest_07.rst:18
 msgid ""
@@ -3230,6 +3251,21 @@ msgid ""
 "theoretical population effect. Obviously, that does mean that there are "
 "several different things all called *d*."
 msgstr ""
+"und er schlug einen groben Leitfaden für die Interpretation von *d* in "
+":numref:`tab-cohensdinterpretation` vor. Man sollte meinen, dass dies "
+"ziemlich eindeutig ist, aber das ist es nicht. Das liegt vor allem daran, "
+"dass Cohen sich nicht allzu genau darüber ausließ, was seiner Meinung nach "
+"als Maß für die Standardabweichung verwendet werden sollte (zu seiner "
+"Verteidigung sei gesagt, dass er in seinem Buch einen breiteren Standpunkt "
+"vertreten wollte und sich nicht mit eher unbedeutenden Details aufhalten "
+"wollte). Wie `McGrath und Meyer (2006) <../Other/References."
+"html#mcgrath-2006>`__ erörtert haben, gibt es mehrere verschiedene "
+"Versionen, die allgemein gebräuchlich sind, und jeder Autor neigt dazu, eine "
+"etwas andere Notation zu verwenden. Der Einfachheit halber (im Gegensatz zur "
+"Genauigkeit) werde ich *d* für jede Statistik verwenden, die Sie aus der "
+"Stichprobe berechnen, und δ für einen theoretischen Bevölkerungseffekt. Das "
+"bedeutet natürlich, dass es mehrere verschiedene Dinge gibt, die alle *d* "
+"heißen."
 
 #: ../../Ch11/Ch11_tTest_07.rst:31
 msgid ""
@@ -3251,42 +3287,51 @@ msgid ""
 "“small” effect could be of big practical importance. In other situations a "
 "“large” effect may not be all that interesting."
 msgstr ""
+"Ein (sehr) grober Leitfaden zur Interpretation von Cohens *d*. Meine "
+"persönliche Empfehlung ist, diese Richtlinien nicht blind zu verwenden. Die "
+"*d*-Statistik hat an und für sich eine natürliche Interpretation. Sie "
+"beschreibt die Differenz der Mittelwerte als die Anzahl der "
+"Standardabweichungen, die diese Mittelwerte voneinander trennen. Es ist also "
+"im Allgemeinen eine gute Idee, darüber nachzudenken, was das in praktischer "
+"Hinsicht bedeutet. In manchen Kontexten kann ein „kleiner“ Effekt von großer "
+"praktischer Bedeutung sein. In anderen Situationen ist ein „großer“ Effekt "
+"vielleicht gar nicht so interessant."
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
 msgid "d-value"
-msgstr ""
+msgstr "*d*-Wert"
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
 msgid "rough interpretation"
-msgstr ""
+msgstr "grobe Interpretation"
 
 #: ../../Ch11/Ch11_tTest_07.rst:49
 msgid "about 0.2"
-msgstr ""
+msgstr "etwa 0,2"
 
 #: ../../Ch11/Ch11_tTest_07.rst:49
 msgid "“small” effect"
-msgstr ""
+msgstr "„kleiner“ Effekt"
 
 #: ../../Ch11/Ch11_tTest_07.rst:51
 msgid "about 0.5"
-msgstr ""
+msgstr "etwa 0,5"
 
 #: ../../Ch11/Ch11_tTest_07.rst:51
 msgid "“moderate” effect"
-msgstr ""
+msgstr "„mäßiger“ Effekt"
 
 #: ../../Ch11/Ch11_tTest_07.rst:53
 msgid "about 0.8"
-msgstr ""
+msgstr "etwa 0,8"
 
 #: ../../Ch11/Ch11_tTest_07.rst:53
 msgid "“large” effect"
-msgstr ""
+msgstr "„großer“ Effekt"
 
 #: ../../Ch11/Ch11_tTest_07.rst:57
 msgid "Cohen’s *d* from one sample"
-msgstr ""
+msgstr "Cohen's *d* bei einer Stichprobe"
 
 #: ../../Ch11/Ch11_tTest_07.rst:59
 msgid ""
@@ -3297,6 +3342,13 @@ msgid ""
 "deviation. We just use our usual estimate :math:`\\hat{\\sigma}`. Therefore, "
 "we end up with the following as the only way to calculate d:"
 msgstr ""
+"Die einfachste Situation entspricht einem *t*-Test mit einer Stichprobe. In "
+"diesem Fall handelt es sich um einen Stichprobenmittelwert *X̄* und einen "
+"(hypothetischen) Populationsmittelwert µ\\ :sub:`o`, mit dem er verglichen "
+"wird. Und nicht nur das: Es gibt eigentlich nur eine sinnvolle Möglichkeit, "
+"die Standardabweichung der Grundgesamtheit zu schätzen. Wir verwenden "
+"einfach unsere übliche Schätzung :math:`\\hat{\\sigma}`. Daher ist die "
+"einzige Möglichkeit zur Berechnung von *d* die folgende:"
 
 #: ../../Ch11/Ch11_tTest_07.rst:66
 msgid ""
@@ -3325,7 +3377,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:76
 msgid "Cohen’s *d* from a Student’s *t*-test"
-msgstr ""
+msgstr "Cohens *d* in einem *t*-Test nach Student"
 
 #: ../../Ch11/Ch11_tTest_07.rst:78
 msgid ""
@@ -3355,6 +3407,12 @@ msgid ""
 "the sample means as the top line and a pooled standard deviation estimate "
 "for the bottom line"
 msgstr ""
+"wobei, wie üblich, µ\\ :sub:`1` und µ\\ :sub:`2` die Mittelwerte in der "
+"Grundgesamtheit sind, die der Gruppe 1 bzw. der Gruppe 2 entsprechen, und σ "
+"die Standardabweichung ist (die für beide Populationen gleich ist). Der "
+"offensichtliche Weg zur Schätzung von δ besteht darin, genau dasselbe zu tun "
+"wie beim *t*-Test selbst, d. h. die Stichprobenmittelwerte als Zähler und "
+"eine gepoolte Schätzung der Standardabweichung als Nenner zu verwenden"
 
 #: ../../Ch11/Ch11_tTest_07.rst:94
 msgid ""
@@ -3372,6 +3430,12 @@ msgid ""
 "one provided in jamovi. It is sometimes referred to as Hedges’ *g* statistic "
 "(`Hedges, 1981 <../Other/References.html#hedges-1981>`__\\ )."
 msgstr ""
+"wobei :math:`\\hat\\sigma_p` genau das gleiche gepoolte "
+"Standardabweichungsmaß ist, das im *t*-Test verwendet wird. Dies ist die am "
+"häufigsten verwendete Version von Cohen's *d*, wenn sie auf das Ergebnis "
+"eines *t*-Tests nach Student angewandt wird, und sie ist die in jamovi "
+"verwendete Version. Sie wird manchmal auch als Hedges' *g* Statistik "
+"bezeichnet (`Hedges, 1981 <../Other/References.html#hedges-1981>`__\\ )."
 
 #: ../../Ch11/Ch11_tTest_07.rst:103
 msgid ""
@@ -3430,7 +3494,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:129
 msgid "Cohen’s *d* from a paired-samples test"
-msgstr ""
+msgstr "Cohens *d* aus einem *t*-Test für gepaarte Stichproben"
 
 #: ../../Ch11/Ch11_tTest_07.rst:131
 msgid ""
@@ -3460,6 +3524,10 @@ msgid ""
 "indicating that the time 2 grade scores are, on average, 1.45 standard "
 "deviations higher than the time 1 grade scores."
 msgstr ""
+"wobei :math:`\\hat{\\sigma}_D` die Schätzung der Standardabweichung der "
+"Unterschiede ist. Das in :numref:`fig-test_paired3` gezeigte Cohens *d* = "
+"1.45, was bedeutet, dass die Noten bei Examen 2 im Durchschnitt um 1.45 "
+"Standardabweichungen höher sind als die Noten bei Examen 1."
 
 #: ../../Ch11/Ch11_tTest_07.rst:144
 #, python-format
@@ -3498,6 +3566,8 @@ msgid ""
 "If you are interested, you can look at how this was done in the |chico2|_ "
 "dataset"
 msgstr ""
+"Wenn Sie daran interessiert sind, können Sie sich ansehen, wie diese Analyse "
+"im |chico2|_-Datensatz durchgeführt wurde"
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
 msgid "Checking the normality of a sample"
@@ -3552,11 +3622,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:27
 msgid "QQ plots"
-msgstr ""
+msgstr "Q-Q-Diagramme"
 
 #: ../../Ch11/Ch11_tTest_08.rst:35
 msgid "Histogram and QQ plot for normally-distributed data"
-msgstr ""
+msgstr "Histogramm und Q-Q-Diagramm für normalverteilte Daten"
 
 #: ../../Ch11/Ch11_tTest_08.rst:35
 msgid ""
@@ -3574,6 +3644,8 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_08.rst:46
 msgid "Histogram and QQ plot for skewed and tailed data"
 msgstr ""
+"Histogramm und Q-Q-Diagramm für schiefe und leptokurtische Daten (d.h., "
+"Daten mit deutlichen Ausläufern)"
 
 #: ../../Ch11/Ch11_tTest_08.rst:46
 msgid ""
@@ -3648,7 +3720,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:80
 msgid "Shapiro-Wilk tests"
-msgstr ""
+msgstr "Shapiro-Wilk-Test"
 
 #: ../../Ch11/Ch11_tTest_08.rst:82
 msgid ""
@@ -3674,6 +3746,11 @@ msgid ""
 "*X*\\ :sub:`2` be the second smallest and so on. Then the value of *W* is "
 "given by"
 msgstr ""
+"Die vom Shapiro-Wilk-Test berechnete Teststatistik wird üblicherweise als *W*"
+" bezeichnet und wie folgt berechnet. Zunächst sortieren wir die "
+"Beobachtungen in der Reihenfolge der zunehmenden Größe und lassen *X*\\ "
+":sub:`1` den kleinsten Wert in der Stichprobe sein, *X*\\ :sub:`2` den "
+"zweitkleinsten und so weiter. Dann ist der Wert von *W* gegeben durch"
 
 #: ../../Ch11/Ch11_tTest_08.rst:95
 msgid ""
@@ -3690,6 +3767,8 @@ msgid ""
 "where *X̄* is the mean of the observations, and the *a*\\ :sub:`i` values are "
 "an introductory text."
 msgstr ""
+"wobei *X̄* der Mittelwert der Beobachtungen ist, und die *a*\\ :sub:`i`-"
+"Werte ein einleitender Text sind."
 
 #: ../../Ch11/Ch11_tTest_08.rst:100
 msgid ""
@@ -3731,7 +3810,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:122
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
-msgstr ""
+msgstr "Stichprobenverteilung der Shapiro-Wilk-W-Statistik"
 
 #: ../../Ch11/Ch11_tTest_08.rst:122
 msgid ""
@@ -3770,7 +3849,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:139
 msgid "Example"
-msgstr ""
+msgstr "Ein Beispiel"
 
 #: ../../Ch11/Ch11_tTest_08.rst:141
 msgid ""
@@ -3782,18 +3861,30 @@ msgid ""
 "Ch04_Descriptives>` didn’t look like they came from a normal distribution at "
 "all. Here’s what happens to the QQ plot:"
 msgstr ""
+"In der Zwischenzeit lohnt es sich wahrscheinlich, Ihnen ein Beispiel dafür "
+"zu zeigen, was mit dem Q-Q-Diagramm und dem Shapiro-Wilk-Test passiert, wenn "
+"sich die Daten als nicht normalverteilt erweisen. Betrachten wir dazu die "
+"Verteilung unserer AFL-Gewinnspannen-Variable (``afl.margins`` aus dem "
+"|aflsmall_margins|_-Datensatz), die, wenn Sie sich an das Kapitel über :doc:`"
+"Deskriptive Statistik <../Ch04/Ch04_Deskriptive>` erinnern, überhaupt nicht "
+"so aussahen, als würden sie aus einer Normalverteilung stammen. Hier ist, "
+"was mit dem Q-Q-Diagramm passiert:"
 
 #: ../../Ch11/Ch11_tTest_08.rst:156
 msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
 msgstr ""
+"Q-Q-Diagramm für die (schief verteilten) Daten in der Variable ``afl."
+"margins`` aus dem Datensatz |aflsmall_margins|"
 
 #: ../../Ch11/Ch11_tTest_08.rst:156
 msgid ""
 "QQ plot for the (skewed) data in the ``afl.margins`` variable of the |"
 "aflsmall_margins|_ data set"
 msgstr ""
+"Q-Q-Diagramm für die (schief verteilten) Daten in der Variable ``afl."
+"margins`` aus dem Datensatz |aflsmall_margins|_"
 
 #: ../../Ch11/Ch11_tTest_08.rst:161
 msgid ""
@@ -3808,7 +3899,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:168
 msgid "This is a massive oversimplification."
-msgstr ""
+msgstr "Dies ist eine starke Vereinfachung."
 
 #: ../../Ch11/Ch11_tTest_08.rst:171
 msgid ""
@@ -3829,7 +3920,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:4
 msgid "Testing non-normal data with Wilcoxon tests"
-msgstr ""
+msgstr "Prüfen nicht-normalverteilter Daten mit dem Wilcoxon-Test"
 
 #: ../../Ch11/Ch11_tTest_09.rst:6
 msgid ""
@@ -3874,7 +3965,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:26
 msgid "Two sample Mann-Whitney U test"
-msgstr ""
+msgstr "Mann-Whitney-U-Test mit zwei Stichproben"
 
 #: ../../Ch11/Ch11_tTest_09.rst:28
 msgid ""
@@ -3887,6 +3978,15 @@ msgid ""
 "apart from the usual ``ID`` variable: ``scores`` |continuous| and ``group`` |"
 "nominal|."
 msgstr ""
+"Ich beginne mit der Beschreibung des **Mann-Whitney-U-Tests** mit zwei "
+"Stichproben, da er einfacher ist als die Version mit einer Stichprobe. "
+"Nehmen wir an, wir betrachten die Ergebnisse von 10 Personen bei einem Test. "
+"Da meine Vorstellungskraft mich jetzt völlig im Stich gelassen hat, nehmen "
+"wir an, es handele sich um einen „Test der Unglaublichkeit“ und es gäbe zwei "
+"Gruppen von Personen, „A“ und „B“. Ich bin neugierig, welche Gruppe am "
+"unglaublichsten ist. Die Daten sind im |awesome|_-Datensatz enthalten, und "
+"es gibt neben der üblichen ``ID``-Variable zwei weitere Variablen: ``scores``"
+" |continuous| und ``group`` |nominal|."
 
 #: ../../Ch11/Ch11_tTest_09.rst:37
 msgid ""
@@ -3896,10 +3996,14 @@ msgid ""
 "against every observation in group B. Whenever the group A datum is larger, "
 "we place a check mark in the table:"
 msgstr ""
+"Solange es keine verbundenen Ränge gibt (d. h. Personen mit genau demselben "
+"Wert), ist der Test, den wir durchführen wollen, erstaunlich einfach. Alles, "
+"was wir tun müssen, ist eine Tabelle zu erstellen, die jede Beobachtung in "
+"Gruppe A mit jeder Beobachtung in Gruppe B vergleicht:"
 
 #: ../../Ch11/Ch11_tTest_09.rst:44
 msgid "**Group B**"
-msgstr ""
+msgstr "**Gruppe B**"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "14.5"
@@ -3923,7 +4027,7 @@ msgstr "13.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "**Group A**"
-msgstr ""
+msgstr "**Gruppe A**"
 
 #: ../../Ch11/Ch11_tTest_09.rst:48
 msgid "6.4"
@@ -3960,6 +4064,15 @@ msgid ""
 "hypothesis when *W* is very large or very small, but if we have a "
 "directional (i.e., one-sided) hypothesis then we only use one or the other."
 msgstr ""
+"Dann zählen wir die Anzahl der Häkchen zusammen. Das ist unsere "
+"Teststatistik, *W*.\\ [#]_ Die tatsächliche Stichprobenverteilung für *W* "
+"ist etwas kompliziert, und ich werde die Details auslassen. Für unsere "
+"Zwecke reicht es aus, festzustellen, dass die Interpretation von *W* "
+"qualitativ die gleiche ist wie die Interpretation von *t* oder *z*. Das "
+"heißt, wenn wir einen zweiseitigen Test wollen, dann lehnen wir die "
+"Nullhypothese ab, wenn *W* sehr stark positiv oder sehr stark negativ ist, "
+"aber wenn wir eine gerichtete (d.h. einseitige) Hypothese haben, dann "
+"verwenden wir nur das eine oder das andere."
 
 #: ../../Ch11/Ch11_tTest_09.rst:67
 msgid ""
@@ -3969,10 +4082,15 @@ msgid ""
 "option for ``Mann-Whitney U``, we will get results showing that U = 3 (i.e., "
 "the same number of check marks as shown above), and a *p*-value = 0.05556."
 msgstr ""
+"Wenn wir in jamovi einen ``Independent Samples T-Test`` mit ``scores`` "
+"|continuous| als abhängige Variable und ``group`` als Gruppierungsvariable "
+"|nominal| durchführen und dann unter den Optionen für ``Tests`` die Option "
+"für ``Mann-Whitney U`` ankreuzen, erhalten wir als Ergebnis, dass U = 3 ("
+"d.h. die gleiche Anzahl von Häkchen wie oben) und einen *p*-Wert = 0,05556."
 
 #: ../../Ch11/Ch11_tTest_09.rst:74
 msgid "One sample Wilcoxon test"
-msgstr ""
+msgstr "Wilcoxon-Test für eine Stichprobe"
 
 #: ../../Ch11/Ch11_tTest_09.rst:76
 msgid ""
@@ -3990,6 +4108,21 @@ msgid ""
 "all the complete sample. What you end up with is a table that looks like "
 "this:"
 msgstr ""
+"Was ist mit dem **Wilcoxon-Test für eine Stichprobe** (der gleichwertig mit "
+"dem Wilcoxon-Test für gepaarte Stichproben ist)? Angenommen, ich möchte "
+"herausfinden, ob die Teilnahme an einem Statistikkurs einen Einfluss auf die "
+"Zufriedenheit der Studenten hat. Der Datensatz |happiness|_ enthält die "
+"Zufriedenheit jedes Schülers vor (``before``, |ordinal|) und nach dem Besuch "
+"des Kurses (``after``, |ordinal|). Der ``change`` Wert ist die Differenz "
+"zwischen den beiden Werten. Genau wie wir beim *t*-Test für gepaarte "
+"Stichproben gesehen haben, gibt es keinen grundlegenden Unterschied zwischen "
+"einem Test für gepaarte Stichproben unter Verwendung von ``before`` und "
+"``after`` und einem Test bei einer Stichprobe unter Verwendung der Werte in "
+"der Variable ``change``. Wie zuvor ist die einfachste Art, den Test zu "
+"betrachten, die Erstellung einer Tabelle. Diesmal nimmt man die "
+"Änderungswerte, die positive Differenzen darstellen, und stellt sie in einer "
+"Tabelle der gesamten Stichprobe gegenüber. Das Ergebnis ist eine Tabelle, "
+"die wie folgt aussieht:"
 
 #: ../../Ch11/Ch11_tTest_09.rst:145
 msgid "ordinal"
