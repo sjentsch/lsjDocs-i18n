@@ -115,7 +115,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-11 16:44+0100\n"
-"PO-Revision-Date: 2022-12-12 21:10+0000\n"
+"PO-Revision-Date: 2022-12-13 10:50+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
 "\n"
@@ -2275,22 +2275,31 @@ msgid ""
 "VSUM(sq_resid) / VSUM(sq_total)``. But then you have a whole column "
 "containing R²."
 msgstr ""
+"Wenn Sie diese Berechnungen nicht von Hand durchführen möchten, erstellen "
+"Sie einfach eine weitere berechnete Variable, die z. B. ``R2`` heißt und die "
+"Formel ``1 - VSUM(sq_resid) / VSUM(sq_total)`` enthält. Aber dann haben Sie "
+"eine ganze Spalte mit R²."
 
 #: ../../Ch12/Ch12_Regression_06.rst:157
 msgid ""
 "And by “sometimes” I mean “almost never”. In practice everyone just calls it "
 "“*R*-squared”."
 msgstr ""
+"Und mit „manchmal“ meine ich „fast nie“. In der Praxis nennt man es einfach "
+"„*R*-Quadrat“ (oder *R squared*, wenn man den englischen Begriff benutzt)."
 
 #: ../../Ch12/Ch12_Regression_06.rst:161
 msgid ""
 "If you made a mistake or could not follow the explanations, you can simply "
 "download and open the |parenthood_r2|_ data set."
 msgstr ""
+"Wenn Sie einen Fehler gemacht haben oder den Erklärungen nicht folgen "
+"konnten, können Sie auch einfach den Datensatz |parenthood_r2|_ "
+"herunterladen und öffnen."
 
 #: ../../Ch12/Ch12_Regression_07.rst:4
 msgid "Hypothesis tests for regression models"
-msgstr ""
+msgstr "Durchführen von Hypothesentests für Regressionsmodelle"
 
 #: ../../Ch12/Ch12_Regression_07.rst:6
 msgid ""
