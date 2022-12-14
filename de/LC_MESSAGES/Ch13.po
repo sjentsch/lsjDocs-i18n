@@ -104,7 +104,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-11 18:07+0100\n"
-"PO-Revision-Date: 2022-12-14 13:50+0000\n"
+"PO-Revision-Date: 2022-12-14 15:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -3725,16 +3725,20 @@ msgid ""
 "Then move each of the levels variables across to the ``Repeated Measures "
 "Cells`` text box."
 msgstr ""
+"Verschieben Sie dann jede Variable in die ihr zugeordnete Ebene innnerhalb "
+"des Textfelds ``Repeated Measures Cells``."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:112
 msgid ""
 "Finally, under the ``Assumption Checks`` option, tick the ``Sphericity "
 "checks`` text box."
 msgstr ""
+"Setzen Sie schließlich unter den ``Assumption Checks``-Optionen das "
+"Kontrollkästchen ``Sphericity checks``."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:121
 msgid "Repeated measures ANOVA dialogue box in jamovi"
-msgstr ""
+msgstr "Options-Dialogfeld für die ANOVA mit Messwiederholung in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:125
 msgid ""
@@ -3749,10 +3753,24 @@ msgid ""
 "conclude that the variances of the differences are not significantly "
 "different (i.e. they are roughly equal and sphericity can be assumed.)."
 msgstr ""
+"Die jamovi-Ausgabe für eine einfaktorielle ``Repeated Measures ANOVA`` wird "
+"in :numref:`fig-RManova2` bis :numref:`fig-RManova5` gezeigt. Die erste "
+"Ausgabe, die wir uns ansehen sollten, ist ``Mauchly’s Test of Sphericity``, "
+"der die Hypothese testet, dass die Unterschiede der Varianzen zwischen den "
+"Bedingungen gleich sind (was bedeutet, dass die Streuung der Differenzwerte "
+"zwischen den Studienbedingungen homogen, d.h. ungefähr gleich, ist). Laut "
+":numref:`fig-RManova2` ist das Signifikanzniveau für Mauchly’s Test *p* = "
+"0,720. Wenn Mauchly’s Test nicht signifikant ist (d. h. *p* > 0,05, wie es "
+"in dieser Analyse der Fall ist), dann können wir schlussfolgern, dass die "
+"Varianzen der Differenzen zwischen den Versuchsbedingungen nicht signifikant "
+"unterschiedlich sind (d. h. sie sind ungefähr gleich und es kann Sphärizität "
+"angenommen werden)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:143
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
+"Ausgabe der einfaktoriellen ANOVA mit Messwiederholung: Mauchly’s Test auf "
+"Sphärizität"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:147
 msgid ""
@@ -3762,18 +3780,27 @@ msgid ""
 "met. In this case, we should apply a correction to the *F*-value obtained in "
 "the one-way related ANOVA analysis:"
 msgstr ""
+"Wenn andererseits Mauchly’s Test signifikant gewesen wäre (*p* < 0,05), dann "
+"würden wir schlussfolgern, dass es signifikante Unterschiede zwischen der "
+"Varianz der Differenzwerte gibt und die Anforderung der Sphärizität nicht "
+"erfüllt ist. In diesem Fall sollten wir eine Korrektur auf den *F*-Wert "
+"anwenden, den wir in der einfaktoriellen ANOVA erhalten haben:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:154
 msgid ""
 "If the ``Greenhouse-Geisser`` value in the ``Tests of Sphericity`` table is "
 "> 0.75 then you should use the Huynh-Feldt correction."
 msgstr ""
+"Wenn der ``Greenhouse-Geisser``-Wert in der Tabelle ``Tests of Sphericity`` "
+"größer als 0,75 ist, sollten Sie die Huynh-Feldt-Korrektur verwenden."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:157
 msgid ""
 "But if the ``Greenhouse-Geisser`` value is < 0.75, then you should use the "
 "Greenhouse-Geisser correction."
 msgstr ""
+"Aber wenn der ``Greenhouse-Geisser``-Wert kleiner als 0,75 ist, dann sollten "
+"Sie die Greenhouse-Geisser-Korrektur verwenden."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:160
 msgid ""
@@ -3782,15 +3809,23 @@ msgid ""
 "corrected *F*-values are then shown in the results table, as in :numref:`fig-"
 "RManova3`."
 msgstr ""
+"Diese beiden korrigierten *F*-Werte können in den Kontrollkästchen ``"
+"Sphericity Corrections`` unter den Optionen „Assumption Checks“ angegeben "
+"werden, und die korrigierten *F*-Werte werden dann in der Ergebnistabelle "
+"angezeigt, wie in : numref:`fig-RManova3`."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Ausgabe der ANOVA mit Messwiederholung: Tests von Effekten innerhalb der "
+"Probanden"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid ""
 "One-way repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Ausgabe der einfaktoriellen ANOVA mit Messwiederholung: Tests von Effekten "
+"innerhalb der Probanden"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:176
 msgid ""
@@ -3803,10 +3838,21 @@ msgid ""
 "on each language task did vary significantly depending on whether the task "
 "was speech, comprehension or syntax based (*F*\\(2,10) = 6.93, *p* = 0.013)."
 msgstr ""
+"In unserer Analyse haben wir gesehen, dass die Signifikanz von Mauchly’s "
+"Tests auf Sphärizität *p* = 0,720 war (d. h. *p* > 0,05). Das bedeutet, dass "
+"wir davon ausgehen können, dass die Anforderung an die Sphärizität erfüllt "
+"ist, sodass keine Korrektur des *F*-Werts erforderlich ist. Daher können wir "
+"die Ausgabewerte in der Zeile ohne Sphärizitätskorrektur (Zeilenname und "
+"Checkbox ``None`` in den Optionen) für den Messwiederholungsfaktor ``Task`` "
+"verwenden: *F* = 6,93, *df1* = 2, *df2* = 10, *p* = 0,013. Wir können daraus "
+"schließen, dass die Zahl der erfolgreich abgeschlossenen Tests je nach "
+"Sprachaufgabe signifikant variierte, d.h. je nachdem, ob die Aufgabe "
+"produktions-, verständnis- oder syntaxbasiert war (*F*\\(2,10) = 6,93, *p* = "
+"0,013)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:192
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "Post-hoc-Tests bei der ANOVA mit Messwiederholung in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:196
 msgid ""
@@ -3815,6 +3861,12 @@ msgid ""
 "`fig-RManova4`. These indicate that there is a significant difference "
 "between ``Speech`` and ``Syntax``, but not between other levels."
 msgstr ""
+"Auch bei der ANOVA mit Messwiederholung in jamovi lassen sich Post-Hoc-Tests "
+"definieren. Das geschieht auf eine ähnliche Weise, wie bei der unabhängigen "
+"ANOVA. Die Ergebnisse werden in :numref:`fig-RManova4` angezeigt. Diese "
+"weisen darauf hin, dass es einen signifikanten Unterschied zwischen "
+"Sprachproduktion (``Speech``) und Syntax (``Syntax``) gibt, aber nicht "
+"zwischen übrigen Ebenen."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:202
 msgid ""
@@ -3841,14 +3893,15 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_07.rst:217
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr ""
+"Ausgabe der einfaktoriellen ANOVA mit Messwiederholung: Deskriptive Statistik"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:224
 msgid "(n - k): (number of subjects - number of groups)"
-msgstr ""
+msgstr "(n - k): (Anzahl der Probanden - Anzahl der Gruppen)"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:4
 msgid "The Friedman non-parametric repeated measures ANOVA test"
-msgstr ""
+msgstr "Der nicht-parametrische ANOVA-Test mit Messwiederholung nach Friedman"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:6
 msgid ""
@@ -3875,6 +3928,8 @@ msgstr "ordinal"
 #: ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
 msgstr ""
+"Dialogfeld mit den Analyseoptionen und die Ergebnisausgabe für die ``"
+"Repeated Measures ANOVA (Non-parametric)`` in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:23
 msgid ""
@@ -3884,6 +3939,12 @@ msgid ""
 "test, and in :numref:`fig-RManova6` there is an example using the Broca’s "
 "Aphasia data we have already looked at."
 msgstr ""
+"Ähnlich wie beim Kruskall-Wallis-Test ist die zugrunde liegende Mathematik "
+"kompliziert und wird deshalb hier nicht vorgestellt. Für die Zwecke dieses "
+"Buches reicht es aus, darauf hinzuweisen, dass jamovi die für verbundene "
+"Ränge korrigierte Version des Friedman-Tests berechnet. In :numref:`fig-"
+"RManova6` ist eine Beispielausgabe zu sehen, welche die Broca-Aphasie-Daten "
+"verwendet, die wir bereits für die früheren Analysen verwendet haben."
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:29
 msgid ""
@@ -3895,6 +3956,15 @@ msgid ""
 "statistics (means and medians) for the three repeated measures variables, "
 "click on the ``Descriptives`` button."
 msgstr ""
+"Es ist ziemlich einfach, einen Friedman-Test in jamovi durchzuführen. Wählen "
+"Sie einfach ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA (Non-"
+"parametric)``. Dies öffnet das in :numref:`fig-RManova6` gezeigte Dialogfeld "
+"mit den Analyseoptionen. Markieren und übertragen Sie die Namen der "
+"Messwiederholungsvariablen, die Sie vergleichen möchten (``Speech``, "
+"``Conceptual`` und ``Syntax``) in das Variablenfeld ``Measures``. Um "
+"deskriptive Statistiken (Mittelwerte und Mediane) für die drei "
+"Messwiederholungsvariablen zu erstellen, setzen Sie das Auswahlkästchen "
+"``Descriptives``."
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:37
 msgid ""
