@@ -39,6 +39,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -71,6 +78,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1771,11 +1789,11 @@ msgstr ""
 "Erfolgswahrscheinlichkeit geändert, aber den Umfang des Experiments gleich "
 "gelassen. Was bedeutet das für unsere Binomialverteilung? Nun, wie :numref:"
 "`fig-binomHeads` (links) zeigt, besteht der Haupteffekt darin, die gesamte "
-"Verteilung zu verschieben, wie Sie es erwarten würden. Was würde passieren,"
-" wenn wir eine Münze *N* = 100 Mal werfen würden? In diesem Fall erhalten "
-"wir das, was auf der rechten Seite zu sehen ist. Die Verteilung bleibt "
-"ungefähr in der Mitte, aber es gibt etwas mehr Variabilität bei den "
-"möglichen Resultaten."
+"Verteilung zu verschieben, wie Sie es erwarten würden. Was würde passieren, "
+"wenn wir eine Münze *N* = 100 Mal werfen würden? In diesem Fall erhalten wir "
+"das, was auf der rechten Seite zu sehen ist. Die Verteilung bleibt ungefähr "
+"in der Mitte, aber es gibt etwas mehr Variabilität bei den möglichen "
+"Resultaten."
 
 #: ../../Ch07/Ch07_Probability_4.rst:132
 msgid "Binomial distribution: θ = 1/2 and N = 20 (left) or N = 100 (right)"
