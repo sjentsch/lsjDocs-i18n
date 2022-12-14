@@ -104,7 +104,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-11 18:07+0100\n"
-"PO-Revision-Date: 2022-12-14 11:48+0000\n"
+"PO-Revision-Date: 2022-12-14 12:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
 "\n"
@@ -3519,7 +3519,8 @@ msgstr ""
 "Teilnehmer eng mit einem Teilnehmer in einer anderen experimentellen Gruppen "
 "übereinstimmt). Aus diesem Grund sollte es in jeder Versuchsgruppe immer "
 "gleich viele Punkte (Datenpunkte) geben. Diese Art von Design und Analyse "
-"wird auch als „*within-subjects ANOVA*“ bezeichnet."
+"wird auch als „abhängige ANOVA“ - *related ANOVA* - oder Innersubjekt-ANOVA -"
+" *within-subjects ANOVA* - bezeichnet."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:14
 msgid ""
@@ -3535,12 +3536,12 @@ msgstr ""
 "unabhängigen ANOVA (manchmal als „unabhängigen ANOVA“ - *independent ANOVA* -"
 " oder „Zwischensubjekt-ANOVA“ - *“between-subjects” ANOVA* - bezeichnet). "
 "Sie werden sich erinnern, dass wir zuvor gezeigt haben, dass in einer "
-"Zwischensubjekt-ANOVA die Gesamtvariabilität in Variabilität zwischen "
-"Gruppen (SS\\ :sub:`b`) und Variabilität innerhalb von Gruppen (SS\\ "
-":sub:`w`) aufgeteilt wird. und nachdem jeder durch die jeweiligen "
-"Freiheitsgrade dividiert wurde, um MS\\ :sub:`b` und MS\\ :sub:`w` zu "
-"ergeben (siehe :numref:`tab-anovatable`), wird das *F*-Verhältnis berechnet "
-"als :"
+"Zwischensubjekt-ANOVA die Gesamtvariabilität in die Variabilität zwischen "
+"Gruppen (SS\\ :sub:`b`) und die Variabilität innerhalb von Gruppen (SS\\ "
+":sub:`w`) aufgeteilt wird. Nachdem jede dieser Quadratsummen durch die "
+"jeweiligen Freiheitsgrade dividiert wurde, um MS\\ :sub:`b` und MS\\ :sub:`w`"
+" zu erhalten (siehe :numref:`tab-anovatable`), wird ein *F*-Verhältnis "
+"berechnet als:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:23
 msgid "*F* = MS\\ :sub:`b` / MS\\ :sub:`w`"
@@ -3561,16 +3562,31 @@ msgid ""
 "factor. And then we can subtract SS\\ :sub:`subjects` from SS\\ :sub:`w` to "
 "provide a smaller SS\\ :sub:`error` term:"
 msgstr ""
+"Bei einer ANOVA mit Messwiederholung wird das *F*-Verhältnis auf ähnliche "
+"Weise berechnet. Während bei einer unabhängigen ANOVA die Variabilität "
+"innerhalb der Gruppe (SS\\ :sub:`w`) die Grundlage für die MS\\ :sub:`w` im "
+"Nenner bildet, wird bei einer ANOVA mit Messwiederholung die SS\\ :sub:`w` "
+"in zwei Teile geteilt. Da wir in jeder Gruppe die gleichen Probanden "
+"verwenden, können wir die Variabilität aufgrund von individuellen "
+"Unterschieden zwischen den Probanden (als SS\\ :sub:`subjects` bezeichnet) "
+"von der Variabilität innerhalb der Gruppen separieren. Wir werden uns nicht "
+"zu sehr in technische Detail, wie dies gemacht wird, vertiefen. Im Prinzip "
+"wird jedes Individuum zu einer Faktorstufe. Die Variabilität auf diesem "
+"Innersubjekt-Faktor wird genauso berechnet wie jeder Zwischensubjektfaktor. "
+"Und dann können wir SS\\ :sub:`subjects` von SS\\ :sub:`w` subtrahieren, was "
+"zu einer verringerten Quadratsumme SS\\ :sub:`error` beiträgt:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:40
 msgid "Independent ANOVA:       SS\\ :sub:`error` = SS\\ :sub:`w`"
-msgstr ""
+msgstr "Unabhängige ANOVA:          SS\\ :sub:`error` = SS\\ :sub:`w`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:41
 msgid ""
 "Repeated Measures ANOVA: SS\\ :sub:`error` = SS\\ :sub:`w - SS\\ :sub:"
 "`subjects`"
 msgstr ""
+"ANOVA mit Messwiederholung: SS\\ :sub:`error` = SS\\ :sub:`w` - SS\\ "
+":sub:`subjects`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:43
 msgid ""
@@ -3581,10 +3597,16 @@ msgid ""
 "(k - 1) (remembering that there are more subjects in the independent ANOVA "
 "design)."
 msgstr ""
+"Diese Änderung des SS\\ :sub:`error`-Terms führt oft zu einem "
+"aussagekräftigeren statistischen Test. Dies hängt aber davon ab, ob die "
+"Reduktion der Quadratsumme SS\\ :sub:`error` durch die Erhöhung der "
+"Freiheitsgrade kompensiert wird (die Freiheitsgrade erhöhen sich von (*n* - "
+"*k*)\\ [#]_ auf (*n* - 1)(*k* - 1); dabei ist aber zu berücksichtigen, dass "
+"unabhängige ANOVA-Designs typischerweise höhere Probandenzahlen haben)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:51
 msgid "Repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "Durchführen einer ANOVA mit Messwiederholung in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:53
 msgid ""
@@ -3596,26 +3618,35 @@ msgid ""
 "patients suffering from Broca’s Aphasia (a language deficit commonly "
 "experienced following a stroke)."
 msgstr ""
+"Zuerst brauchen wir einige Daten: `Geschwind (1972) <../Other/References."
+"html#geschwind-1972>`__ hat vorgeschlagen, dass die Art von Sprachdefiziten "
+"bei Schlaganfall-Patienten davon abhängt, welche spezifische Region des "
+"Gehirns geschädigt wurde (umgekehrt kann die Art von Defiziten verwendet "
+"werden kann, um zu diagnostizieren, welche Hirnregion von einer Läsion "
+"betroffen ist). Ein Forscher beschäftigt sich mit der Identifizierung der "
+"spezifischen Kommunikationsschwierigkeiten von sechs Patienten, die an Broca-"
+"Aphasie leiden (ein Sprachdefizit, das häufig nach einem Schlaganfall "
+"auftritt)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:61
 msgid "Number of attempts successfully completed on three experimental tasks."
-msgstr ""
+msgstr "Anzahl der korrekten Antworten bei drei experimentellen Aufgaben."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Participant"
-msgstr ""
+msgstr "Teilnehmer"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Speech"
-msgstr ""
+msgstr "Sprachproduktion"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Conceptual"
-msgstr ""
+msgstr "Semantik"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:65
 msgid "Syntax"
-msgstr ""
+msgstr "Syntax"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:71
 msgid "9"
