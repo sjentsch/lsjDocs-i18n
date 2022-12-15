@@ -1248,7 +1248,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_01.rst:393
 msgid ""
 "What we’ve just re-invented is **Spearman’s rank order correlation**, "
-"usually denoted *ρ* to distinguish it from the Pearson correlation *r*. We "
+"usually denoted ρ to distinguish it from the Pearson correlation *r*. We "
 "can calculate Spearman’s ρ using jamovi simply by clicking the ``Spearman`` "
 "check box in the ``Correlation Matrix`` options panel."
 msgstr ""
