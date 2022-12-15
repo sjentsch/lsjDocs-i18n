@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1866,7 +1866,7 @@ msgid ""
 "impossible to get by in science without having at least a cursory "
 "understanding of what a *p*-value means, making this one of the most "
 "important chapters in the book. As usual, I’ll end the chapter with a quick "
-"recap of the key ideas that we’ve talked about:"
+"recapitulation of the key ideas that we’ve talked about:"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:14
@@ -1892,7 +1892,8 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:24
-msgid ":doc:`p-values as “soft” decisions <../Ch09/Ch09_HypothesisTesting_05>`"
+msgid ""
+":doc:`*p*-values as “soft” decisions <../Ch09/Ch09_HypothesisTesting_05>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:26

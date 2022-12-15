@@ -5,12 +5,6 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -18,148 +12,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-# #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-15 08:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-11 18:07+0100\n"
-"PO-Revision-Date: 2022-12-14 16:30+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/"
 ">\n"
@@ -172,7 +44,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
 msgid "Comparing several means (one-way ANOVA)"
-msgstr "Vergleich mehrerer Mittelwerte (einfaktorielle ANOVA; *one-way ANOVA*)"
+msgstr "Vergleich mehrerer Mittelwerte (einfaktorielle ANOVA)"
 
 #: ../../Ch13/Ch13_ANOVA.rst:22
 msgid ""
@@ -194,7 +66,7 @@ msgid ""
 msgstr ""
 "In diesem Kapitel wird eines der am weitesten verbreiteten Instrumente der "
 "psychologischen Statistik vorgestellt, das als „Varianzanalyse“ bekannt ist, "
-"gewöhnlich allerdings als ANOVA bezeichnet wird. Die grundlegende Technik "
+"normalerweise allerdings als ANOVA bezeichnet wird. Die grundlegende Technik "
 "wurde von Sir Ronald Fisher Anfang des 20. Jahrhunderts entwickelt und ihm "
 "verdanken wir auch die etwas unglückliche Terminologie. Der Begriff ANOVA "
 "ist in zweierlei Hinsicht etwas irreführend. Erstens bezieht sich der Name "
@@ -207,7 +79,7 @@ msgstr ""
 "werden wir nur die einfachste Form der ANOVA betrachten, bei der wir mehrere "
 "verschiedene Gruppen von Beobachtungen haben und herausfinden wollen, ob "
 "sich diese Gruppen in Bezug auf eine interessierende Ergebnisvariable "
-"unterscheiden. Dies ist die Frage, die mit einer **Einfaktoriellen-ANOVA** "
+"unterscheiden. Dies ist die Frage, die mit einer **einfaktoriellen ANOVA** "
 "(*one-way ANOVA*) beantwortet wird."
 
 #: ../../Ch13/Ch13_ANOVA.rst:39
@@ -2195,7 +2067,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:4
 msgid "Multiple comparisons and post-hoc tests"
-msgstr "Mehrfachvergleiche und Post-hoc-Tests"
+msgstr "Post-hoc-Tests und die Korrektur für multiple Paarvergleiche"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:6
 msgid ""
@@ -2919,7 +2791,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:71
 msgid "Checking the homogeneity of variance assumption"
-msgstr "Überprüfung der Varianzhomogenität"
+msgstr "Überprüfen der Annahme der Varianzhomogenität"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:81
 msgid ""
@@ -3863,10 +3735,10 @@ msgid ""
 "corrected *F*-values are then shown in the results table, as in :numref:`fig-"
 "RManova3`."
 msgstr ""
-"Diese beiden korrigierten *F*-Werte können in den Kontrollkästchen "
-"``Sphericity Corrections`` unter den Optionen „Assumption Checks“ angegeben "
-"werden, und die korrigierten *F*-Werte werden dann in der Ergebnistabelle "
-"angezeigt, wie in : numref:`fig-RManova3`."
+"Diese beiden korrigierten *F*-Werte können durch Setzen der Checkboxen für "
+"``Sphericity Corrections`` unter den Optionen ``Assumption Checks`` "
+"angegeben werden, und die korrigierten *F*-Werte werden dann in der "
+"Ergebnistabelle angezeigt, wie in : numref:`fig-RManova3`."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:171
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"

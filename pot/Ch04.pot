@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1380,8 +1380,8 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:50
 msgid ""
-"Perhaps more helpfully, you can use jamovi to calculate skewness: it’s a "
-"check box in the ``Statistics`` options under ``Exploration`` → "
+"Perhaps more helpfully, you can use jamovi to calculate skewness: set the "
+"check box ``Skewness`` in the ``Statistics`` options under ``Exploration`` → "
 "``Descriptives``. For the ``afl.margins`` variable, the skewness figure is "
 "**0.780**. If you divide the skewness estimate by the Std. error for "
 "skewness you have an indication of how skewed the data is. Especially in "
@@ -1390,10 +1390,10 @@ msgid ""
 "there is sufficient skew in the data to possibly limit its use in some "
 "statistical analyses. Though there is no clear agreement on this "
 "interpretation. That said, this does indicate that the ``afl.margins`` "
-"variable is somewhat skewed (0.780 / 0.183 = 4.262)."
+"variable is somewhat skewed (0.780 / 0.183 = 4.262).\""
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:61
+#: ../../Ch04/Ch04_Descriptives_3.rst:62
 msgid ""
 "The final measure that is sometimes referred to, though very rarely in "
 "practice, is the **kurtosis** of a data set. Put simply, kurtosis is a "
@@ -1403,11 +1403,11 @@ msgid ""
 "assessed relative to this curve."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:73
+#: ../../Ch04/Ch04_Descriptives_3.rst:74
 msgid "Illustration of kurtosis"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:73
+#: ../../Ch04/Ch04_Descriptives_3.rst:74
 msgid ""
 "An illustration of kurtosis. On the left, we have a “platykurtic” "
 "distribution (kurtosis = -.95) meaning that the distribution has “thin” or "
@@ -1418,7 +1418,7 @@ msgid ""
 "is measured with respect to a normal distribution (black line)."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:83
+#: ../../Ch04/Ch04_Descriptives_3.rst:84
 msgid ""
 "The data in the left panel of :numref:`fig-kurtosis` have a pretty flat "
 "distribution, with thin tails, so the kurtosis is negative and we call the "
@@ -1429,55 +1429,55 @@ msgid ""
 "summarised in the table below:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:91
+#: ../../Ch04/Ch04_Descriptives_3.rst:92
 msgid "informal term"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:91
+#: ../../Ch04/Ch04_Descriptives_3.rst:92
 msgid "technical name"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:91
+#: ../../Ch04/Ch04_Descriptives_3.rst:92
 msgid "kurtosis value"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:93
+#: ../../Ch04/Ch04_Descriptives_3.rst:94
 msgid "“tails to thin”"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:93
+#: ../../Ch04/Ch04_Descriptives_3.rst:94
 msgid "platykurtic"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:93
+#: ../../Ch04/Ch04_Descriptives_3.rst:94
 msgid "negative"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:95
+#: ../../Ch04/Ch04_Descriptives_3.rst:96
 msgid "“tails neither thin or fat”"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:95
+#: ../../Ch04/Ch04_Descriptives_3.rst:96
 msgid "mesokurtic"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:95
+#: ../../Ch04/Ch04_Descriptives_3.rst:96
 msgid "zero"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:97
+#: ../../Ch04/Ch04_Descriptives_3.rst:98
 msgid "“tails too fat”"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:97
+#: ../../Ch04/Ch04_Descriptives_3.rst:98
 msgid "leptokurtic"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:97
+#: ../../Ch04/Ch04_Descriptives_3.rst:98
 msgid "positive"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:100
+#: ../../Ch04/Ch04_Descriptives_3.rst:101
 msgid ""
 "The equation for kurtosis is pretty similar in spirit to the formulas we’ve "
 "seen already for the variance and the skewness. Except that where the "
@@ -1486,7 +1486,7 @@ msgid ""
 "\\ [#]_"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:106
+#: ../../Ch04/Ch04_Descriptives_3.rst:107
 msgid ""
 "\\mbox{kurtosis}(X) = \\frac{1}{N \\hat\\sigma^4} \\sum_{i=1}^N \\left( X_i "
 "- \\bar{X} \\right)^4  - 3\n"
@@ -1496,19 +1496,19 @@ msgstr ""
 "- \\bar{X} \\right)^4  - 3\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:108
+#: ../../Ch04/Ch04_Descriptives_3.rst:109
 msgid "I know, it’s not terribly interesting to me either."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:110
+#: ../../Ch04/Ch04_Descriptives_3.rst:111
 msgid ""
-"More to the point, jamovi has a check box for kurtosis just below the check "
-"box for skewness, and this gives a value for kurtosis of **0.101** with a "
-"standard error of **0.364**. This means that the ``afl.margins`` variable "
-"has only a small kurtosis, which is ok."
+"More to the point, jamovi has a check box for ``Kurtosis`` just below the "
+"check box for ``Skewness``, and this gives a value for kurtosis of **0.101** "
+"with a standard error of **0.364**. This means that the ``afl.margins`` "
+"variable has only a small kurtosis, which is ok."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:118
+#: ../../Ch04/Ch04_Descriptives_3.rst:119
 msgid ""
 "The “-3” part is something that statisticians tack on to ensure that the "
 "normal curve has kurtosis zero. It looks a bit stupid, just sticking a “-3” "
@@ -1558,10 +1558,10 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_4.rst:36
 msgid ""
 "We can also go ahead and look at some other descriptive statistics, and this "
-"time separately for each type of therapy. In jamovi, check Std. deviation, "
-"Skewness and Kurtosis in the ``Statistics`` options. At the same time, "
-"transfer the ``therapy`` variable into the ``Split by`` box, and you should "
-"get something like :numref:`fig-clinicaltrial_grouping`."
+"time separately for each type of therapy. In jamovi, check ``Std. "
+"deviation``, ``Skewness`` and ``Kurtosis`` in the ``Statistics`` options. At "
+"the same time, transfer the ``therapy`` variable into the ``Split by`` box, "
+"and you should get something like :numref:`fig-clinicaltrial_grouping`."
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_4.rst:48

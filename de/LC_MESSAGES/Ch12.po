@@ -18,6 +18,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -134,6 +141,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1147,8 +1165,8 @@ msgstr ""
 "Was wir soeben neu erfunden haben, ist **Spearmans Rangfolgekorrelation**, "
 "die üblicherweise als ρ bezeichnet wird, um sie von der Pearson-Korrelation "
 "*r* zu unterscheiden. Wir können Spearmans ρ mit jamovi berechnen, indem wir "
-"einfach auf das Kontrollkästchen ``Spearman`` innerhalb der Optionen von "
-"``Correlation Matrix`` klicken."
+"einfach die Checkbox ``Spearman`` innerhalb der Optionen von ``Correlation "
+"Matrix`` aktivieren."
 
 #: ../../Ch12/Ch12_Regression_01.rst:401
 msgid ""
@@ -3054,7 +3072,7 @@ msgid ""
 "met, but first let’s have a look at each of them."
 msgstr ""
 "Das lineare Regressionsmodell, das ich besprochen habe, beruht auf mehreren "
-"Voraussetzungen. Im Abschnitt :doc:`Modellüberprüfung <../Ch12/"
+"Voraussetzungen. Im Abschnitt :doc:`Modellprüfung <../Ch12/"
 "Ch12_Regression_11>` werden wir mehr darüber sprechen, wie überprüft werden "
 "kann, ob diese Voraussetzungen erfüllt sind, aber lassen Sie uns zuerst "
 "einen Blick auf die einzelnen Voraussetzungen werfen."
@@ -3123,7 +3141,7 @@ msgstr ""
 "korrelieren. Dies ist „technisch“ keine Annahme des Regressionsmodells, aber "
 "in der Praxis ist es erforderlich. Prädiktoren, die stark miteinander "
 "korreliert sind (die wird als „Kollinearität“ bezeichnet), können Probleme "
-"beim Überprüfen des Modells verursachen (vgl. Abschnitt :doc:`Prüfung auf "
+"beim Überprüfen des Modells verursachen (vgl. Abschnitt :doc:`Prüfen auf "
 "Kollinearität <.. /Ch12/Ch12_Regression_11>`\\)."
 
 #: ../../Ch12/Ch12_Regression_10.rst:40
@@ -3539,7 +3557,7 @@ msgid ""
 "ends up going."
 msgstr ""
 "Die zweite Möglichkeit, wie eine Beobachtung ungewöhnlich sein kann, ist, "
-"wenn sie eine hohe ** Hebelwirkung ** hat. Das passiert, wenn sich die "
+"wenn sie eine hohe **Hebelwirkung** hat. Das passiert, wenn sich die "
 "Beobachtung stark von allen anderen Beobachtungen unterscheidet. Dies muss "
 "nicht unbedingt einem großen Residuum entsprechen. Wenn die Beobachtung bei "
 "allen Variablen auf genau die gleiche Weise ungewöhnlich ist, kann sie "
@@ -3791,11 +3809,12 @@ msgstr ""
 "Wenn die Diagramme Grund zur Bekümmerung geben, dann besteht eine mögliche "
 "Lösung für dieses Problem (und viele andere) darin, eine oder mehrere der "
 "Variablen zu transformieren. Wir haben die Grundlagen der "
-"Variablentransformation in den Abschnitten :doc:`Variablen transformieren "
-"oder umkodieren <../Ch06/Ch06_DataHandling_3>` und :doc:`Mathematische "
-"Funktionen und Operationen <../Ch06/Ch06_DataHandling_4>` besprochen. Ich "
-"möchte aber hier besonders auf eine zusätzliche Möglichkeit hinweisen, die "
-"ich zuvor nicht vollständig erklärt habe: die Box-Cox-Transformation."
+"Variablentransformation in den Abschnitten :doc:`Transformieren und "
+"Umkodieren von Variablen <../Ch06/Ch06_DataHandling_3>` und :doc:"
+"`Mathematische Funktionen und Operationen <../Ch06/Ch06_DataHandling_4>` "
+"besprochen. Ich möchte aber hier besonders auf eine zusätzliche Möglichkeit "
+"hinweisen, die ich zuvor nicht vollständig erklärt habe: die Box-Cox-"
+"Transformation."
 
 #: ../../Ch12/Ch12_Regression_11.rst:321
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
@@ -4319,7 +4338,7 @@ msgstr ""
 "dass der Tag, an dem wir die Messung durchgeführt haben, keinen Einfluss auf "
 "die Beziehung hat. Das heißt, wir interessieren uns für die Beziehung "
 "zwischen ``baby.sleep`` und ``dani.grump``, und aus dieser Perspektive sind "
-"``dani.sleep`` und ``day`` störende Variablen oder ** Kovariaten**, für die "
+"``dani.sleep`` und ``day`` störende Variablen oder **Kovariaten**, für die "
 "wir kontrollieren möchten. In dieser Situation möchten wir wissen, ob ``dani."
 "grump ~ dani.sleep + day + baby.sleep`` (das ich Modell 2 oder ``M2`` nenne) "
 "ein besseres Regressionsmodell ist für diese Daten als ``dani.grump ~ dani."

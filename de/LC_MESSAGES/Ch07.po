@@ -5,85 +5,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
@@ -95,106 +18,20 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-15 08:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:26+0100\n"
-"PO-Revision-Date: 2022-12-11 19:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/"
 ">\n"
@@ -983,7 +820,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:156
 msgid "The Bayesian view"
-msgstr "Die Bayes'sche Sichtweise"
+msgstr "Die Bayessche Sichtweise"
 
 #: ../../Ch07/Ch07_Probability_2.rst:158
 msgid ""
@@ -997,12 +834,12 @@ msgid ""
 "that perspective, probabilities don’t exist in the world but rather in the "
 "thoughts and assumptions of people and other intelligent beings."
 msgstr ""
-"Die **Bayes'sche Sichtweise** der Wahrscheinlichkeit wird oft als "
+"Die **Bayessche Sichtweise** der Wahrscheinlichkeit wird oft als "
 "subjektivistische Sichtweise bezeichnet, und obwohl ihre Anhänger innerhalb "
 "der Statistiker immer noch in der Minderzahl sind, hat sie in den letzten "
 "Jahrzehnten stetig an Bedeutung gewonnen. Es gibt viele Ausprägungen der "
-"**Bayes'schen Sichtweise**, so dass es schwierig ist, genau zu sagen, was "
-"„die“ Bayes'sche Sichtweise ist. Die gängigste Art, über subjektive "
+"**Bayesschen Sichtweise**, so dass es schwierig ist, genau zu sagen, was "
+"„die“ Bayessche Sichtweise ist. Die gängigste Art, über subjektive "
 "Wahrscheinlichkeit nachzudenken, besteht darin, die Wahrscheinlichkeit eines "
 "Ereignisses als den **Grad des Glaubens** zu definieren, den ein "
 "intelligenter und rationaler Akteur der Wahrheit dieses Ereignisses "
@@ -1059,7 +896,7 @@ msgid ""
 "probabilities to), the Bayesian view is sometimes thought to be too broad "
 "(allows too many differences between observers)."
 msgstr ""
-"Was sind die Vor- und Nachteile der Bayes'schen Sichtweise? Der Hauptvorteil "
+"Was sind die Vor- und Nachteile der Bayesschen Sichtweise? Der Hauptvorteil "
 "besteht darin, dass man jedem beliebigen Ereignis Wahrscheinlichkeiten "
 "zuordnen kann. Man muss sich nicht auf die Ereignisse beschränken, die "
 "wiederholbar sind. Der größte Nachteil (für viele Menschen) ist, dass wir "
@@ -1068,19 +905,19 @@ msgstr ""
 "hat. Dieses Wesen kann ein Mensch, ein Außerirdischer, ein Roboter oder "
 "sogar ein Statistiker sein. Aber es muss ein intelligentes Wesen da draußen "
 "geben, das an Dinge glaubt. Viele Menschen empfinden dies als unangenehm, da "
-"es die Wahrscheinlichkeit als willkürlich erscheinen lässt. Die Bayes'sche "
+"es die Wahrscheinlichkeit als willkürlich erscheinen lässt. Die Bayessche "
 "Sichtweise setzt zwar voraus, dass der betreffende Akteur rational ist (d. "
 "h. den Regeln der Wahrscheinlichkeit gehorcht), aber er erlaubt es jedem, "
 "seine eigenen Überzeugungen zu haben. Ich kann glauben, dass die Münze "
 "„normal“ ist, Sie müssen es nicht, obwohl wir beide rational sind. Die "
 "frequentistische Sichtweise lässt es nicht zu, dass zwei Beobachter "
 "demselben Ereignis unterschiedliche Wahrscheinlichkeiten zuschreiben. Wenn "
-"das passiert, muss mindestens einer von ihnen falsch liegen. Die Bayes'sche "
+"das passiert, muss mindestens einer von ihnen falsch liegen. Die Bayessche "
 "Sichtweise verhindert dies nicht. Zwei Beobachter mit unterschiedlichem "
 "Hintergrundwissen können legitimerweise unterschiedliche Überzeugungen über "
 "ein und dasselbe Ereignis haben. Kurz gesagt, während die frequentistische "
 "Sichtweise manchmal als zu eng angesehen wird (sie verbietet viele Dinge, "
-"denen wir Wahrscheinlichkeiten zuordnen wollen), wird die Bayes'sche "
+"denen wir Wahrscheinlichkeiten zuordnen wollen), wird die Bayessche "
 "Sichtweise manchmal als zu breit angesehen (sie erlaubt zu viele "
 "Unterschiede zwischen Beobachtern)."
 
@@ -1131,7 +968,7 @@ msgstr ""
 "eines rationalen Akteurs definieren. Wenn man ins Detail geht, stimmen "
 "Bayesianer und Frequentisten sogar in vielen Dingen überein. Viele "
 "frequentistische Methoden führen zu Entscheidungen, die nach Ansicht der "
-"Bayesianer auch ein rationaler Akteur treffen würde. Und viele Bayes'sche "
+"Bayesianer auch ein rationaler Akteur treffen würde. Und viele Bayessche "
 "Methoden haben sehr gute frequentistische Eigenschaften."
 
 #: ../../Ch07/Ch07_Probability_2.rst:226
@@ -1155,11 +992,11 @@ msgstr ""
 "In den meisten Fällen bin ich pragmatisch und verwende daher jede "
 "statistische Methode, der ich vertraue. Wie sich herausstellt, bevorzuge ich "
 "deshalb aus Gründen, die ich gegen Ende des Buches erläutern werde, "
-"Bayes'sche Methoden. Aber ich bin nicht grundsätzlich gegen frequentistische "
+"Bayessche Methoden. Aber ich bin nicht grundsätzlich gegen frequentistische "
 "Methoden. Nicht jeder ist ganz so entspannt. Denken Sie zum Beispiel an Sir "
 "Ronald Fisher, eine der herausragenden Persönlichkeiten der Statistik und "
-"ein vehementer Gegner aller Bayes'schen Methoden: Er bezeichnet in seiner "
-"Abhandlung über die mathematischen Grundlagen der Statistik die Bayes'sche "
+"ein vehementer Gegner aller Bayesschen Methoden: Er bezeichnet in seiner "
+"Abhandlung über die mathematischen Grundlagen der Statistik die Bayessche "
 "Wahrscheinlichkeit als „einen undurchdringlichen Dschungel, der den "
 "Fortschritt in Richtung Präzision der statistischen Konzepte "
 "aufhält“ (`Fisher, 1922b <../Other/References.html#fisher-1922b>`__\\ ). "
@@ -1186,19 +1023,19 @@ msgid ""
 "point of view, and I’ll revisit the topic in more depth in chapter :doc:"
 "`Bayesian statistics <../Ch16/Ch16_Bayes>`."
 msgstr ""
-"Ich persönlich bevorzuge zwar die Bayes'sche Sichtweise, doch die meisten "
+"Ich persönlich bevorzuge zwar die Bayessche Sichtweise, doch die meisten "
 "statistischen Analysen basieren auf der frequentistischen Sichtweise. Meine "
 "Überlegungen sind pragmatisch. Das Ziel dieses Buches ist es, in etwa das "
 "gleiche Gebiet abzudecken wie ein typischer Statistikkurs im Grundstudium "
 "der Psychologie. Wenn Sie die statistischen Werkzeuge verstehen wollen, die "
 "von den meisten Psychologen verwendet werden, brauchen Sie ein gutes "
 "Verständnis der frequentistischen Methoden. Ich verspreche Ihnen, dass dies "
-"keine vergebliche Mühe ist. Selbst wenn Sie am Ende zur Bayes'schen "
+"keine vergebliche Mühe ist. Selbst wenn Sie am Ende zur Bayesschen "
 "Sichtweise wechseln wollen, sollten Sie zumindest ein Buch über die "
 "„orthodoxe“ frequentistische Sichtweise lesen. Außerdem werde ich die "
-"Bayes'sche Sichtweise nicht völlig ignorieren. Von Zeit zu Zeit werde ich "
-"einige Kommentare aus Bayes'scher Sicht hinzufügen, und ich werde das Thema "
-"in Kapitel :doc:`Bayes'sche Statistik <../Ch16/Ch16_Bayes>` noch einmal "
+"Bayessche Sichtweise nicht völlig ignorieren. Von Zeit zu Zeit werde ich "
+"einige Kommentare aus Bayesscher Sicht hinzufügen, und ich werde das Thema "
+"in Kapitel :doc:`Bayessche Statistik <../Ch16/Ch16_Bayes>` noch einmal "
 "vertiefen."
 
 #: ../../Ch07/Ch07_Probability_2.rst:258
@@ -2546,7 +2383,7 @@ msgid ""
 ":doc:`Frequentist versus Bayesian views of probability <../Ch07/"
 "Ch07_Probability_2>`"
 msgstr ""
-":doc:`Frequentistische vs. Bayes'sche Sichtweise der Wahrscheinlichkeit <../"
+":doc:`Frequentistische vs. Bayessche Sichtweise der Wahrscheinlichkeit <../"
 "Ch07/Ch07_Probability_2>`"
 
 #: ../../Ch07/Ch07_Probability_7.rst:18
@@ -2627,7 +2464,7 @@ msgstr ""
 "„vergessen“, die Grundlagen des Fachs erneut zu behandeln. Die meisten "
 "akademischen Psychologen kennen den Unterschied zwischen Wahrscheinlichkeit "
 "und Dichte nicht, und bis vor kurzem kannten nur sehr wenige den Unterschied "
-"zwischen Bayes'scher und frequentistischer Statistik. Ich denke jedoch, dass "
+"zwischen Bayesscher und frequentistischer Statistik. Ich denke jedoch, dass "
 "es wichtig ist, diese Dinge zu verstehen, bevor man sich mit den Anwendungen "
 "befasst. Es gibt zum Beispiel eine Menge Regeln darüber, was man bei "
 "statistischen Schlussfolgerungen sagen „darf“. Viele davon können "

@@ -5,169 +5,12 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 #, fuzzy
 msgid ""
@@ -175,261 +18,19 @@ msgstr ""
 "#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-15 08:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:56+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 20:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 19:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 19:36+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:26+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 18:00+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 17:50+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 16:54+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 16:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 15:44+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 15:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 15:09+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-11 13:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -802,7 +403,7 @@ msgid ""
 "over time."
 msgstr ""
 "**Ereigniszeitanalyse** (*survival analysis*). In Kapitel :doc:`Eine kurze "
-"Einführung in das Forschungsdesign <../Ch02/Ch02_StudyDesign>` habe ich über "
+"Einführung in Forschungsdesigns <../Ch02/Ch02_StudyDesign>` habe ich über "
 "die „differentielle Attrition“ gesprochen, die Tendenz der Teilnehmer, die "
 "Studie auf nicht-zufällige Weise zu verlassen. Damals ging es um ein "
 "mögliches methodisches Problem, aber es gibt viele Situationen, in denen "
@@ -1059,7 +660,7 @@ msgstr ""
 "Inferenzstatistik konzentriert. In Kapitel :doc:`Schätzen unbekannter Größen "
 "anhand einer Stichprobe <../Ch08/Ch08_Estimation>` habe ich ein wenig über "
 "die Idee von unverzerrten Schätzern, Stichprobenverteilungen und so weiter "
-"gesprochen. In Kapitel :doc:`Hypothesentestung <../Ch09/"
+"gesprochen. In Kapitel :doc:`Das Überprüfen von Hypothesen <../Ch09/"
 "Ch09_HypothesisTesting>` habe ich über die Theorie der Nullhypothesen-"
 "Signifikanztests und *p*-Werte gesprochen (frequentistische Statistik). "
 "Diese Ideen gibt es seit dem frühen 20. Jahrhundert, und die Werkzeuge, über "
@@ -1071,8 +672,8 @@ msgstr ""
 "und obwohl jeder sie wegen ihrer praktischen Bedeutung kennen sollte, "
 "stellen diese Ideen in vielerlei Hinsicht keine optimale Praxis für die "
 "heutige Datenanalyse dar. Ich bin besonders froh darüber, dass es mir "
-"gelungen ist, ein wenig darüber hinauszugehen. Das Kapitel :doc:`Bayes'sche "
-"Statistik <../Ch16/Ch16_Bayes>` stellt nun die Bayes'sche Perspektive in "
+"gelungen ist, ein wenig darüber hinauszugehen. Das Kapitel :doc:`Bayessche "
+"Statistik <../Ch16/Ch16_Bayes>` stellt nun die Bayessche Perspektive in "
 "angemessener Ausführlichkeit dar, aber das Buch insgesamt ist immer noch "
 "ziemlich stark auf die frequentistische Orthodoxie ausgerichtet. Darüber "
 "hinaus gibt es eine Reihe von anderen Ansätzen zur Inferenz, die "
@@ -1119,10 +720,10 @@ msgstr ""
 "vorstelle, neige ich dazu, einfach Behauptungen aufzustellen wie „die "
 "Stichprobenverteilung für BLAH ist eine *t*-Verteilung\" oder etwas "
 "Ähnliches. In einigen Fällen habe ich sogar versucht, diese Behauptung zu "
-"rechtfertigen. Als ich zum Beispiel in Kapitel :doc:`Kategoriale "
-"Datenanalyse <../Ch10/Ch10_ChiSquare>` über χ²-Tests sprach, verwies ich auf "
-"die bekannte Beziehung zwischen Normalverteilungen und χ²-Verteilungen "
-"(siehe Kapitel :doc:`Einführung in die Wahrscheinlichkeitsrechnung <../Ch07/"
+"rechtfertigen. Als ich zum Beispiel in Kapitel :doc:`Analyse kategorialer "
+"Daten <../Ch10/Ch10_ChiSquare>` über χ²-Tests sprach, verwies ich auf die "
+"bekannte Beziehung zwischen Normalverteilungen und χ²-Verteilungen (siehe "
+"Kapitel :doc:`Einführung in die Wahrscheinlichkeitsrechnung <../Ch07/"
 "Ch07_Probability>`), um zu erklären, wie wir zu der Annahme kommen, dass die "
 "Stichprobenverteilung der Anpassungsgüte-Statistik χ² ist. Es ist jedoch "
 "auch so, dass viele dieser Stichprobenverteilungen, nun ja, falsch sind. Der "
@@ -1400,9 +1001,9 @@ msgid ""
 "pretty cautious, because luck seems to have played a big part in your "
 "results, one way or the other!"
 msgstr ""
-"**Stärkeberechnungen** (*power analysis*). In Kapitel :doc:"
-"`Hypothesentestung <../Ch09/Ch09_HypothesisTesting>` habe ich das Konzept "
-"der Teststärke (*power*) erörtert (d. h. wie wahrscheinlich ist es, dass Sie "
+"**Stärkeberechnungen** (*power analysis*). In Kapitel :doc:`Das Überprüfen "
+"von Hypothesen <../Ch09/Ch09_HypothesisTesting>` habe ich das Konzept der "
+"Teststärke (*power*) erörtert (d. h. wie wahrscheinlich ist es, dass Sie "
 "einen Effekt nachweisen können, wenn er tatsächlich existiert) und auf "
 "Stärkeberechnungen verwiesen: eine Sammlung von Instrumenten, die nützlich "
 "sind, um zu beurteilen, wie viel Aussagekraft Ihre Studie hat. "
@@ -1522,7 +1123,7 @@ msgstr ""
 "anfängt zu vermuten, dass die Hälfte der Dinge, die man gelernt hat, falsch "
 "ist. So gibt es zum Beispiel viele Fachleute, die sich gegen die Verwendung "
 "der klassischen Varianzanalyse aussprechen, doch ich habe ihm zwei ganze "
-"Kapitel gewidmet! Die Standard-Varianzanalyse kann aus einer Bayes'schen "
+"Kapitel gewidmet! Die Standard-Varianzanalyse kann aus einer Bayesschen "
 "Perspektive oder aus einer Perspektive der robusten Statistik angegriffen "
 "werden, oder sogar aus einer Perspektive, die besagt, dass sie schlichtweg "
 "falsch ist (die Leute verwenden sehr häufig Varianzanalyse, obwohl sie "
@@ -1611,7 +1212,7 @@ msgstr ""
 "fortgeschrittenen Werkzeuge nutzen können. Und hier zahlt sich, zumindest "
 "meiner Meinung nach, all die zusätzliche Zeit aus, die ich in die Grundlagen "
 "investiert habe. Wenn Sie die Wahrscheinlichkeitstheorie verstehen, wird es "
-"Ihnen viel leichter fallen, von frequentistischen Analysen zu Bayes'schen "
+"Ihnen viel leichter fallen, von frequentistischen Analysen zu Bayesschen "
 "Analysen zu wechseln."
 
 #: ../../Ch17/Ch17_Epilogue_5.rst:56

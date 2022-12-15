@@ -123,6 +123,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
@@ -137,6 +144,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -2590,7 +2608,7 @@ msgstr ""
 "ist, dass der Stichprobenmittelwert der beste Schätzwert für den Mittelwert "
 "der Grundgesamtheit ist.\\ [#]_ Die Darstellung auf der rechten Seite ist "
 "ganz anders: Im Durchschnitt ist die Standardabweichung der Stichprobe *s* "
-"kleiner ** als die Standardabweichung der Grundgesamtheit σ. Es handelt sich "
+"*kleiner* als die Standardabweichung der Grundgesamtheit σ. Es handelt sich "
 "um einen **verzerrten Schätzer**. Mit anderen Worten, wenn wir eine „beste "
 "Schätzung“ :math:`\\hat\\sigma` über den Wert der Standardabweichung der "
 "Grundgesamtheit σ vornehmen wollen, sollten wir sicherstellen, dass unsere "
@@ -3185,12 +3203,12 @@ msgstr ""
 "ist das völlig in Ordnung, aber wenn Sie sich an :doc:`Was bedeutet "
 "Wahrscheinlichkeit? <../Ch07/Ch07_Probability_2>` zurückerinnern, werden Sie "
 "feststellen, dass das Reden über persönliche Überzeugungen und Vertrauen "
-"eine Bayes'sche Idee ist. Konfidenzintervalle sind jedoch *keine* "
-"Bayes'schen Werkzeuge. Wie alles andere in diesem Kapitel sind "
-"Konfidenzintervalle *frequentistische* Werkzeuge, und wenn Sie "
-"frequentistische Methoden verwenden, ist es nicht angebracht, dafür eine "
-"Bayes'sche Interpretation zu verwenden. Wenn Sie frequentistische Methoden "
-"verwenden, müssen Sie auch frequentistische Interpretationen verwenden!"
+"eine Bayessche Idee ist. Konfidenzintervalle sind jedoch *keine* Bayesschen "
+"Werkzeuge. Wie alles andere in diesem Kapitel sind Konfidenzintervalle "
+"*frequentistische* Werkzeuge, und wenn Sie frequentistische Methoden "
+"verwenden, ist es nicht angebracht, dafür eine Bayessche Interpretation zu "
+"verwenden. Wenn Sie frequentistische Methoden verwenden, müssen Sie auch "
+"frequentistische Interpretationen verwenden!"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:121
 #, python-format
@@ -3268,7 +3286,7 @@ msgid ""
 "that the *true population mean* (not a repeatable event) falls within the "
 "confidence interval."
 msgstr ""
-"Der entscheidende Unterschied besteht darin, dass die Bayes'sche Behauptung "
+"Der entscheidende Unterschied besteht darin, dass die Bayessche Behauptung "
 "eine Wahrscheinlichkeitsaussage über den Mittelwert der Population macht (d. "
 "h., sie bezieht sich auf unsere Unsicherheit über den Mittelwert der "
 "Population). Dies ist nach der frequentistischen Interpretation der "
@@ -3294,12 +3312,12 @@ msgid ""
 msgstr ""
 "Ich weiß, dass dies ein wenig pedantisch erscheint, aber es ist wichtig. Es "
 "ist wichtig, weil der Unterschied in der Interpretation zu einem Unterschied "
-"in der Mathematik führt. Es gibt eine Bayes'sche Alternative zu "
+"in der Mathematik führt. Es gibt eine Bayessche Alternative zu "
 "Konfidenzintervallen, die als *glaubwürdige Intervalle* (*credible "
 "intervals*) bezeichnet wird. In den meisten Situationen sind glaubwürdige "
 "Intervalle den Konfidenzintervallen recht ähnlich, aber in anderen Fällen "
 "unterscheiden sie sich drastisch. Wie versprochen, werde ich im Kapitel :doc:"
-"`Bayes'sche Statistik <../Ch16/Ch16_Bayes>` mehr über die Bayes'sche "
+"`Bayessche Statistik <../Ch16/Ch16_Bayes>` mehr über die Bayessche "
 "Perspektive erzählen."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:172
@@ -3314,8 +3332,8 @@ msgid ""
 msgstr ""
 "jamovi bietet eine einfache Möglichkeit zur Berechnung von "
 "Konfidenzintervallen für den Mittelwert als Teil der Funktionalität von "
-"``Descriptives``. Setzen Sie dort einfach das Kontrollkästchen ``Confidence "
-"interval for Mean``."
+"``Descriptives``. Setzen Sie dort einfach die Checkbox ``Confidence interval "
+"for Mean``."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:178
 #, python-format

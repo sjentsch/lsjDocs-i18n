@@ -124,6 +124,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -134,6 +141,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -515,8 +533,9 @@ msgstr ""
 "ist! Eine Aufgabe, die ich mit diesen Daten zu erledigen habe, könnte zum "
 "Beispiel sein, eine Liste mit der Anzahl der Wörter, die jeder Charakter "
 "während der Serie spricht, zu erstellen. Das jamovi-Eingabefeld "
-"``Descriptives`` hat ein Kontrollkästchen namens ``Frequency tables``, was "
-"Folgendes tut, wenn man es anklickt (siehe :numref:`fig-freqtable`):"
+"``Descriptives`` hat eine Checkbox namens ``Frequency tables``, welche die "
+"folgende Ausgabe erstellt, wenn man sie aktiviert (siehe :numref:`fig-"
+"freqtable`):"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
@@ -548,17 +567,16 @@ msgid ""
 "into the ``Columns`` box. You then should have a contingency table like the "
 "one shown in :numref:`fig-contingencytable`."
 msgstr ""
-"Wird das Kontrollkästchen ``Frequency tables`` in jamovi ausgewählt, wird "
-"jeweils eine Tabelle für jede einzelne Variablen erstellt. Für eine Tabelle, "
-"welche die Kombination zweier Variablen darstellt, zum Beispiel die "
-"Kombination von ``speaker`` und ``utterance``, brauchen wir eine "
-"Kreuztabelle. In dieser Kreuztabelle ist zu sehen, wie oft jeder Sprecher "
-"eine bestimmte Äußerung gemacht hat. In jamovi können Sie dies tun, indem "
-"Sie die Analyse ``Frequencies`` → ``Contingency Tables`` → ``Independent "
-"Samples`` auswählen und die Variable ``speaker`` in das Feld ``Rows`` und "
-"die Variable ``utterance`` in das Feld ``Columns`` verschieben. Sie sollten "
-"dann eine Kreuztabelle wie die in :numref:`fig-contingencytable` gezeigte "
-"erhalten."
+"Wird die Checkbox ``Frequency tables`` in jamovi aktiviert, wird jeweils "
+"eine Tabelle für jede einzelne Variablen erstellt. Für eine Tabelle, welche "
+"die Kombination zweier Variablen darstellt, zum Beispiel die Kombination von "
+"``speaker`` und ``utterance``, brauchen wir eine Kreuztabelle. In dieser "
+"Kreuztabelle ist zu sehen, wie oft jeder Sprecher eine bestimmte Äußerung "
+"gemacht hat. In jamovi können Sie dies tun, indem Sie die Analyse "
+"``Frequencies`` → ``Contingency Tables`` → ``Independent Samples`` auswählen "
+"und die Variable ``speaker`` in das Feld ``Rows`` und die Variable "
+"``utterance`` in das Feld ``Columns`` verschieben. Sie sollten dann eine "
+"Kreuztabelle wie die in :numref:`fig-contingencytable` gezeigte erhalten."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for ``speaker`` and ``utterance``"
@@ -605,11 +623,11 @@ msgstr ""
 "Fälle für die jeweiligen Kombinationen der verschiedenen Ausprägungen "
 "(Level) der angegebenen Variablen. Häufig möchten Sie Ihre Daten jedoch "
 "nicht nur in Form von Häufigkeiten, sondern auch in Form von Prozentanteilen "
-"(relative Häufigkeiten) aufbereiten. Sie finden die Kontrollkästchen für die "
+"(relative Häufigkeiten) aufbereiten. Sie finden die Checkboxen für die "
 "verschiedenen Prozentangaben unter der Option ``Cells`` im Fenster "
-"``Contingency Tables``. Klicken Sie zunächst auf das Kontrollkästchen "
-"``Rows`` und die Kreuztabelle im Ausgabefenster wird so verändert, so dass "
-"sie der Tabelle in der Abbildung :numref:`fig-contingencyrow` ähnelt."
+"``Contingency Tables``. Klicken Sie zunächst auf die Checkbox ``Rows`` und "
+"die Kreuztabelle im Ausgabefenster wird so verändert, so dass sie der "
+"Tabelle in der Abbildung :numref:`fig-contingencyrow` ähnelt."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:100
 msgid ""

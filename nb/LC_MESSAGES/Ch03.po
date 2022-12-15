@@ -137,6 +137,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -159,6 +166,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -390,7 +408,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.11.0\n"
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:5
+#: ../../Ch03/Ch03_jamoviIntro.rst:4 ../../Ch03/Ch03_jamoviIntro.rst:5
 msgid "Getting started with jamovi"
 msgstr ""
 
@@ -398,11 +416,11 @@ msgstr ""
 msgid "*Robots are nice to work with.*"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:24
+#: ../../Ch03/Ch03_jamoviIntro.rst:23 ../../Ch03/Ch03_jamoviIntro.rst:24
 msgid "Roger Zelazny (Dismal Light, 1968)"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:23
+#: ../../Ch03/Ch03_jamoviIntro.rst:22 ../../Ch03/Ch03_jamoviIntro.rst:23
 msgid ""
 "In this chapter I’ll discuss how to get started in jamovi. I’ll briefly talk "
 "about how to download and install jamovi, but most of the chapter will be "
@@ -414,7 +432,7 @@ msgid ""
 "it’s like to work in jamovi."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:32
+#: ../../Ch03/Ch03_jamoviIntro.rst:31 ../../Ch03/Ch03_jamoviIntro.rst:32
 msgid ""
 "However, before going into any of the specifics, it’s worth talking a little "
 "about why you might want to use jamovi at all. Given that you’re reading "
@@ -425,7 +443,7 @@ msgid ""
 "about why I use it."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:40
+#: ../../Ch03/Ch03_jamoviIntro.rst:39 ../../Ch03/Ch03_jamoviIntro.rst:40
 msgid ""
 "It’s sort of obvious but worth saying anyway: doing your statistics on a "
 "computer is faster, easier and more powerful than doing statistics by hand. "
@@ -438,7 +456,7 @@ msgid ""
 "it’s worth doing it once. But only once!"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:51
+#: ../../Ch03/Ch03_jamoviIntro.rst:50 ../../Ch03/Ch03_jamoviIntro.rst:51
 msgid ""
 "Doing statistics in a conventional spreadsheet (e.g., Microsoft Excel) is "
 "generally a bad idea in the long run. Although many people likely feel more "
@@ -448,7 +466,7 @@ msgid ""
 "hole."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:58
+#: ../../Ch03/Ch03_jamoviIntro.rst:57 ../../Ch03/Ch03_jamoviIntro.rst:58
 msgid ""
 "Avoiding proprietary software is a very good idea. There are a lot of "
 "commercial packages out there that you can buy, some of which I like and "
@@ -466,7 +484,7 @@ msgid ""
 "free you never get trapped having to pay exorbitant licensing fees."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:75
+#: ../../Ch03/Ch03_jamoviIntro.rst:74 ../../Ch03/Ch03_jamoviIntro.rst:75
 msgid ""
 "Something that you might not appreciate now, but will love later on if you "
 "do anything involving data analysis, is the fact that jamovi is basically a "
@@ -479,7 +497,7 @@ msgid ""
 "look at recent advanced data analysis textbooks then a *lot* of them use R."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:86
+#: ../../Ch03/Ch03_jamoviIntro.rst:85 ../../Ch03/Ch03_jamoviIntro.rst:86
 msgid ""
 "Those are the main reasons I use jamovi. It’s not without its flaws, though. "
 "It’s relatively new\\ [#]_ so there is not a huge set of textbooks and other "
@@ -488,7 +506,7 @@ msgid ""
 "weakness; more so than any other option I’ve encountered so far."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:96
+#: ../../Ch03/Ch03_jamoviIntro.rst:95 ../../Ch03/Ch03_jamoviIntro.rst:96
 msgid "As of writing this in August 2018."
 msgstr ""
 

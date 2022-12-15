@@ -159,6 +159,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -169,6 +176,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -479,7 +497,7 @@ msgstr ""
 "Nullhypothesen-Tests. Nach einer Einführung in die Theorie behandelt das "
 "Buch die Analyse von Kreuztabellen, Korrelation, t-Tests, Regression, ANOVA "
 "und die Faktorenanalyse. Am Ende des Buches gibt ein kurzes Kapitel eine "
-"Einführung in die Bayes'sche Statistik."
+"Einführung in die Bayessche Statistik."
 
 #: ../../Other/Prologue.rst:24
 msgid "Citation"
@@ -770,16 +788,16 @@ msgstr ""
 "Ein neues Jahr, ein weiteres Update. Dieses Mal konzentrierte sich die "
 "Aktualisierung fast ausschließlich auf die Theorieabschnitte des Buches. Die "
 "Kapitel 9, 10 und 11 wurden umgeschrieben, hoffentlich zum Besseren. Ebenso "
-"ist Kapitel 17 völlig neu und konzentriert sich auf die Bayes'sche "
-"Statistik. Ich denke, die Änderungen haben das Buch sehr verbessert. Ich "
-"habe mich immer eher unwohl dabei gefühlt, dass alle inferentstatistischen "
-"Verfahren in diesem Buch aus einer orthodoxen Perspektive dargestellt "
-"werden, obwohl ich in meiner eigenen Arbeit fast immer Bayes'sche "
-"Datenanalysen präsentiere. Jetzt, da ich es geschafft habe, Bayes'sche "
-"Methoden irgendwo in das Buch zu quetschen, fühle ich mich mit dem Buch "
-"insgesamt wohler. Ich wollte in diesem Update noch ein paar andere Dinge "
-"erledigen, aber wie üblich bin ich mit Terminen für Lehrveranstaltungen "
-"konfrontiert, also muss das Update so erscheinen, wie es ist!"
+"ist Kapitel 17 völlig neu und konzentriert sich auf die Bayessche Statistik. "
+"Ich denke, die Änderungen haben das Buch sehr verbessert. Ich habe mich "
+"immer eher unwohl dabei gefühlt, dass alle inferentstatistischen Verfahren "
+"in diesem Buch aus einer orthodoxen Perspektive dargestellt werden, obwohl "
+"ich in meiner eigenen Arbeit fast immer Bayessche Datenanalysen präsentiere. "
+"Jetzt, da ich es geschafft habe, Bayessche Methoden irgendwo in das Buch zu "
+"quetschen, fühle ich mich mit dem Buch insgesamt wohler. Ich wollte in "
+"diesem Update noch ein paar andere Dinge erledigen, aber wie üblich bin ich "
+"mit Terminen für Lehrveranstaltungen konfrontiert, also muss das Update so "
+"erscheinen, wie es ist!"
 
 #: ../../Other/Prologue.rst:165
 msgid "*February 16, 2015*"
@@ -1066,7 +1084,7 @@ msgstr ""
 "Wenn sie R lernen, erhalten die SchülerInnen Zugang zu CRAN, der vielleicht "
 "größten und umfangreichsten Bibliothek mit statistischen Werkzeugen, die es "
 "gibt. Und wenn sie die Wahrscheinlichkeitstheorie im Detail kennenlernen, "
-"ist es für sie einfacher, von orthodoxen Nullhypothesen-Tests zu Bayes'schen "
+"ist es für sie einfacher, von orthodoxen Nullhypothesen-Tests zu Bayesschen "
 "Methoden zu wechseln, wenn sie das möchten. Besser noch, sie lernen "
 "Datenanalysefähigkeiten, die sie zu einem Arbeitgeber mitnehmen können, ohne "
 "auf teure und proprietäre Software angewiesen zu sein."
@@ -1852,10 +1870,10 @@ msgstr ""
 "Der Teil über die statistische Theorie ist bei weitem der theoretischste. Er "
 "sich konzentriert auf die Theorie der statistischen Inferenz. In den "
 "nächsten drei Kapiteln möchte ich Ihnen eine :doc:`Einführung in die "
-"Wahrscheinlichkeitstheorie <../Ch07/Ch07_Probability>`, die "
+"Wahrscheinlichkeitsrechnung <../Ch07/Ch07_Probability>`, die "
 "Stichprobenbildung und Schätzung (Kapitel :doc:`Schätzen unbekannter Größen "
 "anhand einer Stichprobe <../Ch08/Ch08_Estimation>`) und die statistische "
-"Hypothesenprüfung (Kapitel :doc:`Hypothesenprüfung <../Ch09/"
+"Hypothesenprüfung (Kapitel :doc:`Das Überprüfen von Hypothesen <../Ch09/"
 "Ch09_HypothesisTesting>`) geben. Bevor wir jedoch loslegen, möchte ich etwas "
 "zum großen Ganzen sagen. Bei der statistischen Inferenz geht es in erster "
 "Linie darum, *aus Daten zu lernen*. Das Ziel besteht nicht mehr nur darin, "

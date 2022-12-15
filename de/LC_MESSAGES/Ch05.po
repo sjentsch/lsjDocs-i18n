@@ -159,6 +159,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -169,6 +176,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -615,24 +633,24 @@ msgstr ""
 "fortgeschrittenes Plot-Paket in R verwendet, das im Moment die Möglichkeiten "
 "von jamovi übersteigt. Aber mit jamovi kommen wir dem nahe, und das Zeichnen "
 "dieses Histogramms in jamovi ist ziemlich einfach. Öffnen Sie die Optionen "
-"``Plots`` unter ``Exploration`` → ``Descriptives`` und klicken Sie auf das "
-"Kontrollkästchen ``Histogram``, wie in :numref:`fig-jamovi_histogram` "
-"gezeigt. jamovi beschriftet die y-Achse standardmäßig mit ``desnity`` und "
-"die x-Achse mit dem Namen der Variablen. Die **bins** werden automatisch "
-"ausgewählt, und die y-Achse enthält im Gegensatz zu :numref:`fig-aflMargins` "
-"keine Skalen- oder Zählinformationen. Aber das ist nicht so wichtig, denn "
-"was uns wirklich interessiert, ist unser Eindruck von der Form der "
-"Verteilung: Ist sie normalverteilt oder gibt es eine Schiefe oder Kurtosis? "
-"Unsere ersten Eindrücke von diesen Merkmalen erhalten wir, wenn wir ein "
-"**Histogramm** zeichnen."
+"``Plots`` unter ``Exploration`` → ``Descriptives`` und setzen Sie die "
+"Checkbox ``Histogram``, wie in :numref:`fig-jamovi_histogram` gezeigt. "
+"jamovi beschriftet die y-Achse standardmäßig mit ``desnity`` und die x-Achse "
+"mit dem Namen der Variablen. Die **bins** werden automatisch ausgewählt, und "
+"die y-Achse enthält im Gegensatz zu :numref:`fig-aflMargins` keine Skalen- "
+"oder Zählinformationen. Aber das ist nicht so wichtig, denn was uns wirklich "
+"interessiert, ist unser Eindruck von der Form der Verteilung: Ist sie "
+"normalverteilt oder gibt es eine Schiefe oder Kurtosis? Unsere ersten "
+"Eindrücke von diesen Merkmalen erhalten wir, wenn wir ein **Histogramm** "
+"zeichnen."
 
 #: ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "Histogram check box in jamovi"
-msgstr "Das Histogramm-Kontrollkästchen in jamovi"
+msgstr "Die Histogramm-Checkbox in jamovi"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "jamovi screen showing the histogram check box"
-msgstr "jamovi-Benutzeroberfläche mit dem Kontrollkästchen für das Histogramm"
+msgstr "jamovi-Benutzeroberfläche mit der Checkbox für das Histogramm"
 
 #: ../../Ch05/Ch05_Graphics_1.rst:43
 msgid ""
@@ -652,8 +670,8 @@ msgid ""
 "isn’t an issue."
 msgstr ""
 "Eine weitere Funktion, die jamovi bietet, ist die Möglichkeit, ein Dichte-"
-"Diagramm zu zeichnen. Sie können dies tun, indem Sie das Kontrollkästchen "
-"``Density`` unter den Optionen ``Plots`` auf „an“ setzen (und ``Histogram`` "
+"Diagramm zu zeichnen. Sie können dies tun, indem Sie die Checkbox "
+"``Density`` unter den Optionen ``Plots`` setzen (und ``Histogram`` "
 "deaktivieren). Das Ergebnis ist das Diagramm in :numref:`fig-histogram2`. "
 "Ein Dichte-Diagramm stellt die Verteilung von Daten über ein "
 "kontinuierliches Intervall oder einen Zeitraum dar. Bei diesem Diagramm "
@@ -765,13 +783,13 @@ msgid ""
 "108 and 116, so these are the dots)."
 msgstr ""
 "Der einfachste Weg zu beschreiben, wie ein Boxplot aussieht, ist, einen zu "
-"zeichnen. Klicken Sie auf das Kontrollkästchen ``Box plot`` und Sie erhalten "
-"das Diagramm, das unten rechts in :numref:`fig-boxplot1` gezeigt wird. "
-"jamovi hat das einfachste Boxplot gezeichnet, das möglich ist. Wenn Sie "
-"dieses Diagramm betrachten, sollten Sie es folgendermaßen interpretieren: "
-"Die dicke Linie in der Mitte der Box ist der Median; die Box selbst umfasst "
-"den Bereich vom 25. Perzentil bis zum 75. Perzentil; und die „Whiskers“ "
-"reichen bis zum extremsten Datenpunkt, der eine bestimmte Grenze nicht "
+"zeichnen. Setzen Sie die Checkbox ``Box plot`` und Sie erhalten das "
+"Diagramm, das unten rechts in :numref:`fig-boxplot1` gezeigt wird. jamovi "
+"hat das einfachste Boxplot gezeichnet, das möglich ist. Wenn Sie dieses "
+"Diagramm betrachten, sollten Sie es folgendermaßen interpretieren: Die dicke "
+"Linie in der Mitte der Box ist der Median; die Box selbst umfasst den "
+"Bereich vom 25. Perzentil bis zum 75. Perzentil; und die „Whiskers“ reichen "
+"bis zum extremsten Datenpunkt, der eine bestimmte Grenze nicht "
 "überschreitet. Standardmäßig ist dieser Wert das 1,5-fache des "
 "Interquartilsabstand (IQR), berechnet als *25. Perzentil - (1,5 \\* IQR)* "
 "für die untere Grenze und *75. Perzentil \\+ (1,5 \\* IQR)* für die obere "
@@ -806,10 +824,10 @@ msgstr ""
 "der Daten zeigen. Typischerweise enthalten Violin-Plots eine Markierung für "
 "den Median der Daten und eine Box, die den Interquartilsbereich anzeigt, wie "
 "in gewöhnlichen Box-Plots. In jamovi können Sie diese Art von Funktionalität "
-"erreichen, indem Sie beide Kontrollkästchen ``Violin`` und ``Box plot`` "
+"erreichen, indem Sie die beiden Checkboxen ``Violin`` und ``Box plot`` "
 "gleichzeitig aktivieren (siehe :numref:`fig-boxplot2`). Hier ist zusätzlich "
-"das Kontrollkästchen ``Data`` aktiviert, um die tatsächlichen Datenpunkte in "
-"der Grafik anzuzeigen. Dadurch wird das Diagramm dadurch allerdings leicht "
+"die Checkbox ``Data`` aktiviert, um die tatsächlichen Datenpunkte in der "
+"Grafik anzuzeigen. Dadurch wird das Diagramm dadurch allerdings leicht "
 "unübersichtlich. Klarheit bedeutet Einfachheit, daher ist es in der Praxis "
 "vielleicht besser, nur ein einfache Box-Plots zu verwenden."
 
@@ -896,7 +914,7 @@ msgstr ""
 
 #: ../../Ch05/Ch05_Graphics_2.rst:112
 msgid "Using box plots to detect outliers"
-msgstr "Das Verwenden von Box-Plots zum Erkennen von Ausreißern"
+msgstr "Verwenden von Boxplots zum Identifizieren von Ausreißern"
 
 #: ../../Ch05/Ch05_Graphics_2.rst:114
 msgid ""
@@ -1079,8 +1097,8 @@ msgid ""
 msgstr ""
 "Wenn Sie dies getan haben, werden Sie in der Ansicht ``Data`` sehen, dass "
 "jamovi alle Werte außer den von uns angegebenen herausgefiltert hat. Weiter, "
-"öffnen Sie das Eingabemaske ``Exploration`` → ``Descriptives`` und klicken "
-"Sie auf das Kästchen ``Bar plot`` (denken Sie daran, die Variable ``afl."
+"öffnen Sie das Eingabemaske ``Exploration`` → ``Descriptives`` und setzen "
+"Sie die Checkbox ``Bar plot`` (denken Sie daran, die Variable ``afl."
 "finalists`` in das Feld ``Variables`` zu verschieben, damit jamovi weiß, "
 "welche Variable zu verwenden ist). Sie sollten dann ein Balkendiagramm "
 "erhalten, das etwa so aussieht wie :numref:`fig-bar1`."

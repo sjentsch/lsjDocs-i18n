@@ -11,6 +11,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -32,6 +39,17 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 14:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -147,7 +165,7 @@ msgstr ""
 "`*t*-Tests bei einer Stichproben<../Ch11/Ch11_tTest_02>` besprochen, gefolgt "
 "von zwei verschiedenen Varianten des *t*-Tests für unabhängige Stichproben, "
 "dem :doc:`Student-Test <../Ch11/Ch11_tTest_03>`, der voraussetzt, dass die "
-"Gruppen die gleiche Standardabweichung haben, und der :doc:`Welch-Test <../"
+"Gruppen die gleiche Standardabweichung haben, und dem :doc:`Welch-Test <../"
 "Ch11/Ch11_tTest_04>` bei dem diese Voraussetzung nicht erfüllt sein muss. "
 "Danach werden :doc:`*t*-Tests für gepaarte Stichproben <../Ch11/"
 "Ch11_tTest_05>` besprochen. Wir sprechen dann über :doc:`Einseitige Tests "
@@ -155,10 +173,10 @@ msgstr ""
 "Standardmaß für die :doc:`Effektstärke <../Ch11/Ch11_tTest_07>` für einen "
 "*t*-Test ist. Die späteren Abschnitte des Kapitels konzentrieren sich auf "
 "die Voraussetzungen, um *t*-Tests durchführen zu können, insbesondere die "
-"Annahme der :doc:`Normalverteilung <../Ch11/Ch11_tTest_08>` sowie mögliche :"
-"doc:`Abhilfemaßnahmen <../Ch11/Ch11_tTest_09>`, wenn diese Annahme verletzt "
-"ist. Bevor wir jedoch auf diese nützlichen Dinge eingehen, beginnen wir mit "
-"einer Diskussion über den *z*-Test."
+"Annahme der :doc:`Normalverteilung <../Ch11/Ch11_tTest_08>` sowie dem :doc:"
+"`Wilcoxon-Test <../Ch11/Ch11_tTest_09>` als mögliche Alternative, wenn diese "
+"Annahme verletzt ist. Bevor wir jedoch auf diese nützlichen Dinge eingehen, "
+"beginnen wir mit einer Diskussion über den *z*-Test."
 
 #: ../../Ch11/Ch11_tTest.rst:58
 msgid ""
@@ -1144,7 +1162,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:158
 msgid "Assumptions of the one sample *t*-test"
-msgstr "Voraussetzungen für den *t*-Test mit einer Stichprobe"
+msgstr "Voraussetzungen für den *t*-Test bei einer Stichprobe"
 
 #: ../../Ch11/Ch11_tTest_02.rst:160
 msgid ""
@@ -1321,10 +1339,10 @@ msgstr ""
 "``tutor``. Die Variable ``grade`` enthält die Note jedes Schülers, aber sie "
 "wird nicht mit dem richtigen Attribut für die Messungsebene in jamovi "
 "importiert, also muss ich dies ändern, damit sie als kontinuierliche "
-"Variable |continuous| betrachtet wird (siehe :doc:`Daten von einer Ebene zur "
-"anderen ändern <../Ch03/Ch03_jamoviIntro_3>`). Die Variable ``tutor`` ist "
-"ein Faktor |nominal|, der angibt, wer der Tutor des jeweiligen Schülers war: "
-"entweder Anastasia oder Bernadette."
+"Variable |continuous| betrachtet wird (siehe :doc:`Skalenniveau von Daten "
+"ändern <../Ch03/Ch03_jamoviIntro_3>`). Die Variable ``tutor`` ist ein Faktor "
+"|nominal|, der angibt, wer der Tutor des jeweiligen Schülers war: entweder "
+"Anastasia oder Bernadette."
 
 #: ../../Ch11/Ch11_tTest_03.rst:36
 msgid ""
@@ -2166,7 +2184,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:410
 msgid "Assumptions of the Student *t*-test"
-msgstr "Voraussetzungen für den Student *t*-Test"
+msgstr "Voraussetzungen für den *t*-Test nach Student"
 
 #: ../../Ch11/Ch11_tTest_03.rst:412
 msgid ""
@@ -2179,7 +2197,7 @@ msgstr ""
 "lauten diese also? Für den Student *t*-Test gibt es drei Voraussetzungen, "
 "von denen wir einige bereits im Zusammenhang mit dem *t*-Test für eine "
 "Stichprobe gesehen haben (siehe Abschnitt :doc:`Voraussetzungen für den *t*-"
-"Tests mit einer Stichprobe <../Ch11/Ch11_tTest_02>`):"
+"Tests bei einer Stichprobe <../Ch11/Ch11_tTest_02>`):"
 
 #: ../../Ch11/Ch11_tTest_03.rst:417
 msgid ""
@@ -2460,8 +2478,8 @@ msgid ""
 "If you tick the check box for the ``Welch's`` test in the analysis we did "
 "above, then this is what it gives you :numref:`fig-ttest_welch`:"
 msgstr ""
-"Wenn Sie in der obigen Analyse das Kontrollkästchen für ``Welch's`` "
-"ankreuzen, erhalten Sie folgendes Ergebnis :numref:`fig-ttest_welch`:"
+"Wenn Sie in der obigen Analyse die Checkbox für ``Welch's`` setzen, erhalten "
+"Sie folgendes Ergebnis :numref:`fig-ttest_welch`:"
 
 #: ../../Ch11/Ch11_tTest_04.rst:90
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
@@ -2548,12 +2566,13 @@ msgid ""
 "independence. The specifics of these assumptions are the same for the Welch "
 "test as for the Student test."
 msgstr ""
-"Die Annahmen des Welch-Tests sind denen des Student *t*-Tests sehr ähnlich "
-"(siehe :doc:`Annahmen des Student *t*-Tests <../Ch11/Ch11_tTest_03>`), mit "
-"der Ausnahme, dass der Welch-Test keine Varianzhomogenität voraussetzt. "
-"Damit bleibt nur noch die Annahme der Normalverteilung und die Annahme der "
-"Unabhängigkeit. Die Anforderungen in Bezug auf diese Annahmen sind für den "
-"Welch-Test die gleichen wie für den Student-Test."
+"Die Voraussetzungen für den *t*-Test nach Welch sind denen des *t*-Tests "
+"nach Student sehr ähnlich (siehe :doc:`Voraussetzungen für den *t*-Test nach "
+"Student <../Ch11/Ch11_tTest_03>`), mit der Ausnahme, dass der Welch-Test "
+"keine Varianzhomogenität voraussetzt. Damit bleibt nur noch die Annahme der "
+"Normalverteilung und die Annahme der Unabhängigkeit. Die Anforderungen in "
+"Bezug auf diese Annahmen sind für den Welch-Test die gleichen wie für den "
+"Student-Test."
 
 #: ../../Ch11/Ch11_tTest_04.rst:134
 msgid ""
@@ -2986,7 +3005,7 @@ msgid ""
 "interval scale (working memory capacity, |continuous|) rather than a binary "
 "scale variable (a yes-or-no question, |nominal|)."
 msgstr ""
-"Das Versuchsdesign ähnelt sehr dem in Abschnitt :doc:`Der McNemar-Test <../"
+"Das Versuchsdesign ähnelt sehr dem in Abschnitt zum :doc:`McNemar-Test <../"
 "Ch10/Ch10_ChiSquare_7>`. Dies sollte keine Überraschung sein. In beiden "
 "Fällen handelt es sich um Standarddesigns mit wiederholten Messungen, die "
 "zwei Messungen umfassen. Der einzige Unterschied besteht darin, dass unsere "
@@ -3087,18 +3106,19 @@ msgstr ""
 "geändert haben, wohl aber der *p*-Wert. Das liegt daran, dass der einseitige "
 "Test einen anderen Ablehnungsbereich hat als der zweiseitige Test. Wenn Sie "
 "vergessen haben, warum dies so ist und was es bedeutet, sollten Sie das "
-"Kapitel :doc:`Hypothesentests <../Ch09/Ch09_Hypothesentesting>` und "
-"insbesondere den Abschnitt :doc:`Der Unterschied zwischen einseitigen und "
-"zweiseitigen Tests <../Ch09/Ch09_HypothesisTesting_04>` noch einmal lesen. "
-"Drittens ist auch das Konfidenzintervall anders: Es wird jetzt ein "
-"„einseitiges“ Konfidenzintervall und nicht mehr ein zweiseitiges angegeben. "
-"In einem zweiseitigen Konfidenzintervall versuchen wir, Zahlen *a* und *b* "
-"zu finden, bei denen wir sicher sein können, dass bei einer mehrmaligen "
-"Wiederholung der Studie 95 % der Mittelwerte *zwischen* *a* und *b* liegen "
-"würde. Bei einem einseitigen Konfidenzintervall versuchen wir, eine einzelne "
-"Zahl *a* zu finden, bei der wir sicher sind, dass der wahre Mittelwert in 95 "
-"% der Fälle *größer* ist als *a* (oder kleiner als *a*, wenn Sie ``Measure 1 "
-"< Measure 2`` im Abschnitt ``Hypothese`` gewählt haben)."
+"Kapitel :doc:`Das Überprüfen von Hypothesen <../Ch09/"
+"Ch09_Hypothesentesting>` und insbesondere den Abschnitt :doc:`Der "
+"Unterschied zwischen einseitigen und zweiseitigen Tests <../Ch09/"
+"Ch09_HypothesisTesting_04>` noch einmal lesen. Drittens ist auch das "
+"Konfidenzintervall anders: Es wird jetzt ein „einseitiges“ "
+"Konfidenzintervall und nicht mehr ein zweiseitiges angegeben. In einem "
+"zweiseitigen Konfidenzintervall versuchen wir, Zahlen *a* und *b* zu finden, "
+"bei denen wir sicher sein können, dass bei einer mehrmaligen Wiederholung "
+"der Studie 95 % der Mittelwerte *zwischen* *a* und *b* liegen würde. Bei "
+"einem einseitigen Konfidenzintervall versuchen wir, eine einzelne Zahl *a* "
+"zu finden, bei der wir sicher sind, dass der wahre Mittelwert in 95 % der "
+"Fälle *größer* ist als *a* (oder kleiner als *a*, wenn Sie ``Measure 1 < "
+"Measure 2`` im Abschnitt ``Hypothese`` gewählt haben)."
 
 #: ../../Ch11/Ch11_tTest_06.rst:51
 msgid ""
