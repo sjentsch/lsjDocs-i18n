@@ -180,6 +180,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -190,6 +211,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 20:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -518,7 +572,7 @@ msgid ""
 "statistical perspective, the book discusses descriptive statistics and "
 "graphing first, followed by chapters on probability theory, sampling and "
 "estimation, and null hypothesis testing. After introducing the theory, the "
-"book covers the analysis of contingency tables, correlation, t-tests, "
+"book covers the analysis of contingency tables, correlation, *t*-tests, "
 "regression, ANOVA and factor analysis. Bayesian statistics are covered at "
 "the end of the book."
 msgstr ""
@@ -531,9 +585,9 @@ msgstr ""
 "deskriptive Statistik und Grafik, gefolgt von Kapiteln über "
 "Wahrscheinlichkeitstheorie, Stichprobenziehung und Schätzung sowie "
 "Nullhypothesen-Tests. Nach einer Einführung in die Theorie behandelt das "
-"Buch die Analyse von Kreuztabellen, Korrelation, t-Tests, Regression, ANOVA "
-"und die Faktorenanalyse. Am Ende des Buches gibt ein kurzes Kapitel eine "
-"Einführung in die Bayessche Statistik."
+"Buch die Analyse von Kreuztabellen, Korrelation, *t*-Tests, Regression, "
+"ANOVA und die Faktorenanalyse. Am Ende des Buches gibt ein kurzes Kapitel "
+"eine Einführung in die Bayessche Statistik."
 
 #: ../../Other/Prologue.rst:24
 msgid "Citation"
@@ -848,7 +902,7 @@ msgid ""
 "A year has gone by since I wrote the last preface. The book has changed in a "
 "few important ways: Chapters 3 and 4 do a better job of documenting some of "
 "the time saving features of RStudio, chapters 12 and 13 now make use of new "
-"functions in the lsr package for running χ²-tests and t tests, and the "
+"functions in the lsr package for running χ²-tests and *t*-tests, and the "
 "discussion of correlations has been adapted to refer to the new functions in "
 "the lsr package. The soft copy of 0.4 now has better internal referencing (i."
 "e., actual hyperlinks between sections), though that was introduced in "
@@ -860,14 +914,14 @@ msgstr ""
 "Buch hat sich in einigen wichtigen Punkten geändert: In den Kapiteln 3 und 4 "
 "werden einige der zeitsparenden Funktionen von RStudio besser dokumentiert, "
 "in den Kapiteln 12 und 13 werden jetzt die neuen Funktionen des lsr-Pakets "
-"zur Durchführung von χ²-Tests und t-Tests verwendet, und die Diskussion von "
-"Korrelationen wurde angepasst, um auf die neuen Funktionen des lsr-Pakets zu "
-"verweisen. Die Softcopy von 0.4 hat nun eine bessere interne Referenzierung "
-"(d.h. tatsächliche Hyperlinks zwischen den Abschnitten), obwohl diese "
-"bereits in 0.3.1 eingeführt wurde. Es gibt hier und da ein paar Anpassungen "
-"und viele Tippfehler-Korrekturen (vielen Dank an alle, die auf Tippfehler "
-"hingewiesen haben!), aber insgesamt unterscheidet sich 0.4 nicht wesentlich "
-"von 0.3."
+"zur Durchführung von χ²-Tests und *t*-Tests verwendet, und die Diskussion "
+"von Korrelationen wurde angepasst, um auf die neuen Funktionen des lsr-"
+"Pakets zu verweisen. Die Softcopy von 0.4 hat nun eine bessere interne "
+"Referenzierung (d.h. tatsächliche Hyperlinks zwischen den Abschnitten), "
+"obwohl diese bereits in 0.3.1 eingeführt wurde. Es gibt hier und da ein paar "
+"Anpassungen und viele Tippfehler-Korrekturen (vielen Dank an alle, die auf "
+"Tippfehler hingewiesen haben!), aber insgesamt unterscheidet sich 0.4 nicht "
+"wesentlich von 0.3."
 
 #: ../../Other/Prologue.rst:181
 msgid ""
@@ -1051,7 +1105,7 @@ msgid ""
 "book aims to be. At its core, it is an introductory statistics textbook "
 "pitched primarily at psychology students. As such, it covers the standard "
 "topics that you’d expect of such a book: study design, descriptive "
-"statistics, the theory of hypothesis testing, t-tests, χ²-tests, ANOVA and "
+"statistics, the theory of hypothesis testing, *t*-tests, χ²-tests, ANOVA and "
 "regression. However, there are also several chapters devoted to the "
 "R statistical package, including a chapter on data manipulation and another "
 "one on scripts and programming. Moreover, when you look at the content "
@@ -1069,15 +1123,15 @@ msgstr ""
 "sein soll. Im Kern handelt es sich um ein einführendes Statistik-Lehrbuch, "
 "das sich in erster Linie an Psychologiestudenten richtet. Als solches deckt "
 "es die Standardthemen ab, die man von einem solchen Buch erwarten würde: "
-"Studiendesign, deskriptive Statistik, Theorie von Hypothesentests, t-Tests, "
-"χ²-Tests, ANOVA und Regression. Es gibt jedoch auch mehrere Kapitel, die dem "
-"Statistikpaket R gewidmet sind, darunter ein Kapitel über Datenmanipulation "
-"und ein weiteres über Skripte und Programmierung. Wenn Sie sich den Inhalt "
-"des Buches ansehen, werden Sie außerdem feststellen, dass viele Themen, die "
-"bei der Vermittlung von Statistik an Psychologiestudenten traditionell unter "
-"den Teppich gekehrt werden, nicht behandelt werden. Der Unterschied zwischen "
-"Bayes und frequentistischer Statistik wird im Kapitel über die "
-"Wahrscheinlichkeitsrechnung diskutiert, und auch die "
+"Studiendesign, deskriptive Statistik, Theorie von Hypothesentests, *t*-"
+"Tests, χ²-Tests, ANOVA und Regression. Es gibt jedoch auch mehrere Kapitel, "
+"die dem Statistikpaket R gewidmet sind, darunter ein Kapitel über "
+"Datenmanipulation und ein weiteres über Skripte und Programmierung. Wenn Sie "
+"sich den Inhalt des Buches ansehen, werden Sie außerdem feststellen, dass "
+"viele Themen, die bei der Vermittlung von Statistik an Psychologiestudenten "
+"traditionell unter den Teppich gekehrt werden, nicht behandelt werden. Der "
+"Unterschied zwischen Bayes und frequentistischer Statistik wird im Kapitel "
+"über die Wahrscheinlichkeitsrechnung diskutiert, und auch die "
 "Meinungsverschiedenheiten zwischen Neyman und Fisher über Hypothesentests "
 "kommen zur Sprache. Der Unterschied zwischen Wahrscheinlichkeit und Dichte "
 "wird erörtert. Eine ausführliche Behandlung der Quadratsummen vom Typ I, II "

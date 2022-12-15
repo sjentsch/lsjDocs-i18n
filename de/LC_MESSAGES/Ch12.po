@@ -39,6 +39,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -155,6 +176,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 20:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -308,7 +362,7 @@ msgstr "IQR"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "**Dani’s grumpiness**"
-msgstr "**Danis Miesepetrigkeit**"
+msgstr "**Danis Übellaunigkeit**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "41"
@@ -406,10 +460,10 @@ msgstr ""
 "Der Datensatz, den wir verwenden werden, ist fiktiv, basiert aber auf realen "
 "Ereignissen. Angenommen, ich möchte herausfinden, wie sehr die "
 "Schlafgewohnheiten meines kleinen Sohnes meine Stimmung beeinflussen. Nehmen "
-"wir an, ich kann meine Miesepetrigkeit auf einer Skala von 0 (überhaupt "
-"nicht miesepetrig) bis 100 (so miesepetrig wie sehr, sehr miesepetrige "
+"wir an, ich kann meine Übellaunigkeit auf einer Skala von 0 (überhaupt nicht "
+"schlecht gelaunt) bis 100 (so schlecht gelaunt wie sehr, sehr übellaunige "
 "ältere Menschen) sehr genau einschätzen. Und nehmen wir weiter an, dass ich "
-"meine Miesepetrigkeit, mein Schlafverhalten und das Schlafverhalten meines "
+"meine Übellaunigkeit, mein Schlafverhalten und das Schlafverhalten meines "
 "Sohnes 100 Tage lang gemessen habe. Die Daten sind im Datensatz |parenthood|"
 "_ gespeichert, der vier Variablen enthält: ``dani.sleep``, ``baby.sleep``, "
 "``dani.grump`` und ``day``."
@@ -478,10 +532,10 @@ msgstr ""
 "`fig-grumpCor1`, links) mit der zwischen ``baby.sleep`` und ``dani.grump`` (:"
 "numref:`fig-grumpCor1`, rechts). Wenn man sich diese beiden Diagramme "
 "nebeneinander ansieht, wird deutlich, dass die Beziehung *qualitativ* in "
-"beiden Fällen die gleiche ist: mehr Schlaf bedeutet weniger Miesepetrigkeit! "
-"Es ist jedoch auch ziemlich offensichtlich, dass die Beziehung zwischen "
-"``dani.sleep`` und ``dani.grump`` *stärker* ist als die Beziehung zwischen "
-"``baby.sleep`` und ``dani.grump``. Das Diagramm auf der linken Seite ist "
+"beiden Fällen die gleiche ist: mehr Schlaf bedeutet bessere Laune! Es ist "
+"jedoch auch ziemlich offensichtlich, dass die Beziehung zwischen ``dani."
+"sleep`` und ``dani.grump`` *stärker* ist als die Beziehung zwischen ``baby."
+"sleep`` und ``dani.grump``. Das Diagramm auf der linken Seite ist "
 "„ordentlicher“ als das auf der rechten Seite. Wenn Sie meine Stimmung "
 "vorhersagen wollen, hilft es Ihnen ein wenig, wenn Sie wissen, wie viele "
 "Stunden mein Sohn geschlafen hat. Es ist stattdessen hilfreicher, wenn Sie "
@@ -519,8 +573,8 @@ msgstr ""
 "``dani.sleep`` (rechts) vergleichen, ist die Gesamtstärke der Beziehung die "
 "gleiche, aber die Richtung ist anders. Das heißt, wenn mein Sohn mehr "
 "schläft, bekomme ich *mehr* Schlaf (positive Beziehung, rechts). "
-"Gleichzeitig bin ich *weniger* miesepetrig, wenn er mehr schläft (negative "
-"Beziehung, links)."
+"Gleichzeitig bin ich *weniger* schlecht gelaunt, wenn er mehr schläft "
+"(negative Beziehung, links)."
 
 #: ../../Ch12/Ch12_Regression_01.rst:105
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
@@ -648,8 +702,8 @@ msgstr ""
 "tatsächlichen Einheiten, in denen die Kovarianz ausgedrückt wird, wirklich "
 "seltsam sind. Wenn sich zum Beispiel *X* auf die Variable ``dani.sleep`` "
 "(Einheit: Stunden) und *Y* auf die Variable ``dani.grump`` (Einheit: "
-"Miesepeter) bezieht, dann sind die Einheiten für ihre Kovarianz \"Stunden × "
-"Miesepeter\". Und ich habe keinen blassen Schimmer, was das überhaupt "
+"Übellaunigkeit) bezieht, dann sind die Einheiten für ihre Kovarianz „Stunden "
+"× Übellaunigkeit“. Und ich habe keinen blassen Schimmer, was das überhaupt "
 "bedeuten soll."
 
 #: ../../Ch12/Ch12_Regression_01.rst:165
@@ -1289,13 +1343,13 @@ msgid ""
 msgstr ""
 "Angenommen, mein Ziel ist es, ein Streudiagramm zu zeichnen, das die "
 "Beziehung zwischen der Menge an Schlaf, die ich bekomme (``dani.sleep``) und "
-"wie miesepetrig ich am nächsten Tag bin (``dani.grump``) darstellt. Es gibt "
-"zwei verschiedene Möglichkeiten, wie wir jamovi verwenden können, um das "
-"gewünschte Diagramm zu erhalten. Die erste Möglichkeit ist die Verwendung "
-"der Option ``Plot`` unter der Schaltfläche ``Regression`` → ``Correlation "
-"Matrix``, die uns die in :numref:`fig-scatterplot1` gezeigte Ausgabe "
-"liefert. Beachten Sie, dass jamovi eine Linie durch die Punkte zieht, wir "
-"werden darauf später im Abschnitt :doc:`Was ist ein lineares "
+"wie schlecht gelaunt ich am nächsten Tag bin (``dani.grump``) darstellt. Es "
+"gibt zwei verschiedene Möglichkeiten, wie wir jamovi verwenden können, um "
+"das gewünschte Diagramm zu erhalten. Die erste Möglichkeit ist die "
+"Verwendung der Option ``Plot`` unter der Schaltfläche ``Regression`` → "
+"``Correlation Matrix``, die uns die in :numref:`fig-scatterplot1` gezeigte "
+"Ausgabe liefert. Beachten Sie, dass jamovi eine Linie durch die Punkte "
+"zieht, wir werden darauf später im Abschnitt :doc:`Was ist ein lineares "
 "Regressionsmodell? <../Ch12/Ch12_Regression_03>` eingehen. Wenn Sie ein "
 "Streudiagramm auf diese Weise erstellen, können Sie auch ``Densities for "
 "variables`` angeben. Diese Option fügt eine Dichtekurve hinzu, die zeigt, "

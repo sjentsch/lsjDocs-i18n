@@ -145,6 +145,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -155,6 +176,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 20:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1006,9 +1060,9 @@ msgid ""
 "**not** operator ``!``, the ``and``-operator and, and the ``or``-operator "
 "``or``. Like the other logical operators, their behaviour is more or less "
 "exactly what you’d expect given their names. For instance, if I ask you to "
-"assess the claim that “either ``2 + 2 = 4`` *or* ``2+2 = 5``” you’d say that "
-"it’s true. Since it’s an “either-or” statement, all we need is for one of "
-"the two parts to be true. That’s what the ``or`` operator does:\\ [#]_"
+"assess the claim that “either ``2 + 2 = 4`` *or* ``2 + 2 = 5``” you’d say "
+"that it’s true. Since it’s an “either-or” statement, all we need is for one "
+"of the two parts to be true. That’s what the ``or`` operator does:\\ [#]_"
 msgstr ""
 "Wir sind noch nicht ganz fertig. Es gibt noch drei weitere logische "
 "Operationen, die es wert sind, kennengelernt zu werden, und die in :numref:"
@@ -1016,10 +1070,10 @@ msgstr ""
 "``and``-Operator sowie der ``or``-Operator. Wie die anderen logischen "
 "Operatoren verhalten sie sich mehr oder weniger genau so, wie man es "
 "aufgrund ihres Namens erwarten würde. Wenn ich Sie zum Beispiel bitte, die "
-"Behauptung zu beurteilen, dass \"entweder ``2 + 2 = 4`` *or* (oder) ``2+2 = "
-"5``\" wahr ist, würden Sie sagen, dass sie wahr ist. Da es sich um eine "
-"\"Entweder-oder\"-Aussage handelt, muss nur einer der beiden Teile wahr "
-"sein. Das ist es, was der Operator ``or`` tut:\\ [#]_"
+"Behauptung zu beurteilen, dass „entweder ``2 + 2 = 4`` *or* (oder) ``2 + 2 = "
+"5``“ wahr ist, würden Sie sagen, dass sie wahr ist. Da es sich um eine "
+"„Entweder-oder“-Aussage handelt, muss nur einer der beiden Teile wahr sein. "
+"Das ist es, was der Operator ``or`` tut:\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:133
 msgid "Some more logical operators."
@@ -1084,7 +1138,7 @@ msgstr ""
 "lästig zu beschreiben ist. Wenn ich Sie bitte, meine Behauptung zu bewerten, "
 "dass „es nicht wahr ist, dass ``2 + 2 = 5``“, dann würden Sie sagen, dass "
 "meine Behauptung wahr ist, denn eigentlich ist meine Behauptung, dass „``2 + "
-"2 = 5`` falsch ist\". Und ich habe Recht. Wenn wir dies in jamovi schreiben, "
+"2 = 5`` falsch ist“. Und ich habe Recht. Wenn wir dies in jamovi schreiben, "
 "verwenden wir dies:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:164
@@ -1265,7 +1319,7 @@ msgstr ""
 "Beachten Sie, dass dies ein ganz anderer Operator ist als der "
 "Gleichheitsoperator ``=``. Ein häufiger Tippfehler, den Leute machen, wenn "
 "sie versuchen, logische Befehle in jamovi zu schreiben (oder in anderen "
-"Sprachen: die Unterscheidung \"``=`` versus ``==``\" ist in vielen Computer- "
+"Sprachen: die Unterscheidung „``=`` versus ``==``“ ist in vielen Computer- "
 "und Statistikprogrammen wichtig), ist es, versehentlich ``=`` zu schreiben, "
 "wenn man eigentlich ``==`` meint. Seien Sie dabei besonders vorsichtig. Ich "
 "programmiere in verschiedenen Sprachen, seit ich ein Teenager war, und ich "

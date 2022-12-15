@@ -26,6 +26,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -36,6 +57,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 20:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -434,7 +488,7 @@ msgid ""
 "pretty easy. First, let’s state the null hypothesis in words:"
 msgstr ""
 "Wie im letzten Abschnitt angedeutet, lautet unsere Forschungshypothese, dass "
-"\"die Menschen die Karten nicht zufällig auswählen\". Wir wollen dies nun in "
+"„die Menschen die Karten nicht zufällig auswählen“. Wir wollen dies nun in "
 "einige statistische Hypothesen umwandeln und dann einen statistischen Test "
 "für diese Hypothesen konstruieren. Der Test, den ich Ihnen beschreiben "
 "werde, ist **Pearson's χ² (Chi-Quadrat) χ²-Anpassungstest** (*goodness-of-"
@@ -1884,7 +1938,7 @@ msgstr ""
 "χ²-Test im letzten Abschnitt geschrieben habe, die Sie vielleicht ein wenig "
 "stört. Es fühlt sich irgendwie falsch an, „χ²(3) = 8,44“ zu schreiben, "
 "werden Sie vielleicht denken. Immerhin ist es die Anpassungsgüte-Statistik, "
-"die gleich 8,44 ist, sollte ich also nicht χ² = 8,44\" oder vielleicht GOF = "
+"die gleich 8,44 ist, sollte ich also nicht χ² = 8,44 oder vielleicht GOF = "
 "8,44 schreiben? Dabei wird scheinbar die *Stichprobenverteilung* (d.h., χ² "
 "mit *df* = 3) mit der *Teststatistik* (d.h., χ²) gleichgesetzt. Vielleicht "
 "dachten Sie, es handele sich um einen Tippfehler, da χ und *X* ziemlich "

@@ -4,6 +4,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -18,6 +39,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 20:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -380,7 +434,7 @@ msgstr ""
 "und Spalten zu verweisen, so dass µ\\ :sub:`rc` sich auf den "
 "Populationsmittelwert bezieht, der mit der *r*-ten Ebene von Faktor A (d.h. "
 "der Zeilennummer *r*) und der *c*-ten Ebene von Faktor B (der Spaltennummer "
-"*c*) verbunden ist. [#]_ Die Populationsmittelwerte werden nun also wie "
+"*c*) verbunden ist.\\ [#]_ Die Populationsmittelwerte werden nun also wie "
 "folgt gekennzeichnet:"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:119 ../../Ch14/Ch14_ANOVA2_01.rst:121
@@ -1190,14 +1244,14 @@ msgid ""
 "across all observations in the data set (i.e., all possible rci-"
 "combinations)."
 msgstr ""
-"Die \"dreifache Summierung\" sieht hier komplizierter aus, als sie ist. In "
-"den ersten beiden Summierungen summieren wir über alle Stufen von Faktor A "
-"(d. h. über alle möglichen Zeilen *r* in unserer Tabelle) und über alle "
-"Stufen von Faktor B (d. h. über alle möglichen Spalten *c*). Jede rc-"
-"Kombination entspricht einer einzelnen Gruppe, und jede Gruppe enthält *N* "
-"Personen, so dass wir auch über alle diese Personen (d. h. alle i-Werte) "
-"summieren müssen. Mit anderen Worten, alles, was wir hier tun, ist, über "
-"alle Beobachtungen im Datensatz zu summieren (d. h. alle möglichen rci-"
+"Die „dreifache Summierung“ sieht hier komplizierter aus, als sie ist. In den "
+"ersten beiden Summierungen summieren wir über alle Stufen von Faktor A (d. "
+"h. über alle möglichen Zeilen *r* in unserer Tabelle) und über alle Stufen "
+"von Faktor B (d. h. über alle möglichen Spalten *c*). Jede rc-Kombination "
+"entspricht einer einzelnen Gruppe, und jede Gruppe enthält *N* Personen, so "
+"dass wir auch über alle diese Personen (d. h. alle i-Werte) summieren "
+"müssen. Mit anderen Worten, alles, was wir hier tun, ist, über alle "
+"Beobachtungen im Datensatz zu summieren (d. h. alle möglichen rci-"
 "Kombinationen)."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:482
@@ -1355,10 +1409,10 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:549
 msgid ""
 "Using the degrees of freedom and the square sums we calculated above, we can "
-"calculate the following F-values for the factors A and B."
+"calculate the following *F*-values for the factors A and B."
 msgstr ""
 "Mit Hilfe der Freiheitsgrade und der Quadratsummen, die wir oben berechnet "
-"haben, können wir die folgenden F-Werte für die Faktoren A und B berechnen."
+"haben, können wir die folgenden *F*-Werte für die Faktoren A und B berechnen."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:552
 msgid ""
@@ -2860,10 +2914,10 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:73
 msgid ""
 "An ANCOVA table showing Tests of Between-Subjects Effects is produced in the "
-"jamovi results panel (:numref:`fig-ancova2`). The F value for the covariate "
-"``age`` is significant at *p* = 0.023, suggesting that age is an important "
-"predictor of the dependent variable, happiness. When we look at the "
-"estimated marginal mean scores (:numref:`fig-ancova3`), adjustments have "
+"jamovi results panel (:numref:`fig-ancova2`). The *F*-value for the "
+"covariate ``age`` is significant at *p* = 0.023, suggesting that age is an "
+"important predictor of the dependent variable, happiness. When we look at "
+"the estimated marginal mean scores (:numref:`fig-ancova3`), adjustments have "
 "been made (compared to an analysis without the covariate) because of the "
 "inclusion of the covariate ``age`` in this ANCOVA. A plot (:numref:`fig-"
 "ancova4`) is a good way of visualising and interpreting the significant "
@@ -2909,7 +2963,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:103
 msgid ""
 "The *F*-value for the main effect ``stress`` (52.61) has an associated "
-"probability of *p* < 0.001. The F value for the main effect ``commute`` "
+"probability of *p* < 0.001. The *F*-value for the main effect ``commute`` "
 "(42.33) has an associated probability of *p* < 0.001. Since both of these "
 "are less than the probability that is typically used to decide if a "
 "statistical result is significant (*p* < 0.05) we can conclude that there "
@@ -2919,7 +2973,7 @@ msgid ""
 "also found (*F*\\(1,15) = \\14.15, *p* = 0.002)."
 msgstr ""
 "Der *F*-Wert für den Haupteffekt ``stress`` (52,61) hat eine "
-"Fehlerwahrscheinlichkeit von *p* < 0,001. Der F-Wert für den Haupteffekt "
+"Fehlerwahrscheinlichkeit von *p* < 0,001. Der *F*-Wert für den Haupteffekt "
 "``commute`` (42,33) hat eine Fehlerwahrscheinlichkeit von *p* < 0,001. Da "
 "beide Werte unter der Wahrscheinlichkeit liegen, die normalerweise verwendet "
 "wird, um zu entscheiden, ob ein statistisches Ergebnis signifikant ist (*p* "
@@ -3769,16 +3823,16 @@ msgid ""
 "realise that a three-level factor can be redescribed as *two* binary "
 "variables. Suppose, for instance, I were to create a new binary variable "
 "called ``druganxifree``. Whenever the ``drug`` variable is equal to "
-"``\"anxifree\"`` we set ``druganxifree = 1``. Otherwise, we set "
-"``druganxifree = 0``. This variable sets up a **contrast**, in this case "
-"between ``anxifree`` and the other two drugs. By itself, of course, the "
-"``druganxifree`` contrast isn’t enough to fully capture all of the "
-"information in our ``drug`` variable. We need a second contrast, one that "
-"allows us to distinguish between ``joyzepam`` and the ``placebo``. To do "
-"this, we can create a second binary contrast, called ``drugjoyzepam``, which "
-"equals 1 if the ``drug`` is ``joyzepam`` and 0 if it is not. Taken together, "
-"these two contrasts allows us to perfectly discriminate between all three "
-"possible levels of ``drug``. The table below illustrates this:"
+"``anxifree`` we set ``druganxifree = 1``. Otherwise, we set ``druganxifree = "
+"0``. This variable sets up a **contrast**, in this case between ``anxifree`` "
+"and the other two drugs. By itself, of course, the ``druganxifree`` contrast "
+"isn’t enough to fully capture all of the information in our ``drug`` "
+"variable. We need a second contrast, one that allows us to distinguish "
+"between ``joyzepam`` and the ``placebo``. To do this, we can create a second "
+"binary contrast, called ``drugjoyzepam``, which equals 1 if the ``drug`` is "
+"``joyzepam`` and 0 if it is not. Taken together, these two contrasts allows "
+"us to perfectly discriminate between all three possible levels of ``drug``. "
+"The table below illustrates this:"
 msgstr ""
 "Die Antwort auf diese Frage ist eigentlich ziemlich einfach. Man muss sich "
 "nur klarmachen, dass ein dreistufiger Faktor als *zwei binäre Variablen* neu "
@@ -5142,7 +5196,7 @@ msgid ""
 "model up sequentially, starting from the simplest possible model and "
 "gradually adding terms."
 msgstr ""
-"Die Methode vom Typ 1 wird manchmal auch als \"sequentielle\" Quadratsumme "
+"Die Methode vom Typ 1 wird manchmal auch als „sequentielle“ Quadratsumme "
 "bezeichnet, da sie einen Prozess beinhaltet, bei dem dem Modell ein Term "
 "nach dem anderen hinzugefügt wird. Betrachten wir zum Beispiel die |coffee|_-"
 "Daten. Nehmen wir an, wir wollen die vollständige 3 × 2 faktorielle ANOVA "
