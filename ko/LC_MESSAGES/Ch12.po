@@ -4,20 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -42,29 +28,7 @@ msgstr ""
 "#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 14:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:04+0100\n"
+"POT-Creation-Date: 2022-12-15 20:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,14 +38,14 @@ msgstr ""
 "#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-12 17:03+0100\n"
+"POT-Creation-Date: 2022-12-15 18:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
 msgid "Correlation and linear regression"
@@ -1707,9 +1671,9 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:66
 msgid ""
-"We’ll see much more of the *F* statistic in chapter :doc:`Comparing several "
+"We’ll see much more of the *F*-statistic in chapter :doc:`Comparing several "
 "means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`, but for now just know that we "
-"can interpret large *F* values as indicating that the null hypothesis is "
+"can interpret large *F*-values as indicating that the null hypothesis is "
 "performing poorly in comparison to the alternative hypothesis. In a moment "
 "I’ll show you how to do the test in jamovi the easy way, but first let’s "
 "have a look at the tests for the individual regression coefficients."
@@ -2874,7 +2838,7 @@ msgid ""
 "We can fit both models to the data and obtain a residual sum of squares for "
 "both models. I’ll denote these as SS\\ :sub:`res`\\ :sup:`(1)` and SS\\ :sub:"
 "`res`\\ :sup:`(2)` respectively. The superscripting here just indicates "
-"which model we’re talking about. Then our *F* statistic is"
+"which model we’re talking about. Then our *F*-statistic is"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:194

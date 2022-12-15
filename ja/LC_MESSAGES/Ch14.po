@@ -4,69 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -91,106 +28,7 @@ msgstr ""
 "#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 14:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 20:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-11 19:38+0100\n"
+"POT-Creation-Date: 2022-12-15 20:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -200,7 +38,7 @@ msgstr ""
 "#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-11 19:36+0100\n"
+"POT-Creation-Date: 2022-12-15 18:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -675,14 +513,14 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:286
 msgid ""
-"Turning to the *F* statistics and the *p*-values, notice that we have two of "
+"Turning to the *F*-statistics and the *p*-values, notice that we have two of "
 "each; one corresponding to the ``drug`` factor and the other corresponding "
 "to the ``therapy`` factor. Regardless of which one we’re talking about, the "
-"*F* statistic is calculated by dividing the mean square value associated "
+"*F*-statistic is calculated by dividing the mean square value associated "
 "with the factor by the mean square value associated with the residuals. If "
 "we use “A” as shorthand notation to refer to the first factor (factor A; in "
 "this case ``drug``) and “R” as shorthand notation to refer to the residuals, "
-"then the *F* statistic associated with factor A is denoted *F*\\ :sub:`A`, "
+"then the *F*-statistic associated with factor A is denoted *F*\\ :sub:`A`, "
 "and is calculated as follows:"
 msgstr ""
 
@@ -714,11 +552,11 @@ msgid ""
 "on). To that end, we’ve (apparently) followed a similar strategy to what we "
 "did in the One-Way ANOVA and have calculated an *F*-statistic for each of "
 "these hypotheses. To convert these to *p*-values, all we need to do is note "
-"that the sampling distribution for the *F* *statistic* under the null "
-"hypothesis (that the factor in question is irrelevant) is an *F* "
+"that the sampling distribution for the *F*-*statistic* under the null "
+"hypothesis (that the factor in question is irrelevant) is an *F*- "
 "*distribution*. Also note that the two degrees of freedom values are those "
 "corresponding to the factor and those corresponding to the residuals. For "
-"the ``drug`` factor we’re talking about an *F* distribution with 2 and 14 "
+"the ``drug`` factor we’re talking about an *F*- distribution with 2 and 14 "
 "degrees of freedom (I’ll discuss degrees of freedom in more detail later). "
 "In contrast, for the ``therapy`` factor the sampling distribution is *F* "
 "with 1 and 14 degrees of freedom."
@@ -767,7 +605,7 @@ msgid ""
 "for the main effects (of ``drug`` and ``therapy`` in this case) are *F*-"
 "tests, but what it doesn’t do is show you how the sum of squares (SS) values "
 "are calculated. Nor does it tell you explicitly how to calculate degrees of "
-"freedom (*df* values) though that’s a simple thing by comparison. Let’s "
+"freedom (*df*-values) though that’s a simple thing by comparison. Let’s "
 "assume for now that we have only two predictor variables, Factor A and "
 "Factor B. If we use *Y* to refer to the outcome variable, then we would use "
 "*Y*\\ :sub:`rci` to refer to the outcome associated with the i-th member of "
@@ -2392,7 +2230,7 @@ msgid ""
 "we presented earlier, we can see that the students obtained a higher grade "
 "if they attended class (*F*\\(1,5) = 21.6, *p* = 0.0056) and if they read "
 "the textbook: *F*\\(1,5) = 52.3,*p* = 0.0008. Let’s make a note of those *p*-"
-"values and those *F* statistics."
+"values and those *F*-statistics."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:167
@@ -2628,7 +2466,7 @@ msgid ""
 "and k. We can check this with respect to the *t*-statistics in our "
 "regression model. For the ``attend`` variable we get a *t*-value of 4.65. If "
 "we square this number we end up with \\21.6, which matches the corresponding "
-"*F* statistic in our ANOVA."
+"*F*-statistic in our ANOVA."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:295
