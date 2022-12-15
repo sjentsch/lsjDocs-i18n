@@ -110,6 +110,20 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -123,7 +137,29 @@ msgstr ""
 "#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 08:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 18:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -425,7 +461,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:4
 msgid "Tabulating and cross-tabulating data"
-msgstr "Erstellen von Tabellen und Kreuztabellen aus Ihren Daten"
+msgstr "Erstellen von Häufigkeitstabellen und Kreuztabellen aus Ihren Daten"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:6
 msgid ""
@@ -2109,8 +2145,8 @@ msgstr ""
 "ganze Kapitel in einer Sitzung lesen, dann sollten Sie diesen Datensatz "
 "bereits in jamovi geladen haben. In diesem Abschnitt wollen wir uns auf die "
 "beiden Variablen ``speaker`` und ``utterance`` konzentrieren (siehe :doc:"
-"`Tabellierung und Kreuztabellierung von Daten <../Ch06/"
-"Ch06_DataHandling_1>`, falls Sie vergessen haben, wie diese Variablen "
+"`Erstellen von Häufigkeitstabellen und Kreuztabellen aus Ihren Daten <../"
+"Ch06/Ch06_DataHandling_1>`, falls Sie vergessen haben, wie diese Variablen "
 "aussehen). Nehmen wir an, dass ich nur die Äußerungen herausziehen möchte, "
 "die von ``makka-pakka`` gemacht wurden. Zu diesem Zweck müssen wir einen "
 "Filter in jamovi erstellen. Öffnen Sie zunächst ein Filter-Eingabefeld, "

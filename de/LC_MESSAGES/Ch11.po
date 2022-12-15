@@ -11,34 +11,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -49,15 +21,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 09:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,51 +46,7 @@ msgstr ""
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:53+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-12 14:43+0100\n"
+"POT-Creation-Date: 2022-12-15 08:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,7 +56,7 @@ msgstr ""
 "#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-12 14:41+0100\n"
+"POT-Creation-Date: 2022-12-14 18:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -529,7 +463,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:146
 msgid "X ~ Normal(µ\\ :sub:`0`, σ²)"
-msgstr "X ~ Normal(μ\\ :sub:`0`, σ²)"
+msgstr "X ~ Normal(μ\\ :sub:'0', σ²)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:148
 msgid ""
@@ -1801,9 +1735,9 @@ msgstr ""
 "wobei die Schreibweise „Σ\\ :sub:`ik`“ eine einfache Art ist, zu sagen: "
 "„Berechne eine Summe, indem du alle Studenten in allen Tutorien "
 "betrachtest“, da jedes „ik“ einem Studenten entspricht.\\ [#]_ Aber wie wir "
-"in Kapitel :doc:`Schätzen unbekannter Größen aus einer Stichprobe <../Ch08/"
-"Ch08_Estimation>` gesehen haben, führt die Berechnung der Varianz bei der "
-"wir durch *N* dividieren zu einer verzerrten Schätzung der "
+"in Kapitel :doc:`Schätzen unbekannter Größen anhand einer Stichprobe <../"
+"Ch08/Ch08_Estimation>` gesehen haben, führt die Berechnung der Varianz bei "
+"der wir durch *N* dividieren zu einer verzerrten Schätzung der "
 "Populationsvarianz. Bisher mussten wir durch *N* - 1 dividieren, um dies zu "
 "korrigieren. Wie ich bereits erwähnt habe, liegt der Grund für diese "
 "Verzerrung darin, dass sich die Varianzschätzung auf den "
@@ -2873,8 +2807,8 @@ msgstr ""
 "*t*-Test für unabhängige Stichproben mit ``grade_test1`` und ``grade_test2`` "
 "durchzuführen, führen wir einen *t*-Test für *eine Stichprobe* mit der "
 "Variable für die Differenz innerhalb des Subjekts, ``improvement``, durch. "
-"Um dies zu formalisieren: Wenn *X*\\ :sub:`i1` die Punktzahl ist, die der i-"
-"te Teilnehmer bei der ersten Variable erreicht hat, und *X*\\ :sub:`i2` die "
+"Um dies zu formalisieren: Wenn *X*\\ :sub`i1` die Punktzahl ist, die der i-"
+"te Teilnehmer bei der ersten Variable erreicht hat, und *X*\\ :sub`i2` die "
 "Punktzahl ist, die dieselbe Person bei der zweiten Variable erreicht hat, "
 "dann ist die Differenzpunktzahl:"
 
@@ -2895,8 +2829,8 @@ msgstr ""
 "Beachten Sie, dass der Differenzwert *Variable 1 minus Variable 2* ist und "
 "nicht umgekehrt. Wenn wir also wollen, dass eine Verbesserung einer positiv "
 "bewerteten Differenz entspricht, wollen wir eigentlich, dass „Test 2“ unsere "
-"„Variable 1“ ist. Gleichermaßen würden wir sagen, dass µ\\ :sub:`D` = µ\\ :"
-"sub`1` - µ\\ :sub:`2` der Populationsmittelwert für diese Differenzvariable "
+"„Variable 1“ ist. Gleichermaßen würden wir sagen, dass µ\\ :sub`D` = µ\\ :"
+"sub`1` - µ\\ :sub`2` der Populationsmittelwert für diese Differenzvariable "
 "ist. Um dies in einen Hypothesentest umzuwandeln, lautet unsere "
 "Nullhypothese, dass dieser Mittelwertunterschied gleich Null ist, und die "
 "Alternativhypothese, dass er es nicht ist"
@@ -3396,7 +3330,7 @@ msgstr ""
 "diesem Fall handelt es sich um einen Stichprobenmittelwert *X̄* und einen "
 "(hypothetischen) Populationsmittelwert µ\\ :sub:`o`, mit dem er verglichen "
 "wird. Und nicht nur das: Es gibt eigentlich nur eine sinnvolle Möglichkeit, "
-"die Standardabweichung der Grundgesamtheit zu schätzen. Wir verwenden "
+"die Standardabweichung in der Grundgesamtheit zu schätzen. Wir verwenden "
 "einfach unsere übliche Schätzung :math:`\\hat{\\sigma}`. Daher ist die "
 "einzige Möglichkeit zur Berechnung von *d* die folgende:"
 
@@ -3518,7 +3452,7 @@ msgstr ""
 "Stichprobenvarianz zu korrigieren. In einer Version von Cohens *d* wird "
 "diese Korrektur weggelassen und stattdessen durch *N* geteilt. Diese Version "
 "ist vor allem dann sinnvoll, wenn man versucht, die Effektstärke in der "
-"Stichprobe zu berechnen, anstatt eine Effektstärke in der Population zu "
+"Stichprobe zu berechnen, anstatt eine Effektstärke in der Grundgesamtheit zu "
 "schätzen. Schließlich gibt es noch eine Version, die auf `Hedges und Olkin "
 "(1985) <../Other/References.html#hedges-1985>`__ basiert, die darauf "
 "hinweisen, dass es bei der üblichen (gepoolten) Schätzung für Cohens *d* "

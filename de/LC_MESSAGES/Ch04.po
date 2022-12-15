@@ -110,6 +110,20 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -123,7 +137,29 @@ msgstr ""
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 08:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 18:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1214,11 +1250,11 @@ msgstr ""
 "wollen. Kehren wir zum Beispiel zu unserer Variable ``afl.margins`` zurück. "
 "Bei dieser Variablen handelt es sich eindeutig um eine Verhältnisskala (wenn "
 "Ihnen das nicht klar ist, hilft es vielleicht, den Abschnitt :doc:"
-"`Messskalen <../Ch02/Ch02_StudyDesign_2>` noch einmal zu lesen), und daher "
-"ist in den meisten Situationen der Mittelwert oder der Median das gewünschte "
-"Maß für die zentrale Tendenz. Aber stellen Sie sich folgendes Szenario vor: "
-"Ein Freund von Ihnen bietet eine Wette an und wählt zufällig ein "
-"Fußballspiel aus. Ohne zu wissen, wer spielt, müssen Sie die *genaue* "
+"`Skalenniveaus <../Ch02/Ch02_StudyDesign_2>` noch einmal zu lesen), und "
+"daher ist in den meisten Situationen der Mittelwert oder der Median das "
+"gewünschte Maß für die zentrale Tendenz. Aber stellen Sie sich folgendes "
+"Szenario vor: Ein Freund von Ihnen bietet eine Wette an und wählt zufällig "
+"ein Fußballspiel aus. Ohne zu wissen, wer spielt, müssen Sie die *genaue* "
 "Gewinnspanne erraten. Wenn Sie richtig raten, gewinnen Sie 50 €. Wenn nicht, "
 "verlieren Sie 1 €. Es gibt keine Trostpreise für eine „fast“ richtige "
 "Antwort. Sie müssen genau die richtige Spanne erraten. Bei dieser Wette sind "
@@ -1864,24 +1900,25 @@ msgstr ""
 "*mittlere* quadrierte Abweichung sein, richtig? Sollten wir also nicht durch "
 "*N*, die tatsächliche Anzahl der Beobachtungen in der Stichprobe, "
 "dividieren? Nun, ja, das sollten wir. Wie wir jedoch in Kapitel :doc:"
-"`Schätzen unbekannter Größen aus einer Stichprobe <../Ch08/Ch08_Estimation>` "
-"erörtern, gibt es einen feinen Unterschied zwischen der „Beschreibung einer "
-"Stichprobe“ und dem „Erstellen von Vermutungen über die Grundgesamtheit, aus "
-"der die Stichprobe stammt“. Bis zu diesem Punkt war es ein Unterschied ohne "
-"Unterschied. Unabhängig davon, ob man eine Stichprobe beschreibt oder "
-"Rückschlüsse auf die Grundgesamtheit zieht, wird der Mittelwert auf genau "
-"dieselbe Weise berechnet. Das gilt aber nicht für die Varianz, die "
-"Standardabweichung oder viele andere Maße. Bei dem, was ich Ihnen anfangs "
-"erklärt habe (d. h. den tatsächlichen Mittelwert nehmen und durch *N* "
-"teilen), wird davon ausgegangen, dass Sie buchstäblich beabsichtigen, die "
-"Varianz der Stichprobe zu berechnen. In den meisten Fällen sind Sie jedoch "
-"nicht sonderlich an der Stichprobe *an sich* interessiert. Die Stichprobe "
-"dient vielmehr dazu, Ihnen etwas über die Welt zu sagen. Wenn dies der Fall "
-"ist, bewegen Sie sich weg von der Berechnung einer „Stichprobenstatistik“ "
-"und hin zur Schätzung eines „Populationsparameters“. Aber ich greife mir "
-"selbst vor. Für den Moment wollen wir einfach darauf vertrauen, dass jamovi "
-"weiß, was es tut, und wir werden die Frage später wieder aufgreifen, wenn "
-"wir über das :doc:`Schätzen <../Ch08/Ch08_Estimation>` sprechen."
+"`Schätzen unbekannter Größen anhand einer Stichprobe <../Ch08/"
+"Ch08_Estimation>` erörtern, gibt es einen feinen Unterschied zwischen der "
+"„Beschreibung einer Stichprobe“ und dem „Erstellen von Vermutungen über die "
+"Grundgesamtheit, aus der die Stichprobe stammt“. Bis zu diesem Punkt war es "
+"ein Unterschied ohne Unterschied. Unabhängig davon, ob man eine Stichprobe "
+"beschreibt oder Rückschlüsse auf die Grundgesamtheit zieht, wird der "
+"Mittelwert auf genau dieselbe Weise berechnet. Das gilt aber nicht für die "
+"Varianz, die Standardabweichung oder viele andere Maße. Bei dem, was ich "
+"Ihnen anfangs erklärt habe (d. h. den tatsächlichen Mittelwert nehmen und "
+"durch *N* teilen), wird davon ausgegangen, dass Sie buchstäblich "
+"beabsichtigen, die Varianz der Stichprobe zu berechnen. In den meisten "
+"Fällen sind Sie jedoch nicht sonderlich an der Stichprobe *an sich* "
+"interessiert. Die Stichprobe dient vielmehr dazu, Ihnen etwas über die Welt "
+"zu sagen. Wenn dies der Fall ist, bewegen Sie sich weg von der Berechnung "
+"einer „Stichprobenstatistik“ und hin zur Schätzung eines "
+"„Populationsparameters“. Aber ich greife mir selbst vor. Für den Moment "
+"wollen wir einfach darauf vertrauen, dass jamovi weiß, was es tut, und wir "
+"werden die Frage später wieder aufgreifen, wenn wir über das :doc:`Schätzen "
+"<../Ch08/Ch08_Estimation>` sprechen."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:301
 msgid ""
@@ -2887,9 +2924,9 @@ msgid ""
 "also looked at assymetry in a variable’s distribution (skew) and pointness "
 "(kurtosis)."
 msgstr ""
-":doc:`Maße für Schiefe und Wölbung <../Ch04/Ch04_Descriptives_3>`: Wir haben "
-"auch die Asymmetrie in der Verteilung einer Variablen (Schiefe) und die "
-"Kurtosis untersucht."
+":doc:`Schiefe und Kurtosis <../Ch04/Ch04_Descriptives_3>`: Wir haben auch "
+"die Asymmetrie in der Verteilung einer Variablen (Schiefe) und die Kurtosis "
+"untersucht."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:25
 msgid ""

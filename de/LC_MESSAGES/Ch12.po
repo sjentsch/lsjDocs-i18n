@@ -4,6 +4,20 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -123,7 +137,29 @@ msgstr ""
 "#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-14 18:29+0100\n"
+"POT-Creation-Date: 2022-12-15 09:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-15 08:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 18:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3064,7 +3100,7 @@ msgid ""
 "especially paranoid) all values of every predictor *X* in the model."
 msgstr ""
 "*Varianzhomogenität*. Streng genommen geht das Regressionsmodell davon aus, "
-"dass jede verbleibende ε\\:sub:`i` aus einer Normalverteilung mit Mittelwert "
+"dass jede verbleibende ε\\:sub:'i' aus einer Normalverteilung mit Mittelwert "
 "0 und (für die aktuellen Zwecke wichtiger) mit einer Standardabweichung σ "
 "erzeugt wird, die für jedes einzelne Residuum gleich ist. In der Praxis ist "
 "es unmöglich, die Annahme zu testen, dass jedes Residuum gleich verteilt "
@@ -3302,7 +3338,7 @@ msgid ""
 "or less the truth, it’s just that we’re being a bit fancier."
 msgstr ""
 "wobei :math:`\\hat{\\sigma}` in diesem Zusammenhang die geschätzte "
-"Standardabweichung der gewöhnlichen Residuen und h\\ :sub:`i` der „Dach-"
+"Standardabweichung der gewöhnlichen Residuen und h\\ :sub:'i' der „Dach-"
 "Wert“ der *i*-ten Beobachtung ist. Ich habe die Dach-Werte noch nicht "
 "erklärt (aber keine Angst,\\ [#]_ das kommt in Kürze), also wird das nicht "
 "viel Sinn machen. Im Moment reicht es aus, die standardisierten Residuen so "
