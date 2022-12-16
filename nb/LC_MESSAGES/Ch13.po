@@ -8,19 +8,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 # #-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch13.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"POT-Creation-Date: 2022-12-16 13:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2856,5 +2850,6 @@ msgid ""
 "beginners, but it’s an excellent book for more advanced readers who are "
 "interested in understanding the mathematics behind ANOVA."
 msgstr ""
+
 
 

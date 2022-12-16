@@ -9,18 +9,12 @@
 #
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"POT-Creation-Date: 2022-12-16 13:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -754,8 +748,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_01.rst:393
 msgid ""
 "What we’ve just re-invented is **Spearman’s rank order correlation**, "
-"usually denoted *ρ* to distinguish it from the Pearson correlation *r*. "
-"We can calculate Spearman’s ρ using jamovi simply by clicking the "
+"usually denoted ρ to distinguish it from the Pearson correlation *r*. We "
+"can calculate Spearman’s ρ using jamovi simply by clicking the "
 "``Spearman`` check box in the ``Correlation Matrix`` options panel."
 msgstr ""
 
@@ -1301,8 +1295,9 @@ msgid ""
 "The equation that I gave above shows you what a multiple regression model"
 " looks like when you include two predictors. Not surprisingly, then, if "
 "you want more than two predictors all you have to do is add more *X* "
-"terms and more *b* coefficients. In other words, if you have K predictor "
-"variables in the model then the regression equation looks like this"
+"terms and more *b* coefficients. In other words, if you have *K* "
+"predictor variables in the model then the regression equation looks like "
+"this"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:103
@@ -1511,9 +1506,10 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:124
+#, fuzzy
 msgid ""
 "\\mbox{adj. } R^2 = 1 - \\left(\\frac{\\mbox{SS}_{res}}{\\mbox{SS}_{tot}}"
-" \\times \\frac{N-1}{N-K-1} \\right)\n"
+" \\times \\frac{N - 1}{N - K - 1} \\right)\n"
 "\n"
 msgstr ""
 "\\mbox{adj. } R^2 = 1 - \\left(\\frac{\\mbox{SS}_{res}}{\\mbox{SS}_{tot}}"
@@ -1611,7 +1607,7 @@ msgstr "H\\ :sub:`0`: *Y*\\ :sub:`i` = b\\ :sub:`0` + ε\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:31
 msgid ""
-"If our regression model has K predictors, the “alternative model” is "
+"If our regression model has *K* predictors, the “alternative model” is "
 "described using the usual formula for a multiple regression model:"
 msgstr ""
 
@@ -1656,9 +1652,9 @@ msgstr "SS\\ :sub:`res` = SS\\ :sub:`res` / *df*\\ :sub:`res`"
 msgid ""
 "So, how many degrees of freedom do we have? As you might expect the *df* "
 "associated with the model is closely tied to the number of predictors "
-"that we’ve included. In fact, it turns out that *df*\\ :sub:`mod` = K. "
-"For the residuals the total degrees of freedom is *df*\\ :sub:`res` = N -"
-" K - 1."
+"that we’ve included. In fact, it turns out that *df*\\ :sub:`mod` = *K*. "
+"For the residuals the total degrees of freedom is *df*\\ :sub:`res` = *N*"
+" - *K* - 1."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:58
@@ -1672,7 +1668,7 @@ msgid "F = MS\\ :sub:`mod` / SS\\ :sub:`res`"
 msgstr "F = MS\\ :sub:`mod` / SS\\ :sub:`res`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:63
-msgid "and the degrees of freedom associated with this are K and N - K - 1."
+msgid "and the degrees of freedom associated with this are *K* and *N* - *K* - 1."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:66
@@ -1755,15 +1751,16 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_07.rst:116
 msgid ""
 "I’ll skip over the reasons why, but our degrees of freedom in this case "
-"are *df* = N - K - 1. Irritatingly, the estimate of the standard error of"
-" the regression coefficient, :math:`SE(\\hat{b})`, is not as easy to "
-"calculate as the standard error of the mean that we used for the simpler "
-"*t*-tests in chapter :doc:`Comparing two means <../Ch11/Ch11_tTest>`. In "
-"fact, the formula is somewhat ugly, and not terribly helpful to look "
-"at.\\ [#]_ For our purposes it’s sufficient to point out that the "
-"standard error of the estimated regression coefficient depends on both "
-"the predictor and outcome variables, and it is somewhat sensitive to "
-"violations of the homogeneity of variance assumption (discussed shortly)."
+"are *df* = *N* - *K* - 1. Irritatingly, the estimate of the standard "
+"error of the regression coefficient, :math:`SE(\\hat{b})`, is not as easy"
+" to calculate as the standard error of the mean that we used for the "
+"simpler *t*-tests in chapter :doc:`Comparing two means "
+"<../Ch11/Ch11_tTest>`. In fact, the formula is somewhat ugly, and not "
+"terribly helpful to look at.\\ [#]_ For our purposes it’s sufficient to "
+"point out that the standard error of the estimated regression coefficient"
+" depends on both the predictor and outcome variables, and it is somewhat "
+"sensitive to violations of the homogeneity of variance assumption "
+"(discussed shortly)."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:127
@@ -1821,9 +1818,9 @@ msgstr ""
 #, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
-"degrees of freedom used in the *t*-test, which is always *N* - K - 1 and "
-"is listed in the table at the top of the output, labelled ``Model Fit "
-"Measures``. We can see from this table that the model performs "
+"degrees of freedom used in the *t*-test, which is always *N* - *K* - 1 "
+"and is listed in the table at the top of the output, labelled ``Model Fit"
+" Measures``. We can see from this table that the model performs "
 "significantly better than you’d expect by chance (*F*\\(2,97) = 215.24, "
 "*p* < 0.001), which isn’t all that surprising: the *R*\\² = 0.81 value "
 "indicate that the regression model accounts for 81\\% of the variability "
@@ -1841,9 +1838,9 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_07.rst:189
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = "
-"y - X \\hat{b}`. For K predictors plus the intercept, the estimated "
+"y - X \\hat{b}`. For *K* predictors plus the intercept, the estimated "
 "residual variance is :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon /"
-" (N-K-1)`. The estimated covariance matrix of the coefficients is "
+" (N - K - 1)`. The estimated covariance matrix of the coefficients is "
 ":math:`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main "
 "diagonal of which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
@@ -2364,8 +2361,8 @@ msgid ""
 "of the predictor variables, it will have a large hat value (as a rough "
 "guide, high leverage is when the hat value is more than 2 - 3 times the "
 "average; and note that the sum of the hat values is constrained to be "
-"equal to K + 1). High leverage points are also worth looking at in more "
-"detail, but they’re much less likely to be a cause for concern unless "
+"equal to *K* + 1). High leverage points are also worth looking at in more"
+" detail, but they’re much less likely to be a cause for concern unless "
 "they are also outliers."
 msgstr ""
 
@@ -3015,8 +3012,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:16
 msgid ""
-"Measuring the :doc:`overall performance of a regression model using "
-"*R*\\² <../Ch12/Ch12_Regression_06>`"
+"Measuring the :doc:`overall performance of a regression model using R² "
+"<../Ch12/Ch12_Regression_06>`"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:19
@@ -3038,6 +3035,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_12>`"
 msgstr ""
+
 
 
 

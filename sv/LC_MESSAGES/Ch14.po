@@ -8,19 +8,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"POT-Creation-Date: 2022-12-16 13:20+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -706,17 +700,17 @@ msgid ""
 "is the (Ȳ\\ :sub:`r.` – Ȳ\\ :sub:`..`)² bit, which corresponds to the "
 "squared deviation associated with level *r*. All that this formula does "
 "is calculate this squared deviation for all *R* levels of the factor, add"
-" them up, and then multiply the result by N × C. The reason for this last"
-" part is that there are multiple cells in our design that have level *r* "
-"on Factor A. In fact, there are *C* of them, one corresponding to each "
-"possible level of Factor B! For instance, in our example there are *two* "
-"different cells in the design corresponding to the ``anxifree`` drug: one"
-" for people with ``no.therapy`` and one for the ``CBT`` group. Not only "
-"that, within each of these cells there are *N* observations. So, if we "
-"want to convert our SS value into a quantity that calculates the between-"
-"groups sum of squares on a “per observation” basis, we have to multiply "
-"by N × C. The formula for factor B is of course the same thing, just with"
-" some subscripts shuffled around"
+" them up, and then multiply the result by *N* × *C*. The reason for this "
+"last part is that there are multiple cells in our design that have level "
+"*r* on Factor A. In fact, there are *C* of them, one corresponding to "
+"each possible level of Factor B! For instance, in our example there are "
+"*two* different cells in the design corresponding to the ``anxifree`` "
+"drug: one for people with ``no.therapy`` and one for the ``CBT`` group. "
+"Not only that, within each of these cells there are *N* observations. So,"
+" if we want to convert our SS value into a quantity that calculates the "
+"between-groups sum of squares on a “per observation” basis, we have to "
+"multiply by *N* × *C*. The formula for factor B is of course the same "
+"thing, just with some subscripts shuffled around"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:429
@@ -901,7 +895,8 @@ msgid ""
 "grand mean, the 2 additional group means that the ``drug`` factor "
 "introduces, and the 1 additional group mean that the the ``therapy`` "
 "factor introduces, and so our degrees of freedom is 14. As a formula, "
-"this is N - 1 - (R - 1) - (C - 1), which simplifies to N - R - C + 1."
+"this is *N* - 1 - (*R* - 1) - (*C* - 1), which simplifies to *N* - *R* - "
+"*C* + 1."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:549
@@ -2492,13 +2487,13 @@ msgid ""
 "back to chapter :doc:`Introduction to probability "
 "<../Ch07/Ch07_Probability>`, I mentioned that there’s a relationship "
 "between the *t*-distribution and the *F*-distribution. If you have some "
-"quantity that is distributed according to a *t*-distribution with k "
+"quantity that is distributed according to a *t*-distribution with *k* "
 "degrees of freedom and you square it, then this new squared quantity "
-"follows an *F*-distribution whose degrees of freedom are 1 and k. We can "
-"check this with respect to the *t*-statistics in our regression model. "
-"For the ``attend`` variable we get a *t*-value of 4.65. If we square this"
-" number we end up with \\21.6, which matches the corresponding "
-"*F*-statistic in our ANOVA."
+"follows an *F*-distribution whose degrees of freedom are 1 and *k*. We "
+"can check this with respect to the *t*-statistics in our regression "
+"model. For the ``attend`` variable we get a *t*-value of 4.65. If we "
+"square this number we end up with \\21.6, which matches the corresponding"
+" *F*-statistic in our ANOVA."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:295
@@ -2772,10 +2767,10 @@ msgid ""
 "options. I originally described that as a test of the regression model as"
 " a whole. However, that is still a comparison between two models. The "
 "null model is the trivial model that only includes 1 regression "
-"coefficient, for the intercept term. The alternative model contains K + 1"
-" regression coefficients, one for each of the K predictor variables and "
-"one more for the intercept. So the *df*-value that you see in this *F* "
-"test is equal to *df*\\ :sub:`1` = K + 1 - 1 = K."
+"coefficient, for the intercept term. The alternative model contains *K* +"
+" 1 regression coefficients, one for each of the K predictor variables and"
+" one more for the intercept. So the *df*-value that you see in this *F* "
+"test is equal to *df*\\ :sub:`1` = *K* + 1 - 1 = *K*."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:512
@@ -2788,26 +2783,26 @@ msgid ""
 "wanted to *perfectly* describe each of these *N* values, you need to do "
 "so using, well… *N* numbers. When you build a regression model, what "
 "you’re really doing is specifying that some of the numbers need to "
-"perfectly describe the data. If your model has K predictors and an "
-"intercept, then you’ve specified K + 1 numbers. So, without bothering to "
-"figure out exactly *how* this would be done, how many *more* numbers do "
-"you think are going to be needed to transform a K + 1 parameter "
+"perfectly describe the data. If your model has *K* predictors and an "
+"intercept, then you’ve specified *K* + 1 numbers. So, without bothering "
+"to figure out exactly *how* this would be done, how many *more* numbers "
+"do you think are going to be needed to transform a *K* + 1 parameter "
 "regression model into a perfect re-description of the raw data? If you "
-"found yourself thinking that (K + 1) + (N - K - 1) = N, and so the answer"
-" would have to be N - K - 1, well done! That’s exactly right. In "
-"principle you can imagine an absurdly complicated regression model that "
-"includes a parameter for every single data point, and it would of course "
-"provide a perfect description of the data. This model would contain *N* "
-"parameters in total, but we’re interested in the difference between the "
-"number of parameters required to describe this full model (i.e. *N*) and "
-"the number of parameters used by the simpler regression model that you’re"
-" actually interested in (i.e., K + 1), and so the second degrees of "
-"freedom in the *F* test is *df*\\ :sub:`2` = N - K - 1, where K is the "
-"number of predictors (in a regression model) or the number of contrasts "
-"(in an ANOVA). In the example I gave above, there are *N* = 18 "
-"observations in the data set and K + 1 = 4 regression coefficients "
-"associated with the ANOVA model, so the degrees of freedom for the "
-"residuals is *df*\\ :sub:`2` = 18 - 4 = 14."
+"found yourself thinking that (*K* + 1) + (*N* - *K* - 1) = *N*, and so "
+"the answer would have to be *N* - *K* - 1, well done! That’s exactly "
+"right. In principle you can imagine an absurdly complicated regression "
+"model that includes a parameter for every single data point, and it would"
+" of course provide a perfect description of the data. This model would "
+"contain *N* parameters in total, but we’re interested in the difference "
+"between the number of parameters required to describe this full model "
+"(i.e. *N*) and the number of parameters used by the simpler regression "
+"model that you’re actually interested in (i.e., K + 1), and so the second"
+" degrees of freedom in the *F* test is *df*\\ :sub:`2` = *N* - *K* - 1, "
+"where *K* is the number of predictors (in a regression model) or the "
+"number of contrasts (in an ANOVA). In the example I gave above, there are"
+" *N* = 18 observations in the data set and *K* + 1 = 4 regression "
+"coefficients associated with the ANOVA model, so the degrees of freedom "
+"for the residuals is *df*\\ :sub:`2` = 18 - 4 = 14."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:4
@@ -4150,5 +4145,12 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
 msgstr ""
+
+
+
+
+
+
+
 
 
