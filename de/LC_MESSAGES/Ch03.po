@@ -22,29 +22,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 20:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-16 20:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-16 19:51+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch03/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
@@ -82,7 +74,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:32
 msgid "Why using jamovi?"
-msgstr ""
+msgstr "Warum sollten Sie jamovi verwenden?"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:34
 msgid ""
@@ -202,15 +194,15 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:88
 msgid "These are the main reasons I use jamovi."
-msgstr ""
+msgstr "Das sind die Hauptgründe, warum ich jamovi verwende."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:4
 msgid "Installating and starting jamovi"
-msgstr ""
+msgstr "Installieren und Starten von jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:7
 msgid "Installation"
-msgstr ""
+msgstr "Installation"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:9
 msgid ""
@@ -221,6 +213,12 @@ msgid ""
 "distributed online and you can download it from the jamovi homepage, which "
 "is:"
 msgstr ""
+"Fangen wir an. Genau wie jede andere Software muss jamovi auf einem "
+"„Computer“ installiert werden: eine magische Box ist, die coole Dinge tut "
+"und kostenlose Ponys liefert. Oder etwas in diese Richtung; möglicherweise "
+"verwechsele ich Computer mit den iPad-Marketingkampagnen. Wie auch immer, "
+"jamovi ist kostenlos verfügbar und Sie können es von der jamovi-Homepage "
+"herunterladen:"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:15
 msgid "`https://www.jamovi.org <https://www.jamovi.org>`__"
@@ -245,10 +243,14 @@ msgid ""
 "`community resources <https://www.jamovi.org/community.html>`__ on the "
 "jamovi homepage."
 msgstr ""
+"Während dieses Lehrbuch eine der ersten verfügbaren Ressourcen war, um "
+"jamovi zu unterstützen, gibt es inwzischen eine Fülle davon: Schauen Sie "
+"sich ruhig ein wenig unter „Ressources“ → `community resources <https://www."
+"jamovi.org/community.html>`__ auf der jamovi-Homepage um."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:28
 msgid "The jamovi window"
-msgstr ""
+msgstr "Die jamovi-Benutzeroberfläche"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:30
 msgid ""
@@ -278,6 +280,11 @@ msgid ""
 "regions and this can be dragged to the left or the right to change their "
 "sizes."
 msgstr ""
+"Links finden Sie die :doc:`Datentabelle <Ch03_jamoviIntro_2>` und rechts die "
+"Ergebnisse Ihrer `statistischen Analysen <Ch03_jamoviIntro_3>`. In der Mitte "
+"befindet sich eine Leiste, die diese beiden Teile trennt, und diese kann "
+"nach links oder rechts verschoben werden, um die relative Größe der beiden "
+"Teile zu ändern."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:50
 msgid ""
@@ -289,6 +296,15 @@ msgid ""
 "jamovi user interface. On most operating systems (OS), the language defaults "
 "to the language you have set for your OS.\\ [#]"
 msgstr ""
+"Wenn Sie jamovi zum ersten Mal öffnen, möchten Sie vielleicht einige der "
+"Standardeinstellungen ändern. Über das Einstellungsmenü können Sie auf diese "
+"Einstellungen zugreifen (``⋮``, in der oberen linken Ecke). Sie können dort "
+"beispielsweise ändern, wie viele Dezimalstellen in der Ausgabe Ihrer "
+"Analysen angezeigt werden sollen, welche Formatierung und welches Farbschema "
+"für Ihre Diagramme verwendet werden soll sowie (seit Version 2.3 von jamovi) "
+"auch die Sprache Ihrer jamovi-Benutzeroberfläche. Als Voreinstellung gewählt "
+"ist meistens die Sprache, die Sie für Ihr Betriebssystem eingestellt haben.\\"
+" [#]"
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:58
 msgid ""
@@ -307,6 +323,21 @@ msgid ""
 "statistical analyses. You can, in addition, ``Export`` the **output** of "
 "your analyses as PDF, HTML or as LaTeX-document."
 msgstr ""
+"Um jamovi zu beenden, schließen Sie das Programm einfach wie jedes andere "
+"Programm. Bevor Sie jamovi schließen sollten Sie jedoch Ihre Arbeit zu "
+"speichern! Dies besteht aus zwei Teilen: Speichern aller Änderungen am "
+"Datensatz und Speichern der Analysen, die Sie ausgeführt haben. Es empfiehlt "
+"sich, alle Änderungen am Datensatz als *neuen* Datensatz zu speichern. "
+"jamovi speichert *sowohl* die Daten als auch die von Ihnen durchgeführten "
+"Analysen in derselben jamovi-Datei. Wählen Sie im jamovi-Hauptmenü (``☰``) ``"
+"Save as`` und geben Sie einen Dateinamen für Ihre ``jamovi file (.omv)`` "
+"ein. Denken Sie daran, die Datei an einem Ort zu speichern, an dem Sie sie "
+"später wiederfinden. Normalerweise ist es sinnvoll, einen neuen Ordner für "
+"Datensätze und Analysen zu erstellen. Alternativ können Sie Ihre **Daten** "
+"exportieren (``Export``): entweder in ein Format für andere Statistikpakete ("
+"R, SPSS, SAS, Stata) oder als CSV-Datei, die Sie mit praktisch allen "
+"Statistikprogrammen öffnen können. Zusätzlich können Sie die **Ausgabe** "
+"Ihrer Analysen als PDF, HTML oder als LaTeX-Dokument exportieren."
 
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:76
 msgid ""
@@ -325,6 +356,8 @@ msgid ""
 "Please note that the figures (screenshots, etc.) within this book are using "
 "the English user interface."
 msgstr ""
+"Bitte beachten Sie, dass die Abbildungen (Screenshots usw.) in diesem Buch "
+"mit der englischen Benutzeroberfläche erstellt wurden."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:4
 msgid "The spreadsheet"
@@ -336,6 +369,10 @@ msgid ""
 "you would in any other spreadsheet software. Alternatively, existing data "
 "sets can be opened in jamovi (see the section “” further down on the page)."
 msgstr ""
+"Es ist möglich, einfach damit zu beginnen, Werte in die jamovi-Datentabelle "
+"einzugeben, wie Sie es in jeder anderen Tabellenkalkulationssoftware tun "
+"würden. Alternativ können bestehende Datensätze in jamovi geöffnet werden ("
+"siehe Abschnitt „“ weiter unten auf der Seite)."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:11
 msgid ""
@@ -347,7 +384,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:17
 msgid "Data Variables"
-msgstr ""
+msgstr "Datenvariablen"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:19
 msgid ""
