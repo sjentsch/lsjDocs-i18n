@@ -193,6 +193,62 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
@@ -207,6 +263,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1221,7 +1365,7 @@ msgstr ""
 "man zumindest einige Zeit damit verbringen, über die Gefahren dieser Praxis "
 "nachzudenken. Zweitens: Wenn Sie schon die Studie eines anderen kritisieren, "
 "weil dieser eine willkürliche Stichprobe verwendet hat, anstatt mühsam eine "
-"Zufallsstichprobe aus der gesamten menschlichen Bevölkerung zu ziehen, dann "
+"Zufallsstichprobe aus der gesamten menschlichen Population zu ziehen, dann "
 "seien Sie wenigstens so höflich, eine konkrete Theorie anzubieten, *wie* "
 "dies die Ergebnisse verzerrt haben könnte."
 
@@ -1319,7 +1463,7 @@ msgid ""
 msgstr ""
 "Nehmen wir nun an, ich führe ein Experiment durch. Ich wähle 100 Personen "
 "nach dem Zufallsprinzip aus und führe einen IQ-Test durch, so dass ich eine "
-"einfache Zufallsstichprobe aus der Bevölkerung erhalte. Meine Stichprobe "
+"einfache Zufallsstichprobe aus der Population erhalte. Meine Stichprobe "
 "würde aus einer Sammlung von Zahlen wie dieser bestehen:"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:374
@@ -1409,7 +1553,7 @@ msgid ""
 msgstr ""
 "Im vorherigen Abschnitt habe ich Ihnen die Ergebnisse eines fiktiven IQ-"
 "Experiments mit einer Stichprobengröße von *N* = 100 gezeigt. Die Ergebnisse "
-"waren einigermaßen ermutigend, da der wahre Mittelwert der Bevölkerung bei "
+"waren einigermaßen ermutigend, da der wahre Mittelwert der Population bei "
 "100 liegt und der Stichprobenmittelwert von 98,5 eine vernünftige Annäherung "
 "an diesen Wert darstellt. In vielen wissenschaftlichen Studien ist dieser "
 "Genauigkeitsgrad durchaus akzeptabel, aber in anderen Situationen muss man "
@@ -1971,7 +2115,7 @@ msgstr ""
 "durchschnittlichen IQ berechnet, erhält man mit ziemlicher Sicherheit eine "
 "Zahl zwischen 80 und 120, auch wenn es eine ganze Reihe von Personen gibt, "
 "deren IQ über 120 oder unter 80 liegt. Zum Vergleich: Die schwarze Linie "
-"zeigt die Verteilung der IQ-Werte in der Bevölkerung."
+"zeigt die Verteilung der IQ-Werte in der Population."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:119
 msgid ""
@@ -2167,7 +2311,7 @@ msgstr ""
 "Das ist also ein Teil der Geschichte. Es gibt jedoch etwas, das ich bisher "
 "übersehen habe. Alle meine bisherigen Beispiele basierten auf den "
 "Experimenten zu den „IQ-Werten“, und da die IQ-Werte ungefähr normal "
-"verteilt sind, habe ich angenommen, dass die Verteilung in der Bevölkerung "
+"verteilt sind, habe ich angenommen, dass die Verteilung in der Population "
 "normal ist. Was aber, wenn sie nicht normal ist? Was passiert dann mit der "
 "Stichprobenverteilung des Mittelwerts? Das Bemerkenswerte ist, dass "
 "unabhängig von der Form der Grundgesamtheit die Stichprobenverteilung des "
@@ -2177,8 +2321,8 @@ msgstr ""
 "begonnen, die im Histogramm in :numref:`fig-cltDemo` (oben links) "
 "dargestellt ist. Wenn man das dreieckige Histogramm mit der Glockenkurve "
 "vergleicht, die durch die schwarze Linie dargestellt wird, sieht die "
-"Verteilung der Bevölkerung überhaupt nicht wie eine Normalverteilung aus. "
-"Als Nächstes habe ich die Ergebnisse einer großen Anzahl von Experimenten "
+"Verteilung der Population überhaupt nicht wie eine Normalverteilung aus. Als "
+"Nächstes habe ich die Ergebnisse einer großen Anzahl von Experimenten "
 "simuliert. Bei jedem Experiment habe ich *N* = 2 Stichproben aus dieser "
 "Verteilung genommen und dann den Stichprobenmittelwert berechnet. :numref:"
 "`fig-cltDemo` (rechts oben) zeigt das Histogramm dieser "
@@ -2360,9 +2504,9 @@ msgstr ""
 "allerersten Vorlesung über die Messung von Intelligenz beigebracht wird, "
 "sind die IQ-Werte mit einem Mittelwert von 100 und einer Standardabweichung "
 "von 15 *definiert*. Dies ist jedoch eine kleine Lüge. Woher wissen wir, dass "
-"die IQ-Werte tatsächlich einen Bevölkerungsmittelwert von 100 haben? Nun, "
-"wir wissen das, weil die Leute, welche die Tests entwickelt haben, sie an "
-"sehr großen Stichproben durchgeführt und dann die Bewertungsregeln so "
+"die IQ-Werte tatsächlich einen Populationsmittelwert von 100 haben? Nun, wir "
+"wissen das, weil die Leute, welche die Tests entwickelt haben, sie an sehr "
+"großen Stichproben durchgeführt und dann die Bewertungsregeln so "
 "„manipuliert“ (oder besser: „angepasst“) haben, dass ihre Stichprobe einen "
 "Mittelwert von 100 hat. Das ist natürlich nichts Schlechtes, sondern ein "
 "wichtiger Teil der Entwicklung einer psychologischen Messung. Es ist jedoch "
@@ -2398,7 +2542,7 @@ msgstr ""
 "Menschen in Port Pirie mit einer vergleichbaren Stichprobe in Whyalla, einer "
 "südaustralischen Industriestadt mit einer Stahlraffinerie, zu vergleichen.\\ "
 "[#]_ Unabhängig davon, an welche Stadt Sie denken, macht es nicht viel Sinn, "
-"einfach davon *auszugehen*, dass der wahre Durchschnitts-IQ der Bevölkerung "
+"einfach davon *auszugehen*, dass der wahre Durchschnitts-IQ der Population "
 "100 beträgt. Meines Wissens hat noch niemand vernünftige Normierungsdaten "
 "vorgelegt, die sich automatisch auf südaustralische Industriestädte anwenden "
 "lassen. Wir müssen die Populationsparameter aus einer Stichprobe von Daten "
@@ -2500,7 +2644,7 @@ msgstr "µ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:74
 msgid "True population mean"
-msgstr "Wahrer Bevölkerungsmittelwert"
+msgstr "Wahrer Populationsmittelwert"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:270
 #: ../../Ch08/Ch08_Estimation_4.rst:281
@@ -2699,7 +2843,7 @@ msgstr ""
 "Hintergrundwissen hat, sind sie nicht sehr hilfreich. Stattdessen werde ich "
 "die Ergebnisse einiger Experimente simulieren. Kehren wir also zu unseren IQ-"
 "Studien zurück. Nehmen wir an, der tatsächliche Durchschnitts-IQ der "
-"Bevölkerung liegt bei 100 und die Standardabweichung bei 15. Zunächst führe "
+"Population liegt bei 100 und die Standardabweichung bei 15. Zunächst führe "
 "ich ein Experiment durch, bei dem ich *N* = 2 IQ-Werte messe und die "
 "Standardabweichung der Stichprobe berechne. Wenn ich das immer wieder mache "
 "und ein Histogramm dieser Stichproben-Standardabweichungen zeichne, erhalte "

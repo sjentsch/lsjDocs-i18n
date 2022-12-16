@@ -123,6 +123,62 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#
 # #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -162,6 +218,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -479,10 +623,10 @@ msgstr ""
 "Irgendwann sind wir alle dem Wahnsinn verfallen. Für mich wird dieser Tag "
 "kommen, wenn ich endlich zum ordentlichen Professor befördert werde. Sicher "
 "in meinem Elfenbeinturm verwurzelt und glücklich durch die Festanstellung "
-"geschützt, werde ich endlich in der Lage sein, mich von meinen Sinnen zu "
-"verabschieden (sozusagen) und mich der äußerst unproduktiven Sparte der "
-"psychologischen Forschung hinzugeben, der Suche nach außersinnlicher "
-"Wahrnehmung (*extrasensory perception*, ESP).\\ [#]_"
+"geschützt, werde ich endlich in der Lage sein, mich von meinem gesunden "
+"Menschenverstand zu verabschieden und mich einer äußerst unproduktiven "
+"Sparte der psychologischen Forschung hinzugeben, der Suche nach "
+"außersinnlicher Wahrnehmung (*extrasensory perception*, ESP).\\ [#]_"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:13
 msgid ""
@@ -1211,12 +1355,12 @@ msgstr ""
 "zurückweisen“ oder „die Nullhypothese beibehalten“ machen darf. Nach dieser "
 "Denkweise darf man nicht sagen: „akzeptiere die Alternativhypothese“ oder "
 "„akzeptiere die Nullhypothese“. Ich persönlich denke, dass dies zu stark "
-"ist. Meiner Meinung nach wird hier die Prüfung von Nullhypothesen mit Karl "
-"Poppers falsifikatorischer Sichtweise des wissenschaftlichen Prozesses "
-"vermengt. Es gibt zwar Ähnlichkeiten zwischen Falsifikationismus und "
-"Nullhypothesen-Signifikanztests, aber sie sind nicht gleichwertig. Während "
-"ich es persönlich für in Ordnung halte, über die Akzeptanz einer Hypothese "
-"zu sprechen (unter der Voraussetzung, dass „Akzeptanz“ nicht unbedingt "
+"ist. Meiner Meinung nach wird das Prüfen von Nullhypothesen mit Karl Poppers "
+"falsifikatorischer Sichtweise des wissenschaftlichen Prozesses vermengt. Es "
+"gibt zwar Ähnlichkeiten zwischen Falsifikationismus und Nullhypothesen-"
+"Signifikanztests, aber sie sind nicht gleichwertig. Während ich es "
+"persönlich für in Ordnung halte, über die Akzeptanz einer Hypothese zu "
+"sprechen (unter der Voraussetzung, dass „Akzeptanz“ nicht unbedingt "
 "bedeutet, dass sie „korrekt“ ist, insbesondere im Fall der Nullhypothese), "
 "werden viele Leute anderer Meinung sein. Außerdem sollten Sie wissen, dass "
 "es diese besondere Eigenart gibt, damit Sie nicht unvorbereitet davon "
@@ -1422,7 +1566,7 @@ msgid ""
 msgstr ""
 "Um diese Frage zu beantworten, müssen wir das Konzept des **kritischen "
 "Bereichs** für die Teststatistik *X* einführen. Der kritische Bereich des "
-"Tests entspricht den Werten von *X*, die zur Ablehnung der Nullhypothese "
+"Tests entspricht den Werten von *X*, die zum Ablehnen der Nullhypothese "
 "führen würden (daher wird der kritische Bereich manchmal auch als "
 "Ablehnungsbereich bezeichnet). Wie finden wir diesen kritischen Bereich? "
 "Nun, betrachten wir, was wir wissen:"
@@ -1967,8 +2111,8 @@ msgstr ""
 "in den meisten einführenden Statistiklehrbüchern verwendet. Haben Sie "
 "bemerkt, dass der von mir konstruierte kritische Bereich den *Ausläufern* "
 "(d. h. den Extremwerten) der Stichprobenverteilung entsprach? Das ist kein "
-"Zufall, fast alle „guten“ Tests haben diese Eigenschaft (gut im Sinne der "
-"Minimierung unserer Fehlerrate vom Typ II, β). Der Grund dafür ist, dass ein "
+"Zufall, fast alle „guten“ Tests haben diese Eigenschaft (gut im Sinne des "
+"Minimierens unserer Typ-II-Fehlerrate, β). Der Grund dafür ist, dass ein "
 "guter kritischer Bereich fast immer denjenigen Werten der Teststatistik "
 "entspricht, die am wenigsten wahrscheinlich zu beobachten sind, wenn die "
 "Nullhypothese wahr ist. Wenn diese Regel zutrifft, können wir den *p*-Wert "
@@ -2406,7 +2550,7 @@ msgstr ""
 "*Binomialtest* und ist in jamovi als eine der statistischen Analysen "
 "implementiert, die Sie über die Schaltfläche ``Frequencies`` aufrufen "
 "können. Um die Nullhypothese zu testen, dass die Antwortwahrscheinlichkeit "
-"die Hälfte ``p = 0.5``,\\ [#]_ beträgt, und unter Verwendung von Daten, in "
+"die Hälfte ``p = 0.5``,\\ [#]_ beträgt, und beim Verwenden von Daten, bei "
 "denen ``x = 62`` von ``n = 100`` Personen die richtige Antwort gegeben "
 "haben, die im Datensatz |binomialtest|_ verfügbar sind, erhalten wir die in :"
 "numref:`fig-binomialtest` gezeigten Ergebnisse."
@@ -2474,12 +2618,12 @@ msgstr ""
 "diesem Sinne ist ein sekundäres Ziel des Hypothesentests der Versuch, β, die "
 "Fehlerrate vom Typ II zu minimieren, obwohl wir normalerweise nicht so stark "
 "auf das Minimieren von Fehlern vom Typ II fokussieren. Stattdessen sprechen "
-"wir über die Maximierung der *Stärke* (*power*) des Tests. Da die Teststärke "
-"als 1 - β definiert ist, ist dies dasselbe."
+"wir über das Maximieren der *Teststärke* (*power*). Da die Teststärke als 1 "
+"- β definiert ist, ist dies dasselbe."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:19
 msgid "The power function"
-msgstr "Die Power-Funktion"
+msgstr "Die *power*-Funktion"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:27
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
@@ -2587,7 +2731,7 @@ msgid ""
 msgstr ""
 "All dies bedeutet, dass die Stärke eines Tests (d.h. 1 - β) vom wahren Wert "
 "von *θ* abhängt. Um dies zu veranschaulichen, habe ich die erwartete "
-"Wahrscheinlichkeit der Ablehnung der Nullhypothese für alle Werte von *θ* "
+"Wahrscheinlichkeit für das Ablehnen der Nullhypothese für alle Werte von *θ* "
 "berechnet und in :numref:`fig-powerTheta` dargestellt. Diese Darstellung "
 "beschreibt das, was üblicherweise die **Stärkefunktion** (*power function*) "
 "des Tests genannt wird. Es ist eine Zusammenfassung, wie gut der Test ist, "
@@ -2616,8 +2760,8 @@ msgstr ""
 "Chance auf korrekte Ablehnung), je mehr der wahre Wert von θ sich von dem "
 "Wert unterscheidet, den die Nullhypothese vorgibt (d. h. θ = 0,5). Beachten "
 "Sie, dass, wenn θ tatsächlich gleich 0,5 ist (als schwarzer Punkt "
-"dargestellt), die Nullhypothese in der Tat wahr ist und die Zurückweisung "
-"der Nullhypothese in diesem Fall ein Fehler vom Typ I wäre."
+"dargestellt), die Nullhypothese in der Tat wahr ist und das Zurückweisen der "
+"Nullhypothese in diesem Fall ein Fehler vom Typ I wäre."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:102
 msgid "Effect size"
@@ -2780,7 +2924,7 @@ msgstr ""
 "darin, zu zeigen, dass die Nullhypothese falsch ist, ist das kaum das "
 "Einzige, was uns interessiert. Wenn die Nullhypothese behauptet, dass *θ* = "
 "0,50 ist, und wir zeigen, dass sie falsch ist, haben wir nur eine Hälfte der "
-"Geschichte erzählt. Die Ablehnung der Nullhypothese bedeutet, dass wir "
+"Geschichte erzählt. Das Ablehnen der Nullhypothese bedeutet, dass wir "
 "glauben, dass *θ* ≠ 0,50 ist, aber es gibt einen großen Unterschied zwischen "
 "*θ* = 0,51 und *θ* = 0,80. Wenn wir feststellen, dass *θ* = 0,80 ist, dann "
 "haben wir nicht nur festgestellt, dass die Nullhypothese falsch ist, sondern "
@@ -2887,14 +3031,14 @@ msgstr ""
 msgid ""
 "The power of our test plotted as a function of the sample size N. In this "
 "case, the true value of θ is 0.7 but the null hypothesis is that θ = 0.5. "
-"Overall, larger N means greater power (the small zig-zags in this function "
+"Overall, larger *N* means greater power (the small zig-zags in this function "
 "occur because of some odd interactions between θ, α and the fact that the "
 "binomial distribution is discrete, it doesn’t matter for any serious "
 "purpose)."
 msgstr ""
 "Die Stärke unseres Tests, aufgetragen als Funktion des Stichprobenumfangs N. "
 "In diesem Fall ist der wahre Wert von θ 0,7, die Nullhypothese lautet jedoch "
-"θ = 0,5. Insgesamt bedeutet ein größeres N eine größere Aussagekraft (die "
+"θ = 0,5. Insgesamt bedeutet ein größeres *N* eine größere Aussagekraft (die "
 "kleinen Zickzackkurven in dieser Funktion sind auf einige seltsame "
 "Wechselwirkungen zwischen θ, α und der Tatsache zurückzuführen, dass die "
 "Binomialverteilung diskret ist; für einen ernsthaften Zweck spielt dies "
@@ -2938,34 +3082,33 @@ msgid ""
 "discussion of power analysis, but for now this is about as much as I’m "
 "comfortable saying about the topic."
 msgstr ""
-"Da die Aussagekraft wichtig ist, wäre es bei der Durchführung eines "
-"Experiments sehr nützlich zu wissen, wie hoch die Aussagekraft sein wird. Es "
-"ist nie möglich, dies mit Sicherheit zu wissen, da man unmöglich wissen "
-"kann, wie groß der Effekt tatsächlich ist. Es ist jedoch oft (oder "
-"mindestens manchmal) möglich, zu schätzen, wie groß sie sein sollte. Wenn "
-"das der Fall ist, können Sie schätzen, welchen Stichprobenumfang Sie "
-"benötigen! Diese Idee nennt sich **Teststärkeberechnung** (*power "
-"analysis*), und wenn sie durchführbar ist, ist sie sehr hilfreich. Sie kann "
-"Ihnen Aufschluss darüber geben, ob Sie über genügend Zeit oder Geld "
-"verfügen, um das Experiment erfolgreich durchführen zu können. Immer "
-"häufiger wird argumentiert, dass die Teststärkeberechnung ein "
-"obligatorischer Bestandteil der Versuchsplanung sein sollte. Deshalb lohnt "
-"es sich, sie zu kennen. In diesem Buch gehe ich jedoch nicht darauf ein. Das "
-"hat einen praktischen und einen inhaltlichen Grund. Der praktische Grund "
-"ist, dass ich noch keine Zeit hatte, etwas Substanzielles über "
-"Teststärkeberechnung zu schreiben. Der inhaltliche Grund ist, dass ich der "
-"Teststärkeberechnung immer noch ein wenig misstrauisch gegenüberstehe. Als "
-"Forscher habe ich mich nur sehr selten in der Lage gesehen, eine solche "
-"Analyse durchzuführen. Es ist entweder so, dass (a) mein Experiment ein "
-"wenig vom Standard abweicht und ich nicht weiß, wie ich die Effektstärke "
-"richtig definieren soll, oder (b) ich habe buchstäblich so wenig Ahnung von "
-"Effektstärke, dass ich nicht weiß, wie ich die Antworten interpretieren "
-"soll. Und nicht nur das: Nach ausführlichen Gesprächen mit jemandem, der "
-"beruflich als Berater für Statistik tätig ist (zufälligerweise meine Frau), "
-"muss ich feststellen, dass sie in der Praxis *nur dann* nach einer "
-"Teststärkeberechnung fragt wird, wenn sie jemandem beim Schreiben eines "
-"Drittmittel-Antrags hilft. Mit anderen Worten, der einzige Zeitpunkt, an dem "
-"ein Wissenschaftler im wirklichen Leben eine Teststärkeberechnung "
+"Da die Aussagekraft wichtig ist, wäre es beim Durchführen eines Experiments "
+"sehr nützlich zu wissen, wie hoch die Aussagekraft sein wird. Es ist nie "
+"möglich, dies mit Sicherheit zu wissen, da man unmöglich wissen kann, wie "
+"groß der Effekt tatsächlich ist. Es ist jedoch oft (oder mindestens "
+"manchmal) möglich, zu schätzen, wie groß sie sein sollte. Wenn das der Fall "
+"ist, können Sie schätzen, welchen Stichprobenumfang Sie benötigen! Diese "
+"Idee nennt sich **Teststärkeberechnung** (*power analysis*), und wenn sie "
+"durchführbar ist, ist sie sehr hilfreich. Sie kann Ihnen Aufschluss darüber "
+"geben, ob Sie über genügend Zeit oder Geld verfügen, um das Experiment "
+"erfolgreich durchführen zu können. Immer häufiger wird argumentiert, dass "
+"die Teststärkeberechnung ein obligatorischer Bestandteil der Versuchsplanung "
+"sein sollte. Deshalb lohnt es sich, sie zu kennen. In diesem Buch gehe ich "
+"jedoch nicht darauf ein. Das hat einen praktischen und einen inhaltlichen "
+"Grund. Der praktische Grund ist, dass ich noch keine Zeit hatte, etwas "
+"Substanzielles über Teststärkeberechnung zu schreiben. Der inhaltliche Grund "
+"ist, dass ich der Teststärkeberechnung immer noch ein wenig misstrauisch "
+"gegenüberstehe. Als Forscher habe ich mich nur sehr selten in der Lage "
+"gesehen, eine solche Analyse durchzuführen. Es ist entweder so, dass (a) "
+"mein Experiment ein wenig vom Standard abweicht und ich nicht weiß, wie ich "
+"die Effektstärke richtig definieren soll, oder (b) ich habe buchstäblich so "
+"wenig Ahnung von Effektstärke, dass ich nicht weiß, wie ich die Antworten "
+"interpretieren soll. Und nicht nur das: Nach ausführlichen Gesprächen mit "
+"jemandem, der beruflich als Berater für Statistik tätig ist (zufälligerweise "
+"meine Frau), muss ich feststellen, dass sie in der Praxis *nur dann* nach "
+"einer Teststärkeberechnung fragt wird, wenn sie jemandem beim Schreiben "
+"eines Drittmittel-Antrags hilft. Mit anderen Worten, der einzige Zeitpunkt, "
+"an dem ein Wissenschaftler im wirklichen Leben eine Teststärkeberechnung "
 "durchführen will, ist, wenn er durch bürokratische Verfahren dazu gezwungen "
 "wird. Sie ist eher kein Teil der täglichen Arbeit von irgendjemandem. Kurz "
 "gesagt, ich war schon immer der Meinung, dass die Teststärke zwar ein "
@@ -3223,7 +3366,7 @@ msgstr ""
 "Am wichtigsten ist, dass dieses *keine* rein ideologische Angelegenheit ist. "
 "Wenn Sie sich entscheiden, dass Sie ein Bayesianer sind und dass es für Sie "
 "in Ordnung ist, Wahrscheinlichkeitsaussagen über Hypothesen zu machen, "
-"müssen Sie die Bayesschen Regeln für die Berechnung dieser "
+"müssen Sie die Bayesschen Regeln für das Berechnen dieser "
 "Wahrscheinlichkeiten befolgen. Ich werde in Kapitel :doc:`Bayessche "
 "Statistik <../Ch16/Ch16_Bayes>` mehr dazu sagen, aber im Moment möchte ich "
 "Sie darauf hinweisen, dass der *p*-Wert eine *völlig unzureichende* "

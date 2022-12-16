@@ -8,17 +8,22 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-16 13:20+0100\n"
-"PO-Revision-Date: 2022-12-16 12:51+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
-"\n"
-"Language: de\n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -227,7 +232,7 @@ msgstr ""
 "sollte. Würde ich über diese Daten berichten wollen, würde ich "
 "wahrscheinlich die Statistiken auswählen, die für mich (und meine "
 "angenommene Leserschaft) am interessantesten sind, und sie dann in eine "
-"einfache Tabelle wie :numref:`tab-parenthood`einfügen.\\ [#]_ Das ist "
+"einfache Tabelle wie :numref:`tab-parenthood` einfügen.\\ [#]_ Das ist "
 "immer eine gute Vorgehensweise. Beachten Sie auch, dass ich nicht genug "
 "Schlaf bekomme. Das ist nicht empfehlenswert, aber andere Eltern sagen "
 "mir, dass das ziemlich normal ist."
@@ -806,8 +811,8 @@ msgstr ""
 "Aufwands *immer* die Note erhöht. Das kann sehr viel oder wenig sein, "
 "aber eine Erhöhung des Arbeitsaufwands führt nie zu einer "
 "Verschlechterung der Note. Wenn wir eine gewöhnliche Pearson-Korrelation "
-"durchführen, zeigt sich eine starke Beziehung zwischen dem Arbeitseinsatz"
-" und der Note, mit einem Korrelationskoeffizienten von **0,91**. Dies "
+"berechnen, zeigt sich eine starke Beziehung zwischen dem Arbeitseinsatz "
+"und der Note, mit einem Korrelationskoeffizienten von **0,91**. Dies "
 "entspricht jedoch nicht der Beobachtung, dass eine Erhöhung der "
 "geleisteten Arbeitsstunden *immer zu einer Verbesserung der Note* führt. "
 "In gewissem Sinne möchten wir sagen können, dass die Korrelation *perfekt"
@@ -1377,8 +1382,8 @@ msgid ""
 msgstr ""
 "Ausgezeichnet. Als Nächstes kann ich nicht umhin festzustellen, dass die "
 "Daten, unabhängig davon, ob es sich um eine gute oder eine schlechte "
-"Regressionslinie handelt, nicht perfekt auf die Linie fallen. Oder anders"
-" gesagt, die Daten *Y*\\ :sub:`i` sind nicht identisch mit den "
+"Regressionsgerade handelt, nicht perfekt auf die Linie fallen. Oder "
+"anders gesagt, die Daten *Y*\\ :sub:`i` sind nicht identisch mit den "
 "Vorhersagen des Regressionsmodells *Ŷ*\\ :sub:`i`. Da Statistiker es "
 "lieben, alles mit Buchstaben, Namen und Zahlen zu versehen, bezeichnen "
 "wir die Differenz zwischen der Modellvorhersage und dem tatsächlichen "
@@ -1411,8 +1416,8 @@ msgid ""
 "and c is the intercept (constant) coefficient."
 msgstr ""
 "Manchmal auch geschrieben als *y* = mx + c, wobei m der "
-"Steigungskoeffizient und c der Achsenabschnitts (Interzept, Konstante) "
-"ist."
+"Steigungskoeffizient und c das Interzept (auch Achsenabschnitt oder "
+"Konstante genannt) ist."
 
 #: ../../Ch12/Ch12_Regression_03.rst:113
 msgid ""
@@ -1430,7 +1435,7 @@ msgstr "Schätzen eines linearen Regressionsmodells"
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr ""
 "Residuen in Verbindung mit der besten und der schlechtesten "
-"Regressionslinie"
+"Regressionsgerade"
 
 #: ../../Ch12/Ch12_Regression_04.rst:12
 msgid ""
@@ -1575,7 +1580,7 @@ msgstr ""
 "``Covariates``. Dadurch ergeben sich die in :numref:`fig-reg1` gezeigten "
 "Ergebnisse, mit einem Interzept :math:`\\hat{b}_0` = 125,96 und einer "
 "Steigung :math:`\\hat{b}_1` = -8,94. Mit anderen Worten, die am besten "
-"passende Regressionslinie, die ich in :numref:`fig-regression1` "
+"passende Regressionsgerade, die ich in :numref:`fig-regression1` "
 "eingezeichnet habe, hat die folgende Formel:"
 
 #: ../../Ch12/Ch12_Regression_04.rst:83
@@ -1719,14 +1724,15 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_05.rst:31
 msgid ""
 "As before, ε\\ :sub:`i` is the residual associated with the i-th "
-"observation, ε\\ :sub:`i` = {Y}_i - \\hat{Y}_i`. In this model, we now "
-"have three coefficients that need to be estimated: *b*\\ :sub:`0` is the "
-"intercept, *b*\\ :sub:`1` is the coefficient associated with my sleep, "
-"and *b*\\ :sub:`2` is the coefficient associated with my son’s sleep. "
-"However, although the number of coefficients that need to be estimated "
-"has changed, the basic idea of how the estimation works is unchanged: our"
-" estimated coefficients :math:`\\hat{b}_0`, :math:`\\hat{b}_1` and "
-":math:`\\hat{b}_2` are those that minimise the sum squared residuals."
+"observation, :math:`{\\epsilon}_i = {Y}_i - \\hat{Y}_i`. In this model, "
+"we now have three coefficients that need to be estimated: *b*\\ :sub:`0` "
+"is the intercept, *b*\\ :sub:`1` is the coefficient associated with my "
+"sleep, and *b*\\ :sub:`2` is the coefficient associated with my son’s "
+"sleep. However, although the number of coefficients that need to be "
+"estimated has changed, the basic idea of how the estimation works is "
+"unchanged: our estimated coefficients :math:`\\hat{b}_0`, "
+":math:`\\hat{b}_1` and :math:`\\hat{b}_2` are those that minimise the sum"
+" squared residuals."
 msgstr ""
 "Wie zuvor ist ε\\ :sub:`i` das mit der i-ten Beobachtung verbundene "
 "Residuum, :math:`{\\epsilon}_i = {Y}_i - \\hat{Y}_i`. In diesem Modell "
@@ -1739,11 +1745,11 @@ msgstr ""
 ":math:`\\hat{b}_0`, :math:`\\hat{b}_1` und :math:`\\hat{b}_2` sind "
 "diejenigen, welche die Summe der quadrierten Residuen minimieren."
 
-#: ../../Ch12/Ch12_Regression_05.rst:43
+#: ../../Ch12/Ch12_Regression_05.rst:42
 msgid "Doing it in jamovi"
 msgstr "Durchführung in jamovi"
 
-#: ../../Ch12/Ch12_Regression_05.rst:45
+#: ../../Ch12/Ch12_Regression_05.rst:44
 msgid ""
 "Multiple regression in jamovi is no different to simple regression. All "
 "we have to do is add additional variables to the ``Covariates`` box in "
@@ -1763,7 +1769,7 @@ msgstr ""
 "an, dass jedes Modell einen Interzept enthalten sollte. Die "
 "Koeffizienten, die wir dieses Mal erhalten, sind:"
 
-#: ../../Ch12/Ch12_Regression_05.rst:53
+#: ../../Ch12/Ch12_Regression_05.rst:52
 msgid ""
 "Model coefficients for the linear model predicting ``dani.grump`` using "
 "``baby.sleep`` and ``dani.sleep`` (from the |parenthood|_ data set)."
@@ -1772,39 +1778,39 @@ msgstr ""
 "``dani.grump`` unter Verwendung von ``baby.sleep`` und ``dani.sleep`` "
 "(aus dem |parenthood|_ Datensatz)."
 
-#: ../../Ch12/Ch12_Regression_05.rst:58
+#: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Predictor"
 msgstr "Prädiktor"
 
-#: ../../Ch12/Ch12_Regression_05.rst:58
+#: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Estimate"
 msgstr "Schätzung"
 
-#: ../../Ch12/Ch12_Regression_05.rst:60
+#: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "Intercept"
 msgstr "Interzept"
 
-#: ../../Ch12/Ch12_Regression_05.rst:60
+#: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "125.966"
 msgstr "125.966"
 
-#: ../../Ch12/Ch12_Regression_05.rst:62
+#: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "``dani.sleep``"
 msgstr "``dani.sleep``"
 
-#: ../../Ch12/Ch12_Regression_05.rst:62
+#: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "-8.950"
 msgstr "-8.950"
 
-#: ../../Ch12/Ch12_Regression_05.rst:64
+#: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "``baby.sleep``"
 msgstr "``baby.sleep``"
 
-#: ../../Ch12/Ch12_Regression_05.rst:64
+#: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "0.011"
 msgstr "0.011"
 
-#: ../../Ch12/Ch12_Regression_05.rst:67
+#: ../../Ch12/Ch12_Regression_05.rst:66
 msgid ""
 "The coefficient associated with ``dani.sleep`` is quite large, suggesting"
 " that every hour of sleep I lose makes me a lot grumpier. However, the "
@@ -1825,11 +1831,11 @@ msgstr ""
 "Diagramm, in dem alle drei Variablen sowie das Regressionsmodell selbst "
 "dargestellt sind."
 
-#: ../../Ch12/Ch12_Regression_05.rst:82
+#: ../../Ch12/Ch12_Regression_05.rst:81
 msgid "3D visualisation of a multiple regression model"
 msgstr "3D-Visualisierung eines multiplen Regressionsmodells"
 
-#: ../../Ch12/Ch12_Regression_05.rst:82
+#: ../../Ch12/Ch12_Regression_05.rst:81
 msgid ""
 "3D visualisation of a multiple regression model: There are two predictors"
 " in the model, ``dani.sleep`` and ``baby.sleep`` and the outcome variable"
@@ -1849,11 +1855,11 @@ msgstr ""
 "Raum. Bei der Schätzung der Regressionskoeffizienten geht es darum, eine "
 "Ebene zu finden, die möglichst nahe an allen blauen Punkten liegt."
 
-#: ../../Ch12/Ch12_Regression_05.rst:94
+#: ../../Ch12/Ch12_Regression_05.rst:93
 msgid "Formula for the general case"
 msgstr "Die Formel für den allgemeinen Fall"
 
-#: ../../Ch12/Ch12_Regression_05.rst:96
+#: ../../Ch12/Ch12_Regression_05.rst:95
 msgid ""
 "The equation that I gave above shows you what a multiple regression model"
 " looks like when you include two predictors. Not surprisingly, then, if "
@@ -1869,7 +1875,7 @@ msgstr ""
 "Worten: Wenn Sie *K* Prädiktorvariablen im Modell haben, sieht die "
 "Regressionsgleichung wie folgt aus"
 
-#: ../../Ch12/Ch12_Regression_05.rst:103
+#: ../../Ch12/Ch12_Regression_05.rst:102
 msgid ""
 "Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
 "\n"
@@ -1959,9 +1965,9 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:34
 msgid ""
 "Go to an empty column (at the end of the data set) and double click on "
-"the column header, choose “New computed variable” and enter ``Y_pred`` in"
-" the first line and the formula ``125.97 + (-8.94 * dani.sleep)`` in the "
-"line starting with ``=`` (next to the *f*\\ :sub:`x`)."
+"the column header, choose ``New computed variable`` and enter ``Y_pred`` "
+"in the first line and the formula ``125.97 + (-8.94 * dani.sleep)`` in "
+"the line starting with ``=`` (next to the *f*\\ :sub:`x`)."
 msgstr ""
 "Gehen Sie zu einer leeren Spalte (am Ende des Datensatzes) und "
 "doppelklicken Sie auf die Spaltenüberschrift, wählen Sie ``New computed "
@@ -1995,7 +2001,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:48
 msgid ""
 "Calculate the squared deviation from the mean by creating yet another "
-"column  called ``sq_total`` using the formula ``(dani.grump - "
+"column called ``sq_total`` using the formula ``(dani.grump - "
 "VMEAN(dani.grump)) ^ 2``. The values in this column are later summed up "
 "to obtain SS\\ :sub:`tot`."
 msgstr ""
@@ -2134,10 +2140,9 @@ msgstr ""
 "Korrelationskoeffizienten *r* und dem Wert *R*\\² bei der linearen "
 "Regression geben? Natürlich: Die quadrierte Korrelation *R*\\² ist "
 "identisch mit dem Wert *R*\\² für eine lineare Regression mit nur einem "
-"einzigen Prädiktor. Mit anderen Worten: Die Durchführung einer Pearson-"
-"Korrelation ist mehr oder weniger gleichbedeutend mit der Durchführung "
-"eines linearen Regressionsmodells, das nur eine Prädiktorvariable "
-"verwendet."
+"einzigen Prädiktor. Mit anderen Worten: Das Berechnen einer Pearson-"
+"Korrelation ist mehr oder weniger gleichbedeutend mit dem Berechnen eines"
+" linearen Regressionsmodells mit nur einer Prädiktorvariable."
 
 #: ../../Ch12/Ch12_Regression_06.rst:110
 msgid "The adjusted *R*\\² (R-squared) value"
@@ -2162,8 +2167,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:119
 msgid ""
 "The adjusted *R*\\² value introduces a slight change to the calculation, "
-"as follows. For a regression model with K predictors, fit to a data set "
-"containing *N* observations, the adjusted *R*\\² is:"
+"as follows. For a regression model with *K* predictors, fit to a data set"
+" containing *N* observations, the adjusted *R*\\² is:"
 msgstr ""
 "Der adjustierte *R*\\²-Wert führt zu einer geringfügigen Änderung der "
 "Berechnung. Für ein Regressionsmodell mit *K* Prädiktoren, das an einen "
@@ -2916,10 +2921,9 @@ msgid ""
 "``Model Coefficients`` options, see results in :numref:`fig-reg3`."
 msgstr ""
 "Um die Dinge noch einfacher zu machen, hat jamovi eine Option, welche die"
-" β-Koeffizienten für Sie berechnet. Setzen Sie hierfür das "
-"Kontrollkästchen ``Standardized estimate`` in den Optionen ``Model "
-"Coefficients``, und sie erhalten die Ergebnisausgabe in :numref:`fig-"
-"reg3`."
+" β-Koeffizienten für Sie berechnet. Setzen Sie hierfür die ``Standardized"
+" estimate``-Checkbox in den Optionen ``Model Coefficients``, und sie "
+"erhalten die Ergebnisausgabe in :numref:`fig-reg3`."
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
 #, python-format
@@ -3164,14 +3168,14 @@ msgstr ""
 " werde ich versuchen, hier ein paar davon vorzustellen. Schließlich "
 "sollte ich anmerken, dass dieser Abschnitt ziemlich stark von `Fox and "
 "Weisberg (2011) <.. /Other/References.html#fox-2011>`__ geprägt ist, das "
-"Buch, das mit dem R-Paket ``car`` verbunden ist, und zur Durchführung von"
-" Regressionsanalysen in R verwendet werden kann. Das ``car``-Paket "
+"Buch, das mit dem R-Paket ``car`` verbunden ist, und zum Durchführen von "
+"Regressionsanalysen in ``R`` verwendet werden kann. Das ``car``-Paket "
 "zeichnet sich dadurch aus, dass es einige hervorragende Werkzeuge für die"
 " Regressionsdiagnose bietet, und das Buch beschreibt diese Werkzeuge in "
 "bewundernswerter Klarheit. Ich möchte nicht zu überschwänglich klingen, "
 "aber ich denke, dass `Fox und Weisberg (2011) <.. "
 "/Other/References.html#fox-2011>`__ lesenswert ist, auch wenn einige der "
-"fortgeschrittenen Diagnosetechniken nur in R und nicht in jamovi "
+"fortgeschrittenen Diagnosetechniken nur in ``R`` und nicht in jamovi "
 "verfügbar sind."
 
 #: ../../Ch12/Ch12_Regression_11.rst:39
@@ -3310,7 +3314,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:95
 msgid "The formula for doing the calculations this time is subtly different"
-msgstr "Die Formel für die Durchführung der Berechnungen ist diesmal etwas anders"
+msgstr "Die Formel für das Durchführen der Berechnungen ist diesmal etwas anders"
 
 #: ../../Ch12/Ch12_Regression_11.rst:97
 msgid ""
@@ -3615,11 +3619,11 @@ msgid ""
 "get the results as shown in :numref:`fig-reg4`\\."
 msgstr ""
 "In jamovi können Informationen zur Cook-Distanz berechnet werden, indem "
-"Sie auf das Kontrollkästchen ``Cook’s Distance`` in den Optionen "
-"``Assumption Checks`` → ``Data Summary`` setzen. Wenn Sie dies tun, "
-"erhalten Sie für das multiple Regressionsmodell, das wir in diesem "
-"Kapitel als Beispiel verwendet haben, die Ergebnisse, die in :numref"
-":`fig-reg4`\\ zu sehen sind."
+"Sie auf die ``Cook’s Distance``-Checkbox in den Optionen ``Assumption "
+"Checks`` → ``Data Summary`` setzen. Wenn Sie dies tun, erhalten Sie für "
+"das multiple Regressionsmodell, das wir in diesem Kapitel als Beispiel "
+"verwendet haben, die Ergebnisse, die in :numref:`fig-reg4`\\ zu sehen "
+"sind."
 
 #: ../../Ch12/Ch12_Regression_11.rst:245
 msgid "jamovi output showing the table for the Cook’s distance statistics"
@@ -3660,7 +3664,7 @@ msgstr ""
 "größten Cook-Distanz durchzuführen\\ [#]_ und zu sehen, wie sich das auf "
 "die Modellleistung und die Regressionskoeffizienten auswirkt. Wenn sie "
 "sich wesentlich unterscheiden, sollten Sie Ihren Datensatz und Ihre "
-"Notizen während der Durchführung Ihrer Studie genauer ansehen. Versuchen "
+"Notizen während des Durchführens Ihrer Studie genauer ansehen. Versuchen "
 "Sie herauszufinden, *warum* dieser Datenpunkt sich so sehr von den "
 "übrigen unterscheidet. Wenn Sie davon überzeugt sind, dass nur dieser "
 "eine Datenpunkt Ihre Ergebnisse stark verzerrt, sollten Sie erwägen, ihn "
@@ -3853,12 +3857,12 @@ msgstr ""
 "Koeffizienten *b*\\ :sub:`k` ist, relativ zu dem, was Sie erwartet "
 "hätten, wenn die Prädiktoren alle unkorreliert miteinander gewesen wären."
 " Wenn Sie nur zwei Prädiktoren haben, werden die VIF-Werte immer gleich "
-"sein, wie wir sehen können, wenn wir in jamovi das Kontrollkästchen "
-"``Collinearity`` in den Optionen unter ``Regression`` → ``Assumption "
-"Checks`` setzen. Sowohl für ``dani.sleep`` als auch für ``baby.sleep`` "
-"beträgt der VIF 1,65. Und da 1,28 die Quadratwurzel von 1,65 ist, sehen "
-"wir, dass die Korrelation zwischen unseren beiden Prädiktoren kein großes"
-" Problem verursacht."
+"sein, wie wir sehen können, wenn wir in jamovi die "
+"``Collinearity``-Checkbox in den Optionen unter ``Regression`` → "
+"``Assumption Checks`` setzen. Sowohl für ``dani.sleep`` als auch für "
+"``baby.sleep`` beträgt der VIF 1,65. Und da 1,28 die Quadratwurzel von "
+"1,65 ist, sehen wir, dass die Korrelation zwischen unseren beiden "
+"Prädiktoren kein großes Problem verursacht."
 
 #: ../../Ch12/Ch12_Regression_11.rst:362
 msgid ""
@@ -3924,13 +3928,13 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:409
 msgid ""
-"Although, currently there isn’t a very easy way to do this in jamovi, so "
-"a more powerful regression program such as the ``car`` package in ``R`` "
-"would be better for this more advanced analysis"
+"In order to obtain the Cook’s distance for each participant, open the "
+"drop-down menu ``Save`` within the ``Linear Regression`` analysis options"
+" and set the check box ``Cook's distance``. A now column containing "
+"Cook’s distances will be added to the end of your data set. Those values "
+"can then be used in connection with a :doc:`filter "
+"<../Ch06/Ch06_DataHandling_5>`."
 msgstr ""
-"Derzeit gibt es in Jamovi keine einfache Möglichkeit, dies zu tun, daher "
-"wäre das ``car``-Paket in ``R`` besser für diese fortgeschrittenere "
-"Analyse"
 
 #: ../../Ch12/Ch12_Regression_12.rst:4
 msgid "Model selection"
@@ -4043,7 +4047,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_12.rst:50
 msgid ""
 "In the context of a linear regression model (and ignoring terms that "
-"don’t depend on the model in any way!), the AIC for a model that has K "
+"don’t depend on the model in any way!), the AIC for a model that has *K* "
 "predictor variables plus an intercept is"
 msgstr ""
 "Im Kontext eines linearen Regressionsmodells (und ohne Berücksichtigung von "
@@ -4094,12 +4098,12 @@ msgid ""
 " about them."
 msgstr ""
 "AIC kann der ``Model Fit Measures``-Ausgabetabelle hinzugefügt werden, "
-"wenn das Kontrollkästchen ``AIC`` angeklickt wird. Eine ziemlich "
-"umständliche Methode zur Bewertung verschiedener Modelle besteht darin, "
-"zu sehen, ob der ``AIC``-Wert niedriger ist, wenn Sie einen oder mehrere "
-"der Prädiktoren im Regressionsmodell entfernen. Dies ist derzeit der "
-"einzige Weg, der in jamovi implementiert ist, aber es gibt Alternativen "
-"in anderen Programmen wie ``R``. Diese alternativen Methoden können den "
+"indem die ``AIC``-Checkbox aktiviert wird. Eine ziemlich umständliche "
+"Methode zur Bewertung verschiedener Modelle besteht darin, zu sehen, ob "
+"der ``AIC``-Wert niedriger ist, wenn Sie einen oder mehrere der "
+"Prädiktoren im Regressionsmodell entfernen. Dies ist derzeit der einzige "
+"Weg, der in jamovi implementiert ist, aber es gibt Alternativen in "
+"anderen Programmen wie ``R``. Diese alternativen Methoden können den "
 "Prozess des selektiven Entfernens (oder Hinzufügens) von "
 "Prädiktorvariablen automatisieren, um das beste AIC zu finden. Obwohl "
 "diese Methoden nicht in jamovi implementiert sind, werde ich sie unten "
@@ -4371,11 +4375,11 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_12.rst:196
 msgid ""
 "where *N* is the number of observations, *p* is the number of predictors "
-"in the full model (not including the intercept), and k is the difference "
-"in the number of parameters between the two models.\\ [#]_ The degrees of"
-" freedom here are *k* and *N* - *p* - 1. Note that it’s often more "
-"convenient to think about the difference between those two SS values as a"
-" sum of squares in its own right. That is"
+"in the full model (not including the intercept), and *k* is the "
+"difference in the number of parameters between the two models.\\ [#]_ The"
+" degrees of freedom here are *k* and *N* - *p* - 1. Note that it’s often "
+"more convenient to think about the difference between those two SS values"
+" as a sum of squares in its own right. That is"
 msgstr ""
 "Dabei ist *N* die Anzahl der Beobachtungen, *p* die Anzahl der Prädiktoren "
 "im vollständigen Modell (ohne Schnittpunkt) und *k* der Unterschied in der "
@@ -4537,8 +4541,8 @@ msgstr ":doc:`Multiple lineare Regression <../Ch12/Ch12_Regression_05>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:16
 msgid ""
-"Measuring the :doc:`overall performance of a regression model using R² "
-"<../Ch12/Ch12_Regression_06>`"
+"Measuring the :doc:`overall performance of a regression model using "
+"*R*\\² <../Ch12/Ch12_Regression_06>`"
 msgstr ""
 "Quantifizieren der :doc:`Güte eines Regressionsmodells mit *R*\\² <../Ch12/"
 "Ch12_Regression_06>`"

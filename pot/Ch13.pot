@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 13:20+0100\n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -241,7 +241,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:84
 msgid ""
 "A concrete example might be useful here. Let’s consider this table, in which "
-"we have a total of *N* = 5 people sorted into :*G* = 2 groups. Arbitrarily, "
+"we have a total of *N* = 5 people sorted into *G* = 2 groups. Arbitrarily, "
 "let’s say that the “cool” people are group 1 and the “uncool” people are "
 "group 2. It turns out that we have three cool people (*N*\\ :sub:`1` = 3) "
 "and two uncool people (*N*\\ :sub:`2` = 2)."
@@ -578,12 +578,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:290
-msgid "|df_b| = G - 1"
-msgstr "|df_b| = G - 1"
+msgid "|df_b| = *G* - 1"
+msgstr "|df_b| = *G* - 1"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:243 ../../Ch13/Ch13_ANOVA_02.rst:292
-msgid "|df_w| = N - G"
-msgstr "|df_w| = N - G"
+msgid "|df_w| = *N* - *G*"
+msgstr "|df_w| = *N* - *G*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:245
 msgid ""
@@ -771,7 +771,7 @@ msgid ""
 "quantities from a sample <../Ch08/Ch08_Estimation>`) of the error variance "
 "σ². The between-groups mean square |MS_b| is also an estimator, but what it "
 "estimates is the error variance *plus* a quantity that depends on the true "
-"differences among the group means. If we call this quantity Q, then we can "
+"differences among the group means. If we call this quantity *Q*, then we can "
 "see that the *F*-statistic is basically:\\ [#]_"
 msgstr ""
 
@@ -785,9 +785,9 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:358
 msgid ""
-"where the true value Q = 0 if the null hypothesis is true, and Q > 0 if the "
-"alternative hypothesis is true (`Hays, 1994 <../Other/References."
-"html#hays-1994>`__\\ , Ch. 10). Therefore, at a bare minimum *the *F*-value "
+"where the true value *Q* = 0 if the null hypothesis is true, and *Q* > 0 if "
+"the alternative hypothesis is true (`Hays, 1994 <../Other/References."
+"html#hays-1994>`__\\ , Ch. 10). Therefore, at a bare minimum *the F-value "
 "must be larger than 1* to have any chance of rejecting the null hypothesis. "
 "Note that this *doesn’t* mean that it’s impossible to get an *F*-value less "
 "than 1. What it means is that if the null hypothesis is true the sampling "
@@ -1191,8 +1191,8 @@ msgid ""
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:552
-msgid "|df_b| = G - 1 = 2 |df_w| = N - G = 15"
-msgstr "|df_b| = G - 1 = 2 |df_w| = N - G = 15"
+msgid "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
+msgstr "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:555
 msgid ""
@@ -1325,11 +1325,11 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:629
 msgid ""
 "If you read ahead to chapter :doc:`Factorial ANOVA <../Ch14/Ch14_ANOVA2>` "
-"and look at how the “treatment effect” at level k of a factor is defined in "
-"terms of the α\\ :sub:`k` values (see section :doc:`Factorial ANOVA 2: "
+"and look at how the “treatment effect” at level *k* of a factor is defined "
+"in terms of the α\\ :sub:`k` values (see section :doc:`Factorial ANOVA 2: "
 "balanced designs, interactions allowed <../Ch14/Ch14_ANOVA2_02>`), it turns "
-"out that Q refers to a weighted mean of the squared treatment effects, :math:"
-"`Q = (\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
+"out that *Q* refers to a weighted mean of the squared treatment effects, :"
+"math:`Q = (\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:637
@@ -2092,14 +2092,15 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:186
 msgid ""
-"To understand what’s happening here, let’s compare these numbers to what we "
-"got earlier in section :doc:`Running an ANOVA in jamovi <../Ch13/"
-"Ch13_ANOVA_03>`. To save you the trouble of flicking back, this is what we "
-"got last time: *F*\\(2,15) = 18.611, *p* = 0.00009, also shown as the "
-"Fisher’s test in the ``One-Way ANOVA`` shown in :numref:`fig-anova4a`."
+"To understand what’s happening here, let’s compare these numbers with those "
+"obtained earlier in section :doc:`Running an ANOVA in jamovi <../Ch13/"
+"Ch13_ANOVA_03>`, namely: *F*\\(2,15) = 18.611, *p* = 0.00009. As shown in :"
+"numref:`fig-anova4a`, these values are also displayed in the ``One-Way "
+"ANOVA`` table (in the row starting with ``Fisher's``) if the option ``Assume "
+"equal (Fisher's)`` was chosen."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:192
+#: ../../Ch13/Ch13_ANOVA_06.rst:193
 msgid ""
 "Okay, so originally our ANOVA gave us the result *F*\\(2,15) = 18.6, whereas "
 "the Welch one-way test gave us *F*\\(2,9.49) = 26.32. In other words, the "
@@ -2107,11 +2108,11 @@ msgid ""
 "and the *F*-value has increased from 18.6 to 26.32."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:199
+#: ../../Ch13/Ch13_ANOVA_06.rst:200
 msgid "Checking the normality assumption"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:201
+#: ../../Ch13/Ch13_ANOVA_06.rst:202
 msgid ""
 "Testing the normality assumption is relatively straightforward. We covered "
 "most of what you need to know in section :doc:`Checking the normality of a "
@@ -2127,7 +2128,7 @@ msgid ""
 "visual inspection of the QQ plot is important."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:214
+#: ../../Ch13/Ch13_ANOVA_06.rst:215
 msgid ""
 "Alongside inspecting the QQ plot for any deviations from normality, the "
 "Shapiro-Wilk test for our data does show a non-significant effect, with *p* "
@@ -2135,15 +2136,15 @@ msgid ""
 "assessment; both checks find no indication that normality is violated."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:226
+#: ../../Ch13/Ch13_ANOVA_06.rst:227
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:231
+#: ../../Ch13/Ch13_ANOVA_06.rst:232
 msgid "Removing the normality assumption"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:233
+#: ../../Ch13/Ch13_ANOVA_06.rst:234
 msgid ""
 "Now that we’ve seen how to check for normality, we are led naturally to ask "
 "what we can do to address violations of normality. In the context of a One-"
@@ -2158,7 +2159,7 @@ msgid ""
 "talk about next."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:244
+#: ../../Ch13/Ch13_ANOVA_06.rst:245
 msgid ""
 "The Kruskal-Wallis test is surprisingly similar to ANOVA, in some ways. In "
 "ANOVA we started with Y\\ :sub:`ik`, the value of the outcome variable for "
@@ -2167,14 +2168,14 @@ msgid ""
 "analysis on the ranked data."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:250
+#: ../../Ch13/Ch13_ANOVA_06.rst:251
 msgid ""
 "So let’s let R\\ :sub:`ik` refer to the ranking given to the *i*-th member "
 "of the *k*-th group. Now, let’s calculate R̄\\ :sub:`k`, the average rank "
 "given to observations in the *k*-th group:"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:254
+#: ../../Ch13/Ch13_ANOVA_06.rst:255
 msgid ""
 "\\bar{R}_k = \\frac{1}{N_K} \\sum_{i} R_{ik}\n"
 "\n"
@@ -2182,11 +2183,11 @@ msgstr ""
 "\\bar{R}_k = \\frac{1}{N_K} \\sum_{i} R_{ik}\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:256
+#: ../../Ch13/Ch13_ANOVA_06.rst:257
 msgid "and let’s also calculate R̄, the grand mean rank"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:258
+#: ../../Ch13/Ch13_ANOVA_06.rst:259
 msgid ""
 "\\bar{R} = \\frac{1}{N} \\sum_{i} \\sum_{k} R_{ik}\n"
 "\n"
@@ -2194,7 +2195,7 @@ msgstr ""
 "\\bar{R} = \\frac{1}{N} \\sum_{i} \\sum_{k} R_{ik}\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:260
+#: ../../Ch13/Ch13_ANOVA_06.rst:261
 msgid ""
 "Now that we’ve done this, we can calculate the squared deviations from the "
 "grand mean rank R̄. When we do this for the individual scores, i.e., if we "
@@ -2208,7 +2209,7 @@ msgid ""
 "First, we have our “total ranked sums of squares”"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:271
+#: ../../Ch13/Ch13_ANOVA_06.rst:272
 msgid ""
 "\\mbox{RSS}_{tot} = \\sum_k \\sum_i ( R_{ik} - \\bar{R} )^2\n"
 "\n"
@@ -2216,11 +2217,11 @@ msgstr ""
 "\\mbox{RSS}_{tot} = \\sum_k \\sum_i ( R_{ik} - \\bar{R} )^2\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:273
+#: ../../Ch13/Ch13_ANOVA_06.rst:274
 msgid "and we can define the “between groups ranked sums of squares” like this"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:275
+#: ../../Ch13/Ch13_ANOVA_06.rst:276
 msgid ""
 "\\begin{array}{rcl}\n"
 "\\mbox{RSS}_{b} &=& \\sum_k \\sum_i ( \\bar{R}_k  - \\bar{R} )^2 \\\\\n"
@@ -2232,7 +2233,7 @@ msgstr ""
 "               &=& \\sum_k N_k ( \\bar{R}_k  - \\bar{R} )^2\n"
 "\\end{array}"
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:282
+#: ../../Ch13/Ch13_ANOVA_06.rst:283
 msgid ""
 "So, if the null hypothesis is true and there are no true group differences "
 "at all, you’d expect the between group rank sums RSS\\ :sub:`b` to be very "
@@ -2242,7 +2243,7 @@ msgid ""
 "statistic, usually denoted *K*, is constructed in a slightly different way,"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:291
+#: ../../Ch13/Ch13_ANOVA_06.rst:292
 msgid ""
 "K = (N - 1) \\times \\frac{\\mbox{RSS}_b}{\\mbox{RSS}_{tot}}\n"
 "\n"
@@ -2250,13 +2251,13 @@ msgstr ""
 "K = (N - 1) \\times \\frac{\\mbox{RSS}_b}{\\mbox{RSS}_{tot}}\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:293
+#: ../../Ch13/Ch13_ANOVA_06.rst:294
 msgid ""
 "and if the null hypothesis is true, then the sampling distribution of *K* is "
-"*approximately* χ² with G - 1 degrees of freedom (where G is the number of "
-"groups). The larger the value of *K*, the less consistent the data are with "
-"the null hypothesis, so this is a one-sided test. We reject H\\ :sub:`0` "
-"when *K* is sufficiently large."
+"*approximately* χ² with *G* - 1 degrees of freedom (where *G* is the number "
+"of groups). The larger the value of *K*, the less consistent the data are "
+"with the null hypothesis, so this is a one-sided test. We reject H\\ :sub:"
+"`0` when *K* is sufficiently large."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:300
@@ -2460,9 +2461,9 @@ msgid ""
 "This change in SS\\ :sub:`error` term often leads to a more powerful "
 "statistical test, but this does depend on whether the reduction in the SS\\ :"
 "sub:`error` more than compensates for the reduction in degrees of freedom "
-"for the error term (as degrees of freedom go from (n - k)\\ [#]_ to (n - 1)"
-"(k - 1) (remembering that there are more subjects in the independent ANOVA "
-"design)."
+"for the error term: the degrees of freedom go from (*n* - *k*)\\ [#]_ to "
+"(*n* - 1)(*k* - 1) remembering that there are more subjects in the "
+"independent ANOVA design."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:51
@@ -2529,19 +2530,19 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:98
 msgid ""
-"Enter a name for the Repeated Measures Factor (orginally: ``RM Factor …``). "
-"This should be a label that you choose to describe the conditions repeated "
-"by all participants. For example, to describe the speech, conceptual and "
-"syntax tasks completed by all participants a suitable label would be "
-"``Task``. Note that this new factor name represents the independent variable "
-"in the analysis."
+"Enter a name for the ``Repeated Measures Factors`` (orginally: ``RM Factor …"
+"``). This should be a label that you choose to describe the conditions "
+"repeated by all participants. For example, to describe the speech, "
+"conceptual and syntax tasks completed by all participants a suitable label "
+"would be ``Task``. Note that this new factor name represents the independent "
+"variable in the analysis."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:105
 msgid ""
-"Add a third level in the Repeated Measures Factors text box, as there are "
-"three levels representing the three tasks: ``Speech``, ``Conceptual`` and "
-"``Syntax``. Change the labels of the levels accordingly."
+"Add a third level in the ``Repeated Measures Factors`` variable box, as "
+"there are three levels representing the three tasks: ``Speech``, "
+"``Conceptual`` and ``Syntax``. Change the labels of the levels accordingly."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:109
@@ -2553,7 +2554,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_07.rst:112
 msgid ""
 "Finally, under the ``Assumption Checks`` option, tick the ``Sphericity "
-"checks`` text box."
+"checks`` check box."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:121
@@ -2622,10 +2623,11 @@ msgid ""
 "Sphericity was *p* = 0.720 (i.e. *p* > 0.05). So, this means we can assume "
 "that the requirement of sphericity has been met so no correction to the *F*-"
 "value is needed. Therefore, we can use the ``None`` Sphericity Correction "
-"output values for the repeated measure ``Task``: *F* = 6.93, *df* = 2, *p* = "
-"0.013, and we can conclude that the number of tests successfully completed "
-"on each language task did vary significantly depending on whether the task "
-"was speech, comprehension or syntax based (*F*\\(2,10) = 6.93, *p* = 0.013)."
+"output values for the repeated measure ``Task``: *F* = 6.93, *df1* = 2, "
+"*df2* = 10, *p* = 0.013, and we can conclude that the number of tests "
+"successfully completed on each language task did vary significantly "
+"depending on whether the task was speech, comprehension or syntax based "
+"(*F*\\(2,10) = 6.93, *p* = 0.013)."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:192

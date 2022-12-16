@@ -39,13 +39,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -70,7 +63,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 13:06+0100\n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,7 +74,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 13:05+0100\n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,7 +85,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 11:03+0100\n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -103,7 +96,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 21:51+0100\n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,7 +107,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 21:43+0100\n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,18 +118,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 20:21+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 20:14+0100\n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,7 +128,7 @@ msgstr ""
 "#-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-15 18:35+0100\n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1187,12 +1169,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:92
-msgid "Binomial distribution for N = 20 and θ = 1/6"
+msgid "Binomial distribution for *N* = 20 and θ = 1/6"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:92
 msgid ""
-"Binomial distribution with size parameter of N = 20 and an underlying "
+"Binomial distribution with size parameter of *N* = 20 and an underlying "
 "success probability of θ = 1/6. Each vertical bar depicts the probability of "
 "one specific outcome (i.e., one possible value of X). Because this is a "
 "probability distribution, each of the probabilities must be a number between "
@@ -1232,15 +1214,15 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:132
-msgid "Binomial distribution: θ = 1/2 and N = 20 (left) or N = 100 (right)"
+msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:132
 msgid ""
 "Two binomial distributions, involving a scenario in which I’m flipping a "
 "fair coin, so the underlying success probability is θ = 1/2. In the left "
-"panel, we assume I’m flipping the coin N = 20 times. In the right panel, we "
-"assume that the coin is flipped N = 100 times."
+"panel, we assume I’m flipping the coin *N* = 20 times. In the right panel, "
+"we assume that the coin is flipped *N* = 100 times."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:142

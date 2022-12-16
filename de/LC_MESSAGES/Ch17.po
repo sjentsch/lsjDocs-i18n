@@ -68,6 +68,62 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -78,6 +134,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -469,8 +613,8 @@ msgstr ""
 "einfacheren Problem der Korrelation gesehen, dass es Hilfsmittel (z. B. "
 "Spearman-Korrelationen) gibt, mit denen sich nicht-lineare Beziehungen "
 "zwischen Variablen untersuchen lassen. In der Statistik gibt es eine Reihe "
-"von Instrumenten, die zur Durchführung nicht-linearer Regressionen verwendet "
-"werden können. So wird bei einigen nicht-linearen Regressionsmodellen davon "
+"von Instrumenten, verwendet werden können, um nicht-linearer Regressionen "
+"durchzuführen. So wird bei einigen nicht-linearen Regressionsmodellen davon "
 "ausgegangen, dass die Beziehung zwischen Prädiktoren und Ergebnissen monoton "
 "ist (z. B. isotonische Regression), während andere davon ausgehen, dass sie "
 "glatt, aber nicht notwendigerweise monoton ist (z. B. Lowess-Regression), "
@@ -1031,24 +1175,24 @@ msgstr ""
 "einer Variablen, der Median hingegen schon. Nehmen wir an, ich würde Ihnen "
 "sagen, dass das Alter meiner fünf besten Freunde 34, 39, 31, 43 und 4003 "
 "Jahre beträgt. Was denken Sie, wie alt sie im Durchschnitt sind? Was ist "
-"also der wahre Mittelwert der Bevölkerung? Wenn Sie den "
-"Stichprobenmittelwert als Schätzer für den Populationsmittelwert verwenden, "
-"erhalten Sie eine Antwort von 830 Jahren. Wenn Sie den Median der Stichprobe "
-"als Schätzer für den Mittelwert der Grundgesamtheit verwenden, erhalten Sie "
-"eine Antwort von 39 Jahren. Beachten Sie, dass Sie, obwohl Sie im zweiten "
-"Fall „technisch“ das Falsche tun (Verwendung des Medians zur Schätzung des "
-"Mittelwerts!), tatsächlich eine bessere Antwort erhalten. Das Problem ist "
-"hier, dass eine der Beobachtungen ganz offensichtlich eine Lüge ist. Ich "
-"habe keinen Freund, der 4003 Jahre alt ist. Wahrscheinlich ist es ein "
-"Tippfehler, ich wollte wahrscheinlich 43 schreiben. Aber was wäre, wenn ich "
-"53 statt 43 oder 34 statt 43 getippt hätte? Könnten Sie sicher sein, dass es "
-"sich um einen Tippfehler handelt oder nicht? Manchmal sind die Fehler in den "
-"Daten so subtil, dass man sie nicht einfach mit einem Blick auf die "
-"Stichprobe erkennen kann. Aber es sind trotzdem Fehler, die Ihre Daten "
-"verunreinigen und Ihre Schlussfolgerungen beeinflussen. Die robuste "
-"Statistik befasst sich damit, wie man *sichere* Schlussfolgerungen ziehen "
-"kann, selbst wenn man mit Verunreinigungen konfrontiert ist, die man nicht "
-"kennt. Das ist eine ziemlich coole Sache."
+"also der wahre Mittelwert der Population? Wenn Sie den Stichprobenmittelwert "
+"als Schätzer für den Populationsmittelwert verwenden, erhalten Sie eine "
+"Antwort von 830 Jahren. Wenn Sie den Median der Stichprobe als Schätzer für "
+"den Mittelwert der Grundgesamtheit verwenden, erhalten Sie eine Antwort von "
+"39 Jahren. Beachten Sie, dass Sie, obwohl Sie im zweiten Fall „technisch“ "
+"das Falsche tun (Verwendung des Medians zur Schätzung des Mittelwerts), "
+"tatsächlich eine bessere Antwort erhalten. Das Problem ist hier, dass eine "
+"der Beobachtungen ganz offensichtlich eine Lüge ist. Ich habe keinen Freund, "
+"der 4003 Jahre alt ist. Wahrscheinlich ist es ein Tippfehler, ich wollte "
+"wahrscheinlich 43 schreiben. Aber was wäre, wenn ich 53 statt 43 oder 34 "
+"statt 43 getippt hätte? Könnten Sie sicher sein, dass es sich um einen "
+"Tippfehler handelt oder nicht? Manchmal sind die Fehler in den Daten so "
+"subtil, dass man sie nicht einfach mit einem Blick auf die Stichprobe "
+"erkennen kann. Aber es sind trotzdem Fehler, die Ihre Daten verunreinigen "
+"und Ihre Schlussfolgerungen beeinflussen. Die robuste Statistik befasst sich "
+"damit, wie man *sichere* Schlussfolgerungen ziehen kann, selbst wenn man mit "
+"Verunreinigungen konfrontiert ist, die man nicht kennt. Das ist eine "
+"ziemlich coole Sache."
 
 #: ../../Ch17/Ch17_Epilogue_4.rst:4
 msgid "Miscellaneous topics"
@@ -1111,7 +1255,7 @@ msgstr ""
 "Carol ähnlicher ist als den beiden Anderen. Vielleicht würden Sie die "
 "Tatsache korrigieren, dass Adam und Tim männlich und Briony und Carol "
 "weiblich sind. Der statistische Name für diese Art des Ratens ist "
-"„Imputation“. Die sichere Durchführung von Imputationen ist schwierig, aber "
+"„Imputation“. Das sichere Durchführen von Imputationen ist schwierig, aber "
 "wichtig, vor allem, wenn die fehlenden Daten systematisch fehlen. Da "
 "übergewichtige Menschen sich oft unter Druck gesetzt fühlen, wegen ihres "
 "Gewichts besorgt zu sein, haben wir Grund zu der Annahme, dass die Personen, "

@@ -9,12 +9,18 @@
 #
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-16 13:20+0100\n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1195,21 +1201,22 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_05.rst:31
 msgid ""
 "As before, ε\\ :sub:`i` is the residual associated with the i-th "
-"observation, ε\\ :sub:`i` = {Y}_i - \\hat{Y}_i`. In this model, we now "
-"have three coefficients that need to be estimated: *b*\\ :sub:`0` is the "
-"intercept, *b*\\ :sub:`1` is the coefficient associated with my sleep, "
-"and *b*\\ :sub:`2` is the coefficient associated with my son’s sleep. "
-"However, although the number of coefficients that need to be estimated "
-"has changed, the basic idea of how the estimation works is unchanged: our"
-" estimated coefficients :math:`\\hat{b}_0`, :math:`\\hat{b}_1` and "
-":math:`\\hat{b}_2` are those that minimise the sum squared residuals."
+"observation, :math:`{\\epsilon}_i = {Y}_i - \\hat{Y}_i`. In this model, "
+"we now have three coefficients that need to be estimated: *b*\\ :sub:`0` "
+"is the intercept, *b*\\ :sub:`1` is the coefficient associated with my "
+"sleep, and *b*\\ :sub:`2` is the coefficient associated with my son’s "
+"sleep. However, although the number of coefficients that need to be "
+"estimated has changed, the basic idea of how the estimation works is "
+"unchanged: our estimated coefficients :math:`\\hat{b}_0`, "
+":math:`\\hat{b}_1` and :math:`\\hat{b}_2` are those that minimise the sum"
+" squared residuals."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:43
+#: ../../Ch12/Ch12_Regression_05.rst:42
 msgid "Doing it in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:45
+#: ../../Ch12/Ch12_Regression_05.rst:44
 msgid ""
 "Multiple regression in jamovi is no different to simple regression. All "
 "we have to do is add additional variables to the ``Covariates`` box in "
@@ -1220,45 +1227,45 @@ msgid ""
 "an intercept. The coefficients we get this time are:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:53
+#: ../../Ch12/Ch12_Regression_05.rst:52
 msgid ""
 "Model coefficients for the linear model predicting ``dani.grump`` using "
 "``baby.sleep`` and ``dani.sleep`` (from the |parenthood|_ data set)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:58
+#: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Predictor"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:58
+#: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Estimate"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:60
+#: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "Intercept"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:60
+#: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "125.966"
 msgstr "125.966"
 
-#: ../../Ch12/Ch12_Regression_05.rst:62
+#: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "``dani.sleep``"
 msgstr "``dani.sleep``"
 
-#: ../../Ch12/Ch12_Regression_05.rst:62
+#: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "-8.950"
 msgstr "-8.950"
 
-#: ../../Ch12/Ch12_Regression_05.rst:64
+#: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "``baby.sleep``"
 msgstr "``baby.sleep``"
 
-#: ../../Ch12/Ch12_Regression_05.rst:64
+#: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "0.011"
 msgstr "0.011"
 
-#: ../../Ch12/Ch12_Regression_05.rst:67
+#: ../../Ch12/Ch12_Regression_05.rst:66
 msgid ""
 "The coefficient associated with ``dani.sleep`` is quite large, suggesting"
 " that every hour of sleep I lose makes me a lot grumpier. However, the "
@@ -1270,11 +1277,11 @@ msgid ""
 "itself."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:82
+#: ../../Ch12/Ch12_Regression_05.rst:81
 msgid "3D visualisation of a multiple regression model"
 msgstr "다중 회귀 모델의 3D 비주얼리제이션"
 
-#: ../../Ch12/Ch12_Regression_05.rst:82
+#: ../../Ch12/Ch12_Regression_05.rst:81
 msgid ""
 "3D visualisation of a multiple regression model: There are two predictors"
 " in the model, ``dani.sleep`` and ``baby.sleep`` and the outcome variable"
@@ -1290,11 +1297,11 @@ msgstr ""
 " 한 점입니다. 단순 선형 회귀 모델이 2D 공간에서 선을 형성하는 것과 같은 방식으로 이 다중 회귀 모델은 3D 공간에서 평면을 "
 "형성합니다. 회귀 계수를 추정할 때 우리가 하려는 것은 가능한 모든 파란색 점에 가까운 평면을 찾는 것입니다."
 
-#: ../../Ch12/Ch12_Regression_05.rst:94
+#: ../../Ch12/Ch12_Regression_05.rst:93
 msgid "Formula for the general case"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:96
+#: ../../Ch12/Ch12_Regression_05.rst:95
 msgid ""
 "The equation that I gave above shows you what a multiple regression model"
 " looks like when you include two predictors. Not surprisingly, then, if "
@@ -1304,7 +1311,7 @@ msgid ""
 "this"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:103
+#: ../../Ch12/Ch12_Regression_05.rst:102
 msgid ""
 "Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
 "\n"
@@ -1373,9 +1380,9 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:34
 msgid ""
 "Go to an empty column (at the end of the data set) and double click on "
-"the column header, choose “New computed variable” and enter ``Y_pred`` in"
-" the first line and the formula ``125.97 + (-8.94 * dani.sleep)`` in the "
-"line starting with ``=`` (next to the *f*\\ :sub:`x`)."
+"the column header, choose ``New computed variable`` and enter ``Y_pred`` "
+"in the first line and the formula ``125.97 + (-8.94 * dani.sleep)`` in "
+"the line starting with ``=`` (next to the *f*\\ :sub:`x`)."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:39
@@ -1396,7 +1403,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:48
 msgid ""
 "Calculate the squared deviation from the mean by creating yet another "
-"column  called ``sq_total`` using the formula ``(dani.grump - "
+"column called ``sq_total`` using the formula ``(dani.grump - "
 "VMEAN(dani.grump)) ^ 2``. The values in this column are later summed up "
 "to obtain SS\\ :sub:`tot`."
 msgstr ""
@@ -1435,19 +1442,16 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:78
-#, fuzzy
 msgid "*R*\\² = 1 - (SS\\ :sub:`res` / SS\\ :sub:`tot`)"
-msgstr "R² = 1 - (SS\\ :sub:`res` / SS\\ :sub:`tot`)"
+msgstr "*R*\\² = 1 - (SS\\ :sub:`res` / SS\\ :sub:`tot`)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:79
-#, fuzzy
 msgid "*R*\\² = 1 - (1838.722 / 9998.590)"
-msgstr "R² = 1 - (1838.722 / 9998.590)"
+msgstr "*R*\\² = 1 - (1838.722 / 9998.590)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:80
-#, fuzzy
 msgid "*R*\\² = 1 - 0.184"
-msgstr "R² = 1 - 0.184"
+msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
 #, python-format
@@ -1505,19 +1509,18 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_06.rst:119
 msgid ""
 "The adjusted *R*\\² value introduces a slight change to the calculation, "
-"as follows. For a regression model with K predictors, fit to a data set "
-"containing *N* observations, the adjusted *R*\\² is:"
+"as follows. For a regression model with *K* predictors, fit to a data set"
+" containing *N* observations, the adjusted *R*\\² is:"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:124
-#, fuzzy
 msgid ""
 "\\mbox{adj. } R^2 = 1 - \\left(\\frac{\\mbox{SS}_{res}}{\\mbox{SS}_{tot}}"
 " \\times \\frac{N - 1}{N - K - 1} \\right)\n"
 "\n"
 msgstr ""
 "\\mbox{adj. } R^2 = 1 - \\left(\\frac{\\mbox{SS}_{res}}{\\mbox{SS}_{tot}}"
-" \\times \\frac{N-1}{N-K-1} \\right)\n"
+" \\times \\frac{N - 1}{N - K - 1} \\right)\n"
 "\n"
 
 #: ../../Ch12/Ch12_Regression_06.rst:126
@@ -2564,9 +2567,8 @@ msgid "The formula for the k-th VIF is:"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:343
-#, fuzzy
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
-msgstr "VIF\\ :sub:`k` = 1 / (1 - *R²*\\ :sub:`(-k)`\\)"
+msgstr "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 
 #: ../../Ch12/Ch12_Regression_11.rst:345
 msgid ""
@@ -2633,9 +2635,12 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:409
 msgid ""
-"Although, currently there isn’t a very easy way to do this in jamovi, so "
-"a more powerful regression program such as the ``car`` package in ``R`` "
-"would be better for this more advanced analysis"
+"In order to obtain the Cook’s distance for each participant, open the "
+"drop-down menu ``Save`` within the ``Linear Regression`` analysis options"
+" and set the check box ``Cook's distance``. A now column containing "
+"Cook’s distances will be added to the end of your data set. Those values "
+"can then be used in connection with a :doc:`filter "
+"<../Ch06/Ch06_DataHandling_5>`."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:4
@@ -2704,7 +2709,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_12.rst:50
 msgid ""
 "In the context of a linear regression model (and ignoring terms that "
-"don’t depend on the model in any way!), the AIC for a model that has K "
+"don’t depend on the model in any way!), the AIC for a model that has *K* "
 "predictor variables plus an intercept is"
 msgstr ""
 
@@ -2902,11 +2907,11 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_12.rst:196
 msgid ""
 "where *N* is the number of observations, *p* is the number of predictors "
-"in the full model (not including the intercept), and k is the difference "
-"in the number of parameters between the two models.\\ [#]_ The degrees of"
-" freedom here are *k* and *N* - *p* - 1. Note that it’s often more "
-"convenient to think about the difference between those two SS values as a"
-" sum of squares in its own right. That is"
+"in the full model (not including the intercept), and *k* is the "
+"difference in the number of parameters between the two models.\\ [#]_ The"
+" degrees of freedom here are *k* and *N* - *p* - 1. Note that it’s often "
+"more convenient to think about the difference between those two SS values"
+" as a sum of squares in its own right. That is"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:204
@@ -3016,8 +3021,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:16
 msgid ""
-"Measuring the :doc:`overall performance of a regression model using R² "
-"<../Ch12/Ch12_Regression_06>`"
+"Measuring the :doc:`overall performance of a regression model using "
+"*R*\\² <../Ch12/Ch12_Regression_06>`"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:19
@@ -3039,21 +3044,5 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_12>`"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

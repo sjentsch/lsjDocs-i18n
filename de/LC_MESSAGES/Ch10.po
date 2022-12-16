@@ -75,6 +75,62 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -85,6 +141,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -675,7 +819,7 @@ msgid ""
 "null hypothesis. If the data don’t resemble what you’d “expect” to see if "
 "the null hypothesis were true, then it probably isn’t true. Okay, if the "
 "null hypothesis were true, what would we expect to see? Or, to use the "
-"correct terminology, what are the **expected frequencies**. There are N = "
+"correct terminology, what are the **expected frequencies**. There are *N* = "
 "200 observations, and (if the null is true) the probability of any one of "
 "them choosing a heart is *P*\\ :sub:`3` = \\0.25, so I guess we’re expecting "
 "200 · 0.25 = 50 hearts, right? Or, more specifically, if we let *E*\\ :sub:"
@@ -692,7 +836,7 @@ msgstr ""
 "was man „erwarten“ würde, wenn die Nullhypothese wahr wäre, dann ist sie "
 "wahrscheinlich nicht wahr. Wenn die Nullhypothese wahr wäre, was würden wir "
 "dann erwarten zu sehen? Oder, um die korrekte Terminologie zu verwenden, was "
-"sind die **erwarteten Häufigkeiten**. Es gibt N = 200 Beobachtungen, und "
+"sind die **erwarteten Häufigkeiten**. Es gibt *N* = 200 Beobachtungen, und "
 "(wenn die Nullhypothese wahr ist) ist die Wahrscheinlichkeit, dass eine von "
 "ihnen ein Herz auswählt, *P*\\ :sub:`3` = \\0,25, also schätze ich, wir "
 "erwarten 200 · 0,25 = 50 Herzen, richtig? Oder, genauer gesagt, wenn wir "
@@ -700,8 +844,8 @@ msgstr ""
 "erwarten, wenn die Nullhypothese wahr ist“ beziehen, dann:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:163
-msgid "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
-msgstr "*E*\\ :sub:`i` = N · *P*\\ :sub:`i`"
+msgid "*E*\\ :sub:`i` = *N* · *P*\\ :sub:`i`"
+msgstr "*E*\\ :sub:`i` = *N* · *P*\\ :sub:`i`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:165
 msgid ""
@@ -3528,18 +3672,18 @@ msgstr "Der McNemar-Test"
 msgid ""
 "Suppose you’ve been hired to work for the *Australian Generic Political "
 "Party* (AGPP), and part of your job is to find out how effective the AGPP "
-"political advertisements are. So you decide to put together a sample of N = "
-"100 people and ask them to watch the AGPP ads. Before they see anything, you "
-"ask them if they intend to vote for the AGPP, and then after showing the ads "
-"you ask them again to see if anyone has changed their minds. Obviously, if "
-"you’re any good at your job, you’d also do a whole lot of other things too, "
-"but let’s consider just this one simple experiment. One way to describe your "
-"data is via the following contingency table:"
+"political advertisements are. So you decide to put together a sample of *N* "
+"= 100 people and ask them to watch the AGPP ads. Before they see anything, "
+"you ask them if they intend to vote for the AGPP, and then after showing the "
+"ads you ask them again to see if anyone has changed their minds. Obviously, "
+"if you’re any good at your job, you’d also do a whole lot of other things "
+"too, but let’s consider just this one simple experiment. One way to describe "
+"your data is via the following contingency table:"
 msgstr ""
 "Nehmen wir an, Sie wurden von der *Australian Generic Political Party* "
 "(AGPP) eingestellt. Eine Ihrer Aufgaben besteht darin, herauszufinden, wie "
 "wirksam die politische Werbung der AGPP ist. Also beschließen Sie, eine "
-"Stichprobe von N = 100 Personen zusammenzustellen und sie zu bitten, sich "
+"Stichprobe von *N* = 100 Personen zusammenzustellen und sie zu bitten, sich "
 "die AGPP-Werbung anzusehen. Bevor die Probanden die Werbung sehen, fragen "
 "Sie sie, ob sie beabsichtigen, für die AGPP zu stimmen, und dann, nachdem "
 "die Werbung gezeigt wurde, fragen Sie sie erneut, um zu sehen, ob jemand "

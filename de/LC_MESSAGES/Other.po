@@ -222,6 +222,62 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -232,6 +288,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -620,26 +764,24 @@ msgstr "Übersicht"
 msgid ""
 "*learning statistics with jamovi* covers the contents of an introductory "
 "statistics class, as typically taught to undergraduate psychology students. "
-"It is part of the jamovi documentation but also available `as a textbook "
-"<https://www.learnstatswithjamovi.com/>`__. It discusses how to get started "
-"in jamovi as well as giving an introduction to data manipulation. From a "
-"statistical perspective, the book discusses descriptive statistics and "
-"graphing first, followed by chapters on probability theory, sampling and "
-"estimation, and null hypothesis testing. After introducing the theory, the "
-"book covers the analysis of contingency tables, correlation, *t*-tests, "
-"regression, ANOVA and factor analysis. Bayesian statistics are covered at "
-"the end of the book."
+"It is also available `as a textbook <https://www.learnstatswithjamovi.com/"
+">`__. It discusses how to get started in jamovi as well as giving an "
+"introduction to data manipulation. From a statistical perspective, the book "
+"discusses descriptive statistics and graphing first, followed by chapters on "
+"probability theory, sampling and estimation, and null hypothesis testing. "
+"After introducing the theory, the book covers the analysis of contingency "
+"tables, correlation, *t*-tests, regression, ANOVA and factor analysis. "
+"Bayesian statistics are covered at the end of the book."
 msgstr ""
 "*learning statistics with jamovi* deckt den Inhalt einer einführenden "
 "Statistikvorlesung ab, wie sie typischerweise für Psychologiestudenten im "
-"Grundstudium angeboten wird. Es ist Teil der jamovi-Dokumentation, aber auch "
-"`als Lehrbuch erhältlich <https://www.learnstatswithjamovi.com/>`__. Es "
-"behandelt den Einstieg in jamovi und gibt eine Einführung in die "
-"Datenmanipulation. Als statistische Werkzeuge behandelt das Buch zunächst "
-"deskriptive Statistik und Grafik, gefolgt von Kapiteln über "
-"Wahrscheinlichkeitstheorie, Stichprobenziehung und Schätzung sowie "
-"Nullhypothesen-Tests. Nach einer Einführung in die Theorie behandelt das "
-"Buch die Analyse von Kreuztabellen, Korrelation, *t*-Tests, Regression, "
+"Grundstudium angeboten wird. Es ist auch `als Lehrbuch erhältlich <https://"
+"www.learnstatswithjamovi.com/>`__. Es behandelt den Einstieg in jamovi und "
+"gibt eine Einführung in die Datenmanipulation. Als statistische Werkzeuge "
+"behandelt das Buch zunächst deskriptive Statistik und Grafik, gefolgt von "
+"Kapiteln über Wahrscheinlichkeitstheorie, Stichprobenziehung und Schätzung "
+"sowie Nullhypothesen-Tests. Nach einer Einführung in die Theorie behandelt "
+"das Buch die Analyse von Kreuztabellen, Korrelation, *t*-Tests, Regression, "
 "ANOVA und die Faktorenanalyse. Am Ende des Buches gibt ein kurzes Kapitel "
 "eine Einführung in die Bayessche Statistik."
 
@@ -968,14 +1110,14 @@ msgstr ""
 "Buch hat sich in einigen wichtigen Punkten geändert: In den Kapiteln 3 und 4 "
 "werden einige der zeitsparenden Funktionen von RStudio besser dokumentiert, "
 "in den Kapiteln 12 und 13 werden jetzt die neuen Funktionen des lsr-Pakets "
-"zur Durchführung von χ²-Tests und *t*-Tests verwendet, und die Diskussion "
-"von Korrelationen wurde angepasst, um auf die neuen Funktionen des lsr-"
-"Pakets zu verweisen. Die Softcopy von 0.4 hat nun eine bessere interne "
-"Referenzierung (d.h. tatsächliche Hyperlinks zwischen den Abschnitten), "
-"obwohl diese bereits in 0.3.1 eingeführt wurde. Es gibt hier und da ein paar "
-"Anpassungen und viele Tippfehler-Korrekturen (vielen Dank an alle, die auf "
-"Tippfehler hingewiesen haben!), aber insgesamt unterscheidet sich 0.4 nicht "
-"wesentlich von 0.3."
+"verwendet, um χ²-Tests und *t*-Tests durchzuführen, und die Diskussion von "
+"Korrelationen wurde angepasst, um auf die neuen Funktionen des lsr-Pakets zu "
+"verweisen. Die Softcopy von 0.4 hat nun eine bessere interne Referenzierung "
+"(d.h. tatsächliche Hyperlinks zwischen den Abschnitten), obwohl diese "
+"bereits in 0.3.1 eingeführt wurde. Es gibt hier und da ein paar Anpassungen "
+"und viele Tippfehler-Korrekturen (vielen Dank an alle, die auf Tippfehler "
+"hingewiesen haben!), aber insgesamt unterscheidet sich 0.4 nicht wesentlich "
+"von 0.3."
 
 #: ../../Other/Prologue.rst:181
 msgid ""

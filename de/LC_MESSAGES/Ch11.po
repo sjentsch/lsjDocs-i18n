@@ -32,6 +32,62 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -53,6 +109,94 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 19:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 15:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 14:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:52+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-16 13:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
@@ -194,8 +338,8 @@ msgid ""
 "Ch11_tTest_09>` if they are violated. However, before discussing any of "
 "these useful things, we’ll start with a discussion of the *z*-test."
 msgstr ""
-"Die Standardantwort auf das Problem des Vergleichs von Mittelwerten ist die "
-"Verwendung eines *t*-Tests, von dem es mehrere Varianten gibt, je nachdem, "
+"Die Standardantwort auf das Problem des Vergleichs von Mittelwerten ist das "
+"Verwenden eines *t*-Tests, von dem es mehrere Varianten gibt, je nachdem, "
 "welche Frage man beantworten möchte. Daher konzentriert sich der größte Teil "
 "dieses Kapitels auf verschiedene Arten von *t*-Tests: Zuerst werden :doc:"
 "`*t*-Tests bei einer Stichproben<../Ch11/Ch11_tTest_02>` besprochen, gefolgt "
@@ -567,8 +711,8 @@ msgstr ""
 "Dadurch können wir den Stichprobenmittelwert *X̄* in einen :doc:`Standardwert "
 "<../Ch04/Ch04_Descriptives_5>` umwandeln. Dieser wird üblicherweise als *z* "
 "geschrieben, aber für den Moment beziehe ich mich darauf als *z*\\ :sub:`X̄` "
-"(der Grund für die Verwendung dieser erweiterten Schreibweise ist, dass Sie "
-"sich daran erinnern können, dass wir eine standardisierte Version eines "
+"(der Grund, diese erweiterte Schreibweise zu verwenden, ist, dass Sie sich "
+"daran erinnern können, dass wir eine standardisierte Version eines "
 "Stichprobenmittelwerts berechnen, *nicht* eine standardisierte Version einer "
 "einzelnen Beobachtung, worauf sich ein *z*-Score normalerweise bezieht). Der "
 "*z*-Score für unseren Stichprobenmittelwert lautet dann:"
@@ -599,8 +743,8 @@ msgid ""
 "test statistic is that like all *z*-scores, it has a standard normal "
 "distribution:"
 msgstr ""
-"Dieser *z*-score ist unsere Teststatistik. Das Schöne an der Verwendung "
-"dieses Wertes als Teststatistik ist, dass er wie alle *z*-Scores einer "
+"Dieser *z*-score ist unsere Teststatistik. Das Schöne beim Verwenden dieses "
+"Wertes als Teststatistik ist, dass er wie alle *z*-Scores einer "
 "Standardnormalverteilung folgt:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:179
@@ -1942,7 +2086,7 @@ msgid ""
 "Conducting an Independent Samples *t*-test in jamovi, with options for "
 "recommended outputs checked."
 msgstr ""
-"Durchführung eines *t*-Tests für unabhängigen Stichproben in jamovi, bei dem "
+"Durchführen eines *t*-Tests für unabhängigen Stichproben in jamovi, bei dem "
 "die Optionen für die empfohlenen Ergebnisausgaben bereits gesetzt sind."
 
 #: ../../Ch11/Ch11_tTest_03.rst:284
@@ -2076,7 +2220,7 @@ msgid ""
 "simple. The *t*-statistic that we calculate here is always of the form"
 msgstr ""
 "Bevor ich auf die Annahmen des *t*-Tests eingehe, möchte ich noch einen "
-"weiteren Punkt über die Verwendung von *t*-Tests in der Praxis ansprechen. "
+"weiteren Punkt über das Verwenden von *t*-Tests in der Praxis ansprechen. "
 "Der erste Punkt bezieht sich auf das Vorzeichen der *t*-Statistik (d. h. ob "
 "es sich um eine positive oder negative Zahl handelt). Eine sehr häufige "
 "Sorge, die Studenten haben, wenn sie ihren ersten *t*-Test durchführen, ist, "
@@ -2089,9 +2233,9 @@ msgstr ""
 "sein. Bei näherer Betrachtung haben außerdem die Konfidenzintervalle die "
 "entgegengesetzten Vorzeichen haben. Das ist völlig in Ordnung. Wann immer "
 "dies geschieht, werden Sie feststellen, dass die beiden Versionen der "
-"Ergebnisse auf leicht unterschiedliche Arten der Durchführung des *t*-Tests "
-"zurückzuführen sind. Was hier passiert, ist sehr einfach. Die *t*-Statistik, "
-"die wir hier berechnen, hat immer die Form"
+"Ergebnisse darauf zurückzuführen sind, dass leicht unterschiedliche Arten "
+"des *t*-Tests durchführt wurden. Was hier passiert, ist sehr einfach. Die "
+"*t*-Statistik, die wir hier berechnen, hat immer die Form"
 
 #: ../../Ch11/Ch11_tTest_03.rst:355
 msgid "*t* = (mean 1 - mean 2) / SE"
@@ -2158,10 +2302,9 @@ msgstr ""
 "Das Wichtigste ist, die *t*-Statistik so zu berichten, dass die Zahlen mit "
 "dem Text übereinstimmen. Angenommen, ich möchte in meinem Bericht schreiben: "
 "„Anastasias Klasse hatte bessere Noten als Bernadettes Klasse“. Die "
-"Formulierung hier impliziert, dass Anastasias Gruppe an erster Stelle steht, "
-"so dass es sinnvoll ist, die *t*-Statistik so darzustellen, als ob "
-"Anastasias Klasse der Gruppe 1 entsprechen würde. In diesem Fall würde ich "
-"schreiben"
+"Formulierung impliziert, dass Anastasias Gruppe an erster Stelle steht, so "
+"dass es sinnvoll ist, die *t*-Statistik so darzustellen, als ob Anastasias "
+"Klasse der Gruppe 1 entsprechen würde. In diesem Fall würde ich schreiben"
 
 #: ../../Ch11/Ch11_tTest_03.rst:386
 msgid ""
@@ -2288,10 +2431,10 @@ msgstr ""
 "*Varianzhomogenität* (auch „Homoskedastizität“ genannt). Die dritte Annahme "
 "ist, dass die Standardabweichung in der Grundgesamtheit für beide Gruppen "
 "gleich ist. Sie können diese Annahme mit dem Levene-Test testen, auf den ich "
-"später im Buch eingehe (Abschnitt :doc:`Überprüfung der Varianzhomogenität "
-"<../Ch13/Ch13_ANOVA_06>`). Wenn Sie sich Sorgen machen, gibt es jedoch eine "
-"sehr einfache Lösung für diese Annahme, die ich im nächsten Abschnitt "
-"erläutern werde."
+"später im Buch eingehe (Abschnitt :doc:`Überprüfen der Annahme der "
+"Varianzhomogenität <../Ch13/Ch13_ANOVA_06>`). Wenn Sie sich Sorgen machen, "
+"gibt es jedoch eine sehr einfache Lösung für diese Annahme, die ich im "
+"nächsten Abschnitt erläutern werde."
 
 #: ../../Ch11/Ch11_tTest_03.rst:446
 msgid "Although it is the simplest, which is why I started with it."
@@ -2794,8 +2937,8 @@ msgstr ""
 "wir uns die *Verbesserung* jedes Schülers von einem Examen zum nächsten "
 "ansehen und diese Verbesserung als unsere Rohdaten behandeln sollten. Um "
 "dies zu tun, müssen wir eine neue berechnete Variable ``improvement`` "
-"erstellen und sie dem |chico|_ Datensatz hinzufügen. Der Ausdruck für die "
-"Berechnung der neuen Variable ist ``grade_test2 - grade_test1``."
+"erstellen und sie dem |chico|_ Datensatz hinzufügen. Der Ausdruck für das "
+"Berechnen der neuen Variable ist ``grade_test2 - grade_test1``."
 
 #: ../../Ch11/Ch11_tTest_05.rst:98
 msgid ""
@@ -3303,7 +3446,7 @@ msgstr ""
 "Versionen, die allgemein gebräuchlich sind, und jeder Autor neigt dazu, eine "
 "etwas andere Notation zu verwenden. Der Einfachheit halber (im Gegensatz zur "
 "Genauigkeit) werde ich *d* für jede Statistik verwenden, die Sie aus der "
-"Stichprobe berechnen, und δ für einen theoretischen Bevölkerungseffekt. Das "
+"Stichprobe berechnen, und δ für einen theoretischen Populationseffekt. Das "
 "bedeutet natürlich, dass es mehrere verschiedene Dinge gibt, die alle *d* "
 "heißen."
 
@@ -3314,7 +3457,7 @@ msgid ""
 "size for all the different flavours of *t*-test it provides."
 msgstr ""
 "Ich vermute, dass Sie Cohens *d* nur dann brauchen, wenn Sie einen *t*-Test "
-"durchführen, und jamovi hat eine Option zur Berechnung der Effektstärke bei "
+"durchführen, und jamovi hat eine Option zum Berechnen der Effektstärke bei "
 "allen Arten von *t*-Tests, die es anbietet."
 
 #: ../../Ch11/Ch11_tTest_07.rst:36
@@ -3611,7 +3754,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
 msgid "Checking the normality of a sample"
-msgstr "Überprüfung der Normalverteilung in einer Stichprobe"
+msgstr "Überprüfen der Normalverteilung in einer Stichprobe"
 
 #: ../../Ch11/Ch11_tTest_08.rst:6
 msgid ""
@@ -3736,7 +3879,7 @@ msgid ""
 "middle and curves sharply at either end."
 msgstr ""
 "Eine Möglichkeit zu prüfen, ob eine Stichprobe gegen die Annahme der "
-"Normalverteilung verstößt, ist die Erstellung eines **„Q-Q-Diagramm“** "
+"Normalverteilung verstößt, ist das Erstellen eines **„Q-Q-Diagramm“** "
 "(Quantil-Quantil-Diagramm). Auf diese Weise können Sie visuell überprüfen, "
 "ob Sie systematische Verletzungen der Normalverteilungsannahme feststellen "
 "können. In einem Q-Q-Diagramm wird jede Beobachtung als ein einzelner Punkt "
@@ -4239,8 +4382,8 @@ msgid ""
 msgstr ""
 "Wenn wir diesmal die Häkchen zusammenzählen, erhalten wir eine Teststatistik "
 "von *W* = 7. Wenn unser Test zweiseitig ist, dann lehnen wir die "
-"Nullhypothese ab, wenn *W* sehr groß oder sehr klein ist. Was die "
-"Durchführung in jamovi betrifft, so ist es so ziemlich genau so, wie man es "
+"Nullhypothese ab, wenn *W* sehr groß oder sehr klein ist. Was das "
+"Durchführen in jamovi betrifft, so ist es so ziemlich genau so, wie man es "
 "erwarten würde. Für die Version mit einer Stichprobe wählen Sie die Option "
 "``Wilcoxon rank`` unter ``Tests`` innerhalb des ``One Sample *t*-Test`` an. "
 "Dadurch erhalten Sie Wilcoxon *W* = 7, *p*-Wert = 0,03711. Wie dies zeigt, "
