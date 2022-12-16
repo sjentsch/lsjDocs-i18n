@@ -7,7 +7,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -15,12 +14,13 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-16 19:05+0100\n"
+"POT-Creation-Date: 2022-12-16 20:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -162,16 +162,16 @@ msgstr ""
 #: ../../Ch03/Ch03_jamoviIntro_1.rst:22
 msgid ""
 "Whereas this text book was one of the first resources available to "
-"support jamovi, there is now an abundance of them: They can be found "
-"under `Community resources <https://www.jamovi.org/community.html>`__ on "
-"the jamovi-web page."
+"support jamovi, there is now an abundance of them: Have a look under "
+"“resources” → `community resources "
+"<https://www.jamovi.org/community.html>`__ on the jamovi homepage."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:27
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:28
 msgid "The jamovi window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:29
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:30
 msgid ""
 "One way or another, regardless of what operating system you’re using, "
 "it’s time to open jamovi and get started. When first starting jamovi you "
@@ -179,15 +179,15 @@ msgid ""
 ":numref:`fig-startjamovi`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:40
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:41
 msgid "jamovi start window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:40
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:41
 msgid "jamovi looks like this when you start it."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:44
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:45
 msgid ""
 "To the left is the :doc:`spreadsheet view <Ch03_jamoviIntro_2>`, and to "
 "the right is where the results of your `statistical analyses "
@@ -196,7 +196,7 @@ msgid ""
 "their sizes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:49
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:50
 msgid ""
 "The first time you open jamovi, you may want to change some of the "
 "default settings. These can be accessed from the settings menu (``⋮``, at"
@@ -207,7 +207,7 @@ msgid ""
 "the language defaults to the language you have set for your OS.\\ [#]"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:57
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:58
 msgid ""
 "To quit jamovi, just close the program the same way you would any other "
 "program. However, what you might want to do before you quit is save your "
@@ -225,7 +225,7 @@ msgid ""
 "the **output** of your analyses as PDF, HTML or as LaTeX-document."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:75
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:76
 msgid ""
 "Although jamovi is updated frequently it doesn’t usually make much of a "
 "difference for the sort of work we’ll do in this book. In fact, during "
@@ -233,7 +233,7 @@ msgid ""
 "difference at all to what is in this book."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:81
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:82
 msgid ""
 "Please note that the figures (screenshots, etc.) within this book are "
 "using the English user interface."
@@ -800,26 +800,5 @@ msgid ""
 "analyes within the module if you hover over (then the analyses are shown)"
 " or click on it (then you can access the analyes)."
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
