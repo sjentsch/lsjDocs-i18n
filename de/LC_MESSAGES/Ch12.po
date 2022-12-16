@@ -9,18 +9,21 @@
 #
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-16 13:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-16 12:51+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -1002,18 +1005,17 @@ msgstr ""
 "Korrelation von **1,0**."
 
 #: ../../Ch12/Ch12_Regression_01.rst:393
-#, fuzzy
 msgid ""
 "What we’ve just re-invented is **Spearman’s rank order correlation**, "
 "usually denoted ρ to distinguish it from the Pearson correlation *r*. We "
 "can calculate Spearman’s ρ using jamovi simply by clicking the "
 "``Spearman`` check box in the ``Correlation Matrix`` options panel."
 msgstr ""
-"Was wir soeben neu erfunden haben, ist **Spearmans "
-"Rangfolgekorrelation**, die üblicherweise als ρ bezeichnet wird, um sie "
-"von der Pearson-Korrelation *r* zu unterscheiden. Wir können Spearmans ρ "
-"mit jamovi berechnen, indem wir einfach die Checkbox ``Spearman`` "
-"innerhalb der Optionen von ``Correlation Matrix`` aktivieren."
+"Was wir soeben neu erfunden haben, ist **Spearmans Rangfolgekorrelation**, "
+"die üblicherweise als ρ bezeichnet wird, um sie von der Pearson-Korrelation "
+"*r* zu unterscheiden. Wir können Spearmans ρ mit jamovi berechnen, indem wir "
+"einfach die Checkbox ``Spearman`` innerhalb der Optionen von ``Correlation "
+"Matrix`` aktivieren."
 
 #: ../../Ch12/Ch12_Regression_01.rst:401
 msgid ""
@@ -2158,7 +2160,6 @@ msgstr ""
 "steigt (oder zumindest nicht sinkt)."
 
 #: ../../Ch12/Ch12_Regression_06.rst:119
-#, fuzzy
 msgid ""
 "The adjusted *R*\\² value introduces a slight change to the calculation, "
 "as follows. For a regression model with K predictors, fit to a data set "
@@ -2166,8 +2167,7 @@ msgid ""
 msgstr ""
 "Der adjustierte *R*\\²-Wert führt zu einer geringfügigen Änderung der "
 "Berechnung. Für ein Regressionsmodell mit *K* Prädiktoren, das an einen "
-"Datensatz mit *N* Beobachtungen angepasst wird, ist das adjustierte "
-"*R*\\²:"
+"Datensatz mit *N* Beobachtungen angepasst wird, ist das adjustierte *R*\\²:"
 
 #: ../../Ch12/Ch12_Regression_06.rst:124
 msgid ""
@@ -2378,7 +2378,6 @@ msgid "SS\\ :sub:`res` = SS\\ :sub:`res` / *df*\\ :sub:`res`"
 msgstr "SS\\ :sub:`res` = SS\\ :sub:`res` / *df*\\ :sub:`res`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:52
-#, fuzzy
 msgid ""
 "So, how many degrees of freedom do we have? As you might expect the *df* "
 "associated with the model is closely tied to the number of predictors "
@@ -2386,11 +2385,10 @@ msgid ""
 "For the residuals the total degrees of freedom is *df*\\ :sub:`res` = *N*"
 " - *K* - 1."
 msgstr ""
-"Wie viele Freiheitsgrade haben wir also? Wie zu erwarten, ist der *df* "
-"des Modells eng mit der Anzahl der Prädiktoren verbunden, die wir "
-"einbezogen haben. Tatsächlich stellt sich heraus, dass *df*\\ :sub:`mod` "
-"= *K*. Für die Residuen sind die gesamten Freiheitsgrade *df*\\ "
-":sub:`res` = *N* - *K* - 1."
+"Wie viele Freiheitsgrade haben wir also? Wie zu erwarten, ist der *df* des "
+"Modells eng mit der Anzahl der Prädiktoren verbunden, die wir einbezogen "
+"haben. Tatsächlich stellt sich heraus, dass *df*\\ :sub:`mod` = *K*. Für die "
+"Residuen sind die gesamten Freiheitsgrade *df*\\ :sub:`res` = *N* - *K* - 1."
 
 #: ../../Ch12/Ch12_Regression_07.rst:58
 msgid ""
@@ -2678,7 +2676,6 @@ msgstr ""
 "wir begonnen haben, ist das bessere Modell."
 
 #: ../../Ch12/Ch12_Regression_07.rst:189
-#, fuzzy
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = "
 "y - X \\hat{b}`. For *K* predictors plus the intercept, the estimated "
@@ -2687,14 +2684,12 @@ msgid ""
 ":math:`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main "
 "diagonal of which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
-"Für fortgeschrittene Leser: Der Vektor der Residuen ist :math:`\\epsilon "
-"= y - X \\hat{b}`. Für K-Prädiktoren plus dem Interzept ist die "
-"geschätzte Varianz der Residuen :math:`\\hat\\sigma^2 = "
-"\\epsilon^\\prime\\epsilon / (N-K-1)`. Die geschätzte Kovarianzmatrix der"
-" Koeffizienten ist "
-":math:`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, dessen "
-"Hauptdiagonale :math:`SE(\\hat{b})` ist, und unsere geschätzten "
-"Standardfehler enthält."
+"Für fortgeschrittene Leser: Der Vektor der Residuen ist :math:`\\epsilon = y "
+"- X \\hat{b}`. Für K-Prädiktoren plus dem Interzept ist die geschätzte "
+"Varianz der Residuen :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N "
+"- K - 1)`. Die geschätzte Kovarianzmatrix der Koeffizienten ist :math:`\\hat"
+"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, dessen Hauptdiagonale "
+":math:`SE(\\hat{b})` ist, und unsere geschätzten Standardfehler enthält."
 
 #: ../../Ch12/Ch12_Regression_07.rst:199
 msgid ""
@@ -4046,15 +4041,14 @@ msgstr ""
 "Option in jamovi verfügbar ist."
 
 #: ../../Ch12/Ch12_Regression_12.rst:50
-#, fuzzy
 msgid ""
 "In the context of a linear regression model (and ignoring terms that "
 "don’t depend on the model in any way!), the AIC for a model that has K "
 "predictor variables plus an intercept is"
 msgstr ""
-"Im Kontext eines linearen Regressionsmodells (und ohne Berücksichtigung "
-"von Termen, die in keiner Weise vom Modell abhängen!) ist der AIC für ein"
-" Modell mit *K* Prädiktorvariablen plus einem Schnittpunkt"
+"Im Kontext eines linearen Regressionsmodells (und ohne Berücksichtigung von "
+"Termen, die in keiner Weise vom Modell abhängen!) ist der AIC für ein Modell "
+"mit *K* Prädiktorvariablen plus einem Schnittpunkt"
 
 #: ../../Ch12/Ch12_Regression_12.rst:54
 msgid ""
@@ -4375,7 +4369,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_12.rst:196
-#, fuzzy
 msgid ""
 "where *N* is the number of observations, *p* is the number of predictors "
 "in the full model (not including the intercept), and k is the difference "
@@ -4384,12 +4377,12 @@ msgid ""
 "convenient to think about the difference between those two SS values as a"
 " sum of squares in its own right. That is"
 msgstr ""
-"Dabei ist *N* die Anzahl der Beobachtungen, *p* die Anzahl der "
-"Prädiktoren im vollständigen Modell (ohne Schnittpunkt) und *k* der "
-"Unterschied in der Anzahl der Parameter zwischen den beiden Modellen.\\ "
-"[#]_ The Freiheitsgrade sind hier *k* und *N* - *p* - 1. Beachten Sie, "
-"dass es oft bequemer ist, sich die Differenz zwischen diesen beiden SS-"
-"Werten als eigenständige Quadratsumme vorzustellen. Das ist"
+"Dabei ist *N* die Anzahl der Beobachtungen, *p* die Anzahl der Prädiktoren "
+"im vollständigen Modell (ohne Schnittpunkt) und *k* der Unterschied in der "
+"Anzahl der Parameter zwischen den beiden Modellen.\\ [#]_ The Freiheitsgrade "
+"sind hier *k* und *N* - *p* - 1. Beachten Sie, dass es oft bequemer ist, "
+"sich die Differenz zwischen diesen beiden SS-Werten als eigenständige "
+"Quadratsumme vorzustellen. Das ist"
 
 #: ../../Ch12/Ch12_Regression_12.rst:204
 msgid ""
@@ -4543,13 +4536,12 @@ msgid ":doc:`Multiple linear regression <../Ch12/Ch12_Regression_05>`"
 msgstr ":doc:`Multiple lineare Regression <../Ch12/Ch12_Regression_05>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:16
-#, fuzzy
 msgid ""
 "Measuring the :doc:`overall performance of a regression model using R² "
 "<../Ch12/Ch12_Regression_06>`"
 msgstr ""
-"Quantifizieren der :doc:`Güte eines Regressionsmodells mit *R*\\² "
-"<../Ch12/Ch12_Regression_06>`"
+"Quantifizieren der :doc:`Güte eines Regressionsmodells mit *R*\\² <../Ch12/"
+"Ch12_Regression_06>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:19
 msgid ":doc:`Hypothesis tests for regression models <../Ch12/Ch12_Regression_07>`"
@@ -4578,4 +4570,3 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <../Ch12/Ch12_Regression_12>`"
 msgstr ":doc:`Auswahl von Regressionsmodellen <../Ch12/Ch12_Regression_12>`"
-
