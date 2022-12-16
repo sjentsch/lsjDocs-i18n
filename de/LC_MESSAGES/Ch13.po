@@ -15,18 +15,21 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-16 13:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-12-16 12:51+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
@@ -1866,7 +1869,6 @@ msgstr ""
 " :sub:`Fehler` bezeichnet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:629
-#, fuzzy
 msgid ""
 "If you read ahead to chapter :doc:`Factorial ANOVA <../Ch14/Ch14_ANOVA2>`"
 " and look at how the “treatment effect” at level k of a factor is defined"
@@ -1876,12 +1878,12 @@ msgid ""
 "effects, :math:`Q = (\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
 msgstr ""
 "Wenn man im Kapitel :doc:`Faktorielle ANOVA <../Ch14/Ch14_ANOVA2>` "
-"weiterliest und sich anschaut, wie der „Behandlungseffekt“ auf der Ebene "
-"*k* eines Faktors in Form der α\\ :sub:`k`-Werte definiert ist (siehe "
-"Abschnitt :doc:`Faktorielle ANOVA 2: balancierte Designs mit "
-"Wechselwirkungen <../Ch14/Ch14_ANOVA2_02>`), stellt sich heraus, dass Q "
-"sich auf ein gewichtetes Mittel der quadrierten Behandlungseffekte "
-"bezieht, :math:`Q = (\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
+"weiterliest und sich anschaut, wie der „Behandlungseffekt“ auf der Ebene *k* "
+"eines Faktors in Form der α\\ :sub:`k`-Werte definiert ist (siehe Abschnitt "
+":doc:`Faktorielle ANOVA 2: balancierte Designs mit Wechselwirkungen <../Ch14/"
+"Ch14_ANOVA2_02>`), stellt sich heraus, dass Q sich auf ein gewichtetes "
+"Mittel der quadrierten Behandlungseffekte bezieht, :math:`Q = (\\sum_{k=1}^G "
+"N_k \\alpha_k^2)/(G-1)`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:637
 msgid ""
@@ -4136,4 +4138,3 @@ msgstr ""
 "Anfänger, aber es ist ein ausgezeichnetes Buch für fortgeschrittene "
 "Leser, die daran interessiert sind, die Mathematik hinter der ANOVA zu "
 "verstehen."
-
