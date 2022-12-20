@@ -28,7 +28,7 @@ msgstr ""
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-16 20:14+0100\n"
+"POT-Creation-Date: 2022-12-20 14:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,14 +38,14 @@ msgstr ""
 "#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-12-16 20:01+0100\n"
+"POT-Creation-Date: 2022-12-20 14:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
 msgid "Getting started with jamovi"
@@ -262,7 +262,8 @@ msgstr ""
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet as "
 "you would in any other spreadsheet software. Alternatively, existing data "
-"sets can be opened in jamovi (see the section “” further down on the page)."
+"sets can be opened in jamovi (see the section “Loading data in jamovi” "
+"further down on the page)."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:11
@@ -271,11 +272,11 @@ msgid ""
 "a “variable” and each row representing a “case” or “participant”."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:17
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:16
 msgid "Data Variables"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:19
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:18
 msgid ""
 "The most commonly used variables in jamovi are ``Data`` variables, these "
 "variables simply contain data either loaded from a data file, or “typed in” "
@@ -283,7 +284,7 @@ msgid ""
 "levels are designated by the symbol in the header of the variable’s column:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:25
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:24
 msgid ""
 "The ``ID`` variable type |ID| is unique to jamovi. It’s intended for "
 "variables that contain identifiers that you would almost never want to "
@@ -292,11 +293,11 @@ msgid ""
 "sets."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:308 ../../Ch03/Ch03_jamoviIntro_3.rst:107
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:311 ../../Ch03/Ch03_jamoviIntro_3.rst:108
 msgid "ID"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:31
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:30
 msgid ""
 "``Nominal`` variables |nominal| are for categorical variables which are text "
 "labels, for example a column called Gender with the values ``Male`` and "
@@ -308,50 +309,50 @@ msgid ""
 "values with the variable editor (more on this later)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:314 ../../Ch03/Ch03_jamoviIntro_3.rst:113
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:317 ../../Ch03/Ch03_jamoviIntro_3.rst:114
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:40
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:39
 msgid ""
 "``Ordinal`` variables |ordinal| are like ``Nominal`` variables, except the "
 "values have a specific order. An example is a Likert scale with 3 being "
 "“strongly agree” and -3 being “strongly disagree”."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:317 ../../Ch03/Ch03_jamoviIntro_3.rst:116
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:320 ../../Ch03/Ch03_jamoviIntro_3.rst:117
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:44
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:43
 msgid ""
 "``Continuous`` variables |continuous| are variables which exist on a "
 "continuous scale. Examples might be height or weight. This is also referred "
 "to as “interval scale” or “ratio scale”."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:311 ../../Ch03/Ch03_jamoviIntro_3.rst:110
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:314 ../../Ch03/Ch03_jamoviIntro_3.rst:111
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:48
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:47
 msgid ""
 "In addition, you can also specify different data types: variables have a "
 "data type of either ``Text``, ``Integer`` or ``Decimal``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:57
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:56
 msgid "Measurement levels and data types in jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:57
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:56
 msgid "Window to set measurement levels and data types in jamovi."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:61
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:60
 msgid ""
 "When starting with a blank spreadsheet and typing values in the variable "
-"type will change automatically depending on the data you enter. This is a "
+"type will change automatically depending on the data you enter. This isa "
 "good way to get a feel for which variable types go with which sorts of data. "
 "Similarly, when opening a data file jamovi will try and guess the variable "
 "type from the data in each column. In both cases this automatic approach may "
@@ -359,24 +360,24 @@ msgid ""
 "type with the variable editor."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:69
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:68
 msgid ""
-"The variable editor can be opened by selecting ``Setup`` from the data tab "
-"or by double-clicking on the variable column header. The variable editor "
-"allows you to change the name of the variable and, for data variables, the "
-"variable type, the order of the levels, and the label displayed for each "
-"level. Changes can be applied by clicking the “tick” to the top right. The "
-"variable editor can be dismissed by clicking ``↑``."
+"The variable editor can be opened by selecting ``Setup`` from the ``Data`` "
+"ribbon or by double-clicking on the variable column header. The variable "
+"editor allows you to change the name of the variable and, for data "
+"variables, the measure type, the order of the value levels, and the label "
+"displayed for each level. The variable editor can be dismissed by clicking "
+"``↑``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:76
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:74
 msgid ""
 "New variables can be inserted or appended to the data set using the ``Add`` "
 "button from the ``Data`` tab. The ``Add`` button also allows the addition of "
 "computed variables."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:80
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:78
 msgid ""
 "Sometimes you want to change the variable level. This can happen for all "
 "sorts of reasons. Sometimes when you import data from files, it can come to "
@@ -389,27 +390,30 @@ msgid ""
 "term, you want to **coerce** the variable from one class into another."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:90
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:88
 msgid ""
 "If you want to change a variable’s measurement level then you can do this in "
-"the jamovi data view for that variable. Just click the check box for the "
-"type level you want - continuous |continuous|, ordinal |ordinal|, or nominal "
-"|nominal|."
+"the jamovi ``Data`` view. Click on the variable name in the top row of the "
+"data table and then select the desired measurement level under ``Measure "
+"Type`` – continuous |continuous|, ordinal |ordinal| or nominal |nominal|."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:96
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:95
 msgid "Computed variables"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:98
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:97
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other variables. Computed Variables can be used for a range "
 "of purposes, including log transforms, *z*-scores, sum-scores, negative "
-"scoring and means."
+"scoring and means. There is another variable type, Transformed variables, "
+"that can be used to “recode” variables (e.g., when inverting items). This "
+"variable type is briefly described at the end of the section :doc:`EFA in "
+"jamovi <../Ch15/Ch15_FactorAnalysis_1>` and in :numref:`fig-efa7`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:103
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:105
 msgid ""
 "Computed variables can be added to the data set with the ``Add`` button "
 "available on the data tab. This will produce a formula box where you can "
@@ -417,7 +421,7 @@ msgid ""
 "examples of formulas are:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:115
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:117
 msgid ""
 "In order, these are the sum of ``A`` and ``B``, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the *z*-score of the variable "
@@ -426,19 +430,19 @@ msgid ""
 "example data set)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:127
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:129
 msgid "Computed variable: *z*-score of ``dose``"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:127
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:129
 msgid "A newly computed variable, the *z*-score of ``dose``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:133
 msgid "*V-functions*"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:133
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:135
 msgid ""
 "Several functions are already available in jamovi and available from the "
 "drop down box labelled *f*\\ :sub:`x`. A number of functions appear in "
@@ -449,25 +453,25 @@ msgid ""
 "the values in ``A``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:142
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:145
 msgid "Loading data in jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:144
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:147
 msgid ""
 "There are several different types of files that are likely to be relevant to "
 "us when doing data analysis. There are two in particular that are especially "
 "important from the perspective of this book:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:148
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:151
 msgid ""
 "*jamovi files* are those with a ``.omv`` file extension. This is the "
 "standard kind of file that jamovi uses to store data, and variables and "
 "analyses."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:152
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:155
 msgid ""
 "*Comma separated value (CSV) files* are those with a ``.csv`` file "
 "extension. These are just regular old text files and they can be opened with "
@@ -475,7 +479,7 @@ msgid ""
 "data in CSV files, precisely because they’re so simple."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:158
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:161
 msgid ""
 "There are also several other kinds of data file that you might want to "
 "import into jamovi. For instance, you might want to open Microsoft Excel "
@@ -483,14 +487,14 @@ msgid ""
 "native file formats for other statistics software, such as SPSS or SAS."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:163
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:166
 msgid ""
 "Whichever file formats you are using, it’s a good idea to create a folder or "
 "folders especially for your jamovi data sets and analyses and to make sure "
 "you keep these backed up regularly."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:167
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:170
 msgid ""
 "To open a file select the main jamovi menu (``☰``; top left hand corner), "
 "select ``Open`` and then choose from the files listed under ``This PC`` if "
@@ -500,11 +504,11 @@ msgid ""
 "``lsj-data``)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:175
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:178
 msgid "Importing data from CSV files"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:177
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:180
 msgid ""
 "One quite commonly used data format is the humble “comma separated value” "
 "file, also called a CSV file, and usually bearing the file extension ``."
@@ -516,11 +520,11 @@ msgid ""
 "variables."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:192
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:195
 msgid "|booksales| data file"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:192
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:195
 msgid ""
 "The |booksales|_ data file. On the left I’ve opened the file using a "
 "spreadsheet program (LibreOffice), which shows that the file is basically a "
@@ -529,7 +533,7 @@ msgid ""
 "entries in the table are wrapped in quote marks and separated by commas."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:200
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:203
 msgid ""
 "It’s easy to open CSV files in jamovi. From the jamovi main menu (``☰``; top "
 "left hand corner) choose ``Open`` and browse to where you have stored the "
@@ -540,38 +544,38 @@ msgid ""
 "Find the one you want, then click on the ``Open`` button."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:208
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:211
 msgid ""
 "There are a few things that you can check to make sure that the data gets "
 "imported correctly:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:211
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:214
 msgid ""
 "Heading. Does the first row of the file contain the names for each variable "
 "- a “header” row? The |booksales|_ file has a header, so that’s a yes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:215
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:218
 msgid ""
 "Separator. What character is used to separate different entries? In most CSV "
 "files this will be a comma (it is “comma separated” after all)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:219
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:222
 msgid ""
 "Decimal. What character is used to specify the decimal point? In English "
 "speaking countries this is almost always a period (i.e., ``.``). That’s not "
 "universally true though, many European countries use a comma."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:224
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:227
 msgid ""
 "Quote. What character is used to denote a block of text? That’s usually "
 "going to be a double quote mark (``\"``). It is for the |booksales|_ file."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:228
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:231
 msgid ""
 "Throughout this book I’ve assumed that your data are stored as a jamovi ``."
 "omv`` file or as a “properly” formatted CSV file. However, in real life "
@@ -579,7 +583,7 @@ msgid ""
 "some of the other possibilities that you might run into."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:233
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:236
 msgid ""
 "The first thing I should point out is that if your data are saved as a text "
 "file but aren’t *quite* in the proper CSV format then there’s still a pretty "
@@ -588,7 +592,7 @@ msgid ""
 "formatting. The ones that I’ve often found myself needing to change are:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:240
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:243
 msgid ""
 "``header``. A lot of the time when you’re storing data as a CSV file the "
 "first row actually contains the column names and not data. If that’s not "
@@ -596,7 +600,7 @@ msgid ""
 "programme such as LibreOffice and add the header row manually."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:246
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:249
 msgid ""
 "``sep``. As the name “comma separated value” indicates, the values in a row "
 "of a CSV file are usually separated by commas. This isn’t universal, "
@@ -606,7 +610,7 @@ msgid ""
 "the separator. At other times, I’ve seen a TAB character used."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:254
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:257
 msgid ""
 "``quote``. It’s conventional in CSV files to include a quoting character for "
 "textual data. As you can see by looking at the |booksales|_ file, this is "
@@ -614,7 +618,7 @@ msgid ""
 "character at all, or you might see a single quote mark ``’`` used instead."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:260
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:263
 msgid ""
 "``skip``. It’s actually very common to receive CSV files in which the first "
 "few rows have nothing to do with the actual data. Instead, they provide a "
@@ -622,7 +626,7 @@ msgid ""
 "some technical info that doesn’t relate to the data."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:266
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:269
 msgid ""
 "``missing values``. Often you’ll get given data with missing values. For one "
 "reason or another, some entries in the table are missing. The data file "
@@ -637,11 +641,11 @@ msgid ""
 "``Setup`` view."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:280
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:283
 msgid "Importing data from other statistics packages"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:282
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:285
 msgid ""
 "The commands listed above are the main ones we’ll need for data files in "
 "this book. But in real life we have many more possibilities. For example, "
@@ -652,14 +656,14 @@ msgid ""
 "but this time navigate to the ``.sav`` file you want to import."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:291
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:294
 msgid ""
 "As far as other statistical software goes, jamovi can also directly open / "
 "import a wealth of other formats such as R, SAS, STATA, Excel, LibreOffice, "
 "and JSON."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:298
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:301
 msgid ""
 "You can change the default value for missing values in jamovi from the "
 "settings menu (``⋮``, top right corner), but this only works at the time of "
@@ -674,14 +678,15 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:6
 msgid ""
-"Analyses can be selected from the analyses ribbon (activate it by pressing "
-"the ). Here, individual analyses can be chosen from their respective "
-"category (e.g., ``T-Tests``, ``ANOVA`` or ``Regression``). Selecting an "
-"analysis will present an **options panel** for that particular analysis, "
-"allowing you to assign different variables to different parts of the "
-"analysis, and select different options. At the same time, the results for "
-"the analysis will appear in the right **results panel** and will update in "
-"real-time as you make changes to the options."
+"Analyses can be selected from the ``Analyses`` ribbon (activate it by "
+"clicking the ``Analyses``-tab at the top of the jamovi window). Here, "
+"individual analyses can be chosen from their respective category (e.g., ``T-"
+"Tests``, ``ANOVA`` or ``Regression``). Selecting an analysis will present an "
+"**options panel** for that particular analysis, allowing you to assign "
+"different variables to different parts of the analysis, and select different "
+"options. At the same time, the results for the analysis will appear in the "
+"right **results panel** and will update in real-time as you make changes to "
+"the options."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:15
@@ -708,30 +713,31 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:30
 msgid ""
-"jamovi produces nice American Psychological Association (APA) formatted "
-"tables and attractive plots. It is often useful to be able to copy and paste "
-"these, perhaps into a Word document, or into an email to a colleague. To "
-"copy results right click on the object of interest and from the menu select "
-"exactly what you want to copy. The menu allows you to choose to copy only "
-"the image or the entire analysis. Selecting “copy” copies the content to the "
-"clipboard and this can be pasted into other programs in the usual way. You "
-"can practice this later on when we do some analyses."
+"jamovi produces nice tables and attractive plots that are formatted in "
+"accordance with the American Psychological Association (APA) Publication "
+"Manual. A very useful feature of jamovi is the opportunity to be able to "
+"directly copy and paste these, perhaps into a Word document, or into an "
+"email to a colleague. To copy results right click on the object of interest "
+"and from the menu select exactly what you want to copy. The menu allows you "
+"to choose to copy only the image or the entire analysis. Selecting ``Copy`` "
+"copies the content to the clipboard and this can be pasted into other "
+"programs in the usual way. You can practice this later on when we do some "
+"analyses."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:41
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:42
 msgid "Syntax mode"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:43
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:44
 msgid ""
-"jamovi also provides an “Syntax Mode”. In this mode jamovi produces "
-"equivalent R code for each analysis. To change to syntax mode, select the "
-"settings menu (``⋮``; top right corner in jamovi) and click the ``Syntax "
-"mode`` checkbox there. You can turn off syntax mode by clicking this a "
-"second time."
+"jamovi also provides an syntax mode. In this mode jamovi produces equivalent "
+"R code for each analysis. To change to syntax mode, select the settings menu "
+"(``⋮``; top right corner in jamovi) and click the ``Syntax mode`` checkbox "
+"there. You can turn off syntax mode by clicking this a second time."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:49
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:50
 msgid ""
 "In syntax mode analyses continue to operate as before but now they produce "
 "R syntax. Like all results objects in jamovi, you can right click on these "
@@ -747,11 +753,11 @@ msgid ""
 "function name by a ``?`` (e.g., ``?jmvReadWrite::read_omv``)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:63
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:64
 msgid "Installing add-on modules into jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:65
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:66
 #, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
@@ -763,7 +769,7 @@ msgid ""
 "psychology)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:72
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:73
 msgid ""
 "To install add-on modules, just click on the large ``+`` in the top right of "
 "the jamovi window, select ``jamovi library`` and then browse through the "
@@ -771,7 +777,7 @@ msgid ""
 "then install them (as shown in :numref:`fig-modules`)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:77
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:78
 msgid ""
 "It’s that easy. The newly installed modules can then be accessed from the "
 "``Analyses`` ribbon or by clicking on the the large ``+`` and the selecting "
@@ -780,15 +786,15 @@ msgid ""
 "_."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:88
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:89
 msgid "jamovi modules in the jamovi library"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:88
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:89
 msgid "Installing add-on modules in jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:95
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:96
 msgid ""
 "Especially if you install many modules, your ``Analyses`` ribbon may get "
 "cluttered. You can avoid that by “hiding” modules that you don't use that "
