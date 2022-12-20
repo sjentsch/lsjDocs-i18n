@@ -76,7 +76,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2022-12-16 15:41+0100\n"
-"PO-Revision-Date: 2022-12-20 13:49+0000\n"
+"PO-Revision-Date: 2022-12-20 13:50+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
 "other/nb_NO/>\n"
@@ -198,11 +198,11 @@ msgstr "*David Foxcroft*"
 
 #: ../../Other/Prologue.rst:54
 msgid "*February 9th, 2022*"
-msgstr ""
+msgstr "*9. februar 2022*"
 
 #: ../../Other/Prologue.rst:57
 msgid "**Preface to Version 0.70**"
-msgstr ""
+msgstr "**Forord til versjon 0.70**"
 
 #: ../../Other/Prologue.rst:59
 msgid ""
