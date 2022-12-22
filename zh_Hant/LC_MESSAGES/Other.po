@@ -485,9 +485,9 @@ msgstr ""
 
 #: ../../Other/References.rst:59
 msgid ""
-"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, "
-"40*\\ (3–4), 318–335. `https://doi.org/10.1093/biomet/40.3-4.318 <https://"
-"doi.org/10.1093/biomet/40.3-4.318>`__"
+"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, 40*"
+"\\ (3–4), 318–335. `https://doi.org/10.1093/biomet/40.3-4.318 <https://doi."
+"org/10.1093/biomet/40.3-4.318>`__"
 msgstr ""
 
 #: ../../Other/References.rst:65
@@ -572,8 +572,8 @@ msgstr ""
 #: ../../Other/References.rst:136
 msgid ""
 "Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict "
-"between logic and belief in syllogistic reasoning. *Memory & Cognition, "
-"11*\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
+"between logic and belief in syllogistic reasoning. *Memory & Cognition, 11*"
+"\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
 "org/10.3758/BF03196976>`__"
 msgstr ""
 
@@ -881,9 +881,9 @@ msgstr ""
 
 #: ../../Other/References.rst:413
 msgid ""
-"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, "
-"103*\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 "
-"<https://doi.org/10.1126/science.103.2684.677>`__"
+"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, 103*"
+"\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 <https://"
+"doi.org/10.1126/science.103.2684.677>`__"
 msgstr ""
 
 #: ../../Other/References.rst:419
@@ -929,8 +929,8 @@ msgstr ""
 #: ../../Other/References.rst:455
 msgid ""
 "Yates, F. (1934). Contingency tables involving small numbers and the chi-"
-"squared test. *Supplement to the Journal of the Royal Statistical Society, "
-"1*\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
+"squared test. *Supplement to the Journal of the Royal Statistical Society, 1*"
+"\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
 "org/10.2307/2983604>`__"
 msgstr ""
 
