@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-20 14:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -134,7 +145,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.15"
-msgstr ""
+msgstr "0.15"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:75
 msgid "**Dry day**"
@@ -142,7 +153,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.85"
-msgstr ""
+msgstr "0.85"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:58
 msgid "Likelihoods: theories about the data"
@@ -172,19 +183,19 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "0.30"
-msgstr ""
+msgstr "0.30"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "0.70"
-msgstr ""
+msgstr "0.70"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:75
 msgid "0.05"
-msgstr ""
+msgstr "0.05"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:75
 msgid "0.95"
-msgstr ""
+msgstr "0.95"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:78
 msgid ""
@@ -219,13 +230,13 @@ msgid ""
 "might want to calculate the probability that today is rainy (i.e., "
 "hypothesis *h* is true) and I’m carrying an umbrella (i.e., data *d* is "
 "observed). The **joint probability** of the hypothesis and the data is "
-"written *P*\\ (d, h), and you can calculate it by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
+"written *P*\\ (d, h), and you can calculate it by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:106
 msgid "*P*\\ (d, h) = *P*\\ (d|h) *P*\\ (h)"
-msgstr ""
+msgstr "*P*\\ (d, h) = *P*\\ (d|h) *P*\\ (h)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:108
 msgid ""
@@ -269,11 +280,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.0450"
-msgstr ""
+msgstr "0.0450"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.1050"
-msgstr ""
+msgstr "0.1050"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:134 ../../Ch16/Ch16_Bayes_1.rst:146
 #: ../../Ch16/Ch16_Bayes_1.rst:177 ../../Ch16/Ch16_Bayes_1.rst:223
@@ -283,11 +294,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:134 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.0425"
-msgstr ""
+msgstr "0.0425"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:134 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.8075"
-msgstr ""
+msgstr "0.8075"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:137
 msgid ""
@@ -307,15 +318,15 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "0.0875"
-msgstr ""
+msgstr "0.0875"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "0.9125"
-msgstr ""
+msgstr "0.9125"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "1.00"
-msgstr ""
+msgstr "1.00"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:151
 msgid ""
@@ -388,51 +399,51 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:191
 msgid "**d**\\ :sub:`1`"
-msgstr ""
+msgstr "**d**\\ :sub:`1`"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:191
 msgid "**d**\\ :sub:`2`"
-msgstr ""
+msgstr "**d**\\ :sub:`2`"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:193
 msgid "**h**\\ :sub:`1`"
-msgstr ""
+msgstr "**h**\\ :sub:`1`"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:193
 msgid "*P*\\ (h\\ :sub:`1`\\ , d\\ :sub:`1`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`1`\\ , d\\ :sub:`1`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:193
 msgid "*P*\\ (h\\ :sub:`1`\\ , d\\ :sub:`2`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`1`\\ , d\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:193
 msgid "*P*\\ (h\\ :sub:`1`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`1`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:195
 msgid "**h**\\ :sub:`2`"
-msgstr ""
+msgstr "**h**\\ :sub:`2`"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:195
 msgid "*P*\\ (h\\ :sub:`2`\\ , d\\ :sub:`1`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`2`\\ , d\\ :sub:`1`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:195
 msgid "*P*\\ (h\\ :sub:`2`\\ , d\\ :sub:`2`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`2`\\ , d\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:195
 msgid "*P*\\ (h\\ :sub:`2`\\ )"
-msgstr ""
+msgstr "*P*\\ (h\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:197
 msgid "*P*\\ (d\\ :sub:`1`\\ )"
-msgstr ""
+msgstr "*P*\\ (d\\ :sub:`1`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:197
 msgid "*P*\\ (d\\ :sub:`2`\\ )"
-msgstr ""
+msgstr "*P*\\ (d\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:201
 msgid "Updating beliefs using Bayes’ rule"
@@ -460,11 +471,11 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:225 ../../Ch16/Ch16_Bayes_1.rst:254
 #: ../../Ch16/Ch16_Bayes_1.rst:256 ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:225 ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:228
 msgid ""
@@ -496,11 +507,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:254
 msgid "0.514"
-msgstr ""
+msgstr "0.514"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:256
 msgid "0.486"
-msgstr ""
+msgstr "0.486"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:261
 msgid ""
@@ -531,13 +542,15 @@ msgid ""
 "P(h | d) = \\frac{P(d,h)}{P(d)}\n"
 "\n"
 msgstr ""
+"P(h | d) = \\frac{P(d,h)}{P(d)}\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:282
 msgid ""
 "However, remember what I said at the start of the last section, namely that "
-"the joint probability *P*\\ (d, h) is calculated by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we actually "
-"know how to write down are the priors and the likelihood, so let’s "
+"the joint probability *P*\\ (d, h) is calculated by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we "
+"actually know how to write down are the priors and the likelihood, so let’s "
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
@@ -547,6 +560,8 @@ msgid ""
 "P(h | d) = \\frac{P(d|h) P(h)}{P(d)}\n"
 "\n"
 msgstr ""
+"P(h | d) = \\frac{P(d|h) P(h)}{P(d)}\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:291
 msgid ""
@@ -596,10 +611,10 @@ msgstr ""
 msgid ""
 "You might notice that this equation is actually a restatement of the same "
 "basic rule I listed at the start of the last section. If you multiply both "
-"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = *P*"
-"\\ (d, h), which is the rule for how joint probabilities are calculated. So "
-"I’m not actually introducing any “new” rules here, I’m just using the same "
-"rule in a different way."
+"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = "
+"*P*\\ (d, h), which is the rule for how joint probabilities are calculated. "
+"So I’m not actually introducing any “new” rules here, I’m just using the "
+"same rule in a different way."
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:4
@@ -628,6 +643,8 @@ msgid ""
 "P(h_0 | d) = \\frac{P(d|h_0) P(h_0)}{P(d)}\n"
 "\n"
 msgstr ""
+"P(h_0 | d) = \\frac{P(d|h_0) P(h_0)}{P(d)}\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:22
 msgid ""
@@ -642,6 +659,8 @@ msgid ""
 "P(h_1 | d) = \\frac{P(d|h_1) P(h_1)}{P(d)}\n"
 "\n"
 msgstr ""
+"P(h_1 | d) = \\frac{P(d|h_1) P(h_1)}{P(d)}\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:29
 msgid ""
@@ -657,8 +676,8 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
 "In practice, most Bayesian data analysts tend not to talk in terms of the "
-"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:`1`"
-"\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
+"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:"
+"`1`\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
 "Think of it like betting. Suppose, for instance, the posterior probability "
 "of the null hypothesis is 25\\%, and the posterior probability of the "
 "alternative is 75\\%. The alternative hypothesis is three times as probable "
@@ -672,6 +691,8 @@ msgid ""
 "\\frac{P(h_1 | d)}{P(h_0 | d)} = \\frac{0.75}{0.25} = 3\n"
 "\n"
 msgstr ""
+"\\frac{P(h_1 | d)}{P(h_0 | d)} = \\frac{0.75}{0.25} = 3\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:48
 msgid "Or, to write the same thing in terms of the equations above"
@@ -683,6 +704,9 @@ msgid ""
 "\\frac{P(h_1)}{P(h_0)}\n"
 "\n"
 msgstr ""
+"\\frac{P(h_1 | d)}{P(h_0 | d)} = \\frac{P(d|h_1)}{P(d|h_0)} \\times "
+"\\frac{P(h_1)}{P(h_0)}\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:52
 msgid ""
@@ -756,7 +780,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:103
 msgid "1 –   3"
-msgstr ""
+msgstr "1 –   3"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:103
 msgid "Negligible evidence"
@@ -764,7 +788,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:105
 msgid "3 –  20"
-msgstr ""
+msgstr "3 –  20"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:105
 msgid "Positive evidence"
@@ -772,7 +796,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:107
 msgid "20 – 150"
-msgstr ""
+msgstr "20 – 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:107
 msgid "Strong evidence"
@@ -780,7 +804,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:109
 msgid "> 150"
-msgstr ""
+msgstr "> 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:109
 msgid "Very strong evidence"
@@ -818,6 +842,8 @@ msgid ""
 "\\mbox{BF} = \\frac{P(d|h_1)}{P(d|h_0)} = \\frac{0.1}{0.2} = 0.5\n"
 "\n"
 msgstr ""
+"\\mbox{BF} = \\frac{P(d|h_1)}{P(d|h_0)} = \\frac{0.1}{0.2} = 0.5\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:135
 msgid ""
@@ -832,6 +858,8 @@ msgid ""
 "\\mbox{BF}^\\prime = \\frac{P(d|h_0)}{P(d|h_1)} = \\frac{0.2}{0.1} = 2\n"
 "\n"
 msgstr ""
+"\\mbox{BF}^\\prime = \\frac{P(d|h_0)}{P(d|h_1)} = \\frac{0.2}{0.1} = 2\n"
+"\n"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:143
 msgid ""

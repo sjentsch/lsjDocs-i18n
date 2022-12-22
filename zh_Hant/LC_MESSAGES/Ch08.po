@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-20 14:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -714,27 +725,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "82"
-msgstr ""
+msgstr "82"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "94"
-msgstr ""
+msgstr "94"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63 ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "110"
-msgstr ""
+msgstr "110"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "95.0"
-msgstr ""
+msgstr "95.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "Replication 2"
@@ -742,23 +753,23 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "78"
-msgstr ""
+msgstr "78"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "88"
-msgstr ""
+msgstr "88"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "111"
-msgstr ""
+msgstr "111"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "117"
-msgstr ""
+msgstr "117"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "101.0"
-msgstr ""
+msgstr "101.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "Replication 3"
@@ -766,24 +777,24 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "122"
-msgstr ""
+msgstr "122"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "91"
-msgstr ""
+msgstr "91"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:69
 #: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "86"
-msgstr ""
+msgstr "86"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "101.6"
-msgstr ""
+msgstr "101.6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "Replication 4"
@@ -791,19 +802,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "96"
-msgstr ""
+msgstr "96"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "119"
-msgstr ""
+msgstr "119"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "107"
-msgstr ""
+msgstr "107"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "103.8"
-msgstr ""
+msgstr "103.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "Replication 5"
@@ -811,19 +822,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "105"
-msgstr ""
+msgstr "105"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "113"
-msgstr ""
+msgstr "113"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "103"
-msgstr ""
+msgstr "103"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "104.4"
-msgstr ""
+msgstr "104.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "Replication 6"
@@ -831,27 +842,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "81"
-msgstr ""
+msgstr "81"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "89"
-msgstr ""
+msgstr "89"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "93"
-msgstr ""
+msgstr "93"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "85"
-msgstr ""
+msgstr "85"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "114"
-msgstr ""
+msgstr "114"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "92.4"
-msgstr ""
+msgstr "92.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "Replication 7"
@@ -859,19 +870,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "108"
-msgstr ""
+msgstr "108"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "133"
-msgstr ""
+msgstr "133"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "106.4"
-msgstr ""
+msgstr "106.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "Replication 8"
@@ -879,7 +890,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "102.8"
-msgstr ""
+msgstr "102.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "Replication 9"
@@ -887,15 +898,15 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "73"
-msgstr ""
+msgstr "73"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "116"
-msgstr ""
+msgstr "116"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "100.4"
-msgstr ""
+msgstr "100.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "Replication 10"
@@ -903,27 +914,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "95"
-msgstr ""
+msgstr "95"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "126"
-msgstr ""
+msgstr "126"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "112"
-msgstr ""
+msgstr "112"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "120"
-msgstr ""
+msgstr "120"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "76"
-msgstr ""
+msgstr "76"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "105.8"
-msgstr ""
+msgstr "105.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:84
 msgid ""
@@ -1140,6 +1151,8 @@ msgid ""
 "\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
 "\n"
 msgstr ""
+"\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:275
 msgid ""
@@ -1278,7 +1291,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:73
 msgid "µ"
-msgstr ""
+msgstr "µ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:74
 msgid "True population mean"
@@ -1291,7 +1304,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:76
 msgid ":math:`\\hat{\\mu}`"
-msgstr ""
+msgstr ":math:`\\hat{\\mu}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:77
 msgid "Estimate of the population mean"
@@ -1309,14 +1322,15 @@ msgstr ""
 msgid ""
 "So far, estimation seems pretty simple, and you might be wondering why I "
 "forced you to read through all that stuff about sampling theory. In the case "
-"of the mean our estimate of the population parameter (i.e. :math:`\\hat"
-"\\mu`) turned out to be identical to the corresponding sample statistic (i."
-"e. *X̄*). However, that’s not always true. To see this, let’s have a think "
-"about how to construct an **estimate of the population standard deviation**, "
-"which we’ll denote :math:`\\hat\\sigma`. What shall we use as our estimate "
-"in this case? Your first thought might be that we could do the same thing we "
-"did when estimating the mean, and just use the sample statistic as our "
-"estimate. That’s almost the right thing to do, but not quite."
+"of the mean our estimate of the population parameter (i.e. :math:"
+"`\\hat\\mu`) turned out to be identical to the corresponding sample "
+"statistic (i.e. *X̄*). However, that’s not always true. To see this, let’s "
+"have a think about how to construct an **estimate of the population standard "
+"deviation**, which we’ll denote :math:`\\hat\\sigma`. What shall we use as "
+"our estimate in this case? Your first thought might be that we could do the "
+"same thing we did when estimating the mean, and just use the sample "
+"statistic as our estimate. That’s almost the right thing to do, but not "
+"quite."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:95
@@ -1331,7 +1345,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:102
 msgid "``20``"
-msgstr ""
+msgstr "``20``"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:104
 msgid ""
@@ -1368,7 +1382,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:129
 msgid "``20, 22``"
-msgstr ""
+msgstr "``20, 22``"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:131
 msgid ""
@@ -1476,6 +1490,8 @@ msgid ""
 "s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 msgstr ""
+"s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:223
 msgid ""
@@ -1490,6 +1506,8 @@ msgid ""
 "\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 msgstr ""
+"\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:230
 msgid ""
@@ -1507,6 +1525,8 @@ msgid ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:239
 msgid ""
@@ -1516,8 +1536,8 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:242
 msgid ""
-"One final point. In practice, a lot of people tend to refer to :math:`"
-"\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
+"One final point. In practice, a lot of people tend to refer to :math:"
+"`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
 "*sample* standard deviation. Technically, this is incorrect. The *sample* "
 "standard deviation should be equal to *s* (i.e., the formula where we divide "
 "by *N*). These aren’t the same thing, either conceptually or numerically. "
@@ -1544,7 +1564,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "*s*"
-msgstr ""
+msgstr "*s*"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "Sample standard deviation"
@@ -1552,7 +1572,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "σ"
-msgstr ""
+msgstr "σ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "Population standard deviation"
@@ -1560,7 +1580,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid ":math:`\\hat{\\sigma}`"
-msgstr ""
+msgstr ":math:`\\hat{\\sigma}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Estimate of the population standard deviation"
@@ -1572,7 +1592,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "*s*\\²"
-msgstr ""
+msgstr "*s*\\²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Sample variance"
@@ -1580,7 +1600,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "σ²"
-msgstr ""
+msgstr "σ²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Population variance"
@@ -1588,7 +1608,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid ":math:`\\hat{\\sigma}^2`"
-msgstr ""
+msgstr ":math:`\\hat{\\sigma}^2`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Estimate of the population variance"
@@ -1712,7 +1732,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:47
 msgid "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
-msgstr ""
+msgstr "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
 msgid ""
@@ -1747,6 +1767,9 @@ msgid ""
 "{\\sqrt{N}} \\right)\n"
 "\n"
 msgstr ""
+"\\mbox{CI}_{95} = \\bar{X} \\pm \\left( 1.96 \\times \\frac{\\sigma}"
+"{\\sqrt{N}} \\right)\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:69
 msgid ""
@@ -1769,8 +1792,8 @@ msgid ""
 "standard deviation σ. Yet, in :doc:`Estimating population parameters <../"
 "Ch08/Ch08_Estimation_4>` I stressed the fact that we don’t actually *know* "
 "the true population parameters. Because we don’t know the true value of σ we "
-"have to use an estimate of the population standard deviation :math:`"
-"\\hat{\\sigma}` instead. This is pretty straightforward to do, but this has "
+"have to use an estimate of the population standard deviation :math:"
+"`\\hat{\\sigma}` instead. This is pretty straightforward to do, but this has "
 "the consequence that we need to use the percentiles of the *t*-distribution "
 "rather than the normal distribution to calculate our magic number, and the "
 "answer depends on the sample size. When *N* is very large, we get pretty "

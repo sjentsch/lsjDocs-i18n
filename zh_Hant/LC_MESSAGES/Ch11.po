@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-20 14:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,12 +56,12 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:477
 #: ../../Ch11/Ch11_tTest_05.rst:234 ../../Ch11/Ch11_tTest_09.rst:142
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:474
 #: ../../Ch11/Ch11_tTest_05.rst:231 ../../Ch11/Ch11_tTest_09.rst:139
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch11/Ch11_tTest.rst:39
 msgid ""
@@ -173,11 +184,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:75
 msgid "H\\ :sub:`0`: µ = 67.5"
-msgstr ""
+msgstr "H\\ :sub:`0`: µ = 67.5"
 
 #: ../../Ch11/Ch11_tTest_01.rst:76
 msgid "H\\ :sub:`1`: µ ≠ 67.5"
-msgstr ""
+msgstr "H\\ :sub:`1`: µ ≠ 67.5"
 
 #: ../../Ch11/Ch11_tTest_01.rst:78
 msgid ""
@@ -283,6 +294,8 @@ msgid ""
 "SE(X̄) = \\frac{\\sigma}{\\sqrt{N}}\n"
 "\n"
 msgstr ""
+"SE(X̄) = \\frac{\\sigma}{\\sqrt{N}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_01.rst:156
 msgid ""
@@ -292,7 +305,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:159
 msgid "*X̄* ~ Normal(µ\\ :sub:`0`, *SE(X̄)*)"
-msgstr ""
+msgstr "*X̄* ~ Normal(µ\\ :sub:`0`, *SE(X̄)*)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:161
 msgid ""
@@ -310,6 +323,8 @@ msgid ""
 "z_{\\bar{X}} = \\frac{\\bar{X} - \\mu_0}{SE(X̄)}\n"
 "\n"
 msgstr ""
+"z_{\\bar{X}} = \\frac{\\bar{X} - \\mu_0}{SE(X̄)}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_01.rst:171
 msgid "or, equivalently:"
@@ -320,6 +335,8 @@ msgid ""
 "z_{\\bar{X}} =  \\frac{\\bar{X} - \\mu_0}{\\sigma / \\sqrt{N}}\n"
 "\n"
 msgstr ""
+"z_{\\bar{X}} =  \\frac{\\bar{X} - \\mu_0}{\\sigma / \\sqrt{N}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_01.rst:175
 msgid ""
@@ -330,7 +347,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:179
 msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
-msgstr ""
+msgstr "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:181
 msgid ""
@@ -360,47 +377,47 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:195
 msgid "0.1"
-msgstr ""
+msgstr "0.1"
 
 #: ../../Ch11/Ch11_tTest_01.rst:195 ../../Ch11/Ch11_tTest_01.rst:197
 msgid "1.644854"
-msgstr ""
+msgstr "1.644854"
 
 #: ../../Ch11/Ch11_tTest_01.rst:195
 msgid "1.281552"
-msgstr ""
+msgstr "1.281552"
 
 #: ../../Ch11/Ch11_tTest_01.rst:197
 msgid "0.05"
-msgstr ""
+msgstr "0.05"
 
 #: ../../Ch11/Ch11_tTest_01.rst:197
 msgid "1.959964"
-msgstr ""
+msgstr "1.959964"
 
 #: ../../Ch11/Ch11_tTest_01.rst:199
 msgid "0.01"
-msgstr ""
+msgstr "0.01"
 
 #: ../../Ch11/Ch11_tTest_01.rst:199
 msgid "2.575829"
-msgstr ""
+msgstr "2.575829"
 
 #: ../../Ch11/Ch11_tTest_01.rst:199
 msgid "2.326348"
-msgstr ""
+msgstr "2.326348"
 
 #: ../../Ch11/Ch11_tTest_01.rst:201
 msgid "0.001"
-msgstr ""
+msgstr "0.001"
 
 #: ../../Ch11/Ch11_tTest_01.rst:201
 msgid "3.290527"
-msgstr ""
+msgstr "3.290527"
 
 #: ../../Ch11/Ch11_tTest_01.rst:201
 msgid "3.090232"
-msgstr ""
+msgstr "3.090232"
 
 #: ../../Ch11/Ch11_tTest_01.rst:204
 msgid ""
@@ -603,8 +620,8 @@ msgid ""
 "changes the sampling distribution. In the *t*-test our test statistic, now "
 "called a *t*-statistic, is calculated in exactly the same way I mentioned "
 "above. If our null hypothesis is that the true mean is µ, but our sample has "
-"mean *X̄* and our estimate of the population standard deviation is :math:`"
-"\\hat{\\sigma}`, then our *t*-statistic is:"
+"mean *X̄* and our estimate of the population standard deviation is :math:"
+"`\\hat{\\sigma}`, then our *t*-statistic is:"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:68
@@ -612,6 +629,8 @@ msgid ""
 "t = \\frac{\\bar{X} - \\mu}{\\hat{\\sigma}/\\sqrt{N} }\n"
 "\n"
 msgstr ""
+"t = \\frac{\\bar{X} - \\mu}{\\hat{\\sigma}/\\sqrt{N} }\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_02.rst:70
 msgid ""
@@ -706,7 +725,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:152
 msgid "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
-msgstr ""
+msgstr "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
 
 #: ../../Ch11/Ch11_tTest_02.rst:154
 msgid ""
@@ -779,8 +798,8 @@ msgid ""
 "this. As before, we can replace the assumption of population normality with "
 "an assumption that the sampling distribution of *X̄* is normal. However, "
 "remember that we’re also relying on a sample estimate of the standard "
-"deviation, and so we also require the sampling distribution of :math:`"
-"\\hat{\\sigma}` to be χ². That makes things nastier, and this version is "
+"deviation, and so we also require the sampling distribution of :math:"
+"`\\hat{\\sigma}` to be χ². That makes things nastier, and this version is "
 "rarely used in practice. Fortunately, if the population distribution is "
 "normal, then both of these two assumptions are met."
 msgstr ""
@@ -851,15 +870,15 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "74.53"
-msgstr ""
+msgstr "74.53"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "9.00"
-msgstr ""
+msgstr "9.00"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "**Bernadette’s students**"
@@ -867,15 +886,15 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "69.06"
-msgstr ""
+msgstr "69.06"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "5.77"
-msgstr ""
+msgstr "5.77"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #: ../../Ch11/Ch11_tTest_03.rst:47
 msgid ""
@@ -947,11 +966,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:107
 msgid "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
-msgstr ""
+msgstr "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
 
 #: ../../Ch11/Ch11_tTest_03.rst:108
 msgid "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
-msgstr ""
+msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 
 #: ../../Ch11/Ch11_tTest_03.rst:116
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
@@ -986,7 +1005,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:139
 msgid "*t* = (*X̄*\\ :sub:`1` – *X̄*\\ :sub:`2`) / SE"
-msgstr ""
+msgstr "*t* = (*X̄*\\ :sub:`1` – *X̄*\\ :sub:`2`) / SE"
 
 #: ../../Ch11/Ch11_tTest_03.rst:141
 msgid ""
@@ -1022,11 +1041,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:163
 msgid "w\\ :sub:`1` = *N*\\ :sub:`1` - 1"
-msgstr ""
+msgstr "w\\ :sub:`1` = *N*\\ :sub:`1` - 1"
 
 #: ../../Ch11/Ch11_tTest_03.rst:164
 msgid "w\\ :sub:`2` = *N*\\ :sub:`2` - 1"
-msgstr ""
+msgstr "w\\ :sub:`2` = *N*\\ :sub:`2` - 1"
 
 #: ../../Ch11/Ch11_tTest_03.rst:166
 msgid ""
@@ -1041,6 +1060,9 @@ msgid ""
 "{w_1 + w_2}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma^2_p = \\frac{w_1 {\\hat\\sigma_1}^2 + w_2 {\\hat\\sigma_2}^2}"
+"{w_1 + w_2}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:173
 msgid ""
@@ -1054,6 +1076,9 @@ msgid ""
 "^2}{w_1 + w_2}}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma_p = \\sqrt{\\frac{w_1 {\\hat\\sigma_1}^2 + w_2 {\\hat\\sigma_2}"
+"^2}{w_1 + w_2}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:178
 msgid ""
@@ -1063,20 +1088,20 @@ msgid ""
 "describing the pooled standard deviation estimate. It’s not my favourite way "
 "of thinking about pooled standard deviations, however. I prefer to think "
 "about it like this. Our data set actually corresponds to a set of *N* "
-"observations which are sorted into two groups. So let’s use the notation *X*"
-"\\ :sub:`ik` to refer to the grade received by the i-th student in the k-th "
-"tutorial group. That is, *X*\\ :sub:`11` is the grade received by the first "
-"student in Anastasia’s class, *X*\\ :sub:`21` is her second student, and so "
-"on. And we have two separate group means *X̄*\\ :sub:`1` and *X̄*\\ :sub:`2`, "
-"which we could “generically” refer to using the notation *X̄*\\ :sub:`k`, i."
-"e., the mean grade for the k-th tutorial group. So far, so good. Now, since "
-"every single student falls into one of the two tutorials, we can describe "
-"their deviation from the group mean as the difference"
+"observations which are sorted into two groups. So let’s use the notation "
+"*X*\\ :sub:`ik` to refer to the grade received by the i-th student in the k-"
+"th tutorial group. That is, *X*\\ :sub:`11` is the grade received by the "
+"first student in Anastasia’s class, *X*\\ :sub:`21` is her second student, "
+"and so on. And we have two separate group means *X̄*\\ :sub:`1` and *X̄*\\ :"
+"sub:`2`, which we could “generically” refer to using the notation *X̄*\\ :sub:"
+"`k`, i.e., the mean grade for the k-th tutorial group. So far, so good. Now, "
+"since every single student falls into one of the two tutorials, we can "
+"describe their deviation from the group mean as the difference"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:194
 msgid "*X*\\ :sub:`ik` - *X̄*\\ :sub:`k`"
-msgstr ""
+msgstr "*X*\\ :sub:`ik` - *X̄*\\ :sub:`k`"
 
 #: ../../Ch11/Ch11_tTest_03.rst:196
 msgid ""
@@ -1091,6 +1116,8 @@ msgid ""
 "\\frac{\\sum_{ik} \\left( X_{ik} - \\bar{X}_k \\right)^2}{N}\n"
 "\n"
 msgstr ""
+"\\frac{\\sum_{ik} \\left( X_{ik} - \\bar{X}_k \\right)^2}{N}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:203
 msgid ""
@@ -1115,11 +1142,14 @@ msgid ""
 "{N -2}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma^2_p = \\frac{\\sum_{ik} \\left( X_{ik} - \\bar{X}_k \\right)^2}"
+"{N -2}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:219
 msgid ""
-"Oh, and if you take the square root of this then you get :math:`"
-"\\hat{\\sigma}_p`, the pooled standard deviation estimate. In other words, "
+"Oh, and if you take the square root of this then you get :math:"
+"`\\hat{\\sigma}_p`, the pooled standard deviation estimate. In other words, "
 "the pooled standard deviation calculation is nothing special. It’s not "
 "terribly different to the regular standard deviation calculation."
 msgstr ""
@@ -1157,6 +1187,9 @@ msgid ""
 "{N_2}}\n"
 "\n"
 msgstr ""
+"SE(\\bar{X}_1 - \\bar{X}_2) = \\hat\\sigma \\sqrt{\\frac{1}{N_1} + \\frac{1}"
+"{N_2}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:247
 msgid "and our *t*-statistic is therefore"
@@ -1167,6 +1200,8 @@ msgid ""
 "t = \\frac{\\bar{X}_1 - \\bar{X}_2}{SE(\\bar{X}_1 - \\bar{X}_2)}\n"
 "\n"
 msgstr ""
+"t = \\frac{\\bar{X}_1 - \\bar{X}_2}{SE(\\bar{X}_1 - \\bar{X}_2)}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:251
 msgid ""
@@ -1505,6 +1540,9 @@ msgid ""
 "\\frac{{\\hat{\\sigma}_2}^2}{N_2} }\n"
 "\n"
 msgstr ""
+"SE(\\bar{X}_1 - \\bar{X}_2) = \\sqrt{ \\frac{{\\hat{\\sigma}_1}^2}{N_1} + "
+"\\frac{{\\hat{\\sigma}_2}^2}{N_2} }\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_04.rst:56
 msgid ""
@@ -1534,6 +1572,10 @@ msgid ""
 "^2 / N_2)^2 / (N_2 -1 ) }\n"
 "\n"
 msgstr ""
+"\\mbox{df} = \\frac{ ({\\hat{\\sigma}_1}^2 / N_1 + {\\hat{\\sigma}_2}^2 / "
+"N_2)^2 }{  ({\\hat{\\sigma}_1}^2 / N_1)^2 / (N_1 -1 )  + ({\\hat{\\sigma}_2}"
+"^2 / N_2)^2 / (N_2 -1 ) }\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_04.rst:72
 msgid ""
@@ -1761,7 +1803,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:130
 msgid "*D*\\ :sub:`i` = *X*\\ :sub:`i1` - *X*\\ :sub:`i2`}"
-msgstr ""
+msgstr "*D*\\ :sub:`i` = *X*\\ :sub:`i1` - *X*\\ :sub:`i2`}"
 
 #: ../../Ch11/Ch11_tTest_05.rst:132
 msgid ""
@@ -1776,11 +1818,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:140
 msgid "H\\ :sub:`0`: µ\\ :sub:`D` = 0"
-msgstr ""
+msgstr "H\\ :sub:`0`: µ\\ :sub:`D` = 0"
 
 #: ../../Ch11/Ch11_tTest_05.rst:141
 msgid "H\\ :sub:`2`: µ\\ :sub:`D` ≠ 0"
-msgstr ""
+msgstr "H\\ :sub:`2`: µ\\ :sub:`D` ≠ 0"
 
 #: ../../Ch11/Ch11_tTest_05.rst:143
 msgid ""
@@ -1797,6 +1839,8 @@ msgid ""
 "t = \\frac{\\bar{D}}{SE(\\bar{D})}\n"
 "\n"
 msgstr ""
+"t = \\frac{\\bar{D}}{SE(\\bar{D})}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_05.rst:151
 msgid "which is"
@@ -1807,6 +1851,8 @@ msgid ""
 "t = \\frac{\\bar{D}}{\\hat\\sigma_D / \\sqrt{N}}\n"
 "\n"
 msgstr ""
+"t = \\frac{\\bar{D}}{\\hat\\sigma_D / \\sqrt{N}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_05.rst:155
 msgid ""
@@ -2107,6 +2153,8 @@ msgid ""
 "d = \\frac{\\bar{X} - \\mu_0}{\\hat{\\sigma}}\n"
 "\n"
 msgstr ""
+"d = \\frac{\\bar{X} - \\mu_0}{\\hat{\\sigma}}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_07.rst:68
 msgid ""
@@ -2148,6 +2196,8 @@ msgid ""
 "d = \\frac{\\bar{X}_1 - \\bar{X}_2}{\\hat{\\sigma}_p}\n"
 "\n"
 msgstr ""
+"d = \\frac{\\bar{X}_1 - \\bar{X}_2}{\\hat{\\sigma}_p}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_07.rst:96
 msgid ""
@@ -2205,6 +2255,8 @@ msgid ""
 "d = \\frac{\\bar{D}}{\\hat{\\sigma}_D}\n"
 "\n"
 msgstr ""
+"d = \\frac{\\bar{D}}{\\hat{\\sigma}_D}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_07.rst:139
 msgid ""
@@ -2350,6 +2402,9 @@ msgid ""
 "(X_i - \\bar{X})^2}\n"
 "\n"
 msgstr ""
+"W = \\frac{ \\left( \\sum_{i = 1}^N a_i X_i \\right)^2 }{ \\sum_{i = 1}^N "
+"(X_i - \\bar{X})^2}\n"
+"\n"
 
 #: ../../Ch11/Ch11_tTest_08.rst:97
 msgid ""
@@ -2507,23 +2562,23 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "14.5"
-msgstr ""
+msgstr "14.5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "10.4"
-msgstr ""
+msgstr "10.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "12.4"
-msgstr ""
+msgstr "12.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "11.7"
-msgstr ""
+msgstr "11.7"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "13.0"
-msgstr ""
+msgstr "13.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "**Group A**"
@@ -2531,28 +2586,28 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:48
 msgid "6.4"
-msgstr ""
+msgstr "6.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:50
 msgid "10.7"
-msgstr ""
+msgstr "10.7"
 
 #: ../../Ch11/Ch11_tTest_09.rst:50 ../../Ch11/Ch11_tTest_09.rst:52
 #: ../../Ch11/Ch11_tTest_09.rst:94 ../../Ch11/Ch11_tTest_09.rst:96
 msgid "✓"
-msgstr ""
+msgstr "✓"
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "11.9"
-msgstr ""
+msgstr "11.9"
 
 #: ../../Ch11/Ch11_tTest_09.rst:54
 msgid "7.3"
-msgstr ""
+msgstr "7.3"
 
 #: ../../Ch11/Ch11_tTest_09.rst:56
 msgid "10.0"
-msgstr ""
+msgstr "10.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:59
 msgid ""
@@ -2597,7 +2652,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:145
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch11/Ch11_tTest_09.rst:90
 msgid "all differences"
@@ -2605,43 +2660,43 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-24"
-msgstr ""
+msgstr "-24"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-14"
-msgstr ""
+msgstr "-14"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-10"
-msgstr ""
+msgstr "-10"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-6"
-msgstr ""
+msgstr "-6"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-38"
-msgstr ""
+msgstr "-38"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-35"
-msgstr ""
+msgstr "-35"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-30"
-msgstr ""
+msgstr "-30"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:95
 msgid "positive differences"
@@ -2649,11 +2704,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:94
 msgid "7 2 5"
-msgstr ""
+msgstr "7 2 5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:94
 msgid "✓ ✓ ✓"
-msgstr ""
+msgstr "✓ ✓ ✓"
 
 #: ../../Ch11/Ch11_tTest_09.rst:99
 msgid ""

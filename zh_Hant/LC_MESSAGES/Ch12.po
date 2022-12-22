@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-20 14:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +41,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression.rst:31 ../../Ch12/Ch12_Regression_01.rst:420
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
 msgid "Correlations"
@@ -85,27 +96,27 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "41"
-msgstr ""
+msgstr "41"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "91"
-msgstr ""
+msgstr "91"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "63.71"
-msgstr ""
+msgstr "63.71"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "62"
-msgstr ""
+msgstr "62"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "10.05"
-msgstr ""
+msgstr "10.05"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "**Dani’s hours slept**"
@@ -113,27 +124,27 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "4.84"
-msgstr ""
+msgstr "4.84"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "9.00"
-msgstr ""
+msgstr "9.00"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "6.97"
-msgstr ""
+msgstr "6.97"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "7.03"
-msgstr ""
+msgstr "7.03"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "1.02"
-msgstr ""
+msgstr "1.02"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "1.45"
-msgstr ""
+msgstr "1.45"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "**Dani’s son’s hours slept**"
@@ -141,27 +152,27 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "3.25"
-msgstr ""
+msgstr "3.25"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "12.07"
-msgstr ""
+msgstr "12.07"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "8.05"
-msgstr ""
+msgstr "8.05"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "7.95"
-msgstr ""
+msgstr "7.95"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "2.07"
-msgstr ""
+msgstr "2.07"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "3.21"
-msgstr ""
+msgstr "3.21"
 
 #: ../../Ch12/Ch12_Regression_01.rst:27
 msgid ""
@@ -302,6 +313,9 @@ msgid ""
 "\\right) \\left(Y_i - \\bar{Y} \\right)\n"
 "\n"
 msgstr ""
+"\\mbox{Cov}(X,Y) = \\frac{1}{N-1} \\sum_{i=1}^N \\left(X_i - \\bar{X} "
+"\\right) \\left(Y_i - \\bar{Y} \\right)\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_01.rst:147
 msgid ""
@@ -343,6 +357,8 @@ msgid ""
 "r_{XY}  = \\frac{\\mbox{Cov}(X,Y)}{ \\hat{\\sigma}_X \\ \\hat{\\sigma}_Y}\n"
 "\n"
 msgstr ""
+"r_{XY}  = \\frac{\\mbox{Cov}(X,Y)}{ \\hat{\\sigma}_X \\ \\hat{\\sigma}_Y}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_01.rst:175
 msgid ""
@@ -619,7 +635,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:423
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch12/Ch12_Regression_01.rst:360
 msgid ""
@@ -641,7 +657,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:366
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "**student 2**"
@@ -649,7 +665,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:368
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "**student 3**"
@@ -657,7 +673,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:370
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "**student 4**"
@@ -665,7 +681,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:372
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "**student 5**"
@@ -673,7 +689,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:374
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "**student 6**"
@@ -681,7 +697,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:376
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "**student 7**"
@@ -689,7 +705,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:378
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "**student 8**"
@@ -697,7 +713,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:380
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "**student 9**"
@@ -705,7 +721,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:382
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "**student 10**"
@@ -713,7 +729,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:384
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../Ch12/Ch12_Regression_01.rst:387
 msgid ""
@@ -796,12 +812,13 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
 "The second way do to it is to use one of the jamovi add-on modules. This "
-"module is called ``scatr`` and you can install it by clicking on the large ``"
-"+`` icon in the top right of the jamovi screen, opening the jamovi library, "
-"scrolling down until you find ``scatr`` and clicking ``Install``. When you "
-"have done this, you will find a new ``Scatterplot`` command available under "
-"the ``Exploration`` button. This plot is a bit different than the first way, "
-"see :numref:`fig-scatterplot2`, but the important information is the same."
+"module is called ``scatr`` and you can install it by clicking on the large "
+"``+`` icon in the top right of the jamovi screen, opening the jamovi "
+"library, scrolling down until you find ``scatr`` and clicking ``Install``. "
+"When you have done this, you will find a new ``Scatterplot`` command "
+"available under the ``Exploration`` button. This plot is a bit different "
+"than the first way, see :numref:`fig-scatterplot2`, but the important "
+"information is the same."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:60
@@ -888,7 +905,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:49
 msgid "*y* = *a* + *bx*"
-msgstr ""
+msgstr "*y* = *a* + *bx*"
 
 #: ../../Ch12/Ch12_Regression_03.rst:51
 msgid ""
@@ -910,7 +927,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:66
 msgid "*Ŷ*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i`"
-msgstr ""
+msgstr "*Ŷ*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_03.rst:68
 msgid ""
@@ -931,8 +948,8 @@ msgid ""
 "the coefficients from *a* and *b* to *b*\\ :sub:`0` and *b*\\ :sub:`1`. "
 "That’s just the way that statisticians like to refer to the coefficients in "
 "a regression model. I’ve no idea why they chose *b*, but that’s what they "
-"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and *b*"
-"\\ :sub:`1` refers to the slope."
+"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and "
+"*b*\\ :sub:`1` refers to the slope."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:89
@@ -950,7 +967,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:61
 msgid "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
-msgstr ""
+msgstr "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_03.rst:101
 msgid ""
@@ -963,6 +980,8 @@ msgid ""
 "*Y*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i` + ε\\ :sub:"
 "`i`"
 msgstr ""
+"*Y*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i` + ε\\ :sub:"
+"`i`"
 
 #: ../../Ch12/Ch12_Regression_03.rst:109
 msgid ""
@@ -1015,6 +1034,8 @@ msgid ""
 "\\sum_i (Y_i - \\hat{Y}_i)^2\n"
 "\n"
 msgstr ""
+"\\sum_i (Y_i - \\hat{Y}_i)^2\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_04.rst:36
 msgid "or as"
@@ -1025,6 +1046,8 @@ msgid ""
 "\\sum_i \\epsilon_{i}^2\n"
 "\n"
 msgstr ""
+"\\sum_i \\epsilon_{i}^2\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_04.rst:40
 msgid ""
@@ -1042,8 +1065,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_04.rst:51
 msgid ""
 "At this point, we now have a concrete definition for what counts as our "
-"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:`"
-"\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
+"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:"
+"`\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
 "coefficients are those that minimise the sum squared residuals, how do we "
 "*find* these wonderful numbers? The actual answer to this question is "
 "complicated and doesn’t help you understand the logic of regression.\\ [#]_ "
@@ -1074,7 +1097,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:83
 msgid "*Ŷ*\\ :sub:`i` = 125.96 + (-8.94 \\ *X*\\ :sub:`i`)"
-msgstr ""
+msgstr "*Ŷ*\\ :sub:`i` = 125.96 + (-8.94 \\ *X*\\ :sub:`i`)"
 
 #: ../../Ch12/Ch12_Regression_04.rst:86
 msgid "Interpreting the estimated model"
@@ -1085,14 +1108,14 @@ msgid ""
 "The most important thing to be able to understand is how to interpret these "
 "coefficients. Let’s start with :math:`\\hat{b}_1`, the slope. If we remember "
 "the definition of the slope, a regression coefficient of :math:`\\hat{b}_1` "
-"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing *Y*"
-"\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain will "
-"improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
+"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing "
+"*Y*\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain "
+"will improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
 "about the intercept? Well, since :math:`\\hat{b}_0` corresponds to “the "
 "expected value of *Y*\\ :sub:`i` when *X*\\ :sub:`i` equals 0”, it’s pretty "
 "straightforward. It implies that if I get zero hours of sleep (*X*\\ :sub:"
-"`i` = 0) then my grumpiness will go off the scale, to an insane value of (*Y*"
-"\\ :sub:`i` = \\125.96). Best to be avoided, I think."
+"`i` = 0) then my grumpiness will go off the scale, to an insane value of "
+"(*Y*\\ :sub:`i` = \\125.96). Best to be avoided, I think."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:103
@@ -1102,8 +1125,8 @@ msgid ""
 "algebra (and to be fair, I always have a few of these people in my "
 "intorductory statistics class), it *will* help *you* to know that the "
 "solution to the estimation problem turns out to be :math:`\\hat{b} = "
-"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:`"
-"\\hat{b}` is a vector containing the estimated regression coefficients, "
+"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:"
+"`\\hat{b}` is a vector containing the estimated regression coefficients, "
 "**X** is the “design matrix” that contains the predictor variables (plus an "
 "additional column containing all ones; strictly **X** is a matrix of the "
 "regressors, but I haven’t discussed the distinction yet), and *y* is a "
@@ -1150,6 +1173,8 @@ msgid ""
 "*Y*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i1` + *b*\\ :"
 "sub:`2` *X*\\ :sub:`i2` + ε\\ :sub:`i`"
 msgstr ""
+"*Y*\\ :sub:`i` = *b*\\ :sub:`0` + *b*\\ :sub:`1` *X*\\ :sub:`i1` + *b*\\ :"
+"sub:`2` *X*\\ :sub:`i2` + ε\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_05.rst:31
 msgid ""
@@ -1199,23 +1224,23 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "125.966"
-msgstr ""
+msgstr "125.966"
 
 #: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "``dani.sleep``"
-msgstr ""
+msgstr "``dani.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:61
 msgid "-8.950"
-msgstr ""
+msgstr "-8.950"
 
 #: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "``baby.sleep``"
-msgstr ""
+msgstr "``baby.sleep``"
 
 #: ../../Ch12/Ch12_Regression_05.rst:63
 msgid "0.011"
-msgstr ""
+msgstr "0.011"
 
 #: ../../Ch12/Ch12_Regression_05.rst:66
 msgid ""
@@ -1262,6 +1287,8 @@ msgid ""
 "Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
 "\n"
 msgstr ""
+"Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_06.rst:4
 msgid "Quantifying the fit of the regression model"
@@ -1294,6 +1321,8 @@ msgid ""
 "\\mbox{SS}_{res} = \\sum_i (Y_i - \\hat{Y}_i)^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_{res} = \\sum_i (Y_i - \\hat{Y}_i)^2\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_06.rst:23
 msgid ""
@@ -1307,6 +1336,8 @@ msgid ""
 "\\mbox{SS}_{tot} = \\sum_i (Y_i - \\bar{Y})^2\n"
 "\n"
 msgstr ""
+"\\mbox{SS}_{tot} = \\sum_i (Y_i - \\bar{Y})^2\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_06.rst:29
 msgid ""
@@ -1380,15 +1411,15 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:78
 msgid "*R*\\² = 1 - (SS\\ :sub:`res` / SS\\ :sub:`tot`)"
-msgstr ""
+msgstr "*R*\\² = 1 - (SS\\ :sub:`res` / SS\\ :sub:`tot`)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:79
 msgid "*R*\\² = 1 - (1838.722 / 9998.590)"
-msgstr ""
+msgstr "*R*\\² = 1 - (1838.722 / 9998.590)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:80
 msgid "*R*\\² = 1 - 0.184"
-msgstr ""
+msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
 msgid ""
@@ -1454,6 +1485,9 @@ msgid ""
 "\\times \\frac{N - 1}{N - K - 1} \\right)\n"
 "\n"
 msgstr ""
+"\\mbox{adj. } R^2 = 1 - \\left(\\frac{\\mbox{SS}_{res}}{\\mbox{SS}_{tot}} "
+"\\times \\frac{N - 1}{N - K - 1} \\right)\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_06.rst:126
 msgid ""
@@ -1470,8 +1504,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:137
 msgid ""
-"An obvious question then is whether you should report *R*\\² or adjusted *R*"
-"\\². This is probably a matter of personal preference. If you care more "
+"An obvious question then is whether you should report *R*\\² or adjusted "
+"*R*\\². This is probably a matter of personal preference. If you care more "
 "about interpretability, then *R*\\² is better. If you care more about "
 "correcting for bias, then adjusted *R*\\² is probably better. Speaking just "
 "for myself, I prefer *R*\\². My feeling is that it’s more important to be "
@@ -1541,7 +1575,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:29
 msgid "H\\ :sub:`0`: *Y*\\ :sub:`i` = b\\ :sub:`0` + ε\\ :sub:`i`"
-msgstr ""
+msgstr "H\\ :sub:`0`: *Y*\\ :sub:`i` = b\\ :sub:`0` + ε\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:31
 msgid ""
@@ -1554,6 +1588,8 @@ msgid ""
 "H\\ :sub:`1`: *Y*\\ :sub:`i` = b\\ :sub:`0` + math:`\\left( \\sum_{k=1}^K "
 "b_{k} X_{ik} \\right)` + ε\\ :sub:`i`"
 msgstr ""
+"H\\ :sub:`1`: *Y*\\ :sub:`i` = b\\ :sub:`0` + math:`\\left( \\sum_{k=1}^K "
+"b_{k} X_{ik} \\right)` + ε\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:37
 msgid ""
@@ -1568,7 +1604,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:44
 msgid "SS\\ :sub:`mod` = SS\\ :sub:`tot` - SS\\ :sub:`res`"
-msgstr ""
+msgstr "SS\\ :sub:`mod` = SS\\ :sub:`tot` - SS\\ :sub:`res`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:46
 msgid ""
@@ -1578,11 +1614,11 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:49
 msgid "MS\\ :sub:`mod` = SS\\ :sub:`mod` / *df*\\ :sub:`mod`"
-msgstr ""
+msgstr "MS\\ :sub:`mod` = SS\\ :sub:`mod` / *df*\\ :sub:`mod`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:50
 msgid "SS\\ :sub:`res` = SS\\ :sub:`res` / *df*\\ :sub:`res`"
-msgstr ""
+msgstr "SS\\ :sub:`res` = SS\\ :sub:`res` / *df*\\ :sub:`res`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:52
 msgid ""
@@ -1600,7 +1636,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:61
 msgid "F = MS\\ :sub:`mod` / SS\\ :sub:`res`"
-msgstr ""
+msgstr "F = MS\\ :sub:`mod` / SS\\ :sub:`res`"
 
 #: ../../Ch12/Ch12_Regression_07.rst:63
 msgid ""
@@ -1653,11 +1689,11 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:100
 msgid "H\\ :sub:`0`: *b* = 0"
-msgstr ""
+msgstr "H\\ :sub:`0`: *b* = 0"
 
 #: ../../Ch12/Ch12_Regression_07.rst:101
 msgid "H\\ :sub:`1`: *b* ≠ 0"
-msgstr ""
+msgstr "H\\ :sub:`1`: *b* ≠ 0"
 
 #: ../../Ch12/Ch12_Regression_07.rst:103
 msgid ""
@@ -1678,6 +1714,8 @@ msgid ""
 "t = \\frac{\\hat{b}}{SE(\\hat{b})}\n"
 "\n"
 msgstr ""
+"t = \\frac{\\hat{b}}{SE(\\hat{b})}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_07.rst:116
 msgid ""
@@ -1766,9 +1804,9 @@ msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = y - "
 "X \\hat{b}`. For *K* predictors plus the intercept, the estimated residual "
 "variance is :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N - K - "
-"1)`. The estimated covariance matrix of the coefficients is :math:`\\hat"
-"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of which "
-"is :math:`SE(\\hat{b})`, our estimated standard errors."
+"1)`. The estimated covariance matrix of the coefficients is :math:"
+"`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of "
+"which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:199
@@ -1821,6 +1859,9 @@ msgid ""
 "\\right)\n"
 "\n"
 msgstr ""
+"\\mbox{CI}(b) = \\hat{b} \\pm \\left( t_{crit} \\times SE(\\hat{b})  "
+"\\right)\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
 msgid ""
@@ -1894,7 +1935,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:86
 msgid "β\\ :sub:`X` = *b*\\ :sub:`X` × (σ\\ :sub:`X` / σ\\ :sub:`Y`)"
-msgstr ""
+msgstr "β\\ :sub:`X` = *b*\\ :sub:`X` × (σ\\ :sub:`X` / σ\\ :sub:`Y`)"
 
 #: ../../Ch12/Ch12_Regression_09.rst:88
 msgid ""
@@ -2109,6 +2150,7 @@ msgstr ""
 msgid ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 msgstr ""
+"ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 
 #: ../../Ch12/Ch12_Regression_11.rst:82
 msgid ""
@@ -2138,11 +2180,13 @@ msgid ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
 msgstr ""
+"\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:99
 msgid ""
-"Notice that our estimate of the standard deviation here is written :math:`"
-"\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
+"Notice that our estimate of the standard deviation here is written :math:"
+"`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
 "residual standard deviation that you *would have obtained* if you just "
 "deleted the i\\ th observation from the data set. This sounds like the sort "
 "of thing that would be a nightmare to calculate, since it seems to be saying "
@@ -2154,10 +2198,13 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:110
 msgid ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
-"\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:112
 msgid "Isn’t that a pip?"
@@ -2292,6 +2339,8 @@ msgid ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
 msgstr ""
+"D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:224
 msgid ""
@@ -2412,6 +2461,8 @@ msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
 msgstr ""
+"f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:325
 msgid ""
@@ -2444,7 +2495,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:343
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
-msgstr ""
+msgstr "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 
 #: ../../Ch12/Ch12_Regression_11.rst:345
 msgid ""
@@ -2504,8 +2555,8 @@ msgid ""
 "the fact that this is the matrix that “puts a hat on *y*”. The hat *value* "
 "of the i-th observation is the i-th diagonal element of this matrix (so "
 "technically I should be writing it as h\\ :sub:`ii` rather than h\\ :sub:"
-"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = **X**"
-"\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
+"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = "
+"**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:409
@@ -2575,8 +2626,9 @@ msgid ""
 "implement the qualitative principle behind Ockham’s razor in the context of "
 "selecting a regression model. As it turns out there are several "
 "possibilities. The one that I’ll talk about is the **Akaike information "
-"criterion** (AIC; `Akaike, 1974 <../Other/References.html#akaike-1974>`__"
-"\\ ) simply because it’s available as an option in jamovi."
+"criterion** (AIC; `Akaike, 1974 <../Other/References."
+"html#akaike-1974>`__\\ ) simply because it’s available as an option in "
+"jamovi."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:50
@@ -2591,6 +2643,8 @@ msgid ""
 "\\mbox{AIC} = \\displaystyle\\frac{\\mbox{SS}_{res}}{\\hat{\\sigma}^2} + 2K\n"
 "\n"
 msgstr ""
+"\\mbox{AIC} = \\displaystyle\\frac{\\mbox{SS}_{res}}{\\hat{\\sigma}^2} + 2K\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_12.rst:56
 msgid ""
@@ -2765,6 +2819,9 @@ msgid ""
 "_{res}^{(2)})/(N-p-1)}\n"
 "\n"
 msgstr ""
+"F = \\frac{(\\mbox{SS}_{res}^{(1)} - \\mbox{SS}_{res}^{(1)})/k}{(\\mbox{SS}"
+"_{res}^{(2)})/(N-p-1)}\n"
+"\n"
 
 #: ../../Ch12/Ch12_Regression_12.rst:196
 msgid ""
@@ -2780,6 +2837,7 @@ msgstr ""
 msgid ""
 "SS\\ :sub:`Δ` = SS\\ :sub:`res`\\ :sup:`(1)` - SS\\ :sub:`res`\\ :sup:`(2)`"
 msgstr ""
+"SS\\ :sub:`Δ` = SS\\ :sub:`res`\\ :sup:`(1)` - SS\\ :sub:`res`\\ :sup:`(2)`"
 
 #: ../../Ch12/Ch12_Regression_12.rst:206
 msgid ""
@@ -2793,6 +2851,8 @@ msgid ""
 "SS\\ :sub:`Δ` = :math:`\\sum_{i} \\left(\\hat{y}_i^{(2)} - \\hat{y}_i^{(1)} "
 "\\right)^2`"
 msgstr ""
+"SS\\ :sub:`Δ` = :math:`\\sum_{i} \\left(\\hat{y}_i^{(2)} - \\hat{y}_i^{(1)} "
+"\\right)^2`"
 
 #: ../../Ch12/Ch12_Regression_12.rst:213
 msgid ""

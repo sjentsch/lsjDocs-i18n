@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-20 14:56+0100\n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,23 +16,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../index.rst:28
+#: ../../index.rst:26
 msgid "Background"
 msgstr ""
 
-#: ../../index.rst:37
+#: ../../index.rst:35
 msgid "An introduction to jamovi"
 msgstr ""
 
-#: ../../index.rst:48
+#: ../../index.rst:46
 msgid "Statistical theory"
 msgstr ""
 
-#: ../../index.rst:59
+#: ../../index.rst:57
 msgid "Statistical tools"
 msgstr ""
 
-#: ../../index.rst:72
+#: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
 msgstr ""
 
@@ -54,12 +54,8 @@ msgid ""
 "available in different languages. To change the language, please head to the "
 "“Learning statistics with jamovi” roll-up menu (in the bottom-left corner) "
 "and click on it. A larger menu unfolds where you can select the language you "
-"would like to read the documentation in."
-msgstr ""
-
-#: ../../index.rst:18
-msgid ""
-"So far, only a few languages (e.g., German) are translated completely, but "
-"you are very welcome to contribute to a `translation into your language "
-"<https://hosted.weblate.org/projects/lsjdocs/>`__."
+"would like to read the documentation in. So far, only a few languages are "
+"translated completely, but you are very welcome to contribute to a "
+"`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
+">`__."
 msgstr ""

@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 13:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-20 14:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -280,7 +291,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:317 ../../Ch03/Ch03_jamoviIntro_3.rst:114
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:39
 msgid ""
@@ -291,7 +302,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:320 ../../Ch03/Ch03_jamoviIntro_3.rst:117
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:43
 msgid ""
@@ -302,7 +313,7 @@ msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:314 ../../Ch03/Ch03_jamoviIntro_3.rst:111
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:47
 msgid ""
