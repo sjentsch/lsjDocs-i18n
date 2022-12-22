@@ -284,9 +284,9 @@ msgid ""
 "The first of the two major approaches to probability, and the more dominant "
 "one in statistics, is referred to as the **frequentist view** and it defines "
 "probability as a **long-run frequency**. Suppose we were to try flipping a "
-"fair coin over and over again. By definition this is a coin that has "
-"*P*\\(H) = *0.5*. What might we observe? One possibility is that the first "
-"20 flips might look like this:"
+"fair coin over and over again. By definition this is a coin that has *P*"
+"\\(H) = *0.5*. What might we observe? One possibility is that the first 20 "
+"flips might look like this:"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:56
