@@ -1,23 +1,3 @@
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -25,64 +5,20 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi)  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 15:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -3021,7 +2957,7 @@ msgstr ""
 "in der Praxis ist es erforderlich. Prädiktoren, die stark miteinander "
 "korreliert sind (die wird als „Kollinearität“ bezeichnet), können Probleme "
 "beim Überprüfen des Modells verursachen (vgl. Abschnitt :doc:`Prüfen auf "
-"Kollinearität <.. /Ch12/Ch12_Regression_11>`\\)."
+"Kollinearität <../Ch12/Ch12_Regression_11>`\\)."
 
 #: ../../Ch12/Ch12_Regression_10.rst:40
 msgid ""
@@ -3345,7 +3281,7 @@ msgstr ""
 "ist, dass Ihre Analyse möglicherweise unverhältnismäßig empfindlich auf eine "
 "kleine Anzahl von „ungewöhnlichen“ oder „anomalen“ Beobachtungen reagiert. "
 "Ich habe diese Idee bereits in Abschnitt :doc:`Verwenden von Boxplots zum "
-"Identifizieren von Ausreißern <.. /Ch05/Ch05_Graphics_2>` vorgestellt, wo "
+"Identifizieren von Ausreißern <../Ch05/Ch05_Graphics_2>` vorgestellt, wo "
 "Ausreißer automatisch durch die Option ``Box plot`` unter ``Exploration`` → "
 "``Descriptives`` identifiziert wurden. Diesmal müssen wir aber viel präziser "
 "sein. Im Zusammenhang mit der linearen Regression gibt es drei konzeptuell "
@@ -3665,11 +3601,11 @@ msgstr ""
 "wie in :numref:`fig-reg6` zu sehen. In diesen Diagrammen suchen wir nach "
 "einer ziemlich gleichmäßigen Verteilung der „Punkte“, ohne dass eine "
 "Konzentration oder ein klares Muster der „Punkte“ zu erkennen wäre. Wenn man "
-"sich die Diagramme in :numref:`fig-reg6` ansieht, gibt es nichts besonders "
-"Besorgniserregendes, da die Punkte ziemlich gleichmäßig über das gesamte "
-"Diagramm verteilt sind. Es mag eine gewisse Konzentration in den beiden "
-"Diagrammen auf der rechten Seite geben, aber dies ist nicht besonders "
-"ausgeprägt und wahrscheinlich nicht wert, sich Sorgen zu machen."
+"sich die Diagramme ansieht, gibt es nichts besonders Besorgniserregendes, da "
+"die Punkte ziemlich gleichmäßig über das gesamte Diagramm verteilt sind. Es "
+"mag eine gewisse Konzentration in den beiden Diagrammen auf der rechten "
+"Seite geben, aber dies ist nicht besonders ausgeprägt und wahrscheinlich "
+"nicht wert, sich Sorgen zu machen."
 
 #: ../../Ch12/Ch12_Regression_11.rst:307
 msgid "Residuals plots produced in jamovi"

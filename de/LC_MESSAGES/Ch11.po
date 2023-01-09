@@ -1,23 +1,3 @@
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -25,147 +5,12 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 15:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -175,48 +20,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
@@ -259,7 +62,7 @@ msgstr ""
 "Vergleich zum Nicht-Hören von Musik). In medizinischem Kontext könnte man "
 "wissen wollen, ob ein neues Medikament den Blutdruck erhöht oder senkt. Ein "
 "Agrarwissenschaftler könnte wissen wollen, ob das Düngen mit Phosphor "
-"einheimische Pflanzen abtötet. In all diesen Situationen ist unsere "
+"australische Pflanzen abtötet.\\ [#]_ In all diesen Situationen ist unsere "
 "Ergebnisvariable eine kontinuierliche Variable auf einer Intervall- oder "
 "Verhältnisskala |continuous|, und unser Prädiktor ist eine binäre "
 "„Gruppierungs“-Variable |nominal|. Mit anderen Worten, wir wollen die "
@@ -910,8 +713,8 @@ msgid ""
 msgstr ""
 "*Normalverteilung*. Wie üblicherweise beschrieben, geht der *z*-Test davon "
 "aus, dass die wahre Verteilung der Grundgesamtheit eine Normalverteilung "
-"ist. Dies ist oft eine ziemlich vernünftige Annahme, und es ist auch eine "
-"Annahme, die wir überprüfen können, wenn wir uns darüber Sorgen machen "
+"ist.\\ [#]_ Dies ist oft eine ziemlich vernünftige Annahme, und es ist auch "
+"eine Annahme, die wir überprüfen können, wenn wir uns darüber Sorgen machen "
 "(siehe Abschnitt :doc:`Überprüfen der Normalverteilung in einer Stichprobe "
 "<../Ch11/Ch11_tTest_08>`)."
 
@@ -1108,18 +911,18 @@ msgid ""
 msgstr ""
 "Diese Zweideutigkeit ist ärgerlich und wurde 1908 von einem Mann namens "
 "William Sealy Gosset (`Student, 1908 <../Andere/Referenzen."
-"html#student-1908>`__ ) aufgelöst. Dieser arbeitete zu dieser Zeit als "
+"html#student-1908>`__\\ ) aufgelöst. Dieser arbeitete zu dieser Zeit als "
 "Chemiker für die Guinness-Brauerei (`Box, 1987 <../Andere/Referenzen."
-"html#box-1987>`__ ). Da Guinness es nicht gerne sah, wenn seine Mitarbeiter "
+"html#box-1987>`__\\ ). Da Guinness es nicht gerne sah, wenn seine Mitarbeiter "
 "statistische Analysen veröffentlichten (offenbar hielten sie diese für ein "
 "Geschäftsgeheimnis), veröffentlichte er die Arbeit unter dem Pseudonym „A "
 "Student“, und bis heute lautet der vollständige Name des *t*-Tests "
 "eigentlich **t-test nach Student**. Das Wichtigste, was Gosset herausfand, "
 "ist die Frage, wie wir der Tatsache Rechnung tragen können, dass wir nicht "
-"ganz sicher sind, wie hoch die wahre Standardabweichung ist. Die Antwort "
-"ist, dass sich die Stichprobenverteilung dadurch subtil ändert. Beim *t*-"
-"Test wird unsere Teststatistik, die jetzt *t*-Statistik genannt wird, auf "
-"genau dieselbe Weise berechnet, die ich oben erwähnt habe. Wenn unsere "
+"ganz sicher sind, wie hoch die wahre Standardabweichung ist.\\ [#]_ Die "
+"Antwort ist, dass sich die Stichprobenverteilung dadurch subtil ändert. Beim "
+"*t*-Test wird unsere Teststatistik, die jetzt *t*-Statistik genannt wird, "
+"auf genau dieselbe Weise berechnet, die ich oben erwähnt habe. Wenn unsere "
 "Nullhypothese lautet, dass der wahre Mittelwert µ ist, unsere Stichprobe "
 "aber den Mittelwert *X̄* hat und unsere Schätzung der Standardabweichung der "
 "Grundgesamtheit :math:`\\hat{\\sigma}` ist, dann lautet unsere *t*-Statistik:"
@@ -1227,7 +1030,7 @@ msgstr ""
 "Variable, an der Sie interessiert sind (``X``), in das Feld ``Variables`` zu "
 "verschieben, und den Mittelwert für die Nullhypothese (``67.5``) im Textfeld "
 "``Hypothesis`` → ``Test value`` einzutragen. Das ist ganz einfach (siehe :"
-"numref:`fig-test_one`, das, neben anderen Dingen, zu denen wir gleich noch "
+"numref:`fig-ttest_one`, das, neben anderen Dingen, zu denen wir gleich noch "
 "kommen werden, eine *t*-Statistik = 2.25 ergibt, mit 19 Freiheitsgraden und "
 "einem zugehörigen *p*-Wert von 0.036."
 
@@ -1322,7 +1125,7 @@ msgid ""
 "with Wilcoxon tests <../Ch11/Ch11_tTest_09>`)."
 msgstr ""
 "*Normalverteilung*. Wir gehen immer noch davon aus, dass die Grundgesamtheit "
-"normalverteilt ist, und wie bereits erwähnt, gibt es Standardwerkzeuge, mit "
+"normalverteilt ist,\\ [#]_ und wie bereits erwähnt, gibt es Standardwerkzeuge, mit "
 "denen Sie überprüfen können, ob diese Annahme erfüllt ist (Abschnitt :doc:"
 "`Überprüfen der Normalverteilung in einer Stichprobe <../Ch11/Ch11_tTest_08>`"
 "\\), und andere Tests, die Sie stattdessen durchführen können, wenn diese "
@@ -2080,7 +1883,7 @@ msgstr ""
 "Bernadette eine Durchschnittsnote von 69,06, so dass der Unterschied "
 "zwischen den beiden Stichprobenmittelwerten 5,48 beträgt. Natürlich kann der "
 "Unterschied zwischen den Mittelwerten der Grundgesamtheit größer oder "
-"kleiner sein als dieser Wert. Das in :numref:`fig-test_ind` angegebene "
+"kleiner sein als dieser Wert. Das in :numref:`fig-ttest_ind` angegebene "
 "Konfidenzintervall besagt, dass der wahre Unterschied der Mittelwerte, wenn "
 "wir diese Studie immer wieder wiederholen würden, in 95 % der Fälle zwischen "
 "0,20 und 10,76 liegen würde. Schauen Sie noch einmal unter :doc:`Schätzen "
@@ -3063,7 +2866,7 @@ msgstr ""
 "heißt, Sie erstellen eine Variable ``difference`` und führen dann einen *t*-"
 "Test mit einer Stichprobe durch. Da wir bereits eine Variable mit dem Namen "
 "``improvement`` erstellt haben, können wir das tun und sehen, welches "
-"Ergebnis wir erhalten (siehe :numref:`fig-ttest_paired2``)."
+"Ergebnis wir erhalten (siehe :numref:`fig-ttest_paired2`\\)."
 
 #: ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
@@ -3078,7 +2881,7 @@ msgid ""
 "improvement of 1.4\\% from test 1 to test 2, and this is significantly "
 "different from 0 (*t*\\(19) = 6.48, *p* < 0.001)."
 msgstr ""
-"Die in :numref:`fig-test_paired2` gezeigte Ausgabe ist (natürlich) genau so "
+"Die in :numref:`fig-ttest_paired2` gezeigte Ausgabe ist (natürlich) genau so "
 "formatiert wie bei der ``One Sample T-Test`` Analyse (Abschnitt :doc:`Der "
 "*t*-Test bei einer Stichprobe <../Ch11/Ch11_tTest_02>`), und sie bestätigt "
 "unsere Intuition. Es gibt eine durchschnittliche Verbesserung von 1,4 % von "
@@ -3186,7 +2989,7 @@ msgstr ""
 "Alternativhypothese wäre, dass der wahre Mittelwert größer als 67,5 % ist. "
 "In jamovi können Sie dies für die Analyse ``One Sample T-Test`` angeben, "
 "indem Sie auf die Option ``> Test Value`` unter ``Hypothesis`` klicken. Wenn "
-"Sie dies getan haben, erhalten Sie die in :numref:`fig-test_onesided1` "
+"Sie dies getan haben, erhalten Sie die in :numref:`fig-ttest_onesided1` "
 "gezeigte Ergebnisausgabe."
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
@@ -3231,7 +3034,7 @@ msgstr ""
 "Test einen anderen Ablehnungsbereich hat als der zweiseitige Test. Wenn Sie "
 "vergessen haben, warum dies so ist und was es bedeutet, sollten Sie das "
 "Kapitel :doc:`Das Überprüfen von Hypothesen <../Ch09/"
-"Ch09_Hypothesentesting>` und insbesondere den Abschnitt :doc:`Der "
+"Ch09_HypothesisTesting>` und insbesondere den Abschnitt :doc:`Der "
 "Unterschied zwischen einseitigen und zweiseitigen Tests <../Ch09/"
 "Ch09_HypothesisTesting_04>` noch einmal lesen. Drittens ist auch das "
 "Konfidenzintervall anders: Es wird jetzt ein „einseitiges“ "
@@ -3264,7 +3067,7 @@ msgstr ""
 "die Klasse von Dr. Harpo herausfinden möchten, ob die Schüler von Anastasia "
 "bessere Noten haben als die von Bernadette. Für diese Analyse geben Sie in "
 "den Optionen ``Hypothesis`` an, dass ``Group 1 > Group2``. Sie sollten die "
-"in :numref:`fig-test_onesided2` gezeigten Ergebnisse erhalten."
+"in :numref:`fig-ttest_onesided2` gezeigten Ergebnisse erhalten."
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
@@ -3307,7 +3110,7 @@ msgstr ""
 "jamovi würden Sie dies tun, indem Sie unter der Option ``Hypotheses`` "
 "angeben, dass ``grade_test2`` (``Measure 1`` in jamovi, weil wir dies zuerst "
 "in das Feld für gepaarte Variablen kopiert haben) > ``grade_test1`` "
-"(``Measure 2`` in jamovi). Sie sollten die in :numref:`fig-test_onesided3` "
+"(``Measure 2`` in jamovi). Sie sollten die in :numref:`fig-ttest_onesided3` "
 "gezeigten Ergebnisse erhalten."
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
@@ -3495,7 +3298,7 @@ msgid ""
 "they were performing at the same level as other students. Judged against "
 "Cohen’s rough guide, this is a moderate effect size."
 msgstr ""
-"Wenn wir uns die Ergebnisse in :numref:`fig-test_one` ansehen, ist der Wert "
+"Wenn wir uns die Ergebnisse in :numref:`fig-ttest_one` ansehen, ist der Wert "
 "der Effektstärke Cohen's *d* = 0,50. Insgesamt erreichen die "
 "Psychologiestudenten in der Klasse von Dr. Zeppo also Noten (Mittelwert = "
 "72,3 %), die etwa 0,5 Standardabweichungen über dem Niveau liegen, das man "
@@ -3653,7 +3456,7 @@ msgid ""
 "deviations higher than the time 1 grade scores."
 msgstr ""
 "wobei :math:`\\hat{\\sigma}_D` die Schätzung der Standardabweichung der "
-"Unterschiede ist. Das in :numref:`fig-test_paired3` gezeigte Cohens *d* = "
+"Unterschiede ist. Das in :numref:`fig-ttest_paired3` gezeigte Cohens *d* = "
 "1.45, was bedeutet, dass die Noten bei Examen 2 im Durchschnitt um 1.45 "
 "Standardabweichungen höher sind als die Noten bei Examen 1."
 
@@ -3684,7 +3487,7 @@ msgstr ""
 "Fall verwenden Sie die gleichen Versionen von Cohen's *d*, die Sie für einen "
 "Student- oder Welch-Test verwenden würden. Es ist nicht so einfach, dies in "
 "jamovi zu tun. Dafür müssten Sie die Struktur der Daten in der Datentabelle "
-"ändern. Ich werde daher hier nicht näher darauf eingehen werde. Aber das "
+"ändern. Ich werde hier daher nicht näher darauf eingehen.\\ [#]_ Aber das "
 "Cohen's *d* für diese Perspektive ist ganz anders: Es ist 0,22. Das heißt, "
 "es ist ziemlich klein relativ zur Variation der ursprünglichen Variablen."
 
@@ -3993,7 +3796,7 @@ msgstr ""
 "sich die Daten als nicht normalverteilt erweisen. Betrachten wir dazu die "
 "Verteilung unserer AFL-Gewinnspannen-Variable (``afl.margins`` aus dem |"
 "aflsmall_margins|_-Datensatz), die, wenn Sie sich an das Kapitel über :doc:"
-"`Deskriptive Statistik <../Ch04/Ch04_Deskriptive>` erinnern, überhaupt nicht "
+"`Deskriptive Statistik <../Ch04/Ch04_Descriptives>` erinnern, überhaupt nicht "
 "so aussahen, als würden sie aus einer Normalverteilung stammen. Hier ist, "
 "was mit dem Q-Q-Diagramm passiert:"
 
@@ -4397,7 +4200,7 @@ msgid ""
 "difference between the two scores for each person, and then running a one "
 "sample *t*-test on the difference scores."
 msgstr ""
-"Ein :doc:`*t*-Test für gepaarte Stichproben <.. /Ch11/Ch11_tTest_05>` wird "
+"Ein :doc:`*t*-Test für gepaarte Stichproben <../Ch11/Ch11_tTest_05>` wird "
 "verwendet, wenn Sie zwei Beobachtungen für jeden Teilnehmer haben und die "
 "Nullhypothese testen möchten, dass die beiden Beobachtungen sich nicht "
 "unterscheiden. Intern ist diese Analyse identisch zum Berechnen der "
@@ -4418,7 +4221,7 @@ msgid ""
 ":doc:`Effect size calculations <../Ch11/Ch11_tTest_07>` for the difference "
 "between means can be calculated via the Cohen’s *d*-statistic."
 msgstr ""
-"doc:`Effektstärken <../Ch11/Ch11_tTest_07>` für die Differenz zwischen "
+":doc:`Effektstärken <../Ch11/Ch11_tTest_07>` für die Differenz zwischen "
 "Mittelwerten können über die Cohen's *d*-Statistik berechnet werden."
 
 #: ../../Ch11/Ch11_tTest_10.rst:27

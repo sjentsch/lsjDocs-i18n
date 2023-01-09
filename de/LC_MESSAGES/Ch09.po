@@ -3362,7 +3362,8 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:17
 msgid ":doc:`Type I and Type II errors <../Ch09/Ch09_HypothesisTesting_02>`"
-msgstr ":doc:`Fehler vom Typ I und Typ II <../Ch09/Ch09_Hypothesenprüfung_02>`"
+msgstr ""
+":doc:`Fehler vom Typ I und Typ II <../Ch09/Ch09/Ch09_HypothesisTesting_02>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
 msgid ""
@@ -3404,14 +3405,15 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:31
 msgid ":doc:`Effect size and power <../Ch09/Ch09_HypothesisTesting_08>`"
-msgstr ":doc:`Effektstärke und Teststärke <../Ch09/Ch09_Hypothesentesting_08>`"
+msgstr ""
+":doc:`Effektstärke und Teststärke <../Ch09/Ch09/Ch09_HypothesisTesting_08>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:33
 msgid ""
 ":doc:`A few issues to consider regarding hypothesis testing <../Ch09/"
 "Ch09_HypothesisTesting_09>`"
 msgstr ""
-":doc:`Ein paar Aspekte, die beim Testen von Hypothesen zu beachten sind <.. /"
+":doc:`Ein paar Aspekte, die beim Testen von Hypothesen zu beachten sind <../"
 "Ch09/Ch09_HypothesisTesting_09>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:36
