@@ -15,19 +15,21 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  index.po (Learning statistics with jamovi )  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-12-22 13:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-01-09 01:55+0000\n"
+"Last-Translator: zhongyueyang <zhongyueyang@outlook.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"lsjdocs/start/zh_Hans/>\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../index.rst:26
@@ -48,11 +50,11 @@ msgstr "统计工具"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr "结局、替代品与展望"
+msgstr "结语、替代品与展望"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr "和jamovi一起学统计"
+msgstr "通过jamovi学统计"
 
 #: ../../index.rst:7
 msgid ""
@@ -61,6 +63,9 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"欢迎您通过https://www.jamovi.org网站学习统计分析，"
+"这是一个旨在帮助心理学学生和其他初学者初步学习 jamovi 的教程。jamovi "
+"是一个免费并开源的统计分析软件，它将消除研究者和统计分析师之间的鸿沟。"
 
 #: ../../index.rst:12
 msgid ""
@@ -73,3 +78,6 @@ msgid ""
 "`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
 ">`__."
 msgstr ""
+"开始学习之前，请查看这个简短的说明来了解如何使用本网页。本内容支持多种语言，"
+"想更改语言，请查看页面左下角的“通过jamovi学统计”下拉菜单，点击该菜单后会弹出"
+"不同语言选项，请选择您喜欢的语言。"
