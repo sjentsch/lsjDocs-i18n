@@ -460,6 +460,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  sphinx.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  sphinx.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2022, Danielle J. Navarro, David R. Foxcroft, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  sphinx.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  sphinx.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  sphinx.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -470,13 +477,23 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  sphinx.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  sphinx.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-09 15:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
