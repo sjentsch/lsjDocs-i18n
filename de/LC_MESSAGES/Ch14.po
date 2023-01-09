@@ -3982,7 +3982,7 @@ msgstr ""
 "werden. Kommt Ihnen das bekannt vor? Alles, was wir tun müssen, ist, unser "
 "Nullmodell zu spezifizieren, das in diesem Fall den ``CBTtherapy``-Prädiktor "
 "einschließt und beiden medikamentbezogenen Variablen weglassen würde, wie "
-"in :numref:`fig-factorialanova11``\\."
+"in :numref:`fig-factorialanova11`\\."
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:437
 msgid "Model comparison: Null model 1 vs. contrasts model 2"

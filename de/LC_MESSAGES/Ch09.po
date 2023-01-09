@@ -3379,8 +3379,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:17
 msgid ":doc:`Type I and Type II errors <../Ch09/Ch09_HypothesisTesting_02>`"
-msgstr ""
-":doc:`Fehler vom Typ I und Typ II <../Ch09/Ch09/Ch09_HypothesisTesting_02>`"
+msgstr ":doc:`Fehler vom Typ I und Typ II <../Ch09/Ch09_HypothesisTesting_02>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
 msgid ""
@@ -3423,7 +3422,7 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:31
 msgid ":doc:`Effect size and power <../Ch09/Ch09_HypothesisTesting_08>`"
 msgstr ""
-":doc:`Effektstärke und Teststärke <../Ch09/Ch09/Ch09_HypothesisTesting_08>`"
+":doc:`Effektstärke und Teststärke <../Ch09/Ch09_HypothesisTesting_08>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:33
 msgid ""
