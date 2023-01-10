@@ -16,33 +16,25 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-10 18:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
 msgid "Bayesian statistics"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes.rst:0 ../../Ch16/Ch16_Bayes.rst
+#: ../../Ch16/Ch16_Bayes.rst:0
 msgid ""
 "*In our reasonings concerning matter of fact, there are all imaginable "
 "degrees of assurance, from the highest certainty to the lowest species of "
@@ -171,7 +163,6 @@ msgid "Likelihoods: theories about the data"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
-#, python-format
 msgid ""
 "To solve the reasoning problem you need a theory about my behaviour. When "
 "does Dani carry an umbrella? You might guess that I’m not a complete idiot,"
@@ -242,8 +233,8 @@ msgid ""
 "might want to calculate the probability that today is rainy (i.e., "
 "hypothesis *h* is true) and I’m carrying an umbrella (i.e., data *d* is "
 "observed). The **joint probability** of the hypothesis and the data is "
-"written *P*\\ (d, h), and you can calculate it by multiplying the prior "
-"*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
+"written *P*\\ (d, h), and you can calculate it by multiplying the prior *P*"
+"\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:106
@@ -526,7 +517,6 @@ msgid "0.486"
 msgstr "0.486"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:261
-#, python-format
 msgid ""
 "What this table is telling you is that, after being told that I’m carrying "
 "an umbrella, you believe that there’s a 51.4\\% chance that today will be a "
@@ -561,9 +551,9 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:282
 msgid ""
 "However, remember what I said at the start of the last section, namely that "
-"the joint probability *P*\\ (d, h) is calculated by multiplying the prior "
-"*P*\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we "
-"actually know how to write down are the priors and the likelihood, so let’s "
+"the joint probability *P*\\ (d, h) is calculated by multiplying the prior *P*"
+"\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we actually "
+"know how to write down are the priors and the likelihood, so let’s "
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
@@ -624,10 +614,10 @@ msgstr ""
 msgid ""
 "You might notice that this equation is actually a restatement of the same "
 "basic rule I listed at the start of the last section. If you multiply both "
-"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = "
-"*P*\\ (d, h), which is the rule for how joint probabilities are calculated. "
-"So I’m not actually introducing any “new” rules here, I’m just using the "
-"same rule in a different way."
+"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = *P*"
+"\\ (d, h), which is the rule for how joint probabilities are calculated. So "
+"I’m not actually introducing any “new” rules here, I’m just using the same "
+"rule in a different way."
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:4
@@ -689,8 +679,8 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
 "In practice, most Bayesian data analysts tend not to talk in terms of the "
-"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:"
-"`1`\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
+"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:`1`"
+"\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
 "Think of it like betting. Suppose, for instance, the posterior probability "
 "of the null hypothesis is 25\\%, and the posterior probability of the "
 "alternative is 75\\%. The alternative hypothesis is three times as probable "
@@ -912,7 +902,7 @@ msgstr ""
 msgid "Statistics that mean what you think they mean"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
 "*You keep using that word. I do not think it means what you think it means*"
 msgstr ""
@@ -924,7 +914,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:30
-#, python-format
 msgid ""
 "To me, one of the biggest advantages to the Bayesian approach is that it "
 "answers the right questions. Within the Bayesian framework, it is perfectly "
@@ -972,7 +961,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:68
-#, python-format
 msgid ""
 "Nope! That’s *not* what *p* < 0.05 means. That’s *not* what 95\\% confidence "
 "means to a frequentist statistician. The bolded section is just plain wrong. "
@@ -997,13 +985,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:87
-#, python-format
 msgid ""
 "Speaking for myself, I found this to be the most liberating thing about "
 "switching to the Bayesian view. Once you’ve made the jump, you no longer "
 "have to wrap your head around counter-intuitive definitions of *p*-values. "
-"You don’t have to bother remembering why you can’t say that you’re 95\\"
-"% confident that the true mean lies within some interval. All you have to do "
+"You don’t have to bother remembering why you can’t say that you’re 95\\% "
+"confident that the true mean lies within some interval. All you have to do "
 "is be honest about what you believed before you ran the study and then "
 "report what you learned from doing it. Sounds nice, doesn’t it? To me, this "
 "is the big promise of the Bayesian approach. You do the analysis you really "
@@ -1014,7 +1001,7 @@ msgstr ""
 msgid "Evidentiary standards you can believe"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
 "If [*p*] is below 0.02 it is strongly indicated that the [null] hypothesis "
 "fails to account for the whole of the facts. We shall not often be astray if "
@@ -1041,7 +1028,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:123
-#, python-format
 msgid ""
 "Well, how true is that? One way to approach this question is to try to "
 "convert *p*-values to Bayes factors, and see how the two compare. It’s not "
@@ -1069,7 +1055,7 @@ msgstr ""
 msgid "The *p*-value is a lie."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*The cake is a lie.*"
 msgstr ""
 
@@ -1262,7 +1248,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:274
-#, python-format
 msgid ""
 "Worse yet, they’re a lie in a dangerous way, because they’re all *too "
 "small*. To give you a sense of just how bad it can be, consider the "
@@ -1299,7 +1284,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:310
-#, python-format
 msgid ""
 "So how bad is it? The answer is shown as the solid black line in :numref:"
 "`fig-adapt`, and it’s *astoundingly* bad. If you peek at your data after "
@@ -1409,7 +1393,7 @@ msgid ""
 "point is this:"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*Good laws have their origins in bad morals.*"
 msgstr ""
 
