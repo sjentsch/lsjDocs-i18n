@@ -26,53 +26,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-10 18:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
 msgid "Why do we learn statistics?"
 msgstr "Dlaczego uczymy się statystyki?"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
 msgstr "*„Nie będziesz odpowiadać na kwestionariusze*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
 msgstr "*Lub na quizy o sprawach światowych,*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Nor with compliance*"
 msgstr "*Ani zgodności*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Take any test. Thou shalt not sit*"
 msgstr "*Zrób dowolny test. Nie będziesz siedział*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*With statisticians nor commit*"
 msgstr "*Ze statystykami ani zatwierdzeniem*"
 
-#: ../../Ch01/Ch01_WhyStats.rst
+#: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*A social science”*"
 msgstr "*Nauka społeczna”*"
 
@@ -188,15 +180,15 @@ msgid ""
 "For instance, here’s a valid argument where the conclusion is believable:"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All cigarettes are expensive (Premise 1)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some addictive things are inexpensive (Premise 2)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
 msgstr "A więc niektóre substancje uzależniające to nie papierosy. (Konkluzja)"
 
@@ -204,15 +196,15 @@ msgstr "A więc niektóre substancje uzależniające to nie papierosy. (Konkluzj
 msgid "And here’s a valid argument where the conclusion is not believable:"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All addictive things are expensive (Premise 1)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some cigarettes are inexpensive (Premise 2)"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0 ../../Ch01/Ch01_WhyStats_2.rst
+#: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
 msgstr ""
 
@@ -238,7 +230,6 @@ msgid "And finally, an invalid argument with an unbelievable conclusion:"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
-#, python-format
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
@@ -264,7 +255,6 @@ msgid "**argument is valid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
-#, python-format
 msgid "100\\% say “valid”"
 msgstr ""
 
@@ -274,7 +264,6 @@ msgid "**argument is invalid**"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
-#, python-format
 msgid "0\\% say “valid”"
 msgstr ""
 
@@ -297,12 +286,10 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "92\\% say “valid”"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "8\\% say “valid”"
 msgstr ""
 
@@ -314,28 +301,24 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
-#, python-format
 msgid "*46\\% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
-#, python-format
 msgid "*92\\% say “valid”*"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
-#, python-format
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
-"hard to even perceive it to be a strong argument (people only did so 46\\"
-"% of the time). Even worse, when people are presented with a weak argument "
+"hard to even perceive it to be a strong argument (people only did so 46\\% "
+"of the time). Even worse, when people are presented with a weak argument "
 "that agrees with our pre-existing biases, almost no-one can see that the "
 "argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
-#, python-format
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
@@ -352,7 +335,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
-#, python-format
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95\\% of "
 "what I read on the internet."
@@ -403,7 +385,6 @@ msgid "35\\%"
 msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
-#, python-format
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
 "nearly 13,000 applicants, a difference of 9\\% in admission rates between "
@@ -802,11 +783,11 @@ msgstr ""
 msgid "Statistics in everyday life"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0 ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0
 msgid "*“We are drowning in information,*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0 ../../Ch01/Ch01_WhyStats_5.rst
+#: ../../Ch01/Ch01_WhyStats_5.rst:0
 msgid "* but we are starved for knowledge”*"
 msgstr ""
 
@@ -815,7 +796,6 @@ msgid "Various authors, original probably John Naisbitt"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:12
-#, python-format
 msgid ""
 "When I started writing up my lecture notes I took the 20 most recent news "
 "articles posted to the ABC news website. Of those 20 articles, it turned out "
@@ -840,7 +820,6 @@ msgid "There’s more to research methods than statistics"
 msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:31
-#, python-format
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "
