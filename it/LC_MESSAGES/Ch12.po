@@ -25,26 +25,18 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-10 18:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -832,13 +824,12 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
 "The second way do to it is to use one of the jamovi add-on modules. This "
-"module is called ``scatr`` and you can install it by clicking on the large "
-"``+`` icon in the top right of the jamovi screen, opening the jamovi "
-"library, scrolling down until you find ``scatr`` and clicking ``Install``. "
-"When you have done this, you will find a new ``Scatterplot`` command "
-"available under the ``Exploration`` button. This plot is a bit different "
-"than the first way, see :numref:`fig-scatterplot2`, but the important "
-"information is the same."
+"module is called ``scatr`` and you can install it by clicking on the large ``"
+"+`` icon in the top right of the jamovi screen, opening the jamovi library, "
+"scrolling down until you find ``scatr`` and clicking ``Install``. When you "
+"have done this, you will find a new ``Scatterplot`` command available under "
+"the ``Exploration`` button. This plot is a bit different than the first way, "
+"see :numref:`fig-scatterplot2`, but the important information is the same."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:60
@@ -968,8 +959,8 @@ msgid ""
 "the coefficients from *a* and *b* to *b*\\ :sub:`0` and *b*\\ :sub:`1`. "
 "That’s just the way that statisticians like to refer to the coefficients in "
 "a regression model. I’ve no idea why they chose *b*, but that’s what they "
-"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and "
-"*b*\\ :sub:`1` refers to the slope."
+"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and *b*"
+"\\ :sub:`1` refers to the slope."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:89
@@ -1085,8 +1076,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_04.rst:51
 msgid ""
 "At this point, we now have a concrete definition for what counts as our "
-"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:"
-"`\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
+"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:`"
+"\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
 "coefficients are those that minimise the sum squared residuals, how do we "
 "*find* these wonderful numbers? The actual answer to this question is "
 "complicated and doesn’t help you understand the logic of regression.\\ [#]_ "
@@ -1128,14 +1119,14 @@ msgid ""
 "The most important thing to be able to understand is how to interpret these "
 "coefficients. Let’s start with :math:`\\hat{b}_1`, the slope. If we remember "
 "the definition of the slope, a regression coefficient of :math:`\\hat{b}_1` "
-"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing "
-"*Y*\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain "
-"will improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
+"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing *Y*"
+"\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain will "
+"improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
 "about the intercept? Well, since :math:`\\hat{b}_0` corresponds to “the "
 "expected value of *Y*\\ :sub:`i` when *X*\\ :sub:`i` equals 0”, it’s pretty "
 "straightforward. It implies that if I get zero hours of sleep (*X*\\ :sub:"
-"`i` = 0) then my grumpiness will go off the scale, to an insane value of "
-"(*Y*\\ :sub:`i` = \\125.96). Best to be avoided, I think."
+"`i` = 0) then my grumpiness will go off the scale, to an insane value of (*Y*"
+"\\ :sub:`i` = \\125.96). Best to be avoided, I think."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:103
@@ -1145,8 +1136,8 @@ msgid ""
 "algebra (and to be fair, I always have a few of these people in my "
 "intorductory statistics class), it *will* help *you* to know that the "
 "solution to the estimation problem turns out to be :math:`\\hat{b} = "
-"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:"
-"`\\hat{b}` is a vector containing the estimated regression coefficients, "
+"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:`"
+"\\hat{b}` is a vector containing the estimated regression coefficients, "
 "**X** is the “design matrix” that contains the predictor variables (plus an "
 "additional column containing all ones; strictly **X** is a matrix of the "
 "regressors, but I haven’t discussed the distinction yet), and *y* is a "
@@ -1442,7 +1433,6 @@ msgid "*R*\\² = 1 - 0.184"
 msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
-#, python-format
 msgid ""
 "This gives a value for *R*\\² of **0.816**. The *R*\\² value, sometimes "
 "called the **coefficient of determination**\\ [#]_ has a simple "
@@ -1525,8 +1515,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:137
 msgid ""
-"An obvious question then is whether you should report *R*\\² or adjusted "
-"*R*\\². This is probably a matter of personal preference. If you care more "
+"An obvious question then is whether you should report *R*\\² or adjusted *R*"
+"\\². This is probably a matter of personal preference. If you care more "
 "about interpretability, then *R*\\² is better. If you care more about "
 "correcting for bias, then adjusted *R*\\² is probably better. Speaking just "
 "for myself, I prefer *R*\\². My feeling is that it’s more important to be "
@@ -1785,7 +1775,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:153
-#, python-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
 "shown in :numref:`fig-reg2` provides the coefficients of the regression "
@@ -1803,7 +1792,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:167
-#, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
 "degrees of freedom used in the *t*-test, which is always *N* - *K* - 1 and "
@@ -1827,9 +1815,9 @@ msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = y - "
 "X \\hat{b}`. For *K* predictors plus the intercept, the estimated residual "
 "variance is :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N - K - "
-"1)`. The estimated covariance matrix of the coefficients is :math:"
-"`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of "
-"which is :math:`SE(\\hat{b})`, our estimated standard errors."
+"1)`. The estimated covariance matrix of the coefficients is :math:`\\hat"
+"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of which "
+"is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:197
@@ -1887,7 +1875,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
-#, python-format
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -1976,12 +1963,10 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
-#, python-format
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
-#, python-format
 msgid ""
 "Standardised coefficients, with 95\\% confidence intervals, for multiple "
 "linear regression"
@@ -2211,8 +2196,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:98
 msgid ""
-"Notice that our estimate of the standard deviation here is written :math:"
-"`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
+"Notice that our estimate of the standard deviation here is written :math:`"
+"\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
 "residual standard deviation that you *would have obtained* if you just "
 "deleted the i\\ th observation from the data set. This sounds like the sort "
 "of thing that would be a nightmare to calculate, since it seems to be saying "
@@ -2224,12 +2209,12 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:109
 msgid ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
-"^\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
+"\\prime}^2}{N-K-2}}\n"
 "\n"
 msgstr ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
-"^\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
+"\\prime}^2}{N-K-2}}\n"
 "\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:111
@@ -2581,8 +2566,8 @@ msgid ""
 "the fact that this is the matrix that “puts a hat on *y*”. The hat *value* "
 "of the i-th observation is the i-th diagonal element of this matrix (so "
 "technically I should be writing it as h\\ :sub:`ii` rather than h\\ :sub:"
-"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = "
-"**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
+"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = **X**"
+"\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:408
