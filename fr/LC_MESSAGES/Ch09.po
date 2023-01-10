@@ -26,26 +26,18 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-10 18:23+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:4
@@ -53,7 +45,6 @@ msgid "Hypothesis testing"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
 "*The process of induction is the process of assuming the simplest law that "
 "can be made to harmonize with our experience. This process, however, has no "
@@ -345,8 +336,8 @@ msgid ""
 "statistical hypothesis (the “null” hypothesis, H\\ :sub:`0`\\ ) that "
 "corresponds to the exact opposite of what I want to believe, and then focus "
 "exclusively on that almost to the neglect of the thing I’m actually "
-"interested in (which is now called the “alternative” hypothesis, H\\ :sub:"
-"`1`\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
+"interested in (which is now called the “alternative” hypothesis, H\\ :sub:`1`"
+"\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
 "that’s what we’d expect if ESP *didn’t* exist. My hope, of course, is that "
 "ESP is totally real and so the *alternative* to this null hypothesis is *θ* "
 "≠ 0.5. In essence, what we’re doing here is dividing up the possible values "
@@ -499,42 +490,34 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - α"
 msgstr "1 - α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(probability of correct retention)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "α"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "β"
 msgstr "β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - β"
 msgstr "1 - β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(power of the test)"
 msgstr ""
 
@@ -713,14 +696,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:33
-#, python-format
 msgid ""
 "If α = 0.05, the critical region must cover 5\\% of this sampling "
 "distribution."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:36
-#, python-format
 msgid ""
 "It’s important to make sure you understand this last point. The critical "
 "region corresponds to those values of *X* for which we would reject the null "
@@ -740,7 +721,6 @@ msgid "Critical region associated with a two-sided test"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
-#, python-format
 msgid ""
 "The critical region associated with the hypothesis test for the ESP study, "
 "for a hypothesis test with a significance level of α = 0.05. The plot shows "
@@ -808,7 +788,6 @@ msgid "A note on statistical “significance”"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst
 msgid ""
 "*Like other occult techniques of divination, the statistical method has a "
 "private jargon deliberately contrived to obscure its methods from non-"
@@ -857,7 +836,6 @@ msgid "H\\ :sub:`1`: *θ* ≠ 0.5"
 msgstr "H\\ :sub:`1`: *θ* ≠ 0.5"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:137
-#, python-format
 msgid ""
 "we notice that the alternative hypothesis covers *both* the possibility that "
 "*θ* < 0.5 and the possibility that *θ* > 0.5. This makes sense if I really "
@@ -898,7 +876,6 @@ msgid "Critical region associated with a one-sided test"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:168
-#, python-format
 msgid ""
 "The critical region for a one-sided test. In this case, the alternative "
 "hypothesis is that θ = 0.5 so we would only reject the null hypothesis for "
@@ -909,7 +886,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:180
-#, python-format
 msgid ""
 "Strictly speaking, the test I just constructed has α = 0.057, which is a bit "
 "too generous. However, if I’d chosen 39 and 61 to be the boundaries for the "
@@ -1077,7 +1053,6 @@ msgid "A common mistake"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:103
-#, python-format
 msgid ""
 "Okay, so you can see that there are two rather different but legitimate ways "
 "to interpret the *p*-value, one based on Neyman’s approach to hypothesis "
@@ -1139,7 +1114,6 @@ msgid "The issue"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:28
-#, python-format
 msgid ""
 "To see why this is an issue, the key thing to recognise is that *p*-values "
 "are *terribly* convenient. In practice, the fact that we can compute a *p*-"
@@ -1160,7 +1134,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:47
-#, python-format
 msgid ""
 "This flexibility is both the advantage and the disadvantage to the *p*-"
 "value. The reason why a lot of people don’t like the idea of reporting an "
@@ -1378,7 +1351,6 @@ msgid "Effect size, sample size and power"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:6
-#, python-format
 msgid ""
 "In previous sections I’ve emphasised the fact that the major design "
 "principle behind statistical hypothesis testing is that we try to control "
@@ -1486,7 +1458,6 @@ msgid "Effect size"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst
 msgid ""
 "*Since all models are wrong the scientist must be alert to what is "
 "importantly wrong. It is inappropriate to be concerned with mice when there "
@@ -1565,7 +1536,6 @@ msgid "no effect observed"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:152
-#, python-format
 msgid ""
 "Why calculate effect size? Let’s assume that you’ve run your experiment, "
 "collected the data, and gotten a significant effect when you ran your "
@@ -1785,13 +1755,13 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:59
 msgid ""
 "As you can see, what we have today is an odd mishmash of the two. We talk "
-"about having both a null hypothesis and an alternative (Neyman), but "
-"usually\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but "
-"we still have α values (Neyman). Some of the statistical tests have "
-"explicitly specified alternatives (Neyman) but others are quite vague about "
-"it (Fisher). And, according to some people at least, we’re not allowed to "
-"talk about accepting the alternative (Fisher). It’s a mess, but I hope this "
-"at least explains why it’s a mess."
+"about having both a null hypothesis and an alternative (Neyman), but usually"
+"\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but we still "
+"have α values (Neyman). Some of the statistical tests have explicitly "
+"specified alternatives (Neyman) but others are quite vague about it "
+"(Fisher). And, according to some people at least, we’re not allowed to talk "
+"about accepting the alternative (Fisher). It’s a mess, but I hope this at "
+"least explains why it’s a mess."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
@@ -1799,7 +1769,6 @@ msgid "Bayesians versus frequentists"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:72
-#, python-format
 msgid ""
 "Earlier on in this chapter I was quite emphatic about the fact that you "
 "*cannot* interpret the *p*-value as the probability that the null hypothesis "
