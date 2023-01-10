@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,13 +37,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:669
-#: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:550
+#: ../../Ch14/Ch14_ANOVA2_06.rst:150 ../../Ch14/Ch14_ANOVA2_07.rst:550
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
 msgstr "nominal"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:666
-#: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
+#: ../../Ch14/Ch14_ANOVA2_06.rst:147 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
 msgstr "continuous"
 
@@ -1796,26 +1796,26 @@ msgid ""
 "lead to the conclusion that statistics anxiety does not differ in the two "
 "groups. Would this conclusion be reasonable – probably not because the ages "
 "of the two groups do not overlap and analysis of variance has essentially "
-"“extrapolated into a region with no data” (`Everitt, 1996 <../Other/"
-"References.html#everitt-1996>`__\\ )."
+"“extrapolated into a region with no data” (:ref:`Everitt, 1996 "
+"<Everitt_1996>`)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:39
+#: ../../Ch14/Ch14_ANOVA2_06.rst:38
 msgid "Plot of Statistics anxiety against age for two distinct groups"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:43
+#: ../../Ch14/Ch14_ANOVA2_06.rst:42
 msgid ""
 "Clearly, careful thought needs to be given to an analysis of covariance with "
 "distinct groups. This applies to both one-way and factorial designs, as "
 "ANCOVA can be used with both."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:48
+#: ../../Ch14/Ch14_ANOVA2_06.rst:47
 msgid "Running ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:50
+#: ../../Ch14/Ch14_ANOVA2_06.rst:49
 msgid ""
 "A health psychologist was interested in the effect of routine cycling and "
 "stress on happiness levels, with age as a covariate. Open the |ancova|_ data "
@@ -1830,17 +1830,17 @@ msgid ""
 "options."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid "The jamovi ANCOVA options panel"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid ""
 "Options panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:73
+#: ../../Ch14/Ch14_ANOVA2_06.rst:72
 msgid ""
 "An ANCOVA table showing Tests of Between-Subjects Effects is produced in the "
 "jamovi results panel (:numref:`fig-ancova2`). The *F*-value for the "
@@ -1853,28 +1853,28 @@ msgid ""
 "effects."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid "jamovi ANCOVA output"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid ""
 "jamovi ANCOVA output for happiness as a function of stress and commuting "
 "method, with age as a covariate"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:96
 msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:96
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
 "for the covariate age) with 95\\% confidence intervals"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:103
+#: ../../Ch14/Ch14_ANOVA2_06.rst:102
 msgid ""
 "The *F*-value for the main effect ``stress`` (52.61) has an associated "
 "probability of *p* < 0.001. The *F*-value for the main effect ``commute`` "
@@ -1887,7 +1887,7 @@ msgid ""
 "also found (*F*\\(1,15) = \\14.15, *p* = 0.002)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:113
+#: ../../Ch14/Ch14_ANOVA2_06.rst:112
 msgid ""
 "In :numref:`fig-ancova4` we can see the adjusted, marginal, mean happiness "
 "scores when age is a covariate in an ANCOVA. In this analysis there is a "
@@ -1899,17 +1899,17 @@ msgid ""
 "people who cycle are happier, on average, than those who drive to work."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid ""
 "Plot with the Estimated Marginal means within the ANCOVA: Shown are the mean "
 "happiness level as a function of stress and commuting method"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:133
+#: ../../Ch14/Ch14_ANOVA2_06.rst:132
 msgid ""
 "One thing to be aware of is that, if you are thinking of including a "
 "covariate in your ANOVA, there is an additional assumption: the relationship "
@@ -2987,9 +2987,9 @@ msgid ""
 "multiple hypotheses, but they’re not necessarily the best choices if you’re "
 "interested in doing efficient post-hoc testing in an ANOVA context. There "
 "are actually quite a lot of different methods for performing multiple "
-"comparisons in the statistics literature (`Hsu, 1996 <../Other/References."
-"html#hsu-1996>`__\\ ), and it would be beyond the scope of an introductory "
-"text like this one to discuss all of them in any detail."
+"comparisons in the statistics literature (:ref:`Hsu, 1996 <Hsu_1996>`), and "
+"it would be beyond the scope of an introductory text like this one to "
+"discuss all of them in any detail."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:25

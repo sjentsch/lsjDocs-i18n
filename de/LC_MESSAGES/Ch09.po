@@ -4,373 +4,48 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#
+# #-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
-"PO-Revision-Date: 2022-12-11 19:48+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/"
-">\n"
-"Language: de\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi)  #-#-#-#-#\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
-"Generated-By: Babel 2.11.0\n"
+"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:4
 msgid "Hypothesis testing"
 msgstr "Das Überprüfen von Hypothesen"
 
-#: ../../Ch09/Ch09_HypothesisTesting.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
 "*The process of induction is the process of assuming the simplest law that "
 "can be made to harmonize with our experience. This process, however, has no "
@@ -848,8 +523,8 @@ msgid ""
 "statistical hypothesis (the “null” hypothesis, H\\ :sub:`0`\\ ) that "
 "corresponds to the exact opposite of what I want to believe, and then focus "
 "exclusively on that almost to the neglect of the thing I’m actually "
-"interested in (which is now called the “alternative” hypothesis, H\\ :sub:`1`"
-"\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
+"interested in (which is now called the “alternative” hypothesis, H\\ :sub:"
+"`1`\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
 "that’s what we’d expect if ESP *didn’t* exist. My hope, of course, is that "
 "ESP is totally real and so the *alternative* to this null hypothesis is *θ* "
 "≠ 0.5. In essence, what we’re doing here is dividing up the possible values "
@@ -1103,34 +778,37 @@ msgstr ""
 "entsprechenden Zahlen:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - α"
 msgstr "1 - α"
 
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(probability of correct retention)"
 msgstr "(Wahrscheinlichkeit der richtigen Beibehaltung)"
 
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "α"
 msgstr "α"
 
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
 msgstr "(Fehlerrate vom Typ I)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "β"
 msgstr "β"
 
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
 msgstr "(Fehlerrate vom Typ II)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - β"
 msgstr "1 - β"
 
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(power of the test)"
 msgstr "(Stärke des Tests)"
 
@@ -1432,6 +1110,7 @@ msgstr ""
 "Binomial(0,5, N)."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:33
+#, python-format
 msgid ""
 "If α = 0.05, the critical region must cover 5\\% of this sampling "
 "distribution."
@@ -1440,6 +1119,7 @@ msgstr ""
 "(Binomial-)Stichprobenverteilung abdecken."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:36
+#, python-format
 msgid ""
 "It’s important to make sure you understand this last point. The critical "
 "region corresponds to those values of *X* for which we would reject the null "
@@ -1471,6 +1151,7 @@ msgid "Critical region associated with a two-sided test"
 msgstr "Kritischer Bereich im Zusammenhang mit einem zweiseitigen Test"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
+#, python-format
 msgid ""
 "The critical region associated with the hypothesis test for the ESP study, "
 "for a hypothesis test with a significance level of α = 0.05. The plot shows "
@@ -1573,7 +1254,7 @@ msgstr ""
 msgid "A note on statistical “significance”"
 msgstr "Eine Anmerkung zur statistischen „Signifikanz“"
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst
 msgid ""
 "*Like other occult techniques of divination, the statistical method has a "
 "private jargon deliberately contrived to obscure its methods from non-"
@@ -1643,6 +1324,7 @@ msgid "H\\ :sub:`1`: *θ* ≠ 0.5"
 msgstr "H\\ :sub:`1`: *θ* ≠ 0.5"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:137
+#, python-format
 msgid ""
 "we notice that the alternative hypothesis covers *both* the possibility that "
 "*θ* < 0.5 and the possibility that *θ* > 0.5. This makes sense if I really "
@@ -1702,6 +1384,7 @@ msgid "Critical region associated with a one-sided test"
 msgstr "Kritischer Bereich im Zusammenhang mit einem einseitigen Test"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:168
+#, python-format
 msgid ""
 "The critical region for a one-sided test. In this case, the alternative "
 "hypothesis is that θ = 0.5 so we would only reject the null hypothesis for "
@@ -1718,6 +1401,7 @@ msgstr ""
 "`fig-rejectionRegion1`."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:180
+#, python-format
 msgid ""
 "Strictly speaking, the test I just constructed has α = 0.057, which is a bit "
 "too generous. However, if I’d chosen 39 and 61 to be the boundaries for the "
@@ -1728,8 +1412,8 @@ msgid ""
 msgstr ""
 "Streng genommen ergibt der Test, den ich gerade konstruiert habe, α = 0,057, "
 "was etwas zu großzügig ist. Wenn ich jedoch 39 und 61 als Grenzen für den "
-"kritischen Bereich gewählt hätte, dann würde der kritische Bereich nur 3,5 % "
-"der Verteilung abdecken. Ich hielt es für sinnvoller, 40 und 60 als "
+"kritischen Bereich gewählt hätte, dann würde der kritische Bereich nur 3,5 "
+"% der Verteilung abdecken. Ich hielt es für sinnvoller, 40 und 60 als "
 "kritische Werte zu verwenden und eine Typ-I-Fehlerrate von 5,7 % in Kauf zu "
 "nehmen, da dies dem Wert von α = 0,05 am nächsten kommt."
 
@@ -1965,6 +1649,7 @@ msgid "A common mistake"
 msgstr "Ein häufiger Fehler"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:103
+#, python-format
 msgid ""
 "Okay, so you can see that there are two rather different but legitimate ways "
 "to interpret the *p*-value, one based on Neyman’s approach to hypothesis "
@@ -2065,6 +1750,7 @@ msgid "The issue"
 msgstr "Das Problem"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:28
+#, python-format
 msgid ""
 "To see why this is an issue, the key thing to recognise is that *p*-values "
 "are *terribly* convenient. In practice, the fact that we can compute a *p*-"
@@ -2103,6 +1789,7 @@ msgstr ""
 "andere Weise zu behandeln als *p* = 0,049."
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:47
+#, python-format
 msgid ""
 "This flexibility is both the advantage and the disadvantage to the *p*-"
 "value. The reason why a lot of people don’t like the idea of reporting an "
@@ -2429,6 +2116,7 @@ msgid "Effect size, sample size and power"
 msgstr "Effektstärke, Stichprobenumfang und Teststärke"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:6
+#, python-format
 msgid ""
 "In previous sections I’ve emphasised the fact that the major design "
 "principle behind statistical hypothesis testing is that we try to control "
@@ -2576,7 +2264,7 @@ msgstr ""
 "weiter entfernt ist, ist die Aussagekraft groß."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:229
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
 msgid "Probability to reject the null hypothesis as function of θ"
 msgstr "Wahrscheinlichkeit, die Nullhypothese abzulehnen, als Funktion von θ"
 
@@ -2602,7 +2290,7 @@ msgstr ""
 msgid "Effect size"
 msgstr "Effektstärke"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst
 msgid ""
 "*Since all models are wrong the scientist must be alert to what is "
 "importantly wrong. It is inappropriate to be concerned with mice when there "
@@ -2613,8 +2301,8 @@ msgstr ""
 "wenn es im Ausland Tiger gibt*"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:115
-msgid "`George Box (1976) <../Other/References.html#box-1976>`__"
-msgstr "`George Box (1976) <../Other/References.html#box-1976>`__"
+msgid ":ref:`George Box (1976) <Box_1976>`"
+msgstr ":ref:`George Box (1976) <Box_1976>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:112
 msgid ""
@@ -2625,22 +2313,21 @@ msgid ""
 "identical) then the power of the test is going to be very low. Therefore, "
 "it’s useful to be able to have some way of quantifying how “similar” the "
 "true state of the world is to the null hypothesis. A statistic that does "
-"this is called a measure of **effect size** (`Cohen, 1988 <../Other/"
-"References.html#cohen-1988>`__\\ , `Ellis, 2010 <../Other/References."
-"html#ellis-2010>`__\\ )."
+"this is called a measure of **effect size** (:ref:`Cohen, 1988 "
+"<Cohen_1988>`, :ref:`Ellis, 2010 <Ellis_2010>`)."
 msgstr ""
 "Die in :numref:`fig-powerTheta` gezeigte Grafik verdeutlicht einen recht "
-"grundlegenden Aspekt der Hypothesenprüfung. Wenn der wahre Zustand der Welt "
-"sich sehr stark von dem unterscheidet, was die Nullhypothese vorhersagt, "
-"dann ist die Aussagekraft eines Tests sehr hoch; wenn der wahre Zustand der "
-"Welt der Nullhypothese ähnlich (aber nicht identisch) ist, dann ist die "
-"Aussagekraft des Tests sehr gering. Daher ist es nützlich, eine Möglichkeit "
-"zu haben, zu quantifizieren, wie „ähnlich“ der wahre Zustand der Welt der "
-"Nullhypothese ist. Eine Statistik, die dies tut, wird als **Effektstärke** "
-"bezeichnet (`Cohen, 1988 <../Other/References.html#cohen-1988>`__\\ , "
-"`Ellis, 2010 <../Other/References.html#ellis-2010>`__\\ )."
+"grundlegenden Aspekt der Hypothesenprüfung. Wenn der wahre Zustand der "
+"Welt sich sehr stark von dem unterscheidet, was die Nullhypothese "
+"vorhersagt, dann ist die Aussagekraft eines Tests sehr hoch; wenn der "
+"wahre Zustand der Welt der Nullhypothese ähnlich (aber nicht identisch) "
+"ist, dann ist die Aussagekraft des Tests sehr gering. Daher ist es "
+"nützlich, eine Möglichkeit zu haben, zu quantifizieren, wie „ähnlich“ der "
+"wahre Zustand der Welt der Nullhypothese ist. Eine Statistik, die dies "
+"tut, wird als **Effektstärke** bezeichnet (:ref:`Cohen, 1988 <Cohen_1988>`, "
+":ref:`Ellis, 2010 <Ellis_2010>`)."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:122
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:121
 msgid ""
 "Effect size is defined slightly differently in different contexts (and so "
 "this section just talks in general terms) but the qualitative idea that it "
@@ -2664,7 +2351,7 @@ msgstr ""
 "`0`), oder möglicherweise nur die Größe dieser Differenz, abs(*θ* - *θ*\\ :"
 "sub:`0`)."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:133
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:132
 msgid ""
 "A crude guide to understanding the relationship between statistical "
 "significance and effect sizes. Basically, if you don’t have a significant "
@@ -2688,35 +2375,36 @@ msgstr ""
 "Nehmen Sie diese Tabelle also nicht zu ernst. Sie ist eher ein grober "
 "Anhaltspunkt."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:145
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "big effect size"
 msgstr "Große Effektstärke"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:145
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "small effect size"
 msgstr "Geringe Effektstärke"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "significant result"
 msgstr "Signifikantes Ergebnis"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, and of practical importance"
 msgstr "der Unterschied ist real und hat praktische Bedeutung"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, but might not be interesting"
 msgstr "der Unterschied ist real, aber möglicherweise nicht interessant"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:150
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "non-significant result"
 msgstr "nicht-signifikantes Ergebnis"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:150
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "no effect observed"
 msgstr "keine Wirkung beobachtet"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:153
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:152
+#, python-format
 msgid ""
 "Why calculate effect size? Let’s assume that you’ve run your experiment, "
 "collected the data, and gotten a significant effect when you ran your "
@@ -2787,11 +2475,11 @@ msgstr ""
 "zufällig), während die Effektstärke Ihnen sagt, ob dieses Ergebnis "
 "(praktisch) relevant ist oder eher nicht."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:189
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:188
 msgid "Increasing the power of your study"
 msgstr "Steigern der Teststärke Ihrer Studie"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:191
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:190
 msgid ""
 "Not surprisingly, scientists are fairly obsessed with maximising the power "
 "of their experiments. We want our experiments to work and so we want to "
@@ -2827,7 +2515,7 @@ msgstr ""
 "eine Möglichkeit, die Aussagekraft ihrer Studie zu erhöhen, da sie die "
 "Effektstärke verändern kann."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:207
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:206
 msgid ""
 "Unfortunately, it’s often the case that even with the best of experimental "
 "designs you may have only a small effect. Perhaps, for example, ESP really "
@@ -2861,7 +2549,7 @@ msgstr ""
 "Stichprobengrößen *N* von 1 bis 100 zeigt. Dabei gehe ich davon aus, dass "
 "die Nullhypothese vorhersagt, dass *θ*\\ :sub:`0` = 0,5 ist."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:229
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
 msgid ""
 "The power of our test plotted as a function of the sample size N. In this "
 "case, the true value of θ is 0.7 but the null hypothesis is that θ = 0.5. "
@@ -2878,7 +2566,7 @@ msgstr ""
 "Binomialverteilung diskret ist; für einen ernsthaften Zweck spielt dies "
 "keine Rolle)."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:238
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:237
 msgid ""
 "Because power is important, whenever you’re contemplating running an "
 "experiment it would be pretty useful to know how much power you’re likely to "
@@ -2958,7 +2646,7 @@ msgstr ""
 "Teststärkeberechnung enthalten, aber im Moment ist das so ziemlich alles, "
 "was ich zu diesem Thema sagen kann."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:278
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:277
 msgid ""
 "Although in practice a very small effect size is worrying because even very "
 "minor methodological flaws might be responsible for the effect, and in "
@@ -2970,7 +2658,7 @@ msgstr ""
 "könnten. Kein Experiment ist perfekt, so dass es immer methodische Probleme "
 "gibt, über die man sich Sorgen machen muss."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:284
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:283
 msgid ""
 "Notice that the true population parameter *θ* doesn’t necessarily correspond "
 "to an immutable fact of nature. In this context *θ* is just the true "
@@ -2985,7 +2673,7 @@ msgstr ""
 "Populationsparameter durch alle möglichen Dinge beeinflusst werden. Dies "
 "alles natürlich unter der Annahme, dass ESP tatsächlich existiert!"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:292
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:291
 msgid ""
 "One possible exception to this is when researchers study the effectiveness "
 "of a new medical treatment and they specify in advance what an important "
@@ -3039,26 +2727,25 @@ msgstr "Neyman versus Fisher"
 msgid ""
 "The first thing you should be aware of is that orthodox NHST is actually a "
 "mash-up of two rather different approaches to hypothesis testing, one "
-"proposed by Sir Ronald Fisher and the other proposed by Jerzy Neyman (see "
-"`Lehmann, 2011 <../Other/References.html#cronbach-1951>`__ for a historical "
-"summary). The history is messy because Fisher and Neyman were real people "
-"whose opinions changed over time, and at no point did either of them offer "
-"“the definitive statement” of how we should interpret their work many "
-"decades later. That said, here’s a quick summary of what I take these two "
-"approaches to be."
+"proposed by Sir Ronald Fisher and the other proposed by Jerzy Neyman (see :"
+"ref:`Lehmann, 2011 <Lehmann_2011>` for a historical summary). The history is "
+"messy because Fisher and Neyman were real people whose opinions changed over "
+"time, and at no point did either of them offer “the definitive statement” of "
+"how we should interpret their work many decades later. That said, here’s a "
+"quick summary of what I take these two approaches to be."
 msgstr ""
-"Zunächst einmal sollten Sie wissen, dass das frequentistische NHST "
-"eigentlich eine Mischung aus zwei recht unterschiedlichen Ansätzen für "
-"Hypothesentests ist, von denen einer von Sir Ronald Fisher und der andere "
-"von Jerzy Neyman vorgeschlagen wurde (siehe `Lehmann, 2011 <../Other/"
-"References.html#cronbach-1951>`__ für eine historische Zusammenfassung). Die "
-"Geschichte ist chaotisch, weil Fisher und Neyman echte Menschen waren, deren "
-"Meinungen sich im Laufe der Zeit änderten. Keiner von ihnen hat zu "
-"irgendeinem Zeitpunkt „die endgültige Erklärung“ angeboten, wie wir ihre "
-"Arbeit viele Jahrzehnte später interpretieren sollten. Dennoch möchte ich "
-"hier kurz zusammenfassen, was ich unter diesen beiden Ansätzen verstehe."
+"Zunächst einmal sollten Sie wissen, dass das frequentistische NHST eigentlich"
+" eine Mischung aus zwei recht unterschiedlichen Ansätzen für Hypothesentests "
+"ist, von denen einer von Sir Ronald Fisher und der andere von Jerzy Neyman "
+"vorgeschlagen wurde (siehe :ref:`Lehmann, 2011 <Lehmann_2011>` für eine "
+"historische Zusammenfassung). Die Geschichte ist chaotisch, weil Fisher und "
+"Neyman echte Menschen waren, deren Meinungen sich im Laufe der Zeit änderten."
+" Keiner von ihnen hat zu irgendeinem Zeitpunkt „die endgültige Erklärung“ "
+"angeboten, wie wir ihre Arbeit viele Jahrzehnte später interpretieren "
+"sollten. Dennoch möchte ich hier kurz zusammenfassen, was ich unter diesen "
+"beiden Ansätzen verstehe."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:32
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:31
 msgid ""
 "First, let’s talk about Fisher’s approach. As far as I can tell, Fisher "
 "assumed that you only had the one hypothesis (the null) and that what you "
@@ -3085,7 +2772,7 @@ msgstr ""
 "angegebene Alternative hat. Das ist mehr oder weniger alles, was es dazu zu "
 "sagen gibt."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:45
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:44
 msgid ""
 "In contrast, Neyman thought that the point of hypothesis testing was as a "
 "guide to action and his approach was somewhat more formal than Fisher’s. His "
@@ -3117,16 +2804,16 @@ msgstr ""
 "sagen, dass Sie die Nullhypothese akzeptieren sollten, und welche „möglichen "
 "Tests“ Ihnen sagen, dass Sie die Alternativhypothese akzeptieren sollten."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:60
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:59
 msgid ""
 "As you can see, what we have today is an odd mishmash of the two. We talk "
-"about having both a null hypothesis and an alternative (Neyman), but usually"
-"\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but we still "
-"have α values (Neyman). Some of the statistical tests have explicitly "
-"specified alternatives (Neyman) but others are quite vague about it "
-"(Fisher). And, according to some people at least, we’re not allowed to talk "
-"about accepting the alternative (Fisher). It’s a mess, but I hope this at "
-"least explains why it’s a mess."
+"about having both a null hypothesis and an alternative (Neyman), but "
+"usually\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but "
+"we still have α values (Neyman). Some of the statistical tests have "
+"explicitly specified alternatives (Neyman) but others are quite vague about "
+"it (Fisher). And, according to some people at least, we’re not allowed to "
+"talk about accepting the alternative (Fisher). It’s a mess, but I hope this "
+"at least explains why it’s a mess."
 msgstr ""
 "Wie Sie sehen, ist das, was wir heute haben, ein seltsamer Mischmasch aus "
 "beidem. Wir sprechen davon, dass es sowohl eine Nullhypothese als auch eine "
@@ -3138,11 +2825,12 @@ msgstr ""
 "der Alternative sprechen (Fisher). Es ist ein Durcheinander, aber ich hoffe, "
 "diese Ausführungen erklären zumindest, warum es so ein Durcheinander ist."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:71
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
 msgid "Bayesians versus frequentists"
 msgstr "Bayesianer versus Frequentisten"
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:73
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:72
+#, python-format
 msgid ""
 "Earlier on in this chapter I was quite emphatic about the fact that you "
 "*cannot* interpret the *p*-value as the probability that the null hypothesis "
@@ -3185,7 +2873,7 @@ msgstr ""
 "Häufigkeit zu sprechen. Von der „Wahrscheinlichkeit der Nullhypothese“ zu "
 "sprechen, ist so sinnlos wie die „Farbe der Freiheit“. Es gibt sie nicht!"
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:91
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:90
 msgid ""
 "Most importantly, this *isn’t* a purely ideological matter. If you decide "
 "that you are a Bayesian and that you’re okay with making probability "
@@ -3207,11 +2895,11 @@ msgstr ""
 "Sie die Wahrscheinlichkeit des Eintreffens der Nullhypothese wissen wollen, "
 "dann ist der *p*-Wert nicht das, wonach Sie suchen!"
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:101
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:100
 msgid "Traps"
 msgstr "Fallen"
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:103
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:102
 msgid ""
 "As you can see, the theory behind hypothesis testing is a mess, and even now "
 "there are arguments in statistics about how it “should” work. However, "
@@ -3246,66 +2934,66 @@ msgstr ""
 "jeder Test tatsächlich über die Daten aussagt, und zu überprüfen, ob dies "
 "mit der eigenen Interpretation übereinstimmt."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:119
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:118
 msgid ""
-"To give an example of this, consider the following example (`Gelman & Stern, "
-"2006 <../Other/References.html#gleman-2006>`__\\ ). Suppose I’m running my "
-"ESP study and I’ve decided to analyse the data separately for the male "
-"participants and the female participants. Of the male participants, 33 out "
-"of 50 guessed the colour of the card correctly. This is a significant effect "
-"(*p* = 0.03). Of the female participants, 29 out of 50 guessed correctly. "
-"This is not a significant effect (p = 0.32). Upon observing this, it is "
-"extremely tempting for people to start wondering why there is a difference "
-"between males and females in terms of their psychic abilities. However, this "
-"is wrong. If you think about it, we haven’t *actually* run a test that "
-"explicitly compares males to females. All we have done is compare males to "
-"chance (binomial test was significant) and compared females to chance "
-"(binomial test was non significant). If we want to argue that there is a "
-"real difference between the males and the females, we should probably run a "
-"test of the null hypothesis that there is no difference! We can do that "
-"using a different hypothesis test,\\ [#]_ but when we do that it turns out "
-"that we have no evidence that males and females are significantly different "
-"(*p* = 0.54). *Now* do you think that there’s anything fundamentally "
-"different between the two groups? Of course not. What’s happened here is "
-"that the data from both groups (male and female) are pretty borderline. By "
-"pure chance one of them happened to end up on the magic side of the *p* = "
-"0.05 line, and the other one didn’t. That doesn’t actually imply that males "
-"and females are different. This mistake is so common that you should always "
-"be wary of it. The difference between significant and not-significant is "
-"*not* evidence of a real difference. If you want to say that there’s a "
-"difference between two groups, then you have to test for that difference!"
+"To give an example of this, consider the following example (:ref:`Gelman & "
+"Stern, 2006 <Gelman_2006>`). Suppose I’m running my ESP study and I’ve "
+"decided to analyse the data separately for the male participants and the "
+"female participants. Of the male participants, 33 out of 50 guessed the "
+"colour of the card correctly. This is a significant effect (*p* = 0.03). Of "
+"the female participants, 29 out of 50 guessed correctly. This is not a "
+"significant effect (p = 0.32). Upon observing this, it is extremely tempting "
+"for people to start wondering why there is a difference between males and "
+"females in terms of their psychic abilities. However, this is wrong. If you "
+"think about it, we haven’t *actually* run a test that explicitly compares "
+"males to females. All we have done is compare males to chance (binomial test "
+"was significant) and compared females to chance (binomial test was non "
+"significant). If we want to argue that there is a real difference between "
+"the males and the females, we should probably run a test of the null "
+"hypothesis that there is no difference! We can do that using a different "
+"hypothesis test,\\ [#]_ but when we do that it turns out that we have no "
+"evidence that males and females are significantly different (*p* = 0.54). "
+"*Now* do you think that there’s anything fundamentally different between the "
+"two groups? Of course not. What’s happened here is that the data from both "
+"groups (male and female) are pretty borderline. By pure chance one of them "
+"happened to end up on the magic side of the *p* = 0.05 line, and the other "
+"one didn’t. That doesn’t actually imply that males and females are "
+"different. This mistake is so common that you should always be wary of it. "
+"The difference between significant and not-significant is *not* evidence of "
+"a real difference. If you want to say that there’s a difference between two "
+"groups, then you have to test for that difference!"
 msgstr ""
-"Ein Beispiel hierfür ist das folgende Beispiel (`Gelman & Stern, 2006 <../"
-"Other/References.html#gleman-2006>`__\\ ). Angenommen, ich führe meine ESP-"
-"Studie durch und habe beschlossen, die Daten getrennt nach männlichen und "
-"weiblichen Teilnehmern zu analysieren. Von den männlichen Teilnehmern haben "
-"33 von 50 die Farbe der Karte richtig erraten. Dies ist ein signifikanter "
-"Effekt (*p* = 0,03). Von den weiblichen Teilnehmern errieten 29 von 50 die "
-"richtige Farbe. Dies ist kein signifikanter Effekt (p = 0,32). Wenn man dies "
-"beobachtet, ist die Versuchung groß, sich zu fragen, warum es einen "
-"Unterschied zwischen Männern und Frauen in Bezug auf ihre psychischen "
-"Fähigkeiten gibt. Dies ist jedoch falsch. Wenn man darüber nachdenkt, haben "
-"wir nicht *eigentlich* einen Test durchgeführt, der ausdrücklich Männer mit "
-"Frauen vergleicht. Wir haben lediglich Männer mit dem Zufall verglichen (der "
-"Binomialtest war signifikant) und Frauen mit dem Zufall verglichen (der "
-"Binomialtest war nicht signifikant). Wenn wir behaupten wollen, dass es "
-"einen echten Unterschied zwischen Männern und Frauen gibt, sollten wir die "
-"Nullhypothese testen, dass es keinen Unterschied gibt! Wir können dies mit "
-"einem anderen Hypothesentest tun,\\ [#]_ aber wenn wir dies tun, stellt sich "
-"heraus, dass wir keinen Beleg dafür haben, dass Männer und Frauen "
-"signifikant unterschiedlich sind (*p* = 0,54). Glauben Sie, dass sich die "
-"beiden Gruppen grundlegend unterscheiden? Nein, natürlich nicht. Was hier "
-"passiert ist, ist, dass die Daten von beiden Gruppen (Männer und Frauen) "
-"ziemlich grenzwertig sind. Rein zufällig ist eine der beiden Gruppen auf der "
-"magischen Seite der Linie *p* = 0,05 gelandet, die andere nicht. Das "
-"bedeutet aber nicht, dass Männer und Frauen unterschiedlich sind. Dieser "
-"Fehler kommt so häufig vor, dass Sie sich immer davor hüten sollten. Der "
-"Unterschied zwischen signifikant und nicht-signifikant ist *kein* Beleg für "
-"einen echten Unterschied. Wenn Sie sagen wollen, dass es einen Unterschied "
+"Ein Beispiel hierfür ist das folgende Beispiel (:ref:`Gelman & Stern, 2006 "
+"<Gelman_2006>`). Angenommen, ich führe meine ESP-Studie durch und habe "
+"beschlossen, die Daten getrennt nach männlichen und weiblichen Teilnehmern "
+"zu analysieren. Von den männlichen Teilnehmern haben 33 von 50 die Farbe der "
+"Karte richtig erraten. Dies ist ein signifikanter Effekt (*p* = 0,03). Von "
+"den weiblichen Teilnehmern errieten 29 von 50 die richtige Farbe. Dies ist "
+"kein signifikanter Effekt (p = 0,32). Wenn man dies beobachtet, ist die "
+"Versuchung groß, sich zu fragen, warum es einen Unterschied zwischen Männern "
+"und Frauen in Bezug auf ihre psychischen Fähigkeiten gibt. Dies ist jedoch "
+"falsch. Wenn man darüber nachdenkt, haben wir nicht *eigentlich* einen Test "
+"durchgeführt, der ausdrücklich Männer mit Frauen vergleicht. Wir haben "
+"lediglich Männer mit dem Zufall verglichen (der Binomialtest war "
+"signifikant) und Frauen mit dem Zufall verglichen (der Binomialtest war "
+"nicht signifikant). Wenn wir behaupten wollen, dass es einen echten "
+"Unterschied zwischen Männern und Frauen gibt, sollten wir die Nullhypothese "
+"testen, dass es keinen Unterschied gibt! Wir können dies mit einem anderen "
+"Hypothesentest tun,\\ [#]_ aber wenn wir dies tun, stellt sich heraus, dass "
+"wir keinen Beleg dafür haben, dass Männer und Frauen signifikant "
+"unterschiedlich sind (*p* = 0,54). Glauben Sie, dass sich die beiden Gruppen "
+"grundlegend unterscheiden? Nein, natürlich nicht. Was hier passiert ist, ist,"
+" dass die Daten von beiden Gruppen (Männer und Frauen) ziemlich grenzwertig "
+"sind. Rein zufällig ist eine der beiden Gruppen auf der magischen Seite "
+"der Linie *p* = 0,05 gelandet, die andere nicht. Das bedeutet aber nicht, "
+"dass Männer und Frauen unterschiedlich sind. Dieser Fehler kommt so "
+"häufig vor, dass Sie sich immer davor hüten sollten. Der Unterschied "
+"zwischen signifikant und nicht-signifikant ist *kein* Beleg für einen "
+"echten Unterschied. Wenn Sie sagen wollen, dass es einen Unterschied "
 "zwischen zwei Gruppen gibt, dann müssen Sie diesen Unterschied auch "
 "nachweisen!"
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:148
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:145
 msgid ""
 "The example above is just that, an example. I’ve singled it out because it’s "
 "such a common one, but the bigger picture is that data analysis can be "
@@ -3320,7 +3008,7 @@ msgstr ""
 "Antworten, die Ihr Test liefert, in der realen Welt überhaupt einen Sinn "
 "ergeben oder nicht."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:157
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:154
 msgid ""
 "Although this book describes both Neyman’s and Fisher’s definition of the "
 "*p*-value, most don’t. Most introductory textbooks will only give you the "
@@ -3330,7 +3018,7 @@ msgstr ""
 "Wertes beschrieben wird, tun die meisten einführenden Lehrbüchern das nicht. "
 "Dort finden Sie nur die Fisher-Version."
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:162
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:159
 msgid ""
 "In this case, the Pearson :doc:`χ²-test of independence <../Ch10/"
 "Ch10_ChiSquare_2>`"

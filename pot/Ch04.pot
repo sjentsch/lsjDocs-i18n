@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1781,7 +1781,7 @@ msgid ""
 "again later."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:34
+#: ../../Ch04/Ch04_Descriptives_6.rst:35
 msgid ""
 "In the next chapter we’ll move on to a discussion of how to draw pictures! "
 "Everyone loves a pretty picture, right? But before we do, I want to end on "
@@ -1793,7 +1793,7 @@ msgid ""
 "descriptives. With that in mind…"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:44
+#: ../../Ch04/Ch04_Descriptives_6.rst:45
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr ""
 
@@ -1805,7 +1805,7 @@ msgstr ""
 msgid "*The death of millions is a statistic.*"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:55
+#: ../../Ch04/Ch04_Descriptives_6.rst:56
 msgid "Josef Stalin, Potsdam 1945"
 msgstr ""
 
@@ -1813,13 +1813,13 @@ msgstr ""
 msgid "*950,000 – 1,200,000*"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:61
+#: ../../Ch04/Ch04_Descriptives_6.rst:62
 msgid ""
-"Estimate of Soviet repression deaths, 1937-1938 (`Ellman, 2002 <../Other/"
-"References.html#ellman-2002>`__\\ )"
+"Estimate of Soviet repression deaths, 1937-1938 (:ref:`Ellman, 2002 "
+"<Ellman_2002>`)"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:60
+#: ../../Ch04/Ch04_Descriptives_6.rst:61
 msgid ""
 "Stalin’s infamous quote about the statistical character of the deaths of "
 "millions is worth giving some thought. The clear intent of his statement is "
@@ -1834,7 +1834,7 @@ msgid ""
 "description."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:72
+#: ../../Ch04/Ch04_Descriptives_6.rst:73
 msgid ""
 "Yet it is not so simple. Without numbers, without counts, without a "
 "description of what happened, we have *no chance* of understanding what "
@@ -1853,7 +1853,7 @@ msgid ""
 "of the atrocity starts to come into focus."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:89
+#: ../../Ch04/Ch04_Descriptives_6.rst:90
 msgid ""
 "Thus it is no small thing to say that the first task of the statistician and "
 "the scientist is to summarise the data, to find some collection of numbers "

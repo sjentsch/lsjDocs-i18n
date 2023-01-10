@@ -7,99 +7,15 @@
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -109,43 +25,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch14.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:4
 msgid "Factorial ANOVA"
@@ -168,13 +68,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:669
-#: ../../Ch14/Ch14_ANOVA2_06.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:550
+#: ../../Ch14/Ch14_ANOVA2_06.rst:150 ../../Ch14/Ch14_ANOVA2_07.rst:550
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
 msgstr "nominal"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:666
-#: ../../Ch14/Ch14_ANOVA2_06.rst:148 ../../Ch14/Ch14_ANOVA2_11.rst:654
+#: ../../Ch14/Ch14_ANOVA2_06.rst:147 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
 msgstr "continuous"
 
@@ -490,11 +390,11 @@ msgid ""
 "the null hypothesis was µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`. So we’re "
 "actually talking about the same hypothesis, it’s just that the more "
 "complicated ANOVA requires more careful notation due to the presence of "
-"multiple grouping variables, so we’re now referring to this hypothesis as µ"
-"\\ :sub:`1.` = µ\\ :sub:`2.` = µ\\ :sub:`3.`. However, as we’ll see shortly, "
-"although the hypothesis is identical the test of that hypothesis is subtly "
-"different due to the fact that we’re now acknowledging the existence of the "
-"second grouping variable."
+"multiple grouping variables, so we’re now referring to this hypothesis as "
+"µ\\ :sub:`1.` = µ\\ :sub:`2.` = µ\\ :sub:`3.`. However, as we’ll see "
+"shortly, although the hypothesis is identical the test of that hypothesis is "
+"subtly different due to the fact that we’re now acknowledging the existence "
+"of the second grouping variable."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:191
@@ -914,8 +814,8 @@ msgstr ""
 msgid ""
 "At this point, we know the total variability of the outcome variable SS\\ :"
 "sub:`T`, and we know how much of that variability can be attributed to "
-"Factor A (SS\\ :sub:`A`) and how much of it can be attributed to Factor B (SS"
-"\\ :sub:`B`). The residual sum of squares is thus defined to be the "
+"Factor A (SS\\ :sub:`A`) and how much of it can be attributed to Factor B "
+"(SS\\ :sub:`B`). The residual sum of squares is thus defined to be the "
 "variability in *Y* that *can’t* be attributed to either of our two factors. "
 "In other words"
 msgstr ""
@@ -1538,8 +1438,8 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:247
 msgid ""
-"As it turns out, while we do have a significant main effect of ``drug``: *F*"
-"\\(2,12) = 31.7, *p* < 0.001, and ``therapy``: *F*\\(1,12) = 8.6, *p* = "
+"As it turns out, while we do have a significant main effect of ``drug``: "
+"*F*\\(2,12) = 31.7, *p* < 0.001, and ``therapy``: *F*\\(1,12) = 8.6, *p* = "
 "\\0.013), there is no significant interaction between the two: *F*\\(2,12) = "
 "2.5, *p* = 0.125)."
 msgstr ""
@@ -1709,6 +1609,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
+#, python-format
 msgid ""
 "Looking at the η² values first, we see that ``drug`` accounts for 71\\% of "
 "the variance (i.e. η² = 0.71) in ``mood.gain``, whereas ``therapy`` only "
@@ -1776,6 +1677,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
+#, python-format
 msgid ""
 "In the output we see that the estimated mean mood gain for the placebo group "
 "with no therapy was 0.300, with a 95\\% confidence interval from 0.006 to "
@@ -1927,26 +1829,26 @@ msgid ""
 "lead to the conclusion that statistics anxiety does not differ in the two "
 "groups. Would this conclusion be reasonable – probably not because the ages "
 "of the two groups do not overlap and analysis of variance has essentially "
-"“extrapolated into a region with no data” (`Everitt, 1996 <../Other/"
-"References.html#everitt-1996>`__\\ )."
+"“extrapolated into a region with no data” (:ref:`Everitt, 1996 "
+"<Everitt_1996>`)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:39
+#: ../../Ch14/Ch14_ANOVA2_06.rst:38
 msgid "Plot of Statistics anxiety against age for two distinct groups"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:43
+#: ../../Ch14/Ch14_ANOVA2_06.rst:42
 msgid ""
 "Clearly, careful thought needs to be given to an analysis of covariance with "
 "distinct groups. This applies to both one-way and factorial designs, as "
 "ANCOVA can be used with both."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:48
+#: ../../Ch14/Ch14_ANOVA2_06.rst:47
 msgid "Running ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:50
+#: ../../Ch14/Ch14_ANOVA2_06.rst:49
 msgid ""
 "A health psychologist was interested in the effect of routine cycling and "
 "stress on happiness levels, with age as a covariate. Open the |ancova|_ data "
@@ -1961,17 +1863,17 @@ msgid ""
 "options."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid "The jamovi ANCOVA options panel"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:67
+#: ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid ""
 "Options panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:73
+#: ../../Ch14/Ch14_ANOVA2_06.rst:72
 msgid ""
 "An ANCOVA table showing Tests of Between-Subjects Effects is produced in the "
 "jamovi results panel (:numref:`fig-ancova2`). The *F*-value for the "
@@ -1984,28 +1886,29 @@ msgid ""
 "effects."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid "jamovi ANCOVA output"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:88
+#: ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid ""
 "jamovi ANCOVA output for happiness as a function of stress and commuting "
 "method, with age as a covariate"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:96
 msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:97
+#: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#, python-format
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
 "for the covariate age) with 95\\% confidence intervals"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:103
+#: ../../Ch14/Ch14_ANOVA2_06.rst:102
 msgid ""
 "The *F*-value for the main effect ``stress`` (52.61) has an associated "
 "probability of *p* < 0.001. The *F*-value for the main effect ``commute`` "
@@ -2018,7 +1921,7 @@ msgid ""
 "also found (*F*\\(1,15) = \\14.15, *p* = 0.002)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:113
+#: ../../Ch14/Ch14_ANOVA2_06.rst:112
 msgid ""
 "In :numref:`fig-ancova4` we can see the adjusted, marginal, mean happiness "
 "scores when age is a covariate in an ANCOVA. In this analysis there is a "
@@ -2030,17 +1933,17 @@ msgid ""
 "people who cycle are happier, on average, than those who drive to work."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:128
+#: ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid ""
 "Plot with the Estimated Marginal means within the ANCOVA: Shown are the mean "
 "happiness level as a function of stress and commuting method"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:133
+#: ../../Ch14/Ch14_ANOVA2_06.rst:132
 msgid ""
 "One thing to be aware of is that, if you are thinking of including a "
 "covariate in your ANOVA, there is an additional assumption: the relationship "
@@ -2141,9 +2044,9 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_07.rst:59
 msgid ""
 "Okay, so far that’s simple enough. The next thing we need to do is to wrap "
-"some maths around this (sorry!). For the purposes of this example, let *Y*"
-"\\ :sub:`p` denote the ``grade`` of the *p*-th student in the class. This is "
-"not quite the same notation that we used earlier in this chapter. "
+"some maths around this (sorry!). For the purposes of this example, let "
+"*Y*\\ :sub:`p` denote the ``grade`` of the *p*-th student in the class. This "
+"is not quite the same notation that we used earlier in this chapter. "
 "Previously, we’ve used the notation *Y*\\ :sub:`rci` to refer to the i-th "
 "person in the *r*-th group for predictor 1 (the row factor) and the *c*-th "
 "group for predictor 2 (the column factor). This extended notation was really "
@@ -2298,8 +2201,8 @@ msgid ""
 "This is, of course, the exact same equation that I used earlier to describe "
 "a two-predictor regression model! The only difference is that *X*\\ :sub:`1` "
 "and *X*\\ :sub:`2` are now *binary* variables (i.e., values can only be 0 or "
-"1), whereas in a regression analysis we expect that *X*\\ :sub:`1` and *X*"
-"\\ :sub:`2` will be continuous. There’s a couple of ways I could try to "
+"1), whereas in a regression analysis we expect that *X*\\ :sub:`1` and "
+"*X*\\ :sub:`2` will be continuous. There’s a couple of ways I could try to "
 "convince you of this. One possibility would be to do a lengthy mathematical "
 "exercise proving that the two are identical. However, I’m going to go out on "
 "a limb and guess that most of the readership of this book will find that "
@@ -2442,10 +2345,11 @@ msgstr "*Ŷ*\\ :sub:`1` = *b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:220
 msgid ""
-"So if we assume that attending class helps you get a good grade (i.e., *b*"
-"\\ :sub:`1` > 0) and if we assume that reading the textbook also helps you "
-"get a good grade (i.e., *b*\\ :sub:`2` > 0), then our expectation is that "
-"student 1 will get a grade that that is higher than student 6 and student 7."
+"So if we assume that attending class helps you get a good grade (i.e., "
+"*b*\\ :sub:`1` > 0) and if we assume that reading the textbook also helps "
+"you get a good grade (i.e., *b*\\ :sub:`2` > 0), then our expectation is "
+"that student 1 will get a grade that that is higher than student 6 and "
+"student 7."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:225
@@ -2531,6 +2435,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:268
+#, python-format
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -3117,9 +3022,9 @@ msgid ""
 "multiple hypotheses, but they’re not necessarily the best choices if you’re "
 "interested in doing efficient post-hoc testing in an ANOVA context. There "
 "are actually quite a lot of different methods for performing multiple "
-"comparisons in the statistics literature (`Hsu, 1996 <../Other/References."
-"html#hsu-1996>`__\\ ), and it would be beyond the scope of an introductory "
-"text like this one to discuss all of them in any detail."
+"comparisons in the statistics literature (:ref:`Hsu, 1996 <Hsu_1996>`), and "
+"it would be beyond the scope of an introductory text like this one to "
+"discuss all of them in any detail."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:25
@@ -3161,6 +3066,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
+#, python-format
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "

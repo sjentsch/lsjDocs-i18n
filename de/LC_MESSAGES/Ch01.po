@@ -7,434 +7,71 @@
 # #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-# #-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch01.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:5
 msgid "Why do we learn statistics?"
 msgstr "Warum lernen wir Statistik?"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*“Thou shalt not answer questionnaires*"
 msgstr "*“Thou shalt not answer questionnaires*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Or quizzes upon World Affairs,*"
 msgstr "*Or quizzes upon World Affairs,*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Nor with compliance*"
 msgstr "*Nor with compliance*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*Take any test. Thou shalt not sit*"
 msgstr "*Take any test. Thou shalt not sit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*With statisticians nor commit*"
 msgstr "*With statisticians nor commit*"
 
-#: ../../Ch01/Ch01_WhyStats.rst:0
+#: ../../Ch01/Ch01_WhyStats.rst
 msgid "*A social science”*"
 msgstr "*A social science”*"
 
@@ -626,15 +263,15 @@ msgstr ""
 "beeinflussen zu lassen, selbst wenn wir das nicht sollten. Hier ist zum "
 "Beispiel ein gültiges Argument, bei dem die Schlussfolgerung glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All cigarettes are expensive (Premise 1)"
 msgstr "Alle Zigaretten sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some addictive things are inexpensive (Premise 2)"
 msgstr "Manche Dinge, die süchtig machen, sind preiswert (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
 msgstr ""
 "Daher sind einige süchtig machende Dinge keine Zigaretten (Schlussfolgerung)"
@@ -645,15 +282,15 @@ msgstr ""
 "Und hier ist ein gültiges Argument, bei dem die Schlussfolgerung nicht "
 "glaubwürdig ist:"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "All addictive things are expensive (Premise 1)"
 msgstr "Alle süchtig machenden Dinge sind teuer (Prämisse 1)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Some cigarettes are inexpensive (Premise 2)"
 msgstr "Einige Zigaretten sind billig (Prämisse 2)"
 
-#: ../../Ch01/Ch01_WhyStats_2.rst:0
+#: ../../Ch01/Ch01_WhyStats_2.rst
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
 msgstr "Daher machen einige Zigaretten nicht süchtig (Schlussfolgerung)"
 
@@ -691,6 +328,7 @@ msgstr ""
 "Schlussfolgerung:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
+#, python-format
 msgid ""
 "Now, suppose that people really are perfectly able to set aside their pre-"
 "existing biases about what is true and what isn’t, and purely evaluate an "
@@ -723,6 +361,7 @@ msgid "**argument is valid**"
 msgstr "**Das Argument ist gültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
+#, python-format
 msgid "100\\% say “valid”"
 msgstr "100 % sagen „gültig“"
 
@@ -732,6 +371,7 @@ msgid "**argument is invalid**"
 msgstr "**Das Argument ist ungültig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
+#, python-format
 msgid "0\\% say “valid”"
 msgstr "0 % sagen „gültig“"
 
@@ -754,22 +394,24 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:74
 msgid ""
-"In a classic study, `Evans et al. (1983) <../Other/References."
-"html#evans-1983>`__ ran an experiment looking at exactly this. What they "
-"found is that when pre-existing biases (i.e., beliefs) were in agreement "
-"with the structure of the data, everything went the way you’d hope:"
+"In a classic study, :ref:`Evans et al. (1983) <Evans_1983>` ran an "
+"experiment looking at exactly this. What they found is that when pre-"
+"existing biases (i.e., beliefs) were in agreement with the structure of the "
+"data, everything went the way you’d hope:"
 msgstr ""
-"In einer klassischen Studie haben `Evans et al. (1983) <../Other/References."
-"html#evans-1983>`__ ein Experiment durchgeführt, in dem genau dies "
-"untersucht wurde. Sie fanden heraus, dass alles so verlief, wie man es sich "
-"erhofft hatte, wenn die bereits bestehenden Vorurteile (d. h. die "
-"Überzeugungen) mit der Struktur der Daten übereinstimmten:"
+"In einer klassischen Studie haben :ref:`Evans et al. (1983) <Evans_1983>` ein"
+" Experiment durchgeführt, in dem genau dies untersucht wurde. Sie fanden "
+"heraus, dass alles so verlief, wie man es sich erhofft hatte, wenn die bereits"
+" bestehenden Vorurteile (d. h. die Überzeugungen) mit der Struktur der Daten "
+"übereinstimmten:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
+#, python-format
 msgid "92\\% say “valid”"
 msgstr "92 % sagen „gültig“"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
+#, python-format
 msgid "8\\% say “valid”"
 msgstr "8 % sagen „gültig“"
 
@@ -784,19 +426,22 @@ msgstr ""
 "logische Struktur des Arguments verstoßen:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
+#, python-format
 msgid "*46\\% say “valid”*"
 msgstr "*46 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
+#, python-format
 msgid "*92\\% say “valid”*"
 msgstr "*92 % sagen „gültig“*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
+#, python-format
 msgid ""
 "Oh dear, that’s not as good. Apparently, when people are presented with a "
 "strong argument that contradicts our pre-existing beliefs, we find it pretty "
-"hard to even perceive it to be a strong argument (people only did so 46\\% "
-"of the time). Even worse, when people are presented with a weak argument "
+"hard to even perceive it to be a strong argument (people only did so 46\\"
+"% of the time). Even worse, when people are presented with a weak argument "
 "that agrees with our pre-existing biases, almost no-one can see that the "
 "argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
@@ -805,10 +450,11 @@ msgstr ""
 "Argument zu erkennen (nur in 46 % der Fälle wurde es als solches erkannt). "
 "Noch schlimmer ist es, wenn Menschen ein schwaches Argument präsentiert "
 "wird, das mit unseren bestehenden Vorurteilen übereinstimmt. Hier kann fast "
-"niemand erkennen, dass das Argument schwach ist (die Menschen lagen in 92 % "
-"der Fälle falsch!).\\ [#]_"
+"niemand erkennen, dass das Argument schwach ist (die Menschen lagen in 92 "
+"% der Fälle falsch!).\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
+#, python-format
 msgid ""
 "If you think about it, it’s not as if these data are horribly damning. "
 "Overall, people did do better than chance at compensating for their prior "
@@ -839,6 +485,7 @@ msgstr ""
 "Statistik: Sie hilft uns, ehrlich zu bleiben."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
+#, python-format
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95\\% of "
 "what I read on the internet."
@@ -895,6 +542,7 @@ msgid "35\\%"
 msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
+#, python-format
 msgid ""
 "Given this, they were worried about being sued!\\ [#]_ Given that there were "
 "nearly 13,000 applicants, a difference of 9\\% in admission rates between "
@@ -914,22 +562,21 @@ msgstr ""
 #: ../../Ch01/Ch01_WhyStats_3.rst:29
 msgid ""
 "Oddly, it’s actually sort of true. When people started looking more "
-"carefully at the they told a rather different story (`Bickel et al., 1975 "
-"<../Other/References.html#bickel-1975>`__\\ ). Specifically, when they "
-"looked at it on a department by department basis, it turned out that most of "
-"the departments actually had a slightly *higher* success rate for female "
-"applicants than for male applicants. The table below shows the admission "
-"figures for the six largest departments (with the names of the departments "
-"removed for privacy reasons):"
+"carefully at the they told a rather different story (:ref:`Bickel et al., "
+"1975 <Bickel_1975>`). Specifically, when they looked at it on a department "
+"by department basis, it turned out that most of the departments actually had "
+"a slightly *higher* success rate for female applicants than for male "
+"applicants. The table below shows the admission figures for the six largest "
+"departments (with the names of the departments removed for privacy reasons):"
 msgstr ""
 "Merkwürdigerweise ist das aber wahr. Als man anfing, die Daten genauer zu "
-"untersuchen, kam man zu einem ganz anderen Ergebnis (`Bickel et al., 1975 "
-"<../Other/References.html#bickel-1975>`__). Bei einer Betrachtung der "
-"einzelnen Fachbereiche stellte sich heraus, dass die meisten Fachbereiche "
-"tatsächlich eine etwas *höhere* Erfolgsquote bei weiblichen Bewerbern als "
-"bei männlichen Bewerbern hatten. Die nachstehende Tabelle zeigt die "
-"Zulassungszahlen für die sechs größten Fachbereiche (die Namen der "
-"Fachbereiche wurden aus Gründen des Datenschutzes entfernt):"
+"untersuchen, kam man zu einem ganz anderen Ergebnis (:ref:`Bickel et al., "
+"1975 <Bickel_1975>`). Bei einer Betrachtung der einzelnen Fachbereiche "
+"stellte sich heraus, dass die meisten Fachbereiche tatsächlich eine etwas "
+"*höhere* Erfolgsquote bei weiblichen Bewerbern als bei männlichen Bewerbern "
+"hatten. Die nachstehende Tabelle zeigt die Zulassungszahlen für die sechs "
+"größten Fachbereiche (die Namen der Fachbereiche wurden aus Gründen des "
+"Datenschutzes entfernt):"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Males"
@@ -1144,17 +791,17 @@ msgid ""
 "The Berkeley 1973 college admissions data. This figure plots the admission "
 "rate for the 85 departments that had at least one female applicant, as a "
 "function of the percentage of applicants that were female. The plot is a "
-"redrawing of Figure 1 from `Bickel et al. (1975) <../Other/References."
-"html#bickel-1975>`__. Circles plot departments with more than 40 applicants; "
-"the area of the circle is proportional to the total number of applicants. "
-"The crosses plot departments with fewer than 40 applicants."
+"redrawing of Figure 1 from :ref:`Bickel et al. (1975) <Bickel_1975>`. "
+"Circles plot departments with more than 40 applicants; the area of the "
+"circle is proportional to the total number of applicants. The crosses plot "
+"departments with fewer than 40 applicants."
 msgstr ""
 "Die Berkeley-Zulassungsdaten von 1973. Die Abbildung zeigt die "
 "Zulassungsrate für die 85 Fachbereiche, die mindestens eine weibliche "
-"Bewerberin hatten, als Funktion des Prozentsatzes der weiblichen Bewerber. "
-"Die Darstellung ist eine Replikation von Abbildung 1 aus `Bickel et al. "
-"(1975) <../Other/References.html#bickel-1975>`__. Kreise zeigen Abteilungen "
-"mit mehr als 40 Bewerbern, wobei die Fläche des Kreises proportional zur "
+"Bewerberin hatten, als Funktion des Prozentsatzes der weiblichen "
+"Bewerber. Die Darstellung ist eine Replikation von Abbildung 1 aus "
+":ref:`Bickel et al. (1975) <Bickel_1975>`. Kreise zeigen Abteilungen mit "
+"mehr als 40 Bewerbern, wobei die Fläche des Kreises proportional zur "
 "Gesamtzahl der Bewerber ist. Kreuze zeigen Abteilungen mit weniger als 40 "
 "Bewerbern."
 
@@ -1484,11 +1131,11 @@ msgstr ""
 msgid "Statistics in everyday life"
 msgstr "Statistik im Alltag"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0
+#: ../../Ch01/Ch01_WhyStats_5.rst
 msgid "*“We are drowning in information,*"
 msgstr "„*Wir ertrinken in Informationen,*"
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:0
+#: ../../Ch01/Ch01_WhyStats_5.rst
 msgid "* but we are starved for knowledge”*"
 msgstr "*aber wir hungern nach Wissen.“*"
 
@@ -1499,6 +1146,7 @@ msgstr ""
 "Naisbitt"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:12
+#, python-format
 msgid ""
 "When I started writing up my lecture notes I took the 20 most recent news "
 "articles posted to the ABC news website. Of those 20 articles, it turned out "
@@ -1539,6 +1187,7 @@ msgid "There’s more to research methods than statistics"
 msgstr "Forschungsmethoden sind mehr als nur Statistik"
 
 #: ../../Ch01/Ch01_WhyStats_5.rst:31
+#, python-format
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "

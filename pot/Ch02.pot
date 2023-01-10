@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,10 +45,9 @@ msgid ""
 "problem of research methodology, and much less on the statistical problem of "
 "data analysis. Nevertheless, the two problems are related to one another, so "
 "it’s traditional for stats textbooks to discuss the problem in a little "
-"detail. This chapter relies heavily on `Campbell and Stanley (1963) <../"
-"Other/References.html#campbell-1963>`__ for the discussion of study design, "
-"and `Stevens (1946) <../Other/References.html#stevens-1946>`__ for the "
-"discussion of scales of measurement."
+"detail. This chapter relies heavily on :ref:`Campbell and Stanley (1963) "
+"<Campbell_1963>` for the discussion of study design, and :ref:`Stevens "
+"(1946) <Stevens_1946>` for the discussion of scales of measurement."
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign.rst:46
@@ -1721,15 +1720,14 @@ msgid ""
 "be worse regardless of whether reinforcement is given. Similarly, after a "
 "bad trial, people will tend to improve all on their own. The apparent "
 "superiority of negative feedback is an artefact caused by regression to the "
-"mean (see `Kahneman & Tversky, 1973 <../Other/References."
-"html#kahneman-1973>`__ for a discussion)."
+"mean (see :ref:`Kahneman & Tversky, 1973 <Kahneman_1973>` for a discussion)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:511
+#: ../../Ch02/Ch02_StudyDesign_5.rst:510
 msgid "Experimenter bias"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:513
+#: ../../Ch02/Ch02_StudyDesign_5.rst:512
 msgid ""
 "**Experimenter bias** can come in multiple forms. The basic idea is that the "
 "experimenter, despite the best of intentions, can accidentally end up "
@@ -1739,18 +1737,17 @@ msgid ""
 "does not, for example the right answer to the questions being asked or "
 "knowledge of the expected pattern of performance for the condition that the "
 "participant is in. The classic example of this happening is the case study "
-"of “Clever Hans”, which dates back to 1907 (`Pfungst, 1911 <../Other/"
-"References.html#pfungst-1911>`__; `Hothersall, 2004 <../Other/References."
-"html#hothersall-2004>`__\\ ). Clever Hans was a horse that apparently was "
-"able to read and count and perform other human like feats of intelligence. "
-"After Clever Hans became famous, psychologists started examining his "
-"behaviour more closely. It turned out that, not surprisingly, Hans didn’t "
-"know how to do maths. Rather, Hans was responding to the human observers "
-"around him, because the humans did know how to count and the horse had "
-"learned to change its behaviour when people changed theirs."
+"of “Clever Hans”, which dates back to 1907 (:ref:`Pfungst, 1911 "
+"<Pfungst_1911>`; :ref:`Hothersall, 2004 <Hothersall_2004>`). Clever Hans was "
+"a horse that apparently was able to read and count and perform other human "
+"like feats of intelligence. After Clever Hans became famous, psychologists "
+"started examining his behaviour more closely. It turned out that, not "
+"surprisingly, Hans didn’t know how to do maths. Rather, Hans was responding "
+"to the human observers around him, because the humans did know how to count "
+"and the horse had learned to change its behaviour when people changed theirs."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:532
+#: ../../Ch02/Ch02_StudyDesign_5.rst:530
 msgid ""
 "The general solution to the problem of experimenter bias is to engage in "
 "double blind studies, where neither the experimenter nor the participant "
@@ -1779,31 +1776,30 @@ msgid ""
 "expectations become a self-fulfilling prophesy."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:560
+#: ../../Ch02/Ch02_StudyDesign_5.rst:558
 msgid "Demand effects and reactivity"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:562
+#: ../../Ch02/Ch02_StudyDesign_5.rst:560
 msgid ""
 "When talking about experimenter bias, the worry is that the experimenter’s "
 "knowledge or desires for the experiment are communicated to the "
-"participants, and that these can change people’s behaviour (`Rosenthal, 1966 "
-"<../Other/References.html#rosenthal-1966>`__\\ ). However, even if you "
-"manage to stop this from happening, it’s almost impossible to stop people "
-"from knowing that they’re part of a psychological study. And the mere fact "
-"of knowing that someone is watching or studying you can have a pretty big "
-"effect on behaviour. This is generally referred to as **reactivity** or "
-"**demand effects**. The basic idea is captured by the Hawthorne effect: "
-"people alter their performance because of the attention that the study "
-"focuses on them. The effect takes its name from a study that took place in "
-"the “Hawthorne Works” factory outside of Chicago (see `Adair, 1984 <../Other/"
-"References.html#adair-1984>`__\\ ). This study, from the 1920s, looked at "
-"the effects of factory lighting on worker productivity. But, importantly, "
-"change in worker behaviour occurred because the workers *knew* they were "
-"being studied, rather than any effect of factory lighting."
+"participants, and that these can change people’s behaviour (:ref:`Rosenthal, "
+"1966 <Rosenthal_1966>`). However, even if you manage to stop this from "
+"happening, it’s almost impossible to stop people from knowing that they’re "
+"part of a psychological study. And the mere fact of knowing that someone is "
+"watching or studying you can have a pretty big effect on behaviour. This is "
+"generally referred to as **reactivity** or **demand effects**. The basic "
+"idea is captured by the Hawthorne effect: people alter their performance "
+"because of the attention that the study focuses on them. The effect takes "
+"its name from a study that took place in the “Hawthorne Works” factory "
+"outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This study, from "
+"the 1920s, looked at the effects of factory lighting on worker productivity. "
+"But, importantly, change in worker behaviour occurred because the workers "
+"*knew* they were being studied, rather than any effect of factory lighting."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:580
+#: ../../Ch02/Ch02_StudyDesign_5.rst:576
 msgid ""
 "To get a bit more specific about some of the ways in which the mere fact of "
 "being in a study can change how people behave, it helps to think like a "
@@ -1812,37 +1808,37 @@ msgid ""
 "events were occurring in the real world:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:586
+#: ../../Ch02/Ch02_StudyDesign_5.rst:582
 msgid ""
 "The *good participant* tries to be too helpful to the researcher. He or she "
 "seeks to figure out the experimenter’s hypotheses and confirm them."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:590
+#: ../../Ch02/Ch02_StudyDesign_5.rst:586
 msgid ""
 "The *negative participant* does the exact opposite of the good participant. "
 "He or she seeks to break or destroy the study or the hypothesis in some way."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:594
+#: ../../Ch02/Ch02_StudyDesign_5.rst:590
 msgid ""
 "The *faithful participant* is unnaturally obedient. He or she seeks to "
 "follow instructions perfectly, regardless of what might have happened in a "
 "more realistic setting."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:598
+#: ../../Ch02/Ch02_StudyDesign_5.rst:594
 msgid ""
 "The *apprehensive participant* gets nervous about being tested or studied, "
 "so much so that his or her behaviour becomes highly unnatural, or overly "
 "socially desirable."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:603
+#: ../../Ch02/Ch02_StudyDesign_5.rst:599
 msgid "Placebo effects"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:605
+#: ../../Ch02/Ch02_StudyDesign_5.rst:601
 msgid ""
 "The **placebo effect** is a specific type of demand effect that we worry a "
 "lot about. It refers to the situation where the mere fact of being treated "
@@ -1853,7 +1849,7 @@ msgid ""
 "they are being treated that causes the improved outcomes, not the drug."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:614
+#: ../../Ch02/Ch02_StudyDesign_5.rst:610
 msgid ""
 "However, the current consensus in medicine is that true placebo effects are "
 "quite rare and most of what was previously considered placebo effect is in "
@@ -1861,15 +1857,14 @@ msgid ""
 "their own), regression to the mean and other quirks of study design. Of "
 "interest to psychology is that the strongest evidence for at least some "
 "placebo effect is in self-reported outcomes, most notably in treatment of "
-"pain (`Hróbjartsson & Gøtzsche, 2010 <../Other/References."
-"html#hrobjartsson-2010>`__\\ )."
+"pain (:ref:`Hróbjartsson & Gøtzsche, 2010 <Hrobjartsson_2010>`)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:624
+#: ../../Ch02/Ch02_StudyDesign_5.rst:619
 msgid "Situation, measurement and sub-population effects"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:626
+#: ../../Ch02/Ch02_StudyDesign_5.rst:621
 msgid ""
 "In some respects, these terms are a catch-all term for “all other threats to "
 "external validity”. They refer to the fact that the choice of sub-population "
@@ -1881,7 +1876,7 @@ msgid ""
 "people, places and measures."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:636
+#: ../../Ch02/Ch02_StudyDesign_5.rst:631
 msgid "Fraud, deception and self-deception"
 msgstr ""
 
@@ -1893,11 +1888,11 @@ msgstr ""
 msgid "*when his salary depends on his not understanding it.*"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:647
+#: ../../Ch02/Ch02_StudyDesign_5.rst:642
 msgid "Upton Sinclair"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:645
+#: ../../Ch02/Ch02_StudyDesign_5.rst:640
 msgid ""
 "There’s one final thing I feel I should mention. While reading what the "
 "textbooks often have to say about assessing the validity of a study I "
@@ -1915,7 +1910,7 @@ msgid ""
 "which these issues can arise:"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:661
+#: ../../Ch02/Ch02_StudyDesign_5.rst:656
 msgid ""
 "**Data fabrication**. Sometimes, people just make up the data. This is "
 "occasionally done with “good” intentions. For instance, the researcher "
@@ -1928,7 +1923,7 @@ msgid ""
 "and Hwang Woo-suk (who falsified a lot of his data on stem cell research)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:673
+#: ../../Ch02/Ch02_StudyDesign_5.rst:668
 msgid ""
 "**Hoaxes**. Hoaxes share a lot of similarities with data fabrication, but "
 "they differ in the intended purpose. A hoax is often a joke, and many of "
@@ -1939,7 +1934,7 @@ msgid ""
 "g., the Sokal affair)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:681
+#: ../../Ch02/Ch02_StudyDesign_5.rst:676
 msgid ""
 "**Data misrepresentation**. While fraud gets most of the headlines, it’s "
 "much more common in my experience to see data being misrepresented. When I "
@@ -1958,7 +1953,7 @@ msgid ""
 "many of which are very hard to detect."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:699
+#: ../../Ch02/Ch02_StudyDesign_5.rst:694
 msgid ""
 "**Study “misdesign”**. Okay, this one is subtle. Basically, the issue here "
 "is that a researcher designs a study that has built-in flaws and those flaws "
@@ -1983,33 +1978,32 @@ msgid ""
 "itself when the study is written up for publication."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:723
+#: ../../Ch02/Ch02_StudyDesign_5.rst:718
 msgid ""
 "**Data mining & post-hoc hypothesising**. Another way in which the authors "
 "of a study can more or less misrepresent the data is by engaging in what’s "
-"referred to as “data mining” (see `Gelman & Loken, 2014 <../Other/References."
-"html#gelman-2014>`__, for a broader discussion of this as part of the "
-"“garden of forking paths” in statistical analysis). As we’ll discuss later, "
-"if you keep trying to analyse your data in lots of different ways, you’ll "
-"eventually find something that “looks” like a real effect but isn’t. This is "
-"referred to as “data mining”. It used to be quite rare because data analysis "
-"used to take weeks, but now that everyone has very powerful statistical "
-"software on their computers it’s becoming very common. Data mining per se "
-"isn’t “wrong”, but the more that you do it the bigger the risk you’re "
-"taking. The thing that is wrong, and I suspect is very common, is "
-"*unacknowledged* data mining. That is, the researcher runs every possible "
-"analysis known to humanity, finds the one that works, and then pretends that "
-"this was the only analysis that they ever conducted. Worse yet, they often "
-"“invent” a hypothesis after looking at the data to cover up the data mining. "
-"To be clear. It’s not wrong to change your beliefs after looking at the "
-"data, and to reanalyse your data using your new “post-hoc” hypotheses. What "
-"is wrong (and I suspect common) is failing to acknowledge that you’ve done. "
-"If you acknowledge that you did it then other researchers are able to take "
-"your behaviour into account. If you don’t, then they can’t. And that makes "
-"your behaviour deceptive. Bad!"
+"referred to as “data mining” (see :ref:`Gelman & Loken, 2014 <Gelman_2014>`, "
+"for a broader discussion of this as part of the “garden of forking paths” in "
+"statistical analysis). As we’ll discuss later, if you keep trying to analyse "
+"your data in lots of different ways, you’ll eventually find something that "
+"“looks” like a real effect but isn’t. This is referred to as “data mining”. "
+"It used to be quite rare because data analysis used to take weeks, but now "
+"that everyone has very powerful statistical software on their computers it’s "
+"becoming very common. Data mining per se isn’t “wrong”, but the more that "
+"you do it the bigger the risk you’re taking. The thing that is wrong, and I "
+"suspect is very common, is *unacknowledged* data mining. That is, the "
+"researcher runs every possible analysis known to humanity, finds the one "
+"that works, and then pretends that this was the only analysis that they ever "
+"conducted. Worse yet, they often “invent” a hypothesis after looking at the "
+"data to cover up the data mining. To be clear. It’s not wrong to change your "
+"beliefs after looking at the data, and to reanalyse your data using your new "
+"“post-hoc” hypotheses. What is wrong (and I suspect common) is failing to "
+"acknowledge that you’ve done. If you acknowledge that you did it then other "
+"researchers are able to take your behaviour into account. If you don’t, then "
+"they can’t. And that makes your behaviour deceptive. Bad!"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:748
+#: ../../Ch02/Ch02_StudyDesign_5.rst:742
 msgid ""
 "**Publication bias & self-censoring**. Finally, a pervasive bias is “non-"
 "reporting” of negative results. This is almost impossible to prevent. "
@@ -2029,15 +2023,14 @@ msgid ""
 "studies are failures for boring reasons (e.g. you stuffed something up) "
 "others might be genuine “null” results that you ought to acknowledge when "
 "you write up the “good” experiment. And telling which is which is often hard "
-"to do. A good place to start is a paper by `Ioannidis (2005) <../Other/"
-"References.html#ioannidis-2005>`__ with the depressing title “Why most "
-"published research findings are false”. I’d also suggest taking a look at "
-"work by `Kühberger et al. (2014) <../Other/References."
-"html#kuhberger-2014>`__ presenting statistical evidence that this actually "
-"happens in psychology."
+"to do. A good place to start is a paper by :ref:`Ioannidis (2005) "
+"<Ioannidis_2005>` with the depressing title “Why most published research "
+"findings are false”. I’d also suggest taking a look at work by :ref:"
+"`Kühberger et al. (2014) <Kühberger_2014>` presenting statistical evidence "
+"that this actually happens in psychology."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:774
+#: ../../Ch02/Ch02_StudyDesign_5.rst:767
 msgid ""
 "There’s probably a lot more issues like this to think about, but that’ll do "
 "to start with. What I really want to point out is the blindingly obvious "
@@ -2048,7 +2041,7 @@ msgid ""
 "write seem to reinforce that stereotype."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:785
+#: ../../Ch02/Ch02_StudyDesign_5.rst:778
 msgid ""
 "The reason why I say that it’s unmeasured is that if you *have* measured it, "
 "then you can use some fancy statistical tricks to deal with the confounder. "
@@ -2059,7 +2052,7 @@ msgid ""
 "least know that this stuff exists."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:795
+#: ../../Ch02/Ch02_StudyDesign_5.rst:788
 msgid ""
 "Some people might argue that if you’re not honest then you’re not a real "
 "scientist. Which does have some truth to it I guess, but that’s disingenuous "
@@ -2070,7 +2063,7 @@ msgid ""
 "thinking."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_5.rst:804
+#: ../../Ch02/Ch02_StudyDesign_5.rst:797
 msgid ""
 "Clearly, the real effect is that only insane people would even try to read "
 "*Finnegans Wake*."
@@ -2097,7 +2090,7 @@ msgid ""
 "construct? What does it mean to have variables and take measurements?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:17
+#: ../../Ch02/Ch02_StudyDesign_6.rst:18
 msgid ""
 ":doc:`Scales of measurement and types of variables <../Ch02/"
 "Ch02_StudyDesign_2>`: Remember that there are *two* different distinctions "
@@ -2106,7 +2099,7 @@ msgid ""
 "ordinal, interval and ratio)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:23
+#: ../../Ch02/Ch02_StudyDesign_6.rst:24
 msgid ""
 ":doc:`Reliability of a measurement <../Ch02/Ch02_StudyDesign_3>`: If I "
 "measure the “same” thing twice, should I expect to see the same result? Only "
@@ -2115,14 +2108,14 @@ msgid ""
 "sure you remember what they are."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:29
+#: ../../Ch02/Ch02_StudyDesign_6.rst:30
 msgid ""
 ":doc:`Terminology: predictors and outcomes <../Ch02/Ch02_StudyDesign_3>`: "
 "What roles do variables play in an analysis? Can you remember the difference "
 "between predictors and outcomes? Dependent and independent variables? etc."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:33
+#: ../../Ch02/Ch02_StudyDesign_6.rst:34
 msgid ""
 ":doc:`Experimental and non-experimental research designs <../Ch02/"
 "Ch02_StudyDesign_4>`: What makes an experiment an experiment? Is it a nice "
@@ -2130,7 +2123,7 @@ msgid ""
 "variables?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:38
+#: ../../Ch02/Ch02_StudyDesign_6.rst:39
 msgid ""
 ":doc:`Validity and its threats <../Ch02/Ch02_StudyDesign_5>`: Does your "
 "study measure what you want it to? How might things go wrong? And is it my "
@@ -2138,12 +2131,11 @@ msgid ""
 "can go wrong?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:43
+#: ../../Ch02/Ch02_StudyDesign_6.rst:44
 msgid ""
 "All this should make clear to you that study design is a critical part of "
-"research methodology. I built this chapter from the classic little book by "
-"`Campbell and Stanley (1963) <../Other/References.html#campbell-1963>`__, "
-"but there are of course a large number of textbooks out there on research "
-"design. Spend a few minutes with your favourite search engine and you’ll "
-"find dozens."
+"research methodology. I built this chapter from the classic little book by :"
+"ref:`Campbell and Stanley (1963) <Campbell_1963>`, but there are of course a "
+"large number of textbooks out there on research design. Spend a few minutes "
+"with your favourite search engine and you’ll find dozens."
 msgstr ""

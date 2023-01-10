@@ -7,99 +7,15 @@
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -110,43 +26,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
 msgid "Factor Analysis"
@@ -649,13 +549,13 @@ msgid ""
 "in jamovi:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:605
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:604
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:611
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:610
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:322
 msgid "ordinal"
 msgstr "ordinal"
@@ -747,17 +647,17 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:316
 msgid ""
-"The third approach is a good one according to `Fabrigar et al. (1999) <../"
-"Other/References.html#fabrigar-1999>`__, although in practice researchers "
-"tend to look at all three and then make a judgement about the number of "
-"factors that are most easily or helpfully interpreted. This can be "
-"understood as the “meaningfulness criterion”, and researchers will typically "
-"examine, in addition to the solution from one of the approaches above, "
-"solutions with one or two more or fewer factors. They then adopt the "
-"solution which makes the most sense to them."
+"The third approach is a good one according to :ref:`Fabrigar et al. (1999) "
+"<Fabrigar_1999>`, although in practice researchers tend to look at all three "
+"and then make a judgement about the number of factors that are most easily "
+"or helpfully interpreted. This can be understood as the “meaningfulness "
+"criterion”, and researchers will typically examine, in addition to the "
+"solution from one of the approaches above, solutions with one or two more or "
+"fewer factors. They then adopt the solution which makes the most sense to "
+"them."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:325
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:324
 msgid ""
 "At the same time, we should also consider the best way to rotate the final "
 "solution. There are two main approaches to rotation: orthogonal (e.g. "
@@ -768,7 +668,7 @@ msgid ""
 "oblique solutions are arguably more sensible.\\ [#]_"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:333
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:332
 msgid ""
 "Practically, if in an oblique rotation the factors are found to be "
 "substantially correlated (positive or negative, and > 0.3), as in :numref:"
@@ -782,17 +682,18 @@ msgid ""
 "then give about the same solution as the oblique rotation)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:350
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:349
 msgid "Factor summary statistics and correlations"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:350
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:349
 msgid ""
 "Factor summary statistics and correlations for a five factor solution in the "
 "EFA conducted in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:355
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:354
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -805,7 +706,7 @@ msgid ""
 "of the variance in our data."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:365
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:364
 msgid ""
 "Be aware that in every EFA you could potentially have the same number of "
 "factors as observed variables, but every additional factor you include will "
@@ -817,7 +718,7 @@ msgid ""
 "those 25 variables, you might as well just use the original 25."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:374
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:373
 msgid ""
 ":numref:`fig-efa6` shows the factor loadings. That is, how the 25 different "
 "personality items load onto each of the five selected factors. We have "
@@ -825,16 +726,16 @@ msgid ""
 "efa2`)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:384
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:383
 msgid "Factor loadings for a five factor solution"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:384
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:383
 msgid ""
 "Factor loadings for a five factor solution in the EFA conducted in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:388
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:387
 msgid ""
 "For factors 1, 2, 3 and 4 the pattern of factor loadings closely matches the "
 "putative factors specified in :numref:`tab-bfi`. Phew! And factor 5 is "
@@ -845,7 +746,7 @@ msgid ""
 "loading) but not substantively onto factor \\5."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:396
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:395
 msgid ""
 "The other thing to note is that those variables that were denoted as “R: "
 "reverse coding” in :numref:`tab-bfi` are those that have negative factor "
@@ -858,7 +759,8 @@ msgid ""
 "in :numref:`fig-efa6`."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:406
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:405
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -869,7 +771,7 @@ msgid ""
 "relevance or contribution of the variable in the factor model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:414
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:413
 msgid ""
 "To be honest, it’s unusual to get such a neat solution in EFA. It’s "
 "typically quite a bit more messy than this, and often interpreting the "
@@ -880,7 +782,7 @@ msgid ""
 "are going to go where!"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:422
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:421
 msgid ""
 "So, we seem to have a pretty good five factor solution, albeit accounting "
 "for a relatively low overall proportion of the observed variance. Let’s "
@@ -895,40 +797,40 @@ msgid ""
 "each of the included variables. We can do this in jamovi in two steps:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:434
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:433
 msgid ""
 "Recode ``A1`` into ``A1R`` by reverse scoring the values in the variable (i."
 "e. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) using the jamovi transform "
 "variable command (see :numref:`fig-efa7`)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:438
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:437
 msgid ""
 "Compute a new variable, called ``Agreeableness``, by calculating the mean of "
 "``A1R``, ``A2``, ``A3``, ``A4`` and ``A5``. Do this using the jamovi "
 "``Compute`` command to create a new variable (see :numref:`fig-efa8`)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:448
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:447
 msgid "Recode variable using the Transform command in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:456
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:455
 msgid "Compute new scale score variable in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:456
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:455
 msgid "Compute new scale score variable using a Computed variable in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:460
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:459
 msgid ""
 "Another option is to create an optimally-weighted factor score index. We can "
 "use the jamovi |Rj|_ editor to do this in ``R``.\\ [#]_ Again, there are two "
 "steps:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:464
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:463
 msgid ""
 "Use the |Rj|_ editor to run the EFA in ``R`` to the same specification as "
 "the one in jamovi (i.e., five factors and Oblimin rotation) and compute "
@@ -936,7 +838,7 @@ msgid ""
 "scores, to a file (see :numref:`fig-efa9`)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:469
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:468
 msgid ""
 "Open up the new file in jamovi (see :numref:`fig-efa10`) and check that "
 "variable types have been set correctly. Label the new factor score variables "
@@ -945,21 +847,21 @@ msgid ""
 "you check)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:481
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:481
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
 msgid ""
 "|Rj|_ editor commands for creating optimally weighted factor scores for the "
 "five factor solution"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:490
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
 msgid "Newly created data file with new factor score variables"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:490
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
 msgid ""
 "Newly created data file ``bfifactscores.csv`` created in the |Rj|_ editor, "
 "and containing the five factor score variables. Note that each of the new "
@@ -967,7 +869,7 @@ msgid ""
 "factors are listed in the factor loadings table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:497
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:496
 msgid ""
 "Now you can go ahead and undertake further analyses, using either the "
 "factor- based scores (a mean scale score approach) or using the optimally-"
@@ -980,21 +882,21 @@ msgid ""
 "(Mann-Whitney *U* = 5760.5, *p* = 0.073)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
 msgid "Gender differences in Agreeableness factor-based scores"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:512
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
 msgid ""
 "Comparing differences in Agreeableness factor-based scores between males and "
 "females"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:518
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:517
 msgid "Writing up an EFA"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:520
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
 msgid ""
 "Hopefully, so far we have given you some sense of EFA and how to undertake "
 "EFA in jamovi. So, once you have completed your EFA, how do you write it up? "
@@ -1003,57 +905,57 @@ msgid ""
 "pieces of information to include in your write-up:"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:526
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:525
 msgid ""
 "What are the theoretical underpinnings for the area you are studying, and "
 "specifically for the constructs that you are interested in uncovering "
 "through EFA."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:530
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:529
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:533
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:532
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
 msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:608
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:607
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:536
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:535
 msgid ""
 "Describe how you went about testing the assumptions for EFA. Details "
 "regarding sphericity checks and measures of sampling adequacy should be "
 "reported."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:540
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:539
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:542
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
 msgid ""
 "Explain the criteria and process used for deciding how many factors were "
 "extracted in the final solution, and which items were selected. Clearly "
 "explain the rationale for key decisions during the EFA process."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:546
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:545
 msgid ""
 "Explain what rotation methods were attempted, the reasons why, and the "
 "results."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:549
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:548
 msgid ""
 "Final factor loadings should be reported in the results, in a table. This "
 "table should also report the uniqueness (or communality) for each variable "
@@ -1062,27 +964,27 @@ msgid ""
 "also be included, either at the bottom of this table, in a separate table."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:555
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:554
 msgid ""
 "Meaningful names for the extracted factors should be provided. You may like "
 "to use previously selected factor names, but on examining the actual items "
 "and factors you may think a different name is more appropriate."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:562
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:561
 msgid ""
 "Quite helpfully, factor loadings can be interpreted like standardized "
 "regression coefficients"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:566
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:565
 msgid ""
 "An Eigen value indicates how much of the variance in the observed variables "
 "a factor accounts for. A factor with an Eigen value > 1 accounts for more "
 "variance than a single observed variable"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:571
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:570
 msgid ""
 "Oblique rotations provide two factor matrices, one called a structure matrix "
 "and one called a pattern matrix. In jamovi just the pattern matrix is shown "
@@ -1097,18 +999,18 @@ msgid ""
 "are the same."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:585
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:584
 msgid ""
 "Sometimes reported in factor analysis is “communality” which is the amount "
 "of variance in a variable that is accounted for by the factor solution. "
 "Uniqueness is equal to (1 - *communality*)"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:590
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:589
 msgid "Remembering to first reverse score some variables if necessary."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:593
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:592
 msgid ""
 "In the latest versions of jamovi you can now save factor scores directly "
 "from within jamovi - it's an option. But this explanation is helpful as it's "
@@ -1145,8 +1047,7 @@ msgid ""
 "information. However, if identification of underlying structure is a goal of "
 "the analysis, then EFA is to be preferred. And, as we saw, EFA produces "
 "factor scores that can be used for data reduction purposes just like "
-"principal component scores (`Fabrigar et al., 1999 <../Other/References."
-"html#fabrigar-1999>`__\\ )."
+"principal component scores (:ref:`Fabrigar et al., 1999 <Fabrigar_1999>`)."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:26
@@ -1246,17 +1147,17 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:103
 msgid ""
-"The third approach is a good one according to `Fabrigar et al. (1999) <../"
-"Other/References.html#fabrigar-1999>`__, although in practice researchers "
-"tend to look at all three and then make a judgement about the number of "
-"components that are most easily or helpfully interpreted. This can be "
-"understood as the “meaningfulness criterion”, and researchers will typically "
-"examine, in addition to the solution from one of the approaches above, "
-"solutions with one or two more or fewer components. They then adopt the "
-"solution which makes the most sense to them."
+"The third approach is a good one according to :ref:`Fabrigar et al. (1999) "
+"<Fabrigar_1999>`, although in practice researchers tend to look at all three "
+"and then make a judgement about the number of components that are most "
+"easily or helpfully interpreted. This can be understood as the "
+"“meaningfulness criterion”, and researchers will typically examine, in "
+"addition to the solution from one of the approaches above, solutions with "
+"one or two more or fewer components. They then adopt the solution which "
+"makes the most sense to them."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:112
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:111
 msgid ""
 "At the same time, we should also consider the best way to rotate the final "
 "solution. Again, as with EFA, there are two main approaches to rotation: "
@@ -1278,17 +1179,18 @@ msgid ""
 "(``Varimax``) rotation."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:136
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid "Component summary statistics and correlations"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:136
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid ""
 "Component summary statistics and correlations for a five component solution "
 "when conducting a PCA with the personality item data in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:141
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:140
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
@@ -1305,7 +1207,7 @@ msgid ""
 "original 25."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:154
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:153
 msgid ""
 ":numref:`fig-pca5` shows the component loadings. That’s is, how the 25 "
 "different personality items load onto each of the selected components. We "
@@ -1315,17 +1217,17 @@ msgid ""
 "solution."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:166
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid "Component loadings for a five component solution"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:166
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid ""
 "Component loadings for a five component solution when conducting a PCA with "
 "the personality item data in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:171
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:170
 msgid ""
 "For components 1, 2, 3 and 4 the pattern of component loadings closely "
 "matches the putative factors specified in :numref:`tab-bfi`. And component 5 "
@@ -1336,7 +1238,8 @@ msgid ""
 "loading) but not substantively onto component 5."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:179
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:178
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1347,14 +1250,14 @@ msgid ""
 "lower the relevance or contribution of the variable in the component model."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:187
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:186
 msgid ""
 "Hopefully, this has given you a good first idea about how to undertake PCA "
 "in jamovi, and how it is conceptually different but practically fairly "
 "similar (given the right data) to EFA."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:191
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:190
 msgid ""
 "You can go on to create and save component scores in much the same way as in "
 "EFA. However, if you take the option to create an optimally-weighted "
@@ -1362,18 +1265,18 @@ msgid ""
 "editor are a little different. See :numref:`fig-pca6`."
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:202
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid "|Rj| editor commands for creating optimally weighted component scores"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:202
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid ""
 "|Rj|_ editor commands for creating optimally weighted component scores for "
 "the five component solution  when conducting a PCA with the personality item "
 "data in jamovi"
 msgstr ""
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:211
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:210
 msgid ""
 "…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
@@ -1565,6 +1468,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
@@ -1576,13 +1480,14 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
 "indicates a poor fit. The CFI is 0.762 and the TLI is 0.731, indicating poor "
-"fit between the model and the data. The RMSEA is 0.085 with a 90\\% "
-"confidence interval from 0.077 to 0.092, again this does not indicate a good "
-"fit."
+"fit between the model and the data. The RMSEA is 0.085 with a 90\\"
+"% confidence interval from 0.077 to 0.092, again this does not indicate a "
+"good fit."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:154
@@ -1808,34 +1713,35 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
-"**Cronbach’s α** (alpha; `Cronbach, 1951 <../Other/References."
-"html#cronbach-1951>`__\\ ). Cronbach’s α is a measure of equivalence "
-"(whether different sets of scale items would give the same measurement "
-"outcomes). Equivalence is tested by dividing the scale items into two groups "
-"(a “split-half”) and seeing whether analysis of the two parts gives "
-"comparable results. Of course, there are many ways a set of items could be "
-"split, but if all possible splits are made then it is possible to produce a "
-"statistic that reflects the overall pattern of split-half coefficients. "
-"Cronbach’s α is such a statistic: a function of all the split-half "
-"coefficients for a scale. If a set of items that measure a construct (e.g. "
-"an Extraversion scale) has an α of 0.80, then the proportion of error "
-"variance in the scale is 0.20. In other words, a scale with an α of 0.80 "
-"includes approximately 20\\% error."
+"**Cronbach’s α** (alpha; :ref:`Cronbach, 1951 <Cronbach_1951>`). Cronbach’s "
+"α is a measure of equivalence (whether different sets of scale items would "
+"give the same measurement outcomes). Equivalence is tested by dividing the "
+"scale items into two groups (a “split-half”) and seeing whether analysis of "
+"the two parts gives comparable results. Of course, there are many ways a set "
+"of items could be split, but if all possible splits are made then it is "
+"possible to produce a statistic that reflects the overall pattern of split-"
+"half coefficients. Cronbach’s α is such a statistic: a function of all the "
+"split-half coefficients for a scale. If a set of items that measure a "
+"construct (e.g. an Extraversion scale) has an α of 0.80, then the proportion "
+"of error variance in the scale is 0.20. In other words, a scale with an α of "
+"0.80 includes approximately 20\\% error."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s α is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
 "factor or construct rather than multiple related constructs). Scales that "
 "are multidimensional will cause α to be under-estimated if not assessed "
 "separately for each dimension, but high values for α are not necessarily "
-"indicators of unidimensionality. So, an α of 0.80 does not mean that 80\\% "
-"of a single underlying construct is accounted for. It could be that the 80\\"
-"% comes from more than one underlying construct. That’s why EFA and CFA are "
-"useful to do first."
+"indicators of unidimensionality. So, an α of 0.80 does not mean that 80\\"
+"% of a single underlying construct is accounted for. It could be that the "
+"80\\% comes from more than one underlying construct. That’s why EFA and CFA "
+"are useful to do first."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:45
@@ -1863,6 +1769,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for α or ω is provided, suggesting a “good enough” "
 "value. This might be something like αs of 0.70 or 0.80 representing "
@@ -1926,6 +1833,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s α "

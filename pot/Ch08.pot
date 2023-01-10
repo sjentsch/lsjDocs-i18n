@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -567,7 +567,7 @@ msgid ""
 "*For even the most stupid of men, by some instinct of nature, by himself and "
 "without any instruction (which is a remarkable thing), is convinced that the "
 "more observations have been made, the less danger there is of wandering from "
-"one’s goal* (`Stigler, 1986 <../Other/References.html#stigler-1986>`__\\ )."
+"one’s goal* (:ref:`Stigler, 1986 <Stigler_1986>`)."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_2.rst:52
@@ -632,8 +632,7 @@ msgid ""
 "*[The] long run is a misleading guide to current affairs. In the long run we "
 "are all dead. Economists set themselves too easy, too useless a task, if in "
 "tempestuous seasons they can only tell us, that when the storm is long past, "
-"the ocean is flat again* (`Keynes, 1923 <../Other/References."
-"html#keynes-1923>`__\\ )."
+"the ocean is flat again* (:ref:`Keynes, 1923 <Keynes_1923>`)."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:20
@@ -1922,8 +1921,8 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_5.rst:193
 msgid ""
 "This quote appears on a great many t-shirts and websites, and even gets a "
-"mention in a few academic papers (e.g., https://www.amstat.org/publications/"
-"jse/v10n3/friedman.html, but I’ve never found the original source."
+"mention in a few academic papers (e.g., https://doi."
+"org/10.1080/10691898.2002.11910681, but I’ve never found the original source."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_6.rst:4

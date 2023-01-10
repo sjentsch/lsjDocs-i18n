@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1414,7 +1414,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:229
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
 msgid "Probability to reject the null hypothesis as function of θ"
 msgstr ""
 
@@ -1441,7 +1441,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:115
-msgid "`George Box (1976) <../Other/References.html#box-1976>`__"
+msgid ":ref:`George Box (1976) <Box_1976>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:112
@@ -1453,12 +1453,11 @@ msgid ""
 "identical) then the power of the test is going to be very low. Therefore, "
 "it’s useful to be able to have some way of quantifying how “similar” the "
 "true state of the world is to the null hypothesis. A statistic that does "
-"this is called a measure of **effect size** (`Cohen, 1988 <../Other/"
-"References.html#cohen-1988>`__\\ , `Ellis, 2010 <../Other/References."
-"html#ellis-2010>`__\\ )."
+"this is called a measure of **effect size** (:ref:`Cohen, 1988 "
+"<Cohen_1988>`, :ref:`Ellis, 2010 <Ellis_2010>`)."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:122
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:121
 msgid ""
 "Effect size is defined slightly differently in different contexts (and so "
 "this section just talks in general terms) but the qualitative idea that it "
@@ -1471,7 +1470,7 @@ msgid ""
 "possibly just the magnitude of this difference, abs(*θ* - *θ*\\ :sub:`0`)."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:133
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:132
 msgid ""
 "A crude guide to understanding the relationship between statistical "
 "significance and effect sizes. Basically, if you don’t have a significant "
@@ -1484,35 +1483,35 @@ msgid ""
 "don’t take this table too seriously. It’s a rough guide at best."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:145
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "big effect size"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:145
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "small effect size"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "significant result"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, and of practical importance"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:147
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, but might not be interesting"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:150
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "non-significant result"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:150
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "no effect observed"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:153
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:152
 msgid ""
 "Why calculate effect size? Let’s assume that you’ve run your experiment, "
 "collected the data, and gotten a significant effect when you ran your "
@@ -1547,11 +1546,11 @@ msgid ""
 "tells you whether or not you should care."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:189
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:188
 msgid "Increasing the power of your study"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:191
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:190
 msgid ""
 "Not surprisingly, scientists are fairly obsessed with maximising the power "
 "of their experiments. We want our experiments to work and so we want to "
@@ -1569,7 +1568,7 @@ msgid ""
 "way to boost power, because it can alter the effect size."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:207
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:206
 msgid ""
 "Unfortunately, it’s often the case that even with the best of experimental "
 "designs you may have only a small effect. Perhaps, for example, ESP really "
@@ -1587,7 +1586,7 @@ msgid ""
 "null hypothesis predicts that *θ*\\ :sub:`0` = 0.5."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:229
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
 msgid ""
 "The power of our test plotted as a function of the sample size N. In this "
 "case, the true value of θ is 0.7 but the null hypothesis is that θ = 0.5. "
@@ -1597,7 +1596,7 @@ msgid ""
 "purpose)."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:238
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:237
 msgid ""
 "Because power is important, whenever you’re contemplating running an "
 "experiment it would be pretty useful to know how much power you’re likely to "
@@ -1636,7 +1635,7 @@ msgid ""
 "comfortable saying about the topic."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:278
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:277
 msgid ""
 "Although in practice a very small effect size is worrying because even very "
 "minor methodological flaws might be responsible for the effect, and in "
@@ -1644,7 +1643,7 @@ msgid ""
 "to worry about."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:284
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:283
 msgid ""
 "Notice that the true population parameter *θ* doesn’t necessarily correspond "
 "to an immutable fact of nature. In this context *θ* is just the true "
@@ -1653,7 +1652,7 @@ msgid ""
 "of things. Of course, this is all on the assumption that ESP actually exists!"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:292
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:291
 msgid ""
 "One possible exception to this is when researchers study the effectiveness "
 "of a new medical treatment and they specify in advance what an important "
@@ -1689,16 +1688,15 @@ msgstr ""
 msgid ""
 "The first thing you should be aware of is that orthodox NHST is actually a "
 "mash-up of two rather different approaches to hypothesis testing, one "
-"proposed by Sir Ronald Fisher and the other proposed by Jerzy Neyman (see "
-"`Lehmann, 2011 <../Other/References.html#cronbach-1951>`__ for a historical "
-"summary). The history is messy because Fisher and Neyman were real people "
-"whose opinions changed over time, and at no point did either of them offer "
-"“the definitive statement” of how we should interpret their work many "
-"decades later. That said, here’s a quick summary of what I take these two "
-"approaches to be."
+"proposed by Sir Ronald Fisher and the other proposed by Jerzy Neyman (see :"
+"ref:`Lehmann, 2011 <Lehmann_2011>` for a historical summary). The history is "
+"messy because Fisher and Neyman were real people whose opinions changed over "
+"time, and at no point did either of them offer “the definitive statement” of "
+"how we should interpret their work many decades later. That said, here’s a "
+"quick summary of what I take these two approaches to be."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:32
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:31
 msgid ""
 "First, let’s talk about Fisher’s approach. As far as I can tell, Fisher "
 "assumed that you only had the one hypothesis (the null) and that what you "
@@ -1713,7 +1711,7 @@ msgid ""
 "alternative. That’s more or less all there is to it."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:45
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:44
 msgid ""
 "In contrast, Neyman thought that the point of hypothesis testing was as a "
 "guide to action and his approach was somewhat more formal than Fisher’s. His "
@@ -1730,7 +1728,7 @@ msgid ""
 "alternative."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:60
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:59
 msgid ""
 "As you can see, what we have today is an odd mishmash of the two. We talk "
 "about having both a null hypothesis and an alternative (Neyman), but "
@@ -1742,11 +1740,11 @@ msgid ""
 "at least explains why it’s a mess."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:71
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
 msgid "Bayesians versus frequentists"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:73
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:72
 msgid ""
 "Earlier on in this chapter I was quite emphatic about the fact that you "
 "*cannot* interpret the *p*-value as the probability that the null hypothesis "
@@ -1768,7 +1766,7 @@ msgid ""
 "doesn’t have one!"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:91
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:90
 msgid ""
 "Most importantly, this *isn’t* a purely ideological matter. If you decide "
 "that you are a Bayesian and that you’re okay with making probability "
@@ -1780,11 +1778,11 @@ msgid ""
 "the null, then the *p*-value is not what you’re looking for!"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:101
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:100
 msgid "Traps"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:103
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:102
 msgid ""
 "As you can see, the theory behind hypothesis testing is a mess, and even now "
 "there are arguments in statistics about how it “should” work. However, "
@@ -1802,37 +1800,37 @@ msgid ""
 "it. That’s where the biggest trap lies."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:119
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:118
 msgid ""
-"To give an example of this, consider the following example (`Gelman & Stern, "
-"2006 <../Other/References.html#gleman-2006>`__\\ ). Suppose I’m running my "
-"ESP study and I’ve decided to analyse the data separately for the male "
-"participants and the female participants. Of the male participants, 33 out "
-"of 50 guessed the colour of the card correctly. This is a significant effect "
-"(*p* = 0.03). Of the female participants, 29 out of 50 guessed correctly. "
-"This is not a significant effect (p = 0.32). Upon observing this, it is "
-"extremely tempting for people to start wondering why there is a difference "
-"between males and females in terms of their psychic abilities. However, this "
-"is wrong. If you think about it, we haven’t *actually* run a test that "
-"explicitly compares males to females. All we have done is compare males to "
-"chance (binomial test was significant) and compared females to chance "
-"(binomial test was non significant). If we want to argue that there is a "
-"real difference between the males and the females, we should probably run a "
-"test of the null hypothesis that there is no difference! We can do that "
-"using a different hypothesis test,\\ [#]_ but when we do that it turns out "
-"that we have no evidence that males and females are significantly different "
-"(*p* = 0.54). *Now* do you think that there’s anything fundamentally "
-"different between the two groups? Of course not. What’s happened here is "
-"that the data from both groups (male and female) are pretty borderline. By "
-"pure chance one of them happened to end up on the magic side of the *p* = "
-"0.05 line, and the other one didn’t. That doesn’t actually imply that males "
-"and females are different. This mistake is so common that you should always "
-"be wary of it. The difference between significant and not-significant is "
-"*not* evidence of a real difference. If you want to say that there’s a "
-"difference between two groups, then you have to test for that difference!"
+"To give an example of this, consider the following example (:ref:`Gelman & "
+"Stern, 2006 <Gelman_2006>`). Suppose I’m running my ESP study and I’ve "
+"decided to analyse the data separately for the male participants and the "
+"female participants. Of the male participants, 33 out of 50 guessed the "
+"colour of the card correctly. This is a significant effect (*p* = 0.03). Of "
+"the female participants, 29 out of 50 guessed correctly. This is not a "
+"significant effect (p = 0.32). Upon observing this, it is extremely tempting "
+"for people to start wondering why there is a difference between males and "
+"females in terms of their psychic abilities. However, this is wrong. If you "
+"think about it, we haven’t *actually* run a test that explicitly compares "
+"males to females. All we have done is compare males to chance (binomial test "
+"was significant) and compared females to chance (binomial test was non "
+"significant). If we want to argue that there is a real difference between "
+"the males and the females, we should probably run a test of the null "
+"hypothesis that there is no difference! We can do that using a different "
+"hypothesis test,\\ [#]_ but when we do that it turns out that we have no "
+"evidence that males and females are significantly different (*p* = 0.54). "
+"*Now* do you think that there’s anything fundamentally different between the "
+"two groups? Of course not. What’s happened here is that the data from both "
+"groups (male and female) are pretty borderline. By pure chance one of them "
+"happened to end up on the magic side of the *p* = 0.05 line, and the other "
+"one didn’t. That doesn’t actually imply that males and females are "
+"different. This mistake is so common that you should always be wary of it. "
+"The difference between significant and not-significant is *not* evidence of "
+"a real difference. If you want to say that there’s a difference between two "
+"groups, then you have to test for that difference!"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:148
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:145
 msgid ""
 "The example above is just that, an example. I’ve singled it out because it’s "
 "such a common one, but the bigger picture is that data analysis can be "
@@ -1841,14 +1839,14 @@ msgid ""
 "possibly make any sense in the real world."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:157
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:154
 msgid ""
 "Although this book describes both Neyman’s and Fisher’s definition of the "
 "*p*-value, most don’t. Most introductory textbooks will only give you the "
 "Fisher version."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_09.rst:162
+#: ../../Ch09/Ch09_HypothesisTesting_09.rst:159
 msgid ""
 "In this case, the Pearson :doc:`χ²-test of independence <../Ch10/"
 "Ch10_ChiSquare_2>`"

@@ -7,323 +7,15 @@
 # #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -333,113 +25,33 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
 msgid "Bayesian statistics"
 msgstr "Bayessche Statistik"
 
-#: ../../Ch16/Ch16_Bayes.rst:0
+#: ../../Ch16/Ch16_Bayes.rst
 msgid ""
 "*In our reasonings concerning matter of fact, there are all imaginable "
 "degrees of assurance, from the highest certainty to the lowest species of "
@@ -636,6 +248,7 @@ msgid "Likelihoods: theories about the data"
 msgstr "Likelihood: Theorien über die Daten"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
+#, python-format
 msgid ""
 "To solve the reasoning problem you need a theory about my behaviour. When "
 "does Dani carry an umbrella? You might guess that I’m not a complete idiot,"
@@ -731,8 +344,8 @@ msgid ""
 "might want to calculate the probability that today is rainy (i.e., "
 "hypothesis *h* is true) and I’m carrying an umbrella (i.e., data *d* is "
 "observed). The **joint probability** of the hypothesis and the data is "
-"written *P*\\ (d, h), and you can calculate it by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
+"written *P*\\ (d, h), and you can calculate it by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
 "Beginnen wir mit einer der Regeln der Wahrscheinlichkeitsrechnung. Ich habe "
 "sie schon vor langer Zeit in :numref:`tab-probrules` aufgelistet, aber ich "
@@ -1119,6 +732,7 @@ msgid "0.486"
 msgstr "0.486"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:261
+#, python-format
 msgid ""
 "What this table is telling you is that, after being told that I’m carrying "
 "an umbrella, you believe that there’s a 51.4\\% chance that today will be a "
@@ -1171,9 +785,9 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:282
 msgid ""
 "However, remember what I said at the start of the last section, namely that "
-"the joint probability *P*\\ (d, h) is calculated by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we actually "
-"know how to write down are the priors and the likelihood, so let’s "
+"the joint probability *P*\\ (d, h) is calculated by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we "
+"actually know how to write down are the priors and the likelihood, so let’s "
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
@@ -1269,10 +883,10 @@ msgstr ""
 msgid ""
 "You might notice that this equation is actually a restatement of the same "
 "basic rule I listed at the start of the last section. If you multiply both "
-"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = *P*"
-"\\ (d, h), which is the rule for how joint probabilities are calculated. So "
-"I’m not actually introducing any “new” rules here, I’m just using the same "
-"rule in a different way."
+"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = "
+"*P*\\ (d, h), which is the rule for how joint probabilities are calculated. "
+"So I’m not actually introducing any “new” rules here, I’m just using the "
+"same rule in a different way."
 msgstr ""
 "Sie werden feststellen, dass diese Gleichung eigentlich eine Umformulierung "
 "der gleichen Grundregel ist, die ich zu Beginn des letzten Abschnitts "
@@ -1309,8 +923,8 @@ msgstr ""
 "meisten Menschen nur schwer verständlich ist. Im Gegensatz dazu ist der "
 "Bayessche Ansatz zur Hypothesenprüfung unglaublich einfach. Wählen wir eine "
 "Situation, die dem frequentistischen Szenario sehr ähnlich ist. Es gibt zwei "
-"Hypothesen, die wir miteinander vergleichen wollen, eine Nullhypothese *h*"
-"\\ :sub:`0` und eine Alternativhypothese *h*\\ :sub:`1`. Bevor wir das "
+"Hypothesen, die wir miteinander vergleichen wollen, eine Nullhypothese "
+"*h*\\ :sub:`0` und eine Alternativhypothese *h*\\ :sub:`1`. Bevor wir das "
 "Experiment durchführen, haben wir einige Überzeugungen *P*\\(h) darüber, "
 "welche Hypothesen wahr sind. Wir führen ein Experiment durch und erhalten "
 "Daten *d*. Im Gegensatz zur frequentistischen Statistik können wir in der "
@@ -1365,8 +979,8 @@ msgstr "Der Bayes-Faktor"
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
 "In practice, most Bayesian data analysts tend not to talk in terms of the "
-"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:`1`"
-"\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
+"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:"
+"`1`\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
 "Think of it like betting. Suppose, for instance, the posterior probability "
 "of the null hypothesis is 25\\%, and the posterior probability of the "
 "alternative is 75\\%. The alternative hypothesis is three times as probable "
@@ -1375,8 +989,8 @@ msgid ""
 "one posterior probability by the other"
 msgstr ""
 "In der Praxis neigen die meisten Bayesianischen Datenanalysten dazu, nicht "
-"von den rohen Posterior-Wahrscheinlichkeiten *P*\\ (h\\ :sub:`0`\\|d) und *P*"
-"\\ (h\\ :sub:`1`\\|d) zu sprechen. Stattdessen neigen wir dazu, vom "
+"von den rohen Posterior-Wahrscheinlichkeiten *P*\\ (h\\ :sub:`0`\\|d) und "
+"*P*\\ (h\\ :sub:`1`\\|d) zu sprechen. Stattdessen neigen wir dazu, vom "
 "**Verhältnis der a-posteriori-Wahrscheinlichkeiten** zu sprechen. Stellen "
 "Sie sich das wie eine Wette vor. Angenommen, die a-posteriori-"
 "Wahrscheinlichkeit der Nullhypothese beträgt 25\\% und die a-posteriori-"
@@ -1500,85 +1114,84 @@ msgid ""
 "factor of 4, it means that the evidence provided by your data corresponds to "
 "betting odds of 4:1 in favour of the alternative. However, there have been "
 "some attempts to quantify the standards of evidence that would be considered "
-"meaningful in a scientific context. The two most widely used are from "
-"`Jeffreys (1961) <../Other/References.html#jeffreys-1961>`__ and `Kass and "
-"Raftery (1995) <../Other/References.html#kass-1995>`__. Of the two, I tend "
-"to prefer the `Kass and Raftery (1995) <../Other/References."
-"html#kass-1995>`__ table because it’s a bit more conservative. So here it is:"
+"meaningful in a scientific context. The two most widely used are from :ref:"
+"`Jeffreys (1961) <Jeffreys_1961>` and :ref:`Kass and Raftery (1995) "
+"<Kass_1995>`. Of the two, I tend to prefer the :ref:`Kass and Raftery (1995) "
+"<Kass_1995>` table because it’s a bit more conservative. So here it is:"
 msgstr ""
-"Eine der schönen Seiten des Bayes-Faktors ist, dass die Zahlen von sich aus "
-"aussagekräftig sind. Wenn Sie ein Experiment durchführen und einen Bayes-"
-"Faktor von 4 berechnen, bedeutet dies, dass die aus Ihren Daten gewonnenen "
-"Erkenntnisse einer Wettquote von 4:1 zugunsten der Alternativhypothese "
-"entsprechen. Es hat einige Versuche gegeben, Standards für Evidenz "
-"festzulegen, die in einem wissenschaftlichen Kontext als aussagekräftig "
-"gelten können. Die beiden am häufigsten verwendeten stammen von `Jeffreys "
-"(1961) <../Other/References.html#jeffreys-1961>`__ und `Kass und Raftery "
-"(1995) <../Other/References.html#kass-1995>`__. Von den beiden ziehe ich die "
-"Tabelle von `Kass und Raftery (1995) <../Other/References.html#kass-1995>`__ "
-"vor, weil sie etwas konservativer ist. Hier ist sie also:"
+"Eine der schönen Seiten des Bayes-Faktors ist, dass die Zahlen von sich "
+"aus aussagekräftig sind. Wenn Sie ein Experiment durchführen und einen "
+"Bayes-Faktor von 4 berechnen, bedeutet dies, dass die aus Ihren Daten "
+"gewonnenen Erkenntnisse einer Wettquote von 4:1 zugunsten der "
+"Alternativhypothese entsprechen. Es hat einige Versuche gegeben, "
+"Standards für Evidenz festzulegen, die in einem wissenschaftlichen "
+"Kontext als aussagekräftig gelten können. Die beiden am häufigsten "
+"verwendeten stammen von :ref:`Jeffreys (1961) <Jeffreys_1961>` und "
+":ref:`Kass und Raftery (1995) <Kass_1995>`. Von den beiden ziehe ich die "
+"Tabelle von :ref:`Kass und Raftery (1995) <Kass_1995>` vor, weil sie etwas "
+"konservativer ist. Hier ist sie also:"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:101
+#: ../../Ch16/Ch16_Bayes_2.rst:100
 msgid "Bayes factor"
 msgstr "Bayes-Faktor"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:101
+#: ../../Ch16/Ch16_Bayes_2.rst:100
 msgid "Interpretation"
 msgstr "Interpretation"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:103
+#: ../../Ch16/Ch16_Bayes_2.rst:102
 msgid "1 –   3"
 msgstr "1 –   3"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:103
+#: ../../Ch16/Ch16_Bayes_2.rst:102
 msgid "Negligible evidence"
 msgstr "Vernachlässigbare Evidenz"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:105
+#: ../../Ch16/Ch16_Bayes_2.rst:104
 msgid "3 –  20"
 msgstr "3 –  20"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:105
+#: ../../Ch16/Ch16_Bayes_2.rst:104
 msgid "Positive evidence"
 msgstr "Evidenz"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:107
+#: ../../Ch16/Ch16_Bayes_2.rst:106
 msgid "20 – 150"
 msgstr "20 – 150"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:107
+#: ../../Ch16/Ch16_Bayes_2.rst:106
 msgid "Strong evidence"
 msgstr "Starke Evidenz"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:109
+#: ../../Ch16/Ch16_Bayes_2.rst:108
 msgid "> 150"
 msgstr "> 150"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:109
+#: ../../Ch16/Ch16_Bayes_2.rst:108
 msgid "Very strong evidence"
 msgstr "Sehr starke Evidenz"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:112
+#: ../../Ch16/Ch16_Bayes_2.rst:111
 msgid ""
-"And to be perfectly honest, I think that even the `Kass and Raftery (1995) "
-"<../Other/References.html#kass-1995>`__ standards are being a bit "
-"charitable. If it were up to me, I’d have called the “positive evidence” "
-"category “weak evidence”. To me, anything in the range 3:1 to 20:1 is “weak” "
-"or “modest” evidence at best. But there are no hard and fast rules here. "
-"What counts as strong or weak evidence depends entirely on how conservative "
-"you are and upon the standards that your community insists upon before it is "
-"willing to label a finding as “true”."
+"And to be perfectly honest, I think that even the :ref:`Kass and Raftery "
+"(1995) <Kass_1995>` standards are being a bit charitable. If it were up to "
+"me, I’d have called the “positive evidence” category “weak evidence”. To me, "
+"anything in the range 3:1 to 20:1 is “weak” or “modest” evidence at best. "
+"But there are no hard and fast rules here. What counts as strong or weak "
+"evidence depends entirely on how conservative you are and upon the standards "
+"that your community insists upon before it is willing to label a finding as "
+"“true”."
 msgstr ""
-"Und um ganz ehrlich zu sein, denke ich, dass selbst die Standards von `Kass "
-"und Raftery (1995) <../Other/References.html#kass-1995>`__ eher großzügig "
-"sind. Wenn es nach mir ginge, würde ich die Kategorie „Evidenz“ als "
-"„schwache Evidenz“ bezeichnen. Für mich ist alles im Bereich von 3:1 bis "
-"20:1 bestenfalls „schwache“ oder „bescheidene“ Evidenz. Aber es gibt hier "
-"keine harten Regeln. Was als starke oder schwache Evidenz gilt, hängt ganz "
-"davon ab, wie konservativ Sie sind und auf welchen Standards Ihre Kollegen "
-"bestehen, bevor sie bereit sind, eine Erkenntnis als „wahr“ zu bezeichnen."
+"Und um ganz ehrlich zu sein, denke ich, dass selbst die Standards von :ref:"
+"`Kass und Raftery (1995) <Kass_1995>` eher großzügig sind. Wenn es nach mir "
+"ginge, würde ich die Kategorie „Evidenz“ als „schwache Evidenz“ bezeichnen. "
+"Für mich ist alles im Bereich von 3:1 bis 20:1 bestenfalls „schwache“ oder "
+"„bescheidene“ Evidenz. Aber es gibt hier keine harten Regeln. Was als starke "
+"oder schwache Evidenz gilt, ängt ganz davon ab, wie konservativ Sie sind und "
+"auf welchen Standards Ihre Kollegen bestehen, bevor sie bereit sind, eine "
+"Erkenntnis als „wahr“ zu bezeichnen."
 
-#: ../../Ch16/Ch16_Bayes_2.rst:121
+#: ../../Ch16/Ch16_Bayes_2.rst:119
 msgid ""
 "In any case, note that all the numbers listed above make sense if the Bayes "
 "factor is greater than 1 (i.e., the evidence favours the alternative "
@@ -1605,7 +1218,7 @@ msgstr ""
 "Alternativhypothese 0,1 ist. Unter Verwendung der oben genannten Gleichungen "
 "würde der Bayes-Faktor hier lauten"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:133
+#: ../../Ch16/Ch16_Bayes_2.rst:131
 msgid ""
 "\\mbox{BF} = \\frac{P(d|h_1)}{P(d|h_0)} = \\frac{0.1}{0.2} = 0.5\n"
 "\n"
@@ -1613,7 +1226,7 @@ msgstr ""
 "\\mbox{BF} = \\frac{P(d|h_1)}{P(d|h_0)} = \\frac{0.1}{0.2} = 0.5\n"
 "\n"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:135
+#: ../../Ch16/Ch16_Bayes_2.rst:133
 msgid ""
 "Read literally, this result tells is that the evidence in favour of the "
 "alternative is 0.5 to 1. I find this hard to understand. To me, it makes a "
@@ -1626,7 +1239,7 @@ msgstr ""
 "Evidenz *zugunsten der Nullhypothese* anzugeben. Mit anderen Worten, wir "
 "berechnen Folgendes"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:141
+#: ../../Ch16/Ch16_Bayes_2.rst:139
 msgid ""
 "\\mbox{BF}^\\prime = \\frac{P(d|h_0)}{P(d|h_1)} = \\frac{0.2}{0.1} = 2\n"
 "\n"
@@ -1634,7 +1247,7 @@ msgstr ""
 "\\mbox{BF}^\\prime = \\frac{P(d|h_0)}{P(d|h_1)} = \\frac{0.2}{0.1} = 2\n"
 "\n"
 
-#: ../../Ch16/Ch16_Bayes_2.rst:143
+#: ../../Ch16/Ch16_Bayes_2.rst:141
 msgid ""
 "And what we would report is a Bayes factor of 2:1 in favour of the null. "
 "Much easier to understand, and you can interpret this using the table above."
@@ -1643,7 +1256,7 @@ msgstr ""
 "ausweisen. Das ist viel einfacher zu verstehen, und Sie können dies anhand "
 "der obigen Tabelle interpretieren."
 
-#: ../../Ch16/Ch16_Bayes_2.rst:150
+#: ../../Ch16/Ch16_Bayes_2.rst:148
 msgid ""
 "Obviously, this is a highly simplified story. All the complexity of real "
 "life Bayesian hypothesis testing comes down to how you calculate the "
@@ -1697,7 +1310,7 @@ msgstr ""
 msgid "Statistics that mean what you think they mean"
 msgstr "Statistiken, die das bedeuten, was Sie denken, dass sie bedeuten"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0
+#: ../../Ch16/Ch16_Bayes_3.rst
 msgid ""
 "*You keep using that word. I do not think it means what you think it means*"
 msgstr ""
@@ -1713,6 +1326,7 @@ msgstr ""
 "quotes>`__\\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:30
+#, python-format
 msgid ""
 "To me, one of the biggest advantages to the Bayesian approach is that it "
 "answers the right questions. Within the Bayesian framework, it is perfectly "
@@ -1801,6 +1415,7 @@ msgstr ""
 "(Hervorhebung vom Verfasser)"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:68
+#, python-format
 msgid ""
 "Nope! That’s *not* what *p* < 0.05 means. That’s *not* what 95\\% confidence "
 "means to a frequentist statistician. The bolded section is just plain wrong. "
@@ -1845,12 +1460,13 @@ msgstr ""
 "Bayessche Werkzeuge zu verwenden."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:87
+#, python-format
 msgid ""
 "Speaking for myself, I found this to be the most liberating thing about "
 "switching to the Bayesian view. Once you’ve made the jump, you no longer "
 "have to wrap your head around counter-intuitive definitions of *p*-values. "
-"You don’t have to bother remembering why you can’t say that you’re 95\\% "
-"confident that the true mean lies within some interval. All you have to do "
+"You don’t have to bother remembering why you can’t say that you’re 95\\"
+"% confident that the true mean lies within some interval. All you have to do "
 "is be honest about what you believed before you ran the study and then "
 "report what you learned from doing it. Sounds nice, doesn’t it? To me, this "
 "is the big promise of the Bayesian approach. You do the analysis you really "
@@ -1872,7 +1488,7 @@ msgstr ""
 msgid "Evidentiary standards you can believe"
 msgstr "Evidenzstandards, denen Sie vertrauen können"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0
+#: ../../Ch16/Ch16_Bayes_3.rst
 msgid ""
 "If [*p*] is below 0.02 it is strongly indicated that the [null] hypothesis "
 "fails to account for the whole of the facts. We shall not often be astray if "
@@ -1886,8 +1502,8 @@ msgstr ""
 "anzeigen."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:116
-msgid "`Sir Ronald Fisher (1925) <../Other/References.html#fisher-1925>`__"
-msgstr "`Sir Ronald Fisher (1925) <../Other/References.html#fisher-1925>`__"
+msgid ":ref:`Sir Ronald Fisher (1925) <Fisher_1925>`"
+msgstr ":ref:`Sir Ronald Fisher (1925) <Fisher_1925>`"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:111
 msgid ""
@@ -1916,91 +1532,91 @@ msgstr ""
 "darstellt."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:123
+#, python-format
 msgid ""
 "Well, how true is that? One way to approach this question is to try to "
 "convert *p*-values to Bayes factors, and see how the two compare. It’s not "
 "an easy thing to do because a *p*-value is a fundamentally different kind of "
 "calculation to a Bayes factor, and they don’t measure the same thing. "
 "However, there have been some attempts to work out the relationship between "
-"the two, and it’s somewhat surprising. For example, `Johnson (2013) <../"
-"Other/References.html#johnson-2013>`__ presents a pretty compelling case "
-"that (for *t*-tests at least) the *p* < 0.05 threshold corresponds roughly "
-"to a Bayes factor of somewhere between 3:1 and 5:1 in favour of the "
-"alternative. If that’s right, then Fisher’s claim is a bit of a stretch. "
-"Let’s suppose that the null hypothesis is true about half the time (i.e., "
-"the prior probability of H\\ :sub:`0` is 0.5), and we use those numbers to "
-"work out the posterior probability of the null hypothesis given that it has "
-"been rejected at *p* < 0.05. Using the data from `Johnson (2013) <../Other/"
-"References.html#johnson-2013>`__ , we see that if you reject the null at *p* "
-"< 0.05, you’ll be correct about 80\\% of the time. I don’t know about you "
-"but, in my opinion, an evidential standard that ensures you’ll be wrong on "
-"20\\% of your decisions isn’t good enough. The fact remains that, quite "
-"contrary to Fisher’s claim, if you reject at *p* < 0.05 you shall quite "
-"often go astray. It’s not a very stringent evidential threshold at all."
+"the two, and it’s somewhat surprising. For example, :ref:`Johnson (2013) "
+"<Johnson_2013>` presents a pretty compelling case that (for *t*-tests at "
+"least) the *p* < 0.05 threshold corresponds roughly to a Bayes factor of "
+"somewhere between 3:1 and 5:1 in favour of the alternative. If that’s right, "
+"then Fisher’s claim is a bit of a stretch. Let’s suppose that the null "
+"hypothesis is true about half the time (i.e., the prior probability of H\\ :"
+"sub:`0` is 0.5), and we use those numbers to work out the posterior "
+"probability of the null hypothesis given that it has been rejected at *p* < "
+"0.05. Using the data from :ref:`Johnson (2013) <Johnson_2013>`, we see that "
+"if you reject the null at *p* < 0.05, you’ll be correct about 80\\% of the "
+"time. I don’t know about you but, in my opinion, an evidential standard that "
+"ensures you’ll be wrong on 20\\% of your decisions isn’t good enough. The "
+"fact remains that, quite contrary to Fisher’s claim, if you reject at *p* < "
+"0.05 you shall quite often go astray. It’s not a very stringent evidential "
+"threshold at all."
 msgstr ""
 "Nun, wie wahr ist das? Eine Möglichkeit, sich dieser Frage zu nähern, ist "
-"der Versuch, *p*-Werte in Bayes-Faktoren umzuwandeln und zu sehen, ob sich "
-"die beiden vergleichen lassen. Das ist nicht einfach, denn ein *p*-Wert "
-"unterliegt einer grundsätzlich anderen Art von Berechnung als ein Bayes-"
-"Faktor, und sie messen nicht dasselbe. Es hat jedoch einige Versuche "
-"gegeben, die Beziehung zwischen den beiden herauszuarbeiten. Zum Beispiel "
-"präsentiert `Johnson (2013) <../Other/References.html#johnson-2013>`__ ein "
-"ziemlich überzeugendes Argument dafür, dass (zumindest für *t*-Tests) die "
-"Schwelle von *p* < 0,05 ungefähr einem Bayes-Faktor von irgendwo zwischen "
-"3:1 und 5:1 zugunsten der Alternative entspricht. Wenn das stimmt, dann ist "
-"Fishers Behauptung ein bisschen weit hergeholt. Nehmen wir an, dass die "
-"Nullhypothese in etwa der Hälfte der Fälle zutrifft (d. h., die a-priori-"
-"Wahrscheinlichkeit von H\\ :sub:`0` ist 0,5), und wir verwenden diese "
-"Zahlen, um die a-posteriori-Wahrscheinlichkeit der Nullhypothese zu "
-"berechnen, wenn sie unter *p* < 0,05 zurückgewiesen würde. Anhand der Daten "
-"von `Johnson (2013) <../Other/References.html#johnson-2013>`__ sehen wir, "
-"dass, wenn Sie die Nullhypothese bei *p* < 0,05 ablehnen, in etwa 80 % der "
-"Fälle richtig liegen. Ich weiß nicht, wie es Ihnen geht, aber meiner Meinung "
-"nach ist ein Standard, der sicherstellt, dass Sie bei lediglich 20 % Ihrer "
-"Entscheidungen falsch liegen, nicht gut genug. Tatsache ist, dass man "
-"entgegen der Behauptung von Fisher ziemlich oft falsch liegt, wenn man eine "
-"Hypothese bei *p* < 0,05 verwirft. Das ist keine sehr strenge Beweisschwelle."
+"der Versuch, *p*-Werte in Bayes-Faktoren umzuwandeln und zu sehen, ob "
+"sich die beiden vergleichen lassen. Das ist nicht einfach, denn ein *p*-"
+"Wert unterliegt einer grundsätzlich anderen Art von Berechnung als ein "
+"Bayes-Faktor, und sie messen nicht dasselbe. Es hat jedoch einige "
+"Versuche gegeben, die Beziehung zwischen den beiden herauszuarbeiten. Zum "
+"Beispiel präsentiert :ref:`Johnson (2013) <Johnson_2013>` ein ziemlich "
+"überzeugendes Argument dafür, dass (zumindest für *t*-Tests) die Schwelle "
+"von *p* < 0,05 ungefähr einem Bayes-Faktor von irgendwo zwischen 3:1 und "
+"5:1 zugunsten der Alternative entspricht. Wenn das stimmt, dann ist Fishers "
+"Behauptung ein bisschen weit hergeholt. Nehmen wir an, dass die Nullhypothese"
+" in etwa der Hälfte der Fälle zutrifft (d. h., die a-priori-Wahrscheinlichkeit"
+" von H\\ :sub:`0` ist 0,5), und wir verwenden diese Zahlen, um die a-"
+"posteriori-Wahrscheinlichkeit der Nullhypothese zu berechnen, wenn sie unter "
+"*p* < 0,05 zurückgewiesen würde. Anhand der Daten von :ref:`Johnson (2013) "
+"<Johnson_2013>` sehen wir, dass, wenn Sie die Nullhypothese bei *p* < 0,05 "
+"ablehnen, in etwa 80 % der Fälle richtig iegen. Ich weiß nicht, wie es Ihnen "
+"geht, aber meiner Meinung nach ist ein Standard, der sicherstellt, dass Sie "
+"bei lediglich 20 % Ihrer Entscheidungen falsch liegen, nicht gut genug. "
+"Tatsache ist, dass man entgegen der Behauptung von Fisher ziemlich oft falsch"
+" liegt, wenn man eine Hypothese bei *p* < 0,05 verwirft. Das ist keine sehr "
+"strenge Beweisschwelle."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:146
+#: ../../Ch16/Ch16_Bayes_3.rst:145
 msgid "The *p*-value is a lie."
 msgstr "Der *p*-Wert ist eine Lüge."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0
+#: ../../Ch16/Ch16_Bayes_3.rst
 msgid "*The cake is a lie.*"
 msgstr "*Der Kuchen ist eine Lüge.*"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:162
+#: ../../Ch16/Ch16_Bayes_3.rst:161
 msgid "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
 msgstr "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:158
+#: ../../Ch16/Ch16_Bayes_3.rst:157
 msgid ""
 "Okay, at this point you might be thinking that the real problem is not with "
 "orthodox statistics, just the *p* < 0.05 standard. In one sense, that’s "
-"true. The recommendation that `Johnson (2013) <../Other/References."
-"html#johnson-2013>`__ gives is not that “everyone must be a Bayesian now”. "
-"Instead, the suggestion is that it would be wiser to shift the conventional "
-"standard to something like a *p* < 0.01 level. That’s not an unreasonable "
-"view to take, but in my view the problem is a little more severe than that. "
-"In my opinion, there’s a fairly big problem built into the way most (but not "
-"all) orthodox hypothesis tests are constructed. They are grossly naive about "
-"how humans actually do research, and because of this most *p*-values are "
-"wrong."
+"true. The recommendation that :ref:`Johnson (2013) <Johnson_2013>` gives is "
+"not that “everyone must be a Bayesian now”. Instead, the suggestion is that "
+"it would be wiser to shift the conventional standard to something like a *p* "
+"< 0.01 level. That’s not an unreasonable view to take, but in my view the "
+"problem is a little more severe than that. In my opinion, there’s a fairly "
+"big problem built into the way most (but not all) orthodox hypothesis tests "
+"are constructed. They are grossly naive about how humans actually do "
+"research, and because of this most *p*-values are wrong."
 msgstr ""
-"An dieser Stelle werden Sie vielleicht denken, dass das eigentliche Problem "
-"nicht die frequentistische Statistik ist, sondern nur der *p* < 0,05 "
-"Standard. In gewisser Weise stimmt das auch. Die Empfehlung, die `Johnson "
-"(2013) <../Other/References.html#johnson-2013>`__ gibt, lautet nicht, dass "
-"„jeder jetzt ein Bayesianer sein muss“. Stattdessen wird vorgeschlagen, dass "
-"es klüger wäre, den konventionellen Standard auf einen Wert wie *p* < 0,01 "
-"zu verschieben. Das ist kein unvernünftiger Standpunkt, aber meiner Meinung "
+"An dieser Stelle werden Sie vielleicht denken, dass das eigentliche "
+"Problem nicht die frequentistische Statistik ist, sondern nur der *p* < "
+"0,05 Standard. In gewisser Weise stimmt das auch. Die Empfehlung, die "
+":ref:`Johnson (2013) <Johnson_2013>` gibt, lautet nicht, dass „jeder "
+"jetzt ein Bayesianer sein muss“. Stattdessen wird vorgeschlagen, dass es "
+"klüger wäre, den konventionellen Standard auf einen Wert wie *p* < 0,01 zu "
+"verschieben. Das ist kein unvernünftiger Standpunkt, aber meiner Meinung "
 "nach ist das Problem noch ein wenig gravierender als das. Meiner Meinung "
-"nach liegt ein ziemlich großes Problem in der Art und Weise, wie die meisten "
-"(aber nicht alle) frequentistischen Hypothesentests konstruiert sind. Sie "
+"nach liegt ein ziemlich großes Problem in der Art und Weise, wie die meisten"
+" (aber nicht alle) frequentistischen Hypothesentests konstruiert sind. Sie "
 "sind sehr naiv in Bezug darauf, wie Menschen tatsächlich forschen, und "
 "deshalb sind die meisten *p*-Werte falsch."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:169
+#: ../../Ch16/Ch16_Bayes_3.rst:168
 msgid ""
 "Sounds like an absurd claim, right? Well, consider the following scenario. "
 "You’ve come up with a really exciting research hypothesis and you design a "
@@ -2017,18 +1633,18 @@ msgstr ""
 "Studie durch. Sie führen dann Ihren Hypothesentest durch, und heraus kommt "
 "ein *p*-Wert von 0,072. Wirklich verdammt ärgerlich, oder?"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:176
+#: ../../Ch16/Ch16_Bayes_3.rst:175
 msgid "What should you do? Here are some possibilities:"
 msgstr "Was sollten Sie tun? Hier sind einige Möglichkeiten:"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:178
+#: ../../Ch16/Ch16_Bayes_3.rst:177
 msgid ""
 "You conclude that there is no effect and try to publish it as a null result"
 msgstr ""
 "Sie kommen zu dem Schluss, dass es keinen Effekt gibt und versuchen, dies "
 "als Nullergebnis zu veröffentlichen"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:181
+#: ../../Ch16/Ch16_Bayes_3.rst:180
 msgid ""
 "You guess that there might be an effect and try to publish it as a "
 "“borderline significant” result"
@@ -2036,11 +1652,11 @@ msgstr ""
 "Sie vermuten, dass es einen Effekt geben könnte, und versuchen, ihn als "
 "„marginal signifikantes“ Ergebnis zu veröffentlichen"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:184
+#: ../../Ch16/Ch16_Bayes_3.rst:183
 msgid "You give up and try a new study"
 msgstr "Sie geben auf und probieren eine neue Studie aus"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:186
+#: ../../Ch16/Ch16_Bayes_3.rst:185
 msgid ""
 "You collect some more data to see if the *p*-value goes up or (preferably!) "
 "drops below the “magic” criterion of *p* < 0.05"
@@ -2048,7 +1664,7 @@ msgstr ""
 "Sie sammeln weitere Daten, um zu sehen, ob der *p*-Wert ansteigt oder "
 "(vorzugsweise) unter das „magische“ Kriterium *p* < 0,05 fällt"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:189
+#: ../../Ch16/Ch16_Bayes_3.rst:188
 msgid ""
 "Which would *you* choose? Before reading any further, I urge you to take "
 "some time to think about it. Be honest with yourself. But don’t stress about "
@@ -2064,7 +1680,7 @@ msgstr ""
 "Geschichten, die ich von anderen gehört habe, ist hier, was in jedem Fall "
 "passieren wird:"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:195
+#: ../../Ch16/Ch16_Bayes_3.rst:194
 msgid ""
 "Let’s start with option 1. If you try to publish it as a null result, the "
 "paper will struggle to be published. Some reviewers will think that *p* = "
@@ -2084,7 +1700,7 @@ msgstr ""
 "Ihrer Seite sein, aber Sie werden einen harten Kampf führen müssen, um eine "
 "Publikation durchzusetzen."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:203
+#: ../../Ch16/Ch16_Bayes_3.rst:202
 msgid ""
 "Okay, let’s think about option number 2. Suppose you try to publish it as a "
 "borderline significant result. Some reviewers will claim that it’s a null "
@@ -2100,7 +1716,7 @@ msgstr ""
 "ein eindeutiges signifikantes Ergebnis erhalten. Auch hier gilt: Der "
 "Publikationsprozess ist nicht zu Ihren Gunsten."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:210
+#: ../../Ch16/Ch16_Bayes_3.rst:209
 msgid ""
 "Given the difficulties in publishing an “ambiguous” result like *p* = 0.072, "
 "option number 3 might seem tempting: give up and do something else. But "
@@ -2118,7 +1734,7 @@ msgstr ""
 "sind und nur wenige Veröffentlichungen vorweisen können, könnten Sie Ihren "
 "Job verlieren. Diese Option ist also ausgeschlossen."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:218
+#: ../../Ch16/Ch16_Bayes_3.rst:217
 msgid ""
 "It looks like you’re stuck with option 4. You don’t have conclusive results, "
 "so you decide to collect some more data and re-run the analysis. Seems "
@@ -2137,7 +1753,7 @@ msgstr ""
 "der Zukunft berechnen werden. Glücklicherweise wird es niemandem auffallen. "
 "Sie werden veröffentlicht, und Sie werden gelogen haben."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:227
+#: ../../Ch16/Ch16_Bayes_3.rst:226
 msgid ""
 "Wait, what? How can that last part be true? I mean, it sounds like a "
 "perfectly reasonable strategy doesn’t it? You collected some data, the "
@@ -2149,7 +1765,7 @@ msgstr ""
 "Ergebnisse waren nicht schlüssig, also wollen Sie jetzt mehr Daten sammeln, "
 "bis die Ergebnisse *schlüssig sind*. Was ist daran falsch?"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:232
+#: ../../Ch16/Ch16_Bayes_3.rst:231
 msgid ""
 "Honestly, there’s nothing wrong with it. It’s a reasonable, sensible and "
 "rational thing to do. In real life, this is exactly what every researcher "
@@ -2171,31 +1787,31 @@ msgstr ""
 "mögliche Entscheidungen. Wenn Sie den konventionellen *p*-Schwellenwert < "
 "0,05 verwenden, lauten diese Entscheidungen:"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:242 ../../Ch16/Ch16_Bayes_3.rst:256
+#: ../../Ch16/Ch16_Bayes_3.rst:241 ../../Ch16/Ch16_Bayes_3.rst:255
 msgid "Outcome"
 msgstr "Ergebnis"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:242 ../../Ch16/Ch16_Bayes_3.rst:256
+#: ../../Ch16/Ch16_Bayes_3.rst:241 ../../Ch16/Ch16_Bayes_3.rst:255
 msgid "Action"
 msgstr "Schlussfolgerung"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:244 ../../Ch16/Ch16_Bayes_3.rst:258
+#: ../../Ch16/Ch16_Bayes_3.rst:243 ../../Ch16/Ch16_Bayes_3.rst:257
 msgid "*p* less than 0.05"
 msgstr "*p* ist kleiner als 0,05"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:244
+#: ../../Ch16/Ch16_Bayes_3.rst:243
 msgid "Reject the null"
 msgstr "Verwerfen Sie die Nullhypothese"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:246
+#: ../../Ch16/Ch16_Bayes_3.rst:245
 msgid "*p* greater than 0.05"
 msgstr "*p* ist größer als 0,05"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:246
+#: ../../Ch16/Ch16_Bayes_3.rst:245
 msgid "Retain the null"
 msgstr "Behalten Sie die Nullhypothese bei"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:249
+#: ../../Ch16/Ch16_Bayes_3.rst:248
 msgid ""
 "What *you’re* doing is adding a third possible action to the decision making "
 "problem. Specifically, what you’re doing is using the *p*-value itself as a "
@@ -2208,27 +1824,27 @@ msgstr ""
 "das Entscheidungsverfahren in ein Verfahren umgewandelt, das eher wie folgt "
 "aussieht:"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:258
+#: ../../Ch16/Ch16_Bayes_3.rst:257
 msgid "Stop the experiment and reject the null"
 msgstr "Beenden Sie das Experiment und verwerfen Sie die Nullhypothese"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:260
+#: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "*p* between 0.05 and 0.1"
 msgstr "*p* zwischen 0,05 und 0,1"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:260
+#: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "Continue the experiment"
 msgstr "Setzen Sie das Experiment fort"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:262
+#: ../../Ch16/Ch16_Bayes_3.rst:261
 msgid "*p* greater than 0.1"
 msgstr "*p* ist größer als 0,1"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:262
+#: ../../Ch16/Ch16_Bayes_3.rst:261
 msgid "Stop the experiment and retain the null"
 msgstr "Beenden Sie das Experiment und behalten Sie die Nullhypothese bei"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:265
+#: ../../Ch16/Ch16_Bayes_3.rst:264
 msgid ""
 "The “basic” theory of null hypothesis testing isn’t built to handle this "
 "sort of thing, not in the form I described back in chapter :doc:`Hypothesis "
@@ -2253,7 +1869,8 @@ msgstr ""
 "`verwandtes Problem <https://xkcd.com/1478>`__). Ihre *p*-Werte sind eine "
 "Lüge."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:275
+#: ../../Ch16/Ch16_Bayes_3.rst:274
+#, python-format
 msgid ""
 "Worse yet, they’re a lie in a dangerous way, because they’re all *too "
 "small*. To give you a sense of just how bad it can be, consider the "
@@ -2304,12 +1921,12 @@ msgstr ""
 "wiederholt durchführen und Ihre Daten „überprüfen“, um zu sehen, ob Sie ein "
 "signifikantes Ergebnis erhalten haben, sind alle Wetten verloren."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:306
+#: ../../Ch16/Ch16_Bayes_3.rst:305
 msgid "Effect of re-running your tests every time new data arrive"
 msgstr ""
 "Auswirkung des erneuten Durchführens Ihrer Tests beim Eintreffen neuer Daten"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:306
+#: ../../Ch16/Ch16_Bayes_3.rst:305
 msgid ""
 "How badly can things go wrong if you re-run your tests every time new data "
 "arrive? If you are a frequentist, the answer is “very wrong”."
@@ -2318,7 +1935,8 @@ msgstr ""
 "ausführen, wenn neue Daten eintreffen? Wenn Sie ein Frequentist sind, ist "
 "die Antwort „sehr schlimm“."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:311
+#: ../../Ch16/Ch16_Bayes_3.rst:310
+#, python-format
 msgid ""
 "So how bad is it? The answer is shown as the solid black line in :numref:"
 "`fig-adapt`, and it’s *astoundingly* bad. If you peek at your data after "
@@ -2326,45 +1944,45 @@ msgid ""
 "I error. That’s, um, quite a bit bigger than the 5\\% that it’s supposed to "
 "be. By way of comparison, imagine that you had used the following strategy. "
 "Start collecting data. Every single time an observation arrives, run a :doc:"
-"`Bayesian *t*-test <../Ch16/Ch16_Bayes_5>` and look at the Bayes factor. "
-"I’ll assume that `Johnson (2013) <../Other/References.html#johnson-2013>`__ "
-"is right, and I’ll treat a Bayes factor of 3:1 as roughly equivalent to a "
-"*p*-value of 0.05.\\ [#]_ This time around, our trigger happy researcher "
-"uses the following procedure. If the Bayes factor is 3:1 or more in favour "
-"of the null, stop the experiment and retain the null. If it is 3:1 or more "
-"in favour of the alternative, stop the experiment and reject the null. "
-"Otherwise continue testing. Now, just like last time, let’s assume that the "
-"null hypothesis is true. What happens? As it happens, I ran the simulations "
-"for this scenario too, and the results are shown as the dashed line in :"
-"numref:`fig-adapt`. It turns out that the Type I error rate is much much "
-"lower than the 49\\% rate that we were getting by using the orthodox *t*-"
-"test."
+"`Bayesian *t*-test <Ch16_Bayes_5>` and look at the Bayes factor. I’ll assume "
+"that :ref:`Johnson (2013) <Johnson_2013>` is right, and I’ll treat a Bayes "
+"factor of 3:1 as roughly equivalent to a *p*-value of 0.05.\\ [#]_ This time "
+"around, our trigger happy researcher uses the following procedure. If the "
+"Bayes factor is 3:1 or more in favour of the null, stop the experiment and "
+"retain the null. If it is 3:1 or more in favour of the alternative, stop the "
+"experiment and reject the null. Otherwise continue testing. Now, just like "
+"last time, let’s assume that the null hypothesis is true. What happens? As "
+"it happens, I ran the simulations for this scenario too, and the results are "
+"shown as the dashed line in :numref:`fig-adapt`. It turns out that the Type "
+"I error rate is much much lower than the 49\\% rate that we were getting by "
+"using the orthodox *t*-test."
 msgstr ""
-"Wie schlimm ist es also? Die Antwort wird als durchgezogene schwarze Linie "
-"in :numref:`fig-adapt` angezeigt, und sie ist *erstaunlich* schlecht. Wenn "
-"Sie nach jeder einzelnen Beobachtung einen Blick auf Ihre Daten werfen, "
-"besteht eine 49\\%-ige Wahrscheinlichkeit, dass Sie einen Fehler vom Typ I "
-"machen. Das ist, ähm, ziemlich viel größer als der 5\\%-Hut, den man "
-"eigentlich aufsetzen sollte. Zum Vergleich: Stellen Sie sich vor, Sie hätten "
-"die folgende Strategie angewandt. Beginnen Sie mit dem Sammeln von Daten. "
-"Jedes Mal, wenn eine Beobachtung eintrifft, führen Sie einen :doc:"
-"`Bayesschen *t*-Test <../Ch16/Ch16_Bayes_5>` durch und sehen sich den Bayes-"
-"Faktor an. Ich gehe davon aus, dass `Johnson (2013) <../Other/References."
-"html#johnson-2013>`__ Recht hat, und behandle einen Bayes-Faktor von 3:1 als "
+"Wie schlimm ist es also? Die Antwort wird als durchgezogene schwarze "
+"Linie in :numref:`fig-adapt` angezeigt, und sie ist *erstaunlich* "
+"schlecht. Wenn Sie nach jeder einzelnen Beobachtung einen Blick auf Ihre "
+"Daten werfen, besteht eine 49\\%-ige Wahrscheinlichkeit, dass Sie einen "
+"Fehler vom Typ I machen. Das ist, ähm, ziemlich viel größer als der 5\\%-"
+"Hut, den man eigentlich aufsetzen sollte. Zum Vergleich: Stellen Sie sich "
+"vor, Sie hätten die folgende Strategie angewandt. Beginnen Sie mit dem "
+"Sammeln von Daten. Jedes Mal, wenn eine Beobachtung eintrifft, führen Sie "
+"einen :doc:`Bayesschen *t*-Test <../Ch16/Ch16_Bayes_5>` durch und sehen "
+"sich den Bayes-Faktor an. Ich gehe davon aus, dass :ref:`Johnson (2013) "
+"<Johnson_2013>` Recht hat, und behandle einen ayes-Faktor von 3:1 als "
 "ungefähr gleichwertig mit einem *p*-Wert von 0,05.\\ [#]_ Dieses Mal "
 "verwendet unser Forscher das folgende Verfahren. Wenn der Bayes-Faktor 3:1 "
 "oder mehr zu Gunsten der Nullhypothese beträgt, wird das Experiment "
 "abgebrochen und die Nullhypothese beibehalten. Wenn der Bayes-Faktor 3:1 "
 "oder mehr für die Alternativhypothese beträgt, wird das Experiment "
 "abgebrochen und die Nullhypothese verworfen. Andernfalls setzen Sie den "
-"Versuch fort. Nehmen wir nun wie beim letzten Mal an, dass die Nullhypothese "
-"wahr ist. Was geschieht nun? Ich habe die Simulationen auch für dieses "
-"Szenario durchgeführt, und die Ergebnisse sind als gestrichelte Linie in :"
-"numref:`fig-adapt` dargestellt. Es stellt sich heraus, dass die Fehlerrate "
-"vom Typ I sehr viel niedriger ist, als die 49\\%-ige Wahrscheinlichkeit, die "
-"wir bei Verwendung des frequentistischen *t*-Tests erhielten."
+"Versuch fort. Nehmen wir nun wie beim letzten Mal an, dass die "
+"Nullhypothese wahr ist. Was geschieht nun? Ich habe die Simulationen "
+"auch für dieses Szenario durchgeführt, und die Ergebnisse sind als "
+"gestrichelte Linie in :numref:`fig-adapt` dargestellt. Es stellt sich "
+"heraus, dass die Fehlerrate vom Typ I sehr viel niedriger ist, als die "
+"49\\%-ige Wahrscheinlichkeit, die wir bei Verwendung des "
+"frequentistischen *t*-Tests erhielten."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:330
+#: ../../Ch16/Ch16_Bayes_3.rst:329
 msgid ""
 "In some ways, this is remarkable. The entire *point* of orthodox null "
 "hypothesis testing is to control the Type I error rate. Bayesian methods "
@@ -2383,11 +2001,11 @@ msgstr ""
 "Standard, den die meisten Bayesianer als inakzeptabel lasch ansehen würden, "
 "ist viel sicherer als die Regel *p* < 0,05."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:339
+#: ../../Ch16/Ch16_Bayes_3.rst:338
 msgid "Is it really this bad?"
 msgstr "Ist es wirklich so schlimm?"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:341
+#: ../../Ch16/Ch16_Bayes_3.rst:340
 msgid ""
 "The example I gave in the previous section is a pretty extreme situation. In "
 "real life, people don’t run hypothesis tests every time a new observation "
@@ -2417,7 +2035,7 @@ msgstr ""
 "haben. Sie müssen sich strikt an diese Regeln halten, sonst werden die *p*-"
 "Werte, die Sie berechnen, unsinnig sein."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:355
+#: ../../Ch16/Ch16_Bayes_3.rst:354
 msgid ""
 "And yes, these rules are surprisingly strict. As a class exercise a couple "
 "of years back, I asked students to think about this scenario. Suppose you "
@@ -2452,7 +2070,7 @@ msgstr ""
 "es in Wirklichkeit *p* < 0,08. So schlimm können die Folgen von „nur einem "
 "Blick“ sein."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:371
+#: ../../Ch16/Ch16_Bayes_3.rst:370
 msgid ""
 "Now consider this. The scientific literature is filled with *t*-tests, "
 "ANOVAs, regressions and χ²-tests. When I wrote this book I didn’t pick these "
@@ -2491,7 +2109,7 @@ msgstr ""
 "man das Entscheidungsverfahren nicht kennt, das der Forscher angewandt hat. "
 "Und so bleibt der *p*-Wert eine Lüge."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:387
+#: ../../Ch16/Ch16_Bayes_3.rst:386
 msgid ""
 "Given all of the above, what is the take home message? It’s not that "
 "Bayesian methods are foolproof. If a researcher is determined to cheat, they "
@@ -2527,15 +2145,15 @@ msgstr ""
 "Betracht zieht, dass der Forscher *seine eigenen Daten* betrachtet, ist "
 "keine Theorie wert. Im Wesentlichen geht es mir um Folgendes:"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0
+#: ../../Ch16/Ch16_Bayes_3.rst
 msgid "*Good laws have their origins in bad morals.*"
 msgstr "*Gute Gesetze haben ihren Ursprung in schlechten Gewohnheiten.*"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:410
+#: ../../Ch16/Ch16_Bayes_3.rst:409
 msgid "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
 msgstr "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:409
+#: ../../Ch16/Ch16_Bayes_3.rst:408
 msgid ""
 "Good rules for statistical testing have to acknowledge human frailty. None "
 "of us are without sin. None of us are beyond temptation. A good system for "
@@ -2548,7 +2166,7 @@ msgstr ""
 "funktionieren, wenn es von echten, fehlbaren Menschen benutzt wird. "
 "Frequentistische Nullhypothesentests erfüllen dieses Kriterium nicht.\\ [#]_"
 
-#: ../../Ch16/Ch16_Bayes_3.rst:417
+#: ../../Ch16/Ch16_Bayes_3.rst:416
 msgid ""
 "I should note in passing that I’m not the first person to use this quote to "
 "complain about frequentist methods. Rich Morey and colleagues had the idea "
@@ -2563,7 +2181,7 @@ msgstr ""
 "kann. Und außerdem weigere ich mich, irgendeine Gelegenheit zu verpassen, "
 "*The Princess Bride* zu zitieren."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:424
+#: ../../Ch16/Ch16_Bayes_3.rst:423
 msgid ""
 "In the interests of being completely honest, I should acknowledge that not "
 "all orthodox statistical tests rely on this silly assumption. There are a "
@@ -2591,22 +2209,21 @@ msgstr ""
 "Test, den ich bisher vorgestellt habe, und für fast alle Tests, die ich in "
 "den von mir gelesenen Arbeiten gesehen habe."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:437
+#: ../../Ch16/Ch16_Bayes_3.rst:436
 msgid ""
-"Some readers might wonder why I picked 3:1 rather than 5:1, given that "
-"`Johnson (2013) <../Other/References.html#johnson-2013>`__ suggests that *p* "
-"= 0.05 lies somewhere in that range. I did so in order to be charitable to "
-"the *p*-value. If I’d chosen a 5:1 Bayes factor instead, the results would "
-"look even better for the Bayesian approach."
+"Some readers might wonder why I picked 3:1 rather than 5:1, given that :ref:"
+"`Johnson (2013) <Johnson_2013>` suggests that *p* = 0.05 lies somewhere in "
+"that range. I did so in order to be charitable to the *p*-value. If I’d "
+"chosen a 5:1 Bayes factor instead, the results would look even better for "
+"the Bayesian approach."
 msgstr ""
 "Einige Leser werden sich fragen, warum ich 3:1 und nicht 5:1 gewählt habe, "
-"da `Johnson (2013) <../Other/References.html#johnson-2013>`__ nahelegt, dass "
-"*p* = 0,05 irgendwo in diesem Bereich liegt. Ich habe dies getan, um dem *p*-"
-"Wert gegenüber wohlwollend zu sein. Hätte ich stattdessen einen Bayes-Faktor "
-"von 5:1 gewählt, würden die Ergebnisse für den Bayes-Ansatz noch besser "
-"aussehen."
+"da :ref:`Johnson (2013) <Johnson_2013>` nahelegt, dass *p* = 0,05 irgendwo "
+"in diesem Bereich liegt. Ich habe dies getan, um dem *p*-Wert gegenüber "
+"wohlwollend zu sein. Hätte ich stattdessen einen Bayes-Faktor von 5:1 "
+"gewählt, würden die Ergebnisse für den Bayes-Ansatz noch besser aussehen."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:444
+#: ../../Ch16/Ch16_Bayes_3.rst:443
 msgid ""
 "Okay, I just *know* that some knowledgeable frequentists will read this and "
 "start complaining about this section. Look, I’m not dumb. I absolutely know "
@@ -2803,29 +2420,27 @@ msgstr ""
 "habe ich einen :doc:`Bayesschen *t*-Test <../Ch16/Ch16_Bayes_5>` als ein "
 "praktisches Beispiel der Anwendung Bayesscher Methoden durchgeführt."
 
-#: ../../Ch16/Ch16_Bayes_8.rst:15
+#: ../../Ch16/Ch16_Bayes_8.rst:16
 msgid ""
 "If you’re interested in learning more about the Bayesian approach, there are "
-"many good books you could look into. `John Kruschke’s (2015) <../Other/"
-"References.html#kruschke-2015>`__ book *Doing Bayesian Data Analysis* is a "
-"pretty good place to start and is a nice mix of theory and practice. His "
-"approach is a little different to the “Bayes factor” approach that I’ve "
-"discussed here, so you won’t be covering the same ground. If you’re a "
-"cognitive psychologist, you might want to check out `Michael Lee and Eric-"
-"Jan Wagenmakers’ (2014) <../Other/References.html#lee-2014>`__ book "
-"*Bayesian Cognitive Modeling*. I picked these two because I think they’re "
-"especially useful for people in my discipline, but there’s a lot of good "
-"books out there, so look around!"
+"many good books you could look into. :ref:`John Kruschke’s (2015) "
+"<Kruschke_2015>` book *Doing Bayesian Data Analysis* is a pretty good place "
+"to start and is a nice mix of theory and practice. His approach is a little "
+"different to the “Bayes factor” approach that I’ve discussed here, so you "
+"won’t be covering the same ground. If you’re a cognitive psychologist, you "
+"might want to check out :ref:`Michael Lee and Eric-Jan Wagenmakers’ (2014) "
+"<Lee_2014>` book *Bayesian Cognitive Modeling*. I picked these two because I "
+"think they’re especially useful for people in my discipline, but there’s a "
+"lot of good books out there, so look around!"
 msgstr ""
 "Wenn Sie mehr über den Bayesschen Ansatz erfahren möchten, gibt es einige "
-"gute Bücher, die Sie sich ansehen können. Das Buch von `John Kruschke (2015) "
-"<../Other/References.html#kruschke-2015>`__ *Doing Bayesian Data Analysis* "
-"ist ein guter Einstieg und bietet eine vernünftige Mischung aus Theorie und "
-"Praxis. Sein Ansatz unterscheidet sich ein wenig von dem „Bayes-Faktor“-"
-"Ansatz, den ich hier besprochen habe, und ist daher nicht absolut "
-"deckungsgleich mit diesem Kapitel. Wenn Sie Kognitionspsychologe sind, "
-"sollten Sie sich `Michael Lee und Eric-Jan Wagenmakers' (2014) <../Other/"
-"References.html#lee-2014>`__ Buch *Bayesian Cognitive Modeling* ansehen. Ich "
-"habe diese beiden Bücher ausgewählt, weil ich denke, dass sie für "
-"Psychologen besonders nützlich sind. Aber es gibt eine Menge guter Bücher "
-"über dieses Thema, also schauen Sie sich um!"
+"gute Bücher, die Sie sich ansehen können. Das Buch von :ref:`John Kruschke "
+"(2015) <Kruschke_2015>` *Doing Bayesian Data Analysis* ist ein guter Einstieg"
+" und bietet eine vernünftige Mischung aus Theorie und Praxis. Sein Ansatz "
+"unterscheidet sich ein wenig von dem „Bayes-Faktor“-Ansatz, den ich hier "
+"besprochen habe, und ist daher nicht absolut deckungsgleich mit diesem "
+"Kapitel. Wenn Sie Kognitionspsychologe sind, sollten Sie sich :ref:`Michael "
+"Lee und Eric-Jan Wagenmakers' (2014) <Lee_2014>` Buch *Bayesian Cognitive "
+"Modeling* ansehen. Ich habe diese beiden Bücher ausgewählt, weil ich denke, "
+"dass sie für Psychologen besonders nützlich sind. Aber es gibt eine Menge "
+"guter Bücher über dieses Thema, also schauen Sie sich um!"

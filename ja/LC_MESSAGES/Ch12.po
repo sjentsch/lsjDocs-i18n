@@ -7,57 +7,15 @@
 # #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -67,31 +25,27 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
 msgid "Correlation and linear regression"
@@ -588,14 +542,14 @@ msgid ""
 "However, something that can never be stressed enough is that you should "
 "*always* look at the scatterplot before attaching any interpretation to the "
 "data. A correlation might not mean what you think it means. The classic "
-"illustration of this is “Anscombe’s Quartet” (`Anscombe, 1973 <../Other/"
-"References.html#anscombe-1973>`__\\ ), a collection of four data sets. Each "
-"data set has two variables, an *X* and a *Y*. For all four data sets the "
-"mean value for *X* is 9 and the mean for *Y* is 7.5. The standard deviations "
-"for all *X* variables are almost identical, as are those for the *Y* "
-"variables. And in each case the correlation between *X* and *Y* is *r* = "
-"0.816`. You can verify this yourself, since I happen to have saved it as a "
-"dataset called |anscombe|_."
+"illustration of this is “Anscombe’s Quartet” (:ref:`Anscombe, 1973 "
+"<Anscombe_1973>`), a collection of four data sets. Each data set has two "
+"variables, an *X* and a *Y*. For all four data sets the mean value for *X* "
+"is 9 and the mean for *Y* is 7.5. The standard deviations for all *X* "
+"variables are almost identical, as are those for the *Y* variables. And in "
+"each case the correlation between *X* and *Y* is *r* = 0.816`. You can "
+"verify this yourself, since I happen to have saved it as a dataset called |"
+"anscombe|_."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:272
@@ -878,12 +832,13 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
 "The second way do to it is to use one of the jamovi add-on modules. This "
-"module is called ``scatr`` and you can install it by clicking on the large ``"
-"+`` icon in the top right of the jamovi screen, opening the jamovi library, "
-"scrolling down until you find ``scatr`` and clicking ``Install``. When you "
-"have done this, you will find a new ``Scatterplot`` command available under "
-"the ``Exploration`` button. This plot is a bit different than the first way, "
-"see :numref:`fig-scatterplot2`, but the important information is the same."
+"module is called ``scatr`` and you can install it by clicking on the large "
+"``+`` icon in the top right of the jamovi screen, opening the jamovi "
+"library, scrolling down until you find ``scatr`` and clicking ``Install``. "
+"When you have done this, you will find a new ``Scatterplot`` command "
+"available under the ``Exploration`` button. This plot is a bit different "
+"than the first way, see :numref:`fig-scatterplot2`, but the important "
+"information is the same."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:60
@@ -1013,8 +968,8 @@ msgid ""
 "the coefficients from *a* and *b* to *b*\\ :sub:`0` and *b*\\ :sub:`1`. "
 "That’s just the way that statisticians like to refer to the coefficients in "
 "a regression model. I’ve no idea why they chose *b*, but that’s what they "
-"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and *b*"
-"\\ :sub:`1` refers to the slope."
+"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and "
+"*b*\\ :sub:`1` refers to the slope."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:89
@@ -1030,7 +985,7 @@ msgid ""
 "as"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:61
+#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:60
 msgid "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 msgstr "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 
@@ -1130,8 +1085,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_04.rst:51
 msgid ""
 "At this point, we now have a concrete definition for what counts as our "
-"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:`"
-"\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
+"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:"
+"`\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
 "coefficients are those that minimise the sum squared residuals, how do we "
 "*find* these wonderful numbers? The actual answer to this question is "
 "complicated and doesn’t help you understand the logic of regression.\\ [#]_ "
@@ -1173,14 +1128,14 @@ msgid ""
 "The most important thing to be able to understand is how to interpret these "
 "coefficients. Let’s start with :math:`\\hat{b}_1`, the slope. If we remember "
 "the definition of the slope, a regression coefficient of :math:`\\hat{b}_1` "
-"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing *Y*"
-"\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain will "
-"improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
+"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing "
+"*Y*\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain "
+"will improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
 "about the intercept? Well, since :math:`\\hat{b}_0` corresponds to “the "
 "expected value of *Y*\\ :sub:`i` when *X*\\ :sub:`i` equals 0”, it’s pretty "
 "straightforward. It implies that if I get zero hours of sleep (*X*\\ :sub:"
-"`i` = 0) then my grumpiness will go off the scale, to an insane value of (*Y*"
-"\\ :sub:`i` = \\125.96). Best to be avoided, I think."
+"`i` = 0) then my grumpiness will go off the scale, to an insane value of "
+"(*Y*\\ :sub:`i` = \\125.96). Best to be avoided, I think."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:103
@@ -1190,8 +1145,8 @@ msgid ""
 "algebra (and to be fair, I always have a few of these people in my "
 "intorductory statistics class), it *will* help *you* to know that the "
 "solution to the estimation problem turns out to be :math:`\\hat{b} = "
-"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:`"
-"\\hat{b}` is a vector containing the estimated regression coefficients, "
+"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:"
+"`\\hat{b}` is a vector containing the estimated regression coefficients, "
 "**X** is the “design matrix” that contains the predictor variables (plus an "
 "additional column containing all ones; strictly **X** is a matrix of the "
 "regressors, but I haven’t discussed the distinction yet), and *y* is a "
@@ -1487,6 +1442,7 @@ msgid "*R*\\² = 1 - 0.184"
 msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
+#, python-format
 msgid ""
 "This gives a value for *R*\\² of **0.816**. The *R*\\² value, sometimes "
 "called the **coefficient of determination**\\ [#]_ has a simple "
@@ -1569,8 +1525,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:137
 msgid ""
-"An obvious question then is whether you should report *R*\\² or adjusted *R*"
-"\\². This is probably a matter of personal preference. If you care more "
+"An obvious question then is whether you should report *R*\\² or adjusted "
+"*R*\\². This is probably a matter of personal preference. If you care more "
 "about interpretability, then *R*\\² is better. If you care more about "
 "correcting for bias, then adjusted *R*\\² is probably better. Speaking just "
 "for myself, I prefer *R*\\². My feeling is that it’s more important to be "
@@ -1829,23 +1785,25 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:153
+#, python-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
-"shown in `fig-reg2` provides the coefficients of the regression model. Each "
-"row in this table refers to one of the coefficients in the regression model. "
-"The first row is the intercept term, and the later ones look at each of the "
-"predictors. The columns give you all of the relevant information. The first "
-"column is the actual estimate of *b* (e.g., 125.97 for the intercept, and "
-"-8.95 for the ``dani.sleep`` predictor). The second column is the standard "
-"error estimate :math:`\\hat\\sigma_b`. The third and fourth columns provide "
-"the lower and upper values for the 95\\% confidence interval around the *b* "
-"estimate (more on this later). The fifth column gives you the *t*-statistic, "
-"and it’s worth noticing that in this table :math:`t= \\hat{b}/ SE(\\hat{b})` "
-"every time. Finally, the last column gives you the actual *p*-value for each "
-"of these tests.\\ [#]_"
+"shown in :numref:`fig-reg2` provides the coefficients of the regression "
+"model. Each row in this table refers to one of the coefficients in the "
+"regression model. The first row is the intercept term, and the later ones "
+"look at each of the predictors. The columns give you all of the relevant "
+"information. The first column is the actual estimate of *b* (e.g., 125.97 "
+"for the intercept, and -8.95 for the ``dani.sleep`` predictor). The second "
+"column is the standard error estimate :math:`\\hat\\sigma_b`. The third and "
+"fourth columns provide the lower and upper values for the 95\\% confidence "
+"interval around the *b* estimate (more on this later). The fifth column "
+"gives you the *t*-statistic, and it’s worth noticing that in this table :"
+"math:`t= \\hat{b}/ SE(\\hat{b})` every time. Finally, the last column gives "
+"you the actual *p*-value for each of these tests.\\ [#]_"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:169
+#: ../../Ch12/Ch12_Regression_07.rst:167
+#, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
 "degrees of freedom used in the *t*-test, which is always *N* - *K* - 1 and "
@@ -1864,17 +1822,17 @@ msgid ""
 "model that we started with is the better model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:189
+#: ../../Ch12/Ch12_Regression_07.rst:187
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = y - "
 "X \\hat{b}`. For *K* predictors plus the intercept, the estimated residual "
 "variance is :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N - K - "
-"1)`. The estimated covariance matrix of the coefficients is :math:`\\hat"
-"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of which "
-"is :math:`SE(\\hat{b})`, our estimated standard errors."
+"1)`. The estimated covariance matrix of the coefficients is :math:"
+"`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of "
+"which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:199
+#: ../../Ch12/Ch12_Regression_07.rst:197
 msgid ""
 "Note that, although jamovi has done multiple tests here, it hasn’t done a "
 "Bonferroni correction or anything. These are standard one-sample *t*-tests "
@@ -1929,6 +1887,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
+#, python-format
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -2017,10 +1976,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
+#, python-format
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
+#, python-format
 msgid ""
 "Standardised coefficients, with 95\\% confidence intervals, for multiple "
 "linear regression"
@@ -2150,21 +2111,21 @@ msgid ""
 "all of this in my intro stats class either. However, I do think it’s "
 "important that you get a sense of what tools are at your disposal, so I’ll "
 "try to introduce a bunch of them here. Finally, I should note that this "
-"section draws quite heavily from `Fox and Weisberg (2011) <../Other/"
-"References.html#fox-2011>`__, the book associated with the ``car`` package "
-"that is used to conduct regression analysis in R. The ``car`` package is "
-"notable for providing some excellent tools for regression diagnostics, and "
-"the book itself talks about them in an admirably clear fashion. I don’t want "
-"to sound too gushy about it, but I do think that `Fox and Weisberg (2011) "
-"<../Other/References.html#fox-2011>`__ is well worth reading, even if some "
-"of the advanced diagnostic techniques are only available in R and not jamovi."
+"section draws quite heavily from :ref:`Fox and Weisberg (2011) <Fox_2011>`, "
+"the book associated with the ``car`` package that is used to conduct "
+"regression analysis in R. The ``car`` package is notable for providing some "
+"excellent tools for regression diagnostics, and the book itself talks about "
+"them in an admirably clear fashion. I don’t want to sound too gushy about "
+"it, but I do think that :ref:`Fox and Weisberg (2011) <Fox_2011>` is well "
+"worth reading, even if some of the advanced diagnostic techniques are only "
+"available in R and not jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:39
+#: ../../Ch12/Ch12_Regression_11.rst:38
 msgid "Three kinds of residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:41
+#: ../../Ch12/Ch12_Regression_11.rst:40
 msgid ""
 "The majority of regression diagnostics revolve around looking at the "
 "residuals, and by now you’ve probably formed a sufficiently pessimistic "
@@ -2178,7 +2139,7 @@ msgid ""
 "chapter, the Pearson residual is identical to the ordinary residual."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:53
+#: ../../Ch12/Ch12_Regression_11.rst:52
 msgid ""
 "The first and simplest kind of residuals that we care about are **ordinary "
 "residuals**. These are the actual raw residuals that I’ve been talking about "
@@ -2189,7 +2150,7 @@ msgid ""
 "the very simple equation:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:63
+#: ../../Ch12/Ch12_Regression_11.rst:62
 msgid ""
 "This is of course what we saw earlier, and unless I specifically refer to "
 "some other kind of residual, this is the one I’m talking about. So there’s "
@@ -2204,20 +2165,20 @@ msgid ""
 "normalised in such a way as to have standard deviation 1."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:76
+#: ../../Ch12/Ch12_Regression_11.rst:75
 msgid ""
 "The way we calculate these is to divide the ordinary residual by an estimate "
 "of the (population) standard deviation of these residuals. For technical "
 "reasons, mumble mumble, the formula for this is"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:80
+#: ../../Ch12/Ch12_Regression_11.rst:79
 msgid ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 msgstr ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 
-#: ../../Ch12/Ch12_Regression_11.rst:82
+#: ../../Ch12/Ch12_Regression_11.rst:81
 msgid ""
 "where :math:`\\hat\\sigma` in this context is the estimated population "
 "standard deviation of the ordinary residuals, and h\\ :sub:`i` is the “hat "
@@ -2228,7 +2189,7 @@ msgid ""
 "or less the truth, it’s just that we’re being a bit fancier."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:90
+#: ../../Ch12/Ch12_Regression_11.rst:89
 msgid ""
 "The third kind of residuals are **Studentised residuals** (also called "
 "“jackknifed residuals”) and they’re even fancier than standardised "
@@ -2236,11 +2197,11 @@ msgid ""
 "some quantity in order to estimate some standardised notion of the residual."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:95
+#: ../../Ch12/Ch12_Regression_11.rst:94
 msgid "The formula for doing the calculations this time is subtly different"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:97
+#: ../../Ch12/Ch12_Regression_11.rst:96
 msgid ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
@@ -2248,10 +2209,10 @@ msgstr ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:99
+#: ../../Ch12/Ch12_Regression_11.rst:98
 msgid ""
-"Notice that our estimate of the standard deviation here is written :math:`"
-"\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
+"Notice that our estimate of the standard deviation here is written :math:"
+"`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
 "residual standard deviation that you *would have obtained* if you just "
 "deleted the i\\ th observation from the data set. This sounds like the sort "
 "of thing that would be a nightmare to calculate, since it seems to be saying "
@@ -2261,21 +2222,21 @@ msgid ""
 "deviation estimate is actually given by the following equation:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:110
+#: ../../Ch12/Ch12_Regression_11.rst:109
 msgid ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
-"\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
 "\n"
 msgstr ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
-"\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:112
+#: ../../Ch12/Ch12_Regression_11.rst:111
 msgid "Isn’t that a pip?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:114
+#: ../../Ch12/Ch12_Regression_11.rst:113
 msgid ""
 "Before moving on, I should point out that you don’t often need to obtain "
 "these residuals yourself, even though they are at the heart of almost all "
@@ -2285,11 +2246,11 @@ msgid ""
 "things yourself in case you ever need to do something non-standard."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:123
+#: ../../Ch12/Ch12_Regression_11.rst:122
 msgid "Three kinds of anomalous data"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:125
+#: ../../Ch12/Ch12_Regression_11.rst:124
 msgid ""
 "One danger that you can run into with linear regression models is that your "
 "analysis might be disproportionately sensitive to a smallish number of "
@@ -2303,7 +2264,7 @@ msgid ""
 "have rather different implications for your analysis."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:136
+#: ../../Ch12/Ch12_Regression_11.rst:135
 msgid ""
 "The first kind of unusual observation is an **outlier**. The definition of "
 "an outlier (in this context) is an observation that is very different from "
@@ -2318,11 +2279,11 @@ msgid ""
 "that case and try to find out why it’s so different."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:154
 msgid "Outliers and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:154
 msgid ""
 "Illustration of outliers: The dotted lines plot the regression line that "
 "would have been estimated without the anomalous observation included, and "
@@ -2332,11 +2293,11 @@ msgid ""
 "predictor (x axis location), and lies a long way from the regression line."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:170
 msgid "High leverage points and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:170
 msgid ""
 "Illustration of high leverage points: The anomalous observation in this case "
 "is unusual both in terms of the predictor (x axis) and the outcome (y axis), "
@@ -2345,7 +2306,7 @@ msgid ""
 "to the regression line and does not distort it."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:179
+#: ../../Ch12/Ch12_Regression_11.rst:178
 msgid ""
 "The second way in which an observation can be unusual is if it has high "
 "**leverage**, which happens when the observation is very different from all "
@@ -2360,7 +2321,7 @@ msgid ""
 "ends up going."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:190
+#: ../../Ch12/Ch12_Regression_11.rst:189
 msgid ""
 "In general, if an observation lies far away from the other ones in terms of "
 "the predictor variables, it will have a large hat value (as a rough guide, "
@@ -2371,11 +2332,11 @@ msgid ""
 "outliers."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:202
 msgid "High influence points and their effect"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:202
 msgid ""
 "Illustration of high influence points: In this case, the anomalous "
 "observation is highly unusual on the predictor variable (x axis), and falls "
@@ -2384,7 +2345,7 @@ msgid ""
 "entirely typical in terms of the outcome variable (y axis)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:211
+#: ../../Ch12/Ch12_Regression_11.rst:210
 msgid ""
 "This brings us to our third measure of unusualness, the **influence** of an "
 "observation. A high influence observation is an outlier that has high "
@@ -2399,7 +2360,7 @@ msgid ""
 "distance**."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:222
+#: ../../Ch12/Ch12_Regression_11.rst:221
 msgid ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
@@ -2407,14 +2368,14 @@ msgstr ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:224
+#: ../../Ch12/Ch12_Regression_11.rst:223
 msgid ""
 "Notice that this is a multiplication of something that measures the outlier-"
 "ness of the observation (the bit on the left), and something that measures "
 "the leverage of the observation (the bit on the right)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:228
+#: ../../Ch12/Ch12_Regression_11.rst:227
 msgid ""
 "In order to have a large Cook’s distance an observation must be a fairly "
 "substantial outlier *and* have high leverage. As a rough guide, Cook’s "
@@ -2422,7 +2383,7 @@ msgid ""
 "use as a quick and dirty rule)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:233
+#: ../../Ch12/Ch12_Regression_11.rst:232
 msgid ""
 "In jamovi, information about Cook’s distance can be calculated by clicking "
 "on the ``Cook’s Distance`` checkbox in the ``Assumption Checks`` → ``Data "
@@ -2431,11 +2392,11 @@ msgid ""
 "in :numref:`fig-reg4`\\."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:245
+#: ../../Ch12/Ch12_Regression_11.rst:244
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:249
+#: ../../Ch12/Ch12_Regression_11.rst:248
 msgid ""
 "You can see that, in this example, the mean Cook’s distance value is 0.01, "
 "and the range is from 0.00000262 to 0.11, so this is some way off the rule "
@@ -2443,7 +2404,7 @@ msgid ""
 "considered large."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:254
+#: ../../Ch12/Ch12_Regression_11.rst:253
 msgid ""
 "An obvious question to ask next is, if you do have large values of Cook’s "
 "distance what should you do? As always, there’s no hard and fast rule. "
@@ -2459,11 +2420,11 @@ msgid ""
 "different from the others and therefore deserves to be handled separately."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:268
+#: ../../Ch12/Ch12_Regression_11.rst:267
 msgid "Checking the normality of the residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:270
+#: ../../Ch12/Ch12_Regression_11.rst:269
 msgid ""
 "Like many of the statistical tools we’ve discussed in this book, regression "
 "models rely on a normality assumption. In this case, we assume that the "
@@ -2471,24 +2432,24 @@ msgid ""
 "plot via the ``Assumption Checks`` → ``Q-Q plot of residuals`` option."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:275
+#: ../../Ch12/Ch12_Regression_11.rst:274
 msgid ""
 "The output is shown in :numref:`fig-reg5`, showing the standardised "
 "residuals plotted as a function of their theoretical quantiles according to "
 "the regression model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:285
+#: ../../Ch12/Ch12_Regression_11.rst:284
 msgid "Quantiles according to the model against standardised residuals"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:285
+#: ../../Ch12/Ch12_Regression_11.rst:284
 msgid ""
 "Plot of the theoretical quantiles according to the model, against the "
 "quantiles of the standardised residuals, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:290
+#: ../../Ch12/Ch12_Regression_11.rst:289
 msgid ""
 "Another thing we should check is the relationship between the fitted values "
 "and the residuals themselves. We can get jamovi to do this using the "
@@ -2502,11 +2463,11 @@ msgid ""
 "probably not worth worrying about."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:307
+#: ../../Ch12/Ch12_Regression_11.rst:306
 msgid "Residuals plots produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:311
+#: ../../Ch12/Ch12_Regression_11.rst:310
 msgid ""
 "If we were worried, then in a lot of cases the solution to this problem (and "
 "many others) is to transform one or more of the variables. We discussed the "
@@ -2517,11 +2478,11 @@ msgid ""
 "earlier: the Box-Cox transform."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:321
+#: ../../Ch12/Ch12_Regression_11.rst:320
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:323
+#: ../../Ch12/Ch12_Regression_11.rst:322
 msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
@@ -2529,23 +2490,23 @@ msgstr ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:325
+#: ../../Ch12/Ch12_Regression_11.rst:324
 msgid ""
 "for all values of λ except λ = 0. When λ = 0 we just take the natural "
 "logarithm (i.e., *ln*\\(x))."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:328
+#: ../../Ch12/Ch12_Regression_11.rst:327
 msgid ""
 "You can calculate it using the ``BOXCOX`` function in the ``Compute`` "
 "variables screen in jamovi."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:332
+#: ../../Ch12/Ch12_Regression_11.rst:331
 msgid "Checking for collinearity"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:334
+#: ../../Ch12/Ch12_Regression_11.rst:333
 msgid ""
 "The last kind of regression diagnostic that I’m going to discuss in this "
 "chapter is the use of **variance inflation factors** (VIFs), which are "
@@ -2554,15 +2515,15 @@ msgid ""
 "inflation factor associated with each predictor *X*\\ :sub:`k` in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:341
+#: ../../Ch12/Ch12_Regression_11.rst:340
 msgid "The formula for the k-th VIF is:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:343
+#: ../../Ch12/Ch12_Regression_11.rst:342
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 msgstr "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 
-#: ../../Ch12/Ch12_Regression_11.rst:345
+#: ../../Ch12/Ch12_Regression_11.rst:344
 msgid ""
 "where *R*\\²\\ :sub:`(-k)` refers to *R*-squared value you would get if you "
 "ran a regression using *X*\\ :sub:`k` as the outcome variable, and all the "
@@ -2571,7 +2532,7 @@ msgid ""
 "correlated with all the other variables in the model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:351
+#: ../../Ch12/Ch12_Regression_11.rst:350
 msgid ""
 "The square root of the VIF is pretty interpretable. It tells you how much "
 "wider the confidence interval for the corresponding coefficient *b*\\ :sub:"
@@ -2584,7 +2545,7 @@ msgid ""
 "between our two predictors isn’t causing much of a problem."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:362
+#: ../../Ch12/Ch12_Regression_11.rst:361
 msgid ""
 "To give a sense of how we could end up with a model that has bigger "
 "collinearity problems, suppose I were to run a much less interesting "
@@ -2594,7 +2555,7 @@ msgid ""
 "correlation matrix for all four variables:"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:377
+#: ../../Ch12/Ch12_Regression_11.rst:376
 msgid ""
 "We have some fairly large correlations between some of our predictor "
 "variables! When we run the regression model and look at the VIF values, we "
@@ -2604,15 +2565,15 @@ msgid ""
 "there."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:389
+#: ../../Ch12/Ch12_Regression_11.rst:388
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:396
+#: ../../Ch12/Ch12_Regression_11.rst:395
 msgid "Or have no hope, as the case may be."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:399
+#: ../../Ch12/Ch12_Regression_11.rst:398
 msgid ""
 "Again, for the linear algebra fanatics: the “hat matrix” is defined to be "
 "that matrix **H** that converts the vector of observed values *y* into a "
@@ -2620,11 +2581,11 @@ msgid ""
 "the fact that this is the matrix that “puts a hat on *y*”. The hat *value* "
 "of the i-th observation is the i-th diagonal element of this matrix (so "
 "technically I should be writing it as h\\ :sub:`ii` rather than h\\ :sub:"
-"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = **X**"
-"\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
+"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = "
+"**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:409
+#: ../../Ch12/Ch12_Regression_11.rst:408
 msgid ""
 "In order to obtain the Cook’s distance for each participant, open the drop-"
 "down menu ``Save`` within the ``Linear Regression`` analysis options and set "
@@ -2691,8 +2652,8 @@ msgid ""
 "implement the qualitative principle behind Ockham’s razor in the context of "
 "selecting a regression model. As it turns out there are several "
 "possibilities. The one that I’ll talk about is the **Akaike information "
-"criterion** (AIC; `Akaike, 1974 <../Other/References.html#akaike-1974>`__"
-"\\ ) simply because it’s available as an option in jamovi."
+"criterion** (AIC; :ref:`Akaike, 1974 <Akaike_1974>`) simply because it’s "
+"available as an option in jamovi."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:50

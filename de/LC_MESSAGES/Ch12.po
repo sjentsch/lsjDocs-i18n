@@ -4,32 +4,41 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
+# #-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-09 16:05+0100\n"
+"POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch12.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"#-#-#-#-#  Ch12.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-10 18:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
 msgid "Correlation and linear regression"
@@ -674,25 +683,25 @@ msgid ""
 "However, something that can never be stressed enough is that you should "
 "*always* look at the scatterplot before attaching any interpretation to the "
 "data. A correlation might not mean what you think it means. The classic "
-"illustration of this is “Anscombe’s Quartet” (`Anscombe, 1973 <../Other/"
-"References.html#anscombe-1973>`__\\ ), a collection of four data sets. Each "
-"data set has two variables, an *X* and a *Y*. For all four data sets the "
-"mean value for *X* is 9 and the mean for *Y* is 7.5. The standard deviations "
-"for all *X* variables are almost identical, as are those for the *Y* "
-"variables. And in each case the correlation between *X* and *Y* is *r* = "
-"0.816`. You can verify this yourself, since I happen to have saved it as a "
-"dataset called |anscombe|_."
+"illustration of this is “Anscombe’s Quartet” (:ref:`Anscombe, 1973 "
+"<Anscombe_1973>`), a collection of four data sets. Each data set has two "
+"variables, an *X* and a *Y*. For all four data sets the mean value for *X* "
+"is 9 and the mean for *Y* is 7.5. The standard deviations for all *X* "
+"variables are almost identical, as are those for the *Y* variables. And in "
+"each case the correlation between *X* and *Y* is *r* = 0.816`. You can "
+"verify this yourself, since I happen to have saved it as a dataset called |"
+"anscombe|_."
 msgstr ""
 "Man kann nicht oft genug betonen, dass man sich *immer* das Streudiagramm "
 "ansehen sollte, bevor man seine Daten interpretiert. Eine Korrelation "
 "bedeutet möglicherweise nicht das, was Sie denken. Das klassische Beispiel "
-"hierfür ist das „Anscombe-Quartett“ (`Anscombe, 1973 <../Other/References."
-"html#anscombe-1973>`__\\ ), eine Sammlung von vier Variablenpaaren, jeweils "
-"*X* und *Y*. Für alle vier Variablenpaare beträgt der Mittelwert für *X* = 9 "
-"und der Mittelwert für *Y* = 7,5. Die Standardabweichung ist für alle *X*-"
-"Variablen fast identisch, ebenso wie die für die *Y* Variablen. Und in jedem "
-"Fall beträgt die Korrelation zwischen *X* und *Y* * r* = 0,816`. Sie können "
-"dies selbst überprüfen, indem Sie den Datensatz |anscombe|_ benutzen."
+"hierfür ist das „Anscombe-Quartett“ (:ref:`Anscombe, 1973 <Anscombe_1973>`),"
+" eine Sammlung von vier Variablenpaaren, jeweils *X* und *Y*. Für alle vier "
+"Variablenpaare beträgt der Mittelwert für *X* = 9 und der Mittelwert für *Y*"
+" = 7,5. Die Standardabweichung ist für alle *X*-Variablen fast identisch, "
+"ebenso wie die für die *Y* Variablen. Und in jedem Fall beträgt die "
+"Korrelation zwischen *X* und *Y* * r* = 0,816`. Sie können dies selbst "
+"überprüfen, indem Sie den Datensatz |anscombe|_ benutzen."
 
 #: ../../Ch12/Ch12_Regression_01.rst:272
 msgid ""
@@ -1105,12 +1114,13 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
 "The second way do to it is to use one of the jamovi add-on modules. This "
-"module is called ``scatr`` and you can install it by clicking on the large ``"
-"+`` icon in the top right of the jamovi screen, opening the jamovi library, "
-"scrolling down until you find ``scatr`` and clicking ``Install``. When you "
-"have done this, you will find a new ``Scatterplot`` command available under "
-"the ``Exploration`` button. This plot is a bit different than the first way, "
-"see :numref:`fig-scatterplot2`, but the important information is the same."
+"module is called ``scatr`` and you can install it by clicking on the large "
+"``+`` icon in the top right of the jamovi screen, opening the jamovi "
+"library, scrolling down until you find ``scatr`` and clicking ``Install``. "
+"When you have done this, you will find a new ``Scatterplot`` command "
+"available under the ``Exploration`` button. This plot is a bit different "
+"than the first way, see :numref:`fig-scatterplot2`, but the important "
+"information is the same."
 msgstr ""
 "Die zweite Möglichkeit ist, eines der jamovi-Zusatzmodule zu verwenden. "
 "Dieses Modul heißt ``scatr`` und Sie können es installieren, indem Sie auf "
@@ -1306,8 +1316,8 @@ msgid ""
 "the coefficients from *a* and *b* to *b*\\ :sub:`0` and *b*\\ :sub:`1`. "
 "That’s just the way that statisticians like to refer to the coefficients in "
 "a regression model. I’ve no idea why they chose *b*, but that’s what they "
-"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and *b*"
-"\\ :sub:`1` refers to the slope."
+"did. In any case *b*\\ :sub:`0` always refers to the intercept term, and "
+"*b*\\ :sub:`1` refers to the slope."
 msgstr ""
 "Das sieht nach der gleichen Formel aus, aber diese Version enthält ein paar "
 "zusätzliche Details. Vergewissern wir uns, dass wir sie verstehen. Zunächst "
@@ -1328,8 +1338,9 @@ msgstr ""
 "Koeffizienten von *a* und *b* in *b*\\ :sub:`0` und *b*\\ :sub:`1` geändert. "
 "Das ist einfach die Art und Weise, wie Statistiker die Koeffizienten in "
 "einem Regressionsmodell bezeichnen. Ich habe keine Ahnung, warum sie *b* "
-"gewählt haben, aber sie haben es so gemacht. Auf jeden Fall bezieht sich *b*"
-"\\ :sub:`0` immer auf den Interzept-Term und *b*\\ :sub:`1` auf die Steigung."
+"gewählt haben, aber sie haben es so gemacht. Auf jeden Fall bezieht sich "
+"*b*\\ :sub:`0` immer auf den Interzept-Term und *b*\\ :sub:`1` auf die "
+"Steigung."
 
 #: ../../Ch12/Ch12_Regression_03.rst:89
 msgid ""
@@ -1353,7 +1364,7 @@ msgstr ""
 "*Residuum* und bezeichnen sie als ε\\ :sub:`i`.\\ [#]_ Mathematisch "
 "ausgedrückt sind die Residuen definiert als"
 
-#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:61
+#: ../../Ch12/Ch12_Regression_03.rst:99 ../../Ch12/Ch12_Regression_11.rst:60
 msgid "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 msgstr "ε\\ :sub:`i` = *Y*\\ :sub:`i` - *Ŷ*\\ :sub:`i`"
 
@@ -1480,8 +1491,8 @@ msgstr ""
 "Antwort ist, lohnt es sich wahrscheinlich, die Tatsache zu erwähnen, dass "
 "unsere Regressionskoeffizienten *Schätzungen* sind (wir versuchen, die "
 "Parameter zu schätzen, die eine Population beschreiben!). Deshalb habe ich "
-"die kleinen Hüte hinzugefügt, so dass wir :math:`\\hat{b}_0` und :math:`"
-"\\hat{b}_1` erhalten, anstatt *b*\\ :sub:`0` und *b*\\ :sub:`1`. "
+"die kleinen Hüte hinzugefügt, so dass wir :math:`\\hat{b}_0` und :math:"
+"`\\hat{b}_1` erhalten, anstatt *b*\\ :sub:`0` und *b*\\ :sub:`1`. "
 "Abschließend sollte ich noch anmerken, dass es mehr als eine Möglichkeit "
 "gibt, ein Regressionsmodell zu schätzen. Der technischere Name für dieses "
 "Schätzverfahren ist **ordinary least squares (OLS) regression** "
@@ -1490,8 +1501,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_04.rst:51
 msgid ""
 "At this point, we now have a concrete definition for what counts as our "
-"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:`"
-"\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
+"“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:"
+"`\\hat{b}_1`. The natural question to ask next is, if our optimal regression "
 "coefficients are those that minimise the sum squared residuals, how do we "
 "*find* these wonderful numbers? The actual answer to this question is "
 "complicated and doesn’t help you understand the logic of regression.\\ [#]_ "
@@ -1533,8 +1544,8 @@ msgstr ""
 "durchzuführen, öffnen Sie die Analyse ``Regression`` - ``Linear Regression`` "
 "in jamovi. Verschieben Sie dann ``dani.grump`` in die ``Dependent Variable`` "
 "und ``dani.sleep`` in das Variablenfeld ``Covariates``. Dadurch ergeben sich "
-"die in :numref:`fig-reg1` gezeigten Ergebnisse, mit einem Interzept :math:`"
-"\\hat{b}_0` = 125,96 und einer Steigung :math:`\\hat{b}_1` = -8,94. Mit "
+"die in :numref:`fig-reg1` gezeigten Ergebnisse, mit einem Interzept :math:"
+"`\\hat{b}_0` = 125,96 und einer Steigung :math:`\\hat{b}_1` = -8,94. Mit "
 "anderen Worten, die am besten passende Regressionsgerade, die ich in :numref:"
 "`fig-regression1` eingezeichnet habe, hat die folgende Formel:"
 
@@ -1551,14 +1562,14 @@ msgid ""
 "The most important thing to be able to understand is how to interpret these "
 "coefficients. Let’s start with :math:`\\hat{b}_1`, the slope. If we remember "
 "the definition of the slope, a regression coefficient of :math:`\\hat{b}_1` "
-"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing *Y*"
-"\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain will "
-"improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
+"= -8.94 means that if I increase *X*\\ :sub:`i` by 1, then I’m decreasing "
+"*Y*\\ :sub:`i` by 8.94. That is, each additional hour of sleep that I gain "
+"will improve my mood, reducing my grumpiness by 8.94 grumpiness points. What "
 "about the intercept? Well, since :math:`\\hat{b}_0` corresponds to “the "
 "expected value of *Y*\\ :sub:`i` when *X*\\ :sub:`i` equals 0”, it’s pretty "
 "straightforward. It implies that if I get zero hours of sleep (*X*\\ :sub:"
-"`i` = 0) then my grumpiness will go off the scale, to an insane value of (*Y*"
-"\\ :sub:`i` = \\125.96). Best to be avoided, I think."
+"`i` = 0) then my grumpiness will go off the scale, to an insane value of "
+"(*Y*\\ :sub:`i` = \\125.96). Best to be avoided, I think."
 msgstr ""
 "Das Wichtigste, was man verstehen muss, ist, wie man diese Koeffizienten "
 "interpretieren kann. Beginnen wir mit :math:`\\hat{b}_1`, der Steigung. Wenn "
@@ -1580,8 +1591,8 @@ msgid ""
 "algebra (and to be fair, I always have a few of these people in my "
 "intorductory statistics class), it *will* help *you* to know that the "
 "solution to the estimation problem turns out to be :math:`\\hat{b} = "
-"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:`"
-"\\hat{b}` is a vector containing the estimated regression coefficients, "
+"(\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^\\prime y`, where :math:"
+"`\\hat{b}` is a vector containing the estimated regression coefficients, "
 "**X** is the “design matrix” that contains the predictor variables (plus an "
 "additional column containing all ones; strictly **X** is a matrix of the "
 "regressors, but I haven’t discussed the distinction yet), and *y* is a "
@@ -1596,8 +1607,8 @@ msgstr ""
 "Kung-Fu-Meister der linearen Algebra ist (und um fair zu sein, ich habe "
 "immer ein paar von diesen Leuten in meinem Einführungskurs in Statistik), "
 "*wird* es Ihnen helfen zu wissen, dass die Lösung des Schätzungsproblems "
-"sich als :math:`\\hat{b} = (\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}^"
-"\\prime y`, wobei :math:`\\hat{b}` ein Vektor ist, der die geschätzten "
+"sich als :math:`\\hat{b} = (\\mathbf{X}^\\prime\\mathbf{X})^{-1} \\mathbf{X}"
+"^\\prime y`, wobei :math:`\\hat{b}` ein Vektor ist, der die geschätzten "
 "Regressionskoeffizienten enthält, **X** die „Designmatrix“ ist, welche die "
 "Prädiktorvariablen enthält (plus eine zusätzliche Spalte, die Einsen in "
 "allen Zeilen enthält; streng genommen ist **X** eine Matrix der Regressoren, "
@@ -1996,8 +2007,8 @@ msgid ""
 msgstr ""
 "Um dies zu beheben, möchten wir diese beiden ziemlich bedeutungslosen Zahlen "
 "in eine einzige Zahl umwandeln. Eine schöne, interpretierbare Zahl, die wir "
-"aus keinem besonderen Grund *R*\\² nennen. Wir möchten, dass der Wert von *R*"
-"\\² gleich 1 ist, wenn das Regressionsmodell bei der Vorhersage der Daten "
+"aus keinem besonderen Grund *R*\\² nennen. Wir möchten, dass der Wert von "
+"*R*\\² gleich 1 ist, wenn das Regressionsmodell bei der Vorhersage der Daten "
 "keine Fehler macht. Mit anderen Worten, wenn sich herausstellt, dass die "
 "Restfehler gleich Null sind. Das heißt, wenn SS\\ :sub:`res` = 0 ist, dann "
 "erwarten wir *R*\\² = 1. Ähnlich verhält es sich, wenn das Modell völlig "
@@ -2021,6 +2032,7 @@ msgid "*R*\\² = 1 - 0.184"
 msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
+#, python-format
 msgid ""
 "This gives a value for *R*\\² of **0.816**. The *R*\\² value, sometimes "
 "called the **coefficient of determination**\\ [#]_ has a simple "
@@ -2146,8 +2158,8 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:137
 msgid ""
-"An obvious question then is whether you should report *R*\\² or adjusted *R*"
-"\\². This is probably a matter of personal preference. If you care more "
+"An obvious question then is whether you should report *R*\\² or adjusted "
+"*R*\\². This is probably a matter of personal preference. If you care more "
 "about interpretability, then *R*\\² is better. If you care more about "
 "correcting for bias, then adjusted *R*\\² is probably better. Speaking just "
 "for myself, I prefer *R*\\². My feeling is that it’s more important to be "
@@ -2159,8 +2171,8 @@ msgid ""
 msgstr ""
 "Eine offensichtliche Frage ist, ob Sie *R*\\² oder das adjustierte *R*\\² "
 "angeben sollten. Dies ist wahrscheinlich eine Frage der persönlichen "
-"Vorliebe. Wenn Sie mehr Wert auf die Interpretierbarkeit legen, dann ist *R*"
-"\\² besser. Wenn Sie mehr Wert auf die Korrektur von Verzerrungen legen, "
+"Vorliebe. Wenn Sie mehr Wert auf die Interpretierbarkeit legen, dann ist "
+"*R*\\² besser. Wenn Sie mehr Wert auf die Korrektur von Verzerrungen legen, "
 "dann ist das adjustierte *R*\\² wahrscheinlich besser. Ich persönlich "
 "bevorzuge *R*\\². Meines Erachtens ist es wichtiger, dass Sie Ihr Maß für "
 "die Modellgüte interpretieren können. Außerdem werden wir in Abschnitt :doc:"
@@ -2284,15 +2296,15 @@ msgid ""
 "But just note that"
 msgstr ""
 "Wie können wir diese beiden Hypothesen gegeneinander testen? Der Trick "
-"besteht darin, zu verstehen, dass es möglich ist, die totale Quadratsumme SS"
-"\\ :sub:`tot` in die Quadratsumme der Residuen SS\\ :sub:`res` und die durch "
-"das Regressionsmodell erklärte Quadratsumme SS\\ :sub:`mod` aufzuteilen (und "
-"da die Quadratsumme nichts anderes ist als die Varianz multipliziert mit *N* "
-"bzw. *N* - 1 hätte ich genauso gut Varianz an Stelle von Quadratsumme "
-"schreiben können). Ich überspringe die technischen Details, da wir dazu "
-"später kommen, wenn wir uns die ANOVA in Kapitel :doc:`Vergleich mehrerer "
-"Mittelwerte (einfaktorielle ANOVA) <../Ch13/Ch13_ANOVA>` ansehen. Aber "
-"beachten Sie einfach, dass"
+"besteht darin, zu verstehen, dass es möglich ist, die totale Quadratsumme "
+"SS\\ :sub:`tot` in die Quadratsumme der Residuen SS\\ :sub:`res` und die "
+"durch das Regressionsmodell erklärte Quadratsumme SS\\ :sub:`mod` "
+"aufzuteilen (und da die Quadratsumme nichts anderes ist als die Varianz "
+"multipliziert mit *N* bzw. *N* - 1 hätte ich genauso gut Varianz an Stelle "
+"von Quadratsumme schreiben können). Ich überspringe die technischen Details, "
+"da wir dazu später kommen, wenn wir uns die ANOVA in Kapitel :doc:`Vergleich "
+"mehrerer Mittelwerte (einfaktorielle ANOVA) <../Ch13/Ch13_ANOVA>` ansehen. "
+"Aber beachten Sie einfach, dass"
 
 #: ../../Ch12/Ch12_Regression_07.rst:44
 msgid "SS\\ :sub:`mod` = SS\\ :sub:`tot` - SS\\ :sub:`res`"
@@ -2533,37 +2545,40 @@ msgstr ""
 "der einige wichtige Ausgabeoptionen gesetzt wurden."
 
 #: ../../Ch12/Ch12_Regression_07.rst:153
+#, python-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
-"shown in `fig-reg2` provides the coefficients of the regression model. Each "
-"row in this table refers to one of the coefficients in the regression model. "
-"The first row is the intercept term, and the later ones look at each of the "
-"predictors. The columns give you all of the relevant information. The first "
-"column is the actual estimate of *b* (e.g., 125.97 for the intercept, and "
-"-8.95 for the ``dani.sleep`` predictor). The second column is the standard "
-"error estimate :math:`\\hat\\sigma_b`. The third and fourth columns provide "
-"the lower and upper values for the 95\\% confidence interval around the *b* "
-"estimate (more on this later). The fifth column gives you the *t*-statistic, "
-"and it’s worth noticing that in this table :math:`t= \\hat{b}/ SE(\\hat{b})` "
-"every time. Finally, the last column gives you the actual *p*-value for each "
-"of these tests.\\ [#]_"
+"shown in :numref:`fig-reg2` provides the coefficients of the regression "
+"model. Each row in this table refers to one of the coefficients in the "
+"regression model. The first row is the intercept term, and the later ones "
+"look at each of the predictors. The columns give you all of the relevant "
+"information. The first column is the actual estimate of *b* (e.g., 125.97 "
+"for the intercept, and -8.95 for the ``dani.sleep`` predictor). The second "
+"column is the standard error estimate :math:`\\hat\\sigma_b`. The third and "
+"fourth columns provide the lower and upper values for the 95\\% confidence "
+"interval around the *b* estimate (more on this later). The fifth column "
+"gives you the *t*-statistic, and it’s worth noticing that in this table :"
+"math:`t= \\hat{b}/ SE(\\hat{b})` every time. Finally, the last column gives "
+"you the actual *p*-value for each of these tests.\\ [#]_"
 msgstr ""
-"Die ``Model Coefficients`` am Ende der jamovi-Analyseergebnisse, die in `fig-"
-"reg2` dargestellt sind, enthält die Koeffizienten des Regressionsmodells. "
-"Jede Zeile in dieser Tabelle bezieht sich auf einen der Koeffizienten des "
-"Regressionsmodells. Die erste Zeile ist der Interzept-Term, und die weiteren "
-"Zeilen befassen sich mit den einzelnen Prädiktoren. Die Spalten geben Ihnen "
-"alle relevanten Informationen. Die erste Spalte ist die aktuelle Schätzung "
-"von *b* (z. B. 125,97 für das Interzept und -8,95 für den Prädiktor ``dani."
-"sleep``). Die zweite Spalte ist die Schätzung des Standardfehlers :math:\\hat"
-"\\sigma_b`. Die dritte und vierte Spalte enthalten die unteren und oberen "
-"Werte für das 95\\%-Konfidenzintervall um die Schätzung von *b* (mehr dazu "
-"später). Die fünfte Spalte enthält die *t*-Statistik, und es ist "
-"erwähnenswert, dass dieser Wert in dieser Tabelle immer :math:`t= \\hat{b}/ "
-"SE(\\hat{b})` ist. In der letzten Spalte schließlich finden Sie den *p*-Wert "
-"für jeden dieser Tests.\\ [#]_"
+"Die ``Model Coefficients`` am Ende der jamovi-Analyseergebnisse, die in "
+":numref:`fig-reg2` dargestellt sind, enthält die Koeffizienten des "
+"Regressionsmodells. Jede Zeile in dieser Tabelle bezieht sich auf einen "
+"der Koeffizienten des Regressionsmodells. Die erste Zeile ist der "
+"Interzept-Term, und die weiteren Zeilen befassen sich mit den einzelnen "
+"Prädiktoren. Die Spalten geben Ihnen alle relevanten Informationen. Die "
+"erste Spalte ist die aktuelle Schätzung von *b* (z. B. 125,97 für das "
+"Interzept und -8,95 für den Prädiktor ``dani.sleep``). Die zweite Spalte "
+"ist die Schätzung des Standardfehlers :math:\\hat\\sigma_b`. Die dritte "
+"und vierte Spalte enthalten die unteren und oberen Werte für das 95\\%-"
+"Konfidenzintervall um die Schätzung von *b* (mehr dazu später). Die "
+"fünfte Spalte enthält die *t*-Statistik, und es ist erwähnenswert, dass "
+"dieser Wert in dieser Tabelle immer :math:`t= \\hat{b}/ SE(\\hat{b})` "
+"ist. In der letzten Spalte schließlich finden Sie den *p*-Wert für jeden "
+"dieser Tests.\\ [#]_"
 
-#: ../../Ch12/Ch12_Regression_07.rst:169
+#: ../../Ch12/Ch12_Regression_07.rst:167
+#, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
 "degrees of freedom used in the *t*-test, which is always *N* - *K* - 1 and "
@@ -2598,23 +2613,24 @@ msgstr ""
 "ganz wegzulassen. Mit anderen Worten: Das einfache Regressionsmodell, mit "
 "dem wir begonnen haben, ist das bessere Modell."
 
-#: ../../Ch12/Ch12_Regression_07.rst:189
+#: ../../Ch12/Ch12_Regression_07.rst:187
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = y - "
 "X \\hat{b}`. For *K* predictors plus the intercept, the estimated residual "
 "variance is :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N - K - "
-"1)`. The estimated covariance matrix of the coefficients is :math:`\\hat"
-"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of which "
-"is :math:`SE(\\hat{b})`, our estimated standard errors."
+"1)`. The estimated covariance matrix of the coefficients is :math:"
+"`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, the main diagonal of "
+"which is :math:`SE(\\hat{b})`, our estimated standard errors."
 msgstr ""
 "Für fortgeschrittene Leser: Der Vektor der Residuen ist :math:`\\epsilon = y "
 "- X \\hat{b}`. Für K-Prädiktoren plus dem Interzept ist die geschätzte "
 "Varianz der Residuen :math:`\\hat\\sigma^2 = \\epsilon^\\prime\\epsilon / (N "
-"- K - 1)`. Die geschätzte Kovarianzmatrix der Koeffizienten ist :math:`\\hat"
-"\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, dessen Hauptdiagonale :math:"
-"`SE(\\hat{b})` ist, und unsere geschätzten Standardfehler enthält."
+"- K - 1)`. Die geschätzte Kovarianzmatrix der Koeffizienten ist :math:"
+"`\\hat\\sigma^2(\\mathbf{X}^\\prime\\mathbf{X})^{-1}`, dessen "
+"Hauptdiagonale :math:`SE(\\hat{b})` ist, und unsere geschätzten "
+"Standardfehler enthält."
 
-#: ../../Ch12/Ch12_Regression_07.rst:199
+#: ../../Ch12/Ch12_Regression_07.rst:197
 msgid ""
 "Note that, although jamovi has done multiple tests here, it hasn’t done a "
 "Bonferroni correction or anything. These are standard one-sample *t*-tests "
@@ -2692,6 +2708,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
+#, python-format
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -2838,10 +2855,12 @@ msgstr ""
 "die Ergebnisausgabe in :numref:`fig-reg3`."
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
+#, python-format
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr "Standardisierte Koeffizienten mit 95\\%-Konfidenzintervallen"
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
+#, python-format
 msgid ""
 "Standardised coefficients, with 95\\% confidence intervals, for multiple "
 "linear regression"
@@ -3048,40 +3067,39 @@ msgid ""
 "all of this in my intro stats class either. However, I do think it’s "
 "important that you get a sense of what tools are at your disposal, so I’ll "
 "try to introduce a bunch of them here. Finally, I should note that this "
-"section draws quite heavily from `Fox and Weisberg (2011) <../Other/"
-"References.html#fox-2011>`__, the book associated with the ``car`` package "
-"that is used to conduct regression analysis in R. The ``car`` package is "
-"notable for providing some excellent tools for regression diagnostics, and "
-"the book itself talks about them in an admirably clear fashion. I don’t want "
-"to sound too gushy about it, but I do think that `Fox and Weisberg (2011) "
-"<../Other/References.html#fox-2011>`__ is well worth reading, even if some "
-"of the advanced diagnostic techniques are only available in R and not jamovi."
+"section draws quite heavily from :ref:`Fox and Weisberg (2011) <Fox_2011>`, "
+"the book associated with the ``car`` package that is used to conduct "
+"regression analysis in R. The ``car`` package is notable for providing some "
+"excellent tools for regression diagnostics, and the book itself talks about "
+"them in an admirably clear fashion. I don’t want to sound too gushy about "
+"it, but I do think that :ref:`Fox and Weisberg (2011) <Fox_2011>` is well "
+"worth reading, even if some of the advanced diagnostic techniques are only "
+"available in R and not jamovi."
 msgstr ""
-"In diesem Abschnitt beschreibe ich verschiedene Dinge, die Sie tun können, "
-"um zu überprüfen, ob Ihr Regressionsmodell das tut, was es tun soll. Es "
-"deckt nicht das gesamte Spektrum der Möglichkeiten ab, die Sie untersuchen "
-"könnten. Aber es ist immer noch viel detaillierter als das, was ich viele "
-"Leute in der Praxis tun sehe, und selbst ich decke normalerweise nicht alle "
-"Möglichkeiten in meinen Statistik-Einführungskursen ab. Ich denke jedoch, "
-"dass es wichtig ist, dass Sie ein Gefühl dafür bekommen, welche Werkzeuge "
-"Ihnen zur Verfügung stehen. Also werde ich versuchen, hier ein paar davon "
-"vorzustellen. Schließlich sollte ich anmerken, dass dieser Abschnitt "
-"ziemlich stark von `Fox and Weisberg (2011) <.. /Other/References."
-"html#fox-2011>`__ geprägt ist, das Buch, das mit dem R-Paket ``car`` "
-"verbunden ist, und zum Durchführen von Regressionsanalysen in ``R`` "
+"In diesem Abschnitt beschreibe ich verschiedene Dinge, die Sie tun "
+"können, um zu überprüfen, ob Ihr Regressionsmodell das tut, was es tun "
+"soll. Es deckt nicht das gesamte Spektrum der Möglichkeiten ab, die Sie "
+"untersuchen könnten. Aber es ist immer noch viel detaillierter als das, "
+"was ich viele Leute in der Praxis tun sehe, und selbst ich decke "
+"normalerweise nicht alle Möglichkeiten in meinen Statistik-"
+"Einführungskursen ab. Ich denke jedoch, dass es wichtig ist, dass Sie ein "
+"Gefühl dafür bekommen, welche Werkzeuge Ihnen zur Verfügung stehen. Also "
+"werde ich versuchen, hier ein paar davon vorzustellen. Schließlich sollte "
+"ich anmerken, dass dieser Abschnitt ziemlich stark von :ref:`Fox und "
+"Weisberg (2011) <Fox_2011>` geprägt ist, das Buch, das mit dem R-Paket "
+"``car`` verbunden ist, und zum Durchführen von Regressionsanalysen in ``R`` "
 "verwendet werden kann. Das ``car``-Paket zeichnet sich dadurch aus, dass es "
 "einige hervorragende Werkzeuge für die Regressionsdiagnose bietet, und das "
 "Buch beschreibt diese Werkzeuge in bewundernswerter Klarheit. Ich möchte "
-"nicht zu überschwänglich klingen, aber ich denke, dass `Fox und Weisberg "
-"(2011) <.. /Other/References.html#fox-2011>`__ lesenswert ist, auch wenn "
-"einige der fortgeschrittenen Diagnosetechniken nur in ``R`` und nicht in "
-"jamovi verfügbar sind."
+"nicht zu überschwänglich klingen, aber ich denke, dass :ref:`Fox und Weisberg"
+" (2011) <Fox_2011>` lesenswert ist, auch wenn einige der fortgeschrittenen "
+"Diagnosetechniken nur in ``R`` und nicht in jamovi verfügbar sind."
 
-#: ../../Ch12/Ch12_Regression_11.rst:39
+#: ../../Ch12/Ch12_Regression_11.rst:38
 msgid "Three kinds of residuals"
 msgstr "Drei Arten von Residuen"
 
-#: ../../Ch12/Ch12_Regression_11.rst:41
+#: ../../Ch12/Ch12_Regression_11.rst:40
 msgid ""
 "The majority of regression diagnostics revolve around looking at the "
 "residuals, and by now you’ve probably formed a sufficiently pessimistic "
@@ -3106,7 +3124,7 @@ msgstr ""
 "die Modelle, über die wir in diesem Kapitel sprechen, sind Pearson-Residuen "
 "jedoch identisch mit den gewöhnlichen Residuen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:53
+#: ../../Ch12/Ch12_Regression_11.rst:52
 msgid ""
 "The first and simplest kind of residuals that we care about are **ordinary "
 "residuals**. These are the actual raw residuals that I’ve been talking about "
@@ -3125,7 +3143,7 @@ msgstr ""
 "diese Nomenklatur halten. In diesem Sinne haben wir die sehr einfache "
 "Gleichung:"
 
-#: ../../Ch12/Ch12_Regression_11.rst:63
+#: ../../Ch12/Ch12_Regression_11.rst:62
 msgid ""
 "This is of course what we saw earlier, and unless I specifically refer to "
 "some other kind of residual, this is the one I’m talking about. So there’s "
@@ -3153,7 +3171,7 @@ msgstr ""
 "interessiert sind, ist es praktisch, die **standardisierten Residuen** zu "
 "schätzen, die so normiert werden, dass sie eine Standardabweichung 1 haben."
 
-#: ../../Ch12/Ch12_Regression_11.rst:76
+#: ../../Ch12/Ch12_Regression_11.rst:75
 msgid ""
 "The way we calculate these is to divide the ordinary residual by an estimate "
 "of the (population) standard deviation of these residuals. For technical "
@@ -3164,13 +3182,13 @@ msgstr ""
 "Grundgesamtheit zu dividieren. Aus technischen Gründen… unverständlich… "
 "lautet die Formel dafür"
 
-#: ../../Ch12/Ch12_Regression_11.rst:80
+#: ../../Ch12/Ch12_Regression_11.rst:79
 msgid ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 msgstr ""
 "ε\\ :sub:`i`\\' = :math:`\\frac{\\epsilon_i}{\\hat{\\sigma} \\sqrt{1-h_i}}`"
 
-#: ../../Ch12/Ch12_Regression_11.rst:82
+#: ../../Ch12/Ch12_Regression_11.rst:81
 msgid ""
 "where :math:`\\hat\\sigma` in this context is the estimated population "
 "standard deviation of the ordinary residuals, and h\\ :sub:`i` is the “hat "
@@ -3189,7 +3207,7 @@ msgstr ""
 "umgewandelt. Tatsächlich entspricht das mehr oder weniger die Wahrheit, es "
 "ist nur so, dass wir das auf eine ein bisschen ausgefallenere Art machen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:90
+#: ../../Ch12/Ch12_Regression_11.rst:89
 msgid ""
 "The third kind of residuals are **Studentised residuals** (also called "
 "“jackknifed residuals”) and they’re even fancier than standardised "
@@ -3202,12 +3220,12 @@ msgstr ""
 "Residuum zu nehmen und durch eine bestimmte Größe zu dividieren, um eine "
 "standardisierte Schätzung des Residuums zu erhalten."
 
-#: ../../Ch12/Ch12_Regression_11.rst:95
+#: ../../Ch12/Ch12_Regression_11.rst:94
 msgid "The formula for doing the calculations this time is subtly different"
 msgstr ""
 "Die Formel für das Durchführen der Berechnungen ist diesmal etwas anders"
 
-#: ../../Ch12/Ch12_Regression_11.rst:97
+#: ../../Ch12/Ch12_Regression_11.rst:96
 msgid ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
@@ -3215,10 +3233,10 @@ msgstr ""
 "\\epsilon_{i}^* = \\frac{\\epsilon_i}{\\hat{\\sigma}_{(-i)} \\sqrt{1-h_i}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:99
+#: ../../Ch12/Ch12_Regression_11.rst:98
 msgid ""
-"Notice that our estimate of the standard deviation here is written :math:`"
-"\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
+"Notice that our estimate of the standard deviation here is written :math:"
+"`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
 "residual standard deviation that you *would have obtained* if you just "
 "deleted the i\\ th observation from the data set. This sounds like the sort "
 "of thing that would be a nightmare to calculate, since it seems to be saying "
@@ -3227,32 +3245,32 @@ msgid ""
 "Fortunately, some terribly clever person has shown that this standard "
 "deviation estimate is actually given by the following equation:"
 msgstr ""
-"Beachten Sie, dass unsere Schätzung der Standardabweichung hier als :math:`"
-"\\hat{\\sigma}_{(-i)}`. Dies entspricht der Schätzung der Standardabweichung "
-"der Residuen, die Sie erhalten hätten, wenn Sie die i-te Beobachtung einfach "
-"aus dem Datensatz gelöscht hätten. Das klingt nach etwas, was zu berechnen "
-"ein Albtraum ist, da es zu sagen scheint, dass Sie *N* neue "
-"Regressionsmodelle ausführen müssten (wo selbst ein moderner Computer ein "
-"wenig murren würde, besonders wenn Sie einen großen Datensatz haben). "
-"Glücklicherweise hat eine schrecklich kluge Person gezeigt, dass diese "
-"Schätzung der Standardabweichung tatsächlich durch die folgende Gleichung "
-"möglich ist:"
+"Beachten Sie, dass unsere Schätzung der Standardabweichung hier als :math:"
+"`\\hat{\\sigma}_{(-i)}`. Dies entspricht der Schätzung der "
+"Standardabweichung der Residuen, die Sie erhalten hätten, wenn Sie die i-te "
+"Beobachtung einfach aus dem Datensatz gelöscht hätten. Das klingt nach "
+"etwas, was zu berechnen ein Albtraum ist, da es zu sagen scheint, dass Sie "
+"*N* neue Regressionsmodelle ausführen müssten (wo selbst ein moderner "
+"Computer ein wenig murren würde, besonders wenn Sie einen großen Datensatz "
+"haben). Glücklicherweise hat eine schrecklich kluge Person gezeigt, dass "
+"diese Schätzung der Standardabweichung tatsächlich durch die folgende "
+"Gleichung möglich ist:"
 
-#: ../../Ch12/Ch12_Regression_11.rst:110
+#: ../../Ch12/Ch12_Regression_11.rst:109
 msgid ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
-"\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
 "\n"
 msgstr ""
-"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}^"
-"\\prime}^2}{N-K-2}}\n"
+"\\hat\\sigma_{(-i)} = \\hat{\\sigma} \\ \\sqrt{\\frac{N-K-1 - {\\epsilon_{i}"
+"^\\prime}^2}{N-K-2}}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:112
+#: ../../Ch12/Ch12_Regression_11.rst:111
 msgid "Isn’t that a pip?"
 msgstr "Ist das nicht ein krönender Abschluss?"
 
-#: ../../Ch12/Ch12_Regression_11.rst:114
+#: ../../Ch12/Ch12_Regression_11.rst:113
 msgid ""
 "Before moving on, I should point out that you don’t often need to obtain "
 "these residuals yourself, even though they are at the heart of almost all "
@@ -3270,11 +3288,11 @@ msgstr ""
 "Diagnostik durchführen möchte, die durch keine der Standardmethoden "
 "abgedeckt wird."
 
-#: ../../Ch12/Ch12_Regression_11.rst:123
+#: ../../Ch12/Ch12_Regression_11.rst:122
 msgid "Three kinds of anomalous data"
 msgstr "Drei Arten von anomalen Daten"
 
-#: ../../Ch12/Ch12_Regression_11.rst:125
+#: ../../Ch12/Ch12_Regression_11.rst:124
 msgid ""
 "One danger that you can run into with linear regression models is that your "
 "analysis might be disproportionately sensitive to a smallish number of "
@@ -3299,7 +3317,7 @@ msgstr ""
 "drei sind interessant, aber sie haben ziemlich unterschiedliche Auswirkungen "
 "auf Ihre Analyse."
 
-#: ../../Ch12/Ch12_Regression_11.rst:136
+#: ../../Ch12/Ch12_Regression_11.rst:135
 msgid ""
 "The first kind of unusual observation is an **outlier**. The definition of "
 "an outlier (in this context) is an observation that is very different from "
@@ -3327,11 +3345,11 @@ msgstr ""
 "ein Hinweis, sich diesen Fall genauer anzusehen und herauszufinden, warum er "
 "sich so stark von den übrigen Fällen unterscheidet."
 
-#: ../../Ch12/Ch12_Regression_11.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:154
 msgid "Outliers and their effect"
 msgstr "Ausreißer und ihre Wirkung"
 
-#: ../../Ch12/Ch12_Regression_11.rst:155
+#: ../../Ch12/Ch12_Regression_11.rst:154
 msgid ""
 "Illustration of outliers: The dotted lines plot the regression line that "
 "would have been estimated without the anomalous observation included, and "
@@ -3348,11 +3366,11 @@ msgstr ""
 "Ergebnis (Position auf der Y-Achse), aber nicht für den Prädiktor (Position "
 "auf der X-Achse) und liegt weit von der Regressionsgerade entfernt."
 
-#: ../../Ch12/Ch12_Regression_11.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:170
 msgid "High leverage points and their effect"
 msgstr "Hebelpunkte und ihre Wirkung"
 
-#: ../../Ch12/Ch12_Regression_11.rst:171
+#: ../../Ch12/Ch12_Regression_11.rst:170
 msgid ""
 "Illustration of high leverage points: The anomalous observation in this case "
 "is unusual both in terms of the predictor (x axis) and the outcome (y axis), "
@@ -3367,7 +3385,7 @@ msgstr ""
 "Die Beobachtung liegt sehr nahe an der Regressionsgerade und verzerrt sie "
 "nicht."
 
-#: ../../Ch12/Ch12_Regression_11.rst:179
+#: ../../Ch12/Ch12_Regression_11.rst:178
 msgid ""
 "The second way in which an observation can be unusual is if it has high "
 "**leverage**, which happens when the observation is very different from all "
@@ -3394,7 +3412,7 @@ msgstr ""
 "sub:`i` ist ein Maß dafür, inwieweit die *i*-te Beobachtung „kontrolliert“ "
 "hat, wie die Regressionsgerade verläuft."
 
-#: ../../Ch12/Ch12_Regression_11.rst:190
+#: ../../Ch12/Ch12_Regression_11.rst:189
 msgid ""
 "In general, if an observation lies far away from the other ones in terms of "
 "the predictor variables, it will have a large hat value (as a rough guide, "
@@ -3413,11 +3431,11 @@ msgstr ""
 "geben viel weniger Anlass zur Sorge, es sei denn, sie sind zusätzlich "
 "Ausreißer."
 
-#: ../../Ch12/Ch12_Regression_11.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:202
 msgid "High influence points and their effect"
 msgstr "Punkte mit hohem Einfluss und deren Wirkung"
 
-#: ../../Ch12/Ch12_Regression_11.rst:203
+#: ../../Ch12/Ch12_Regression_11.rst:202
 msgid ""
 "Illustration of high influence points: In this case, the anomalous "
 "observation is highly unusual on the predictor variable (x axis), and falls "
@@ -3432,7 +3450,7 @@ msgstr ""
 "anomale Beobachtung in Bezug auf die Ergebnisvariable (y-Achse) durchaus "
 "typisch ist."
 
-#: ../../Ch12/Ch12_Regression_11.rst:211
+#: ../../Ch12/Ch12_Regression_11.rst:210
 msgid ""
 "This brings us to our third measure of unusualness, the **influence** of an "
 "observation. A high influence observation is an outlier that has high "
@@ -3460,7 +3478,7 @@ msgstr ""
 "operationalisieren den Einfluss durch ein Maß, welches als **Cook-Distanz** "
 "bekannt ist."
 
-#: ../../Ch12/Ch12_Regression_11.rst:222
+#: ../../Ch12/Ch12_Regression_11.rst:221
 msgid ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
@@ -3468,7 +3486,7 @@ msgstr ""
 "D_i = \\frac{{\\epsilon_i^*}^2 }{K+1} \\times \\frac{h_i}{1-h_i}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:224
+#: ../../Ch12/Ch12_Regression_11.rst:223
 msgid ""
 "Notice that this is a multiplication of something that measures the outlier-"
 "ness of the observation (the bit on the left), and something that measures "
@@ -3478,7 +3496,7 @@ msgstr ""
 "in welchem Maß eine Beobachtung ein Ausreißer ist (links), und etwas, das "
 "die Hebelwirkung dieser Beobachtung misst (rechts)."
 
-#: ../../Ch12/Ch12_Regression_11.rst:228
+#: ../../Ch12/Ch12_Regression_11.rst:227
 msgid ""
 "In order to have a large Cook’s distance an observation must be a fairly "
 "substantial outlier *and* have high leverage. As a rough guide, Cook’s "
@@ -3490,7 +3508,7 @@ msgstr ""
 "Richtlinie wird eine Cooks Distanz von mehr als 1 oft als groß angesehen "
 "(das ist, was ich normalerweise als Faustregel verwende)."
 
-#: ../../Ch12/Ch12_Regression_11.rst:233
+#: ../../Ch12/Ch12_Regression_11.rst:232
 msgid ""
 "In jamovi, information about Cook’s distance can be calculated by clicking "
 "on the ``Cook’s Distance`` checkbox in the ``Assumption Checks`` → ``Data "
@@ -3504,11 +3522,11 @@ msgstr ""
 "Regressionsmodell, das wir in diesem Kapitel als Beispiel verwendet haben, "
 "die Ergebnisse, die in :numref:`fig-reg4`\\ zu sehen sind."
 
-#: ../../Ch12/Ch12_Regression_11.rst:245
+#: ../../Ch12/Ch12_Regression_11.rst:244
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr "jamovi-Ausgabe mit einer Tabelle mit der Cook-Distanz-Statistik"
 
-#: ../../Ch12/Ch12_Regression_11.rst:249
+#: ../../Ch12/Ch12_Regression_11.rst:248
 msgid ""
 "You can see that, in this example, the mean Cook’s distance value is 0.01, "
 "and the range is from 0.00000262 to 0.11, so this is some way off the rule "
@@ -3520,7 +3538,7 @@ msgstr ""
 "liegt. Dies ist also ein Stück unterhalb der oben erwähnten Faustregel, nach "
 "der eine Cook-Distanz von über 1 als groß gilt."
 
-#: ../../Ch12/Ch12_Regression_11.rst:254
+#: ../../Ch12/Ch12_Regression_11.rst:253
 msgid ""
 "An obvious question to ask next is, if you do have large values of Cook’s "
 "distance what should you do? As always, there’s no hard and fast rule. "
@@ -3551,11 +3569,11 @@ msgstr ""
 "von den anderen unterscheidet und es daher verdient hat, separat behandelt "
 "zu werden."
 
-#: ../../Ch12/Ch12_Regression_11.rst:268
+#: ../../Ch12/Ch12_Regression_11.rst:267
 msgid "Checking the normality of the residuals"
 msgstr "Überprüfen der Normalverteilung der Residuen"
 
-#: ../../Ch12/Ch12_Regression_11.rst:270
+#: ../../Ch12/Ch12_Regression_11.rst:269
 msgid ""
 "Like many of the statistical tools we’ve discussed in this book, regression "
 "models rely on a normality assumption. In this case, we assume that the "
@@ -3568,7 +3586,7 @@ msgstr ""
 "normalverteilt sind. Als Erstes können wir mit der Option ``Assumption "
 "Checks`` → ``Q-Q plot of residuals`` ein QQ-Diagramm zeichnen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:275
+#: ../../Ch12/Ch12_Regression_11.rst:274
 msgid ""
 "The output is shown in :numref:`fig-reg5`, showing the standardised "
 "residuals plotted as a function of their theoretical quantiles according to "
@@ -3578,11 +3596,11 @@ msgstr ""
 "Residuen als Funktion ihrer theoretischen Quantile gemäß dem "
 "Regressionsmodell."
 
-#: ../../Ch12/Ch12_Regression_11.rst:285
+#: ../../Ch12/Ch12_Regression_11.rst:284
 msgid "Quantiles according to the model against standardised residuals"
 msgstr "Quantile entsprechend dem Modell vs. die standardisierten Residuen"
 
-#: ../../Ch12/Ch12_Regression_11.rst:285
+#: ../../Ch12/Ch12_Regression_11.rst:284
 msgid ""
 "Plot of the theoretical quantiles according to the model, against the "
 "quantiles of the standardised residuals, produced in jamovi"
@@ -3590,7 +3608,7 @@ msgstr ""
 "Diagramm der theoretischen Quantile gemäß dem Modell vs. der Quantile der "
 "standardisierten Residuen, erstellt mit jamovi"
 
-#: ../../Ch12/Ch12_Regression_11.rst:290
+#: ../../Ch12/Ch12_Regression_11.rst:289
 msgid ""
 "Another thing we should check is the relationship between the fitted values "
 "and the residuals themselves. We can get jamovi to do this using the "
@@ -3617,11 +3635,11 @@ msgstr ""
 "Seite geben, aber dies ist nicht besonders ausgeprägt und wahrscheinlich "
 "nicht wert, sich Sorgen zu machen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:307
+#: ../../Ch12/Ch12_Regression_11.rst:306
 msgid "Residuals plots produced in jamovi"
 msgstr "Streudiagramme der Residuen, in Jamovi erstellt"
 
-#: ../../Ch12/Ch12_Regression_11.rst:311
+#: ../../Ch12/Ch12_Regression_11.rst:310
 msgid ""
 "If we were worried, then in a lot of cases the solution to this problem (and "
 "many others) is to transform one or more of the variables. We discussed the "
@@ -3641,12 +3659,12 @@ msgstr ""
 "hinweisen, die ich zuvor nicht vollständig erklärt habe: die Box-Cox-"
 "Transformation."
 
-#: ../../Ch12/Ch12_Regression_11.rst:321
+#: ../../Ch12/Ch12_Regression_11.rst:320
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
 msgstr ""
 "Die Box-Cox-Funktion ist ziemlich einfach und wird sehr häufig verwendet."
 
-#: ../../Ch12/Ch12_Regression_11.rst:323
+#: ../../Ch12/Ch12_Regression_11.rst:322
 msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
@@ -3654,7 +3672,7 @@ msgstr ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
 
-#: ../../Ch12/Ch12_Regression_11.rst:325
+#: ../../Ch12/Ch12_Regression_11.rst:324
 msgid ""
 "for all values of λ except λ = 0. When λ = 0 we just take the natural "
 "logarithm (i.e., *ln*\\(x))."
@@ -3662,7 +3680,7 @@ msgstr ""
 "für alle Werte von λ außer λ = 0. Wenn λ = 0 ist, nehmen wir einfach den "
 "natürlichen Logarithmus (d. h. *ln*\\(x))."
 
-#: ../../Ch12/Ch12_Regression_11.rst:328
+#: ../../Ch12/Ch12_Regression_11.rst:327
 msgid ""
 "You can calculate it using the ``BOXCOX`` function in the ``Compute`` "
 "variables screen in jamovi."
@@ -3670,11 +3688,11 @@ msgstr ""
 "Sie können sie mit der ``BOXCOX``-Funktion im ``Compute``-"
 "Variablenbildschirm in jamovi berechnen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:332
+#: ../../Ch12/Ch12_Regression_11.rst:331
 msgid "Checking for collinearity"
 msgstr "Prüfen auf Kollinearität"
 
-#: ../../Ch12/Ch12_Regression_11.rst:334
+#: ../../Ch12/Ch12_Regression_11.rst:333
 msgid ""
 "The last kind of regression diagnostic that I’m going to discuss in this "
 "chapter is the use of **variance inflation factors** (VIFs), which are "
@@ -3685,18 +3703,18 @@ msgstr ""
 "Die letzte Art von Regressionsdiagnose, die ich in diesem Kapitel erörtern "
 "werde, ist die Verwendung von **Varianzinflationsfaktoren** (VIFs). Diese "
 "sind nützlich, um festzustellen, ob die Prädiktoren in Ihrem "
-"Regressionsmodell zu stark miteinander korreliert sind. Jedem Prädiktor *X*"
-"\\ :sub:`k` im Modell ist ein Varianz-Inflationsfaktor zugeordnet."
+"Regressionsmodell zu stark miteinander korreliert sind. Jedem Prädiktor "
+"*X*\\ :sub:`k` im Modell ist ein Varianz-Inflationsfaktor zugeordnet."
 
-#: ../../Ch12/Ch12_Regression_11.rst:341
+#: ../../Ch12/Ch12_Regression_11.rst:340
 msgid "The formula for the k-th VIF is:"
 msgstr "Die Formel für den k-ten VIF lautet:"
 
-#: ../../Ch12/Ch12_Regression_11.rst:343
+#: ../../Ch12/Ch12_Regression_11.rst:342
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 msgstr "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
 
-#: ../../Ch12/Ch12_Regression_11.rst:345
+#: ../../Ch12/Ch12_Regression_11.rst:344
 msgid ""
 "where *R*\\²\\ :sub:`(-k)` refers to *R*-squared value you would get if you "
 "ran a regression using *X*\\ :sub:`k` as the outcome variable, and all the "
@@ -3711,7 +3729,7 @@ msgstr ""
 "gutes Maß dafür ist, inwieweit *X*\\ :sub:`k` mit allen anderen Variablen im "
 "Modell korreliert ist (d.h. durch die übrigen Variablen erklärt wird)."
 
-#: ../../Ch12/Ch12_Regression_11.rst:351
+#: ../../Ch12/Ch12_Regression_11.rst:350
 msgid ""
 "The square root of the VIF is pretty interpretable. It tells you how much "
 "wider the confidence interval for the corresponding coefficient *b*\\ :sub:"
@@ -3734,7 +3752,7 @@ msgstr ""
 "die Quadratwurzel von 1,65 ist, sehen wir, dass die Korrelation zwischen "
 "unseren beiden Prädiktoren kein großes Problem verursacht."
 
-#: ../../Ch12/Ch12_Regression_11.rst:362
+#: ../../Ch12/Ch12_Regression_11.rst:361
 msgid ""
 "To give a sense of how we could end up with a model that has bigger "
 "collinearity problems, suppose I were to run a much less interesting "
@@ -3751,7 +3769,7 @@ msgstr ""
 "warum dies problematisch wäre, werfen wir einen Blick auf die "
 "Korrelationsmatrix für die vier Variablen:"
 
-#: ../../Ch12/Ch12_Regression_11.rst:377
+#: ../../Ch12/Ch12_Regression_11.rst:376
 msgid ""
 "We have some fairly large correlations between some of our predictor "
 "variables! When we run the regression model and look at the VIF values, we "
@@ -3767,16 +3785,16 @@ msgstr ""
 "aus, wie in :numref:`fig-reg7` gezeigt, und Sie können anhand der VIF-Werte "
 "sehen, dass eine deutliche Kollinearität vorliegt."
 
-#: ../../Ch12/Ch12_Regression_11.rst:389
+#: ../../Ch12/Ch12_Regression_11.rst:388
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr ""
 "Kollinearitätsstatistik für die multiple Regression, erstellt in jamovi"
 
-#: ../../Ch12/Ch12_Regression_11.rst:396
+#: ../../Ch12/Ch12_Regression_11.rst:395
 msgid "Or have no hope, as the case may be."
 msgstr "Oder keine Hoffnung haben, je nachdem."
 
-#: ../../Ch12/Ch12_Regression_11.rst:399
+#: ../../Ch12/Ch12_Regression_11.rst:398
 msgid ""
 "Again, for the linear algebra fanatics: the “hat matrix” is defined to be "
 "that matrix **H** that converts the vector of observed values *y* into a "
@@ -3784,20 +3802,20 @@ msgid ""
 "the fact that this is the matrix that “puts a hat on *y*”. The hat *value* "
 "of the i-th observation is the i-th diagonal element of this matrix (so "
 "technically I should be writing it as h\\ :sub:`ii` rather than h\\ :sub:"
-"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = **X**"
-"\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
+"`i`). Oh, and in case you care, here’s how it’s calculated: **H** = "
+"**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Pretty, isn’t it?"
 msgstr ""
 "Wiederum für die Liebhaber der linearen Algebra: Die „Dach-Matrix“ ist "
 "definiert als die Matrix **H**, die den Vektor der beobachteten Werte *y* in "
-"einen Vektor der vom Modell geschätzten Werten ŷ umwandelt, so dass ŷ = **H**"
-"\\ *y*. Der Name kommt von der Tatsache, dass dies die Matrix ist, die „ein "
-"Dach auf *y* setzt“. Der *Wert* der i-ten Beobachtung ist das i-te diagonale "
-"Element in dieser Matrix (also sollte ich es technisch als h\\ :sub:`ii` und "
-"nicht als h\\ :sub:`i` schreiben). Oh, und falls es Sie interessiert, hier "
-"ist, wie es berechnet wird:**H** = **X**\\(**X**'**X**\\)\\ :sup:`-1` "
-"**X**'\\. Hübsch, nicht wahr?"
+"einen Vektor der vom Modell geschätzten Werten ŷ umwandelt, so dass ŷ = "
+"**H**\\ *y*. Der Name kommt von der Tatsache, dass dies die Matrix ist, die "
+"„ein Dach auf *y* setzt“. Der *Wert* der i-ten Beobachtung ist das i-te "
+"diagonale Element in dieser Matrix (also sollte ich es technisch als h\\ :"
+"sub:`ii` und nicht als h\\ :sub:`i` schreiben). Oh, und falls es Sie "
+"interessiert, hier ist, wie es berechnet wird:**H** = "
+"**X**\\(**X**'**X**\\)\\ :sup:`-1` **X**'\\. Hübsch, nicht wahr?"
 
-#: ../../Ch12/Ch12_Regression_11.rst:409
+#: ../../Ch12/Ch12_Regression_11.rst:408
 msgid ""
 "In order to obtain the Cook’s distance for each participant, open the drop-"
 "down menu ``Save`` within the ``Linear Regression`` analysis options and set "
@@ -3906,15 +3924,15 @@ msgid ""
 "implement the qualitative principle behind Ockham’s razor in the context of "
 "selecting a regression model. As it turns out there are several "
 "possibilities. The one that I’ll talk about is the **Akaike information "
-"criterion** (AIC; `Akaike, 1974 <../Other/References.html#akaike-1974>`__"
-"\\ ) simply because it’s available as an option in jamovi."
+"criterion** (AIC; :ref:`Akaike, 1974 <Akaike_1974>`) simply because it’s "
+"available as an option in jamovi."
 msgstr ""
-"Was wir in jedem Fall brauchen, ist ein konkretes mathematisches Kriterium, "
-"das das qualitative Prinzip hinter Ockhams Rasiermesser im Rahmen der "
-"Auswahl eines Regressionsmodells umsetzt. Wie sich herausstellt, gibt es "
-"mehrere Möglichkeiten. Dasjenige, über das ich sprechen werde, ist das "
-"**Akaike-Informationskriterium** (AIC; `Akaike, 1974 <../Other/References."
-"html#akaike-1974>`__\\ ), weil es einfach als Option in jamovi verfügbar ist."
+"Was wir in jedem Fall brauchen, ist ein konkretes mathematisches "
+"Kriterium, das das qualitative Prinzip hinter Ockhams Rasiermesser im "
+"Rahmen der Auswahl eines Regressionsmodells umsetzt. Wie sich herausstellt, "
+"gibt es mehrere Möglichkeiten. Dasjenige, über das ich sprechen werde, ist "
+"das **Akaike-Informationskriterium** (AIC; :ref:`Akaike, 1974 "
+"<Akaike_1974>`), weil es einfach als Option in jamovi verfügbar ist."
 
 #: ../../Ch12/Ch12_Regression_12.rst:50
 msgid ""
