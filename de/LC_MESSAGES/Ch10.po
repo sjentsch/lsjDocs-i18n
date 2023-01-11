@@ -32,37 +32,20 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 15:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch10.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-11 15:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch10.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
@@ -135,7 +118,7 @@ msgstr ""
 "einige der gebräuchlichsten."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:49 ../../Ch10/Ch10_ChiSquare_1.rst:733
-#: ../../Ch10/Ch10_ChiSquare_2.rst:328 ../../Ch10/Ch10_ChiSquare_1.rst:731
+#: ../../Ch10/Ch10_ChiSquare_2.rst:328
 msgid "nominal"
 msgstr "nominal"
 
@@ -419,7 +402,6 @@ msgstr ""
 "H\\ :sub:`0`: Alle vier Farben werden mit gleicher Wahrscheinlichkeit gewählt"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:105
-#, python-format
 msgid ""
 "Now, because this is statistics, we have to be able to say the same thing in "
 "a mathematical way. To do this, let’s use the notation *P*\\ :sub:`j`\\ to "
@@ -439,11 +421,11 @@ msgstr ""
 "Schreibweise *P*\\ :sub:`j`\\ für die wahre Wahrscheinlichkeit, dass die *j*-"
 "te Farbe gewählt wird. Wenn die Nullhypothese wahr ist, dann hat jede der "
 "vier Farben eine Wahrscheinlichkeit von 25 %, ausgewählt zu werden. Mit "
-"anderen Worten: Unsere Nullhypothese besagt, dass *P*\\ :sub:`1` = 0,25, "
-"*P*\\ :sub:`2` = 0,25, *P*\\ :sub:`3` = 0,25 und schließlich, dass *P*\\ :"
-"sub:`4` = 0,25. So wie wir unsere beobachteten Häufigkeiten in einem Vektor "
-"*O* gruppieren können, der den gesamten Datensatz zusammenfasst, können wir "
-"*P* verwenden, um uns auf die Wahrscheinlichkeiten zu beziehen, die unserer "
+"anderen Worten: Unsere Nullhypothese besagt, dass *P*\\ :sub:`1` = 0,25, *P*"
+"\\ :sub:`2` = 0,25, *P*\\ :sub:`3` = 0,25 und schließlich, dass *P*\\ :sub:"
+"`4` = 0,25. So wie wir unsere beobachteten Häufigkeiten in einem Vektor *O* "
+"gruppieren können, der den gesamten Datensatz zusammenfasst, können wir *P* "
+"verwenden, um uns auf die Wahrscheinlichkeiten zu beziehen, die unserer "
 "Nullhypothese entsprechen. Wenn ich also den mit dem Vektor P = (*P*\\ :sub:"
 "`1`\\, *P*\\ :sub:`2`\\, *P*\\ :sub:`3`\\, *P*\\ :sub:`4`\\) die "
 "Wahrscheinlichkeiten für unsere Nullhypothese beschreibe, dann erhalten wir:"
@@ -540,8 +522,8 @@ msgstr ""
 "sind die **erwarteten Häufigkeiten**. Es gibt *N* = 200 Beobachtungen, und "
 "(wenn die Nullhypothese wahr ist) ist die Wahrscheinlichkeit, dass eine von "
 "ihnen ein Herz auswählt, *P*\\ :sub:`3` = \\0,25, also schätze ich, wir "
-"erwarten 200 · 0,25 = 50 Herzen, richtig? Oder, genauer gesagt, wenn wir "
-"*E*\\ :sub:`i` auf „die Anzahl der Antworten der Kategorie *i*, die wir "
+"erwarten 200 · 0,25 = 50 Herzen, richtig? Oder, genauer gesagt, wenn wir *E*"
+"\\ :sub:`i` auf „die Anzahl der Antworten der Kategorie *i*, die wir "
 "erwarten, wenn die Nullhypothese wahr ist“ beziehen, dann:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:162
@@ -563,18 +545,18 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_1.rst:168
 msgid ""
 "Now, how do we translate this into a test statistic? Clearly, what we want "
-"to do is compare the *expected* number of observations in each category "
-"(*E*\\ :sub:`i`\\) with the *observed* number of observations in that "
-"category (*O*\\ :sub:`i`\\). And on the basis of this comparison we ought to "
-"be able to come up with a good test statistic. To start with, let’s "
-"calculate the difference between what the null hypothesis expected us to "
-"find and what we actually did find. That is, we calculate the “observed "
-"minus expected” difference score, *O*\\ :sub:`i` - *E*\\ :sub:`i`. This is "
-"illustrated in the following table:"
+"to do is compare the *expected* number of observations in each category (*E*"
+"\\ :sub:`i`\\) with the *observed* number of observations in that category "
+"(*O*\\ :sub:`i`\\). And on the basis of this comparison we ought to be able "
+"to come up with a good test statistic. To start with, let’s calculate the "
+"difference between what the null hypothesis expected us to find and what we "
+"actually did find. That is, we calculate the “observed minus expected” "
+"difference score, *O*\\ :sub:`i` - *E*\\ :sub:`i`. This is illustrated in "
+"the following table:"
 msgstr ""
 "Wie lässt sich dies nun in eine Teststatistik übersetzen? Wir wollen "
-"natürlich die *erwartete* Anzahl der Beobachtungen in jeder Kategorie "
-"(*E*\\ :sub:`i`\\) mit der *beobachteten* Anzahl der Beobachtungen in dieser "
+"natürlich die *erwartete* Anzahl der Beobachtungen in jeder Kategorie (*E*"
+"\\ :sub:`i`\\) mit der *beobachteten* Anzahl der Beobachtungen in dieser "
 "Kategorie (*O*\\ :sub:`i`\\) vergleichen. Und auf der Grundlage dieses "
 "Vergleichs sollten wir in der Lage sein, eine gute Teststatistik zu "
 "erstellen. Berechnen wir zunächst die Differenz zwischen dem, was die "
@@ -716,9 +698,8 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_1.rst:238
 msgid ""
 "Intuitively, it’s clear that if χ² is small, then the observed data *O*\\ :"
-"sub:`i` are very close to what the null hypothesis predicted *E*\\ :sub:"
-"`i`\\, so we’re going to need a large χ² statistic in order to reject the "
-"null."
+"sub:`i` are very close to what the null hypothesis predicted *E*\\ :sub:`i`"
+"\\, so we’re going to need a large χ² statistic in order to reject the null."
 msgstr ""
 "Intuitiv ist klar, dass, wenn χ² klein ist, die beobachteten Daten *O*\\ :"
 "sub:`i` sehr nahe an dem liegen, was die Nullhypothese vorhersagt *E*\\ :sub:"
@@ -767,8 +748,8 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_1.rst:261
 msgid ""
 "Okay, let’s suppose that the null hypothesis is actually true. If so, then "
-"the true probability that an observation falls in the *i*-th category is "
-"*P*\\ :sub:`i`\\. After all, that’s pretty much the definition of our null "
+"the true probability that an observation falls in the *i*-th category is *P*"
+"\\ :sub:`i`\\. After all, that’s pretty much the definition of our null "
 "hypothesis. Let’s think about what this actually means. This is kind of like "
 "saying that “nature” makes the decision about whether or not the observation "
 "ends up in category *i* by flipping a weighted coin (i.e., one where the "
@@ -814,8 +795,8 @@ msgid ""
 "when *P*\\ :sub:`i` isn’t *too* close to 0 or 1. In other words as long as "
 "*N* · *P*\\ :sub:`i` is large enough. Or, to put it another way, when the "
 "expected frequency *E*\\ :sub:`i` is large enough then the theoretical "
-"distribution of *O*\\ :sub:`i` is approximately normal. Better yet, if "
-"*O*\\ :sub:`i` is normally distributed, then so is :math:`(O_i - E_i)/"
+"distribution of *O*\\ :sub:`i` is approximately normal. Better yet, if *O*"
+"\\ :sub:`i` is normally distributed, then so is :math:`(O_i - E_i)/"
 "\\sqrt{E_i}`. Since *E*\\ :sub:`i` is a fixed value, subtracting off *E*\\ :"
 "sub:`i` and dividing by :math:`\\sqrt{E_i}` changes the mean and standard "
 "deviation of the normal distribution but that’s all it does. Okay, so now "
@@ -952,8 +933,8 @@ msgstr ""
 "Daten verwendet werden, und dann alle „Einschränkungen“ abzieht, die diese "
 "Daten erfüllen müssen.\\ [#]_ Das ist etwas vage, also lassen Sie uns unsere "
 "Kartendaten als konkretes Beispiel verwenden. Wir beschreiben unsere Daten "
-"mit vier Zahlen, *O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3` und "
-"*O*\\ :sub:`4`, die den beobachteten Häufigkeiten der vier verschiedenen "
+"mit vier Zahlen, *O*\\ :sub:`1`\\, *O*\\ :sub:`2`\\, *O*\\ :sub:`3` und *O*"
+"\\ :sub:`4`, die den beobachteten Häufigkeiten der vier verschiedenen "
 "Kategorien (Herz, Kreuz, Karo, Pik) entsprechen. Diese vier Zahlen sind die "
 "*Zufallsresultate* unseres Experiments. Aber mein Experiment hat eine feste "
 "Einschränkung: die Stichprobengröße *N*.\\ [#]_ Das heißt, wenn wir wissen, "
@@ -975,7 +956,6 @@ msgid "Testing the null hypothesis"
 msgstr "Prüfen der Nullhypothese"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:362
-#, python-format
 msgid ""
 "The final step in the process of constructing our hypothesis test is to "
 "figure out what the rejection region is. That is, what values of χ² would "
@@ -1551,7 +1531,6 @@ msgid "Specifying a different null hypothesis"
 msgstr "Festlegen einer anderen Nullhypothese"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:467
-#, python-format
 msgid ""
 "At this point you might be wondering what to do if you want to run a "
 "goodness-of-fit test but your null hypothesis is *not* that all categories "
@@ -1637,11 +1616,11 @@ msgid ""
 "jamovi"
 msgstr "Ändern der erwarteten Proportionen im χ²-Anpassungstest in jamovi"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:514
+#: ../../Ch10/Ch10_ChiSquare_1.rst:516
 msgid "How to report the results of the test"
 msgstr "Wie berichten Sie diese Testergebnisse?"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:516
+#: ../../Ch10/Ch10_ChiSquare_1.rst:518
 msgid ""
 "So now you know how the test works, and you know how to do the test using a "
 "wonderful jamovi flavoured magic computing box. The next thing you need to "
@@ -1663,7 +1642,7 @@ msgstr ""
 "wollte, dann wäre die konventionelle Art, darüber zu berichten, so etwas wie "
 "die folgenden Sätze:"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:525
+#: ../../Ch10/Ch10_ChiSquare_1.rst:527
 msgid ""
 "Of the 200 participants in the experiment, 64 selected hearts for their "
 "first choice, 51 selected diamonds, 50 selected spades, and 35 selected "
@@ -1679,7 +1658,7 @@ msgstr ""
 "8,44, *p* < 0,05), was darauf hindeutet, dass die Personen die Spielfarben "
 "nicht rein zufällig gewählt haben."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:532
+#: ../../Ch10/Ch10_ChiSquare_1.rst:534
 msgid ""
 "This is pretty straightforward and hopefully it seems pretty unremarkable. "
 "That said, there’s a few things that you should note about this description:"
@@ -1688,7 +1667,7 @@ msgstr ""
 "bemerkenswert. Dennoch gibt es ein paar Dinge, die Sie bei Ihrer "
 "Beschreibung beachten sollten:"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:535
+#: ../../Ch10/Ch10_ChiSquare_1.rst:537
 msgid ""
 "*The statistical test is preceded by the descriptive statistics*. That is, I "
 "told the reader something about what the data look like before going on to "
@@ -1704,7 +1683,7 @@ msgstr ""
 "Wenn Sie sie also nicht richtig beschreiben, werden die statistischen Tests "
 "für sie keinen Sinn ergeben und sie werden frustriert sein."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:542
+#: ../../Ch10/Ch10_ChiSquare_1.rst:544
 msgid ""
 "*The description tells you what the null hypothesis being tested is*. To be "
 "honest, writers don’t always do this but it’s often a good idea in those "
@@ -1742,19 +1721,18 @@ msgstr ""
 "anzugeben, da die Nullhypothese je nachdem, wofür Sie den Test verwenden, "
 "unterschiedlich sein kann. Im Kartenbeispiel war meine Nullhypothese "
 "beispielsweise, dass die vier Wahrscheinlichkeiten für die die Spielfarben "
-"identisch sind (d. h. *P*\\ :sub:`1` = *P*\\ :sub:`2` = *P*\\ :sub:`3` = "
-"*P*\\ :sub:`4` = 0,25), aber diese Hypothese ist nichts Besonderes. Ich "
-"hätte genauso gut die Nullhypothese *P*\\ :sub:`1` = \\0,7 und *P*\\ :sub:"
-"`2` = *P*\\ :sub:`3` = *P*\\ :sub:`4` = 0,1 mit einem χ²-Anpassungstest "
-"untersuchen können. Es ist also hilfreich für den Leser, wenn Sie ihm "
-"erklären, was Ihre Nullhypothese war. Beachten Sie auch, dass ich die "
-"Nullhypothese in Worten und nicht in Mathematik beschrieben habe. Es ist "
-"völlig in Ordnung, die Nullhypothese in mathematischer Form beschreiben, "
-"aber die meisten Leser können Worte leichter lesen als Symbole, und daher "
-"tendieren die meisten Autoren dazu, die Nullhypothese mit Worten zu "
-"beschreiben, wenn sie können."
+"identisch sind (d. h. *P*\\ :sub:`1` = *P*\\ :sub:`2` = *P*\\ :sub:`3` = *P*"
+"\\ :sub:`4` = 0,25), aber diese Hypothese ist nichts Besonderes. Ich hätte "
+"genauso gut die Nullhypothese *P*\\ :sub:`1` = \\0,7 und *P*\\ :sub:`2` = *P*"
+"\\ :sub:`3` = *P*\\ :sub:`4` = 0,1 mit einem χ²-Anpassungstest untersuchen "
+"können. Es ist also hilfreich für den Leser, wenn Sie ihm erklären, was Ihre "
+"Nullhypothese war. Beachten Sie auch, dass ich die Nullhypothese in Worten "
+"und nicht in Mathematik beschrieben habe. Es ist völlig in Ordnung, die "
+"Nullhypothese in mathematischer Form beschreiben, aber die meisten Leser "
+"können Worte leichter lesen als Symbole, und daher tendieren die meisten "
+"Autoren dazu, die Nullhypothese mit Worten zu beschreiben, wenn sie können."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:565
+#: ../../Ch10/Ch10_ChiSquare_1.rst:567
 msgid ""
 "*A “stat block” is included*. When reporting the results of the test itself, "
 "I didn’t just say that the result was significant, I included a “stat "
@@ -1787,7 +1765,7 @@ msgstr ""
 "genügend Informationen berichten sollten, damit der Leser die Testergebnisse "
 "selbst überprüfen kann, wenn er dies wirklich möchte."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:580
+#: ../../Ch10/Ch10_ChiSquare_1.rst:582
 msgid ""
 "*The results are interpreted*. In addition to indicating that the result was "
 "significant, I provided an interpretation of the result (i.e., that people "
@@ -1804,7 +1782,7 @@ msgstr ""
 "etwas nicht erwähnen, ist es für den Leser oft schwer zu verstehen, was vor "
 "sich geht.\\ [#]_"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:587
+#: ../../Ch10/Ch10_ChiSquare_1.rst:589
 msgid ""
 "As with everything else, your overriding concern should be that you "
 "*explain* things to your reader. Always remember that the point of reporting "
@@ -1822,21 +1800,21 @@ msgstr ""
 "weil der Verfasser sich nur darauf konzentriert hat, alle Zahlen "
 "aufzuführen, und vergessen hat, mit dem menschlichen Leser zu kommunizieren."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:596
+#: ../../Ch10/Ch10_ChiSquare_1.rst:598
 msgid "A comment on statistical notation"
 msgstr "Ein Kommentar zur statistischen Notation"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "*Satan delights equally in statistics and in quoting scripture*"
 msgstr ""
 "*Satan erfreut sich gleichermaßen an Statistiken und am Zitieren der "
 "Heiligen Schrift*"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "– H.G. Wells"
 msgstr "– H.G. Wells"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:601
+#: ../../Ch10/Ch10_ChiSquare_1.rst:603
 msgid ""
 "If you’ve been reading very closely, and are as much of a mathematical "
 "pedant as I am, there is one thing about the way I wrote up the χ²-test in "
@@ -1863,7 +1841,7 @@ msgstr ""
 "eine stark verkürzte Form der Formulierung „Die Stichprobenverteilung der "
 "Teststatistik ist χ²(3), und der Wert der Teststatistik ist 8,44“."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:613
+#: ../../Ch10/Ch10_ChiSquare_1.rst:615
 msgid ""
 "In one sense, this is kind of stupid. There are *lots* of different test "
 "statistics out there that turn out to have a χ²-sampling-distribution. The "
@@ -1918,7 +1896,7 @@ msgstr ""
 "= 0,038 und das neue Ergebnis χ²(3) = 8,65, *p* = 0,034, so dass es "
 "eigentlich unklar ist, welchen Test ich tatsächlich durchgeführt habe."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:639
+#: ../../Ch10/Ch10_ChiSquare_1.rst:641
 msgid ""
 "So why don’t we live in a world in which the contents of the stat block "
 "uniquely specifies what tests were ran? The deep reason is that life is "
@@ -1962,7 +1940,7 @@ msgstr ""
 "weiter. Aber, wie das Beispiel χ² versus *G* zeigt, sind zwei verschiedene "
 "Dinge mit derselben Stichprobenverteilung immer noch verschieden."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:658
+#: ../../Ch10/Ch10_ChiSquare_1.rst:660
 msgid ""
 "As a consequence, it’s sometimes a good idea to be clear about what the "
 "actual test was that you ran, especially if you’re doing something unusual. "
@@ -1980,11 +1958,11 @@ msgstr ""
 "Leser mit Statistikkenntnissen wahrscheinlich raten. Dennoch sollte man sich "
 "möglicher Fehlinterpretationen bewusst sein."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:669
+#: ../../Ch10/Ch10_ChiSquare_1.rst:671
 msgid "A vector is a sequence of data elements of the same basic type"
 msgstr "Ein Vektor ist eine Folge von Datenelementen desselben Grundtyps"
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:672
+#: ../../Ch10/Ch10_ChiSquare_1.rst:674
 msgid ""
 "If you rewrite the equation for the goodness-of-fit statistic as a sum over "
 "*k* - 1 independent things you get the “proper” sampling distribution, which "
@@ -2001,7 +1979,7 @@ msgstr ""
 "nur einen Eindruck davon vermitteln, wie die Anpassungsgüte-Statistik mit "
 "der χ²-Verteilung verbunden ist."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:680
+#: ../../Ch10/Ch10_ChiSquare_1.rst:682
 msgid ""
 "I feel obliged to point out that this is an over-simplification. It works "
 "nicely for quite a few situations, but every now and then we’ll come across "
@@ -2031,7 +2009,7 @@ msgstr ""
 "verstanden haben. Stattdessen ist es so, dass die hier genutzte vereinfachte "
 "Darstellung nicht auf alle Analysesituationen passt."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:694
+#: ../../Ch10/Ch10_ChiSquare_1.rst:696
 msgid ""
 "In practice, the sample size isn’t always fixed. For example, we might run "
 "the experiment over a fixed period of time and the number of people "
@@ -2043,7 +2021,7 @@ msgstr ""
 "die Anzahl der Teilnehmer hängt davon ab, wie viele Personen erscheinen. Für "
 "den aktuellen Zweck spielt das keine Rolle."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:700
+#: ../../Ch10/Ch10_ChiSquare_1.rst:702
 msgid ""
 "Well, sort of. The conventions for how statistics should be reported tend to "
 "differ somewhat from discipline to discipline. I’ve tended to stick with how "
@@ -2058,7 +2036,7 @@ msgstr ""
 "Verfügung zu stellen, damit er die Ergebnisse überprüfen kann, ist meiner "
 "Meinung nach ziemlich allgemein."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:707
+#: ../../Ch10/Ch10_ChiSquare_1.rst:709
 msgid ""
 "To some people, this advice might sound odd, or at least in conflict with "
 "the “usual” advice on how to write a technical report. Very typically, "
@@ -2090,7 +2068,7 @@ msgstr ""
 "Ergebnisteil in unverständlichen Müll verwandelt. Vom Leser verstanden zu "
 "werden, ist *viel* wichtiger."
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:722
+#: ../../Ch10/Ch10_ChiSquare_1.rst:724
 msgid ""
 "Complicating matters, the *G*-test is a special case of a whole class of "
 "tests that are known as *likelihood ratio tests* (LRT). I don’t cover LRTs "
@@ -2384,8 +2362,8 @@ msgid ""
 "In this notation we say that *O*\\ :sub:`ij` is a count (observed frequency) "
 "of the number of respondents that are of species *j* (robots or human) who "
 "gave answer *i* (puppy, flower or data) when asked to make a choice. The "
-"total number of observations is written *N*, as usual. Finally, I’ve used "
-"*R*\\ :sub:`i` to denote the row totals (e.g., *R*\\ :sub:`2` is the total "
+"total number of observations is written *N*, as usual. Finally, I’ve used *R*"
+"\\ :sub:`i` to denote the row totals (e.g., *R*\\ :sub:`2` is the total "
 "number of creatures who chose the flower), and *C*\\ :sub:`j` to denote the "
 "column totals (e.g., *C*\\ :sub:`1` is the total number of robots).\\ [#]_"
 msgstr ""
@@ -2467,13 +2445,13 @@ msgid ""
 "sub:`i`, then the expected frequency is just:"
 msgstr ""
 "Als Nächstes müssen wir, ähnlich wie beim χ²-Anpassungstest, die erwarteten "
-"Häufigkeiten berechnen. Das heißt, für jede der beobachteten Zählungen "
-"*O*\\ :sub:`ij` müssen wir herausfinden, was die Nullhypothese uns erwarten "
+"Häufigkeiten berechnen. Das heißt, für jede der beobachteten Zählungen *O*"
+"\\ :sub:`ij` müssen wir herausfinden, was die Nullhypothese uns erwarten "
 "lassen würde. Bezeichnen wir diese erwartete Häufigkeit mit *E*\\ :sub:`ij`. "
-"Diesmal ist die Berechnung ein bisschen schwieriger. Wenn es insgesamt "
-"*C*\\ :sub:`j` Versuchsteilnehmer gibt, die der Spezies *j* angehören, und "
-"die wahre Wahrscheinlichkeit, dass irgendjemand (unabhängig von der Spezies) "
-"die Option *i* wählt, ist *P*\\ :sub:`i`, dann ist die erwartete Häufigkeit:"
+"Diesmal ist die Berechnung ein bisschen schwieriger. Wenn es insgesamt *C*"
+"\\ :sub:`j` Versuchsteilnehmer gibt, die der Spezies *j* angehören, und die "
+"wahre Wahrscheinlichkeit, dass irgendjemand (unabhängig von der Spezies) die "
+"Option *i* wählt, ist *P*\\ :sub:`i`, dann ist die erwartete Häufigkeit:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:139
 msgid "*E*\\ :sub:`ij` = *C*\\ :sub:`j` · *P*\\ :sub:`i`"
@@ -3063,7 +3041,6 @@ msgstr ""
 "bisher in diesem Kapitel besprochenen χ²-Tests lauten die Annahmen:"
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:10
-#, python-format
 msgid ""
 "*Expected frequencies are sufficiently large*. Remember how in the previous "
 "section we saw that the χ² sampling distribution emerges because the "
@@ -3258,14 +3235,14 @@ msgid ""
 "In order to construct the test Fisher treats both the row and column totals "
 "(*R*\\ :sub:`1`\\, *R*\\ :sub:`2`, *C*\\ :sub:`1` and *C*\\ :sub:`2`\\) as "
 "known, fixed quantities and then calculates the probability that we would "
-"have obtained the observed frequencies that we did (*O*\\ :sub:`11`\\, "
-"*O*\\ :sub:`12`\\, *O*\\ :sub:`21` and *O*\\ :sub:`22`\\) given those "
-"totals. In the notation that we developed in chapter :doc:`Introduction to "
+"have obtained the observed frequencies that we did (*O*\\ :sub:`11`\\, *O*"
+"\\ :sub:`12`\\, *O*\\ :sub:`21` and *O*\\ :sub:`22`\\) given those totals. "
+"In the notation that we developed in chapter :doc:`Introduction to "
 "probability <../Ch07/Ch07_Probability>` this is written:"
 msgstr ""
 "Um den Test zu konstruieren, behandelt Fisher sowohl die Zeilen- als auch "
-"die Spaltensummen (*R*\\ :sub:`1`\\, *R*\\ :sub:`2`, *C*\\ :sub:`1` und "
-"*C*\\ :sub:`2`\\) als bekannte, feste Größen und berechnet dann die "
+"die Spaltensummen (*R*\\ :sub:`1`\\, *R*\\ :sub:`2`, *C*\\ :sub:`1` und *C*"
+"\\ :sub:`2`\\) als bekannte, feste Größen und berechnet dann die "
 "Wahrscheinlichkeit, dass wir die beobachteten Häufigkeiten, die wir "
 "angesichts dieser Summen hätten erhalten sollen (*O*\\ :sub:`11`\\, *O*\\ :"
 "sub:`12`\\, *O*\\ :sub:`21` und *O*\\ :sub:`22`\\). In der Notation, die wir "
@@ -3552,12 +3529,12 @@ msgid ""
 "totals and column totals have the same distribution: *P*\\ :sub:`a` + *P*\\ :"
 "sub:`b` = *P*\\ :sub:`a` \\+ *P*\\ :sub:`c` and similarly that *P*\\ :sub:"
 "`c` + *P*\\ :sub:`d` = *P*\\ :sub:`b` + *P*\\ :sub:`d`\\. Notice that this "
-"means that the null hypothesis actually simplifies to *P*\\ :sub:`b` = "
-"*P*\\ :sub:`c`\\. In other words, as far as the McNemar test is concerned, "
-"it’s only the off-diagonal entries in this table (i.e., *b* and *c*) that "
-"matter! After noticing this, the **McNemar test of marginal homogeneity** is "
-"no different to a usual χ² test. After applying the Yates correction, our "
-"test statistic becomes:"
+"means that the null hypothesis actually simplifies to *P*\\ :sub:`b` = *P*"
+"\\ :sub:`c`\\. In other words, as far as the McNemar test is concerned, it’s "
+"only the off-diagonal entries in this table (i.e., *b* and *c*) that matter! "
+"After noticing this, the **McNemar test of marginal homogeneity** is no "
+"different to a usual χ² test. After applying the Yates correction, our test "
+"statistic becomes:"
 msgstr ""
 "Überlegen wir uns nun, was unsere Nullhypothese ist: Sie besagt, dass der "
 "„Vorher“-Test und der „Nachher“-Test den gleichen Anteil an Personen "
