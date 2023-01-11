@@ -4,6 +4,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -15,28 +22,48 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-11 15:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch08/Ch08_Estimation.rst:4
@@ -59,12 +86,12 @@ msgid ""
 "the first of these big ideas, estimation theory, but I’m going to witter on "
 "about sampling theory first because estimation theory doesn’t make sense "
 "until you understand sampling. As a consequence, this chapter divides "
-"naturally into two parts :doc:`Samples, populations and sampling <../Ch08/"
-"Ch08_Estimation_1>` through :doc:`Sampling distributions and the central "
-"limit theorem <../Ch08/Ch08_Estimation_3>` are focused on sampling theory, "
-"and :doc:`Estimating population parameters <../Ch08/Ch08_Estimation_4>` and :"
-"doc:`Estimating a confidence interval <../Ch08/Ch08_Estimation_5>` make use "
-"of sampling theory to discuss how statisticians think about estimation."
+"naturally into two parts :doc:`Samples, populations and sampling "
+"<Ch08_Estimation_1>` through :doc:`Sampling distributions and the central "
+"limit theorem <Ch08_Estimation_3>` are focused on sampling theory, and :doc:"
+"`Estimating population parameters <Ch08_Estimation_4>` and :doc:`Estimating "
+"a confidence interval <Ch08_Estimation_5>` make use of sampling theory to "
+"discuss how statisticians think about estimation."
 msgstr ""
 "Zu Beginn des letzten Kapitels habe ich auf den entscheidenden Unterschied "
 "zwischen *deskriptiver Statistik* und *Inferenzstatistik* hingewiesen. Wie "
@@ -82,12 +109,12 @@ msgstr ""
 "vorzustellen. Ich werde mich zunächst jedoch mit der Stichprobentheorie "
 "beschäftigen, weil die Schätztheorie erst dann Sinn ergibt, wenn man die "
 "Stichprobentheorie verstanden hat. Aus diesem Grund teilt sich das Kapitel "
-"in zwei Teile: :doc:`Stichproben, Grundgesamtheit und Stichprobenziehung <../"
-"Ch08/Ch08_Estimation_1>` bis :doc:`Stichprobenverteilungen und der zentrale "
-"Grenzwertsatz <../Ch08/Ch08_Estimation_3>` konzentrieren sich auf die "
-"Stichprobentheorie und :doc:`Schätzen von Populationsparametern <../Ch08/"
-"Ch08_Estimation_4>` und :doc:`Schätzen eines Konfidenzintervalls <../Ch08/"
-"Ch08_Estimation_5>` machen wiederum Gebrauch von der Stichprobentheorie, um "
+"in zwei Teile: :doc:`Stichproben, Grundgesamtheit und Stichprobenziehung "
+"<Ch08_Estimation_1>` bis :doc:`Stichprobenverteilungen und der zentrale "
+"Grenzwertsatz <Ch08_Estimation_3>` konzentrieren sich auf die "
+"Stichprobentheorie und das :doc:`Schätzen von Populationsparametern "
+"<Ch08_Estimation_4>` und :doc:`Schätzen eines Konfidenzintervalls "
+"<Ch08_Estimation_5>` machen wiederum Gebrauch von der Stichprobentheorie, um "
 "zu erläutern, wie Statistiker über Schätzungen nachdenken."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:4
@@ -151,11 +178,11 @@ msgstr ""
 "Unser einziges Ziel war es, Wege zu finden, diese Stichprobe zu beschreiben, "
 "zusammenzufassen und grafisch darzustellen. Das wird sich jetzt ändern."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:32
+#: ../../Ch08/Ch08_Estimation_1.rst:33
 msgid "Defining a population"
 msgstr "Definieren einer Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:34
+#: ../../Ch08/Ch08_Estimation_1.rst:35
 msgid ""
 "A sample is a concrete thing. You can open up a data file and there’s the "
 "data from your sample. A **population**, on the other hand, is a more "
@@ -176,7 +203,7 @@ msgstr ""
 "Designens einer Studie sowie des Hypothesentestens abhängig davon ist, über "
 "was für eine Population Sie Aussagen treffen wollen."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:44
+#: ../../Ch08/Ch08_Estimation_1.rst:45
 msgid ""
 "Sometimes it’s easy to state the population of interest. For instance, in "
 "the “polling company” example that opened the chapter the population "
@@ -202,32 +229,32 @@ msgstr ""
 "zu erfahren, wie das Denken funktioniert. Welche der folgenden Personen "
 "könnten also als „die Population“ gelten:"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:55
+#: ../../Ch08/Ch08_Estimation_1.rst:56
 msgid ""
 "All of the undergraduate psychology students at the University of Adelaide?"
 msgstr "Alle Psychologiestudenten an der University of Adelaide?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:58
+#: ../../Ch08/Ch08_Estimation_1.rst:59
 msgid "Undergraduate psychology students in general, anywhere in the world?"
 msgstr "Psychologiestudierende im Allgemeinen, überall auf der Welt?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:60
+#: ../../Ch08/Ch08_Estimation_1.rst:61
 msgid "Australians currently living?"
 msgstr "Australier, die derzeit leben?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:62
+#: ../../Ch08/Ch08_Estimation_1.rst:63
 msgid "Australians of similar ages to my sample?"
 msgstr "Australier im ähnlichen Alter wie meine Stichprobe?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:64
+#: ../../Ch08/Ch08_Estimation_1.rst:65
 msgid "Anyone currently alive?"
 msgstr "Alle, die derzeit leben?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:66
+#: ../../Ch08/Ch08_Estimation_1.rst:67
 msgid "Any human being, past, present or future?"
 msgstr "Jedes menschliche Wesen, der Vergangenheit, Gegenwart und Zukunft?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:68
+#: ../../Ch08/Ch08_Estimation_1.rst:69
 msgid ""
 "Any biological organism with a sufficient degree of intelligence operating "
 "in a terrestrial environment?"
@@ -235,11 +262,11 @@ msgstr ""
 "Jeder biologische Organismus mit einem ausreichenden Maß an Intelligenz, der "
 "in einer irdischen Umgebung lebt?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:71
+#: ../../Ch08/Ch08_Estimation_1.rst:72
 msgid "Any intelligent being?"
 msgstr "Jedes intelligente Lebewesen?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:73
+#: ../../Ch08/Ch08_Estimation_1.rst:74
 msgid ""
 "Each of these defines a real group of mind-possessing entities, all of which "
 "might be of interest to me as a cognitive scientist, and it’s not at all "
@@ -256,12 +283,12 @@ msgstr ""
 "haben. Die Stichprobe ist hier eine bestimmte Folge von 12 Gewinnen und 0 "
 "Niederlagen für Wellesley. Was ist hier die Population?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:80
+#: ../../Ch08/Ch08_Estimation_1.rst:81
 msgid "All outcomes until Wellesley and Croker arrived at their destination?"
 msgstr ""
 "Alle Ergebnisse bis zur Ankunft von Wellesley und Croker an ihrem Ziel?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:82
+#: ../../Ch08/Ch08_Estimation_1.rst:83
 msgid ""
 "All outcomes if Wellesley and Croker had played the game for the rest of "
 "their lives?"
@@ -269,7 +296,7 @@ msgstr ""
 "Alle Ergebnisse, wenn Wellesley und Crocker das Spiel für den Rest ihres "
 "Lebens spielen würden?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:85
+#: ../../Ch08/Ch08_Estimation_1.rst:86
 msgid ""
 "All outcomes if Wellseley and Croker lived forever and played the game until "
 "the world ran out of hills?"
@@ -277,7 +304,7 @@ msgstr ""
 "Alle Ergebnisse, wenn Wellesley und Croker ewig leben würden bis es keine "
 "Hügel auf der Erde mehr gäbe?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:88
+#: ../../Ch08/Ch08_Estimation_1.rst:89
 msgid ""
 "All outcomes if we created an infinite set of parallel universes and the "
 "Wellesely/Croker pair made guesses about the same 12 hills in each universe?"
@@ -286,15 +313,15 @@ msgstr ""
 "schaffen würden und das Paar Wellesely/Croker würde Schätzungen über "
 "dieselben 12 Hügel in jedem der Universen machen?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:92
+#: ../../Ch08/Ch08_Estimation_1.rst:93
 msgid "Again, it’s not obvious what the population is."
 msgstr "Auch hier ist nicht klar, was die Population ist."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:95
+#: ../../Ch08/Ch08_Estimation_1.rst:96
 msgid "Simple random samples"
 msgstr "Einfache Zufallsstichproben"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:97
+#: ../../Ch08/Ch08_Estimation_1.rst:98
 msgid ""
 "Irrespective of how I define the population, the critical point is that the "
 "sample is a subset of the population and our goal is to use our knowledge of "
@@ -312,7 +339,7 @@ msgstr ""
 "**Stichprobenverfahren** bezeichnet, und es ist wichtig zu verstehen, warum "
 "es wichtig ist."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:104
+#: ../../Ch08/Ch08_Estimation_1.rst:105
 msgid ""
 "To keep things simple, let’s imagine that we have a bag containing 10 chips. "
 "Each chip has a unique letter printed on it so we can distinguish between "
@@ -363,13 +390,13 @@ msgstr ""
 "kann, in solchen Fällen sagt man, dass die Stichprobe **ohne Zurücklegen** "
 "gezogen wurde."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:133
+#: ../../Ch08/Ch08_Estimation_1.rst:134
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr ""
 "Einfache Zufallsstichprobenziehung aus einer endlichen Grundgesamtheit OHNE "
 "Zurücklegen"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:137
+#: ../../Ch08/Ch08_Estimation_1.rst:138
 msgid ""
 "To help make sure you understand the importance of the sampling procedure, "
 "consider an alternative way in which the experiment could have been run. "
@@ -397,13 +424,13 @@ msgstr ""
 "Statistiker sehr, wenn ein Datensatz als einfache Zufallsstichprobe "
 "betrachtet werden kann, denn das macht die Datenanalyse *viel* einfacher."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:155
+#: ../../Ch08/Ch08_Estimation_1.rst:156
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
 "Verzerrte (*biased*) Stichprobenziehung aus einer endlichen Grundgesamtheit "
 "OHNE Zurücklegen"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:159
+#: ../../Ch08/Ch08_Estimation_1.rst:160
 msgid ""
 "A third procedure is worth mentioning. This time around we close our eyes, "
 "shake the bag, and pull out a chip. This time, however, we record the "
@@ -428,13 +455,13 @@ msgstr ""
 "ersten ist, dass es möglich ist, dasselbe Mitglied der Population mehrfach "
 "zu beobachten, wie in numref:`fig-srs2` dargestellt."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:175
+#: ../../Ch08/Ch08_Estimation_1.rst:176
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr ""
 "Einfache Zufallsstichprobenziehung aus einer endlichen Grundgesamtheit MIT "
 "Zurücklegen"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:179
+#: ../../Ch08/Ch08_Estimation_1.rst:180
 msgid ""
 "In my experience, most psychology experiments tend to be sampling without "
 "replacement, because the same person is not allowed to participate in the "
@@ -458,11 +485,11 @@ msgstr ""
 "Zufallsstichproben und verzerrten Stichproben sollte dagegen nicht "
 "vernachlässigt werden."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:190
+#: ../../Ch08/Ch08_Estimation_1.rst:191
 msgid "Most samples are not simple random samples"
 msgstr "Die meisten Stichproben sind keine einfachen Zufallsstichproben"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:192
+#: ../../Ch08/Ch08_Estimation_1.rst:193
 msgid ""
 "As you can see from looking at the list of possible populations that I "
 "showed above, it is almost impossible to obtain a simple random sample from "
@@ -485,7 +512,7 @@ msgstr ""
 "den Rahmen dieses Buches sprengen, aber um Ihnen einen Eindruck davon zu "
 "vermitteln, was es alles gibt, werde ich einige der wichtigsten auflisten."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:202
+#: ../../Ch08/Ch08_Estimation_1.rst:203
 msgid ""
 "*Stratified sampling*. Suppose your population is (or can be) divided into "
 "several different sub-populations, or *strata*. Perhaps you’re running a "
@@ -522,7 +549,7 @@ msgstr ""
 "spezielle Art der geschichteten Stichprobe wird als *Oversampling* "
 "bezeichnet, weil sie bewusst versucht, seltene Gruppen zu überrepräsentieren."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:220
+#: ../../Ch08/Ch08_Estimation_1.rst:221
 msgid ""
 "*Snowball sampling* is a technique that is especially useful when sampling "
 "from a “hidden” or hard to access population and is especially common in "
@@ -577,7 +604,7 @@ msgstr ""
 "Netzwerke sind komplexe Gebilde, und nur weil man sie nutzen kann, um Daten "
 "zu erhalten, heißt das nicht immer, dass man das auch tun sollte."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:246
+#: ../../Ch08/Ch08_Estimation_1.rst:247
 msgid ""
 "*Convenience sampling* is more or less what it sounds like. The samples are "
 "chosen in a way that is convenient to the researcher, and not selected at "
@@ -610,11 +637,11 @@ msgstr ""
 "Zufallsstichproben in der einen oder anderen Form. Dies stellt manchmal eine "
 "große Einschränkung dar, aber nicht immer."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:261
+#: ../../Ch08/Ch08_Estimation_1.rst:262
 msgid "How much does it matter if you don’t have a simple random sample?"
 msgstr "Wie viel macht es aus, wenn man keine einfache Zufallsstichprobe hat?"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:263
+#: ../../Ch08/Ch08_Estimation_1.rst:264
 msgid ""
 "Okay, so real world data collection tends not to involve nice simple random "
 "samples. Does that matter? A little thought should make it clear to you that "
@@ -642,7 +669,7 @@ msgstr ""
 "eingeführten Verzerrungen auszugleichen (selbst wenn diese in diesem Buch "
 "nicht behandelt werden). In diesen Fällen ist es also kein Problem."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:276
+#: ../../Ch08/Ch08_Estimation_1.rst:277
 msgid ""
 "More generally though, it’s important to remember that random sampling is a "
 "means to an end, and not the end in itself. Let’s assume you’ve relied on a "
@@ -706,7 +733,7 @@ msgstr ""
 "aufgewachsen sind. Dies könnte daher zu einem irreführenden Bild von der "
 "Kapazität des Arbeitsgedächtnisses führen."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:306
+#: ../../Ch08/Ch08_Estimation_1.rst:307
 msgid ""
 "There are two points hidden in this discussion. First, when designing your "
 "own studies, it’s important to think about what population you care about "
@@ -736,11 +763,11 @@ msgstr ""
 "seien Sie wenigstens so höflich, eine konkrete Theorie anzubieten, *wie* "
 "dies die Ergebnisse verzerrt haben könnte."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:321
+#: ../../Ch08/Ch08_Estimation_1.rst:322
 msgid "Population parameters and sample statistics"
 msgstr "Populationsparameter und Stichprobenstatistiken"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:323
+#: ../../Ch08/Ch08_Estimation_1.rst:324
 msgid ""
 "Okay. Setting aside the thorny methodological issues associated with "
 "obtaining a random sample, let’s consider a slightly different issue. Up to "
@@ -783,7 +810,7 @@ msgstr ""
 "Ch07_Probability>` kennengelernt. Man nennt sie "
 "Wahrscheinlichkeitsverteilungen."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:342
+#: ../../Ch08/Ch08_Estimation_1.rst:343
 msgid ""
 "The idea is quite simple. Let’s say we’re talking about IQ scores. To a "
 "psychologist the population of interest is a group of actual humans who have "
@@ -807,12 +834,12 @@ msgstr ""
 "sie Merkmale der gesamten Population sind. Das heißt, der Mittelwert der "
 "Population µ ist 100 und die Standardabweichung der Population σ ist 15."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:359
+#: ../../Ch08/Ch08_Estimation_1.rst:360
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr ""
 "Populationsverteilung des IQ und zwei Stichproben mit N=100 und N=10.000"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:359
+#: ../../Ch08/Ch08_Estimation_1.rst:360
 msgid ""
 "The population distribution of IQ scores (left panel) and two samples drawn "
 "randomly from it: In the middle panel, we have a sample of 100 observations, "
@@ -822,7 +849,7 @@ msgstr ""
 "zufällig gezogene Stichproben: Eine Stichprobe mit 100 Beobachtungen (Mitte) "
 "und eine Stichprobe mit 10.000 Beobachtungen (rechts)."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:365
+#: ../../Ch08/Ch08_Estimation_1.rst:366
 msgid ""
 "Now suppose I run an experiment. I select 100 people at random and "
 "administer an IQ test, giving me a simple random sample from the population. "
@@ -833,7 +860,7 @@ msgstr ""
 "einfache Zufallsstichprobe aus der Population erhalte. Meine Stichprobe "
 "würde aus einer Sammlung von Zahlen wie dieser bestehen:"
 
-#: ../../Ch08/Ch08_Estimation_1.rst:374
+#: ../../Ch08/Ch08_Estimation_1.rst:375
 msgid ""
 "Each of these IQ scores is sampled from a normal distribution with mean 100 "
 "and standard deviation 15. So if I plot a histogram of the sample I get "
@@ -850,9 +877,9 @@ msgid ""
 "set and the population parameters are the things you want to learn about. "
 "Later on in this chapter I’ll talk about how you can estimate population "
 "parameters using your sample statistics (:doc:`Estimating population "
-"parameters <../Ch08/Ch08_Estimation_4>`) and how to work out how confident "
-"you are in your estimates (:doc:`Estimating a confidence interval <../Ch08/"
-"Ch08_Estimation_5>`) but before we get to that there’s a few more ideas in "
+"parameters <Ch08_Estimation_4>`) and how to work out how confident you are "
+"in your estimates (:doc:`Estimating a confidence interval "
+"<Ch08_Estimation_5>`) but before we get to that there’s a few more ideas in "
 "sampling theory that you need to know about."
 msgstr ""
 "Jeder dieser IQ-Werte ist eine Stichprobe aus einer Normalverteilung mit "
@@ -873,11 +900,11 @@ msgstr ""
 "Populationsparameter sind die Dinge, über die Sie etwas lernen wollen. "
 "Später in diesem Kapitel werde ich darüber sprechen, wie Sie die Parameter "
 "der Grundgesamtheit anhand Ihrer Stichprobenstatistiken schätzen können (:"
-"doc:`Schätzen von Populationsparametern <../Ch08/Ch08_Estimation_4>`) und "
-"wie Sie herausfinden können, wie sicher Sie in Ihren Schätzungen sind (:doc:"
-"`Schätzen eines Konfidenzintervalls <../Ch08/Ch08_Estimation_5>`), aber "
-"bevor wir dazu kommen, gibt es noch ein paar weitere Ideen aus der "
-"Stichprobentheorie, die Sie kennen sollten."
+"doc:`Schätzen von Populationsparametern <Ch08_Estimation_4>`) und wie Sie "
+"herausfinden können, wie sicher Sie in Ihren Schätzungen sind (:doc:"
+"`Schätzen eines Konfidenzintervalls <Ch08_Estimation_5>`), aber bevor wir "
+"dazu kommen, gibt es noch ein paar weitere Ideen aus der Stichprobentheorie, "
+"die Sie kennen sollten."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:397
 msgid ""
@@ -1126,11 +1153,11 @@ msgstr ""
 "Stichprobenmittelwerts wissen, wenn er aus einem bescheideneren Datensatz "
 "berechnet wird!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:29
+#: ../../Ch08/Ch08_Estimation_3.rst:31
 msgid "Sampling distribution of the mean"
 msgstr "Stichprobenverteilung des Mittelwerts"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:31
+#: ../../Ch08/Ch08_Estimation_3.rst:33
 msgid ""
 "With this in mind, let’s abandon the idea that our studies will have sample "
 "sizes of 10,000 and consider instead a very modest experiment indeed. This "
@@ -1147,7 +1174,7 @@ msgstr ""
 "simulieren, aber diesmal brauche ich nur 5 Teilnehmer-IDs, nicht 10.000. "
 "Dies sind die fünf Zahlen, die jamovi erzeugt hat:"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:42
+#: ../../Ch08/Ch08_Estimation_3.rst:44
 msgid ""
 "The mean IQ in this sample turns out to be exactly 95. Not surprisingly, "
 "this is much less accurate than the previous experiment. Now imagine that I "
@@ -1164,7 +1191,7 @@ msgstr ""
 "jamovi, die Ergebnisse dieses Verfahrens zu simulieren, und generiert diese "
 "fünf Zahlen:"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:53
+#: ../../Ch08/Ch08_Estimation_3.rst:55
 msgid ""
 "This time around, the mean IQ in my sample is 101. If I repeat the "
 "experiment 10 times I obtain the results shown in :numref:`tab-"
@@ -1176,255 +1203,255 @@ msgstr ""
 "gezeigten Ergebnisse, und wie Sie sehen können, variiert der "
 "Stichprobenmittelwert von einer Wiederholung zur nächsten."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:57
+#: ../../Ch08/Ch08_Estimation_3.rst:59
 msgid ""
 "Ten replications of the IQ experiment, each with a sample size of *N* =5"
 msgstr ""
 "Zehn Wiederholungen des IQ-Experiments, jeweils mit einer Stichprobengröße "
 "von *N* =5"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 1"
 msgstr "Person 1"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 2"
 msgstr "Person 2"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 3"
 msgstr "Person 3"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 4"
 msgstr "Person 4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 5"
 msgstr "Person 5"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:61
+#: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Sample Mean"
 msgstr "Stichprobenmittelwert"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "Replication 1"
 msgstr "Replikation 1"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "90"
 msgstr "90"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "82"
 msgstr "82"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "94"
 msgstr "94"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63 ../../Ch08/Ch08_Estimation_3.rst:69
+#: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "99"
 msgstr "99"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "110"
 msgstr "110"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:63
+#: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "95.0"
 msgstr "95.0"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65
+#: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "Replication 2"
 msgstr "Replikation 2"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65
+#: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "78"
 msgstr "78"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65
+#: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "88"
 msgstr "88"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:67
+#: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "111"
 msgstr "111"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "117"
 msgstr "117"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:65
+#: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "101.0"
 msgstr "101.0"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67
+#: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "Replication 3"
 msgstr "Replikation 3"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67
+#: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "122"
 msgstr "122"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67
+#: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "91"
 msgstr "91"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:69
-#: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:75
+#: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:71
+#: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "98"
 msgstr "98"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "86"
 msgstr "86"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:67
+#: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "101.6"
 msgstr "101.6"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:69
+#: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "Replication 4"
 msgstr "Replikation 4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:69
+#: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "96"
 msgstr "96"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "119"
 msgstr "119"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "107"
 msgstr "107"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:69
+#: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "103.8"
 msgstr "103.8"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:71
+#: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "Replication 5"
 msgstr "Replikation 5"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "105"
 msgstr "105"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:71
+#: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "113"
 msgstr "113"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:71
+#: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "103"
 msgstr "103"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:71
+#: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "104.4"
 msgstr "104.4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73
+#: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "Replication 6"
 msgstr "Replikation 6"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73
+#: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "81"
 msgstr "81"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73
+#: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "89"
 msgstr "89"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:75
+#: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "93"
 msgstr "93"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "85"
 msgstr "85"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73
+#: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "114"
 msgstr "114"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:73
+#: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "92.4"
 msgstr "92.4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:75
+#: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "Replication 7"
 msgstr "Replikation 7"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:77 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "100"
 msgstr "100"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:77 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "108"
 msgstr "108"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:75
+#: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "133"
 msgstr "133"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:75
+#: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "106.4"
 msgstr "106.4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "Replication 8"
 msgstr "Replikation 8"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:77
+#: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "102.8"
 msgstr "102.8"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "Replication 9"
 msgstr "Replikation 9"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "73"
 msgstr "73"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "116"
 msgstr "116"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:79
+#: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "100.4"
 msgstr "100.4"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "Replication 10"
 msgstr "Replikation 10"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "95"
 msgstr "95"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "126"
 msgstr "126"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "112"
 msgstr "112"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "120"
 msgstr "120"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "76"
 msgstr "76"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:81
+#: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "105.8"
 msgstr "105.8"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:84
+#: ../../Ch08/Ch08_Estimation_3.rst:86
 msgid ""
 "Now suppose that I decided to keep going in this fashion, replicating this "
 "“five IQ scores” experiment over and over again. Every time I replicate the "
@@ -1442,7 +1469,7 @@ msgstr ""
 "replications` aufgelistet sind, so dass mein Datensatz folgendermaßen "
 "beginnt:"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:96
+#: ../../Ch08/Ch08_Estimation_3.rst:98
 msgid ""
 "What if I continued like this for 10,000 replications, and then drew a "
 "histogram. Well that’s exactly what I did, and you can see the results in :"
@@ -1462,12 +1489,12 @@ msgstr ""
 "Stichprobenmittelwerte erhalten! Diese Verteilung hat in der Statistik einen "
 "besonderen Namen, sie heißt **Stichprobenverteilung des Mittelwerts**."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:111
+#: ../../Ch08/Ch08_Estimation_3.rst:113
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr ""
 "Stichprobenverteilung: Mittelwert für das „Experiment mit fünf IQ-Werten“"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:111
+#: ../../Ch08/Ch08_Estimation_3.rst:113
 msgid ""
 "The sampling distribution of the mean for the “five IQ scores experiment”: "
 "If you sample 5 people at random and calculate their average IQ you’ll "
@@ -1482,7 +1509,7 @@ msgstr ""
 "deren IQ über 120 oder unter 80 liegt. Zum Vergleich: Die schwarze Linie "
 "zeigt die Verteilung der IQ-Werte in der Population."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:119
+#: ../../Ch08/Ch08_Estimation_3.rst:121
 msgid ""
 "Sampling distributions are another important theoretical idea in statistics, "
 "and they’re crucial for understanding the behaviour of small samples. For "
@@ -1501,11 +1528,11 @@ msgstr ""
 "ich das Experiment wiederhole, sagt mir die Stichprobenverteilung, dass ich "
 "einen Stichprobenmittelwert irgendwo zwischen 80 und 120 erwarten kann."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:129
+#: ../../Ch08/Ch08_Estimation_3.rst:131
 msgid "Sampling distributions exist for any sample statistic!"
 msgstr "Stichprobenverteilungen existieren für jede Stichprobenstatistik!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:131
+#: ../../Ch08/Ch08_Estimation_3.rst:133
 msgid ""
 "One thing to keep in mind when thinking about sampling distributions is that "
 "*any* sample statistic you might care to calculate has a sampling "
@@ -1520,7 +1547,7 @@ msgstr ""
 "Experiments notiere. Dadurch würde ich einen Datensatz erhalten, der wie "
 "folgt beginnt:"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:141
+#: ../../Ch08/Ch08_Estimation_3.rst:143
 msgid ""
 "Doing this over and over again would give me a very different sampling "
 "distribution, namely the *sampling distribution of the maximum*. The "
@@ -1538,11 +1565,11 @@ msgstr ""
 "höchsten IQ-Wert findet, diese einen überdurchschnittlichen IQ haben wird. "
 "Meistens findet man jemanden, dessen IQ im Bereich von 100 bis 140 liegt."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:155
+#: ../../Ch08/Ch08_Estimation_3.rst:157
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
 msgstr "Stichprobenverteilung: Maximum für das „Experiment mit fünf IQ-Werten“"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:155
+#: ../../Ch08/Ch08_Estimation_3.rst:157
 msgid ""
 "The sampling distribution of the maximum for the “five IQ scores "
 "experiment”: If you sample 5 people at random and select the one with the "
@@ -1553,11 +1580,11 @@ msgstr ""
 "mit dem höchsten IQ-Wert auswählt, wird man wahrscheinlich jemanden mit "
 "einem IQ zwischen 100 und 140 finden."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:163
+#: ../../Ch08/Ch08_Estimation_3.rst:166
 msgid "The central limit theorem"
 msgstr "Der zentrale Grenzwertsatz"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:165
+#: ../../Ch08/Ch08_Estimation_3.rst:168
 msgid ""
 "At this point I hope you have a pretty good sense of what sampling "
 "distributions are, and in particular what the sampling distribution of the "
@@ -1600,12 +1627,12 @@ msgstr ""
 "Akronym SEM. Wie Sie aus der Abbildung ersehen können, nimmt der SEM ab, "
 "wenn der Stichprobenumfang *N* steigt."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:191
+#: ../../Ch08/Ch08_Estimation_3.rst:194
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr ""
 "Aussehen der Stichprobenverteilung in Abhängigkeit vom Stichprobenumfang"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:191
+#: ../../Ch08/Ch08_Estimation_3.rst:194
 msgid ""
 "Illustration of the how sampling distribution of the mean depends on sample "
 "size. In each panel I generated 10,000 samples of IQ data and calculated the "
@@ -1644,7 +1671,7 @@ msgstr ""
 "dazu neigt, sich ziemlich eng um den wahren Grundgesamtheitsmittelwert zu "
 "gruppieren."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:210
+#: ../../Ch08/Ch08_Estimation_3.rst:213
 msgid ""
 "Okay, so that’s one part of the story. However, there’s something I’ve been "
 "glossing over so far. All my examples up to this point have been based on "
@@ -1703,11 +1730,11 @@ msgstr ""
 "Stichprobenverteilung des Mittelwerts annähernd normal, egal wie die "
 "Verteilung in der Grundgesamtheit aussieht!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:243
+#: ../../Ch08/Ch08_Estimation_3.rst:246
 msgid "Demonstration of the central limit theorem"
 msgstr "Veranschaulichung des zentralen Grenzwertsatzes"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:243
+#: ../../Ch08/Ch08_Estimation_3.rst:246
 msgid ""
 "Demonstration of the central limit theorem: In the top-left panel, we have a "
 "non-normal population distribution, and the remaining panels show the "
@@ -1726,7 +1753,7 @@ msgstr ""
 "normalen Verteilung der Grundgesamtheit der Normalverteilung an, sobald Sie "
 "eine Stichprobe mit nur 4 Beobachtungen haben."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:253
+#: ../../Ch08/Ch08_Estimation_3.rst:256
 msgid ""
 "On the basis of these figures, it seems like we have evidence for all of the "
 "following claims about the sampling distribution of the mean."
@@ -1734,7 +1761,7 @@ msgstr ""
 "Auf der Grundlage dieser Zahlen scheint es, als hätten wir Beweise für alle "
 "folgenden Behauptungen über die Stichprobenverteilung des Mittelwerts."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:256
+#: ../../Ch08/Ch08_Estimation_3.rst:259
 msgid ""
 "The mean of the sampling distribution is the same as the mean of the "
 "population"
@@ -1742,7 +1769,7 @@ msgstr ""
 "Der Mittelwert der Stichprobenverteilung entspricht dem Mittelwert der "
 "Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:259
+#: ../../Ch08/Ch08_Estimation_3.rst:262
 msgid ""
 "The standard deviation of the sampling distribution (i.e., the standard "
 "error) gets smaller as the sample size increases"
@@ -1750,7 +1777,7 @@ msgstr ""
 "Die Standardabweichung der Stichprobenverteilung (d. h. der Standardfehler) "
 "wird mit zunehmendem Stichprobenumfang kleiner"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:262
+#: ../../Ch08/Ch08_Estimation_3.rst:265
 msgid ""
 "The shape of the sampling distribution becomes normal as the sample size "
 "increases"
@@ -1758,7 +1785,7 @@ msgstr ""
 "Die Form der Stichprobenverteilung nähert sich mit zunehmendem "
 "Stichprobenumfang einer Normalverteilung"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:265
+#: ../../Ch08/Ch08_Estimation_3.rst:268
 msgid ""
 "As it happens, not only are all of these statements true, there is a very "
 "famous theorem in statistics that proves all three of them, known as the "
@@ -1775,7 +1802,7 @@ msgstr ""
 "die Stichprobenverteilung des Mittelwerts ebenfalls den Mittelwert µ und der "
 "Standardfehler des Mittelwerts beträgt"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:273
+#: ../../Ch08/Ch08_Estimation_3.rst:276
 msgid ""
 "\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
 "\n"
@@ -1783,7 +1810,7 @@ msgstr ""
 "\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:275
+#: ../../Ch08/Ch08_Estimation_3.rst:278
 msgid ""
 "Because we divide the population standard deviation σ by the square root of "
 "the sample size *N*, the SEM gets smaller as the sample size increases. It "
@@ -1795,7 +1822,7 @@ msgstr ""
 "Stichprobenumfang zunimmt. Er sagt uns auch, dass die Form der "
 "Stichprobenverteilung sich der Normalverteilung annähert.\\ [#]_"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:280
+#: ../../Ch08/Ch08_Estimation_3.rst:283
 msgid ""
 "This result is useful for all sorts of things. It tells us why large "
 "experiments are more reliable than small ones, and because it gives us an "
@@ -1820,7 +1847,7 @@ msgstr ""
 "Normalverteilung folgen. Aufgrund dieses mathematischen Gesetzes taucht die "
 "Normalverteilung immer wieder in realen Daten auf."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:295
+#: ../../Ch08/Ch08_Estimation_3.rst:298
 msgid ""
 "As usual, I’m being a bit sloppy here. The central limit theorem is a bit "
 "more general than this section implies. Like most introductory stats texts "
@@ -1978,15 +2005,15 @@ msgstr ""
 "Schätzwert für den Populationsmittelwert ebenfalls :math:`\\hat\\mu` = 98,5. "
 "Um die Notation zu verdeutlichen, finden Sie hier eine praktische Tabelle:"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:265
+#: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "Symbol"
 msgstr "Symbol"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:265
+#: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "What is it?"
 msgstr "Was bedeutet das?"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:265
+#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:266
 msgid "Do we know what it is?"
 msgstr "Wissen wir, was es ist?"
 
@@ -1998,8 +2025,8 @@ msgstr "*X̄*"
 msgid "Sample mean"
 msgstr "Stichprobenmittelwert"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:267
-#: ../../Ch08/Ch08_Estimation_4.rst:278
+#: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:279
 msgid "Yes, calculated from the raw data"
 msgstr "Ja, berechnet aus den Rohdaten"
 
@@ -2011,8 +2038,8 @@ msgstr "µ"
 msgid "True population mean"
 msgstr "Wahrer Populationsmittelwert"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:270
-#: ../../Ch08/Ch08_Estimation_4.rst:281
+#: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:271
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "Almost never known for sure"
 msgstr "Fast nie mit Sicherheit bekannt"
 
@@ -2037,14 +2064,15 @@ msgstr "Schätzen der Standardabweichung der Grundgesamtheit"
 msgid ""
 "So far, estimation seems pretty simple, and you might be wondering why I "
 "forced you to read through all that stuff about sampling theory. In the case "
-"of the mean our estimate of the population parameter (i.e. :math:`\\hat"
-"\\mu`) turned out to be identical to the corresponding sample statistic (i."
-"e. *X̄*). However, that’s not always true. To see this, let’s have a think "
-"about how to construct an **estimate of the population standard deviation**, "
-"which we’ll denote :math:`\\hat\\sigma`. What shall we use as our estimate "
-"in this case? Your first thought might be that we could do the same thing we "
-"did when estimating the mean, and just use the sample statistic as our "
-"estimate. That’s almost the right thing to do, but not quite."
+"of the mean our estimate of the population parameter (i.e. :math:"
+"`\\hat\\mu`) turned out to be identical to the corresponding sample "
+"statistic (i.e. *X̄*). However, that’s not always true. To see this, let’s "
+"have a think about how to construct an **estimate of the population standard "
+"deviation**, which we’ll denote :math:`\\hat\\sigma`. What shall we use as "
+"our estimate in this case? Your first thought might be that we could do the "
+"same thing we did when estimating the mean, and just use the sample "
+"statistic as our estimate. That’s almost the right thing to do, but not "
+"quite."
 msgstr ""
 "Bis jetzt scheint die Schätzung ziemlich einfach zu sein, und Sie werden "
 "sich vielleicht fragen, warum ich Sie gezwungen habe, den ganzen Kram über "
@@ -2379,7 +2407,7 @@ msgstr ""
 "statt durch *N* dividieren, ergibt sich eine Schätzung der "
 "Standardabweichung der Grundgesamtheit:"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:237
+#: ../../Ch08/Ch08_Estimation_4.rst:238
 msgid ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
@@ -2387,7 +2415,7 @@ msgstr ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:239
+#: ../../Ch08/Ch08_Estimation_4.rst:240
 msgid ""
 "and when we use jamovi’s built in standard deviation function, what it’s "
 "doing is calculating :math:`\\hat\\sigma`, not *s*.\\ [#]_"
@@ -2395,10 +2423,10 @@ msgstr ""
 "und wenn wir jamovi's Funktion für die Standardabweichung verwenden, "
 "berechnet sie :math:`\\hat\\sigma`, nicht *s*.\\ [#]_"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:242
+#: ../../Ch08/Ch08_Estimation_4.rst:243
 msgid ""
-"One final point. In practice, a lot of people tend to refer to :math:`"
-"\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
+"One final point. In practice, a lot of people tend to refer to :math:"
+"`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
 "*sample* standard deviation. Technically, this is incorrect. The *sample* "
 "standard deviation should be equal to *s* (i.e., the formula where we divide "
 "by *N*). These aren’t the same thing, either conceptually or numerically. "
@@ -2416,16 +2444,16 @@ msgid ""
 "thinking that *s* and :math:`\\hat\\sigma` are the same thing, you start "
 "doing exactly that."
 msgstr ""
-"Ein letzter Punkt: In der Praxis neigen viele Leute dazu, :math:`"
-"\\hat{\\sigma}` (d.h. die Formel, in der wir durch *N* - 1 dividieren) als "
+"Ein letzter Punkt: In der Praxis neigen viele Leute dazu, :math:"
+"`\\hat{\\sigma}` (d.h. die Formel, in der wir durch *N* - 1 dividieren) als "
 "die *Stichprobenstandardabweichung* zu bezeichnen. Technisch gesehen ist "
 "dies falsch. Die Standardabweichung der *Stichprobe* sollte gleich *s* sein "
 "(d. h. die Formel, bei der wir durch *N* dividieren). Dies ist nicht "
 "dasselbe, weder konzeptionell noch numerisch. Das eine ist eine Eigenschaft "
 "der Stichprobe, das andere ist ein geschätztes Merkmal der Grundgesamtheit. "
 "In fast allen Anwendungen im wirklichen Leben geht es jedoch um die "
-"Schätzung des Parameters für die Grundgesamtheit. Deshalb wird immer :math:`"
-"\\hat\\sigma` statt *s* angegeben. Das ist natürlich die richtige Zahl. Es "
+"Schätzung des Parameters für die Grundgesamtheit. Deshalb wird immer :math:"
+"`\\hat\\sigma` statt *s* angegeben. Das ist natürlich die richtige Zahl. Es "
 "ist nur so, dass die Leute dazu neigen, sich bei der Terminologie etwas "
 "ungenau auszudrücken, weil „Stichprobenstandardabweichung“ kürzer ist als "
 "„geschätzte Standardabweichung in der Grundgesamtheit“. Das ist keine große "
@@ -2436,7 +2464,7 @@ msgstr ""
 "zu verwechseln. In dem Moment, in dem man anfängt zu denken, dass *s* und :"
 "math:`\\hat\\sigma` dasselbe sind, fängt man an, genau das zu tun."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:261
+#: ../../Ch08/Ch08_Estimation_4.rst:262
 msgid ""
 "To finish this section off, here’s another couple of tables to help keep "
 "things clear."
@@ -2444,63 +2472,63 @@ msgstr ""
 "Zum Abschluss dieses Abschnitts finden Sie noch einige Tabellen, die Ihnen "
 "helfen sollen, die Übersicht zu behalten."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:267
+#: ../../Ch08/Ch08_Estimation_4.rst:268
 msgid "*s*"
 msgstr "*s*"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:267
+#: ../../Ch08/Ch08_Estimation_4.rst:268
 msgid "Sample standard deviation"
 msgstr "Standardabweichung der Stichprobe"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:270
+#: ../../Ch08/Ch08_Estimation_4.rst:271
 msgid "σ"
 msgstr "σ"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:270
+#: ../../Ch08/Ch08_Estimation_4.rst:271
 msgid "Population standard deviation"
 msgstr "Standardabweichung der Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:273
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid ":math:`\\hat{\\sigma}`"
 msgstr ":math:`\\hat{\\sigma}`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:273
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid "Estimate of the population standard deviation"
 msgstr "Schätzung der Standardabweichung der Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:273
+#: ../../Ch08/Ch08_Estimation_4.rst:274
 msgid "Yes, but not the same as the sample standard deviation"
 msgstr "Ja, aber nicht identisch mit der Standardabweichung der Stichprobe"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:278
+#: ../../Ch08/Ch08_Estimation_4.rst:279
 msgid "*s*\\²"
 msgstr "*s*\\²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:278
+#: ../../Ch08/Ch08_Estimation_4.rst:279
 msgid "Sample variance"
 msgstr "Stichprobenvarianz"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:281
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "σ²"
 msgstr "σ²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:281
+#: ../../Ch08/Ch08_Estimation_4.rst:282
 msgid "Population variance"
 msgstr "Varianz der Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:284
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid ":math:`\\hat{\\sigma}^2`"
 msgstr ":math:`\\hat{\\sigma}^2`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:284
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid "Estimate of the population variance"
 msgstr "Schätzung der Varianz der Grundgesamtheit"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:284
+#: ../../Ch08/Ch08_Estimation_4.rst:285
 msgid "Yes, but not the same as the sample variance"
 msgstr "Ja, aber nicht identisch mit der Stichprobenvarianz"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:291
+#: ../../Ch08/Ch08_Estimation_4.rst:292
 msgid ""
 "Please note that if you were *actually* interested in this question you "
 "would need to be a *lot* more careful than I’m being here. You *can’t* just "
@@ -2549,7 +2577,7 @@ msgstr ""
 "von „Eisenerzvergiftung“ haben, so wie sie eine Vorstellung von "
 "„Bleivergiftung“ haben. Psychologie ist *schwer*."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:315
+#: ../../Ch08/Ch08_Estimation_4.rst:316
 msgid ""
 "I should note that I’m hiding something here. Unbiasedness is a desirable "
 "characteristic for an estimator, but there are other things that matter "
@@ -2563,7 +2591,7 @@ msgstr ""
 "Rahmen dieses Buches sprengen, hierauf im Detail einzugehen. Ich möchte Sie "
 "nur darauf aufmerksam machen, dass es hier eine versteckte Komplexität gibt."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:322
+#: ../../Ch08/Ch08_Estimation_4.rst:323
 msgid ""
 "Okay, I’m hiding something else here. In a bizarre and counter-intuitive "
 "twist, since :math:`\\hat\\sigma^2` is an unbiased estimator of σ², you’d "
@@ -2585,8 +2613,8 @@ msgstr ""
 "unverzerrter Schätzer für σ² ist, könnte man annehmen, dass es in Ordnung "
 "wäre, die Quadratwurzel zu ziehen und dass :math:`\\hat\\sigma` ebenfalls "
 "ein unverzerrter Schätzer für σ ist. Seltsamerweise ist das nicht der Fall. "
-"Es gibt tatsächlich eine subtile, winzige Verzerrung in :math:`\\hat"
-"\\sigma`. Das ist einfach bizarr: :math:`\\hat\\sigma^2` ist ein "
+"Es gibt tatsächlich eine subtile, winzige Verzerrung in :math:"
+"`\\hat\\sigma`. Das ist einfach bizarr: :math:`\\hat\\sigma^2` ist ein "
 "unverzerrter Schätzer der Varianz der Grundgesamtheit σ², aber wenn man die "
 "Quadratwurzel zieht, stellt sich heraus, dass :math:`\\hat\\sigma` ein "
 "verzerrter Schätzer der Standardabweichung der Grundgesamtheit σ ist. "
@@ -2595,15 +2623,15 @@ msgstr ""
 "Quadratwurzel) nicht mit dem Erwartungswert übereinstimmen“, aber das klingt "
 "für jeden, der keinen Kurs in mathematischer Statistik belegt hat, wie "
 "Kauderwelsch. Glücklicherweise spielt das für praktische Zwecke keine Rolle. "
-"Die Verzerrung ist gering, und im wirklichen Leben verwendet jeder :math:`"
-"\\hat\\sigma`, und es funktioniert ganz gut. Manchmal ist Mathematik einfach "
-"lästig."
+"Die Verzerrung ist gering, und im wirklichen Leben verwendet jeder :math:"
+"`\\hat\\sigma`, und es funktioniert ganz gut. Manchmal ist Mathematik "
+"einfach lästig."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:4
 msgid "Estimating a confidence interval"
 msgstr "Schätzen eines Konfidenzintervalls"
 
-#: ../../Ch08/Ch08_Estimation_5.rst:0
+#: ../../Ch08/Ch08_Estimation_5.rst
 msgid "*Statistics means never having to say you’re certain*"
 msgstr ""
 "*Statistik bedeutet, dass man nie sagen muss, dass man sich sicher ist.*"
@@ -2613,6 +2641,7 @@ msgid "Unknown origin\\ [#]_"
 msgstr "Unbekannte Herkunft\\ [#]_"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:12
+#, python-format
 msgid ""
 "Up to this point in this chapter, I’ve outlined the basics of sampling "
 "theory which statisticians rely on to make guesses about population "
@@ -2646,13 +2675,14 @@ msgstr ""
 "Mittelwert."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:26
+#, python-format
 msgid ""
 "Armed with an understanding of sampling distributions, constructing a "
 "confidence interval for the mean is actually pretty easy. Here’s how it "
 "works. Suppose the true population mean is µ and the standard deviation is "
 "σ. I’ve just finished running my study that has *N* participants, and the "
-"mean IQ among those participants is *X̄*. We know from our discussion of :doc:"
-"`the central limit theorem <../Ch08/Ch08_Estimation_3>` that the sampling "
+"mean IQ among those participants is *X̄*. We know from our discussion of :ref:"
+"`the central limit theorem <central_limit_theorem>` that the sampling "
 "distribution of the mean is approximately normal. We also know from our "
 "discussion of the :doc:`normal distribution <../Ch07/Ch07_Probability_5>`, "
 "that there is a 95\\% chance that a normally-distributed quantity will fall "
@@ -2663,14 +2693,15 @@ msgstr ""
 "es. Nehmen wir an, der wahre Mittelwert der Population ist µ und die "
 "Standardabweichung ist σ. Ich habe gerade meine Studie mit *N* Teilnehmern "
 "abgeschlossen, und der mittlere IQ unter diesen Teilnehmern ist *X̄*. Aus "
-"unserer Diskussion über :doc:`den zentralen Grenzwertsatz <../Ch08/"
-"Ch08_Estimation_3>` wissen wir, dass die Stichprobenverteilung des "
+"unserer Diskussion über :ref:`den zentralen Grenzwertsatz "
+"<central_limit_theorem>` wissen wir, dass die Stichprobenverteilung des "
 "Mittelwertes annähernd normal ist. Wir wissen aus unserer Diskussion über "
 "die :doc:`Normalverteilung <../Ch07/Ch07_Probability_5>` auch, dass eine "
 "Wahrscheinlichkeit von 95 % besteht, dass eine normalverteilte Größe "
 "innerhalb von etwa zwei Standardabweichungen um den wahren Mittelwert liegt."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:37
+#, python-format
 msgid ""
 "To be more precise, the more correct answer is that there is a 95\\% chance "
 "that a normally-distributed quantity will fall within 1.96 standard "
@@ -2700,11 +2731,12 @@ msgid "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
 msgstr "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
+#, python-format
 msgid ""
-"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be 95\\% "
-"confident that this is true. However, that’s not answering the question that "
-"we’re actually interested in. The equation above tells us what we should "
-"expect about the sample mean given that we know what the population "
+"where the SEM is equal to :math:`\\sigma / \\sqrt{N}` and we can be 95\\"
+"% confident that this is true. However, that’s not answering the question "
+"that we’re actually interested in. The equation above tells us what we "
+"should expect about the sample mean given that we know what the population "
 "parameters are. What we *want* is to have this work the other way around. We "
 "want to know what we should believe about the population parameters, given "
 "that we have observed a particular sample. However, it’s not too difficult "
@@ -2727,6 +2759,7 @@ msgid "*X̄* − (1.96 × SEM) ≤ µ ≤ *X̄* + (1.96 × SEM)"
 msgstr "*X̄* − (1.96 × SEM) ≤ µ ≤ *X̄* + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:60
+#, python-format
 msgid ""
 "What this is telling is is that the range of values has a 95\\% probability "
 "of containing the population mean µ. We refer to this range as a **95\\% "
@@ -2735,12 +2768,12 @@ msgid ""
 "distribution of the mean is normal), then we can write this as our formula "
 "for the 95\\% confidence interval:"
 msgstr ""
-"Das bedeutet, dass der Wertebereich mit einer Wahrscheinlichkeit von 95 % "
-"den Mittelwert der Grundgesamtheit µ enthält. Wir bezeichnen diesen Bereich "
-"als **95\\%-Konfidenzintervall**, bezeichnet als *CI*\\ :sub:`95`\\ . Kurz "
-"gesagt, solange *N* hinreichend groß ist (groß genug, um zu glauben, dass "
-"die Stichprobenverteilung des Mittelwerts normal ist), können wir dies als "
-"unsere Formel für das 95\\%-Konfidenzintervall schreiben:"
+"Das bedeutet, dass der Wertebereich mit einer Wahrscheinlichkeit von 95 "
+"% den Mittelwert der Grundgesamtheit µ enthält. Wir bezeichnen diesen "
+"Bereich als **95\\%-Konfidenzintervall**, bezeichnet als *CI*\\ :sub:"
+"`95`\\ . Kurz gesagt, solange *N* hinreichend groß ist (groß genug, um zu "
+"glauben, dass die Stichprobenverteilung des Mittelwerts normal ist), können "
+"wir dies als unsere Formel für das 95\\%-Konfidenzintervall schreiben:"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:67
 msgid ""
@@ -2753,6 +2786,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:69
+#, python-format
 msgid ""
 "Of course, there’s nothing special about the number 1.96. It just happens to "
 "be the multiplier you need to use if you want a 95\\% confidence interval. "
@@ -2769,16 +2803,17 @@ msgid "A slight mistake in the formula"
 msgstr "Ein kleiner Fehler in der Formel"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:77
+#, python-format
 msgid ""
 "As usual, I lied. The formula that I’ve given above for the 95\\% confidence "
 "interval is approximately correct, but I glossed over an important detail in "
 "the discussion. Notice my formula requires you to use the standard error of "
 "the mean, *SEM*, which in turn requires you to use the true population "
-"standard deviation σ. Yet, in :doc:`Estimating population parameters <../"
-"Ch08/Ch08_Estimation_4>` I stressed the fact that we don’t actually *know* "
-"the true population parameters. Because we don’t know the true value of σ we "
-"have to use an estimate of the population standard deviation :math:`"
-"\\hat{\\sigma}` instead. This is pretty straightforward to do, but this has "
+"standard deviation σ. Yet, in :doc:`Estimating population parameters "
+"<Ch08_Estimation_4>` I stressed the fact that we don’t actually *know* the "
+"true population parameters. Because we don’t know the true value of σ we "
+"have to use an estimate of the population standard deviation :math:"
+"`\\hat{\\sigma}` instead. This is pretty straightforward to do, but this has "
 "the consequence that we need to use the percentiles of the *t*-distribution "
 "rather than the normal distribution to calculate our magic number, and the "
 "answer depends on the sample size. When *N* is very large, we get pretty "
@@ -2792,11 +2827,11 @@ msgstr ""
 "Beachten Sie, dass meine Formel die Verwendung des Standardfehlers des "
 "Mittelwerts, *SEM*, voraussetzt, der wiederum die Kenntnis der wahren "
 "Standardabweichung der Grundgesamtheit σ voraussetzt. In :doc:`Schätzen von "
-"Populationsparametern <../Ch08/Ch08_Estimation_4>` habe ich jedoch die "
-"Tatsache betont, dass wir die wahren Populationsparameter *nicht kennen*. Da "
-"wir den wahren Wert von σ nicht kennen, müssen wir stattdessen die Schätzung "
-"der Standardabweichung der Grundgesamtheit :math:`\\hat{\\sigma}` verwenden. "
-"Das ist recht einfach zu bewerkstelligen, hat aber zur Folge, dass wir die "
+"Populationsparametern <Ch08_Estimation_4>` habe ich jedoch die Tatsache "
+"betont, dass wir die wahren Populationsparameter *nicht kennen*. Da wir den "
+"wahren Wert von σ nicht kennen, müssen wir stattdessen die Schätzung der "
+"Standardabweichung der Grundgesamtheit :math:`\\hat{\\sigma}` verwenden. Das "
+"ist recht einfach zu bewerkstelligen, hat aber zur Folge, dass wir die "
 "Perzentile der *t*-Verteilung anstelle der Normalverteilung verwenden "
 "müssen, um unsere magische Zahl zu berechnen, und die Antwort hängt von der "
 "Stichprobengröße ab. Wenn *N* sehr groß ist, erhalten wir so ziemlich "
@@ -2834,6 +2869,7 @@ msgid "Interpreting a confidence interval"
 msgstr "Interpretieren eines Konfidenzintervalls"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:105
+#, python-format
 msgid ""
 "The hardest thing about confidence intervals is understanding what they "
 "*mean*. Whenever people first encounter confidence intervals, the first "
@@ -2873,6 +2909,7 @@ msgstr ""
 "frequentistische Interpretationen verwenden!"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:121
+#, python-format
 msgid ""
 "Okay, so if that’s not the right answer, what is? Remember what we said "
 "about frequentist probability. The only way we are allowed to make "
@@ -2914,6 +2951,7 @@ msgstr ""
 "Konfidenzintervalle für IQ-Stichproben mit N=10 (oben) und N=25 (unten)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:142
+#, python-format
 msgid ""
 "95\\% confidence intervals. The top panel shows 50 simulated replications of "
 "an experiment in which we measure the IQs of 10 people. The dot marks the "
@@ -2996,6 +3034,7 @@ msgstr ""
 "for Mean``."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:178
+#, python-format
 msgid ""
 "95\\% confidence intervals are the de facto standard in psychology. So, for "
 "example, if I load the |IQsim|_ data set (our simulated large sample data "
@@ -3027,16 +3066,11 @@ msgstr ""
 "ziemlich cool, also werden wir Ihnen später zeigen, wie man das macht."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:193
-#, fuzzy
-#| msgid ""
-#| "This quote appears on a great many t-shirts and websites, and even gets a "
-#| "mention in a few academic papers (e.g., https://doi."
-#| "org/10.1080/10691898.2002.11910681), but I’ve never found the original "
-#| "source."
 msgid ""
 "This quote appears on a great many t-shirts and websites, and even gets a "
 "mention in a few academic papers (e.g., https://doi."
-"org/10.1080/10691898.2002.11910681, but I’ve never found the original source."
+"org/10.1080/10691898.2002.11910681), but I’ve never found the original "
+"source."
 msgstr ""
 "Das Zitat findet sich auf vielen T-Shirts und Websites und wird sogar in "
 "einigen akademischen Arbeiten erwähnt (z. B. https://doi."
@@ -3062,35 +3096,35 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_6.rst:11
 msgid ""
-":doc:`Basic ideas about samples, sampling and populations <../Ch08/"
-"Ch08_Estimation_1>`"
+":doc:`Basic ideas about samples, sampling and populations "
+"<Ch08_Estimation_1>`"
 msgstr ""
 ":doc:`Grundlegende Überlegungen zu Stichproben, Grundgesamtheiten und das "
-"Ziehen von Stichproben <../Ch08/Ch08_Estimation_1>`"
+"Ziehen von Stichproben <Ch08_Estimation_1>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:14
 msgid ""
-":doc:`Statistical theory of sampling: the law of large numbers <../Ch08/"
-"Ch08_Estimation_2>`"
+":doc:`Statistical theory of sampling: the law of large numbers "
+"<Ch08_Estimation_2>`"
 msgstr ""
 ":doc:`Statistische Theorie der Ziehung von Stichproben: das Gesetz der "
-"großen Zahlen <../Ch08/Ch08_Estimation_2>`"
+"großen Zahlen <Ch08_Estimation_2>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:17
 msgid ""
-":doc:`Sampling distributions and the central limit theorem <../Ch08/"
-"Ch08_Estimation_3>`"
+":doc:`Sampling distributions and the central limit theorem "
+"<Ch08_Estimation_3>`"
 msgstr ""
-":doc:`Stichprobenverteilungen und der zentrale Grenzwertsatz <../Ch08/"
-"Ch08_Estimation_3>`"
+":doc:`Stichprobenverteilungen und der zentrale Grenzwertsatz "
+"<Ch08_Estimation_3>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:20
-msgid ":doc:`Estimating population parameters <../Ch08/Ch08_Estimation_4>`"
-msgstr ":doc:`Schätzen von Populationsparametern <../Ch08/Ch08_Estimation_4>`"
+msgid ":doc:`Estimating population parameters <Ch08_Estimation_4>`"
+msgstr ":doc:`Schätzen von Populationsparametern <Ch08_Estimation_4>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:22
-msgid ":doc:`Estimating a confidence interval <../Ch08/Ch08_Estimation_5>`"
-msgstr ":doc:`Schätzen eines Konfidenzintervalls <../Ch08/Ch08_Estimation_5>`"
+msgid ":doc:`Estimating a confidence interval <Ch08_Estimation_5>`"
+msgstr ":doc:`Schätzen eines Konfidenzintervalls <Ch08_Estimation_5>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:24
 msgid ""

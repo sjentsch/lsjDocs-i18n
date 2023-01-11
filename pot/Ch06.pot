@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,26 +52,23 @@ msgid ""
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:45
-msgid ""
-":doc:`Tabulating and cross-tabulating data <../Ch06/Ch06_DataHandling_1>`"
+msgid ":doc:`Tabulating and cross-tabulating data <Ch06_DataHandling_1>`"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
-msgid ":doc:`Logical expressions in jamovi <../Ch06/Ch06_DataHandling_2>`"
+msgid ":doc:`Logical expressions in jamovi <Ch06_DataHandling_2>`"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:49
-msgid ""
-":doc:`Transforming or recoding a variable <../Ch06/Ch06_DataHandling_3>`"
+msgid ":doc:`Transforming or recoding a variable <Ch06_DataHandling_3>`"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:51
-msgid ""
-":doc:`Mathematical functions and operations <../Ch06/Ch06_DataHandling_4>`"
+msgid ":doc:`Mathematical functions and operations <Ch06_DataHandling_4>`"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:53
-msgid ":doc:`Extracting a subset of the data <../Ch06/Ch06_DataHandling_5>`"
+msgid ":doc:`Extracting a subset of the data <Ch06_DataHandling_5>`"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:55
@@ -1250,9 +1247,9 @@ msgid ""
 "whole chapter in one sitting, then you should already have this data set "
 "loaded into a jamovi window. For this section, let’s focus on the two "
 "variables ``speaker`` and ``utterance`` (see :doc:`Tabulating and cross-"
-"tabulating data <../Ch06/Ch06_DataHandling_1>` if you’ve forgotten what "
-"those variables look like). Suppose that what I want to do is pull out only "
-"those utterances that were made by ``makka-pakka``. To that end, we need to "
+"tabulating data <Ch06_DataHandling_1>` if you’ve forgotten what those "
+"variables look like). Suppose that what I want to do is pull out only those "
+"utterances that were made by ``makka-pakka``. To that end, we need to "
 "specify a filter in jamovi. First open up a filter window by clicking on "
 "``Filters`` on the main jamovi ``Data`` toolbar. Then, in the ``Filter 1`` "
 "text box, next to the ``=`` sign, type the following:"

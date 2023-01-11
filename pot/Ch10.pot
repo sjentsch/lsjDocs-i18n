@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgid ""
 "this chapter covers only a few of the more common ones."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare.rst:49 ../../Ch10/Ch10_ChiSquare_1.rst:731
+#: ../../Ch10/Ch10_ChiSquare.rst:49 ../../Ch10/Ch10_ChiSquare_1.rst:733
 #: ../../Ch10/Ch10_ChiSquare_2.rst:328
 msgid "nominal"
 msgstr "nominal"
@@ -525,8 +525,8 @@ msgstr "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:280
 msgid ""
-"Now, if you remember from our discussion of :doc:`the central limit theorem "
-"<../Ch08/Ch08_Estimation_3>` the binomial distribution starts to look pretty "
+"Now, if you remember from our discussion of :ref:`the central limit theorem "
+"<central_limit_theorem>` the binomial distribution starts to look pretty "
 "much identical to the normal distribution, especially when *N* is large and "
 "when *P*\\ :sub:`i` isn’t *too* close to 0 or 1. In other words as long as "
 "*N* · *P*\\ :sub:`i` is large enough. Or, to put it another way, when the "
@@ -1204,11 +1204,11 @@ msgid ""
 "jamovi"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:514
+#: ../../Ch10/Ch10_ChiSquare_1.rst:516
 msgid "How to report the results of the test"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:516
+#: ../../Ch10/Ch10_ChiSquare_1.rst:518
 msgid ""
 "So now you know how the test works, and you know how to do the test using a "
 "wonderful jamovi flavoured magic computing box. The next thing you need to "
@@ -1220,7 +1220,7 @@ msgid ""
 "conventional way to report this would be to write something like this:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:525
+#: ../../Ch10/Ch10_ChiSquare_1.rst:527
 msgid ""
 "Of the 200 participants in the experiment, 64 selected hearts for their "
 "first choice, 51 selected diamonds, 50 selected spades, and 35 selected "
@@ -1230,13 +1230,13 @@ msgid ""
 "select suits purely at random."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:532
+#: ../../Ch10/Ch10_ChiSquare_1.rst:534
 msgid ""
 "This is pretty straightforward and hopefully it seems pretty unremarkable. "
 "That said, there’s a few things that you should note about this description:"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:535
+#: ../../Ch10/Ch10_ChiSquare_1.rst:537
 msgid ""
 "*The statistical test is preceded by the descriptive statistics*. That is, I "
 "told the reader something about what the data look like before going on to "
@@ -1246,7 +1246,7 @@ msgid ""
 "to them and they’ll get frustrated and cry."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:542
+#: ../../Ch10/Ch10_ChiSquare_1.rst:544
 msgid ""
 "*The description tells you what the null hypothesis being tested is*. To be "
 "honest, writers don’t always do this but it’s often a good idea in those "
@@ -1271,7 +1271,7 @@ msgid ""
 "symbols, most writers tend to describe the null using words if they can."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:565
+#: ../../Ch10/Ch10_ChiSquare_1.rst:567
 msgid ""
 "*A “stat block” is included*. When reporting the results of the test itself, "
 "I didn’t just say that the result was significant, I included a “stat "
@@ -1289,7 +1289,7 @@ msgid ""
 "wanted to."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:580
+#: ../../Ch10/Ch10_ChiSquare_1.rst:582
 msgid ""
 "*The results are interpreted*. In addition to indicating that the result was "
 "significant, I provided an interpretation of the result (i.e., that people "
@@ -1299,7 +1299,7 @@ msgid ""
 "your reader to understand what’s going on.\\ [#]_"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:587
+#: ../../Ch10/Ch10_ChiSquare_1.rst:589
 msgid ""
 "As with everything else, your overriding concern should be that you "
 "*explain* things to your reader. Always remember that the point of reporting "
@@ -1310,7 +1310,7 @@ msgid ""
 "to actually communicate with the human reader."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:596
+#: ../../Ch10/Ch10_ChiSquare_1.rst:598
 msgid "A comment on statistical notation"
 msgstr ""
 
@@ -1322,7 +1322,7 @@ msgstr ""
 msgid "– H.G. Wells"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:601
+#: ../../Ch10/Ch10_ChiSquare_1.rst:603
 msgid ""
 "If you’ve been reading very closely, and are as much of a mathematical "
 "pedant as I am, there is one thing about the way I wrote up the χ²-test in "
@@ -1337,7 +1337,7 @@ msgid ""
 "the test statistic is χ²(3), and the value of the test statistic is 8.44”."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:613
+#: ../../Ch10/Ch10_ChiSquare_1.rst:615
 msgid ""
 "In one sense, this is kind of stupid. There are *lots* of different test "
 "statistics out there that turn out to have a χ²-sampling-distribution. The "
@@ -1366,7 +1366,7 @@ msgid ""
 "so it’s actually unclear which test I actually ran."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:639
+#: ../../Ch10/Ch10_ChiSquare_1.rst:641
 msgid ""
 "So why don’t we live in a world in which the contents of the stat block "
 "uniquely specifies what tests were ran? The deep reason is that life is "
@@ -1389,7 +1389,7 @@ msgid ""
 "still, well, different."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:658
+#: ../../Ch10/Ch10_ChiSquare_1.rst:660
 msgid ""
 "As a consequence, it’s sometimes a good idea to be clear about what the "
 "actual test was that you ran, especially if you’re doing something unusual. "
@@ -1400,11 +1400,11 @@ msgid ""
 "Nevertheless, it’s something to be aware of."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:669
+#: ../../Ch10/Ch10_ChiSquare_1.rst:671
 msgid "A vector is a sequence of data elements of the same basic type"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:672
+#: ../../Ch10/Ch10_ChiSquare_1.rst:674
 msgid ""
 "If you rewrite the equation for the goodness-of-fit statistic as a sum over "
 "*k* - 1 independent things you get the “proper” sampling distribution, which "
@@ -1414,7 +1414,7 @@ msgid ""
 "with the χ²-distribution."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:680
+#: ../../Ch10/Ch10_ChiSquare_1.rst:682
 msgid ""
 "I feel obliged to point out that this is an over-simplification. It works "
 "nicely for quite a few situations, but every now and then we’ll come across "
@@ -1430,7 +1430,7 @@ msgid ""
 "that I haven’t told you."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:694
+#: ../../Ch10/Ch10_ChiSquare_1.rst:696
 msgid ""
 "In practice, the sample size isn’t always fixed. For example, we might run "
 "the experiment over a fixed period of time and the number of people "
@@ -1438,7 +1438,7 @@ msgid ""
 "the current purposes."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:700
+#: ../../Ch10/Ch10_ChiSquare_1.rst:702
 msgid ""
 "Well, sort of. The conventions for how statistics should be reported tend to "
 "differ somewhat from discipline to discipline. I’ve tended to stick with how "
@@ -1447,7 +1447,7 @@ msgid ""
 "check your results is pretty universal, I think."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:707
+#: ../../Ch10/Ch10_ChiSquare_1.rst:709
 msgid ""
 "To some people, this advice might sound odd, or at least in conflict with "
 "the “usual” advice on how to write a technical report. Very typically, "
@@ -1464,7 +1464,7 @@ msgid ""
 "more important."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:722
+#: ../../Ch10/Ch10_ChiSquare_1.rst:724
 msgid ""
 "Complicating matters, the *G*-test is a special case of a whole class of "
 "tests that are known as *likelihood ratio tests* (LRT). I don’t cover LRTs "
@@ -2218,7 +2218,7 @@ msgid ""
 "answer would be “collect more data”, but that’s far too glib. There are a "
 "lot of situations in which it would be either infeasible or unethical do "
 "that. If so, statisticians have a kind of moral obligation to provide "
-"scientists with better tests. In this instance, :ref:`Fisher 1922a) "
+"scientists with better tests. In this instance, :ref:`Fisher (1922a) "
 "<Fisher_1922a>` kindly provided the right answer to the question. To "
 "illustrate the basic idea let’s suppose that we’re analysing data from a "
 "field experiment looking at the emotional status of people who have been "
@@ -2388,19 +2388,18 @@ msgstr "200"
 #: ../../Ch10/Ch10_ChiSquare_7.rst:27
 msgid ""
 "At first pass, you might think that this situation lends itself to the "
-"Pearson :doc:`χ² test of independence <../Ch10/Ch10_ChiSquare_2>`. However, "
-"a little bit of thought reveals that we’ve got a problem. We have 100 "
-"participants but 200 observations. This is because each person has provided "
-"us with an answer in *both* the before column and the after column. What "
-"this means is that the 200 observations aren’t independent of each other. If "
-"voter A says “yes” the first time and voter B says “no”, then you’d expect "
-"that voter A is more likely to say “yes” the second time than voter B! The "
-"consequence of this is that the usual χ² test won’t give trustworthy answers "
-"due to the violation of the independence assumption. Now, if this were a "
-"really uncommon situation, I wouldn’t be bothering to waste your time "
-"talking about it. But it’s not uncommon at all. This is a *standard* "
-"repeated measures design, and none of the tests we’ve considered so far can "
-"handle it. Eek."
+"Pearson :doc:`χ² test of independence <Ch10_ChiSquare_2>`. However, a little "
+"bit of thought reveals that we’ve got a problem. We have 100 participants "
+"but 200 observations. This is because each person has provided us with an "
+"answer in *both* the before column and the after column. What this means is "
+"that the 200 observations aren’t independent of each other. If voter A says "
+"“yes” the first time and voter B says “no”, then you’d expect that voter A "
+"is more likely to say “yes” the second time than voter B! The consequence of "
+"this is that the usual χ² test won’t give trustworthy answers due to the "
+"violation of the independence assumption. Now, if this were a really "
+"uncommon situation, I wouldn’t be bothering to waste your time talking about "
+"it. But it’s not uncommon at all. This is a *standard* repeated measures "
+"design, and none of the tests we’ve considered so far can handle it. Eek."
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:41

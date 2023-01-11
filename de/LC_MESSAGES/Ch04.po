@@ -4,20 +4,58 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-11 15:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
@@ -527,17 +565,16 @@ msgid ""
 "If your data are nominal scale |nominal| you probably shouldn’t be using "
 "either the mean or the median. Both the mean and the median rely on the idea "
 "that the numbers assigned to values are meaningful. If the numbering scheme "
-"is arbitrary then it’s probably best to use the :doc:`Mode <../Ch04/"
-"Ch04_Descriptives_1>` instead."
+"is arbitrary then it’s probably best to use the :ref:`Mode <mode>` instead."
 msgstr ""
 "Wenn Ihre Daten nominal-skaliert |nominal| sind, sollten Sie wahrscheinlich "
 "weder den Mittelwert noch den Median verwenden. Sowohl der Mittelwert als "
 "auch der Median beruhen auf der Vorstellung, dass die den Werten "
 "zugewiesenen Zahlen sinnvoll sind. Wenn das Nummerierungsschema willkürlich "
-"ist, ist es wahrscheinlich am besten, stattdessen den :doc:`Modalwert <../"
-"Ch04/Ch04_Descriptives_1>` zu verwenden."
+"ist, ist es wahrscheinlich am besten, stattdessen den :ref:`Modalwert "
+"<mode>` zu verwenden."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:394 ../../Ch04/Ch04_Descriptives_4.rst:79
+#: ../../Ch04/Ch04_Descriptives_1.rst:398 ../../Ch04/Ch04_Descriptives_4.rst:79
 msgid "nominal"
 msgstr "nominal"
 
@@ -559,7 +596,7 @@ msgstr ""
 "hingegen verwendet die genauen numerischen Werte, die den Beobachtungen "
 "zugeordnet sind, und ist daher für ordinale Daten nicht wirklich geeignet."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:397
+#: ../../Ch04/Ch04_Descriptives_1.rst:401
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -578,7 +615,7 @@ msgstr ""
 "Daten hat). Er ist jedoch sehr empfindlich gegenüber extremen, abweichenden "
 "Werten."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:391
+#: ../../Ch04/Ch04_Descriptives_1.rst:395
 msgid "continuous"
 msgstr "continuous"
 
@@ -607,19 +644,18 @@ msgstr ""
 msgid ""
 "Let’s expand on that last part a little. One consequence is that there are "
 "systematic differences between the mean and the median when the histogram is "
-"asymmetric (skewed; see :doc:`Skew and kurtosis <../Ch04/"
-"Ch04_Descriptives_3>`). This is illustrated in :numref:`fig-meanmedian`. "
-"Notice that the median (right hand side) is located closer to the “body” of "
-"the histogram, whereas the mean (left hand side) gets dragged towards the "
-"“tail” (where the extreme values are). To give a concrete example, suppose "
-"Bob (income $50,000), Kate (income $60,000) and Jane (income $65,000) are "
-"sitting at a table. The average income at the table is $58,333 and the "
-"median income is $60,000. Then Bill sits down with them (income "
-"$100,000,000). The average income has now jumped to $25,043,750 but the "
-"median rises only to $62,500. If you’re interested in looking at the overall "
-"income at the table the mean might be the right answer. But if you’re "
-"interested in what counts as a typical income at the table the median would "
-"be a better choice here."
+"asymmetric (skewed; see :doc:`Skew and kurtosis <Ch04_Descriptives_3>`). "
+"This is illustrated in :numref:`fig-meanmedian`. Notice that the median "
+"(right hand side) is located closer to the “body” of the histogram, whereas "
+"the mean (left hand side) gets dragged towards the “tail” (where the extreme "
+"values are). To give a concrete example, suppose Bob (income $50,000), Kate "
+"(income $60,000) and Jane (income $65,000) are sitting at a table. The "
+"average income at the table is $58,333 and the median income is $60,000. "
+"Then Bill sits down with them (income $100,000,000). The average income has "
+"now jumped to $25,043,750 but the median rises only to $62,500. If you’re "
+"interested in looking at the overall income at the table the mean might be "
+"the right answer. But if you’re interested in what counts as a typical "
+"income at the table the median would be a better choice here."
 msgstr ""
 "Lassen Sie uns den letzten Teil ein wenig erweitern. Eine Folge ist, dass es "
 "systematische Unterschiede zwischen dem Mittelwert und dem Median gibt, wenn "
@@ -638,11 +674,11 @@ msgstr ""
 "typisches Einkommen in der Tabelle gilt, wäre der Median hier die bessere "
 "Wahl."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:218
+#: ../../Ch04/Ch04_Descriptives_1.rst:220
 msgid "A real life example"
 msgstr "Ein Beispiel aus dem wirklichen Leben"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:220
+#: ../../Ch04/Ch04_Descriptives_1.rst:222
 msgid ""
 "To try to get a sense of why you need to pay attention to the differences "
 "between the mean and the median let’s consider a real life example. Since I "
@@ -659,7 +695,7 @@ msgstr ""
 "ausgezeichneten Artikel beschrieben `Housing bubble debate boils over "
 "<https://www.abc.net.au/news/stories/2010/09/24/3021480.htm>`__:"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:227
+#: ../../Ch04/Ch04_Descriptives_1.rst:229
 msgid ""
 "Senior Commonwealth Bank executives have travelled the world in the past "
 "couple of weeks with a presentation showing how Australian house prices, and "
@@ -675,7 +711,7 @@ msgstr ""
 "in den letzten fünf bis sechs Jahren eigentlich seitwärts entwickelt“, sagte "
 "Craig James, der Chefökonom der Handelsabteilung der Bank, CommSec."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:234
+#: ../../Ch04/Ch04_Descriptives_1.rst:236
 msgid ""
 "This probably comes as a huge surprise to anyone with a mortgage, or who "
 "wants a mortgage, or pays rent, or isn’t completely oblivious to what’s been "
@@ -687,7 +723,7 @@ msgstr ""
 "ist, was sich in den letzten Jahren auf dem australischen Immobilienmarkt "
 "abgespielt hat. Zurück zum Artikel:"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:239
+#: ../../Ch04/Ch04_Descriptives_1.rst:241
 msgid ""
 "CBA has waged its war against what it believes are housing doomsayers with "
 "graphs, numbers and international comparisons. In its presentation, the bank "
@@ -706,7 +742,7 @@ msgstr ""
 "vergleichbar. In San Francisco und New York liegt das Verhältnis bei 7, in "
 "Auckland bei 6,7 und in Vancouver bei 9,3."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:248
+#: ../../Ch04/Ch04_Descriptives_1.rst:250
 msgid ""
 "More excellent news! Except, the article goes on to make the observation "
 "that:"
@@ -714,7 +750,7 @@ msgstr ""
 "Eine weitere hervorragende Nachricht! Allerdings wird in dem Artikel auch "
 "darauf hingewiesen, dass:"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:251
+#: ../../Ch04/Ch04_Descriptives_1.rst:253
 msgid ""
 "Many analysts say that has led the bank to use misleading figures and "
 "comparisons. If you go to page four of CBA’s presentation and read the "
@@ -733,7 +769,7 @@ msgstr ""
 "zwischen Hauspreisen und Einkommen verwendet, wäre sie zu einem Wert "
 "gekommen, der näher bei 9 liegt als bei 5,6 oder 4,3."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:260
+#: ../../Ch04/Ch04_Descriptives_1.rst:262
 msgid ""
 "That’s, um, a rather serious discrepancy. One group of people say 9, another "
 "says 4-5. Should we just split the difference and say the truth lies "
@@ -747,7 +783,7 @@ msgstr ""
 "gibt es eine richtige und eine falsche Antwort. Demographia hat Recht, und "
 "die Commonwealth-Bank hat Unrecht. Wie in dem Artikel dargelegt wird:"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:266
+#: ../../Ch04/Ch04_Descriptives_1.rst:268
 msgid ""
 "[An] obvious problem with the Commonwealth Bank’s domestic price to income "
 "figures is they compare average incomes with median house prices (unlike the "
@@ -774,7 +810,7 @@ msgstr ""
 "Hauspreis und Einkommen für Australier mit mittlerem Einkommen zu niedrig "
 "angesetzt ist."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:278
+#: ../../Ch04/Ch04_Descriptives_1.rst:280
 msgid ""
 "Couldn’t have put it better myself. The way that Demographia calculated the "
 "ratio is the right thing to do. The way that the Bank did it is incorrect. "
@@ -791,7 +827,7 @@ msgstr ""
 "Einblick in ihre Denkweise habe. Aber der Artikel selbst erwähnt zufällig "
 "die folgenden Fakten, die relevant sein können oder auch nicht:"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:286
+#: ../../Ch04/Ch04_Descriptives_1.rst:288
 msgid ""
 "[As] Australia’s largest home lender, the Commonwealth Bank has one of the "
 "biggest vested interests in house prices rising. It effectively owns a "
@@ -803,15 +839,15 @@ msgstr ""
 "besitzt einen großen Teil des australischen Wohnungsbestands als Sicherheit "
 "für ihre Wohnungsbaudarlehen und auch für viele kleine Unternehmenskredite."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:291
+#: ../../Ch04/Ch04_Descriptives_1.rst:293
 msgid "My, my."
 msgstr "Meine Güte."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:294
+#: ../../Ch04/Ch04_Descriptives_1.rst:298
 msgid "Mode"
 msgstr "Modalwert"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:296
+#: ../../Ch04/Ch04_Descriptives_1.rst:300
 msgid ""
 "The mode of a sample is very simple. It is the value that occurs most "
 "frequently. We can illustrate the mode using a different AFL variable: who "
@@ -828,11 +864,11 @@ msgstr ""
 "Diese Variable enthält die Namen aller 400 Mannschaften, die an allen 200 "
 "Endspielen im Zeitraum 1987 bis 2010 teilgenommen haben."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:311
+#: ../../Ch04/Ch04_Descriptives_1.rst:315
 msgid "Variables in |aflsmall_finalists|"
 msgstr "Variablen in |aflsmall_finalists|"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:311
+#: ../../Ch04/Ch04_Descriptives_1.rst:315
 msgid ""
 "Screenshot of jamovi showing the variables stored in the |aflsmall_finalists|"
 "_ data set"
@@ -840,13 +876,13 @@ msgstr ""
 "jamovi-Screenshot mit den im Datensatz |aflsmall_finalists|_ gespeicherten "
 "Variablen"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:320
+#: ../../Ch04/Ch04_Descriptives_1.rst:324
 msgid ""
 "Frequency table for the ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr ""
 "Häufigkeitstabelle für die ``afl.margins``-Variable in |aflsmall_finalists|"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:320
+#: ../../Ch04/Ch04_Descriptives_1.rst:324
 msgid ""
 "Screenshot of jamovi showing the frequency table for the ``afl.finalists`` "
 "variable in the |aflsmall_finalists|_ data set"
@@ -854,7 +890,7 @@ msgstr ""
 "jamovi-Screenshot mit der Häufigkeitstabelle für die Variable ``afl."
 "finalists`` im Datensatz |aflsmall_finalists|_"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:326
+#: ../../Ch04/Ch04_Descriptives_1.rst:330
 msgid ""
 "What we *could* do is read through all 400 entries and count the number of "
 "occasions on which each team name appears in our list of finalists, thereby "
@@ -873,7 +909,7 @@ msgstr ""
 "tables`` und Sie sollten etwas wie :numref:`fig-aflsmall_finalists_mode` "
 "erhalten."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:334
+#: ../../Ch04/Ch04_Descriptives_1.rst:338
 msgid ""
 "Now that we have our frequency table we can just look at it and see that, "
 "over the 24 years for which we have data, Geelong has played in more finals "
@@ -894,7 +930,7 @@ msgstr ""
 "werden. Das liegt daran, dass die Variable ``afl.finalists`` eine nominale "
 "Textvariable ist und es daher keinen Sinn macht, diese Werte zu berechnen."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:344
+#: ../../Ch04/Ch04_Descriptives_1.rst:348
 msgid ""
 "One last point to make regarding the mode. Whilst the mode is most often "
 "calculated when you have nominal data, because means and medians are useless "
@@ -942,16 +978,16 @@ msgstr ""
 "``Descriptives``, wie in :numref:`fig-aflsmall_margins_mode`. Die Daten für "
 "2010 legen also nahe, dass Sie auf eine Marge von 3 Punkten setzen sollten."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:371
+#: ../../Ch04/Ch04_Descriptives_1.rst:375
 msgid "Modal value of the ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr "Modalwert der ``afl.margins``-Variable in |aflsmall_finalists|"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:371
+#: ../../Ch04/Ch04_Descriptives_1.rst:375
 msgid ""
 "Screenshot of jamovi showing the modal value for the ``afl.margins`` variable"
 msgstr "jamovi-Screenshot mit dem Modalwert für die Variable ``afl.margins``"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:379
+#: ../../Ch04/Ch04_Descriptives_1.rst:383
 msgid ""
 "The choice to use *Σ* to denote summation isn’t arbitrary. It’s the Greek "
 "upper case letter sigma, which is the analogue of the letter S in that "
@@ -1036,6 +1072,7 @@ msgid "Interquartile range"
 msgstr "Interquartilsabstand"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:39
+#, python-format
 msgid ""
 "The **interquartile range** (IQR) is like the range, but instead of the "
 "difference between the biggest and smallest value the difference between the "
@@ -1535,6 +1572,7 @@ msgstr ""
 msgid "In other words, the formula that jamovi is using is this one:"
 msgstr "Mit anderen Worten, die Formel, die jamovi verwendet, ist diese:"
 
+#: ../../Ch04/Ch04_Descriptives_2.rst:280
 #: ../../Ch04/Ch04_Descriptives_2.rst:278
 msgid ""
 "\\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2\n"
@@ -1639,11 +1677,11 @@ msgstr ""
 "dieser Kauderwelsch-Einheit ausgedrückt wird, ist sie für einen Menschen "
 "völlig bedeutungslos."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:325
+#: ../../Ch04/Ch04_Descriptives_2.rst:327
 msgid "Standard deviation"
 msgstr "Standardabweichung"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:327
+#: ../../Ch04/Ch04_Descriptives_2.rst:329
 msgid ""
 "Okay, suppose that you like the idea of using the variance because of those "
 "nice mathematical properties that I haven’t talked about, but since you’re a "
@@ -1673,7 +1711,7 @@ msgstr ""
 "Standardabweichung einer Datenstichprobe als *s* zu bezeichnen, obwohl "
 "gelegentlich auch „sd“, „SD“ oder „Std. abw.“ (*std dev.*) verwendet werden."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:341
+#: ../../Ch04/Ch04_Descriptives_2.rst:343
 msgid ""
 "Because the standard deviation is equal to the square root of the variance, "
 "you probably won’t be surprised to see that the formula is:"
@@ -1681,7 +1719,8 @@ msgstr ""
 "Da die Standardabweichung gleich der Quadratwurzel der Varianz ist, wird es "
 "Sie wahrscheinlich nicht überraschen, dass die Formel so lautet:"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:344
+#: ../../Ch04/Ch04_Descriptives_2.rst:348
+#: ../../Ch04/Ch04_Descriptives_2.rst:346
 msgid ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
 "\n"
@@ -1689,7 +1728,7 @@ msgstr ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:346
+#: ../../Ch04/Ch04_Descriptives_2.rst:348
 msgid ""
 "and in jamovi there is a check box for ``Std. deviation`` right above the "
 "check box for ``Variance``. Selecting this gives a value of **26.07** for "
@@ -1699,7 +1738,7 @@ msgstr ""
 "Checkbox für ``Variance``. Wenn Sie diese auswählen, erhalten Sie einen Wert "
 "von **26,07** für die Standardabweichung."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:350
+#: ../../Ch04/Ch04_Descriptives_2.rst:352
 msgid ""
 "However, as you might have guessed from our discussion of the variance, what "
 "jamovi actually calculates is slightly different to the formula given above. "
@@ -1711,7 +1750,7 @@ msgstr ""
 "angegebenen Formel ab. Wie wir bei der Varianz gesehen haben, berechnet "
 "jamovi eine Version, die durch *N - 1* und nicht durch *N* dividiert."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:355
+#: ../../Ch04/Ch04_Descriptives_2.rst:357
 msgid ""
 "For reasons that will make sense when we return to this topic in chapter :"
 "doc:`Estimating unknown quantities from a sample <../Ch08/Ch08_Estimation>` "
@@ -1720,10 +1759,12 @@ msgid ""
 msgstr ""
 "Aus Gründen, die sinnvoll sind, wenn wir in Kapitel :doc:`Schätzen "
 "unbekannter Größen anhand einer Stichprobe <../Ch08/Ch08_Estimation>` auf "
-"dieses Thema zurückkommen, werde ich diese neue Größe als :math:`\\hat"
-"\\sigma` (gelesen als: „Sigma-Dach“) bezeichnen, und die Formel dafür lautet:"
+"dieses Thema zurückkommen, werde ich diese neue Größe als :math:"
+"`\\hat\\sigma` (gelesen als: „Sigma-Dach“) bezeichnen, und die Formel dafür "
+"lautet:"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:360
+#: ../../Ch04/Ch04_Descriptives_2.rst:364
+#: ../../Ch04/Ch04_Descriptives_2.rst:362
 msgid ""
 "\\hat\\sigma = \\sqrt{ \\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
 "\\right)^2 }\n"
@@ -1733,7 +1774,8 @@ msgstr ""
 "\\right)^2 }\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:362
+#: ../../Ch04/Ch04_Descriptives_2.rst:364
+#, python-format
 msgid ""
 "Interpreting standard deviations is slightly more complex. Because the "
 "standard deviation is derived from the variance, and the variance is a "
@@ -1756,8 +1798,8 @@ msgstr ""
 "Größe ist, die für uns Menschen wenig bis gar keine Bedeutung hat, lässt "
 "sich die Standardabweichung nicht einfach interpretieren. Folglich verlassen "
 "sich die meisten von uns auf eine einfache Faustregel. Im Allgemeinen sollte "
-"man erwarten, dass 68 % der Daten innerhalb von 1 Standardabweichung, 95 % "
-"der Daten innerhalb von 2 Standardabweichungen und 99,7 % der Daten "
+"man erwarten, dass 68 % der Daten innerhalb von 1 Standardabweichung, 95 "
+"% der Daten innerhalb von 2 Standardabweichungen und 99,7 % der Daten "
 "innerhalb von 3 Standardabweichungen um den Mittelwert liegen. Diese Regel "
 "funktioniert in den meisten Fällen recht gut, ist aber nicht exakt. Sie wird "
 "auf der Grundlage der *Annahme* berechnet, dass das Histogramm symmetrisch "
@@ -1768,31 +1810,32 @@ msgstr ""
 "Standardabweichung vom Mittelwert. Dies wird in :numref:`fig-aflSD` visuell "
 "dargestellt."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:384
+#: ../../Ch04/Ch04_Descriptives_2.rst:386
 msgid ""
 "Standard deviation for the first 5 values of the ``afl.margins`` variable"
 msgstr ""
 "Standardabweichung für die ersten 5 Werte der Variablen ``afl.margins``"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:384
+#: ../../Ch04/Ch04_Descriptives_2.rst:386
+#, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data. "
 "The shaded bars in the histogram show how much of the data fall within one "
 "standard deviation of the mean. In this case, 65.3\\% of the data set lies "
-"within this range, which is pretty consistent with the “approximately 68\\% "
-"rule” discussed in the main text."
+"within this range, which is pretty consistent with the “approximately 68\\"
+"% rule” discussed in the main text."
 msgstr ""
 "Illustration der Standardabweichung für die AFL-Gewinnspannen. Die "
 "schattierten Balken im Histogramm zeigen, wie viele der Daten innerhalb "
-"einer Standardabweichung vom Mittelwert liegen. In diesem Fall liegen 65,3 % "
-"des Datensatzes innerhalb dieses Bereichs, was ziemlich gut mit der im "
+"einer Standardabweichung vom Mittelwert liegen. In diesem Fall liegen 65,3 "
+"% des Datensatzes innerhalb dieses Bereichs, was ziemlich gut mit der im "
 "Haupttext besprochenen „ungefähr 68 %“-Regel übereinstimmt."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:393
+#: ../../Ch04/Ch04_Descriptives_2.rst:395
 msgid "Which measure to use?"
 msgstr "Welches Maß sollten wir verwenden?"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:395
+#: ../../Ch04/Ch04_Descriptives_2.rst:397
 msgid ""
 "We’ve discussed quite a few measures of spread: range, IQR, mean absolute "
 "deviation, variance and standard deviation; and hinted at their strengths "
@@ -1802,7 +1845,7 @@ msgstr ""
 "Abweichung, Varianz und Standardabweichung, und ihre Stärken und Schwächen "
 "angedeutet. Hier ist eine kurze Zusammenfassung:"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:399
+#: ../../Ch04/Ch04_Descriptives_2.rst:401
 msgid ""
 "*Range*. Gives you the full spread of the data. It’s very vulnerable to "
 "outliers and as a consequence it isn’t often used unless you have good "
@@ -1812,7 +1855,7 @@ msgstr ""
 "anfällig für Ausreißer und wird daher nicht oft verwendet, es sei denn, Sie "
 "haben gute Gründe, sich um die Extreme in den Daten zu kümmern."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:403
+#: ../../Ch04/Ch04_Descriptives_2.rst:405
 msgid ""
 "*Interquartile range*. Tells you where the “middle half” of the data sits. "
 "It’s pretty robust and complements the median nicely. This is used a lot."
@@ -1821,7 +1864,7 @@ msgstr ""
 "befindet. Er ist ziemlich robust und ergänzt den Median gut. Dies wird "
 "häufig verwendet."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:407
+#: ../../Ch04/Ch04_Descriptives_2.rst:409
 msgid ""
 "*Mean absolute deviation*. Tells you how far “on average” the observations "
 "are from the mean. It’s very interpretable but has a few minor issues (not "
@@ -1834,7 +1877,7 @@ msgstr ""
 "diskutiert werden), die sie für Statistiker weniger attraktiv machen als die "
 "Standardabweichung. Wird manchmal verwendet, aber nicht oft."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:413
+#: ../../Ch04/Ch04_Descriptives_2.rst:415
 msgid ""
 "*Variance*. Tells you the average squared deviation from the mean. It’s "
 "mathematically elegant and is probably the “right” way to describe variation "
@@ -1850,7 +1893,7 @@ msgstr ""
 "Hilfsmittel, aber sie steckt unter der Haube zahlreicher statistischer "
 "Werkzeuge."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:420
+#: ../../Ch04/Ch04_Descriptives_2.rst:422
 msgid ""
 "*Standard deviation*. This is the square root of the variance. It’s fairly "
 "elegant mathematically and it’s expressed in the same units as the data so "
@@ -1865,7 +1908,7 @@ msgstr ""
 "ist dies der Standardwert. Dies ist bei weitem das beliebteste Maß für die "
 "Variation."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:426
+#: ../../Ch04/Ch04_Descriptives_2.rst:428
 msgid ""
 "In short, the IQR and the standard deviation are easily the two most common "
 "measures used to report the variability of the data. But there are "
@@ -1878,7 +1921,7 @@ msgstr ""
 "alle in diesem Buch beschrieben, weil die Wahrscheinlichkeit groß ist, dass "
 "Sie auf die meisten von ihnen stoßen werden."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:435
+#: ../../Ch04/Ch04_Descriptives_2.rst:437
 msgid ""
 "Well, I will very briefly mention the one that I think is coolest, for a "
 "very particular definition of “cool”, that is. Variances are *additive*. "
@@ -1898,11 +1941,11 @@ msgstr ""
 "gleich Var(X) + Var(Y). Dies ist eine *sehr* nützliche Eigenschaft, aber sie "
 "gilt nicht für die anderen Maße, über die ich in diesem Abschnitt spreche."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:445
+#: ../../Ch04/Ch04_Descriptives_2.rst:447
 msgid "With the possible exception of the third question."
 msgstr "Mit der möglichen Ausnahme der dritten Frage."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:448
+#: ../../Ch04/Ch04_Descriptives_2.rst:450
 msgid ""
 "Strictly, the assumption is that the data are *normally* distributed, which "
 "is an important concept that we’ll discuss more in chapter :doc:"
@@ -2001,8 +2044,8 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:46
 msgid ""
-"where *N* is the number of observations, *X̄* is the sample mean, and :math:`"
-"\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
+"where *N* is the number of observations, *X̄* is the sample mean, and :math:"
+"`\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
 "that is)."
 msgstr ""
 "wobei *N* die Anzahl der Beobachtungen, *X̄* der Stichprobenmittelwert und :"
@@ -2331,6 +2374,7 @@ msgid "Standard scores"
 msgstr "Standardwerte"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:6
+#, python-format
 msgid ""
 "Suppose my friend is putting together a new questionnaire intended to "
 "measure “grumpiness”. The survey has 50 questions which you can answer in a "
@@ -2368,6 +2412,7 @@ msgstr ""
 "handelt, ist dies keine sehr informative Aussage."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:23
+#, python-format
 msgid ""
 "A simpler way around this is to describe my grumpiness by comparing me to "
 "other people. Shockingly, out of my friend’s sample of 1,000,000 people, "
@@ -2459,16 +2504,17 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:57
+#, python-format
 msgid ""
 "To interpret this value, recall the rough heuristic that I provided in "
-"section :doc:`Standard deviation <../Ch04/Ch04_Descriptives_2>` in which I "
-"noted that 99.7\\% of values are expected to lie within 3 standard "
-"deviations of the mean. So the fact that my grumpiness corresponds to a *z* "
-"score of 3.6 indicates that I’m very grumpy indeed. In fact this suggests "
-"that I’m grumpier than 99.98\\% of people. Sounds about right."
+"section :ref:`Standard deviation <standard_deviation>` in which I noted that "
+"99.7\\% of values are expected to lie within 3 standard deviations of the "
+"mean. So the fact that my grumpiness corresponds to a *z* score of 3.6 "
+"indicates that I’m very grumpy indeed. In fact this suggests that I’m "
+"grumpier than 99.98\\% of people. Sounds about right."
 msgstr ""
 "Um diesen Wert zu interpretieren, erinnern Sie sich an die grobe Heuristik, "
-"die ich im Abschnitt :doc:`Standardabweichung <../Ch04/Ch04_Descriptives_2>` "
+"die ich im Abschnitt :ref:`Standardabweichung <standard_deviation>` "
 "angegeben habe, in dem ich feststellte, dass 99,7 % der Werte innerhalb von "
 "3 Standardabweichungen vom Mittelwert liegen sollten. Die Tatsache, dass "
 "meine Übellaunigkeit einem *z* Wert von 3,6 entspricht, zeigt also, dass ich "
@@ -2564,61 +2610,60 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:12
 msgid ""
-":doc:`Measures of central tendency <../Ch04/Ch04_Descriptives_1>`: Broadly "
-"speaking, central tendency measures tell you where the data are. There’s "
-"three measures that are typically reported in the literature: the mean, "
-"median and mode."
+":doc:`Measures of central tendency <Ch04_Descriptives_1>`: Broadly speaking, "
+"central tendency measures tell you where the data are. There’s three "
+"measures that are typically reported in the literature: the mean, median and "
+"mode."
 msgstr ""
-":doc:`Maße der zentralen Tendenz <../Ch04/Ch04_Descriptives_1>`: Im Großen "
-"und Ganzen geben die Maße der zentralen Tendenz Auskunft darüber, wo die "
-"Daten liegen. In der Literatur werden in der Regel drei Maße angegeben: der "
+":doc:`Maße der zentralen Tendenz <Ch04_Descriptives_1>`: Im Großen und "
+"Ganzen geben die Maße der zentralen Tendenz Auskunft darüber, wo die Daten "
+"liegen. In der Literatur werden in der Regel drei Maße angegeben: der "
 "Mittelwert, der Median und der Modus."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:17
 msgid ""
-":doc:`Measures of variability <../Ch04/Ch04_Descriptives_2>`: In contrast, "
-"measures of variability tell you about how “spread out” the data are. The "
-"key measures are: range, standard deviation, and interquartile range."
+":doc:`Measures of variability <Ch04_Descriptives_2>`: In contrast, measures "
+"of variability tell you about how “spread out” the data are. The key "
+"measures are: range, standard deviation, and interquartile range."
 msgstr ""
-":doc:`Maße der Variabilität <../Ch04/Ch04_Descriptives_2>`: Im Gegensatz "
-"dazu geben Variabilitätsmaße Auskunft darüber, wie „gestreut“ die Daten "
-"sind. Die wichtigsten Maße sind: Spannweite, Standardabweichung und "
+":doc:`Maße der Variabilität <Ch04_Descriptives_2>`: Im Gegensatz dazu geben "
+"Variabilitätsmaße Auskunft darüber, wie „gestreut“ die Daten sind. Die "
+"wichtigsten Maße sind: Spannweite, Standardabweichung und "
 "Interquartilsabstand."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:21
 msgid ""
-":doc:`Measures of skewness and kurtosis <../Ch04/Ch04_Descriptives_3>`: We "
-"also looked at assymetry in a variable’s distribution (skew) and pointness "
+":doc:`Measures of skewness and kurtosis <Ch04_Descriptives_3>`: We also "
+"looked at assymetry in a variable’s distribution (skew) and pointness "
 "(kurtosis)."
 msgstr ""
-":doc:`Schiefe und Kurtosis <../Ch04/Ch04_Descriptives_3>`: Wir haben auch "
-"die Asymmetrie in der Verteilung einer Variablen (Schiefe) und die Kurtosis "
+":doc:`Schiefe und Kurtosis <Ch04_Descriptives_3>`: Wir haben auch die "
+"Asymmetrie in der Verteilung einer Variablen (Schiefe) und die Kurtosis "
 "untersucht."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:25
 msgid ""
-":doc:`Getting group summaries of variables in jamovi <../Ch04/"
-"Ch04_Descriptives_4>`: Since this book focuses on doing data analysis in "
-"jamovi, we spent a bit of time talking about how descriptive statistics are "
-"computed for different subgroups."
+":doc:`Getting group summaries of variables in jamovi <Ch04_Descriptives_4>`: "
+"Since this book focuses on doing data analysis in jamovi, we spent a bit of "
+"time talking about how descriptive statistics are computed for different "
+"subgroups."
 msgstr ""
-":doc:`Nach Gruppen unterteilte deskriptivstatistische Analysen <../Ch04/"
-"Ch04_Descriptives_4>`: Da sich dieses Buch auf die Datenanalyse in jamovi "
+":doc:`Nach Gruppen unterteilte deskriptivstatistische Analysen "
+"<Ch04_Descriptives_4>`: Da sich dieses Buch auf die Datenanalyse in jamovi "
 "konzentriert, haben wir ein wenig Zeit damit verbracht, darüber zu sprechen, "
 "wie deskriptivstatistische Maße für verschiedene Untergruppen berechnet "
 "werden können."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:30
 msgid ""
-":doc:`Standard scores <../Ch04/Ch04_Descriptives_5>`: The *z*-score is a "
-"slightly unusual beast. It’s not quite a descriptive statistic, and not "
-"quite an inference. Make sure you understand that section. It’ll come up "
-"again later."
+":doc:`Standard scores <Ch04_Descriptives_5>`: The *z*-score is a slightly "
+"unusual beast. It’s not quite a descriptive statistic, and not quite an "
+"inference. Make sure you understand that section. It’ll come up again later."
 msgstr ""
-":doc:`Standardwerte <../Ch04/Ch04_Descriptives_5>`: Der *z*-Wert ist ein "
-"etwas ungewöhnliches Biest. Er ist weder ein richtiges "
-"deskriptivstatistisches Maß noch eine Inferenzstatistik. Vergewissern Sie "
-"sich, dass Sie diesen Abschnitt verstehen. Er wird später wieder auftauchen."
+":doc:`Standardwerte <Ch04_Descriptives_5>`: Der *z*-Wert ist ein etwas "
+"ungewöhnliches Biest. Er ist weder ein richtiges deskriptivstatistisches Maß "
+"noch eine Inferenzstatistik. Vergewissern Sie sich, dass Sie diesen "
+"Abschnitt verstehen. Er wird später wieder auftauchen."
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:35
 msgid ""
@@ -2645,11 +2690,11 @@ msgstr ""
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr "Epilog: Gute deskriptivstatistische Maße sind anschaulich!"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of one man is a tragedy.*"
 msgstr "*Der Tod eines Menschen ist eine Tragödie.*"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of millions is a statistic.*"
 msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 
@@ -2657,7 +2702,7 @@ msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 msgid "Josef Stalin, Potsdam 1945"
 msgstr "Josef Stalin, Potsdam 1945"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*950,000 – 1,200,000*"
 msgstr "*950.000 - 1.200.000*"
 

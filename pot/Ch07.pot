@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -634,7 +634,7 @@ msgid ""
 "psychologist Paul Meehl, who suggests that relying on frequentist methods "
 "could turn you into “a potent but sterile intellectual rake who leaves in "
 "his merry path a long train of ravished maidens but no viable scientific "
-"offspring” (:ref:`Meehl, 1967 <Cronbach_1951>`; p. 114). The history of "
+"offspring” (:ref:`Meehl, 1967 <Meehl_1967>`; p. 114). The history of "
 "statistics, as you might gather, is not devoid of entertainment."
 msgstr ""
 
@@ -1156,8 +1156,8 @@ msgid ""
 "distributions that makes the y axis behave a bit oddly: the height of the "
 "curve here isn’t actually the probability of observing a particular x value. "
 "On the other hand, it is true that the heights of the curve tells you which "
-"x values are more likely (the higher ones!; see :doc:`Probability density "
-"<../Ch07/Ch07_Probability_5>` for all the annoying details)."
+"x values are more likely (the higher ones!; see :ref:`Probability density "
+"<probability_density>` for all the annoying details)."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:45
@@ -1183,7 +1183,7 @@ msgid ""
 "appropriate for describing Spring temperatures.\\ [#]_"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:250
+#: ../../Ch07/Ch07_Probability_5.rst:252
 msgid "continuous"
 msgstr "continuous"
 
@@ -1277,11 +1277,11 @@ msgid ""
 "is a 50\\% chance that it falls above the mean."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:154
+#: ../../Ch07/Ch07_Probability_5.rst:156
 msgid "Probability density"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:156
+#: ../../Ch07/Ch07_Probability_5.rst:158
 msgid ""
 "There’s something I’ve been trying to hide throughout my discussion of the "
 "normal distribution, something that some introductory textbooks omit "
@@ -1294,7 +1294,7 @@ msgid ""
 "to make sure that you follow the gist of it."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:166
+#: ../../Ch07/Ch07_Probability_5.rst:168
 msgid ""
 "Throughout my discussion of the normal distribution there’s been one or two "
 "things that don’t quite make sense. Perhaps you noticed that the *y*-axis in "
@@ -1303,7 +1303,7 @@ msgid ""
 "formula for the normal distribution."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:172
+#: ../../Ch07/Ch07_Probability_5.rst:174
 msgid ""
 "As it turns out, what is presented here isn’t actually a probability, it’s "
 "something else. To understand what that something is you have to spend a "
@@ -1317,7 +1317,7 @@ msgid ""
 "never really know exactly what they are."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:183
+#: ../../Ch07/Ch07_Probability_5.rst:185
 msgid ""
 "Now think about what this implies when we talk about probabilities. Suppose "
 "that tomorrow’s maximum temperature is sampled from a normal distribution "
@@ -1338,7 +1338,7 @@ msgid ""
 "and 23.5, or between 20 and 30, or any other range of temperatures."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:203
+#: ../../Ch07/Ch07_Probability_5.rst:205
 msgid ""
 "The point of this discussion is to make clear that when we’re talking about "
 "continuous distributions it’s not meaningful to talk about the probability "
@@ -1352,7 +1352,7 @@ msgid ""
 "the mean)."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:214
+#: ../../Ch07/Ch07_Probability_5.rst:216
 msgid ""
 "Okay, so that explains part of the story. I’ve explained a little bit about "
 "how continuous probability distributions should be interpreted (i.e., area "
@@ -1366,7 +1366,7 @@ msgid ""
 "be honest, that’s about as much as you really need to know for now.\\ [#]_"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:229
+#: ../../Ch07/Ch07_Probability_5.rst:231
 msgid ""
 "In practice, the normal distribution is so handy that people tend to use it "
 "even when the variable isn’t actually continuous. As long as there are "
@@ -1375,7 +1375,7 @@ msgid ""
 "This works out much better in practice than you’d think."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:237
+#: ../../Ch07/Ch07_Probability_5.rst:239
 msgid ""
 "For those readers who know a little calculus, I’ll give a slightly more "
 "precise explanation. In the same way that probabilities are non-negative "

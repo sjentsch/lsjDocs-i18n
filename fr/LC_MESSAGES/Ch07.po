@@ -1,5 +1,19 @@
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -20,15 +34,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-11 15:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
@@ -36,7 +71,7 @@ msgstr ""
 msgid "Introduction to probability"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability.rst:0
+#: ../../Ch07/Ch07_Probability.rst:0 ../../Ch07/Ch07_Probability.rst
 msgid "*[God] has afforded us only the twilight … of Probability.*"
 msgstr ""
 
@@ -73,6 +108,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability.rst:45
+#, python-format
 msgid ""
 "This kind of remark is entirely unremarkable in the papers or in everyday "
 "life, but let’s have a think about what it entails. A polling company has "
@@ -91,6 +127,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability.rst:61
+#, python-format
 msgid ""
 "The answer to the question is pretty obvious. If I call 1000 people at "
 "random, and 230 of them say they intend to vote for the ALP, then it seems "
@@ -155,6 +192,7 @@ msgid "What are the chances that I’ll win the lottery?"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_1.rst:25
+#, python-format
 msgid ""
 "Notice that all of these questions have something in common. In each case "
 "the “truth of the world” is known and my question relates to the “what kind "
@@ -300,9 +338,9 @@ msgid ""
 "The first of the two major approaches to probability, and the more dominant "
 "one in statistics, is referred to as the **frequentist view** and it defines "
 "probability as a **long-run frequency**. Suppose we were to try flipping a "
-"fair coin over and over again. By definition this is a coin that has *P*"
-"\\(H) = *0.5*. What might we observe? One possibility is that the first 20 "
-"flips might look like this:"
+"fair coin over and over again. By definition this is a coin that has "
+"*P*\\(H) = *0.5*. What might we observe? One possibility is that the first "
+"20 flips might look like this:"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:56
@@ -520,6 +558,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:124
+#, python-format
 msgid ""
 "However, it also has undesirable characteristics. First, infinite sequences "
 "don’t exist in the physical world. Suppose you picked up a coin from your "
@@ -650,7 +689,7 @@ msgid ""
 "psychologist Paul Meehl, who suggests that relying on frequentist methods "
 "could turn you into “a potent but sterile intellectual rake who leaves in "
 "his merry path a long train of ravished maidens but no viable scientific "
-"offspring” (:ref:`Meehl, 1967 <Cronbach_1951>`; p. 114). The history of "
+"offspring” (:ref:`Meehl, 1967 <Meehl_1967>`; p. 114). The history of "
 "statistics, as you might gather, is not devoid of entertainment."
 msgstr ""
 
@@ -1072,6 +1111,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:100
+#, python-format
 msgid ""
 "To that end, :numref:`fig-binomSkulls20` plots the binomial probabilities "
 "for all possible values of *X* for our dice rolling experiment, from *X* = 0 "
@@ -1172,8 +1212,8 @@ msgid ""
 "distributions that makes the y axis behave a bit oddly: the height of the "
 "curve here isn’t actually the probability of observing a particular x value. "
 "On the other hand, it is true that the heights of the curve tells you which "
-"x values are more likely (the higher ones!; see :doc:`Probability density "
-"<../Ch07/Ch07_Probability_5>` for all the annoying details)."
+"x values are more likely (the higher ones!; see :ref:`Probability density "
+"<probability_density>` for all the annoying details)."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:45
@@ -1199,7 +1239,7 @@ msgid ""
 "appropriate for describing Spring temperatures.\\ [#]_"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:250
+#: ../../Ch07/Ch07_Probability_5.rst:252
 msgid "continuous"
 msgstr "continuous"
 
@@ -1248,6 +1288,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:109
+#, python-format
 msgid ""
 "Notice, though, that when we widen the distribution the height of the peak "
 "shrinks. This has to happen, in the same way that the heights of the bars "
@@ -1266,14 +1307,15 @@ msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:127
+#, python-format
 msgid ""
 "The area under the curve tells you the probability that an observation falls "
 "within a particular range. The solid lines plot normal distributions with "
 "mean μ = 0 and standard deviation σ = 1. The shaded areas illustrate “areas "
 "under the curve” for two important cases. In the left panel, we can see that "
 "there is a 68.3\\% chance that an observation will fall within one standard "
-"deviation of the mean. In the right panel, we see that there is a 95.4\\% "
-"chance that an observation will fall within two standard deviations of the "
+"deviation of the mean. In the right panel, we see that there is a 95.4\\"
+"% chance that an observation will fall within two standard deviations of the "
 "mean."
 msgstr ""
 
@@ -1282,9 +1324,10 @@ msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
+#, python-format
 msgid ""
-"Two more examples of the “area under the curve” idea. There is a 15.9\\% "
-"chance that an observation is one standard deviation below the mean or "
+"Two more examples of the “area under the curve” idea. There is a 15.9\\"
+"% chance that an observation is one standard deviation below the mean or "
 "smaller (left panel), and a 34.1\\% chance that the observation is somewhere "
 "between one standard deviation below the mean and the mean (right panel). "
 "Notice that if you add these two numbers together you get 15.9\\% + 34.1\\% "
@@ -1293,11 +1336,11 @@ msgid ""
 "is a 50\\% chance that it falls above the mean."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:154
+#: ../../Ch07/Ch07_Probability_5.rst:156
 msgid "Probability density"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:156
+#: ../../Ch07/Ch07_Probability_5.rst:158
 msgid ""
 "There’s something I’ve been trying to hide throughout my discussion of the "
 "normal distribution, something that some introductory textbooks omit "
@@ -1310,7 +1353,7 @@ msgid ""
 "to make sure that you follow the gist of it."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:166
+#: ../../Ch07/Ch07_Probability_5.rst:168
 msgid ""
 "Throughout my discussion of the normal distribution there’s been one or two "
 "things that don’t quite make sense. Perhaps you noticed that the *y*-axis in "
@@ -1319,7 +1362,7 @@ msgid ""
 "formula for the normal distribution."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:172
+#: ../../Ch07/Ch07_Probability_5.rst:174
 msgid ""
 "As it turns out, what is presented here isn’t actually a probability, it’s "
 "something else. To understand what that something is you have to spend a "
@@ -1333,7 +1376,7 @@ msgid ""
 "never really know exactly what they are."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:183
+#: ../../Ch07/Ch07_Probability_5.rst:185
 msgid ""
 "Now think about what this implies when we talk about probabilities. Suppose "
 "that tomorrow’s maximum temperature is sampled from a normal distribution "
@@ -1354,7 +1397,7 @@ msgid ""
 "and 23.5, or between 20 and 30, or any other range of temperatures."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:203
+#: ../../Ch07/Ch07_Probability_5.rst:205
 msgid ""
 "The point of this discussion is to make clear that when we’re talking about "
 "continuous distributions it’s not meaningful to talk about the probability "
@@ -1368,7 +1411,7 @@ msgid ""
 "the mean)."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:214
+#: ../../Ch07/Ch07_Probability_5.rst:216
 msgid ""
 "Okay, so that explains part of the story. I’ve explained a little bit about "
 "how continuous probability distributions should be interpreted (i.e., area "
@@ -1382,7 +1425,7 @@ msgid ""
 "be honest, that’s about as much as you really need to know for now.\\ [#]_"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:229
+#: ../../Ch07/Ch07_Probability_5.rst:231
 msgid ""
 "In practice, the normal distribution is so handy that people tend to use it "
 "even when the variable isn’t actually continuous. As long as there are "
@@ -1391,7 +1434,7 @@ msgid ""
 "This works out much better in practice than you’d think."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:237
+#: ../../Ch07/Ch07_Probability_5.rst:239
 msgid ""
 "For those readers who know a little calculus, I’ll give a slightly more "
 "precise explanation. In the same way that probabilities are non-negative "

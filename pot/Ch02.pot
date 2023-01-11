@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -802,8 +802,7 @@ msgid ""
 "**reliability** of a measure tells you how *precisely* you are measuring "
 "something, whereas the validity of a measure tells you how *accurate* the "
 "measure is. In this section I’ll talk about reliability; we’ll talk about "
-"validity in section :doc:`Assessing the validity of a study <../Ch02/"
-"Ch02_StudyDesign_5>`."
+"validity in section :doc:`Ch02_StudyDesign_5`."
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:17
@@ -865,8 +864,8 @@ msgid ""
 "lots of different parts that perform similar functions (e.g., a personality "
 "questionnaire result is added up across several questions) do the individual "
 "parts tend to give similar answers. We’ll look at this particular form of "
-"reliability later in the book, in section :doc:`Internal consistency "
-"reliability analysis <../Ch15/Ch15_FactorAnalysis_4>`."
+"reliability later in the book, in section :doc:`../Ch15/"
+"Ch15_FactorAnalysis_4`."
 msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:65
@@ -2085,53 +2084,53 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:13
 msgid ""
-":doc:`Introduction to psychological measurement <../Ch02/"
-"Ch02_StudyDesign_1>`: What does it mean to operationalise a theoretical "
-"construct? What does it mean to have variables and take measurements?"
+":doc:`Introduction to psychological measurement <Ch02_StudyDesign_1>`: What "
+"does it mean to operationalise a theoretical construct? What does it mean to "
+"have variables and take measurements?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:18
+#: ../../Ch02/Ch02_StudyDesign_6.rst:17
 msgid ""
-":doc:`Scales of measurement and types of variables <../Ch02/"
-"Ch02_StudyDesign_2>`: Remember that there are *two* different distinctions "
-"here. There’s the difference between discrete and continuous data, and "
-"there’s the difference between the four different scale types (nominal, "
-"ordinal, interval and ratio)."
+":doc:`Scales of measurement and types of variables <Ch02_StudyDesign_2>`: "
+"Remember that there are *two* different distinctions here. There’s the "
+"difference between discrete and continuous data, and there’s the difference "
+"between the four different scale types (nominal, ordinal, interval and "
+"ratio)."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:24
+#: ../../Ch02/Ch02_StudyDesign_6.rst:23
 msgid ""
-":doc:`Reliability of a measurement <../Ch02/Ch02_StudyDesign_3>`: If I "
-"measure the “same” thing twice, should I expect to see the same result? Only "
-"if my measure is reliable. But what does it mean to talk about doing the "
-"“same” thing? Well, that’s why we have different types of reliability. Make "
-"sure you remember what they are."
+":doc:`Reliability of a measurement <Ch02_StudyDesign_3>`: If I measure the "
+"“same” thing twice, should I expect to see the same result? Only if my "
+"measure is reliable. But what does it mean to talk about doing the “same” "
+"thing? Well, that’s why we have different types of reliability. Make sure "
+"you remember what they are."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:30
+#: ../../Ch02/Ch02_StudyDesign_6.rst:29
 msgid ""
-":doc:`Terminology: predictors and outcomes <../Ch02/Ch02_StudyDesign_3>`: "
-"What roles do variables play in an analysis? Can you remember the difference "
-"between predictors and outcomes? Dependent and independent variables? etc."
+":doc:`Terminology: predictors and outcomes <Ch02_StudyDesign_3>`: What roles "
+"do variables play in an analysis? Can you remember the difference between "
+"predictors and outcomes? Dependent and independent variables? etc."
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:34
+#: ../../Ch02/Ch02_StudyDesign_6.rst:33
 msgid ""
-":doc:`Experimental and non-experimental research designs <../Ch02/"
-"Ch02_StudyDesign_4>`: What makes an experiment an experiment? Is it a nice "
+":doc:`Experimental and non-experimental research designs "
+"<Ch02_StudyDesign_4>`: What makes an experiment an experiment? Is it a nice "
 "white lab coat, or does it have something to do with researcher control over "
 "variables?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:39
+#: ../../Ch02/Ch02_StudyDesign_6.rst:38
 msgid ""
-":doc:`Validity and its threats <../Ch02/Ch02_StudyDesign_5>`: Does your "
-"study measure what you want it to? How might things go wrong? And is it my "
+":doc:`Validity and its threats <Ch02_StudyDesign_5>`: Does your study "
+"measure what you want it to? How might things go wrong? And is it my "
 "imagination, or was that a very long list of possible ways in which things "
 "can go wrong?"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:44
+#: ../../Ch02/Ch02_StudyDesign_6.rst:43
 msgid ""
 "All this should make clear to you that study design is a critical part of "
 "research methodology. I built this chapter from the classic little book by :"

@@ -11,6 +11,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -319,13 +340,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 18:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -493,11 +546,13 @@ msgid ""
 "included."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
+#: ../../Ch17/Ch17_Epilogue_1.rst:66 ../../Ch17/Ch17_Epilogue_2.rst:174
+#: ../../Ch17/Ch17_Epilogue_1.rst:65
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
+#: ../../Ch17/Ch17_Epilogue_1.rst:69 ../../Ch17/Ch17_Epilogue_2.rst:177
+#: ../../Ch17/Ch17_Epilogue_1.rst:68
 msgid "nominal"
 msgstr "nominal"
 
@@ -548,7 +603,7 @@ msgid ""
 "about ahead of time. I would like to talk more about this in the future."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:58
+#: ../../Ch17/Ch17_Epilogue_1.rst:59 ../../Ch17/Ch17_Epilogue_1.rst:58
 msgid ""
 "**Multiple comparison methods.** Even within the context of talking about "
 "post-hoc tests and multiple comparisons, I would have liked to talk about "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -784,16 +784,15 @@ msgid ""
 "mistake or even lying to you. In fact, one of the biggest things that a "
 "knowledge of statistics does to you is cause you to get angry at the "
 "newspaper or the internet on a far more frequent basis. You can find a good "
-"example of this in the section :doc:`A real life example <../Ch04/"
-"Ch04_Descriptives_1>`. In later versions of this book I’ll try to include "
-"more anecdotes along those lines."
+"example of this in the section :ref:`A real life example "
+"<a_real_life_example>`."
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:29
+#: ../../Ch01/Ch01_WhyStats_5.rst:28
 msgid "There’s more to research methods than statistics"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:31
+#: ../../Ch01/Ch01_WhyStats_5.rst:30
 msgid ""
 "So far, most of what I’ve talked about is statistics, and so you’d be "
 "forgiven for thinking that statistics is all I care about in life. To be "
@@ -820,7 +819,7 @@ msgid ""
 "in all your other classes, the statistics is more urgent."
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats_5.rst:56
+#: ../../Ch01/Ch01_WhyStats_5.rst:55
 msgid ""
 "But note that “urgent” is different from “important” – they both matter. I "
 "really do want to stress that research design is just as important as data "

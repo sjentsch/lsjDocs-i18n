@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -576,11 +576,11 @@ msgid ""
 "and which values would cause us to keep it. In order to do so we need to "
 "determine what the **sampling distribution of the test statistic** would be "
 "if the null hypothesis were actually true (we talked about sampling "
-"distributions earlier in :doc:`Sampling distribution of the mean <../Ch08/"
-"Ch08_Estimation_3>`). Why do we need this? Because this distribution tells "
-"us exactly what values of *X* our null hypothesis would lead us to expect. "
-"And, therefore, we can use this distribution as a tool for assessing how "
-"closely the null hypothesis agrees with our data."
+"distributions earlier in :ref:`Sampling distribution of the mean "
+"<sampling_distribution_of_the_mean>`). Why do we need this? Because this "
+"distribution tells us exactly what values of *X* our null hypothesis would "
+"lead us to expect. And, therefore, we can use this distribution as a tool "
+"for assessing how closely the null hypothesis agrees with our data."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
@@ -792,26 +792,26 @@ msgid ""
 "other things."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:127
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:129
 msgid "The difference between one-sided and two-sided tests"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:129
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:131
 msgid ""
 "There’s one more thing I want to point out about the hypothesis test that "
 "I’ve just constructed. If we take a moment to think about the statistical "
 "hypotheses I’ve been using,"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:133
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:135
 msgid "H\\ :sub:`0`: *θ* = 0.5"
 msgstr "H\\ :sub:`0`: *θ* = 0.5"
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:135
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:137
 msgid "H\\ :sub:`1`: *θ* ≠ 0.5"
 msgstr "H\\ :sub:`1`: *θ* ≠ 0.5"
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:137
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:139
 msgid ""
 "we notice that the alternative hypothesis covers *both* the possibility that "
 "*θ* < 0.5 and the possibility that *θ* > 0.5. This makes sense if I really "
@@ -824,7 +824,7 @@ msgid ""
 "0.05), as illustrated earlier in :numref:`fig-rejectionRegion1`."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:148
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:150
 msgid ""
 "However, that’s not the only possibility. I might only be willing to believe "
 "in ESP if it produces better than chance performance. If so, then my "
@@ -832,26 +832,26 @@ msgid ""
 "as a consequence the null hypothesis now becomes *θ* ≤ 0.5"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:154
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:156
 msgid "H\\ :sub:`1`: *θ* ≤ 0.5"
 msgstr "H\\ :sub:`1`: *θ* ≤ 0.5"
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:156
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:158
 msgid "H\\ :sub:`1`: *θ* > 0.5"
 msgstr "H\\ :sub:`1`: *θ* > 0.5"
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:158
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:160
 msgid ""
 "When this happens, we have what’s called a **one-sided test** and the "
 "critical region only covers one tail of the sampling distribution. This is "
 "illustrated in :numref:`fig-rejectionRegion2`."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:168
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
 msgid "Critical region associated with a one-sided test"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:168
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
 msgid ""
 "The critical region for a one-sided test. In this case, the alternative "
 "hypothesis is that θ = 0.5 so we would only reject the null hypothesis for "
@@ -861,7 +861,7 @@ msgid ""
 "rejectionRegion1`."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:180
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:182
 msgid ""
 "Strictly speaking, the test I just constructed has α = 0.057, which is a bit "
 "too generous. However, if I’d chosen 39 and 61 to be the boundaries for the "
@@ -871,7 +871,7 @@ msgid ""
 "since that’s as close as I can get to a value of α = 0.05."
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:189
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:191
 msgid ""
 "The internet seems fairly convinced that Ashley said this, though I can’t "
 "for the life of me find anyone willing to give a source for the claim."
@@ -1065,8 +1065,8 @@ msgid ""
 "When writing up the results of a hypothesis test there’s usually several "
 "pieces of information that you need to report, but it varies a fair bit from "
 "test to test. Throughout the rest of the book I’ll spend a little time "
-"talking about how to report the results of different tests (see section :doc:"
-"`How to report the results of the test <../Ch10/Ch10_ChiSquare_1>` for a "
+"talking about how to report the results of different tests (see subsection :"
+"ref:`How to report the results of the test <how_to_report_tests>` for a "
 "particularly detailed example), so that you can get a feel for how it’s "
 "usually done. However, regardless of what test you’re doing, the one thing "
 "that you always have to do is say something about the *p*-value and whether "
@@ -1870,50 +1870,47 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:14
 msgid ""
 ":doc:`Research hypotheses and statistical hypotheses, Null and alternative "
-"hypotheses <../Ch09/Ch09_HypothesisTesting_01>`"
+"hypotheses <Ch09_HypothesisTesting_01>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:17
-msgid ":doc:`Type I and Type II errors <../Ch09/Ch09_HypothesisTesting_02>`"
+msgid ":doc:`Type I and Type II errors <Ch09_HypothesisTesting_02>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
 msgid ""
-":doc:`Test statistics and sampling distributions <../Ch09/"
-"Ch09_HypothesisTesting_03>`"
+":doc:`Test statistics and sampling distributions <Ch09_HypothesisTesting_03>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:21
 msgid ""
-":doc:`Hypothesis testing as a decision making process <../Ch09/"
-"Ch09_HypothesisTesting_04>`"
+":doc:`Hypothesis testing as a decision making process "
+"<Ch09_HypothesisTesting_04>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:24
-msgid ""
-":doc:`*p*-values as “soft” decisions <../Ch09/Ch09_HypothesisTesting_05>`"
+msgid ":doc:`*p*-values as “soft” decisions <Ch09_HypothesisTesting_05>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:26
 msgid ""
-":doc:`Writing up the results of a hypothesis test <../Ch09/"
-"Ch09_HypothesisTesting_06>`"
+":doc:`Writing up the results of a hypothesis test "
+"<Ch09_HypothesisTesting_06>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:29
 msgid ""
-":doc:`Running the hypothesis test in practice <../Ch09/"
-"Ch09_HypothesisTesting_07>`"
+":doc:`Running the hypothesis test in practice <Ch09_HypothesisTesting_07>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:31
-msgid ":doc:`Effect size and power <../Ch09/Ch09_HypothesisTesting_08>`"
+msgid ":doc:`Effect size and power <Ch09_HypothesisTesting_08>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:33
 msgid ""
-":doc:`A few issues to consider regarding hypothesis testing <../Ch09/"
-"Ch09_HypothesisTesting_09>`"
+":doc:`A few issues to consider regarding hypothesis testing "
+"<Ch09_HypothesisTesting_09>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:36

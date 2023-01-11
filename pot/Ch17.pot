@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,11 +92,11 @@ msgid ""
 "included."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:65 ../../Ch17/Ch17_Epilogue_2.rst:174
+#: ../../Ch17/Ch17_Epilogue_1.rst:66 ../../Ch17/Ch17_Epilogue_2.rst:174
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:68 ../../Ch17/Ch17_Epilogue_2.rst:177
+#: ../../Ch17/Ch17_Epilogue_1.rst:69 ../../Ch17/Ch17_Epilogue_2.rst:177
 msgid "nominal"
 msgstr "nominal"
 
@@ -147,7 +147,7 @@ msgid ""
 "about ahead of time. I would like to talk more about this in the future."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:58
+#: ../../Ch17/Ch17_Epilogue_1.rst:59
 msgid ""
 "**Multiple comparison methods.** Even within the context of talking about "
 "post-hoc tests and multiple comparisons, I would have liked to talk about "

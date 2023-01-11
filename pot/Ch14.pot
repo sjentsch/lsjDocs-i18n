@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,13 +36,13 @@ msgid ""
 "they studied for the test and their score on a standardised IQ test."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:669
+#: ../../Ch14/Ch14_ANOVA2.rst:54 ../../Ch14/Ch14_ANOVA2_01.rst:671
 #: ../../Ch14/Ch14_ANOVA2_06.rst:150 ../../Ch14/Ch14_ANOVA2_07.rst:550
 #: ../../Ch14/Ch14_ANOVA2_11.rst:657
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:666
+#: ../../Ch14/Ch14_ANOVA2.rst:51 ../../Ch14/Ch14_ANOVA2_01.rst:668
 #: ../../Ch14/Ch14_ANOVA2_06.rst:147 ../../Ch14/Ch14_ANOVA2_11.rst:654
 msgid "continuous"
 msgstr "continuous"
@@ -116,11 +116,11 @@ msgid ""
 "tedious, so we’ll put it to one side for the moment."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:51
+#: ../../Ch14/Ch14_ANOVA2_01.rst:53
 msgid "What hypotheses are we testing?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:53
+#: ../../Ch14/Ch14_ANOVA2_01.rst:55
 msgid ""
 "Like one-way ANOVA, factorial ANOVA is a tool for testing certain types of "
 "hypotheses about population means. So a sensible place to start would be to "
@@ -134,7 +134,7 @@ msgid ""
 "that we might be interested in this list of group means:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:75
+#: ../../Ch14/Ch14_ANOVA2_01.rst:77
 msgid ""
 "Now, this output shows a list of the group means for all possible "
 "combinations of the two factors (e.g., people who received the placebo and "
@@ -143,86 +143,86 @@ msgid ""
 "into a single table which looks like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:82 ../../Ch14/Ch14_ANOVA2_01.rst:117
-#: ../../Ch14/Ch14_ANOVA2_01.rst:145 ../../Ch14/Ch14_ANOVA2_01.rst:383
+#: ../../Ch14/Ch14_ANOVA2_01.rst:84 ../../Ch14/Ch14_ANOVA2_01.rst:119
+#: ../../Ch14/Ch14_ANOVA2_01.rst:147 ../../Ch14/Ch14_ANOVA2_01.rst:385
 msgid "no therapy"
-msgstr ""
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:82 ../../Ch14/Ch14_ANOVA2_01.rst:117
-#: ../../Ch14/Ch14_ANOVA2_01.rst:145 ../../Ch14/Ch14_ANOVA2_01.rst:383
-msgid "CBT"
-msgstr ""
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:82 ../../Ch14/Ch14_ANOVA2_01.rst:117
-#: ../../Ch14/Ch14_ANOVA2_01.rst:145 ../../Ch14/Ch14_ANOVA2_01.rst:383
-msgid "total"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:84 ../../Ch14/Ch14_ANOVA2_01.rst:119
 #: ../../Ch14/Ch14_ANOVA2_01.rst:147 ../../Ch14/Ch14_ANOVA2_01.rst:385
-msgid "**placebo**"
-msgstr "**placebo**"
+msgid "CBT"
+msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:84
-msgid "0.30"
-msgstr "0.30"
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:84
-msgid "0.60"
-msgstr "0.60"
-
-#: ../../Ch14/Ch14_ANOVA2_01.rst:84
-msgid "0.45"
-msgstr "0.45"
+#: ../../Ch14/Ch14_ANOVA2_01.rst:84 ../../Ch14/Ch14_ANOVA2_01.rst:119
+#: ../../Ch14/Ch14_ANOVA2_01.rst:147 ../../Ch14/Ch14_ANOVA2_01.rst:385
+msgid "total"
+msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86 ../../Ch14/Ch14_ANOVA2_01.rst:121
 #: ../../Ch14/Ch14_ANOVA2_01.rst:149 ../../Ch14/Ch14_ANOVA2_01.rst:387
-msgid "**anxifree**"
-msgstr "**anxifree**"
+msgid "**placebo**"
+msgstr "**placebo**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86
-msgid "0.40"
-msgstr "0.40"
+msgid "0.30"
+msgstr "0.30"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:86
-msgid "1.03"
-msgstr "1.03"
+msgid "0.60"
+msgstr "0.60"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:86 ../../Ch14/Ch14_ANOVA2_01.rst:90
-msgid "0.72"
-msgstr "0.72"
+#: ../../Ch14/Ch14_ANOVA2_01.rst:86
+msgid "0.45"
+msgstr "0.45"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88 ../../Ch14/Ch14_ANOVA2_01.rst:123
 #: ../../Ch14/Ch14_ANOVA2_01.rst:151 ../../Ch14/Ch14_ANOVA2_01.rst:389
-msgid "**joyzepam**"
-msgstr "**joyzepam**"
+msgid "**anxifree**"
+msgstr "**anxifree**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88
-msgid "1.47"
-msgstr "1.47"
+msgid "0.40"
+msgstr "0.40"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:88
-msgid "1.50"
-msgstr "1.50"
+msgid "1.03"
+msgstr "1.03"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:88
-msgid "1.48"
-msgstr "1.48"
+#: ../../Ch14/Ch14_ANOVA2_01.rst:88 ../../Ch14/Ch14_ANOVA2_01.rst:92
+msgid "0.72"
+msgstr "0.72"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:90 ../../Ch14/Ch14_ANOVA2_01.rst:125
 #: ../../Ch14/Ch14_ANOVA2_01.rst:153 ../../Ch14/Ch14_ANOVA2_01.rst:391
+msgid "**joyzepam**"
+msgstr "**joyzepam**"
+
+#: ../../Ch14/Ch14_ANOVA2_01.rst:90
+msgid "1.47"
+msgstr "1.47"
+
+#: ../../Ch14/Ch14_ANOVA2_01.rst:90
+msgid "1.50"
+msgstr "1.50"
+
+#: ../../Ch14/Ch14_ANOVA2_01.rst:90
+msgid "1.48"
+msgstr "1.48"
+
+#: ../../Ch14/Ch14_ANOVA2_01.rst:92 ../../Ch14/Ch14_ANOVA2_01.rst:127
+#: ../../Ch14/Ch14_ANOVA2_01.rst:155 ../../Ch14/Ch14_ANOVA2_01.rst:393
 msgid "**total**"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:90
+#: ../../Ch14/Ch14_ANOVA2_01.rst:92
 msgid "1.04"
 msgstr "1.04"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:90
+#: ../../Ch14/Ch14_ANOVA2_01.rst:92
 msgid "0.88"
 msgstr "0.88"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:93
+#: ../../Ch14/Ch14_ANOVA2_01.rst:95
 msgid ""
 "Now, each of these different means is of course a sample statistic. It’s a "
 "quantity that pertains to the specific observations that we’ve made during "
@@ -235,7 +235,7 @@ msgid ""
 "distinguish between them."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:103
+#: ../../Ch14/Ch14_ANOVA2_01.rst:105
 msgid ""
 "Here’s how the notation works. Our table is defined in terms of two factors. "
 "Each row corresponds to a different level of Factor A (in this case "
@@ -249,20 +249,20 @@ msgid ""
 "the population means are now written like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:119 ../../Ch14/Ch14_ANOVA2_01.rst:121
-#: ../../Ch14/Ch14_ANOVA2_01.rst:123 ../../Ch14/Ch14_ANOVA2_01.rst:147
+#: ../../Ch14/Ch14_ANOVA2_01.rst:121 ../../Ch14/Ch14_ANOVA2_01.rst:123
+#: ../../Ch14/Ch14_ANOVA2_01.rst:125 ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`11`"
 msgstr "µ\\ :sub:`11`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:121 ../../Ch14/Ch14_ANOVA2_01.rst:149
+#: ../../Ch14/Ch14_ANOVA2_01.rst:123 ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`21`"
 msgstr "µ\\ :sub:`21`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:123 ../../Ch14/Ch14_ANOVA2_01.rst:151
+#: ../../Ch14/Ch14_ANOVA2_01.rst:125 ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`31`"
 msgstr "µ\\ :sub:`31`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:128
+#: ../../Ch14/Ch14_ANOVA2_01.rst:130
 msgid ""
 "Okay, what about the remaining entries? For instance, how should we describe "
 "the average mood gain across the entire (hypothetical) population of people "
@@ -279,43 +279,43 @@ msgid ""
 "full table of population means can be written down like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:147
+#: ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`12`"
 msgstr "µ\\ :sub:`12`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:147
+#: ../../Ch14/Ch14_ANOVA2_01.rst:149
 msgid "µ\\ :sub:`1.`"
 msgstr "µ\\ :sub:`1.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:149
+#: ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`22`"
 msgstr "µ\\ :sub:`22`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:149
+#: ../../Ch14/Ch14_ANOVA2_01.rst:151
 msgid "µ\\ :sub:`2.`"
 msgstr "µ\\ :sub:`2.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:151
+#: ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`32`"
 msgstr "µ\\ :sub:`32`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:151
+#: ../../Ch14/Ch14_ANOVA2_01.rst:153
 msgid "µ\\ :sub:`3.`"
 msgstr "µ\\ :sub:`3.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:153
+#: ../../Ch14/Ch14_ANOVA2_01.rst:155
 msgid "µ\\ :sub:`.1`"
 msgstr "µ\\ :sub:`.1`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:153
+#: ../../Ch14/Ch14_ANOVA2_01.rst:155
 msgid "µ\\ :sub:`.2`"
 msgstr "µ\\ :sub:`.2`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:153
+#: ../../Ch14/Ch14_ANOVA2_01.rst:155
 msgid "µ\\ :sub:`..`"
 msgstr "µ\\ :sub:`..`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:156
+#: ../../Ch14/Ch14_ANOVA2_01.rst:158
 msgid ""
 "Now that we have this notation, it is straightforward to formulate and "
 "express some hypotheses. Let’s suppose that the goal is to find out two "
@@ -323,33 +323,33 @@ msgid ""
 "does CBT have any effect on mood? These aren’t the only hypotheses that we "
 "could formulate of course, and we’ll see a really important example of a "
 "different kind of hypothesis in section :doc:`Factorial ANOVA 2: balanced "
-"designs, interactions allowed <../Ch14/Ch14_ANOVA2_02>`, but these are the "
-"two simplest hypotheses to test, and so we’ll start there. Consider the "
-"first test. If the drug has no effect then we would expect all of the row "
-"means to be identical, right? So that’s our null hypothesis. On the other "
-"hand, if the drug does matter then we should expect these row means to be "
-"different. Formally, we write down our null and alternative hypotheses in "
-"terms of the *equality of marginal means*:"
+"designs, interactions allowed <Ch14_ANOVA2_02>`, but these are the two "
+"simplest hypotheses to test, and so we’ll start there. Consider the first "
+"test. If the drug has no effect then we would expect all of the row means to "
+"be identical, right? So that’s our null hypothesis. On the other hand, if "
+"the drug does matter then we should expect these row means to be different. "
+"Formally, we write down our null and alternative hypotheses in terms of the "
+"*equality of marginal means*:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:170 ../../Ch14/Ch14_ANOVA2_01.rst:198
+#: ../../Ch14/Ch14_ANOVA2_01.rst:172 ../../Ch14/Ch14_ANOVA2_01.rst:200
 msgid "Null hypothesis, H\\ :sub:`0`:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:170
+#: ../../Ch14/Ch14_ANOVA2_01.rst:172
 msgid ""
 "row means are the same, i.e., µ\\ :sub:`1.` = µ\\ :sub:`2.` = µ\\ :sub:`3.`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:173 ../../Ch14/Ch14_ANOVA2_01.rst:201
+#: ../../Ch14/Ch14_ANOVA2_01.rst:175 ../../Ch14/Ch14_ANOVA2_01.rst:203
 msgid "Alternative hypothesis, H\\ :sub:`1`:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:173
+#: ../../Ch14/Ch14_ANOVA2_01.rst:175
 msgid "at least one row mean is different."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:177
+#: ../../Ch14/Ch14_ANOVA2_01.rst:179
 msgid ""
 "It’s worth noting that these are *exactly* the same statistical hypotheses "
 "that we formed when we ran a one-way ANOVA on these data back in :doc:`the "
@@ -366,7 +366,7 @@ msgid ""
 "of the second grouping variable."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:191
+#: ../../Ch14/Ch14_ANOVA2_01.rst:193
 msgid ""
 "Speaking of the other grouping variable, you won’t be surprised to discover "
 "that our second hypothesis test is formulated the same way. However, since "
@@ -374,19 +374,19 @@ msgid ""
 "hypothesis now corresponds to the equality of the column means:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:198
+#: ../../Ch14/Ch14_ANOVA2_01.rst:200
 msgid "column means are the same, i.e., µ\\ :sub:`.1` = µ\\ :sub:`.2`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:201
+#: ../../Ch14/Ch14_ANOVA2_01.rst:203
 msgid "column means are different, i.e., µ\\ :sub:`.1` ≠ µ\\ :sub:`.2`"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:206
+#: ../../Ch14/Ch14_ANOVA2_01.rst:208
 msgid "Running the analysis in jamovi"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:208
+#: ../../Ch14/Ch14_ANOVA2_01.rst:210
 msgid ""
 "The null and alternative hypotheses that I described in the last section "
 "should seem awfully familiar. They’re basically the same as the hypotheses "
@@ -408,7 +408,7 @@ msgid ""
 "this chapter."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:226
+#: ../../Ch14/Ch14_ANOVA2_01.rst:228
 msgid ""
 "If the data you’re trying to analyse correspond to a balanced factorial "
 "design then running your analysis of variance is easy. To see how easy it "
@@ -419,11 +419,11 @@ msgid ""
 "got the results shown in :numref:`fig-factorialanova2`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:240
+#: ../../Ch14/Ch14_ANOVA2_01.rst:242
 msgid "jamovi One-way ANOVA of ``mood.gain`` by ``drug``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:244
+#: ../../Ch14/Ch14_ANOVA2_01.rst:246
 msgid ""
 "Now, suppose I’m also curious to find out if ``therapy`` has a relationship "
 "to ``mood.gain``. In light of what we’ve seen from our discussion of "
@@ -433,19 +433,19 @@ msgid ""
 "numref:`fig-factorialanova3`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:257
+#: ../../Ch14/Ch14_ANOVA2_01.rst:259
 msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the factors ``drug`` and "
 "``therapy``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:257
+#: ../../Ch14/Ch14_ANOVA2_01.rst:259
 msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the two factors ``drug`` and "
 "``therapy``"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:262
+#: ../../Ch14/Ch14_ANOVA2_01.rst:264
 msgid ""
 "This output is pretty simple to read too. The first row of the table reports "
 "a between-group sum of squares (SS) value associated with the ``drug`` "
@@ -455,7 +455,7 @@ msgid ""
 "corresponding to the residuals (i.e., the within groups variation)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:269
+#: ../../Ch14/Ch14_ANOVA2_01.rst:271
 msgid ""
 "Not only are all of the individual quantities pretty familiar, the "
 "relationships between these different quantities has remained unchanged, "
@@ -464,11 +464,11 @@ msgid ""
 "still true that:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:275
+#: ../../Ch14/Ch14_ANOVA2_01.rst:277
 msgid "MS = SS / df"
 msgstr "MS = SS / df"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:277
+#: ../../Ch14/Ch14_ANOVA2_01.rst:279
 msgid ""
 "regardless of whether we’re talking about ``drug``, ``therapy`` or the "
 "residuals. To see this, let’s not worry about how the sums of squares values "
@@ -480,7 +480,7 @@ msgid ""
 "dividing 0.47 (the SS value) by 1 gives us an answer of 0.47 (the MS value)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:286
+#: ../../Ch14/Ch14_ANOVA2_01.rst:288
 msgid ""
 "Turning to the *F*-statistics and the *p*-values, notice that we have two of "
 "each; one corresponding to the ``drug`` factor and the other corresponding "
@@ -493,11 +493,11 @@ msgid ""
 "and is calculated as follows:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:297
+#: ../../Ch14/Ch14_ANOVA2_01.rst:299
 msgid "*F*\\ :sub:`A` = MS\\ :sub:`A` / MS\\ :sub:`R`"
 msgstr "*F*\\ :sub:`A` = MS\\ :sub:`A` / MS\\ :sub:`R`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:299
+#: ../../Ch14/Ch14_ANOVA2_01.rst:301
 msgid ""
 "and an equivalent formula exists for factor B (i.e., ``therapy``). Note that "
 "this use of “R” to refer to residuals is a bit awkward, since we also used "
@@ -512,7 +512,7 @@ msgid ""
 "in the ANOVA table above."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:312
+#: ../../Ch14/Ch14_ANOVA2_01.rst:314
 msgid ""
 "Also in the ANOVA table is the calculation of the *p*-values. Once again, "
 "there is nothing new here. For each of our two factors what we’re trying to "
@@ -531,7 +531,7 @@ msgid ""
 "with 1 and 14 degrees of freedom."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:329
+#: ../../Ch14/Ch14_ANOVA2_01.rst:331
 msgid ""
 "At this point, I hope you can see that the ANOVA table for this more "
 "complicated factorial analysis should be read in much the same way as the "
@@ -547,11 +547,11 @@ msgid ""
 "interaction effects."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:344
+#: ../../Ch14/Ch14_ANOVA2_01.rst:346
 msgid "How are the sum of squares calculated?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:346
+#: ../../Ch14/Ch14_ANOVA2_01.rst:348
 msgid ""
 "In the previous section I had two goals. Firstly, to show you that the "
 "jamovi method needed to do factorial ANOVA is pretty much the same as what "
@@ -567,7 +567,7 @@ msgid ""
 "textbooks."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:359
+#: ../../Ch14/Ch14_ANOVA2_01.rst:361
 msgid ""
 "Okay, let’s start by looking at some of those details. The explanation that "
 "I gave in the last section illustrates the fact that the hypothesis tests "
@@ -590,55 +590,55 @@ msgid ""
 "looks like this:"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:385
+#: ../../Ch14/Ch14_ANOVA2_01.rst:387
 msgid "Ȳ\\ :sub:`11`"
 msgstr "Ȳ\\ :sub:`11`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:385
+#: ../../Ch14/Ch14_ANOVA2_01.rst:387
 msgid "Ȳ\\ :sub:`12`"
 msgstr "Ȳ\\ :sub:`12`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:385
+#: ../../Ch14/Ch14_ANOVA2_01.rst:387
 msgid "Ȳ\\ :sub:`1.`"
 msgstr "Ȳ\\ :sub:`1.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:387
+#: ../../Ch14/Ch14_ANOVA2_01.rst:389
 msgid "Ȳ\\ :sub:`21`"
 msgstr "Ȳ\\ :sub:`21`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:387
+#: ../../Ch14/Ch14_ANOVA2_01.rst:389
 msgid "Ȳ\\ :sub:`22`"
 msgstr "Ȳ\\ :sub:`22`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:387
+#: ../../Ch14/Ch14_ANOVA2_01.rst:389
 msgid "Ȳ\\ :sub:`2.`"
 msgstr "Ȳ\\ :sub:`2.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:389
+#: ../../Ch14/Ch14_ANOVA2_01.rst:391
 msgid "Ȳ\\ :sub:`31`"
 msgstr "Ȳ\\ :sub:`31`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:389
+#: ../../Ch14/Ch14_ANOVA2_01.rst:391
 msgid "Ȳ\\ :sub:`32`"
 msgstr "Ȳ\\ :sub:`32`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:389
+#: ../../Ch14/Ch14_ANOVA2_01.rst:391
 msgid "Ȳ\\ :sub:`3.`"
 msgstr "Ȳ\\ :sub:`3.`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:391
+#: ../../Ch14/Ch14_ANOVA2_01.rst:393
 msgid "Ȳ\\ :sub:`.1`"
 msgstr "Ȳ\\ :sub:`.1`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:391
+#: ../../Ch14/Ch14_ANOVA2_01.rst:393
 msgid "Ȳ\\ :sub:`.2`"
 msgstr "Ȳ\\ :sub:`.2`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:391
+#: ../../Ch14/Ch14_ANOVA2_01.rst:393
 msgid "Ȳ\\ :sub:`..`"
 msgstr "Ȳ\\ :sub:`..`"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:394
+#: ../../Ch14/Ch14_ANOVA2_01.rst:396
 msgid ""
 "And if we look at the sample means that I showed earlier, we have Ȳ\\ :sub:"
 "`11` = 0.30, Ȳ\\ :sub:`12` = 0.60 etc. In our |clinicaltrial|_ data, the "
@@ -649,7 +649,7 @@ msgid ""
 "here is an R × C factorial ANOVA."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:402
+#: ../../Ch14/Ch14_ANOVA2_01.rst:404
 msgid ""
 "Now that we’ve got our notation straight, we can compute the sum of squares "
 "values for each of the two factors in a relatively familiar way. For Factor "
@@ -661,7 +661,7 @@ msgid ""
 "if there are *N* people in each group, then we calculate this"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:412
+#: ../../Ch14/Ch14_ANOVA2_01.rst:414
 msgid ""
 "\\mbox{SS}_{A} = (N \\times C)  \\sum_{r=1}^R  \\left( \\bar{Y}_{r.} - "
 "\\bar{Y}_{..} \\right)^2\n"
@@ -671,7 +671,7 @@ msgstr ""
 "\\bar{Y}_{..} \\right)^2\n"
 "\n"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:414
+#: ../../Ch14/Ch14_ANOVA2_01.rst:416
 msgid ""
 "As with one-way ANOVA, the most interesting\\ [#]_ part of this formula is "
 "the (Ȳ\\ :sub:`r.` – Ȳ\\ :sub:`..`)² bit, which corresponds to the squared "
@@ -689,7 +689,7 @@ msgid ""
 "B is of course the same thing, just with some subscripts shuffled around"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:429
+#: ../../Ch14/Ch14_ANOVA2_01.rst:431
 msgid ""
 "\\mbox{SS}_{B} = (N \\times R) \\sum_{c=1}^C \\left( \\bar{Y}_{.c} - \\bar{Y}"
 "_{..} \\right)^2\n"
@@ -699,13 +699,13 @@ msgstr ""
 "_{..} \\right)^2\n"
 "\n"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:431
+#: ../../Ch14/Ch14_ANOVA2_01.rst:433
 msgid ""
 "Now that we have these formulas we can check them against the jamovi output "
 "from the earlier section."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:434
+#: ../../Ch14/Ch14_ANOVA2_01.rst:436
 msgid ""
 "First, let’s calculate the sum of squares associated with the main effect of "
 "``drug``. There are a total of *N* = 3 people in each group and *C* = 2 "
@@ -718,7 +718,7 @@ msgid ""
 "factorialanova3`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:443
+#: ../../Ch14/Ch14_ANOVA2_01.rst:445
 msgid ""
 "We can repeat the same kind of calculation for the effect of ``therapy``. "
 "Again, there are *N* = 3 people in each group, but since there are R = 3 "
@@ -730,7 +730,7 @@ msgid ""
 "output in :numref:`fig-factorialanova3`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:451
+#: ../../Ch14/Ch14_ANOVA2_01.rst:453
 msgid ""
 "So that’s how you calculate the SS values for the two main effects. These SS "
 "values are analogous to the between-group sum of squares values that we "
@@ -745,7 +745,7 @@ msgid ""
 "groups SS value as the *residual* sum of squares SS\\ :sub:`R`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:463
+#: ../../Ch14/Ch14_ANOVA2_01.rst:465
 msgid ""
 "The easiest way to think about the residual SS values in this context, I "
 "think, is to think of it as the leftover variation in the outcome variable "
@@ -757,7 +757,7 @@ msgid ""
 "the grand mean Ȳ\\ :sub:`..`, square the differences, and add them all up"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:472
+#: ../../Ch14/Ch14_ANOVA2_01.rst:474
 msgid ""
 "\\mbox{SS}_T = \\sum_{r=1}^R \\sum_{c=1}^C \\sum_{i=1}^N \\left( Y_{rci} - "
 "\\bar{Y}_{..}\\right)^2\n"
@@ -767,7 +767,7 @@ msgstr ""
 "\\bar{Y}_{..}\\right)^2\n"
 "\n"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:474
+#: ../../Ch14/Ch14_ANOVA2_01.rst:476
 msgid ""
 "The “triple summation” here looks more complicated than it is. In the first "
 "two summations, we’re summing across all levels of Factor A (i.e., over all "
@@ -779,7 +779,7 @@ msgid ""
 "combinations)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:482
+#: ../../Ch14/Ch14_ANOVA2_01.rst:484
 msgid ""
 "At this point, we know the total variability of the outcome variable SS\\ :"
 "sub:`T`, and we know how much of that variability can be attributed to "
@@ -789,11 +789,11 @@ msgid ""
 "In other words"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:489
+#: ../../Ch14/Ch14_ANOVA2_01.rst:491
 msgid "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B`)"
 msgstr "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B`)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:491
+#: ../../Ch14/Ch14_ANOVA2_01.rst:493
 msgid ""
 "Of course, there is a formula that you can use to calculate the residual SS "
 "directly, but I think that it makes more conceptual sense to think of it "
@@ -808,7 +808,7 @@ msgid ""
 "thing under the hood."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:504
+#: ../../Ch14/Ch14_ANOVA2_01.rst:506
 msgid ""
 "In any case, it’s probably worth taking a moment to check that we can "
 "calculate SS\\ :sub:`R` using this formula and verify that we do obtain the "
@@ -829,26 +829,26 @@ msgid ""
 "above."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:521
+#: ../../Ch14/Ch14_ANOVA2_01.rst:523
 msgid "SS\\ :sub:`R` = 4.845 - (3.453 + 0.467)"
 msgstr "SS\\ :sub:`R` = 4.845 - (3.453 + 0.467)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:522
+#: ../../Ch14/Ch14_ANOVA2_01.rst:524
 msgid "SS\\ :sub:`R` = 0.924"
 msgstr "SS\\ :sub:`R` = 0.924"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:524
+#: ../../Ch14/Ch14_ANOVA2_01.rst:526
 msgid ""
 "Alternatively, we can create another computed variable with the name "
 "``SS_R`` and the formula ``VSUM(sq_res_T) - (VSUM(sq_res_A) + "
 "VSUM(sq_res_B))``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:528
+#: ../../Ch14/Ch14_ANOVA2_01.rst:530
 msgid "What are our degrees of freedom?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:530
+#: ../../Ch14/Ch14_ANOVA2_01.rst:532
 msgid ""
 "The degrees of freedom are calculated in much the same way as for one-way "
 "ANOVA. For any given factor, the degrees of freedom is equal to the number "
@@ -856,28 +856,27 @@ msgid ""
 "the column variable Factor B). So, for the ``drug`` factor we obtain *df* = "
 "2, and for the ``therapy`` factor we obtain *df* = 1. Later on, when we "
 "discuss the interpretation of ANOVA as a regression model (see section :doc:"
-"`ANOVA as a linear model <../Ch14/Ch14_ANOVA2_07>`), I’ll give a clearer "
-"statement of how we arrive at this number. But for the moment we can use the "
-"simple definition of degrees of freedom, namely that the degrees of freedom "
-"equals the number of quantities that are observed, minus the number of "
-"constraints. So, for the ``drug`` factor, we observe 3 separate group means, "
-"but these are constrained by 1 grand mean, and therefore the degrees of "
-"freedom is 2. For the residuals, the logic is similar, but not quite the "
-"same. The total number of observations in our experiment is 18. The "
-"constraints correspond to 1 grand mean, the 2 additional group means that "
-"the ``drug`` factor introduces, and the 1 additional group mean that the the "
-"``therapy`` factor introduces, and so our degrees of freedom is 14. As a "
-"formula, this is *N* - 1 - (*R* - 1) - (*C* - 1), which simplifies to *N* - "
-"*R* - *C* + 1."
+"`ANOVA as a linear model <Ch14_ANOVA2_07>`), I’ll give a clearer statement "
+"of how we arrive at this number. But for the moment we can use the simple "
+"definition of degrees of freedom, namely that the degrees of freedom equals "
+"the number of quantities that are observed, minus the number of constraints. "
+"So, for the ``drug`` factor, we observe 3 separate group means, but these "
+"are constrained by 1 grand mean, and therefore the degrees of freedom is 2. "
+"For the residuals, the logic is similar, but not quite the same. The total "
+"number of observations in our experiment is 18. The constraints correspond "
+"to 1 grand mean, the 2 additional group means that the ``drug`` factor "
+"introduces, and the 1 additional group mean that the the ``therapy`` factor "
+"introduces, and so our degrees of freedom is 14. As a formula, this is *N* - "
+"1 - (*R* - 1) - (*C* - 1), which simplifies to *N* - *R* - *C* + 1."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:549
+#: ../../Ch14/Ch14_ANOVA2_01.rst:551
 msgid ""
 "Using the degrees of freedom and the square sums we calculated above, we can "
 "calculate the following *F*-values for the factors A and B."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:552
+#: ../../Ch14/Ch14_ANOVA2_01.rst:554
 msgid ""
 "F\\ :sub:`A` = (SS\\ :sub:`A` / SS\\ :sub:`A`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
@@ -885,19 +884,19 @@ msgstr ""
 "F\\ :sub:`A` = (SS\\ :sub:`A` / SS\\ :sub:`A`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:553
+#: ../../Ch14/Ch14_ANOVA2_01.rst:555
 msgid "F\\ :sub:`A` = (3.453 / 2) / (0.924 / 14)"
 msgstr "F\\ :sub:`A` = (3.453 / 2) / (0.924 / 14)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:554
+#: ../../Ch14/Ch14_ANOVA2_01.rst:556
 msgid "F\\ :sub:`A` = 1.727 / 0.066"
 msgstr "F\\ :sub:`A` = 1.727 / 0.066"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:555
+#: ../../Ch14/Ch14_ANOVA2_01.rst:557
 msgid "F\\ :sub:`A` = 26.149"
 msgstr "F\\ :sub:`A` = 26.149"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:557
+#: ../../Ch14/Ch14_ANOVA2_01.rst:559
 msgid ""
 "F\\ :sub:`B` = (SS\\ :sub:`B` / SS\\ :sub:`B`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
@@ -905,19 +904,19 @@ msgstr ""
 "F\\ :sub:`B` = (SS\\ :sub:`B` / SS\\ :sub:`B`) / (SS\\ :sub:`R` / SS\\ :sub:"
 "`R`)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:558
+#: ../../Ch14/Ch14_ANOVA2_01.rst:560
 msgid "F\\ :sub:`B` = (0.467 / 1) / (0.924 / 14)"
 msgstr "F\\ :sub:`B` = (0.467 / 1) / (0.924 / 14)"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:559
+#: ../../Ch14/Ch14_ANOVA2_01.rst:561
 msgid "F\\ :sub:`B` = 0.467 / 0.066"
 msgstr "F\\ :sub:`B` = 0.467 / 0.066"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:560
+#: ../../Ch14/Ch14_ANOVA2_01.rst:562
 msgid "F\\ :sub:`B` = 7.076"
 msgstr "F\\ :sub:`B` = 7.076"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:562
+#: ../../Ch14/Ch14_ANOVA2_01.rst:564
 msgid ""
 "Again, we can also create two new computed variables, the first with the "
 "name ``F_A`` and the formula ``(VSUM(sq_res_A) / 2) / (SS_R / 14)``, and the "
@@ -925,18 +924,18 @@ msgid ""
 "(SS_R / 14)``."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:566
+#: ../../Ch14/Ch14_ANOVA2_01.rst:568
 msgid ""
 "Those, who don't want to have a go themselves or can't reproduce the "
 "calculations described in the previous paragraphs can download and open the |"
 "clinicaltrial_factorialanova|_ data set and look at the calculations there."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:571
+#: ../../Ch14/Ch14_ANOVA2_01.rst:573
 msgid "Factorial ANOVA versus one-way ANOVAs"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:573
+#: ../../Ch14/Ch14_ANOVA2_01.rst:575
 msgid ""
 "Now that we’ve seen *how* a factorial ANOVA works, it’s worth taking a "
 "moment to compare it to the results of the one-way analyses, because this "
@@ -945,8 +944,8 @@ msgid ""
 "<../Ch13/Ch13_ANOVA>`, I ran a one-way ANOVA that looked to see if there are "
 "any differences between the three levels of ``drug``, and a second one-way "
 "ANOVA to see if there were any differences between the two levels of "
-"``therapy``. As we saw in section :doc:`What hypotheses are we testing? <../"
-"Ch14/Ch14_ANOVA2_01>`, the null and alternative hypotheses tested by the one-"
+"``therapy``. As we saw in section :ref:`What hypotheses are we testing? "
+"<what_hypotheses>`, the null and alternative hypotheses tested by the one-"
 "way ANOVAs are in fact identical to the hypotheses tested by the factorial "
 "ANOVA. Looking even more carefully at the ANOVA tables, we can see that the "
 "sum of squares associated with the factors are identical in the two "
@@ -960,7 +959,7 @@ msgid ""
 "significant effect (p = 0.019). The two analyses are clearly not the same."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:593
+#: ../../Ch14/Ch14_ANOVA2_01.rst:595
 msgid ""
 "Why does that happen? The answer lies in understanding how the *residuals* "
 "are calculated. Recall that the whole idea behind an *F*-test is to compare "
@@ -981,11 +980,11 @@ msgid ""
 "you shouldn’t do is drop variables that actually make a difference!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:617
+#: ../../Ch14/Ch14_ANOVA2_01.rst:619
 msgid "Four different outcomes for a 2 × 2 ANOVA"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:617
+#: ../../Ch14/Ch14_ANOVA2_01.rst:619
 msgid ""
 "The four different outcomes for a 2 × 2 ANOVA when no interactions are "
 "present. In the top-left panel, we see a main effect of Factor A and no "
@@ -995,11 +994,11 @@ msgid ""
 "factor has an effect."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:627
+#: ../../Ch14/Ch14_ANOVA2_01.rst:629
 msgid "What kinds of outcomes does this analysis capture?"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:629
+#: ../../Ch14/Ch14_ANOVA2_01.rst:631
 msgid ""
 "The ANOVA model that we’ve been talking about so far covers a range of "
 "different patterns that we might observe in our data. For instance, in a two-"
@@ -1009,7 +1008,7 @@ msgid ""
 "B matter (bottom-left), and (4) neither A nor B matters (bottom-right)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:639
+#: ../../Ch14/Ch14_ANOVA2_01.rst:641
 msgid ""
 "The nice thing about the subscript notation is that it generalises nicely. "
 "If our experiment had involved a third factor, then we could just add a "
@@ -1018,7 +1017,7 @@ msgid ""
 "involving more than two factors, and never more than three."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:647
+#: ../../Ch14/Ch14_ANOVA2_01.rst:649
 msgid ""
 "Technically, marginalising isn’t quite identical to a regular mean. It’s a "
 "weighted average where you take into account the frequency of the different "
@@ -1028,7 +1027,7 @@ msgid ""
 "our calculations become a real headache. But let’s ignore this for now."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:656
+#: ../../Ch14/Ch14_ANOVA2_01.rst:658
 msgid "English translation: “least tedious”."
 msgstr ""
 
@@ -1425,11 +1424,11 @@ msgid ""
 "(say) ``drug``, it doesn’t tell you anything about how the levels of "
 "``drug`` are different to one another. To find that out, you need to run "
 "additional analyses. We’ll talk about some analyses that you can run in "
-"sections :doc:`Different ways to specify contrasts <../Ch14/Ch14_ANOVA2_08>` "
-"and :doc:`Post-hoc tests <../Ch14/Ch14_ANOVA2_09>`. The same is true for "
-"interaction effects. Knowing that there’s a significant interaction doesn’t "
-"tell you anything about what kind of interaction exists. Again, you’ll need "
-"to run additional analyses."
+"sections :doc:`Different ways to specify contrasts <Ch14_ANOVA2_08>` and :"
+"doc:`Post-hoc tests <Ch14_ANOVA2_09>`. The same is true for interaction "
+"effects. Knowing that there’s a significant interaction doesn’t tell you "
+"anything about what kind of interaction exists. Again, you’ll need to run "
+"additional analyses."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:267
@@ -1446,13 +1445,13 @@ msgid ""
 "they say this is that, although the tests of the main effects are perfectly "
 "valid from a mathematical point of view, when there is a significant "
 "interaction effect the main effects rarely test interesting hypotheses. "
-"Recall from section :doc:`What hypotheses are we testing? <../Ch14/"
-"Ch14_ANOVA2_01>` that the null hypothesis for a main effect is that the "
-"*marginal means* are equal to each other, and that a marginal mean is formed "
-"by averaging across several different groups. But if you have a significant "
-"interaction effect then you *know* that the groups that comprise the "
-"marginal mean aren’t homogeneous, so it’s not really obvious why you would "
-"even care about those marginal means."
+"Recall from section :ref:`What hypotheses are we testing? <what_hypotheses>` "
+"that the null hypothesis for a main effect is that the *marginal means* are "
+"equal to each other, and that a marginal mean is formed by averaging across "
+"several different groups. But if you have a significant interaction effect "
+"then you *know* that the groups that comprise the marginal mean aren’t "
+"homogeneous, so it’s not really obvious why you would even care about those "
+"marginal means."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:286
@@ -1726,9 +1725,9 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:26
 msgid ""
-"As mentioned in section :doc:`Checking the homogeneity of variance "
-"assumption <../Ch13/Ch13_ANOVA_06>`, it’s a good idea to visually inspect a "
-"plot of the standard deviations compared across different groups / "
+"As mentioned in subsection :ref:`Checking the homogeneity of variance "
+"assumption <homogeneity_of_variance_anova>`, it’s a good idea to visually "
+"inspect a plot of the standard deviations compared across different groups / "
 "categories, and also see if the Levene test is consistent with the visual "
 "inspection. The theory behind the Levene test was discussed in that section, "
 "so I won’t discuss it again. This test expects that you have a saturated "
@@ -1743,21 +1742,20 @@ msgid ""
 "homogeneity of variance assumption is not violated."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_04.rst:47
+#: ../../Ch14/Ch14_ANOVA2_04.rst:48
 msgid "Checking assumptions in an ANOVA model"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_04.rst:52
+#: ../../Ch14/Ch14_ANOVA2_04.rst:53
 msgid "Normality of residuals"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_04.rst:54
+#: ../../Ch14/Ch14_ANOVA2_04.rst:55
 msgid ""
 "As with one-way ANOVA we can test for the normality of residuals in a "
-"straightforward fashion (see :doc:`Checking the normality assumption <../"
-"Ch13/Ch13_ANOVA_06>`). Primarily though, it’s generally a good idea to "
-"examine the residuals graphically using a QQ-plot. See :numref:`fig-"
-"factorialanova5`."
+"straightforward fashion (see :ref:`Checking the normality assumption "
+"<normality_anova>`). Primarily though, it’s generally a good idea to examine "
+"the residuals graphically using a QQ-plot. See :numref:`fig-factorialanova5`."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:4
@@ -2757,9 +2755,9 @@ msgid ""
 "matrix. In this section I discuss a few of the standard contrast matrices "
 "that statisticians use and how you can use them in jamovi. If you’re "
 "planning to read the section on unbalanced ANOVA later on (section :doc:"
-"`Factorial ANOVA 3: unbalanced designs <../Ch14/Ch14_ANOVA2_11>`), it’s "
-"worth reading this section carefully. If not, you can get away with skimming "
-"it, because the choice of contrasts doesn’t matter much for balanced designs."
+"`Factorial ANOVA 3: unbalanced designs <Ch14_ANOVA2_11>`), it’s worth "
+"reading this section carefully. If not, you can get away with skimming it, "
+"because the choice of contrasts doesn’t matter much for balanced designs."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:32
@@ -2840,9 +2838,9 @@ msgid ""
 "situations. It doesn’t matter very much if you have a balanced design, which "
 "we’ve been assuming so far, but it will turn out to be important later when "
 "we consider unbalanced designs in section :doc:`Factorial ANOVA 3: "
-"unbalanced designs <../Ch14/Ch14_ANOVA2_11>`. In fact, the main reason why "
-"I’ve even bothered to include this section is that contrasts become "
-"important if you want to understand unbalanced ANOVA."
+"unbalanced designs <Ch14_ANOVA2_11>`. In fact, the main reason why I’ve even "
+"bothered to include this section is that contrasts become important if you "
+"want to understand unbalanced ANOVA."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:113
@@ -3302,8 +3300,8 @@ msgid ""
 "*hypothesis testing strategies*. These different strategies lead to "
 "different SS values, to be sure, but it’s the strategy that is the important "
 "thing here, not the SS values themselves. Recall from section :doc:`ANOVA as "
-"a linear model <../Ch14/Ch14_ANOVA2_07>`, that any particular *F*-test is "
-"best thought of as a comparison between two linear models. So, when you’re "
+"a linear model <Ch14_ANOVA2_07>`, that any particular *F*-test is best "
+"thought of as a comparison between two linear models. So, when you’re "
 "looking at an ANOVA table, it helps to remember that each of those *F*-tests "
 "corresponds to a *pair* of models that are being compared. Of course, this "
 "leads naturally to the question of *which* pair of models is being compared. "
@@ -3668,8 +3666,8 @@ msgid ""
 "But be aware, one of the perverse features of the Type 3 testing strategy is "
 "that typically the results turn out to depend on the *contrasts* that you "
 "use to encode your factors (see section :doc:`Different ways to specify "
-"contrasts <../Ch14/Ch14_ANOVA2_08>` if you’ve forgotten what the different "
-"types of contrasts are).\\ [#]_"
+"contrasts <Ch14_ANOVA2_08>` if you’ve forgotten what the different types of "
+"contrasts are).\\ [#]_"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:371
@@ -4011,38 +4009,36 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:6
 msgid ""
-"Factorial ANOVA with balanced designs, :doc:`without interactions <../Ch14/"
-"Ch14_ANOVA2_01>` and :doc:`with interactions included <../Ch14/"
-"Ch14_ANOVA2_02>`"
+"Factorial ANOVA with balanced designs, :doc:`without interactions "
+"<Ch14_ANOVA2_01>` and :doc:`with interactions included <Ch14_ANOVA2_02>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:9
 msgid ""
 ":doc:`Effect size, estimated means, and confidence intervals in a factorial "
-"ANOVA <../Ch14/Ch14_ANOVA2_03>`"
+"ANOVA <Ch14_ANOVA2_03>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:12
-msgid ":doc:`Checking assumptions in the ANOVA <../Ch14/Ch14_ANOVA2_04>`"
+msgid ":doc:`Checking assumptions in the ANOVA <Ch14_ANOVA2_04>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:14
-msgid ":doc:`Analysis of Covariance (ANCOVA) <../Ch14/Ch14_ANOVA2_06>`"
+msgid ":doc:`Analysis of Covariance (ANCOVA) <Ch14_ANOVA2_06>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:16
 msgid ""
-":doc:`Understanding the linear model underlying ANOVA <../Ch14/"
-"Ch14_ANOVA2_07>`, including :doc:`different contrasts <../Ch14/"
-"Ch14_ANOVA2_08>`"
+":doc:`Understanding the linear model underlying ANOVA <Ch14_ANOVA2_07>`, "
+"including :doc:`different contrasts <Ch14_ANOVA2_08>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:19
 msgid ""
-":doc:`Post-hoc testing <../Ch14/Ch14_ANOVA2_09>` (using Tukey’s HSD) and a "
-"brief commentary on :doc:`planned comparisons <../Ch14/Ch14_ANOVA2_10>`"
+":doc:`Post-hoc testing <Ch14_ANOVA2_09>` (using Tukey’s HSD) and a brief "
+"commentary on :doc:`planned comparisons <Ch14_ANOVA2_10>`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
-msgid ":doc:`Factorial ANOVA with unbalanced designs <../Ch14/Ch14_ANOVA2_11>`"
+msgid ":doc:`Factorial ANOVA with unbalanced designs <Ch14_ANOVA2_11>`"
 msgstr ""

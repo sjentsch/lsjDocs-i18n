@@ -4,6 +4,13 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -14,29 +21,55 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
+# #-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # #-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
+"POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch05.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 15:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-11 15:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch05.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch05.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch05/Ch05_Graphics.rst:4
 msgid "Drawing graphs"
 msgstr "Diagramme erstellen"
 
-#: ../../Ch05/Ch05_Graphics.rst:0
+#: ../../Ch05/Ch05_Graphics.rst
 msgid "*Above all else show the data.*"
 msgstr "*Zeige vor allem die Daten.*"
 
@@ -295,7 +328,8 @@ msgstr ""
 "Betrachter zu überfordern. Und natürlich sind Histogramme nutzlos, wenn Ihre "
 "Daten nominal skaliert sind."
 
-#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:200
+#: ../../Ch05/Ch05_Graphics_1.rst:82 ../../Ch05/Ch05_Graphics_2.rst:202
+#: ../../Ch05/Ch05_Graphics_2.rst:200
 msgid "nominal"
 msgstr "nominal"
 
@@ -640,27 +674,27 @@ msgstr "Balkendiagramme"
 msgid ""
 "Another form of graph that you often want to plot is the **bar graph**. "
 "Let’s use the |afl.finalists|_ data set with the ``afl.finalists`` variable "
-"that I introduced in :doc:`Mode <../Ch04/Ch04_Descriptives_1>`. What I want "
-"to do is draw a bar graph that displays the number of finals that each team "
-"has played in over the time spanned by the |afl.finalists|_ data set. There "
-"are lots of teams, but I am particularly interested in just four: Brisbane, "
-"Carlton, Fremantle and Richmond. So the first step is to set up a filter so "
-"just those four teams are included in the bar graph. This is straightforward "
-"in jamovi and you can do it by using the ``Filters`` function that we used "
-"previously. Open up the ``Filters`` screen and type in the following:\\ [#]_"
+"that I introduced in :ref:`Mode <mode>`. What I want to do is draw a bar "
+"graph that displays the number of finals that each team has played in over "
+"the time spanned by the |afl.finalists|_ data set. There are lots of teams, "
+"but I am particularly interested in just four: Brisbane, Carlton, Fremantle "
+"and Richmond. So the first step is to set up a filter so just those four "
+"teams are included in the bar graph. This is straightforward in jamovi and "
+"you can do it by using the ``Filters`` function that we used previously. "
+"Open up the ``Filters`` screen and type in the following:\\ [#]_"
 msgstr ""
 "Ein anderes, häufig verwendetes Diagramm ist das **Balkendiagramm**. "
 "Verwenden wir dafür den Datensatz |afl.finalists|_ mit der Variablen ``afl."
-"finalists``, die ich im Abschnitt :doc:`Modalwert <../Ch04/"
-"Ch04_Descriptives_1>` eingeführt habe. Ich möchte ein Balkendiagramm "
-"zeichnen, das die Anzahl der Endspiele anzeigt, an denen jede Mannschaft im "
-"Laufe der Zeit, die der Datensatz |afl.finalists|_ umfasst, teilgenommen "
-"hat. Es gibt viele Mannschaften, aber ich interessiere mich vor allem für "
-"vier: Brisbane, Carlton, Fremantle und Richmond. Der erste Schritt besteht "
-"also darin, einen Filter einzurichten, damit nur diese vier Teams in das "
-"Balkendiagramm aufgenommen werden. Das ist in jamovi ganz einfach und kann "
-"mit der Funktion ``Filters`` gemacht werden, die wir zuvor verwendet haben. "
-"Öffnen Sie die ``Filters``-Eingabemaske und geben Sie Folgendes ein: \\ [#]_"
+"finalists``, die ich im Abschnitt :ref:`Modalwert <mode>` eingeführt habe. "
+"Ich möchte ein Balkendiagramm zeichnen, das die Anzahl der Endspiele "
+"anzeigt, an denen jede Mannschaft im Laufe der Zeit, die der Datensatz |afl."
+"finalists|_ umfasst, teilgenommen hat. Es gibt viele Mannschaften, aber ich "
+"interessiere mich vor allem für vier: Brisbane, Carlton, Fremantle und "
+"Richmond. Der erste Schritt besteht also darin, einen Filter einzurichten, "
+"damit nur diese vier Teams in das Balkendiagramm aufgenommen werden. Das ist "
+"in jamovi ganz einfach und kann mit der Funktion ``Filters`` gemacht werden, "
+"die wir zuvor verwendet haben. Öffnen Sie die ``Filters``-Eingabemaske und "
+"geben Sie Folgendes ein: \\ [#]_"
 
 #: ../../Ch05/Ch05_Graphics_3.rst:22
 msgid ""
@@ -690,18 +724,26 @@ msgstr ""
 "Filtern, um nur vier AFL-Teams einzuschließen, und Zeichnen eines "
 "Balkendiagramms in jamovi"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:40
+#: ../../Ch05/Ch05_Graphics_3.rst:42
+msgid "jamovi uses the symbol ``==`` here to mean “matches”."
+msgstr "jamovi verwendet das Symbol ``==`` für „Übereinstimmung“."
+
+#: ../../Ch05/Ch05_Graphics_4.rst:4
 msgid "Saving image files using jamovi"
 msgstr "Speichern von Bilddateien mit jamovi"
 
-#: ../../Ch05/Ch05_Graphics_3.rst:42
+#: ../../Ch05/Ch05_Graphics_4.rst:6
 msgid ""
 "Hold on, you might be thinking. What’s the good of being able to draw pretty "
 "pictures in jamovi if I can’t save them and send them to friends to brag "
 "about how awesome my data is? How do I save the picture? Simples. Just right "
 "click on the plot image and export it to a file, either as ``png``, ``eps`, "
 "``svg`` or ``pdf``. These formats all produce nice images that you can the "
-"send to your friends, or include in your assignments or manuscripts."
+"send to your friends, or include in your assignments or manuscripts. Whereas "
+"``png`` and ``pdf`` files are especially suited to share them with others (a "
+"lot of different software packages read them), are ``eps`` and ``svg`` files "
+"very suited to be edited (e.g., with `Inkscape <https://inkscape.org/>`__\\"
+"\\."
 msgstr ""
 "Moment mal, werden Sie vielleicht denken. Was nützt mir die Möglichkeit, in "
 "jamovi schöne Diagramme zu erstellen, wenn ich sie nicht speichern und an "
@@ -710,17 +752,17 @@ msgstr ""
 "Maustaste auf das Diagramm und exportiere es in eine Datei, entweder als "
 "``png``, ``eps``, ``svg`` oder ``pdf``. Alle diese Formate erlauben eine "
 "gute Darstellung Ihrer Diagramme, die Sie an Ihre Freunde schicken oder in "
-"Ihre Aufgaben oder Manuskripte einfügen können."
+"Ihre Aufgaben oder Manuskripte einfügen können. Dabei sind ``png``- und "
+"``pdf``-Dateien besonders gut geeignet, um sie mit anderen zu teilen (da "
+"viele verschiedene Softwarepakete sie lesen können), während sich ``eps``- "
+"und ``svg``-Dateien besonders gut zur Bearbeitung eignen (z.B. mit `Inkscape "
+"<https://inkscape.org/>`__\\."
 
-#: ../../Ch05/Ch05_Graphics_3.rst:52
-msgid "jamovi uses the symbol ``==`` here to mean “matches”."
-msgstr "jamovi verwendet das Symbol ``==`` für „Übereinstimmung“."
-
-#: ../../Ch05/Ch05_Graphics_4.rst:4
+#: ../../Ch05/Ch05_Graphics_5.rst:4
 msgid "Summary"
 msgstr "Zusammenfassung"
 
-#: ../../Ch05/Ch05_Graphics_4.rst:6
+#: ../../Ch05/Ch05_Graphics_5.rst:6
 msgid ""
 "Perhaps I’m a simple minded person, but I love pictures. Every time I write "
 "a new scientific paper one of the first things I do is sit down and think "
@@ -746,27 +788,26 @@ msgstr ""
 "sagt mehr als tausend Worte“. In diesem Sinne denke ich, dass dies eines der "
 "wichtigsten Kapitel des Buches ist. Die behandelten Themen waren:"
 
-#: ../../Ch05/Ch05_Graphics_4.rst:18
+#: ../../Ch05/Ch05_Graphics_5.rst:18
 msgid ""
 "*Common plots*. Much of the chapter was focused on standard graphs that "
-"statisticians like to produce: :doc:`histograms <../Ch05/Ch05_Graphics_1>`, :"
-"doc:`box plots <../Ch05/Ch05_Graphics_2>` and :doc:`bar graphs <../Ch05/"
-"Ch05_Graphics_3>`."
+"statisticians like to produce: :doc:`histograms <Ch05_Graphics_1>`, :doc:"
+"`box plots <Ch05_Graphics_2>` and :doc:`bar graphs <Ch05_Graphics_3>`."
 msgstr ""
 "*Oft genutzte Diagramme*. Ein Großteil des Kapitels konzentrierte sich auf "
-"Standarddiagramme, die Statistiker gerne erstellen: :doc:`Histogramme <../"
-"Ch05/Ch05_Graphics_1>`, :doc:`Box-Plots <../Ch05/Ch05_Graphics_2>` und :doc:"
-"`Balkendiagramme <../Ch05/Ch05_Graphics_3>`."
+"Standarddiagramme, die Statistiker gerne erstellen: :doc:`Histogramme "
+"<Ch05_Graphics_1>`, :doc:`Box-Plots <Ch05_Graphics_2>` und :doc:"
+"`Balkendiagramme <Ch05_Graphics_3>`."
 
-#: ../../Ch05/Ch05_Graphics_4.rst:23
+#: ../../Ch05/Ch05_Graphics_5.rst:23
 msgid ""
 "*Saving image files*. Importantly, we also covered how to :doc:`export your "
-"pictures <../Ch05/Ch05_Graphics_3>`."
+"pictures <Ch05_Graphics_4>`."
 msgstr ""
 "*Speichern von Bilddateien*. Wichtig ist auch, dass wir behandelt haben, wie "
-"Sie Ihre Bilder :doc:`exportieren <../Ch05/Ch05_Graphics_3>` können."
+"Sie Ihre Bilder :doc:`exportieren <Ch05_Graphics_4>` können."
 
-#: ../../Ch05/Ch05_Graphics_4.rst:26
+#: ../../Ch05/Ch05_Graphics_5.rst:26
 msgid ""
 "One final thing to point out. Whilst jamovi produces some really neat "
 "default graphics, editing the plots is currently not possible. For more "
