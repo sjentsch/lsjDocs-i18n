@@ -39,48 +39,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-11 18:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 15:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Other.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Other.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 15:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Other.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 18:36+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Other/Prologue.rst:5
@@ -823,12 +797,12 @@ msgstr ""
 
 #: ../../Other/References.rst:59
 msgid ""
-"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, "
-"40*\\ (3–4), 318–335. `https://doi.org/10.2307/2333350 <https://doi."
+"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, 40*"
+"\\ (3–4), 318–335. `https://doi.org/10.2307/2333350 <https://doi."
 "org/10.2307/2333350>`__"
 msgstr ""
-"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, "
-"40*\\ (3–4), 318–335. `https://doi.org/10.2307/2333350 <https://doi."
+"Box, G. E. P. (1953). Non-normality and tests on variances. *Biometrika, 40*"
+"\\ (3–4), 318–335. `https://doi.org/10.2307/2333350 <https://doi."
 "org/10.2307/2333350>`__"
 
 #: ../../Other/References.rst:65
@@ -948,13 +922,13 @@ msgstr ""
 #: ../../Other/References.rst:136
 msgid ""
 "Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict "
-"between logic and belief in syllogistic reasoning. *Memory & Cognition, "
-"11*\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
+"between logic and belief in syllogistic reasoning. *Memory & Cognition, 11*"
+"\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
 "org/10.3758/BF03196976>`__"
 msgstr ""
 "Evans, J. S. B. T., Barston, J. L., & Pollard, P. (1983). On the conflict "
-"between logic and belief in syllogistic reasoning. *Memory & Cognition, "
-"11*\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
+"between logic and belief in syllogistic reasoning. *Memory & Cognition, 11*"
+"\\ (3), 295–306. `https://doi.org/10.3758/BF03196976 <https://doi."
 "org/10.3758/BF03196976>`__"
 
 #: ../../Other/References.rst:143
@@ -1373,13 +1347,13 @@ msgstr ""
 
 #: ../../Other/References.rst:405
 msgid ""
-"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, "
-"103*\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 "
-"<https://doi.org/10.1126/science.103.2684.677>`__"
+"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, 103*"
+"\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 <https://"
+"doi.org/10.1126/science.103.2684.677>`__"
 msgstr ""
-"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, "
-"103*\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 "
-"<https://doi.org/10.1126/science.103.2684.677>`__"
+"Stevens, S. S. (1946). On the theory of scales of measurement. *Science, 103*"
+"\\ (2684), 677–680. `https://doi.org/10.1126/science.103.2684.677 <https://"
+"doi.org/10.1126/science.103.2684.677>`__"
 
 #: ../../Other/References.rst:411
 msgid ""
@@ -1440,13 +1414,13 @@ msgstr ""
 #: ../../Other/References.rst:447
 msgid ""
 "Yates, F. (1934). Contingency tables involving small numbers and the chi-"
-"squared test. *Supplement to the Journal of the Royal Statistical Society, "
-"1*\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
+"squared test. *Supplement to the Journal of the Royal Statistical Society, 1*"
+"\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
 "org/10.2307/2983604>`__"
 msgstr ""
 "Yates, F. (1934). Contingency tables involving small numbers and the chi-"
-"squared test. *Supplement to the Journal of the Royal Statistical Society, "
-"1*\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
+"squared test. *Supplement to the Journal of the Royal Statistical Society, 1*"
+"\\ (2), 217–235. `https://doi.org/10.2307/2983604 <https://doi."
 "org/10.2307/2983604>`__"
 
 #: ../../Other/StatTheory.rst:5
@@ -1496,7 +1470,7 @@ msgstr ""
 "Erfahrung habe ich gelernt, solche Dinge nie in Gegenwart von Philosophen zu "
 "sagen!"
 
-#: ../../Other/StatTheory.rst:26
+#: ../../Other/StatTheory.rst:27
 msgid "On the limits of logical reasoning"
 msgstr "Über die Grenzen des logischen Denkens"
 
@@ -1510,11 +1484,11 @@ msgstr ""
 "anderen Seite des Hügels liegt, oder, mit anderen Worten, aus dem, was wir "
 "wissen, das zu lernen, was wir nicht wissen.*"
 
-#: ../../Other/StatTheory.rst:39
+#: ../../Other/StatTheory.rst:40
 msgid "Arthur Wellesley, 1st Duke of Wellington"
 msgstr "Arthur Wellesley, 1st Duke of Wellington"
 
-#: ../../Other/StatTheory.rst:36
+#: ../../Other/StatTheory.rst:37
 msgid ""
 "I am told that `quote above <https://www.bartleby.com/344/400.html>`__ came "
 "about as a consequence of a carriage ride across the countryside. He and his "
@@ -1540,7 +1514,7 @@ msgstr ""
 "zurechtzukommen, müssen wir gut raten. Lassen Sie uns also selbst ein "
 "Ratespiel spielen."
 
-#: ../../Other/StatTheory.rst:47
+#: ../../Other/StatTheory.rst:48
 msgid ""
 "Suppose you and I are observing the Wellesley-Croker competition and after "
 "every three hills you and I have to predict who will win the next one, "
@@ -1554,11 +1528,11 @@ msgstr ""
 "Sieg von Wellesley und ``C`` auf einen Sieg von Croker hinweist. Nach drei "
 "Hügeln sieht unser Datensatz wie folgt aus:"
 
-#: ../../Other/StatTheory.rst:57
+#: ../../Other/StatTheory.rst:58
 msgid "Our conversation goes like this:"
 msgstr "Unser Gespräch verlief folgendermaßen:"
 
-#: ../../Other/StatTheory.rst:59
+#: ../../Other/StatTheory.rst:60
 msgid ""
 "Three in a row doesn’t mean much. I suppose Wellesley might be better at "
 "this than Croker, but it might just be luck. Still, I’m a bit of a gambler. "
@@ -1574,7 +1548,7 @@ msgstr ""
 "Zeitpunkt kann ich eine Wette nicht rechtfertigen. Tut mir leid. Keine Wette "
 "für mich."
 
-#: ../../Other/StatTheory.rst:66
+#: ../../Other/StatTheory.rst:67
 msgid ""
 "Your gamble paid off: three more hills go by and Wellesley wins all three. "
 "Going into the next round of our game the score is 1-0 in favour of you and "
@@ -1584,7 +1558,7 @@ msgstr ""
 "Wellesley gewinnt alle drei. In der nächsten Runde unseres Spiels steht es "
 "1:0 für Sie und unser Datensatz sieht wie folgt aus:"
 
-#: ../../Other/StatTheory.rst:74
+#: ../../Other/StatTheory.rst:75
 msgid ""
 "I’ve organised the data into blocks of three so that you can see which batch "
 "corresponds to the observations that we had available at each step in our "
@@ -1595,7 +1569,7 @@ msgstr ""
 "unserem kleinen Spiel zur Verfügung hatten. Nachdem wir einen neuen Block "
 "gesehen haben, geht unser Gespräch weiter:"
 
-#: ../../Other/StatTheory.rst:79
+#: ../../Other/StatTheory.rst:80
 msgid ""
 "Six wins in a row for Duke Wellesley. This is starting to feel a bit "
 "suspicious. I’m still not certain, but I reckon that he’s going to win the "
@@ -1613,7 +1587,7 @@ msgstr ""
 "aber meine Wette hat beim letzten Mal funktioniert und ich bin mit meiner "
 "Entscheidung zufrieden."
 
-#: ../../Other/StatTheory.rst:87
+#: ../../Other/StatTheory.rst:88
 msgid ""
 "For a second time you were right, and for a second time I was wrong. "
 "Wellesley wins the next three hills, extending his winning record against "
@@ -1624,11 +1598,11 @@ msgstr ""
 "gegen Croker auf 9:0 aus. Der Datensatz, der uns zur Verfügung steht, ist "
 "nun der folgende:"
 
-#: ../../Other/StatTheory.rst:95
+#: ../../Other/StatTheory.rst:96
 msgid "And our conversation goes like this:"
 msgstr "Und unser Gespräch setzt sich folgendermaßen fort:"
 
-#: ../../Other/StatTheory.rst:97
+#: ../../Other/StatTheory.rst:98
 msgid ""
 "Okay, this is pretty obvious. Wellesley is way better at this game. We both "
 "agree he’s going to win the next hill, right? Is there really any logical "
@@ -1676,7 +1650,7 @@ msgstr ""
 "Keine Wette. Ich verstehe, was Sie meinen, aber ich bin trotzdem bereit, es "
 "zu riskieren. Ich setze auf Wellesley."
 
-#: ../../Other/StatTheory.rst:120
+#: ../../Other/StatTheory.rst:121
 msgid ""
 "Wellesley’s winning streak continues for the next three hills. The score in "
 "the Wellesley-Croker game is now 12-0, and the score in our game is now 3-0. "
@@ -1687,11 +1661,11 @@ msgstr ""
 "Spiel ist jetzt 3:0. Wir nähern uns der vierten Runde unseres Spiels und "
 "unser Datensatz ist der folgende:"
 
-#: ../../Other/StatTheory.rst:129
+#: ../../Other/StatTheory.rst:130
 msgid "and the conversation continues:"
 msgstr "und das Gespräch geht weiter:"
 
-#: ../../Other/StatTheory.rst:131
+#: ../../Other/StatTheory.rst:132
 msgid ""
 "Oh yeah! Three more wins for Wellesley and another victory for me. Admit it, "
 "I was right about him! I guess we’re both betting on Wellesley this time "
@@ -1752,11 +1726,11 @@ msgstr ""
 "guter Beweis dafür ist, dass Sie besser sind in * Ihrem*? Okay, jetzt halte "
 "ich dich für einen Idioten. Ich sehe keinen logischen Beweis dafür."
 
-#: ../../Other/StatTheory.rst:162
+#: ../../Other/StatTheory.rst:163
 msgid "Learning without making assumptions is a myth"
 msgstr "Lernen, ohne Annahmen zu treffen, ist ein Mythos"
 
-#: ../../Other/StatTheory.rst:164
+#: ../../Other/StatTheory.rst:165
 msgid ""
 "There are lots of different ways in which we could dissect this dialogue, "
 "but since this is a statistics book pitched at psychologists and not an "
@@ -1781,7 +1755,7 @@ msgstr ""
 "auf Wellesley zu rechtfertigen, ohne sich auf eine Annahme zu stützen, für "
 "die man keine logische Begründung hat."
 
-#: ../../Other/StatTheory.rst:176
+#: ../../Other/StatTheory.rst:177
 msgid ""
 "The riddle of induction is most associated with the philosophical work of "
 "David Hume and more recently Nelson Goodman, but you can find examples of "
@@ -1830,7 +1804,7 @@ msgstr ""
 "besteht, diejenigen Möglichkeiten zu eliminieren, die mit den Beobachtungen "
 "faktisch unvereinbar sind."
 
-#: ../../Other/StatTheory.rst:199
+#: ../../Other/StatTheory.rst:200
 msgid ""
 "That sounds perfectly sensible on its own terms. In fact, it even sounds "
 "like the hallmark of good deductive reasoning. Like Sherlock Holmes, my "
@@ -1859,7 +1833,7 @@ msgstr ""
 "hatte als Croker. Hätten Sie sich auf eine weniger sinnvolle Annahme "
 "gestützt, hätten Sie das Spiel vielleicht nicht gewonnen."
 
-#: ../../Other/StatTheory.rst:213
+#: ../../Other/StatTheory.rst:214
 msgid ""
 "Ultimately there are two things you should take away from this. First, as "
 "I’ve said, you cannot avoid making assumptions if you want to learn anything "
