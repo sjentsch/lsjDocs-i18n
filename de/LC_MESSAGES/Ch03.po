@@ -19,7 +19,27 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -29,12 +49,19 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
+# #-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,17 +72,76 @@ msgstr ""
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 16:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
 msgid "Getting started with jamovi"
 msgstr "Die ersten Schritte mit jamovi"
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0
+#: ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
 msgstr "*Mit Robotern lässt es sich gut zusammen arbeiten.*"
 
@@ -451,7 +537,8 @@ msgstr ""
 "„weiblich“ enthalten. Mit dem Variablen-Editor können Sie diesen Werten "
 "schöne „menschenlesbare“ Bezeichnungen hinzufügen (mehr dazu später)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:317 ../../Ch03/Ch03_jamoviIntro_3.rst:114
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:319 ../../Ch03/Ch03_jamoviIntro_3.rst:114
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:317
 msgid "nominal"
 msgstr "nominal"
 
@@ -465,7 +552,8 @@ msgstr ""
 "Werte eine bestimmte Reihenfolge haben. Ein Beispiel ist eine Likert-Skala, "
 "bei der 3 für „stimme voll zu“ und -3 für „stimme überhaupt nicht zu“ steht."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:320 ../../Ch03/Ch03_jamoviIntro_3.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:322 ../../Ch03/Ch03_jamoviIntro_3.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:320
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -479,7 +567,8 @@ msgstr ""
 "kontinuierlichen Skala existieren. Beispiele hierfür sind Größe oder "
 "Gewicht. Man spricht auch von „Intervallskala“ oder „Verhältnisskala“."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:314 ../../Ch03/Ch03_jamoviIntro_3.rst:111
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:316 ../../Ch03/Ch03_jamoviIntro_3.rst:111
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:314
 msgid "continuous"
 msgstr "continuous"
 
@@ -592,8 +681,8 @@ msgid ""
 "of purposes, including log transforms, *z*-scores, sum-scores, negative "
 "scoring and means. There is another variable type, Transformed variables, "
 "that can be used to “recode” variables (e.g., when inverting items). This "
-"variable type is briefly described at the end of the section :doc:`EFA in "
-"jamovi <../Ch15/Ch15_FactorAnalysis_1>` and in :numref:`fig-efa7`."
+"variable type is briefly described at the end of the subsection :ref:"
+"`EFA_in_jamovi` and in :numref:`fig-efa7`."
 msgstr ""
 "Berechnete Variablen erhalten ihren Wert, indem sie eine Berechnung mit "
 "anderen Variablen durchführen. Berechnete Variablen können für eine Reihe "
@@ -602,8 +691,8 @@ msgstr ""
 "Invertieren von Variablen. Außerdem gibt es einen weiteren Variablentyp, "
 "transformierte Variablen, der zum „umkodieren“ von Variablen verwendet "
 "werden kann (z. B. beim Invertieren von Items). Dieser Variablentyp wird am "
-"Ende des Abschnitts :doc:`EFA in jamovi <../Ch15/Ch15_FactorAnalysis_1>` "
-"kurz beschrieben (siehe insbesondere :numref:`fig-efa7`)."
+"Ende des Teilabschnitts :ref:`EFA_in_jamovi` kurz beschrieben (siehe "
+"insbesondere :numref:`fig-efa7`)."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:105
 msgid ""
@@ -1141,6 +1230,7 @@ msgid "Installing add-on modules into jamovi"
 msgstr "Installation von Zusatzmodulen in jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
+#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "

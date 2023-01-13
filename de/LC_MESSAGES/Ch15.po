@@ -19,19 +19,29 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+# #-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,11 +52,47 @@ msgstr ""
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
 "#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch15.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "#-#-#-#-#  Ch15.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch15.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
@@ -82,37 +128,34 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis.rst:29
 msgid ""
 "In this chapter we will consider a number of different Factor Analysis and "
-"related techniques, starting with :doc:`Exploratory Factor Analysis "
-"<Ch15_FactorAnalysis_1>` (EFA). EFA is a statistical technique for "
-"identifying underlying latent factors in a data set. In the next section, we "
-"will cover :doc:`Principal Component Analysis <Ch15_FactorAnalysis_2>` (PCA) "
+"related techniques, starting with :doc:`Ch15_FactorAnalysis_1` (EFA). EFA is "
+"a statistical technique for identifying underlying latent factors in a data "
+"set. In the next section, we will cover :doc:`Ch15_FactorAnalysis_2` (PCA) "
 "which is a data reduction technique which, strictly speaking, does not "
 "identify underlying latent factors. Instead, PCA simply produces a linear "
 "combination of observed variables. Following this, the section :doc:"
-"`Confirmatory Factor Analysis <Ch15_FactorAnalysis_3>` (CFA) shows that, "
-"unlike EFA, with CFA you start with an idea - a model - of how the variables "
-"in your data are related to each other. You then test your model against the "
-"observed data and assess how good a fit the model is. Finally, we introduce :"
-"doc:`Internal consistency reliability analysis <Ch15_FactorAnalysis_4>` "
-"which tests how consistently a scale measures a psychological construct."
+"`Ch15_FactorAnalysis_3` (CFA) shows that, unlike EFA, with CFA you start "
+"with an idea - a model - of how the variables in your data are related to "
+"each other. You then test your model against the observed data and assess "
+"how good a fit the model is. Finally, we introduce :doc:"
+"`Ch15_FactorAnalysis_4` which tests how consistently a scale measures a "
+"psychological construct."
 msgstr ""
 "In diesem Kapitel werden wir eine Reihe unterschiedlicher "
 "faktorenanalytischer Techniken betrachten. Wir beginnen mit der :doc:"
-"`Explorativen Faktorenanalyse <Ch15_FactorAnalysis_1>` (EFA). Die EFA ist "
-"ein statistisches Verfahren, um latente Faktoren in einem Datensatz zu "
-"identifizieren. Im nächsten Abschnitt geht es um die :doc:"
-"`Hauptkomponentenanalyse <Ch15_FactorAnalysis_2>` (PCA; *principal component "
+"`Ch15_FactorAnalysis_1` (EFA). Die EFA ist ein statistisches Verfahren, um "
+"latente Faktoren in einem Datensatz zu identifizieren. Im nächsten Abschnitt "
+"geht es um die :doc:`Ch15_FactorAnalysis_2` (PCA; *principal component "
 "analysis*), ein Verfahren, das streng genommen keine latenten Faktoren "
 "ermittelt, sondern zur Datenreduzierung verwendet werden kann. Dabei wird "
 "durch die PCA einfach eine Linearkombination der beobachteten Variablen "
-"erstellt. Der darauf folgende Abschnitt :doc:`Konfirmatorische "
-"Faktorenanalyse <Ch15_FactorAnalysis_3>` (CFA; *confirmatory factor "
-"analysis*) zeigt, dass Sie bei der CFA im Gegensatz zur EFA mit einer "
-"Vorstellung – einem Modell – davon beginnen, wie die Variablen in Ihren "
-"Daten miteinander in Beziehung stehen. Dann testet man das Modell anhand der "
-"beobachteten Daten und bewertet, wie gut das Modell passt. Zum Schluss "
-"stellen wir die :doc:`Reliabilitätsanalyse <Ch15_FactorAnalysis_4>` vor, die "
-"prüft, wie konsistent eine Skala ein psychologisches Konstrukt misst."
+"erstellt. Der darauf folgende Abschnitt :doc:`Ch15_FactorAnalysis_3` (CFA; "
+"*confirmatory factor analysis*) zeigt, dass Sie bei der CFA im Gegensatz zur "
+"EFA mit einer Vorstellung – einem Modell – davon beginnen, wie die Variablen "
+"in Ihren Daten miteinander in Beziehung stehen. Dann testet man das Modell "
+"anhand der beobachteten Daten und bewertet, wie gut das Modell passt. Zum "
+"Schluss stellen wir die :doc:`Ch15_FactorAnalysis_4` vor, die prüft, wie "
+"konsistent eine Skala ein psychologisches Konstrukt misst."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:4
 msgid "Exploratory Factor Analysis"
@@ -412,11 +455,11 @@ msgstr ""
 "vorgreifen, sondern uns darauf konzentrieren, eine EFA in jamovi "
 "durchzuführen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:147
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid "EFA in jamovi"
 msgstr "EFA in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:151
 msgid ""
 "First, we need some data. Twenty-five personality self-report items (see :"
 "numref:`tab-bfi`) taken from the International Personality Item Pool "
@@ -438,7 +481,7 @@ msgstr ""
 "Verträglichkeit, Gewissenhaftigkeit, Extraversion, Neurotizismus und "
 "Offenheit (für Erfahrungen)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:159
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:161
 msgid ""
 "Twenty-five observed variable items organised by five putative personality "
 "factors in the |bfi_sample|_ data set. If there is an R in the second "
@@ -448,253 +491,253 @@ msgstr ""
 "Persönlichkeitsdimensionen im Datensatz |bfi_sample|_. Wenn in der zweiten "
 "Spalte ein R steht, ist das Item invertiert."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:165
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Name"
 msgstr "Name"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:165
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Question / Item"
 msgstr "Frage / Item"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "A1"
 msgstr "A1"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "R"
 msgstr "R"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Am indifferent to the feelings of others."
 msgstr "Gleichgültig gegenüber den Gefühlen anderer."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A2"
 msgstr "A2"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "Inquire about others' well-being."
 msgstr "Sich nach dem Wohlbefinden anderer erkundigen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "A3"
 msgstr "A3"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Know how to comfort others."
 msgstr "Wissen, wie Sie andere trösten können."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A4"
 msgstr "A4"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "Love children."
 msgstr "Kinder lieben."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "A5"
 msgstr "A5"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Make people feel at ease."
 msgstr "Dafür sorgen, dass sich die Menschen wohlfühlen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C1"
 msgstr "C1"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Am exacting in my work."
 msgstr "Anspruchsvoll in meiner Arbeit sein."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C2"
 msgstr "C2"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Continue until everything is perfect."
 msgstr "Fortfahren, bis alles perfekt ist."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C3"
 msgstr "C3"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things according to a plan."
 msgstr "Dinge entsprechend einem Plan erledigen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C4"
 msgstr "C4"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Do things in a half-way manner."
 msgstr "Dinge nur mit halber Kraft erledigen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "C5"
 msgstr "C5"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Waste my time."
 msgstr "Zeit verschwenden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E1"
 msgstr "E1"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "Don't talk a lot."
 msgstr "Nicht viel reden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "E2"
 msgstr "E2"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Find it difficult to approach others."
 msgstr "Es schwierig finden, auf andere zuzugehen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E3"
 msgstr "E3"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Know how to captivate people."
 msgstr "Wissen, wie man Menschen fesselt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E4"
 msgstr "E4"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Make friends easily."
 msgstr "Leicht Freunde finden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "E5"
 msgstr "E5"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "Take charge."
 msgstr "Verantwortung übernehmen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "N1"
 msgstr "N1"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get angry easily."
 msgstr "Leicht wütend werden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N2"
 msgstr "N2"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Get irritated easily."
 msgstr "Leicht gereizt werden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N3"
 msgstr "N3"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "Have frequent mood swings."
 msgstr "Häufige Stimmungsschwankungen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "N4"
 msgstr "N4"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Often feel blue."
 msgstr "Sich oft traurig fühlen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "N5"
 msgstr "N5"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "Panic easily."
 msgstr "Leicht in Panik geraten."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "O1"
 msgstr "O1"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "Am full of ideas."
 msgstr "Voller Ideen stecken."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "O2"
 msgstr "O2"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "Avoid difficult reading material."
 msgstr "Schwierigen Lesestoff vermeiden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "O3"
 msgstr "O3"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Carry the conversation to a higher level."
 msgstr "Gespräche auf ein höheres Niveau bringen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O4"
 msgstr "O4"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Spend time reflecting on things."
 msgstr "Zeit damit verbringen, über Dinge nachzudenken."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "O5"
 msgstr "O5"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "Will not probe deeply into a subject."
 msgstr "Nicht tief in ein Thema eindringen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:219
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:221
 msgid "The item data were collected using a 6-point response scale:"
 msgstr "Die Daten wurden mit Hilfe einer 6-stufigen Antwortskala erhoben:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:221
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:223
 msgid "Very Inaccurate"
 msgstr "Trifft überhaupt nicht zu"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:223
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:225
 msgid "Moderately Inaccurate"
 msgstr "Trifft nicht zu"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:225
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:227
 msgid "Slightly Inaccurate"
 msgstr "Trifft eher nicht zu"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:227
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:229
 msgid "Slightly Accurate"
 msgstr "Trifft eher zu"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:229
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:231
 msgid "Moderately Accurate"
 msgstr "Trifft zu"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:231
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:233
 msgid "Very Accurate."
 msgstr "Trifft absolut zu."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:233
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:235
 msgid ""
 "A sample of *N* = 250 responses is contained in the |bfi_sample|_ data set. "
 "In addition to the items, there are three further columns in the data set: "
@@ -706,7 +749,7 @@ msgstr ""
 "(die Teilnehmer-ID, eine fünfstellige Zahl) sowie das Alter (``age``) und "
 "das Geschlecht (``gender``) der Befragten."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:238
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:240
 msgid ""
 "As researchers, we are interested in exploring the data to see whether there "
 "are some underlying latent factors that are measured reasonably well by the "
@@ -727,18 +770,18 @@ msgstr ""
 "Faktorwerte zu berechnen, in diesem Fall werden kontinuierliche Variablen |"
 "continuous| benötigt). Um eine EFA in jamovi durchzuführen:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:604
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:606
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:141
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:610
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:612
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:246
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:248
 msgid ""
 "Select ``Factor`` → ``Exploratory Factor Analysis`` from the ``Analyses`` "
 "tab to open the options panel where you can determine the settings for the "
@@ -748,7 +791,7 @@ msgstr ""
 "Registerkarte ``Analyses``. Damit öffnet sich ein Optionsfeld, in dem Sie "
 "die Einstellungen für die EFA (:numref:`fig-efa2`) festlegen können."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:250
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:252
 msgid ""
 "Select the 25 personality questions and transfer them into the ``Variables`` "
 "box."
@@ -756,7 +799,7 @@ msgstr ""
 "Wählen Sie die 25 Persönlichkeitsfragen aus und übertragen Sie diese in das "
 "Feld ``Variables``."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:253
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:255
 msgid ""
 "Check appropriate options, including ``Assumption Checks``, but also "
 "``Rotation`` under ``Method``, ``Number of Factors`` to extract, and "
@@ -774,11 +817,11 @@ msgstr ""
 "in der Regel während der Analyse durch den Forscher angepasst werden, um ein "
 "optimales Ergebnis zu erhalten)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:267
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
 msgid "jamovi EFA analysis window"
 msgstr "EFA-Analysefenster in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:267
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
 msgid ""
 "Options panel with the settings for conducting an Exploratory Factor "
 "Analysis (EFA) in jamovi"
@@ -786,7 +829,7 @@ msgstr ""
 "Optionsfeld mit den Einstellungen zum Durchführen einer explorativen "
 "Faktorenanalyse (EFA) in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:272
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:274
 msgid ""
 "First, check the assumptions (:numref:`fig-efa3`). You can see that (1) "
 "Bartlett’s test of sphericity is significant, so this assumption is "
@@ -799,13 +842,13 @@ msgstr ""
 "(MSA) 0,81 beträgt, was darauf hindeutet, dass die Stichproben angemessen "
 "ist. Hier gibt es also keine Probleme!"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:283
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:285
 msgid "jamovi EFA assumption checks for the personality questionnaire data"
 msgstr ""
 "Überprüfen der Voraussetzungen für eine EFA für die Daten des "
 "Persönlichkeitsfragebogens in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:287
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:289
 msgid ""
 "The next thing to check is how many factors to use (or “extract” from the "
 "data). Three different approaches are available:"
@@ -813,7 +856,7 @@ msgstr ""
 "Als Nächstes ist zu prüfen, wie viele Faktoren verwendet (oder aus den Daten "
 "„extrahiert“) werden sollen. Es gibt drei verschiedene Ansätze:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:290
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:292
 msgid ""
 "One convention is to choose all components with Eigen values greater than 1."
 "\\ [#]_ This would give us four factors with our data (try it and see)."
@@ -822,7 +865,7 @@ msgstr ""
 "[#]_ auszuwählen. Damit würden wir aus unseren Daten vier Faktoren "
 "extrahieren (probieren Sie es aus)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:293
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:295
 msgid ""
 "Examination of the scree plot, as in :numref:`fig-efa4`, lets you identify "
 "the “point of inflection”. This is the point at which the slope of the scree "
@@ -839,7 +882,7 @@ msgstr ""
 "efa4` ist ein deutlicher Schritt von 5 auf 6 Faktoren zu erkennen, aber in "
 "anderen Scree-Plots, die Sie betrachten, ist dies nicht so eindeutig."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:300
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:302
 msgid ""
 "Using a parallel analysis technique, the obtained Eigen values are compared "
 "to those that would be obtained from random data. The number of factors "
@@ -852,11 +895,11 @@ msgstr ""
 "Eigenwerte, die größer sind als die, welche man mit Zufallsdaten erhalten "
 "würde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:311
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid "Scree plot of the personality data"
 msgstr "Scree-Plot der Persönlichkeitsdaten"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:311
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid ""
 "Scree plot of the personality data in the EFA in jamovi, showing a "
 "noticeable inflection and levelling off after point 5 (the “elbow”)"
@@ -864,7 +907,7 @@ msgstr ""
 "Scree-Plot der Persönlichkeitsdaten während der EFA in jamovi; nach Punkt 5 "
 "zeigt sich ein deutlicher Knick und eine Abflachung (der „Ellbogen“)"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:316
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:318
 msgid ""
 "The third approach is a good one according to :ref:`Fabrigar et al. (1999) "
 "<Fabrigar_1999>`, although in practice researchers tend to look at all three "
@@ -884,7 +927,7 @@ msgstr ""
 "auch Lösungen mit einer oder zwei Faktoren mehr oder weniger untersuchen. "
 "Sie entscheiden sich dann für die Lösung, die für sie am sinnvollsten ist."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:324
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:326
 msgid ""
 "At the same time, we should also consider the best way to rotate the final "
 "solution. There are two main approaches to rotation: orthogonal (e.g. "
@@ -903,7 +946,7 @@ msgstr ""
 "sind, sind nicht oft Dimensionen, von denen wir erwarten würden, dass sie "
 "orthogonal sind, so dass schiefwinklige Lösungen oft sinnvoller sind.\\ [#]_"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:332
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:334
 msgid ""
 "Practically, if in an oblique rotation the factors are found to be "
 "substantially correlated (positive or negative, and > 0.3), as in :numref:"
@@ -929,11 +972,11 @@ msgstr ""
 "durchführen (die dann ungefähr die gleiche Lösung wie die schiefwinklige "
 "Rotation ergeben sollte)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:349
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid "Factor summary statistics and correlations"
 msgstr "Zusammenfassende Statistiken und Korrelationen der Faktoren"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:349
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid ""
 "Factor summary statistics and correlations for a five factor solution in the "
 "EFA conducted in jamovi"
@@ -941,7 +984,8 @@ msgstr ""
 "Zusammenfassende Statistik der Faktoren und Korrelationen für eine EFA-"
 "Lösung mit fünf Faktoren in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:354
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:356
+#, python-format
 msgid ""
 "On checking the correlation between the extracted factors at least one "
 "correlation was greater than 0.3 (:numref:`fig-efa5`), so an oblique "
@@ -963,7 +1007,7 @@ msgstr ""
 "sehr gut; es wäre besser gewesen, wenn die Gesamtlösung einen größeren "
 "Anteil der Varianz in unseren Daten erklären würde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:364
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:366
 msgid ""
 "Be aware that in every EFA you could potentially have the same number of "
 "factors as observed variables, but every additional factor you include will "
@@ -986,7 +1030,7 @@ msgstr ""
 "diesen 25 Variablen zu erklären, dann sollten Sie eher die ursprünglichen 25 "
 "Variablen verwenden."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:373
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:375
 msgid ""
 ":numref:`fig-efa6` shows the factor loadings. That is, how the 25 different "
 "personality items load onto each of the five selected factors. We have "
@@ -998,16 +1042,16 @@ msgstr ""
 "haben Ladungen von weniger als 0,3 ausgeblendet (in den Optionen unter :"
 "numref:`fig-efa2` eingestellt)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:383
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid "Factor loadings for a five factor solution"
 msgstr "Faktorenladungen für eine Lösung mit fünf Faktoren"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:383
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid ""
 "Factor loadings for a five factor solution in the EFA conducted in jamovi"
 msgstr "Faktorladungen für eine EFA-Lösung mit fünf Faktoren in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:387
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:389
 msgid ""
 "For factors 1, 2, 3 and 4 the pattern of factor loadings closely matches the "
 "putative factors specified in :numref:`tab-bfi`. Phew! And factor 5 is "
@@ -1026,7 +1070,7 @@ msgstr ""
 "Faktor 4 (wenn auch mit einer relativ geringen Ladung), aber nicht "
 "wesentlich auf Faktor \\5 lädt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:395
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:397
 msgid ""
 "The other thing to note is that those variables that were denoted as “R: "
 "reverse coding” in :numref:`tab-bfi` are those that have negative factor "
@@ -1048,7 +1092,8 @@ msgstr ""
 "``A1`` negativ mit den anderen ``A``-Variablen korreliert und hat daher eine "
 "negative Faktorladung, wie in :numref:`fig-efa6` gezeigt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:405
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:407
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-efa6` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -1067,7 +1112,7 @@ msgstr ""
 "wird (35 %). Beachten Sie, dass die Relevanz bzw. der Beitrag der Variable "
 "im Faktorenmodell umso geringer ist, je höher die ``Uniqueness`` ist."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:413
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:415
 msgid ""
 "To be honest, it’s unusual to get such a neat solution in EFA. It’s "
 "typically quite a bit more messy than this, and often interpreting the "
@@ -1086,7 +1131,7 @@ msgstr ""
 "latente Faktoren sind, aber man weiß nicht so genau, welche Variablen zu "
 "welchem Faktor / welcher latenten Variablen gehören!"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:421
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:423
 msgid ""
 "So, we seem to have a pretty good five factor solution, albeit accounting "
 "for a relatively low overall proportion of the observed variance. Let’s "
@@ -1114,7 +1159,7 @@ msgstr ""
 "der einbezogenen Variablen basiert. Wir können dies in jamovi in zwei "
 "Schritten tun:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:433
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:435
 msgid ""
 "Recode ``A1`` into ``A1R`` by reverse scoring the values in the variable (i."
 "e. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) using the jamovi transform "
@@ -1124,7 +1169,7 @@ msgstr ""
 "(d.h. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) mit dem Befehl ``Transform "
 "variable`` in jamovi (siehe :numref:`fig-efa7`)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:437
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:439
 msgid ""
 "Compute a new variable, called ``Agreeableness``, by calculating the mean of "
 "``A1R``, ``A2``, ``A3``, ``A4`` and ``A5``. Do this using the jamovi "
@@ -1135,21 +1180,21 @@ msgstr ""
 "berechnen. Verwenden Sie den jamovi-Befehl ``Compute``, um eine neue "
 "Variable zu erstellen (siehe :numref:`fig-efa8`)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:447
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:449
 msgid "Recode variable using the Transform command in jamovi"
 msgstr "Umkodierung der Variablen mit dem jamovi-Befehl ``Transform Variable``"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:455
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable in jamovi"
 msgstr "Berechnung einer neuen Skalenwert-Variable in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:455
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable using a Computed variable in jamovi"
 msgstr ""
 "Berechnung einer neuen Skalenwert-Variable unter Verwendung einer "
 "berechneten Variable in jamovi"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:459
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:461
 msgid ""
 "Another option is to create an optimally-weighted factor score index. We can "
 "use the jamovi |Rj|_ editor to do this in ``R``.\\ [#]_ Again, there are two "
@@ -1159,7 +1204,7 @@ msgstr ""
 "Score zu erstellen. Dazu können wir in ``R``-Syntax innerhalb des jamovi |Rj|"
 "_-Editor verwenden.\\ [#]_ Auch hier sind zwei Schritte notwendig:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:463
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:465
 msgid ""
 "Use the |Rj|_ editor to run the EFA in ``R`` to the same specification as "
 "the one in jamovi (i.e., five factors and Oblimin rotation) and compute "
@@ -1172,7 +1217,7 @@ msgstr ""
 "den neuen Datensatz mit den Faktorergebnissen in einer Datei (siehe :numref:"
 "`fig-efa9`)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:468
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:470
 msgid ""
 "Open up the new file in jamovi (see :numref:`fig-efa10`) and check that "
 "variable types have been set correctly. Label the new factor score variables "
@@ -1186,13 +1231,13 @@ msgstr ""
 "oder -definitionen (Hinweis: Es ist möglich, dass die Faktoren nicht in der "
 "erwarteten Reihenfolge stehen, überprüfen Sie dies also unbedingt)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
 "|Rj|_\\ -Editor-Befehle für das Berechnen von optimal gewichteten Faktor-"
 "Scores"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:480
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid ""
 "|Rj|_ editor commands for creating optimally weighted factor scores for the "
 "five factor solution"
@@ -1200,11 +1245,11 @@ msgstr ""
 "|Rj|_\\ -Editor-Befehle für das Berechnen von optimal gewichteten Faktor-"
 "Scores für die Fünf-Faktoren-Lösung"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid "Newly created data file with new factor score variables"
 msgstr "Neu erstellte Datendatei mit neuen Faktor-Score-Variablen"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:489
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid ""
 "Newly created data file ``bfifactscores.csv`` created in the |Rj|_ editor, "
 "and containing the five factor score variables. Note that each of the new "
@@ -1216,7 +1261,7 @@ msgstr ""
 "jede der neuen Faktor-Score-Variablen entsprechend der Reihenfolge der "
 "Faktoren in der Tabelle der Faktorladungen beschriftet ist."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:496
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:498
 msgid ""
 "Now you can go ahead and undertake further analyses, using either the "
 "factor- based scores (a mean scale score approach) or using the optimally-"
@@ -1239,11 +1284,11 @@ msgstr ""
 "weniger verträglich sind als Frauen, war der Unterschied nicht signifikant "
 "(Mann-Whitney *U* = 5760.5, *p* = 0.073)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid "Gender differences in Agreeableness factor-based scores"
 msgstr "Geschlechtsspezifische Unterschiede für den Faktor „Verträglichkeit“"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:511
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid ""
 "Comparing differences in Agreeableness factor-based scores between males and "
 "females"
@@ -1251,11 +1296,11 @@ msgstr ""
 "Vergleich der Unterschiede zwischen Männern und Frauen in Bezug auf die "
 "Ausprägung auf dem Faktor „Verträglichkeit“"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:517
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
 msgid "Writing up an EFA"
 msgstr "Berichten einer EFA"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:521
 msgid ""
 "Hopefully, so far we have given you some sense of EFA and how to undertake "
 "EFA in jamovi. So, once you have completed your EFA, how do you write it up? "
@@ -1270,7 +1315,7 @@ msgstr ""
 "Forscher. Dennoch gibt es einige Informationen, die Sie in Ihren Bericht "
 "aufnehmen sollten:"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:525
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:527
 msgid ""
 "What are the theoretical underpinnings for the area you are studying, and "
 "specifically for the constructs that you are interested in uncovering "
@@ -1280,7 +1325,7 @@ msgstr ""
 "Gegenstand und insbesondere was sind die Konstrukte, die Sie mittels der EFA "
 "untersuchen möchten?"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:529
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:531
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
 msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
@@ -1289,7 +1334,7 @@ msgstr ""
 "Eine Beschreibung der Stichprobe (z. B. demografische Informationen, "
 "Stichprobengröße, Verfahren zur Stichprobenziehung)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:532
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:534
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
 msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
@@ -1298,12 +1343,12 @@ msgstr ""
 "Eine Beschreibung der Art der verwendeten Daten (z. B. nominal |nominal|, "
 "kontinuierlich |continuous|) sowie Deskriptivstatistik für diese Variablen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:607
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:609
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:535
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:537
 msgid ""
 "Describe how you went about testing the assumptions for EFA. Details "
 "regarding sphericity checks and measures of sampling adequacy should be "
@@ -1313,13 +1358,13 @@ msgstr ""
 "einer EFA vorgegangen sind. Dies sollte Details zu Sphärizitätsprüfungen "
 "(Bartlett) und Maßen der Stichprobenangemessenheit (KMO) umfassen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:539
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
 msgstr ""
 "Erläutern Sie, welche FA-Extraktionsmethode verwendet wurde (z. B. Maximum "
 "Likelihood)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:543
 msgid ""
 "Explain the criteria and process used for deciding how many factors were "
 "extracted in the final solution, and which items were selected. Clearly "
@@ -1330,7 +1375,7 @@ msgstr ""
 "Items ausgewählt wurden. Erläutern Sie klar die Gründe für wichtige "
 "Entscheidungen während dieses Auswahlprozesses."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:545
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:547
 msgid ""
 "Explain what rotation methods were attempted, the reasons why, and the "
 "results."
@@ -1338,7 +1383,7 @@ msgstr ""
 "Erläutern Sie, welche Rotationsmethoden ausprobiert wurden, die Gründe dafür "
 "und die Ergebnisse."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:548
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:550
 msgid ""
 "Final factor loadings should be reported in the results, in a table. This "
 "table should also report the uniqueness (or communality) for each variable "
@@ -1354,7 +1399,7 @@ msgstr ""
 "sollten ebenfalls angegeben werden, entweder am Ende dieser Tabelle oder in "
 "einer separaten Tabelle."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:554
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:556
 msgid ""
 "Meaningful names for the extracted factors should be provided. You may like "
 "to use previously selected factor names, but on examining the actual items "
@@ -1365,7 +1410,7 @@ msgstr ""
 "Es kann aber auch sein, dass Sie bei der Untersuchung der tatsächlichen "
 "Items und Faktoren denken, dass ein anderer Name besser geeignet ist."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:561
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:563
 msgid ""
 "Quite helpfully, factor loadings can be interpreted like standardized "
 "regression coefficients"
@@ -1373,7 +1418,7 @@ msgstr ""
 "Hilfreich ist, dass die Faktorladungen wie standardisierte "
 "Regressionskoeffizienten interpretiert werden können"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:565
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:567
 msgid ""
 "An Eigen value indicates how much of the variance in the observed variables "
 "a factor accounts for. A factor with an Eigen value > 1 accounts for more "
@@ -1383,7 +1428,7 @@ msgstr ""
 "ein Faktor ausmacht. Ein Faktor mit einem Eigenwert > 1 ist für mehr Varianz "
 "verantwortlich als eine einzelne beobachtete Variable"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:570
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:572
 msgid ""
 "Oblique rotations provide two factor matrices, one called a structure matrix "
 "and one called a pattern matrix. In jamovi just the pattern matrix is shown "
@@ -1410,7 +1455,7 @@ msgstr ""
 "(ähnlich wie standardisierte partielle Regressionskoeffizienten). Bei "
 "orthogonaler Rotation sind die Struktur- und Musterkoeffizienten identisch."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:584
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:586
 msgid ""
 "Sometimes reported in factor analysis is “communality” which is the amount "
 "of variance in a variable that is accounted for by the factor solution. "
@@ -1420,13 +1465,13 @@ msgstr ""
 "Anteil der Varianz in einer Variablen, der durch die Faktorenlösung erklärt "
 "wird. Die Uniqueness ist gleich (1 - Kommunalität)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:589
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:591
 msgid "Remembering to first reverse score some variables if necessary."
 msgstr ""
 "Denken Sie daran, dass Sie gegebenenfalls zunächst einige Variablen "
 "invertieren müssen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:592
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:594
 msgid ""
 "In the latest versions of jamovi you can now save factor scores directly "
 "from within jamovi - it's an option. But this explanation is helpful as it's "
@@ -1713,6 +1758,7 @@ msgstr ""
 "in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:140
+#, python-format
 msgid ""
 "In :numref:`fig-pca4` we also have the proportion of overall variance in the "
 "data that is accounted for by the two components. Components one and two "
@@ -1793,6 +1839,7 @@ msgstr ""
 "aber nicht wesentlich auf Komponente 5 lädt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:178
+#, python-format
 msgid ""
 "We can also see in :numref:`fig-pca1` the ``Uniqueness`` of each variable. "
 "Uniqueness is the proportion of variance that is “unique” to the variable "
@@ -2150,6 +2197,7 @@ msgstr ""
 "Daten fast immer ein großer und signifikanter (p < 0,05) χ²-Wert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
+#, python-format
 msgid ""
 "So, we need some other ways of assessing model fit. jamovi provides several "
 "by default. These are the Comparative Fit Index (CFI), the Tucker Lewis "
@@ -2169,13 +2217,14 @@ msgstr ""
 "< 0,05."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
+#, python-format
 msgid ""
 "So, looking at :numref:`fig-cfa3`, we can see that the χ²-value is large and "
 "highly significant. Our sample size is not too large, so this possibly "
 "indicates a poor fit. The CFI is 0.762 and the TLI is 0.731, indicating poor "
-"fit between the model and the data. The RMSEA is 0.085 with a 90\\% "
-"confidence interval from 0.077 to 0.092, again this does not indicate a good "
-"fit."
+"fit between the model and the data. The RMSEA is 0.085 with a 90\\"
+"% confidence interval from 0.077 to 0.092, again this does not indicate a "
+"good fit."
 msgstr ""
 "Wenn wir also :numref:`fig-cfa3` betrachten, können wir sehen, dass der χ²-"
 "Wert groß und hochsignifikant ist. Unsere Stichprobengröße ist nicht allzu "
@@ -2188,15 +2237,15 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:154
 msgid ""
 "Pretty disappointing, huh? But perhaps not too surprising given that in the "
-"earlier EFA, when we ran with a similar data set (section :doc:`Exploratory "
-"Factor Analysis <Ch15_FactorAnalysis_1>`), only around half of the variance "
-"in the data was accounted for by the five factor model."
+"earlier EFA, when we ran with a similar data set (section :doc:"
+"`Ch15_FactorAnalysis_1`), only around half of the variance in the data was "
+"accounted for by the five factor model."
 msgstr ""
 "Ziemlich enttäuschend, aber vielleicht nicht allzu überraschend, wenn man "
 "bedenkt, dass in der früheren EFA, die wir mit einem ähnlichen Datensatz "
-"durchgeführt haben (Abschnitt :doc:`Explorative Faktorenanalyse "
-"<Ch15_FactorAnalysis_1>`), nur etwa die Hälfte der Varianz in den Daten "
-"durch das Fünf-Faktoren-Modell aufgeklärt werden konnte."
+"durchgeführt haben (Abschnitt :doc:`Ch15_FactorAnalysis_1`), nur etwa die "
+"Hälfte der Varianz in den Daten durch das Fünf-Faktoren-Modell aufgeklärt "
+"werden konnte."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:159
 msgid ""
@@ -2513,26 +2562,25 @@ msgstr ""
 msgid ""
 "In psychometrics we use reliability analysis to provide information about "
 "how consistently a scale measures a psychological construct (see section :"
-"doc:`Assessing the reliability of a measurement <../Ch02/"
-"Ch02_StudyDesign_3>`). **Internal consistency** is what we are concerned "
-"with here, and that refers to the consistency across all the individual "
-"items that make up a measurement scale. So, if we have V1, V2, V3, V4 and V5 "
-"as observed item variables, then we can calculate a statistic that tells us "
-"how internally consistent these items are in measuring the underlying "
-"construct."
+"doc:`../Ch02/Ch02_StudyDesign_3`). **Internal consistency** is what we are "
+"concerned with here, and that refers to the consistency across all the "
+"individual items that make up a measurement scale. So, if we have V1, V2, "
+"V3, V4 and V5 as observed item variables, then we can calculate a statistic "
+"that tells us how internally consistent these items are in measuring the "
+"underlying construct."
 msgstr ""
 "Innerhalb der Psychometrie verwendet man die Reliabilitätsanalyse, um "
 "Informationen darüber zu erhalten, wie konsistent eine Skala ein "
-"psychologisches Konstrukt misst (siehe Abschnitt :doc:`Beurteilung der "
-"Zuverlässigkeit einer Messung <../Ch02/Ch02_StudyDesign_3>`). Wir befassen "
-"uns hier mit der **inneren Konsistenz**. Diese bezieht sich auf die "
-"Konsistenz aller einzelnen Items, aus denen eine Skala (oder ein gesamter "
-"Fragebogen) besteht. Wenn wir also V1, V2, V3, V4 und V5 als beobachtete "
-"Itemvariablen haben, dann können wir eine Statistik berechnen, die uns sagt, "
-"wie intern konsistent diese Items bei der Messung des zugrunde liegenden "
-"Konstrukts sind."
+"psychologisches Konstrukt misst (siehe Abschnitt :doc:`../Ch02/"
+"Ch02_StudyDesign_3`). Wir befassen uns hier mit der **inneren Konsistenz**. "
+"Diese bezieht sich auf die Konsistenz aller einzelnen Items, aus denen eine "
+"Skala (oder ein gesamter Fragebogen) besteht. Wenn wir also V1, V2, V3, V4 "
+"und V5 als beobachtete Itemvariablen haben, dann können wir eine Statistik "
+"berechnen, die uns sagt, wie intern konsistent diese Items bei der Messung "
+"des zugrunde liegenden Konstrukts sind."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
+#, python-format
 msgid ""
 "A popular statistic used to check the internal consistency of a scale is "
 "**Cronbach’s α** (alpha; :ref:`Cronbach, 1951 <Cronbach_1951>`). Cronbach’s "
@@ -2566,16 +2614,17 @@ msgstr ""
 "Ungenauigkeit oder Fehler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
+#, python-format
 msgid ""
 "BUT, (and that’s a BIG “BUT”), Cronbach’s α is not a measure of "
 "unidimensionality (i.e. an indicator that a scale is measuring a single "
 "factor or construct rather than multiple related constructs). Scales that "
 "are multidimensional will cause α to be under-estimated if not assessed "
 "separately for each dimension, but high values for α are not necessarily "
-"indicators of unidimensionality. So, an α of 0.80 does not mean that 80\\% "
-"of a single underlying construct is accounted for. It could be that the 80\\"
-"% comes from more than one underlying construct. That’s why EFA and CFA are "
-"useful to do first."
+"indicators of unidimensionality. So, an α of 0.80 does not mean that 80\\"
+"% of a single underlying construct is accounted for. It could be that the "
+"80\\% comes from more than one underlying construct. That’s why EFA and CFA "
+"are useful to do first."
 msgstr ""
 "ABER (und das ist ein GROSSES „ABER“): Cronbachs α ist kein Maß für "
 "Eindimensionalität (d. h. es ist *kein* Indikator dafür, ob eine Skala einen "
@@ -2633,6 +2682,7 @@ msgstr ""
 "ω vorzuziehen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
+#, python-format
 msgid ""
 "Sometimes a threshold for α or ω is provided, suggesting a “good enough” "
 "value. This might be something like αs of 0.70 or 0.80 representing "
@@ -2725,6 +2775,7 @@ msgstr ""
 "Reliabilitätsanalyse in jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
+#, python-format
 msgid ""
 "Once done, look across at the jamovi results window. You should see "
 "something like :numref:`fig-rel2`. This tells us that the Cronbach’s α "
@@ -2798,52 +2849,48 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:10
 msgid ""
-":doc:`Exploratory Factor Analysis <Ch15_FactorAnalysis_1>`  (EFA). EFA is a "
-"statistical technique for identifying underlying latent factors in a data "
-"set. Each observed variable is conceptualised as representing the latent "
-"factor to some extent, indicated by a factor loading. Researchers also use "
-"EFA as a way of data reduction, i.e. identifying observed variables than can "
-"be combined into new factor variables for subsequent analysis."
+":doc:`Ch15_FactorAnalysis_1` (EFA). EFA is a statistical technique for "
+"identifying underlying latent factors in a data set. Each observed variable "
+"is conceptualised as representing the latent factor to some extent, "
+"indicated by a factor loading. Researchers also use EFA as a way of data "
+"reduction, i.e. identifying observed variables than can be combined into new "
+"factor variables for subsequent analysis."
 msgstr ""
-":doc:`Explorative Faktorenanalyse <Ch15_FactorAnalysis_1>` (EFA), ein "
-"statistisches Verfahren zur Identifizierung von latenten Faktoren in einem "
-"Datensatz. Jede beobachtete Variable wird so konzipiert, dass sie den "
-"latenten Faktor bis zu einem gewissen Grad repräsentiert, was durch eine "
-"Faktorladung angezeigt wird. Forscher verwenden die EFA auch zur "
-"Datenreduzierung, d. h. zur Identifizierung von beobachteten Variablen, die "
-"für eine anschließende Analyse zu neuen Faktorvariablen kombiniert werden "
-"können."
+":doc:`Ch15_FactorAnalysis_1` (EFA), ein statistisches Verfahren zur "
+"Identifizierung von latenten Faktoren in einem Datensatz. Jede beobachtete "
+"Variable wird so konzipiert, dass sie den latenten Faktor bis zu einem "
+"gewissen Grad repräsentiert, was durch eine Faktorladung angezeigt wird. "
+"Forscher verwenden die EFA auch zur Datenreduzierung, d. h. zur "
+"Identifizierung von beobachteten Variablen, die für eine anschließende "
+"Analyse zu neuen Faktorvariablen kombiniert werden können."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:17
 msgid ""
-":doc:`Principal Component Analysis <Ch15_FactorAnalysis_2>` (PCA) is a data "
-"reduction technique which, strictly speaking, does not identify underlying "
-"latent factors. Instead, PCA simply produces a linear combination of "
-"observed variables."
+":doc:`Ch15_FactorAnalysis_2` (PCA) is a data reduction technique which, "
+"strictly speaking, does not identify underlying latent factors. Instead, PCA "
+"simply produces a linear combination of observed variables."
 msgstr ""
-":doc:`Hauptkomponentenanalyse <Ch15_FactorAnalysis_2>` (PCA), ein "
-"Datenreduktionsverfahren, das streng genommen keine zugrunde liegenden "
-"latenten Faktoren ermittelt. Stattdessen erzeugt die PCA einfach eine "
-"Linearkombination der beobachteten Variablen."
+":doc:`Ch15_FactorAnalysis_2` (PCA), ein Datenreduktionsverfahren, das streng "
+"genommen keine zugrunde liegenden latenten Faktoren ermittelt. Stattdessen "
+"erzeugt die PCA einfach eine Linearkombination der beobachteten Variablen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_5.rst:22
+#: ../../Ch15/Ch15_FactorAnalysis_5.rst:21
 msgid ""
-":doc:`Confirmatory Factor Analysis <Ch15_FactorAnalysis_3>` (CFA). Unlike "
-"EFA, with CFA you start with an idea - a model - of how the variables in "
-"your data are related to each other. You then test your model against the "
-"observed data and assess how good a fit the model is to the data."
+":doc:`Ch15_FactorAnalysis_3` (CFA). Unlike EFA, with CFA you start with an "
+"idea - a model - of how the variables in your data are related to each "
+"other. You then test your model against the observed data and assess how "
+"good a fit the model is to the data."
 msgstr ""
-":doc:`Konfirmatorische Faktorenanalyse <Ch15_FactorAnalysis_3>` (CFA), bei "
-"der man anders als bei der EFA von einer Vorstellung – einem Modell – davon "
-"ausgeht, wie die Variablen in den Daten zueinander in Beziehung stehen. "
-"Anschließend testen Sie dieses Modell anhand der beobachteten Daten und "
-"bewerten, wie gut das Modell mit den Daten übereinstimmt."
+":doc:`Ch15_FactorAnalysis_3` (CFA), bei der man anders als bei der EFA von "
+"einer Vorstellung – einem Modell – davon ausgeht, wie die Variablen in den "
+"Daten zueinander in Beziehung stehen. Anschließend testen Sie dieses Modell "
+"anhand der beobachteten Daten und bewerten, wie gut das Modell mit den Daten "
+"übereinstimmt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_5.rst:27
+#: ../../Ch15/Ch15_FactorAnalysis_5.rst:26
 msgid ""
-":doc:`Internal consistency reliability analysis <Ch15_FactorAnalysis_4>`. "
-"This form of reliability analysis tests how consistently a scale measures a "
-"measurement (psychological) construct."
+":doc:`Ch15_FactorAnalysis_4`. This form of reliability analysis tests how "
+"consistently a scale measures a measurement (psychological) construct."
 msgstr ""
-":doc:`Reliabilitätsanalyse <Ch15_FactorAnalysis_4>`, die prüft, wie "
-"konsistent eine Skala ein (psychologisches) Konstrukt misst."
+":doc:`Ch15_FactorAnalysis_4`, die prüft, wie konsistent eine Skala ein "
+"(psychologisches) Konstrukt misst."

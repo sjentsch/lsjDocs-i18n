@@ -1,5 +1,47 @@
 # #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -7,7 +49,6 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -15,12 +56,79 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# #-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,6 +143,7 @@ msgid "Hypothesis testing"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
 "*The process of induction is the process of assuming the simplest law that "
 "can be made to harmonize with our experience. This process, however, has no "
@@ -326,8 +435,8 @@ msgid ""
 "statistical hypothesis (the “null” hypothesis, H\\ :sub:`0`\\ ) that "
 "corresponds to the exact opposite of what I want to believe, and then focus "
 "exclusively on that almost to the neglect of the thing I’m actually "
-"interested in (which is now called the “alternative” hypothesis, H\\ :sub:`1`"
-"\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
+"interested in (which is now called the “alternative” hypothesis, H\\ :sub:"
+"`1`\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
 "that’s what we’d expect if ESP *didn’t* exist. My hope, of course, is that "
 "ESP is totally real and so the *alternative* to this null hypothesis is *θ* "
 "≠ 0.5. In essence, what we’re doing here is dividing up the possible values "
@@ -480,34 +589,42 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - α"
 msgstr "1 - α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(probability of correct retention)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "α"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "β"
 msgstr "β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - β"
 msgstr "1 - β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(power of the test)"
 msgstr ""
 
@@ -622,11 +739,11 @@ msgid ""
 "*θ* is just the overall probability that people respond correctly when asked "
 "the question, and our test statistic *X* is the *count* of the number of "
 "people who did so out of a sample size of *N*. We’ve seen a distribution "
-"like this before, in section :doc:`Binomial distribution <../Ch07/"
-"Ch07_Probability_4>`, and that’s exactly what the binomial distribution "
-"describes! So, to use the notation and terminology that I introduced in that "
-"section, we would say that the null hypothesis predicts that *X* is "
-"binomially distributed, which is written:"
+"like this before, in section :doc:`../Ch07/Ch07_Probability_4`, and that’s "
+"exactly what the binomial distribution describes! So, to use the notation "
+"and terminology that I introduced in that section, we would say that the "
+"null hypothesis predicts that *X* is binomially distributed, which is "
+"written:"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:73
@@ -778,6 +895,7 @@ msgid "A note on statistical “significance”"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst
 msgid ""
 "*Like other occult techniques of divination, the statistical method has a "
 "private jargon deliberately contrived to obscure its methods from non-"
@@ -1448,6 +1566,7 @@ msgid "Effect size"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:0
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst
 msgid ""
 "*Since all models are wrong the scientist must be alert to what is "
 "importantly wrong. It is inappropriate to be concerned with mice when there "
@@ -1745,13 +1864,13 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:59
 msgid ""
 "As you can see, what we have today is an odd mishmash of the two. We talk "
-"about having both a null hypothesis and an alternative (Neyman), but usually"
-"\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but we still "
-"have α values (Neyman). Some of the statistical tests have explicitly "
-"specified alternatives (Neyman) but others are quite vague about it "
-"(Fisher). And, according to some people at least, we’re not allowed to talk "
-"about accepting the alternative (Fisher). It’s a mess, but I hope this at "
-"least explains why it’s a mess."
+"about having both a null hypothesis and an alternative (Neyman), but "
+"usually\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but "
+"we still have α values (Neyman). Some of the statistical tests have "
+"explicitly specified alternatives (Neyman) but others are quite vague about "
+"it (Fisher). And, according to some people at least, we’re not allowed to "
+"talk about accepting the alternative (Fisher). It’s a mess, but I hope this "
+"at least explains why it’s a mess."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
@@ -1762,22 +1881,21 @@ msgstr ""
 msgid ""
 "Earlier on in this chapter I was quite emphatic about the fact that you "
 "*cannot* interpret the *p*-value as the probability that the null hypothesis "
-"is true. NHST is fundamentally a frequentist tool (see chapter :doc:"
-"`Introduction to probability <../Ch07/Ch07_Probability>`) and as such it "
-"does not allow you to assign probabilities to hypotheses. The null "
-"hypothesis is either true or it is not. The Bayesian approach to statistics "
-"interprets probability as a degree of belief, so it’s totally okay to say "
-"that there is a 10\\% chance that the null hypothesis is true. That’s just a "
-"reflection of the degree of confidence that you have in this hypothesis. You "
-"aren’t allowed to do this within the frequentist approach. Remember, if "
-"you’re a frequentist, a probability can only be defined in terms of what "
-"happens after a large number of independent replications (i.e., a long run "
-"frequency). If this is your interpretation of probability, talking about the "
-"“probability” that the null hypothesis is true is complete gibberish: a null "
-"hypothesis is either true or it is false. There’s no way you can talk about "
-"a long run frequency for this statement. To talk about “the probability of "
-"the null hypothesis” is as meaningless as “the colour of freedom”. It "
-"doesn’t have one!"
+"is true. NHST is fundamentally a frequentist tool (see chapter :doc:`../Ch07/"
+"Ch07_Probability`) and as such it does not allow you to assign probabilities "
+"to hypotheses. The null hypothesis is either true or it is not. The Bayesian "
+"approach to statistics interprets probability as a degree of belief, so it’s "
+"totally okay to say that there is a 10\\% chance that the null hypothesis is "
+"true. That’s just a reflection of the degree of confidence that you have in "
+"this hypothesis. You aren’t allowed to do this within the frequentist "
+"approach. Remember, if you’re a frequentist, a probability can only be "
+"defined in terms of what happens after a large number of independent "
+"replications (i.e., a long run frequency). If this is your interpretation of "
+"probability, talking about the “probability” that the null hypothesis is "
+"true is complete gibberish: a null hypothesis is either true or it is false. "
+"There’s no way you can talk about a long run frequency for this statement. "
+"To talk about “the probability of the null hypothesis” is as meaningless as "
+"“the colour of freedom”. It doesn’t have one!"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:90
@@ -1786,10 +1904,10 @@ msgid ""
 "that you are a Bayesian and that you’re okay with making probability "
 "statements about hypotheses, you have to follow the Bayesian rules for "
 "calculating those probabilities. I’ll talk more about this in chapter :doc:"
-"`Bayesian statistics <../Ch16/Ch16_Bayes>`, but for now what I want to point "
-"out to you is the *p*-value is a *terrible* approximation to the probability "
-"that H\\ :sub:`0` is true. If what you want to know is the probability of "
-"the null, then the *p*-value is not what you’re looking for!"
+"`../Ch16/Ch16_Bayes`, but for now what I want to point out to you is the *p*-"
+"value is a *terrible* approximation to the probability that H\\ :sub:`0` is "
+"true. If what you want to know is the probability of the null, then the *p*-"
+"value is not what you’re looking for!"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:100
@@ -1892,8 +2010,7 @@ msgid ":doc:`Type I and Type II errors <Ch09_HypothesisTesting_02>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
-msgid ""
-":doc:`Test statistics and sampling distributions <Ch09_HypothesisTesting_03>`"
+msgid ":doc:`Ch09_HypothesisTesting_03`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:21
@@ -1913,26 +2030,24 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:29
-msgid ""
-":doc:`Running the hypothesis test in practice <Ch09_HypothesisTesting_07>`"
+msgid ":doc:`Ch09_HypothesisTesting_07`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:31
-msgid ":doc:`Effect size and power <Ch09_HypothesisTesting_08>`"
+msgid ":doc:`Ch09_HypothesisTesting_08`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:33
 msgid ""
-":doc:`A few issues to consider regarding hypothesis testing "
+":doc:`Some issues to consider regarding hypothesis testing "
 "<Ch09_HypothesisTesting_09>`"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:36
 msgid ""
-"Later in the book, in chapter :doc:`Bayesian statistics <../Ch16/"
-"Ch16_Bayes>`, I’ll revisit the theory of null hypothesis tests from a "
-"Bayesian perspective and introduce a number of new tools that you can use if "
-"you aren’t particularly fond of the orthodox approach. But for now, though, "
-"we’re done with the abstract statistical theory, and we can start discussing "
-"specific data analysis tools."
+"Later in the book, in chapter :doc:`../Ch16/Ch16_Bayes`, I’ll revisit the "
+"theory of null hypothesis tests from a Bayesian perspective and introduce a "
+"number of new tools that you can use if you aren’t particularly fond of the "
+"orthodox approach. But for now, though, we’re done with the abstract "
+"statistical theory, and we can start discussing specific data analysis tools."
 msgstr ""

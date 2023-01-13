@@ -11,6 +11,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -22,16 +50,87 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
+# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
+# International License.
+# This file is distributed under the same license as the Learning statistics
+# with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch04.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch04.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 16:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -101,14 +200,14 @@ msgid ""
 "actually saying. Just “looking at the data” isn’t a terribly effective way "
 "of understanding data. In order to get some idea about what the data are "
 "actually saying we need to calculate some descriptive statistics (this "
-"chapter) and draw some nice pictures (chapter :doc:`Drawing graphs <../Ch05/"
-"Ch05_Graphics>`). Since the descriptive statistics are the easier of the two "
-"topics I’ll start with those, but nevertheless I’ll show you a histogram of "
-"the ``afl.margins`` variable since it should help you get a sense of what "
-"the data we’re trying to describe actually look like, see :numref:`fig-"
-"aflMargins`. We’ll talk a lot more about how to draw :doc:`histograms <../"
-"Ch05/Ch05_Graphics_1>`. For now, it’s enough to look at the histogram and "
-"note that it provides a fairly interpretable representation of the ``afl."
+"chapter) and draw some nice pictures (chapter :doc:`../Ch05/Ch05_Graphics`). "
+"Since the descriptive statistics are the easier of the two topics I’ll start "
+"with those, but nevertheless I’ll show you a histogram of the ``afl."
+"margins`` variable since it should help you get a sense of what the data "
+"we’re trying to describe actually look like, see :numref:`fig-aflMargins`. "
+"We’ll talk a lot more about how to draw :doc:`histograms <../Ch05/"
+"Ch05_Graphics_1>`. For now, it’s enough to look at the histogram and note "
+"that it provides a fairly interpretable representation of the ``afl."
 "margins`` variable."
 msgstr ""
 "Diese Ausgabe macht es eher schwer, ein Gefühl dafür zu bekommen, was die "
@@ -116,15 +215,15 @@ msgstr ""
 "besonders effektive Methode, um Daten zu verstehen. Um eine Vorstellung "
 "davon zu bekommen, was die Daten tatsächlich aussagen, müssen wir einige "
 "deskriptive Statistiken berechnen (dieses Kapitel) und einige Grafiken "
-"erstellen (Kapitel :doc:`Diagramme erstellen <../Ch05/Ch05_Graphics>`). Da "
-"die deskriptive Statistik das einfachere der beiden Themen ist, fange ich "
-"mit ihr an, aber ich zeige Ihnen trotzdem ein Histogramm der Variable ``afl."
-"margins``, da es Ihnen helfen soll, ein Gefühl dafür zu bekommen, wie die "
-"Daten, die wir zu beschreiben versuchen, tatsächlich aussehen, siehe :numref:"
-"`fig-aflMargins`. Wir werden noch viel mehr darüber reden, wie man :doc:"
-"`Histogramme <../Ch05/Ch05_Graphics_1>` zeichnet. Im Moment reicht es aus, "
-"sich das Histogramm anzusehen und festzustellen, dass es eine ziemlich "
-"interpretierbare Darstellung der Variablen ``afl.margins`` liefert."
+"erstellen (Kapitel :doc:`../Ch05/Ch05_Graphics`). Da die deskriptive "
+"Statistik das einfachere der beiden Themen ist, fange ich mit ihr an, aber "
+"ich zeige Ihnen trotzdem ein Histogramm der Variable ``afl.margins``, da es "
+"Ihnen helfen soll, ein Gefühl dafür zu bekommen, wie die Daten, die wir zu "
+"beschreiben versuchen, tatsächlich aussehen, siehe :numref:`fig-aflMargins`. "
+"Wir werden noch viel mehr darüber reden, wie man :doc:`Histogramme <../Ch05/"
+"Ch05_Graphics_1>` zeichnet. Im Moment reicht es aus, sich das Histogramm "
+"anzusehen und festzustellen, dass es eine ziemlich interpretierbare "
+"Darstellung der Variablen ``afl.margins`` liefert."
 
 #: ../../Ch04/Ch04_Descriptives.rst:66
 msgid ""
@@ -557,7 +656,7 @@ msgstr ""
 "ist, ist es wahrscheinlich am besten, stattdessen den :ref:`Modalwert "
 "<mode>` zu verwenden."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:398 ../../Ch04/Ch04_Descriptives_4.rst:79
+#: ../../Ch04/Ch04_Descriptives_1.rst:398 ../../Ch04/Ch04_Descriptives_4.rst:78
 msgid "nominal"
 msgstr "nominal"
 
@@ -627,35 +726,34 @@ msgstr ""
 msgid ""
 "Let’s expand on that last part a little. One consequence is that there are "
 "systematic differences between the mean and the median when the histogram is "
-"asymmetric (skewed; see :doc:`Skew and kurtosis <Ch04_Descriptives_3>`). "
-"This is illustrated in :numref:`fig-meanmedian`. Notice that the median "
-"(right hand side) is located closer to the “body” of the histogram, whereas "
-"the mean (left hand side) gets dragged towards the “tail” (where the extreme "
-"values are). To give a concrete example, suppose Bob (income $50,000), Kate "
-"(income $60,000) and Jane (income $65,000) are sitting at a table. The "
-"average income at the table is $58,333 and the median income is $60,000. "
-"Then Bill sits down with them (income $100,000,000). The average income has "
-"now jumped to $25,043,750 but the median rises only to $62,500. If you’re "
-"interested in looking at the overall income at the table the mean might be "
-"the right answer. But if you’re interested in what counts as a typical "
-"income at the table the median would be a better choice here."
+"asymmetric (skewed; see :doc:`Ch04_Descriptives_3`). This is illustrated in :"
+"numref:`fig-meanmedian`. Notice that the median (right hand side) is located "
+"closer to the “body” of the histogram, whereas the mean left hand side) gets "
+"dragged towards the “tail” (where the extreme values are). To give a "
+"concrete example, suppose Bob (income $50,000), Kate (income $60,000) and "
+"Jane (income $65,000) are sitting at a table. The average income at the "
+"table is $58,333 and the median income is $60,000. Then Bill sits down with "
+"them (income $100,000,000). The average income has now jumped to $25,043,750 "
+"but the median rises only to $62,500. If you’re interested in looking at the "
+"overall income at the table the mean might be the right answer. But if "
+"you’re interested in what counts as a typical income at the table the median "
+"would be a better choice here."
 msgstr ""
 "Lassen Sie uns den letzten Teil ein wenig erweitern. Eine Folge ist, dass es "
 "systematische Unterschiede zwischen dem Mittelwert und dem Median gibt, wenn "
-"das Histogramm asymmetrisch (schief; siehe :doc:`Schiefe und Kurtosis <../"
-"Ch04/Ch04_Descriptives_3>`) ist. Dies wird in :numref:`fig-meanmedian` "
-"dargestellt. Beachten Sie, dass der Median (rechte Seite) näher am „Körper“ "
-"des Histogramms liegt, während der Mittelwert (linke Seite) zum „Schwanz“ "
-"hingezogen wird (wo sich die Extremwerte befinden). Ein konkretes Beispiel: "
-"Nehmen wir an, Bob (Einkommen 50.000 $), Kate (Einkommen 60.000 $) und Jane "
-"(Einkommen 65.000 $) sitzen an einem Tisch. Das Durchschnittseinkommen am "
-"Tisch beträgt 58.333 $ und das Medianeinkommen 60.000 $. Dann setzt sich "
-"Bill zu ihnen (Einkommen $100.000.000). Das Durchschnittseinkommen ist nun "
-"auf 25.043.750 $ gestiegen, aber der Medianwert liegt nur bei 62.500 $. Wenn "
-"Sie sich für das Gesamteinkommen am Tisch interessieren, mag der Mittelwert "
-"die richtige Antwort sein. Wenn Sie sich jedoch dafür interessieren, was als "
-"typisches Einkommen in der Tabelle gilt, wäre der Median hier die bessere "
-"Wahl."
+"das Histogramm asymmetrisch (schief; siehe :doc:`Ch04_Descriptives_3`) ist. "
+"Dies wird in :numref:`fig-meanmedian` dargestellt. Beachten Sie, dass der "
+"Median (rechte Seite) näher am „Körper“ des Histogramms liegt, während der "
+"Mittelwert (linke Seite) zum „Schwanz“ hingezogen wird (wo sich die "
+"Extremwerte befinden). Ein konkretes Beispiel: Nehmen wir an, Bob (Einkommen "
+"50.000 $), Kate (Einkommen 60.000 $) und Jane (Einkommen 65.000 $) sitzen an "
+"einem Tisch. Das Durchschnittseinkommen am Tisch beträgt 58.333 $ und das "
+"Medianeinkommen 60.000 $. Dann setzt sich Bill zu ihnen (Einkommen "
+"$100.000.000). Das Durchschnittseinkommen ist nun auf 25.043.750$ gestiegen, "
+"aber der Medianwert liegt nur bei 62.500 $. Wenn Sie sich für das "
+"Gesamteinkommen am Tisch interessieren, mag der Mittelwert die richtige "
+"Antwort sein. Wenn Sie sich jedoch dafür interessieren, was als typisches "
+"Einkommen in der Tabelle gilt, wäre der Median hier die bessere Wahl."
 
 #: ../../Ch04/Ch04_Descriptives_1.rst:220
 msgid "A real life example"
@@ -1568,34 +1666,32 @@ msgid ""
 "1* and not by *N*. After all, the variance is supposed to be the *mean* "
 "squared deviation, right? So shouldn’t we be dividing by *N*, the actual "
 "number of observations in the sample? Well, yes, we should. However, as "
-"we’ll discuss in chapter :doc:`Estimating unknown quantities from a sample "
-"<../Ch08/Ch08_Estimation>`, there’s a subtle distinction between “describing "
-"a sample” and “making guesses about the population from which the sample "
-"came”. Up to this point, it’s been a distinction without a difference. "
-"Regardless of whether you’re describing a sample or drawing inferences about "
-"the population, the mean is calculated exactly the same way. Not so for the "
-"variance, or the standard deviation, or for many other measures besides. "
-"What I outlined to you initially (i.e., take the actual average, and thus "
-"divide by *N*) assumes that you literally intend to calculate the variance "
-"of the sample. Most of the time, however, you’re not terribly interested in "
-"the sample *in and of itself*. Rather, the sample exists to tell you "
-"something about the world. If so, you’re actually starting to move away from "
-"calculating a “sample statistic” and towards the idea of estimating a "
-"“population parameter”. However, I’m getting ahead of myself. For now, let’s "
-"just take it on faith that jamovi knows what it’s doing, and we’ll revisit "
-"the question later on :doc:`when we talk about estimation <../Ch08/"
-"Ch08_Estimation>`."
+"we’ll discuss in chapter :doc:`../Ch08/Ch08_Estimation`, there’s a subtle "
+"distinction between “describing a sample” and “making guesses about the "
+"population from which the sample came”. Up to this point, it’s been a "
+"distinction without a difference. Regardless of whether you’re describing a "
+"sample or drawing inferences about the population, the mean is calculated "
+"exactly the same way. Not so for the variance, or the standard deviation, or "
+"for many other measures besides. What I outlined to you initially (i.e., "
+"take the actual average, and thus divide by *N*) assumes that you literally "
+"intend to calculate the variance of the sample. Most of the time, however, "
+"you’re not terribly interested in the sample *in and of itself*. Rather, the "
+"sample exists to tell you something about the world. If so, you’re actually "
+"starting to move away from calculating a “sample statistic” and towards the "
+"idea of estimating a “population parameter”. However, I’m getting ahead of "
+"myself. For now, let’s just take it on faith that jamovi knows what it’s "
+"doing, and we’ll revisit the question later on when we talk about :doc:"
+"`estimation <../Ch08/Ch08_Estimation>`."
 msgstr ""
 "Das ist also das *was*. Die eigentliche Frage ist, *warum* jamovi durch *N - "
 "1* und nicht durch *N* dividiert. Schließlich soll die Varianz die "
 "*mittlere* quadrierte Abweichung sein, richtig? Sollten wir also nicht durch "
 "*N*, die tatsächliche Anzahl der Beobachtungen in der Stichprobe, "
-"dividieren? Nun, ja, das sollten wir. Wie wir jedoch in Kapitel :doc:"
-"`Schätzen unbekannter Größen anhand einer Stichprobe <../Ch08/"
-"Ch08_Estimation>` erörtern, gibt es einen feinen Unterschied zwischen der "
-"„Beschreibung einer Stichprobe“ und dem „Erstellen von Vermutungen über die "
-"Grundgesamtheit, aus der die Stichprobe stammt“. Bis zu diesem Punkt war es "
-"ein Unterschied ohne Unterschied. Unabhängig davon, ob man eine Stichprobe "
+"dividieren? Nun, ja, das sollten wir. Wie wir jedoch in Kapitel :doc:`../"
+"Ch08/Ch08_Estimation` erörtern, gibt es einen feinen Unterschied zwischen "
+"der „Beschreibung einer Stichprobe“ und dem „Erstellen von Vermutungen über "
+"die Grundgesamtheit, aus der die Stichprobe stammt“. Bis zu diesem Punkt war "
+"es in Unterschied ohne Unterschied. Unabhängig davon, ob man eine Stichprobe "
 "beschreibt oder Rückschlüsse auf die Grundgesamtheit zieht, wird der "
 "Mittelwert auf genau dieselbe Weise berechnet. Das gilt aber nicht für die "
 "Varianz, die Standardabweichung oder viele andere Maße. Bei dem, was ich "
@@ -1611,7 +1707,7 @@ msgstr ""
 "werden die Frage später wieder aufgreifen, wenn wir über das :doc:`Schätzen "
 "<../Ch08/Ch08_Estimation>` sprechen."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:303
+#: ../../Ch04/Ch04_Descriptives_2.rst:302
 msgid ""
 "Okay, one last thing. This section so far has read a bit like a mystery "
 "novel. I’ve shown you how to calculate the variance, described the weird “*N "
@@ -1658,11 +1754,11 @@ msgstr ""
 "dieser Kauderwelsch-Einheit ausgedrückt wird, ist sie für einen Menschen "
 "völlig bedeutungslos."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:329
+#: ../../Ch04/Ch04_Descriptives_2.rst:328
 msgid "Standard deviation"
 msgstr "Standardabweichung"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:331
+#: ../../Ch04/Ch04_Descriptives_2.rst:330
 msgid ""
 "Okay, suppose that you like the idea of using the variance because of those "
 "nice mathematical properties that I haven’t talked about, but since you’re a "
@@ -1692,7 +1788,7 @@ msgstr ""
 "Standardabweichung einer Datenstichprobe als *s* zu bezeichnen, obwohl "
 "gelegentlich auch „sd“, „SD“ oder „Std. abw.“ (*std dev.*) verwendet werden."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:345
+#: ../../Ch04/Ch04_Descriptives_2.rst:344
 msgid ""
 "Because the standard deviation is equal to the square root of the variance, "
 "you probably won’t be surprised to see that the formula is:"
@@ -1700,7 +1796,7 @@ msgstr ""
 "Da die Standardabweichung gleich der Quadratwurzel der Varianz ist, wird es "
 "Sie wahrscheinlich nicht überraschen, dass die Formel so lautet:"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:348
+#: ../../Ch04/Ch04_Descriptives_2.rst:347
 msgid ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
 "\n"
@@ -1708,7 +1804,7 @@ msgstr ""
 "s = \\sqrt{ \\frac{1}{N} \\sum_{i=1}^N \\left( X_i - \\bar{X} \\right)^2 }\n"
 "\n"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:350
+#: ../../Ch04/Ch04_Descriptives_2.rst:349
 msgid ""
 "and in jamovi there is a check box for ``Std. deviation`` right above the "
 "check box for ``Variance``. Selecting this gives a value of **26.07** for "
@@ -1718,7 +1814,7 @@ msgstr ""
 "Checkbox für ``Variance``. Wenn Sie diese auswählen, erhalten Sie einen Wert "
 "von **26,07** für die Standardabweichung."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:354
+#: ../../Ch04/Ch04_Descriptives_2.rst:353
 msgid ""
 "However, as you might have guessed from our discussion of the variance, what "
 "jamovi actually calculates is slightly different to the formula given above. "
@@ -1730,19 +1826,18 @@ msgstr ""
 "angegebenen Formel ab. Wie wir bei der Varianz gesehen haben, berechnet "
 "jamovi eine Version, die durch *N - 1* und nicht durch *N* dividiert."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:359
+#: ../../Ch04/Ch04_Descriptives_2.rst:358
 msgid ""
 "For reasons that will make sense when we return to this topic in chapter :"
-"doc:`Estimating unknown quantities from a sample <../Ch08/Ch08_Estimation>` "
-"I’ll refer to this new quantity as :math:`\\hat\\sigma` (read as: “sigma "
-"hat”), and the formula for this is:"
+"doc:`../Ch08/Ch08_Estimation` I’ll refer to this new quantity as :math:"
+"`\\hat\\sigma` (read as: “sigma hat”), and the formula for this is:"
 msgstr ""
-"Aus Gründen, die sinnvoll sind, wenn wir in Kapitel :doc:`Schätzen "
-"unbekannter Größen anhand einer Stichprobe <../Ch08/Ch08_Estimation>` auf "
-"dieses Thema zurückkommen, werde ich diese neue Größe als :math:`\\hat"
-"\\sigma` (gelesen als: „Sigma-Dach“) bezeichnen, und die Formel dafür lautet:"
+"Aus Gründen, die sinnvoll sind, wenn wir in Kapitel :doc:`../Ch08/"
+"Ch08_Estimation` auf dieses Thema zurückkommen, werde ich diese neue Größe "
+"als :math:\\hat\\sigma` (gelesen als: „Sigma-Dach“) bezeichnen, und die "
+"Formel dafür lautet:"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:364
+#: ../../Ch04/Ch04_Descriptives_2.rst:362
 msgid ""
 "\\hat\\sigma = \\sqrt{ \\frac{1}{N - 1} \\sum_{i=1}^N \\left( X_i - \\bar{X} "
 "\\right)^2 }\n"
@@ -1924,14 +2019,13 @@ msgstr "Mit der möglichen Ausnahme der dritten Frage."
 #: ../../Ch04/Ch04_Descriptives_2.rst:452
 msgid ""
 "Strictly, the assumption is that the data are *normally* distributed, which "
-"is an important concept that we’ll discuss more in chapter :doc:"
-"`Introduction to probability <../Ch07/Ch07_Probability>` and will turn up "
-"over and over again later in the book."
+"is an important concept that we’ll discuss more in chapter :doc:`../Ch07/"
+"Ch07_Probability` and will turn u over and over again later in the book."
 msgstr ""
 "Streng genommen geht man davon aus, dass die Daten *normalverteilt* sind. "
-"Dies ist ein wichtiges Konzept, auf das wir in Kapitel :doc:`Einführung in "
-"die Wahrscheinlichkeitsrechnung <../Ch07/Ch07_Probability>` näher eingehen "
-"werden und das im weiteren Verlauf des Buches immer wieder auftauchen wird."
+"Dies ist ein wichtiges Konzept, auf das wir in Kapitel :doc:`../Ch07/"
+"Ch07_Probability` näher eingehen werden und das im weiteren Verlauf des "
+"Buches immer wieder auftauchen wird."
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:4
 msgid "Skew and kurtosis"
@@ -2229,9 +2323,9 @@ msgid ""
 "the descriptive statistics for some clinical trial data, broken down "
 "separately by ``therapy`` type. This is a new data set, one that you’ve "
 "never seen before. The data is stored in the |clinicaltrial|_ data set and "
-"we’ll use it a lot in chapter :doc:`Comparing several means (one-way ANOVA) "
-"<../Ch13/Ch13_ANOVA>` (you can find a complete description of the data at "
-"the start of that chapter). Let’s load it and see what we’ve got:"
+"we’ll use it a lot in chapter :doc:`../Ch13/Ch13_ANOVA` (you can find a "
+"complete description of the data at the start of that chapter). Let’s load "
+"it and see what we’ve got:"
 msgstr ""
 "Es kommt sehr häufig vor, dass man deskriptivstatistische Maße nach einer "
 "Gruppierungsvariable (nominal) aufgeschlüsselt betrachten möchte. Das ist in "
@@ -2239,16 +2333,16 @@ msgstr ""
 "die deskriptivstatistischen Maße für einige klinische Studiendaten "
 "betrachten, aufgeschlüsselt nach ``therapy``-Typ. Dies ist ein neuer "
 "Datensatz, den Sie noch nie gesehen haben. Die Daten sind im Datensatz |"
-"clinicaltrial|_ gespeichert, und wir werden sie in Kapitel :doc:`Vergleich "
-"mehrerer Mittelwerte (einfaktorielle ANOVA) <../Ch13/Ch13_ANOVA>` häufig "
-"verwenden (eine vollständige Beschreibung der Daten finden Sie am Anfang "
-"dieses Kapitels). Laden wir sie und sehen wir uns an, was wir bekommen haben:"
+"clinicaltrial|_ gespeichert, und wir werden sie in Kapitel :doc:`../Ch13/"
+"Ch13_ANOVA` häufig verwenden (eine vollständige Beschreibung der Daten "
+"finden Sie am Anfang dieses Kapitels). Laden wir sie und sehen wir uns an, "
+"was wir bekommen haben:"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:22
+#: ../../Ch04/Ch04_Descriptives_4.rst:21
 msgid "Variables in |clinicaltrial|"
 msgstr "Variablen in |clinicaltrial|"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:22
+#: ../../Ch04/Ch04_Descriptives_4.rst:21
 msgid ""
 "Screenshot of jamovi showing the variables stored in the |clinicaltrial|_ "
 "data set"
@@ -2256,7 +2350,7 @@ msgstr ""
 "jamovi-Screenshot mit den im Datensatz |clinicaltrial|_ gespeicherten "
 "Variablen"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:27
+#: ../../Ch04/Ch04_Descriptives_4.rst:26
 msgid ""
 "Evidently there were three drugs: a placebo, something called “anxifree” and "
 "something called “joyzepam”, and there were 6 people administered each drug. "
@@ -2278,7 +2372,7 @@ msgstr ""
 "hier aussieht. Dennoch ist das nicht allzu schlecht. Insgesamt habe ich das "
 "Gefühl, dass ich daraus etwas gelernt habe."
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:36
+#: ../../Ch04/Ch04_Descriptives_4.rst:35
 msgid ""
 "We can also go ahead and look at some other descriptive statistics, and this "
 "time separately for each type of therapy. In jamovi, check ``Std. "
@@ -2293,11 +2387,11 @@ msgstr ""
 "``therapy`` in das Feld ``Split by``, und Sie sollten eine Ausgabe erhälten, "
 "die :numref:`fig-clinicaltrial_grouping` ähnelt."
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:48
+#: ../../Ch04/Ch04_Descriptives_4.rst:47
 msgid "Variables in |clinicaltrial| split by therapy type"
 msgstr "Variablen in |clinicaltrial|, aufgeteilt nach Therapieart"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:48
+#: ../../Ch04/Ch04_Descriptives_4.rst:47
 msgid ""
 "Screenshot of jamovi showing ``Descriptives`` of the variables in the |"
 "clinicaltrial|_ data set split by therapy type"
@@ -2305,7 +2399,7 @@ msgstr ""
 "jamovi-Screenshot mit den deskriptivstatistischen Maßen der Variablen im |"
 "clinicaltrial|_ Datensatz aufgeteilt nach Therapieart"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:53
+#: ../../Ch04/Ch04_Descriptives_4.rst:52
 msgid ""
 "What if you have multiple grouping variables |nominal|? Suppose you want to "
 "look at the average mood gain separately for all possible combinations of "
@@ -2324,7 +2418,7 @@ msgstr ""
 "sinnvolle Berechnungen durchzuführen. In diesem Fall teilt jamovi Ihnen dies "
 "mit, indem es etwas wie ``NaN`` oder ``Inf`` angibt.\\ [#]_"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:64
+#: ../../Ch04/Ch04_Descriptives_4.rst:63
 msgid ""
 "Sometimes jamovi will also present numbers in an unusual way. If a number is "
 "very small, or very large, then jamovi switches to an exponential form for "
@@ -2583,38 +2677,34 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_6.rst:12
 msgid ""
-":doc:`Measures of central tendency <Ch04_Descriptives_1>`: Broadly speaking, "
-"central tendency measures tell you where the data are. There’s three "
-"measures that are typically reported in the literature: the mean, median and "
-"mode."
+":doc:`Ch04_Descriptives_1`: Broadly speaking, central tendency measures tell "
+"you where the data are. There’s three measures that are typically reported "
+"in the literature: the mean, median and mode."
 msgstr ""
-":doc:`Maße der zentralen Tendenz <Ch04_Descriptives_1>`: Im Großen und "
-"Ganzen geben die Maße der zentralen Tendenz Auskunft darüber, wo die Daten "
-"liegen. In der Literatur werden in der Regel drei Maße angegeben: der "
-"Mittelwert, der Median und der Modus."
+":doc:`Ch04_Descriptives_1`: Im Großen und Ganzen geben die Maße der "
+"zentralen Tendenz Auskunft darüber, wo die Daten liegen. In der Literatur "
+"werden in der Regel drei Maße angegeben: der Mittelwert, der Median und der "
+"Modus."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:17
+#: ../../Ch04/Ch04_Descriptives_6.rst:16
 msgid ""
-":doc:`Measures of variability <Ch04_Descriptives_2>`: In contrast, measures "
-"of variability tell you about how “spread out” the data are. The key "
-"measures are: range, standard deviation, and interquartile range."
+":doc:`Ch04_Descriptives_2`: In contrast, measures of variability tell you "
+"about how “spread out” the data are. The key measures are: range, standard "
+"deviation, and interquartile range."
 msgstr ""
-":doc:`Maße der Variabilität <Ch04_Descriptives_2>`: Im Gegensatz dazu geben "
-"Variabilitätsmaße Auskunft darüber, wie „gestreut“ die Daten sind. Die "
-"wichtigsten Maße sind: Spannweite, Standardabweichung und "
-"Interquartilsabstand."
+":doc:`Ch04_Descriptives_2`: Im Gegensatz dazu geben Variabilitätsmaße "
+"Auskunft darüber, wie „gestreut“ die Daten sind. Die wichtigsten Maße sind: "
+"Spannweite, Standardabweichung und Interquartilsabstand."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:21
+#: ../../Ch04/Ch04_Descriptives_6.rst:20
 msgid ""
-":doc:`Measures of skewness and kurtosis <Ch04_Descriptives_3>`: We also "
-"looked at assymetry in a variable’s distribution (skew) and pointness "
-"(kurtosis)."
+":doc:`Ch04_Descriptives_3`: We also looked at assymetry in a variable’s "
+"distribution (skew) and pointness (kurtosis)."
 msgstr ""
-":doc:`Schiefe und Kurtosis <Ch04_Descriptives_3>`: Wir haben auch die "
-"Asymmetrie in der Verteilung einer Variablen (Schiefe) und die Kurtosis "
-"untersucht."
+":doc:`Ch04_Descriptives_3`: Wir haben auch die Asymmetrie in der Verteilung "
+"einer Variablen (Schiefe) und die Kurtosis untersucht."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:25
+#: ../../Ch04/Ch04_Descriptives_6.rst:23
 msgid ""
 ":doc:`Getting group summaries of variables in jamovi <Ch04_Descriptives_4>`: "
 "Since this book focuses on doing data analysis in jamovi, we spent a bit of "
@@ -2627,18 +2717,18 @@ msgstr ""
 "wie deskriptivstatistische Maße für verschiedene Untergruppen berechnet "
 "werden können."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:30
+#: ../../Ch04/Ch04_Descriptives_6.rst:28
 msgid ""
-":doc:`Standard scores <Ch04_Descriptives_5>`: The *z*-score is a slightly "
-"unusual beast. It’s not quite a descriptive statistic, and not quite an "
-"inference. Make sure you understand that section. It’ll come up again later."
+":doc:`Ch04_Descriptives_5`: The *z*-score is a slightly unusual beast. It’s "
+"not quite a descriptive statistic, and not quite an inference. Make sure you "
+"understand that section. It’ll come up again later."
 msgstr ""
-":doc:`Standardwerte <Ch04_Descriptives_5>`: Der *z*-Wert ist ein etwas "
-"ungewöhnliches Biest. Er ist weder ein richtiges deskriptivstatistisches Maß "
-"noch eine Inferenzstatistik. Vergewissern Sie sich, dass Sie diesen "
-"Abschnitt verstehen. Er wird später wieder auftauchen."
+":doc:`Ch04_Descriptives_5`: Der *z*-Wert ist ein etwas ungewöhnliches Biest. "
+"Er ist weder ein richtiges deskriptivstatistisches Maß noch eine "
+"Inferenzstatistik. Vergewissern Sie sich, dass Sie diesen Abschnitt "
+"verstehen. Er wird später wieder auftauchen."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:34
+#: ../../Ch04/Ch04_Descriptives_6.rst:32
 msgid ""
 "In the next chapter we’ll move on to a discussion of how to draw pictures! "
 "Everyone loves a pretty picture, right? But before we do, I want to end on "
@@ -2659,7 +2749,7 @@ msgstr ""
 "es verdeckt die praktische, alltägliche Bedeutung der Auswahl guter "
 "deskriptivstatischer Maße. In diesem Sinne…"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:44
+#: ../../Ch04/Ch04_Descriptives_6.rst:42
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr "Epilog: Gute deskriptivstatistische Maße sind anschaulich!"
 
@@ -2671,7 +2761,7 @@ msgstr "*Der Tod eines Menschen ist eine Tragödie.*"
 msgid "*The death of millions is a statistic.*"
 msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:55
+#: ../../Ch04/Ch04_Descriptives_6.rst:53
 msgid "Josef Stalin, Potsdam 1945"
 msgstr "Josef Stalin, Potsdam 1945"
 
@@ -2679,7 +2769,7 @@ msgstr "Josef Stalin, Potsdam 1945"
 msgid "*950,000 – 1,200,000*"
 msgstr "*950.000 - 1.200.000*"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:61
+#: ../../Ch04/Ch04_Descriptives_6.rst:59
 msgid ""
 "Estimate of Soviet repression deaths, 1937-1938 (:ref:`Ellman, 2002 "
 "<Ellman_2002>`)"
@@ -2687,7 +2777,7 @@ msgstr ""
 "Schätzung der Todesfälle durch sowjetische Repressionen, 1937-1938 (:ref:"
 "`Ellman, 2002 <Ellman_2002>`)"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:60
+#: ../../Ch04/Ch04_Descriptives_6.rst:58
 msgid ""
 "Stalin’s infamous quote about the statistical character of the deaths of "
 "millions is worth giving some thought. The clear intent of his statement is "
@@ -2715,7 +2805,7 @@ msgstr ""
 "einzelnen Tod das Gefühl einer unmittelbaren Tragödie, ein Gefühl, das in "
 "Ellmans kalter statistischer Beschreibung fehlt."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:72
+#: ../../Ch04/Ch04_Descriptives_6.rst:70
 msgid ""
 "Yet it is not so simple. Without numbers, without counts, without a "
 "description of what happened, we have *no chance* of understanding what "
@@ -2752,7 +2842,7 @@ msgstr ""
 "heute bekannt. Doch mit einigen sorgfältig ausgewählten Statistiken wird das "
 "Ausmaß der Gräueltaten deutlich."
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:89
+#: ../../Ch04/Ch04_Descriptives_6.rst:87
 msgid ""
 "Thus it is no small thing to say that the first task of the statistician and "
 "the scientist is to summarise the data, to find some collection of numbers "

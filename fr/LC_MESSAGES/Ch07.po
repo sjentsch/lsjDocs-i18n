@@ -11,6 +11,34 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -21,6 +49,7 @@
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
+# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
@@ -28,7 +57,6 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-# #-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  Ch07.po (Learning statistics with jamovi)  #-#-#-#-#
 #, fuzzy
@@ -36,11 +64,75 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch07.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch07.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 16:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -566,15 +658,14 @@ msgid ""
 "which I make this prediction, then on 60\\% of those days it will actually "
 "rain”. It’s very weird and counterintuitive to think of it this way, but you "
 "do see frequentists do this sometimes. And it *will* come up later in this "
-"book (see :doc:`Estimating a confidence interval <../Ch08/"
-"Ch08_Estimation_5>`)."
+"book (see :doc:`../Ch08/Ch08_Estimation_5`)."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:156
+#: ../../Ch07/Ch07_Probability_2.rst:155
 msgid "The Bayesian view"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:158
+#: ../../Ch07/Ch07_Probability_2.rst:157
 msgid ""
 "The **Bayesian view** of probability is often called the subjectivist view, "
 "and although it has been a minority view among statisticians it has been "
@@ -587,7 +678,7 @@ msgid ""
 "thoughts and assumptions of people and other intelligent beings."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:169
+#: ../../Ch07/Ch07_Probability_2.rst:168
 msgid ""
 "However, in order for this approach to work we need some way of "
 "operationalising “degree of belief”. One way that you can do this is to "
@@ -601,7 +692,7 @@ msgid ""
 "accept."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:180
+#: ../../Ch07/Ch07_Probability_2.rst:179
 msgid ""
 "What are the advantages and disadvantages to the Bayesian approach? The main "
 "advantage is that it allows you to assign probabilities to any event you "
@@ -625,11 +716,11 @@ msgid ""
 "(allows too many differences between observers)."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:203
+#: ../../Ch07/Ch07_Probability_2.rst:202
 msgid "What’s the difference? And who is right?"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:205
+#: ../../Ch07/Ch07_Probability_2.rst:204
 msgid ""
 "Now that you’ve seen each of these two views independently it’s useful to "
 "make sure you can compare the two. Go back to the hypothetical robot soccer "
@@ -641,7 +732,7 @@ msgid ""
 "should have some sense of how to answer those questions."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:215
+#: ../../Ch07/Ch07_Probability_2.rst:214
 msgid ""
 "Okay, assuming you understand the difference then you might be wondering "
 "which of them is *right*? Honestly, I don’t know that there is a right "
@@ -654,7 +745,7 @@ msgid ""
 "Bayesian methods have very good frequentist properties."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:226
+#: ../../Ch07/Ch07_Probability_2.rst:225
 msgid ""
 "For the most part, I’m a pragmatist so I’ll use any statistical method that "
 "I trust. As it turns out, that makes me prefer Bayesian methods for reasons "
@@ -672,7 +763,7 @@ msgid ""
 "statistics, as you might gather, is not devoid of entertainment."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:242
+#: ../../Ch07/Ch07_Probability_2.rst:241
 msgid ""
 "In any case, whilst I personally prefer the Bayesian view, the majority of "
 "statistical analyses are based on the frequentist approach. My reasoning is "
@@ -684,11 +775,11 @@ msgid ""
 "you really should read through at least one book on the “orthodox” "
 "frequentist view. Besides, I won’t completely ignore the Bayesian "
 "perspective. Every now and then I’ll add some commentary from a Bayesian "
-"point of view, and I’ll revisit the topic in more depth in chapter :doc:"
-"`Bayesian statistics <../Ch16/Ch16_Bayes>`."
+"point of view, and I’ll revisit the topic in more depth in chapter :doc:`../"
+"Ch16/Ch16_Bayes`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:258
+#: ../../Ch07/Ch07_Probability_2.rst:257
 msgid ""
 "This doesn’t mean that frequentists can’t make hypothetical statements, of "
 "course. It’s just that if you want to make a statement about probability "
@@ -841,11 +932,11 @@ msgstr "*P*\\ (X\\ :sub:`5`\\ ) = 0.1"
 msgid ""
 "Each of the events has a probability that lies between 0 and 1, and if we "
 "add up the probability of all events they sum to 1. Awesome. We can even "
-"draw a nice bar graph (see :doc:`Bar graphs <../Ch05/Ch05_Graphics_3>`) to "
-"visualise this distribution, as shown in :numref:`fig-pantsDistribution`. "
-"And, at this point, we’ve all achieved something. You’ve learned what a "
-"probability distribution is, and I’ve finally managed to find a way to "
-"create a graph that focuses entirely on my trousers. Everyone wins!"
+"draw a nice bar graph (see :doc:`../Ch05/Ch05_Graphics_3`) to visualise this "
+"distribution, as shown in :numref:`fig-pantsDistribution`. And, at this "
+"point, we’ve all achieved something. You’ve learned what a probability "
+"distribution is, and I’ve finally managed to find a way to create a graph "
+"that focuses entirely on my trousers. Everyone wins!"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:88
@@ -1009,9 +1100,9 @@ msgid ""
 "table, where they can’t get in the way of the text. In the equation for the "
 "binomial, *X!* is the factorial function (i.e., multiply all whole numbers "
 "from 1 to *X*), and for the normal distribution “exp” refers to the "
-"exponential function, which we discussed in chapter :doc:`Pragmatic matters "
-"<../Ch06/Ch06_DataHandling>`. If these equations don’t make a lot of sense "
-"to you, don’t worry too much about them."
+"exponential function, which we discussed in chapter :doc:`../Ch06/"
+"Ch06_DataHandling`. If these equations don’t make a lot of sense to you, "
+"don’t worry too much about them."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:44
@@ -1447,7 +1538,7 @@ msgid ""
 "the two. This distribution tends to arise in situations where you think that "
 "the data actually follow a normal distribution, but you don’t know the mean "
 "or standard deviation. We’ll run into this distribution again in chapter :"
-"doc:`Comparing two means <../Ch11/Ch11_tTest>`."
+"doc:`../Ch11/Ch11_tTest`."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:30
@@ -1464,16 +1555,15 @@ msgstr ""
 #: ../../Ch07/Ch07_Probability_6.rst:36
 msgid ""
 "The **χ²-distribution** is another distribution that turns up in lots of "
-"different places. The situation in which we’ll see it is when doing :doc:"
-"`Categorical data analysis <../Ch10/Ch10_ChiSquare>`, but it’s one of those "
-"things that actually pops up all over the place. When you dig into the maths "
-"(and who doesn’t love doing that?), it turns out that the main reason why "
-"the χ²-distribution turns up all over the place is that if you have a bunch "
-"of variables that are normally distributed, square their values and then add "
-"them up (a procedure referred to as taking a “sum of squares”), this sum has "
-"a χ²-distribution. You’d be amazed how often this fact turns out to be "
-"useful. Anyway, :numref:`fig-chiSqDist` illustrates what a χ²-distribution "
-"looks like."
+"different places. The situation in which we’ll see it is when doing :doc:`../"
+"Ch10/Ch10_ChiSquare`, but it’s one of those things that actually pops up all "
+"over the place. When you dig into the maths (and who doesn’t love doing "
+"that?), it turns out that the main reason why the χ²-distribution turns up "
+"all over the place is that if you have a bunch of variables that are "
+"normally distributed, square their values and then add them up (a procedure "
+"referred to as taking a “sum of squares”), this sum has a χ²-distribution. "
+"You’d be amazed how often this fact turns out to be useful. Anyway, :numref:"
+"`fig-chiSqDist` illustrates what a χ²-distribution looks like."
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
@@ -1498,23 +1588,22 @@ msgid ""
 "to compare two different “sums of squares”, you’re probably talking about "
 "something that has an *F*-distribution. Of course, as yet I still haven’t "
 "given you an example of anything that involves a sum of squares, but I will "
-"in chapter :doc:`Comparing several means (one-way ANOVA) <../Ch13/"
-"Ch13_ANOVA>`. And that’s where we’ll run into the *F*-distribution. Oh, and "
-"there’s a picture in :numref:`fig-Fdist`."
+"in chapter :doc:`../Ch13/Ch13_ANOVA`. And that’s where we’ll run into the "
+"*F*-distribution. Oh, and there’s a picture in :numref:`fig-Fdist`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:79
+#: ../../Ch07/Ch07_Probability_6.rst:78
 msgid "*F*-distribution with *df* = 3 and *df* = 5"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:79
+#: ../../Ch07/Ch07_Probability_6.rst:78
 msgid ""
 "*F*-distribution with 3 and 5 degrees of freedom. Qualitatively speaking, it "
 "looks pretty similar to a χ²-distribution, but they’re not quite the same in "
 "general."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:85
+#: ../../Ch07/Ch07_Probability_6.rst:84
 msgid ""
 "Okay, time to wrap this section up. We’ve seen three new distributions: *t*, "
 "χ² and *F*. They’re all continuous distributions, and they’re all closely "
@@ -1557,8 +1646,8 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_7.rst:20
 msgid ""
-":doc:`Binomial distribution <Ch07_Probability_4>`, :doc:`Normal distribution "
-"<Ch07_Probability_5>`, and :doc:`Other useful distributions "
+":doc:`Binomial distribution <Ch07_Probability_4>`, :doc:`normal distribution "
+"<Ch07_Probability_5>`, and :doc:`other useful distributions "
 "<Ch07_Probability_6>`"
 msgstr ""
 
@@ -1594,9 +1683,8 @@ msgid ""
 "about what you’re “allowed” to say when doing statistical inference and many "
 "of these can seem arbitrary and weird. However, they start to make sense if "
 "you understand that there is this Bayesian / frequentist distinction. "
-"Similarly, in chapter :doc:`Comparing two means <../Ch11/Ch11_tTest>` we’re "
-"going to talk about something called the *t*-test, and if you really want to "
-"have a grasp of the mechanics of the *t*-test it really helps to have a "
-"sense of what a *t*-distribution actually looks like. You get the idea, I "
-"hope."
+"Similarly, in chapter :doc:`../Ch11/Ch11_tTest` we’re going to talk about "
+"something called the *t*-test, and if you really want to have a grasp of the "
+"mechanics of the *t*-test it really helps to have a sense of what a *t*-"
+"distribution actually looks like. You get the idea, I hope."
 msgstr ""

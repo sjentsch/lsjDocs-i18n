@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,24 +24,22 @@ msgstr ""
 msgid ""
 "At the start of the last chapter I highlighted the critical distinction "
 "between *descriptive statistics* and *inferential statistics*. As discussed "
-"in :doc:`Descriptive statistics <../Ch04/Ch04_Descriptives>`, the role of "
-"descriptive statistics is to concisely summarise what we *do* know. In "
-"contrast, the purpose of inferential statistics is to “learn what we do not "
-"know from what we do”. Now that we have a foundation in probability theory "
-"we are in a good position to think about the problem of statistical "
-"inference. What kinds of things would we like to learn about? And how do we "
-"learn them? These are the questions that lie at the heart of inferential "
-"statistics, and they are traditionally divided into two “big ideas”: "
-"estimation and hypothesis testing. The goal in this chapter is to introduce "
-"the first of these big ideas, estimation theory, but I’m going to witter on "
-"about sampling theory first because estimation theory doesn’t make sense "
-"until you understand sampling. As a consequence, this chapter divides "
-"naturally into two parts :doc:`Samples, populations and sampling "
-"<Ch08_Estimation_1>` through :doc:`Sampling distributions and the central "
-"limit theorem <Ch08_Estimation_3>` are focused on sampling theory, and :doc:"
-"`Estimating population parameters <Ch08_Estimation_4>` and :doc:`Estimating "
-"a confidence interval <Ch08_Estimation_5>` make use of sampling theory to "
-"discuss how statisticians think about estimation."
+"in :doc:`../Ch04/Ch04_Descriptives`, the role of descriptive statistics is "
+"to concisely summarise what we *do* know. In contrast, the purpose of "
+"inferential statistics is to “learn what we do not know from what we do”. "
+"Now that we have a foundation in probability theory we are in a good "
+"position to think about the problem of statistical inference. What kinds of "
+"things would we like to learn about? And how do we learn them? These are the "
+"questions that lie at the heart of inferential statistics, and they are "
+"traditionally divided into two “big ideas”: estimation and hypothesis "
+"testing. The goal in this chapter is to introduce the first of these big "
+"ideas, estimation theory, but I’m going to witter on about sampling theory "
+"first because estimation theory doesn’t make sense until you understand "
+"sampling. As a consequence, this chapter divides naturally into two parts :"
+"doc:`Ch08_Estimation_1` through :doc:`Ch08_Estimation_3` are focused on "
+"sampling theory, and :doc:`Ch08_Estimation_4` and :doc:`Ch08_Estimation_5` "
+"make use of sampling theory to discuss how statisticians think about "
+"estimation."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:4
@@ -73,17 +71,17 @@ msgid ""
 "data set available to us is finite and incomplete. We can’t possibly get "
 "every person in the world to do our experiment, for example a polling "
 "company doesn’t have the time or the money to ring up every voter in the "
-"country. In our earlier discussion of :doc:`Descriptive statistics <../Ch04/"
-"Ch04_Descriptives>`, this sample was the only thing we were interested in. "
-"Our only goal was to find ways of describing, summarising and graphing that "
-"sample. This is about to change."
+"country. In our earlier discussion of :doc:`../Ch04/Ch04_Descriptives`, this "
+"sample was the only thing we were interested in. Our only goal was to find "
+"ways of describing, summarising and graphing that sample. This is about to "
+"change."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:33
+#: ../../Ch08/Ch08_Estimation_1.rst:32
 msgid "Defining a population"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:35
+#: ../../Ch08/Ch08_Estimation_1.rst:34
 msgid ""
 "A sample is a concrete thing. You can open up a data file and there’s the "
 "data from your sample. A **population**, on the other hand, is a more "
@@ -95,7 +93,7 @@ msgid ""
 "depend on the population about which you want to make statements."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:45
+#: ../../Ch08/Ch08_Estimation_1.rst:44
 msgid ""
 "Sometimes it’s easy to state the population of interest. For instance, in "
 "the “polling company” example that opened the chapter the population "
@@ -109,42 +107,42 @@ msgid ""
 "count as “the population”:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:56
+#: ../../Ch08/Ch08_Estimation_1.rst:55
 msgid ""
 "All of the undergraduate psychology students at the University of Adelaide?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:59
+#: ../../Ch08/Ch08_Estimation_1.rst:58
 msgid "Undergraduate psychology students in general, anywhere in the world?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:61
+#: ../../Ch08/Ch08_Estimation_1.rst:60
 msgid "Australians currently living?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:63
+#: ../../Ch08/Ch08_Estimation_1.rst:62
 msgid "Australians of similar ages to my sample?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:65
+#: ../../Ch08/Ch08_Estimation_1.rst:64
 msgid "Anyone currently alive?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:67
+#: ../../Ch08/Ch08_Estimation_1.rst:66
 msgid "Any human being, past, present or future?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:69
+#: ../../Ch08/Ch08_Estimation_1.rst:68
 msgid ""
 "Any biological organism with a sufficient degree of intelligence operating "
 "in a terrestrial environment?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:72
+#: ../../Ch08/Ch08_Estimation_1.rst:71
 msgid "Any intelligent being?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:74
+#: ../../Ch08/Ch08_Estimation_1.rst:73
 msgid ""
 "Each of these defines a real group of mind-possessing entities, all of which "
 "might be of interest to me as a cognitive scientist, and it’s not at all "
@@ -154,37 +152,37 @@ msgid ""
 "Wellesley. What is the population?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:81
+#: ../../Ch08/Ch08_Estimation_1.rst:80
 msgid "All outcomes until Wellesley and Croker arrived at their destination?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:83
+#: ../../Ch08/Ch08_Estimation_1.rst:82
 msgid ""
 "All outcomes if Wellesley and Croker had played the game for the rest of "
 "their lives?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:86
+#: ../../Ch08/Ch08_Estimation_1.rst:85
 msgid ""
 "All outcomes if Wellseley and Croker lived forever and played the game until "
 "the world ran out of hills?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:89
+#: ../../Ch08/Ch08_Estimation_1.rst:88
 msgid ""
 "All outcomes if we created an infinite set of parallel universes and the "
 "Wellesely/Croker pair made guesses about the same 12 hills in each universe?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:93
+#: ../../Ch08/Ch08_Estimation_1.rst:92
 msgid "Again, it’s not obvious what the population is."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:96
+#: ../../Ch08/Ch08_Estimation_1.rst:95
 msgid "Simple random samples"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:98
+#: ../../Ch08/Ch08_Estimation_1.rst:97
 msgid ""
 "Irrespective of how I define the population, the critical point is that the "
 "sample is a subset of the population and our goal is to use our knowledge of "
@@ -194,7 +192,7 @@ msgid ""
 "is important to understand why it matters."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:105
+#: ../../Ch08/Ch08_Estimation_1.rst:104
 msgid ""
 "To keep things simple, let’s imagine that we have a bag containing 10 chips. "
 "Each chip has a unique letter printed on it so we can distinguish between "
@@ -220,11 +218,11 @@ msgid ""
 "sampled **without replacement**."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:134
+#: ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:138
+#: ../../Ch08/Ch08_Estimation_1.rst:137
 msgid ""
 "To help make sure you understand the importance of the sampling procedure, "
 "consider an alternative way in which the experiment could have been run. "
@@ -239,11 +237,11 @@ msgid ""
 "simple random sample, because it makes the data analysis *much* easier."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:156
+#: ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:160
+#: ../../Ch08/Ch08_Estimation_1.rst:159
 msgid ""
 "A third procedure is worth mentioning. This time around we close our eyes, "
 "shake the bag, and pull out a chip. This time, however, we record the "
@@ -257,11 +255,11 @@ msgid ""
 "numref:`fig-srs2`."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:176
+#: ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:180
+#: ../../Ch08/Ch08_Estimation_1.rst:179
 msgid ""
 "In my experience, most psychology experiments tend to be sampling without "
 "replacement, because the same person is not allowed to participate in the "
@@ -274,11 +272,11 @@ msgid ""
 "other hand, is not such an easy thing to dismiss."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:191
+#: ../../Ch08/Ch08_Estimation_1.rst:190
 msgid "Most samples are not simple random samples"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:193
+#: ../../Ch08/Ch08_Estimation_1.rst:192
 msgid ""
 "As you can see from looking at the list of possible populations that I "
 "showed above, it is almost impossible to obtain a simple random sample from "
@@ -291,7 +289,7 @@ msgid ""
 "the more important ones."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:203
+#: ../../Ch08/Ch08_Estimation_1.rst:202
 msgid ""
 "*Stratified sampling*. Suppose your population is (or can be) divided into "
 "several different sub-populations, or *strata*. Perhaps you’re running a "
@@ -310,7 +308,7 @@ msgid ""
 "deliberate attempt to over-represent rare groups."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:221
+#: ../../Ch08/Ch08_Estimation_1.rst:220
 msgid ""
 "*Snowball sampling* is a technique that is especially useful when sampling "
 "from a “hidden” or hard to access population and is especially common in "
@@ -337,7 +335,7 @@ msgid ""
 "data doesn’t always mean you should."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:247
+#: ../../Ch08/Ch08_Estimation_1.rst:246
 msgid ""
 "*Convenience sampling* is more or less what it sounds like. The samples are "
 "chosen in a way that is convenient to the researcher, and not selected at "
@@ -353,11 +351,11 @@ msgid ""
 "sometimes a severe limitation, but not always."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:262
+#: ../../Ch08/Ch08_Estimation_1.rst:261
 msgid "How much does it matter if you don’t have a simple random sample?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:264
+#: ../../Ch08/Ch08_Estimation_1.rst:263
 msgid ""
 "Okay, so real world data collection tends not to involve nice simple random "
 "samples. Does that matter? A little thought should make it clear to you that "
@@ -372,7 +370,7 @@ msgid ""
 "problem."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:277
+#: ../../Ch08/Ch08_Estimation_1.rst:276
 msgid ""
 "More generally though, it’s important to remember that random sampling is a "
 "means to an end, and not the end in itself. Let’s assume you’ve relied on a "
@@ -403,7 +401,7 @@ msgid ""
 "working memory capacity is."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:307
+#: ../../Ch08/Ch08_Estimation_1.rst:306
 msgid ""
 "There are two points hidden in this discussion. First, when designing your "
 "own studies, it’s important to think about what population you care about "
@@ -419,11 +417,11 @@ msgid ""
 "have distorted the results."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:322
+#: ../../Ch08/Ch08_Estimation_1.rst:321
 msgid "Population parameters and sample statistics"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:324
+#: ../../Ch08/Ch08_Estimation_1.rst:323
 msgid ""
 "Okay. Setting aside the thorny methodological issues associated with "
 "obtaining a random sample, let’s consider a slightly different issue. Up to "
@@ -437,15 +435,14 @@ msgid ""
 "abstraction in the way that mathematicians do. As a consequence, statistical "
 "theory tends to be a bit abstract in how a population is defined. In much "
 "the same way that psychological researchers operationalise our abstract "
-"theoretical ideas in terms of concrete measurements (section :doc:"
-"`Introduction to psychological measurement <../Ch02/Ch02_StudyDesign_1>`), "
-"statisticians operationalise the concept of a “population” in terms of "
-"mathematical objects that they know how to work with. You’ve already come "
-"across these objects in chapter :doc:`Introduction to probability <../Ch07/"
-"Ch07_Probability>`. They’re called probability distributions."
+"theoretical ideas in terms of concrete measurements (section :doc:`../Ch02/"
+"Ch02_StudyDesign_1`), statisticians operationalise the concept of a "
+"“population” in terms of mathematical objects that they know how to work "
+"with. You’ve already come across these objects in chapter :doc:`../Ch07/"
+"Ch07_Probability`. They’re called probability distributions."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:343
+#: ../../Ch08/Ch08_Estimation_1.rst:341
 msgid ""
 "The idea is quite simple. Let’s say we’re talking about IQ scores. To a "
 "psychologist the population of interest is a group of actual humans who have "
@@ -459,25 +456,25 @@ msgid ""
 "deviation σ is 15."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:360
+#: ../../Ch08/Ch08_Estimation_1.rst:358
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:360
+#: ../../Ch08/Ch08_Estimation_1.rst:358
 msgid ""
 "The population distribution of IQ scores (left panel) and two samples drawn "
 "randomly from it: In the middle panel, we have a sample of 100 observations, "
 "and in the right panel, we have a sample of 10,000 observations."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:366
+#: ../../Ch08/Ch08_Estimation_1.rst:364
 msgid ""
 "Now suppose I run an experiment. I select 100 people at random and "
 "administer an IQ test, giving me a simple random sample from the population. "
 "My sample would consist of a collection of numbers like this:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:375
+#: ../../Ch08/Ch08_Estimation_1.rst:373
 msgid ""
 "Each of these IQ scores is sampled from a normal distribution with mean 100 "
 "and standard deviation 15. So if I plot a histogram of the sample I get "
@@ -493,14 +490,13 @@ msgid ""
 "general, sample statistics are the things you can calculate from your data "
 "set and the population parameters are the things you want to learn about. "
 "Later on in this chapter I’ll talk about how you can estimate population "
-"parameters using your sample statistics (:doc:`Estimating population "
-"parameters <Ch08_Estimation_4>`) and how to work out how confident you are "
-"in your estimates (:doc:`Estimating a confidence interval "
-"<Ch08_Estimation_5>`) but before we get to that there’s a few more ideas in "
+"parameters using your sample statistics (:doc:`Ch08_Estimation_4`) and how "
+"to work out how confident you are in your estimates (:doc:"
+"`Ch08_Estimation_5`) but before we get to that there’s a few more ideas in "
 "sampling theory that you need to know about."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:397
+#: ../../Ch08/Ch08_Estimation_1.rst:394
 msgid ""
 "The proper mathematical definition of randomness is extraordinarily "
 "technical, and way beyond the scope of this book. We’ll be non-technical "
@@ -508,7 +504,7 @@ msgid ""
 "is possible to repeat the process and get different answers each time."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:404
+#: ../../Ch08/Ch08_Estimation_1.rst:401
 msgid ""
 "Nothing in life is that simple. There’s not an obvious division of people "
 "into binary categories like “schizophrenic” and “not schizophrenic”. But "
@@ -1252,15 +1248,15 @@ msgid ""
 "here’s a handy table:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:266
+#: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "Symbol"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:266
+#: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "What is it?"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:266
+#: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "Do we know what it is?"
 msgstr ""
 
@@ -1272,8 +1268,8 @@ msgstr ""
 msgid "Sample mean"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:268
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:267
+#: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Yes, calculated from the raw data"
 msgstr ""
 
@@ -1285,8 +1281,8 @@ msgstr "µ"
 msgid "True population mean"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:271
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:270
+#: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Almost never known for sure"
 msgstr ""
 
@@ -1468,9 +1464,9 @@ msgstr ""
 msgid ""
 "The fix to this systematic bias turns out to be very simple. Here’s how it "
 "works. Before tackling the standard deviation let’s look at the variance. If "
-"you recall from :doc:`Measures of variability <../Ch04/"
-"Ch04_Descriptives_2>`, the sample variance is defined to be the average of "
-"the squared deviations from the sample mean. That is:"
+"you recall from :doc:`../Ch04/Ch04_Descriptives_2`, the sample variance is "
+"defined to be the average of the squared deviations from the sample mean. "
+"That is:"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:221
@@ -1500,15 +1496,15 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_4.rst:230
 msgid ""
 "This is an unbiased estimator of the population variance σ. Moreover, this "
-"finally answers the question we raised in :doc:`Measures of variability <../"
-"Ch04/Ch04_Descriptives_2>`. Why did jamovi give us slightly different "
-"answers for variance? It’s because jamovi calculates :math:`\\hat\\sigma^2` "
-"not *s*\\², that’s why. A similar story applies for the standard deviation. "
-"If we divide by *N* - 1 rather than *N* our estimate of the population "
-"standard deviation becomes:"
+"finally answers the question we raised in :doc:`../Ch04/"
+"Ch04_Descriptives_2`. Why did jamovi give us slightly different answers for "
+"variance? It’s because jamovi calculates :math:`\\hat\\sigma^2` not *s*\\², "
+"that’s why. A similar story applies for the standard deviation. If we divide "
+"by *N* - 1 rather than *N* our estimate of the population standard deviation "
+"becomes:"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:238
+#: ../../Ch08/Ch08_Estimation_4.rst:237
 msgid ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
@@ -1516,13 +1512,13 @@ msgstr ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:240
+#: ../../Ch08/Ch08_Estimation_4.rst:239
 msgid ""
 "and when we use jamovi’s built in standard deviation function, what it’s "
 "doing is calculating :math:`\\hat\\sigma`, not *s*.\\ [#]_"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:243
+#: ../../Ch08/Ch08_Estimation_4.rst:242
 msgid ""
 "One final point. In practice, a lot of people tend to refer to :math:"
 "`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
@@ -1544,69 +1540,69 @@ msgid ""
 "doing exactly that."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:262
+#: ../../Ch08/Ch08_Estimation_4.rst:261
 msgid ""
 "To finish this section off, here’s another couple of tables to help keep "
 "things clear."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "*s*"
 msgstr "*s*"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:268
+#: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "Sample standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:271
+#: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "σ"
 msgstr "σ"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:271
+#: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "Population standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid ":math:`\\hat{\\sigma}`"
 msgstr ":math:`\\hat{\\sigma}`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Estimate of the population standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:274
+#: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Yes, but not the same as the sample standard deviation"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "*s*\\²"
 msgstr "*s*\\²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:279
+#: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Sample variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "σ²"
 msgstr "σ²"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:282
+#: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Population variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:285
+#: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid ":math:`\\hat{\\sigma}^2`"
 msgstr ":math:`\\hat{\\sigma}^2`"
 
-#: ../../Ch08/Ch08_Estimation_4.rst:285
+#: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Estimate of the population variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:285
+#: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Yes, but not the same as the sample variance"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:292
+#: ../../Ch08/Ch08_Estimation_4.rst:291
 msgid ""
 "Please note that if you were *actually* interested in this question you "
 "would need to be a *lot* more careful than I’m being here. You *can’t* just "
@@ -1615,23 +1611,23 @@ msgid ""
 "between the two towns corresponded to the different refineries (and it "
 "isn’t, not by a long shot), you need to account for the fact that people "
 "already *believe* that lead pollution causes cognitive deficits. If you "
-"recall back to chapter :doc:`A brief introduction to research design <../"
-"Ch02/Ch02_StudyDesign>`, this means that there are different demand effects "
-"for the Port Pirie sample than for the Whyalla sample. In other words, you "
-"might end up with an illusory group difference in your data, caused by the "
-"fact that people *think* that there is a real difference. I find it pretty "
-"implausible to think that the locals wouldn’t be well aware of what you were "
-"trying to do if a bunch of researchers turned up in Port Pirie with lab "
-"coats and IQ tests, and even less plausible to think that a lot of people "
-"would be pretty resentful of you for doing it. Those people won’t be as co-"
-"operative in the tests. Other people in Port Pirie might be *more* motivated "
-"to do well because they don’t want their home town to look bad. The "
-"motivational effects that would apply in Whyalla are likely to be weaker, "
-"because people don’t have any concept of “iron ore poisoning” in the same "
-"way that they have a concept for “lead poisoning”. Psychology is *hard*."
+"recall back to chapter :doc:`../Ch02/Ch02_StudyDesign`, this means that "
+"there are different demand effects for the Port Pirie sample than for the "
+"Whyalla sample. In other words, you might end up with an illusory group "
+"difference in your data, caused by the fact that people *think* that there "
+"is a real difference. I find it pretty implausible to think that the locals "
+"wouldn’t be well aware of what you were trying to do if a bunch of "
+"researchers turned up in Port Pirie with lab coats and IQ tests, and even "
+"less plausible to think that a lot of people would be pretty resentful of "
+"you for doing it. Those people won’t be as co-operative in the tests. Other "
+"people in Port Pirie might be *more* motivated to do well because they don’t "
+"want their home town to look bad. The motivational effects that would apply "
+"in Whyalla are likely to be weaker, because people don’t have any concept of "
+"“iron ore poisoning” in the same way that they have a concept for “lead "
+"poisoning”. Psychology is *hard*."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:316
+#: ../../Ch08/Ch08_Estimation_4.rst:314
 msgid ""
 "I should note that I’m hiding something here. Unbiasedness is a desirable "
 "characteristic for an estimator, but there are other things that matter "
@@ -1640,7 +1636,7 @@ msgid ""
 "hidden complexity here."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:323
+#: ../../Ch08/Ch08_Estimation_4.rst:321
 msgid ""
 "Okay, I’m hiding something else here. In a bizarre and counter-intuitive "
 "twist, since :math:`\\hat\\sigma^2` is an unbiased estimator of σ², you’d "
@@ -1777,17 +1773,16 @@ msgid ""
 "interval is approximately correct, but I glossed over an important detail in "
 "the discussion. Notice my formula requires you to use the standard error of "
 "the mean, *SEM*, which in turn requires you to use the true population "
-"standard deviation σ. Yet, in :doc:`Estimating population parameters "
-"<Ch08_Estimation_4>` I stressed the fact that we don’t actually *know* the "
-"true population parameters. Because we don’t know the true value of σ we "
-"have to use an estimate of the population standard deviation :math:"
-"`\\hat{\\sigma}` instead. This is pretty straightforward to do, but this has "
-"the consequence that we need to use the percentiles of the *t*-distribution "
-"rather than the normal distribution to calculate our magic number, and the "
-"answer depends on the sample size. When *N* is very large, we get pretty "
-"much the same value using the *t*-distribution or the normal distribution: "
-"1.96. But when *N* is small we get a much bigger number when we use the *t*-"
-"distribution: 2.26."
+"standard deviation σ. Yet, in :doc:`Ch08_Estimation_4` I stressed the fact "
+"that we don’t actually *know* the true population parameters. Because we "
+"don’t know the true value of σ we have to use an estimate of the population "
+"standard deviation :math:`\\hat{\\sigma}` instead. This is pretty "
+"straightforward to do, but this has the consequence that we need to use the "
+"percentiles of the *t*-distribution rather than the normal distribution to "
+"calculate our magic number, and the answer depends on the sample size. When "
+"*N* is very large, we get pretty much the same value using the *t*-"
+"distribution or the normal distribution: 1.96. But when *N* is small we get "
+"a much bigger number when we use the *t*-distribution: 2.26."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:92
@@ -1819,13 +1814,13 @@ msgid ""
 "relies very heavily on your own personal *beliefs* about the value of the "
 "population mean. I say that I am 95\\% confident because those are my "
 "beliefs. In everyday life that’s perfectly okay, but if you remember back "
-"to :doc:`What does probability mean? <../Ch07/Ch07_Probability_2>`, you’ll "
-"notice that talking about personal belief and confidence is a Bayesian idea. "
-"However, confidence intervals are *not* Bayesian tools. Like everything else "
-"in this chapter, confidence intervals are *frequentist* tools, and if you "
-"are going to use frequentist methods then it’s not appropriate to attach a "
-"Bayesian interpretation to them. If you use frequentist methods, you must "
-"adopt frequentist interpretations!"
+"to :doc:`../Ch07/Ch07_Probability_2`, you’ll notice that talking about "
+"personal belief and confidence is a Bayesian idea. However, confidence "
+"intervals are *not* Bayesian tools. Like everything else in this chapter, "
+"confidence intervals are *frequentist* tools, and if you are going to use "
+"frequentist methods then it’s not appropriate to attach a Bayesian "
+"interpretation to them. If you use frequentist methods, you must adopt "
+"frequentist interpretations!"
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:121
@@ -1885,7 +1880,7 @@ msgid ""
 "as *credible intervals*. In most situations credible intervals are quite "
 "similar to confidence intervals, but in other cases they are drastically "
 "different. As promised, though, I’ll talk more about the Bayesian "
-"perspective in chapter :doc:`Bayesian statistics <../Ch16/Ch16_Bayes>`."
+"perspective in chapter :doc:`../Ch16/Ch16_Bayes`."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:172
@@ -1913,9 +1908,9 @@ msgid ""
 "When it comes to plotting confidence intervals for the mean in jamovi, this "
 "is not (yet) available as part of the ``Descriptives`` options. However, "
 "when we get onto learning about specific statistical tests, for example in "
-"chapter :doc:`Comparing several means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`, "
-"we will see that we can plot confidence intervals as part of the data "
-"analysis. That’s pretty cool, so we’ll show you how to do that later on."
+"chapter :doc:`../Ch13/Ch13_ANOVA`, we will see that we can plot confidence "
+"intervals as part of the data analysis. That’s pretty cool, so we’ll show "
+"you how to do that later on."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:193
@@ -1951,20 +1946,18 @@ msgid ""
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_6.rst:17
-msgid ""
-":doc:`Sampling distributions and the central limit theorem "
-"<Ch08_Estimation_3>`"
-msgstr ""
+msgid ":doc:`Ch08_Estimation_3`"
+msgstr ":doc:`Ch08_Estimation_3`"
 
-#: ../../Ch08/Ch08_Estimation_6.rst:20
-msgid ":doc:`Estimating population parameters <Ch08_Estimation_4>`"
-msgstr ""
+#: ../../Ch08/Ch08_Estimation_6.rst:19
+msgid ":doc:`Ch08_Estimation_4`"
+msgstr ":doc:`Ch08_Estimation_4`"
 
-#: ../../Ch08/Ch08_Estimation_6.rst:22
-msgid ":doc:`Estimating a confidence interval <Ch08_Estimation_5>`"
-msgstr ""
+#: ../../Ch08/Ch08_Estimation_6.rst:21
+msgid ":doc:`Ch08_Estimation_5`"
+msgstr ":doc:`Ch08_Estimation_5`"
 
-#: ../../Ch08/Ch08_Estimation_6.rst:24
+#: ../../Ch08/Ch08_Estimation_6.rst:23
 msgid ""
 "As always, there’s a lot of topics related to sampling and estimation that "
 "aren’t covered in this chapter, but for an introductory psychology class "

@@ -19,6 +19,55 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -29,6 +78,83 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 16:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch06.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch06.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-11 18:43+0100\n"
@@ -109,27 +235,24 @@ msgstr ""
 "Liste von Themen zu beginnen:"
 
 #: ../../Ch06/Ch06_DataHandling.rst:45
-msgid ":doc:`Tabulating and cross-tabulating data <Ch06_DataHandling_1>`"
-msgstr ""
-":doc:`Erstellen von Häufigkeitstabellen und Kreuztabellen aus Ihren Daten "
-"<Ch06_DataHandling_1>`"
+msgid ":doc:`Ch06_DataHandling_1`"
+msgstr ":doc:`Ch06_DataHandling_1`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
-msgid ":doc:`Logical expressions in jamovi <Ch06_DataHandling_2>`"
-msgstr ":doc:`Logische Ausdrücke in jamovi <Ch06_DataHandling_2>`"
+msgid ":doc:`Ch06_DataHandling_2`"
+msgstr ":doc:`Ch06_DataHandling_2`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:49
-msgid ":doc:`Transforming or recoding a variable <Ch06_DataHandling_3>`"
-msgstr ""
-":doc:`Transformieren und Umkodieren einer Variablen <Ch06_DataHandling_3>`"
+msgid ":doc:`Ch06_DataHandling_3`"
+msgstr ":doc:`Ch06_DataHandling_3`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:51
-msgid ":doc:`Mathematical functions and operations <Ch06_DataHandling_4>`"
-msgstr ":doc:`Mathematische Funktionen und Operationen <Ch06_DataHandling_4>`"
+msgid ":doc:`Ch06_DataHandling_4`"
+msgstr ":doc:`Ch06_DataHandling_4`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:53
-msgid ":doc:`Extracting a subset of the data <Ch06_DataHandling_5>`"
-msgstr ":doc:`Extrahieren einer Teilmenge von Daten <Ch06_DataHandling_5>`"
+msgid ":doc:`Ch06_DataHandling_5`"
+msgstr ":doc:`Ch06_DataHandling_5`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:55
 msgid ""
@@ -269,19 +392,19 @@ msgstr "Kreuztabelle für die Variablen ``speaker`` und ``utterance``"
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
 "Don’t worry about the “χ² Tests” table that is produced. We are going to "
-"cover this later on in chapter :doc:`Categorical data analysis <../Ch10/"
-"Ch10_ChiSquare>`. When interpreting the contingency table remember that "
-"these are counts, so the fact that the first row and second column of "
-"numbers corresponds to a value of 2 indicates that ``makka-pakka`` (row 1) "
-"says ``onk`` (column 2) twice in this data set."
+"cover this later on in chapter :doc:`../Ch10/Ch10_ChiSquare`. When "
+"interpreting the contingency table remember that these are counts, so the "
+"fact that the first row and second column of numbers corresponds to a value "
+"of 2 indicates that ``makka-pakka`` (row 1) says ``onk`` (column 2) twice in "
+"this data set."
 msgstr ""
 "Kümmern Sie sich nicht um die Tabelle „χ² Tests“, die automatisch mit "
-"erzeugt wird. Wir werden später in Kapitel :doc:`Analyse kategorialer Daten "
-"<../Ch10/Ch10_ChiSquare>` darauf zurückkommen. Wenn Sie die Kreuztabelle "
-"interpretieren, denken Sie daran, dass es sich hier um Häufigkeiten handelt. "
-"Die Tatsache, dass in der ersten Zeile und in der zweiten Spalte, die Zahlen "
-"enthält, einen Wert von 2 steht, bedeutet, dass ``makka-pakka`` (Zeile 1) in "
-"diesem Datensatz zweimal ``onk`` (Spalte 2) sagt."
+"erzeugt wird. Wir werden später in Kapitel :doc:`../Ch10/Ch10_ChiSquare` "
+"darauf zurückkommen. Wenn Sie die Kreuztabelle interpretieren, denken Sie "
+"daran, dass es sich hier um Häufigkeiten handelt. Die Tatsache, dass in der "
+"ersten Zeile und in der zweiten Spalte, die Zahlen enthält, einen Wert von 2 "
+"steht, bedeutet, dass ``makka-pakka`` (Zeile 1) in diesem Datensatz zweimal "
+"``onk`` (Spalte 2) sagt."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:83
 msgid "Adding percentages to a contingency table"
@@ -1831,20 +1954,18 @@ msgid ""
 "This section returns to the |nightgarden|_ data set. If you’re reading this "
 "whole chapter in one sitting, then you should already have this data set "
 "loaded into a jamovi window. For this section, let’s focus on the two "
-"variables ``speaker`` and ``utterance`` (see :doc:`Tabulating and cross-"
-"tabulating data <Ch06_DataHandling_1>` if you’ve forgotten what those "
-"variables look like). Suppose that what I want to do is pull out only those "
-"utterances that were made by ``makka-pakka``. To that end, we need to "
-"specify a filter in jamovi. First open up a filter window by clicking on "
-"``Filters`` on the main jamovi ``Data`` toolbar. Then, in the ``Filter 1`` "
-"text box, next to the ``=`` sign, type the following:"
+"variables ``speaker`` and ``utterance`` (see :doc:`Ch06_DataHandling_1` if "
+"you’ve forgotten what those variables look like). Suppose that what I want "
+"to do is pull out only those utterances that were made by ``makka-pakka``. "
+"To that end, we need to specify a filter in jamovi. First open up a filter "
+"window by clicking on ``Filters`` on the main jamovi ``Data`` toolbar. Then, "
+"in the ``Filter 1`` text box, next to the ``=`` sign, type the following:"
 msgstr ""
 "Dieser Abschnitt kehrt zum Datensatz |nightgarden|_ zurück. Wenn Sie dieses "
 "ganze Kapitel in einer Sitzung lesen, dann sollten Sie diesen Datensatz "
 "bereits in jamovi geladen haben. In diesem Abschnitt wollen wir uns auf die "
 "beiden Variablen ``speaker`` und ``utterance`` konzentrieren (siehe :doc:"
-"`Erstellen von Häufigkeitstabellen und Kreuztabellen aus Ihren Daten <../"
-"Ch06/Ch06_DataHandling_1>`, falls Sie vergessen haben, wie diese Variablen "
+"`Ch06_DataHandling_1`, falls Sie vergessen haben, wie diese Variablen "
 "aussehen). Nehmen wir an, dass ich nur die Äußerungen herausziehen möchte, "
 "die von ``makka-pakka`` gemacht wurden. Zu diesem Zweck müssen wir einen "
 "Filter in jamovi erstellen. Öffnen Sie zunächst ein Filter-Eingabefeld, "

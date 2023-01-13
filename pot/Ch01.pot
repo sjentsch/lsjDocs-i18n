@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../Ch01/Ch01_WhyStats.rst:5
+#: ../../Ch01/Ch01_WhyStats.rst:4
 msgid "Why do we learn statistics?"
 msgstr ""
 
@@ -44,11 +44,11 @@ msgstr ""
 msgid "*A social science”*"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst:34
+#: ../../Ch01/Ch01_WhyStats.rst:33
 msgid "W.H. Auden\\ [#]_"
 msgstr ""
 
-#: ../../Ch01/Ch01_WhyStats.rst:31
+#: ../../Ch01/Ch01_WhyStats.rst:30
 msgid ""
 "The quote comes from Auden’s 1946 poem *Under Which Lyre: A Reactionary "
 "Tract for the Times*, delivered as part of a commencement address at Harvard "

@@ -4,321 +4,6 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
-# #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -327,7 +12,7 @@
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#
@@ -342,125 +27,42 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch17.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.10.3\n"
 
-#: ../../Ch17/Ch17_Epilogue.rst:5
+#: ../../Ch17/Ch17_Epilogue.rst:4
 msgid "Epilogue"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue.rst:0
+#: ../../Ch17/Ch17_Epilogue.rst:0 ../../Ch17/Ch17_Epilogue.rst
 msgid "*“Begin at the beginning”*, the King said, very gravely,"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue.rst:0
+#: ../../Ch17/Ch17_Epilogue.rst:0 ../../Ch17/Ch17_Epilogue.rst
 msgid "““and go on till you come to the end: then stop”*"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue.rst:26
+#: ../../Ch17/Ch17_Epilogue.rst:25
 msgid "Lewis Carroll"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue.rst:24
+#: ../../Ch17/Ch17_Epilogue.rst:23
 msgid ""
 "It feels somewhat strange to be writing this chapter, and more than a little "
 "inappropriate. An epilogue is what you write when a book is finished, and "
@@ -476,7 +78,7 @@ msgid ""
 "veneer of closure. So let’s give it a go, shall we?"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue.rst:38
+#: ../../Ch17/Ch17_Epilogue.rst:37
 msgid ""
 "First, I’m going to talk a bit about some of the content that I wish I’d had "
 "the chance to cram into this version of the book, just so that you can get a "
@@ -508,23 +110,22 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_1.rst:12
 msgid ""
-"**Other types of correlations.** In chapter :doc:`Correlation and linear "
-"regression <../Ch12/Ch12_Regression>` I talked about two types of "
-"correlation: Pearson and Spearman. Both of these methods of assessing "
-"correlation are applicable to the case where you have two continuous "
-"variables |continuous| and want to assess the relationship between them. "
-"What about the case where your variables are both nominal scale |nominal|? "
-"Or when one is nominal |nominal| scale and the other is continuous |"
-"continuous|? There are actually methods for computing correlations in such "
-"cases (e.g., polychoric correlation), and it would be good to see these "
-"included."
+"**Other types of correlations.** In chapter :doc:`../Ch12/Ch12_Regression` I "
+"talked about two types of correlation: Pearson and Spearman. Both of these "
+"methods of assessing correlation are applicable to the case where you have "
+"two continuous variables |continuous| and want to assess the relationship "
+"between them. What about the case where your variables are both nominal "
+"scale |nominal|? Or when one is nominal |nominal| scale and the other is "
+"continuous |continuous|? There are actually methods for computing "
+"correlations in such cases (e.g., polychoric correlation), and it would be "
+"good to see these included."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:66 ../../Ch17/Ch17_Epilogue_2.rst:174
+#: ../../Ch17/Ch17_Epilogue_1.rst:63 ../../Ch17/Ch17_Epilogue_2.rst:172
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:69 ../../Ch17/Ch17_Epilogue_2.rst:177
+#: ../../Ch17/Ch17_Epilogue_1.rst:66 ../../Ch17/Ch17_Epilogue_2.rst:175
 msgid "nominal"
 msgstr "nominal"
 
@@ -545,37 +146,35 @@ msgid ""
 "of your test (or model) are violated, but I think that I ought to say more "
 "about this. In particular, I think it would have been nice to talk in a lot "
 "more detail about how you can tranform variables to fix problems. I talked a "
-"bit about this in the sections :doc:`Transforming or recoding a variable <../"
-"Ch06/Ch06_DataHandling_3>` and :doc:`Mathematical functions and operations "
-"<../Ch06/Ch06_DataHandling_4>`, but the discussion isn’t detailed enough I "
+"bit about this in the sections :doc:`../Ch06/Ch06_DataHandling_3` and :doc:"
+"`../Ch06/Ch06_DataHandling_4`, but the discussion isn’t detailed enough I "
 "think."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:40
+#: ../../Ch17/Ch17_Epilogue_1.rst:39
 msgid ""
-"**Interaction terms for regression.** In chapter :doc:`Factorial ANOVA <../"
-"Ch14/Ch14_ANOVA2>`, I talked about the fact that you can have interaction "
-"terms in an ANOVA, and I also pointed out that ANOVA can be interpreted as a "
-"kind of linear regression model. Yet, when talking about regression in "
-"chapter :doc:`Correlation and linear regression <../Ch12/Ch12_Regression>` I "
-"made not mention of interactions at all. However, there’s nothing stopping "
-"you from including interaction terms in a regression model. It’s just a "
-"little more complicated to figure out what an “interaction” actually means "
-"when you’re talking about the interaction between two continuous predictors |"
-"continuous|, and it can be done in more than one way. Even so, I would have "
-"liked to talk a little about this."
+"**Interaction terms for regression.** In chapter :doc:`../Ch14/Ch14_ANOVA2`, "
+"I talked about the fact that you can have interaction terms in an ANOVA, and "
+"I also pointed out that ANOVA can be interpreted as a kind of linear "
+"regression model. Yet, when talking about regression in chapter :doc:`../"
+"Ch12/Ch12_Regression` I made not mention of interactions at all. However, "
+"there’s nothing stopping you from including interaction terms in a "
+"regression model. It’s just a little more complicated to figure out what an "
+"“interaction” actually means when you’re talking about the interaction "
+"between two continuous predictors |continuous|, and it can be done in more "
+"than one way. Even so, I would have liked to talk a little about this."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:52
+#: ../../Ch17/Ch17_Epilogue_1.rst:50
 msgid ""
-"**Method of planned comparison.** As I mentioned this in chapter :doc:"
-"`Factorial ANOVA <../Ch14/Ch14_ANOVA2>`, it’s not always appropriate to be "
-"using a post-hoc correction like Tukey’s HSD when doing an ANOVA, especially "
-"when you had a very clear (and limited) set of comparisons that you cared "
-"about ahead of time. I would like to talk more about this in the future."
+"**Method of planned comparison.** As I mentioned this in chapter :doc:`../"
+"Ch14/Ch14_ANOVA2`, it’s not always appropriate to be using a post-hoc "
+"correction like Tukey’s HSD when doing an ANOVA, especially when you had a "
+"very clear (and limited) set of comparisons that you cared about ahead of "
+"time. I would like to talk more about this in the future."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_1.rst:59
+#: ../../Ch17/Ch17_Epilogue_1.rst:56
 msgid ""
 "**Multiple comparison methods.** Even within the context of talking about "
 "post-hoc tests and multiple comparisons, I would have liked to talk about "
@@ -600,22 +199,21 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:13
 msgid ""
-"**Nonlinear regression.** When discussing regression in chapter :doc:"
-"`Correlation and linear regression <../Ch12/Ch12_Regression>`, we saw that "
-"regression assumes that the relationship between predictors and outcomes is "
-"linear. On the other hand, when we talked about the simpler problem of "
-"correlation, we saw that there exist tools (e.g., Spearman correlations) "
-"that are able to assess non-linear relationships between variables. There "
-"are a number of tools in statistics that can be used to do non-linear "
-"regression. For instance, some non-linear regression models assume that the "
-"relationship between predictors and outcomes is monotonic (e.g., isotonic "
-"regression), while others assume that it is smooth but not necessarily "
-"monotonic (e.g., Lowess regression), while others assume that the "
-"relationship is of a known form that happens to be nonlinear (e.g., "
+"**Nonlinear regression.** When discussing regression in chapter :doc:`../"
+"Ch12/Ch12_Regression`, we saw that regression assumes that the relationship "
+"between predictors and outcomes is linear. On the other hand, hen we talked "
+"about the simpler problem of correlation, we saw that there exist tools (e."
+"g., Spearman correlations) that are able to assess non-linear relationships "
+"between variables. There are a number of tools in statistics that can be "
+"used to do non-linear regression. For instance, some non-linear regression "
+"models assume that the relationship between predictors and outcomes is "
+"monotonic (e.g., isotonic regression), while others assume that it is smooth "
+"but not necessarily monotonic (e.g., Lowess regression), while others assume "
+"that the relationship is of a known form that happens to be nonlinear (e.g., "
 "polynomial regression)."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:27
+#: ../../Ch17/Ch17_Epilogue_2.rst:26
 msgid ""
 "**Logistic regression.** Yet another variation on regression occurs when the "
 "outcome variable is binary |nominal|, multinomial |nominal| (several groups) "
@@ -631,11 +229,11 @@ msgid ""
 "prominent of which is logistic regression."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:180
+#: ../../Ch17/Ch17_Epilogue_2.rst:178
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:40
+#: ../../Ch17/Ch17_Epilogue_2.rst:39
 msgid ""
 "**The General Linear Model (GLM).** The GLM is actually a family of models "
 "that includes logistic regression, linear regression, (some) nonlinear "
@@ -647,40 +245,39 @@ msgid ""
 "thing to know about."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:49
+#: ../../Ch17/Ch17_Epilogue_2.rst:48
 msgid ""
-"**Survival analysis.** In chapter :doc:`A brief introduction to research "
-"design <../Ch02/Ch02_StudyDesign>`, I talked about “differential attrition”, "
-"the tendency for people to leave the study in a non-random fashion. Back "
-"then, I was talking about it as a potential methodological concern, but "
-"there are a lot of situations in which differential attrition is actually "
-"the thing you’re interested in. Suppose, for instance, you’re interested in "
-"finding out how long people play different kinds of computer games in a "
-"single session. Do people tend to play RTS (real time strategy) games for "
-"longer stretches than FPS (first person shooter) games? You might design "
-"your study like this. People come into the lab, and they can play for as "
-"long or as little as they like. Once they’re finished, you record the time "
-"they spent playing. However, due to ethical restrictions, let’s suppose that "
-"you cannot allow them to keep playing longer than two hours. A lot of people "
-"will stop playing before the two hour limit, so you know exactly how long "
-"they played. But some people will run into the two hour limit, and so you "
-"don’t know how long they would have kept playing if you’d been able to "
-"continue the study. As a consequence, your data are systematically "
-"*censored*: you’re missing all of the very long times. How do you analyse "
-"this data sensibly? This is the problem that survival analysis solves. It is "
-"specifically designed to handle this situation, where you’re systematically "
-"missing one “side” of the data because the study ended. It’s very widely "
-"used in health research, and in that context it is often literally used to "
-"analyse survival. For instance, you may be tracking people with a particular "
-"type of cancer, some who have received treatment A and others who have "
-"received treatment B, but you only have funding to track them for 5 years. "
-"At the end of the study period some people are alive, others are not. In "
-"this context, survival analysis is useful for determining which treatment is "
-"more effective, and telling you about the risk of death that people face "
-"over time."
+"**Survival analysis.** In chapter :doc:`../Ch02/Ch02_StudyDesign`, I talked "
+"about “differential attrition”, the tendency for people to leave the study "
+"in a non-random fashion. Back then, I was talking about it as a potential "
+"methodological concern, but there are a lot of situations in which "
+"differential attrition is actually the thing you’re interested in. Suppose, "
+"for instance, you’re interested in finding out how long people play "
+"different kinds of computer games in a single session. Do people tend to "
+"play RTS (real time strategy) games for longer stretches than FPS (first "
+"person shooter) games? You might design your study like this. People come "
+"into the lab, and they can play for as long or as little as they like. Once "
+"they’re finished, you record the time they spent playing. However, due to "
+"ethical restrictions, let’s suppose that you cannot allow them to keep "
+"playing longer than two hours. A lot of people will stop playing before the "
+"wo hour limit, so you know exactly how long they played. But some people "
+"will run into the two hour limit, and so you don’t know how long they would "
+"have kept playing if you’d been able to continue the study. As a "
+"consequence, your data are systematically *censored*: you’re missing all of "
+"the very long times. How do you analyse this data sensibly? This is the "
+"problem that survival analysis solves. It is specifically designed to handle "
+"this situation, where you’re systematically missing one “side” of the data "
+"because the study ended. It’s very widely used in health research, and in "
+"that context it is often literally used to analyse survival. For instance, "
+"you may be tracking people with a particular type of cancer, some who have "
+"received treatment A and others who have received treatment B, but you only "
+"have funding to track them for 5 years. At the end of the study period some "
+"people are alive, others are not. In this context, survival analysis is "
+"useful for determining which treatment is more effective, and telling you "
+"about the risk of death that people face over time."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:80
+#: ../../Ch17/Ch17_Epilogue_2.rst:78
 msgid ""
 "**Mixed models.** Repeated measures ANOVA is often used in situations where "
 "you have observations clustered within experimental units. A good example of "
@@ -702,7 +299,7 @@ msgid ""
 "repeated measures ANOVA."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:101
+#: ../../Ch17/Ch17_Epilogue_2.rst:99
 msgid ""
 "**Multidimensional scaling.** Factor analysis is an example of an "
 "“unsupervised learning” model. What this means is that, unlike most of the "
@@ -720,7 +317,7 @@ msgid ""
 "dissimilar those items are."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:117
+#: ../../Ch17/Ch17_Epilogue_2.rst:115
 msgid ""
 "**Clustering.** Another example of an unsupervised learning model is "
 "clustering (also referred to as classification), in which you want to "
@@ -738,7 +335,7 @@ msgid ""
 "big topic, and a pretty useful thing to know about."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:133
+#: ../../Ch17/Ch17_Epilogue_2.rst:131
 msgid ""
 "**Causal models.** One thing that I haven’t talked about much in this book "
 "is how you can use statistical modelling to learn about the causal "
@@ -770,7 +367,7 @@ msgid ""
 "it."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_2.rst:164
+#: ../../Ch17/Ch17_Epilogue_2.rst:162
 msgid ""
 "Of course, even this listing is incomplete. I haven’t mentioned time series "
 "analysis, item response theory, market basket analysis, classification and "
@@ -789,65 +386,63 @@ msgstr ""
 msgid ""
 "A different sense in which this book is incomplete is that it focuses pretty "
 "heavily on a very narrow and old-fashioned view of how inferential "
-"statistics should be done. In chapter :doc:`Estimating unknown quantities "
-"from a sample <../Ch08/Ch08_Estimation>` I talked a little bit about the "
-"idea of unbiased estimators, sampling distributions and so on. In chapter :"
-"doc:`Hypothesis testing <../Ch09/Ch09_HypothesisTesting>` I talked about the "
-"theory of null hypothesis significance testing and *p*-values. These ideas "
-"have been around since the early 20th century, and the tools that I’ve "
-"talked about in the book rely very heavily on the theoretical ideas from "
-"that time. I’ve felt obligated to stick to those topics because the vast "
-"majority of data analysis in science is also reliant on those ideas. "
-"However, the theory of statistics is not restricted to those topics and, "
-"whilst everyone should know about them because of their practical "
-"importance, in many respects those ideas do not represent best practice for "
-"contemporary data analysis. One of the things that I’m especially happy with "
-"is that I’ve been able to go a little beyond this. Chapter :doc:`Bayesian "
-"statistics <../Ch16/Ch16_Bayes>` now presents the Bayesian perspective in a "
+"statistics should be done. In chapter :doc:`../Ch08/Ch08_Estimation` I "
+"talked a little bit about the idea of unbiased estimators, sampling "
+"distributions and so on. In chapter :doc:`../Ch09/Ch09_HypothesisTesting` I "
+"talked about the theory of null hypothesis significance testing and *p*-"
+"values. These ideas have been around since the early 20th century, and the "
+"tools that I’ve talked about in the book rely very heavily on the "
+"theoretical ideas from that time. I’ve felt obligated to stick to those "
+"topics because the vast majority of data analysis in science is also reliant "
+"on those ideas. However, the theory of statistics is not restricted to those "
+"topics and, whilst everyone should know about them because of their "
+"practical importance, in many respects those ideas do not represent best "
+"practice for contemporary data analysis. One of the things that I’m "
+"especially happy with is that I’ve been able to go a little beyond this. "
+"Chapter :doc:`../Ch16/Ch16_Bayes` now presents the Bayesian perspective in a "
 "reasonable amount of detail, but the book overall is still pretty heavily "
 "weighted towards the frequentist orthodoxy. Additionally, there are a number "
 "of other approaches to inference that are worth mentioning:"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_3.rst:26
+#: ../../Ch17/Ch17_Epilogue_3.rst:25
 msgid ""
 "**Bootstrapping.** Throughout the book, whenever I’ve introduced a "
 "hypothesis test, I’ve had a strong tendency just to make assertions like "
 "“the sampling distribution for BLAH is a *t*-distribution” or something like "
 "that. In some cases, I’ve actually attempted to justify this assertion. For "
-"example, when talking about χ²-tests in chapter :doc:`Categorical data "
-"analysis <../Ch10/Ch10_ChiSquare>`, I made reference to the known "
-"relationship between normal distributions and χ²-distributions (see chapter :"
-"doc:`Introduction to probability <../Ch07/Ch07_Probability>` to explain how "
-"we end up assuming that the sampling distribution of the goodness-of-fit "
-"statistic is χ². However, it’s also the case that a lot of these sampling "
-"distributions are, well, wrong. The χ²-test is a good example. It is based "
-"on an assumption about the distribution of your data, an assumption which is "
-"known to be wrong for small sample sizes! Back in the early 20th century, "
-"there wasn’t much you could do about this situation. Statisticians had "
-"developed mathematical results that said that “under assumptions BLAH about "
-"the data, the sampling distribution is approximately BLAH”, and that was "
-"about the best you could do. A lot of times they didn’t even have that. "
-"There are lots of data analysis situations for which no-one has found a "
-"mathematical solution for the sampling distributions that you need. And so "
-"up until the late 20th century, the corresponding tests didn’t exist or "
-"didn’t work. However, computers have changed all that now. There are lots of "
-"fancy tricks, and some not-so-fancy, that you can use to get around it. The "
-"simplest of these is bootstrapping, and in it’s simplest form it’s "
-"incredibly simple. What you do is simulate the results of your experiment "
-"lots and lots of times, under the twin assumptions that (a) the null "
-"hypothesis is true and (b) the unknown population distribution actually "
-"looks pretty similar to your raw data. In other words, instead of assuming "
-"that the data are (for instance) normally distributed, just assume that the "
-"population looks the same as your sample, and then use computers to simulate "
-"the sampling distribution for your test statistic if that assumption holds. "
-"Despite relying on a somewhat dubious assumption (i.e., the population "
-"distribution is the same as the sample!) bootstrapping is quick and easy "
-"method that works remarkably well in practice for lots of data analysis "
-"problems."
+"example, when talking about χ²-tests in chapter :doc:`../Ch10/"
+"Ch10_ChiSquare`, I made reference to the known relationship between normal "
+"distributions and χ²-distributions (see chapter :doc:`../Ch07/"
+"Ch07_Probability` to explain how we end up assuming that the sampling "
+"distribution of the goodness-of-fit statistic is χ². However, it’s also the "
+"case that a lot of these sampling distributions are, well, wrong. The χ²-"
+"test is a good example. It is based on an assumption about the distribution "
+"of your data, an assumption which is known to be wrong for small sample "
+"sizes! Back in the early 20th century, there wasn’t much you could do about "
+"this situation. Statisticians had developed mathematical results that said "
+"that “under assumptions BLAH about the data, the sampling distribution is "
+"approximately BLAH”, and that was about the best you could do. A lot of "
+"times they didn’t even have that. There are lots of data analysis situations "
+"for which no-one has found a mathematical solution for the sampling "
+"distributions that you need. And so up until the late 20th century, the "
+"corresponding tests didn’t exist or didn’t work. However, computers have "
+"changed all that now. There are lots of fancy tricks, and some not-so-fancy, "
+"that you can use to get around it. The simplest of these is bootstrapping, "
+"and in it’s simplest form it’s incredibly simple. What you do is simulate "
+"the results of your experiment lots and lots of times, under the twin "
+"assumptions that (a) the null hypothesis is true and (b) the unknown "
+"population distribution actually looks pretty similar to your raw data. In "
+"other words, instead of assuming that the data are (for instance) normally "
+"distributed, just assume that the population looks the same as your sample, "
+"and then use computers to simulate the sampling distribution for your test "
+"statistic if that assumption holds. Despite relying on a somewhat dubious "
+"assumption (i.e., the population distribution is the same as the sample!) "
+"bootstrapping is quick and easy method that works remarkably well in "
+"practice for lots of data analysis problems."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_3.rst:61
+#: ../../Ch17/Ch17_Epilogue_3.rst:60
 msgid ""
 "**Cross validation.** One question that pops up in my stats classes every "
 "now and then, usually by a student trying to be provocative, is “Why do we "
@@ -873,7 +468,7 @@ msgid ""
 "just fit it to the full data set X."
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_3.rst:86
+#: ../../Ch17/Ch17_Epilogue_3.rst:85
 msgid ""
 "**Robust statistics.** Life is messy, and nothing really works the way it’s "
 "supposed to. This is just as true for statistics as it is for anything else, "
@@ -959,29 +554,29 @@ msgid ""
 msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_4.rst:45
+#, python-format
 msgid ""
-"**Power analysis.** In chapter :doc:`Hypothesis testing <../Ch09/"
-"Ch09_HypothesisTesting>` I discussed the concept of power (i.e., how likely "
-"are you to be able to detect an effect if it actually exists) and referred "
-"to power analysis, a collection of tools that are useful for assessing how "
-"much power your study has. Power analysis can be useful for planning a study "
-"(e.g., figuring out how large a sample you’re likely to need), but it also "
-"serves a useful role in analysing data that you already collected. For "
-"instance, suppose you get a significant result, and you have an estimate of "
-"your effect size. You can use this information to estimate how much power "
-"your study actually had. This is kind of useful, especially if your effect "
-"size is not large. For instance, suppose you reject the null hypothesis at "
-"*p* < 0.05, but you use power analysis to figure out that your estimated "
-"power was only 0.08. The significant result means that, if the null "
-"hypothesis was in fact true, there was a 5\\% chance of getting data like "
-"this. But the low power means that, even if the null hypothesis is false and "
-"the effect size was really as small as it looks, there was only an 8\\% "
-"chance of getting data like you did. This suggests that you need to be "
-"pretty cautious, because luck seems to have played a big part in your "
-"results, one way or the other!"
+"**Power analysis.** In chapter :doc:`../Ch09/Ch09_HypothesisTesting` I "
+"discussed the concept of power (i.e., how likely are you to be able to "
+"detect an effect if it actually exists) and referred to power analysis, a "
+"collection of tools that are useful for assessing how much power your study "
+"has. Power analysis can be useful for planning a study (e.g., figuring out "
+"how large a sample you’re likely to need), but it also serves a useful role "
+"in analysing data that you already collected. For instance, suppose you get "
+"a significant result, and you have an estimate of your effect size. You can "
+"use this information to estimate how much power your study actually had. "
+"This is kind of useful, especially if your effect size is not large. For "
+"instance, suppose you reject the null hypothesis at *p* < 0.05, but you use "
+"power analysis to figure out that your estimated power was only 0.08. The "
+"significant result means that, if the null hypothesis was in fact true, "
+"there was a 5\\% chance of getting data like this. But the low power means "
+"that, even if the null hypothesis is false and the effect size was really as "
+"small as it looks, there was only an 8\\% chance of getting data like you "
+"did. This suggests that you need to be pretty cautious, because luck seems "
+"to have played a big part in your results, one way or the other!"
 msgstr ""
 
-#: ../../Ch17/Ch17_Epilogue_4.rst:65
+#: ../../Ch17/Ch17_Epilogue_4.rst:64
 msgid ""
 "**Data analysis using theory-inspired models.** In a few places in this book "
 "I’ve mentioned response time (RT) data, where you record how long it takes "

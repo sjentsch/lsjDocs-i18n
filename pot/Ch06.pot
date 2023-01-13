@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,24 +52,24 @@ msgid ""
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:45
-msgid ":doc:`Tabulating and cross-tabulating data <Ch06_DataHandling_1>`"
-msgstr ""
+msgid ":doc:`Ch06_DataHandling_1`"
+msgstr ":doc:`Ch06_DataHandling_1`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
-msgid ":doc:`Logical expressions in jamovi <Ch06_DataHandling_2>`"
-msgstr ""
+msgid ":doc:`Ch06_DataHandling_2`"
+msgstr ":doc:`Ch06_DataHandling_2`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:49
-msgid ":doc:`Transforming or recoding a variable <Ch06_DataHandling_3>`"
-msgstr ""
+msgid ":doc:`Ch06_DataHandling_3`"
+msgstr ":doc:`Ch06_DataHandling_3`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:51
-msgid ":doc:`Mathematical functions and operations <Ch06_DataHandling_4>`"
-msgstr ""
+msgid ":doc:`Ch06_DataHandling_4`"
+msgstr ":doc:`Ch06_DataHandling_4`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:53
-msgid ":doc:`Extracting a subset of the data <Ch06_DataHandling_5>`"
-msgstr ""
+msgid ":doc:`Ch06_DataHandling_5`"
+msgstr ":doc:`Ch06_DataHandling_5`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:55
 msgid ""
@@ -164,18 +164,18 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
 "Don’t worry about the “χ² Tests” table that is produced. We are going to "
-"cover this later on in chapter :doc:`Categorical data analysis <../Ch10/"
-"Ch10_ChiSquare>`. When interpreting the contingency table remember that "
-"these are counts, so the fact that the first row and second column of "
-"numbers corresponds to a value of 2 indicates that ``makka-pakka`` (row 1) "
-"says ``onk`` (column 2) twice in this data set."
+"cover this later on in chapter :doc:`../Ch10/Ch10_ChiSquare`. When "
+"interpreting the contingency table remember that these are counts, so the "
+"fact that the first row and second column of numbers corresponds to a value "
+"of 2 indicates that ``makka-pakka`` (row 1) says ``onk`` (column 2) twice in "
+"this data set."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:83
+#: ../../Ch06/Ch06_DataHandling_1.rst:82
 msgid "Adding percentages to a contingency table"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:85
+#: ../../Ch06/Ch06_DataHandling_1.rst:84
 msgid ""
 "The contingency table shown in :numref:`fig-contingencytable` shows a table "
 "of raw frequencies. That is, a count of the total number of cases for "
@@ -187,18 +187,18 @@ msgid ""
 "to the one in :numref:`fig-contingencyrow`."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:100
+#: ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:100
+#: ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with row "
 "percentages"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:105
+#: ../../Ch06/Ch06_DataHandling_1.rst:104
 msgid ""
 "What we’re looking at here is the percentage of utterances made by each "
 "character. In other words, 50\\% of ``makka-pakka``’s utterances are "
@@ -211,12 +211,12 @@ msgid ""
 "Tombliboo saying it."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:120
+#: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:120
+#: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with "
 "column percentages"
@@ -1246,16 +1246,15 @@ msgid ""
 "This section returns to the |nightgarden|_ data set. If you’re reading this "
 "whole chapter in one sitting, then you should already have this data set "
 "loaded into a jamovi window. For this section, let’s focus on the two "
-"variables ``speaker`` and ``utterance`` (see :doc:`Tabulating and cross-"
-"tabulating data <Ch06_DataHandling_1>` if you’ve forgotten what those "
-"variables look like). Suppose that what I want to do is pull out only those "
-"utterances that were made by ``makka-pakka``. To that end, we need to "
-"specify a filter in jamovi. First open up a filter window by clicking on "
-"``Filters`` on the main jamovi ``Data`` toolbar. Then, in the ``Filter 1`` "
-"text box, next to the ``=`` sign, type the following:"
+"variables ``speaker`` and ``utterance`` (see :doc:`Ch06_DataHandling_1` if "
+"you’ve forgotten what those variables look like). Suppose that what I want "
+"to do is pull out only those utterances that were made by ``makka-pakka``. "
+"To that end, we need to specify a filter in jamovi. First open up a filter "
+"window by clicking on ``Filters`` on the main jamovi ``Data`` toolbar. Then, "
+"in the ``Filter 1`` text box, next to the ``=`` sign, type the following:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:28
+#: ../../Ch06/Ch06_DataHandling_5.rst:27
 msgid ""
 "When you have done this, you will see that a new column has been added to "
 "the spreadsheet window (see :numref:`fig-subset1`), labelled ``Filter 1``, "
@@ -1267,17 +1266,17 @@ msgid ""
 "on, try it, and see what that shows!"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:42
+#: ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid "Creating a subset using ``Filters``"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:42
+#: ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid ""
 "Creating a subset of the |nightgarden|_ data set using the jamovi "
 "``Filters`` option"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:47
+#: ../../Ch06/Ch06_DataHandling_5.rst:46
 msgid ""
 "Following on from this simple example, you can also build up more complex "
 "filters using logical expressions in jamovi. For instance, suppose I wanted "

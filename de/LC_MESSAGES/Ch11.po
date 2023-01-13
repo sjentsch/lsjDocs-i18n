@@ -1,5 +1,33 @@
 # #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
 # work is licensed under a Creative Commons Attribution-Non Commercial 4.0
 # International License.
@@ -18,9 +46,53 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-11 18:43+0100\n"
+"POT-Creation-Date: 2023-01-13 20:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 19:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-12 21:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-01-12 20:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,39 +108,38 @@ msgstr "Vergleich zweier Mittelwerte"
 
 #: ../../Ch11/Ch11_tTest.rst:21
 msgid ""
-"In chapter :doc:`Categorical data analysis <../Ch10/Ch10_ChiSquare>` we "
-"covered the situation when your outcome variable is nominal scale |nominal| "
-"and your predictor variable is also nominal scale |nominal|. Lots of real "
-"world situations have that character, and so you’ll find that χ²-tests in "
-"particular are quite widely used. However, you’re much more likely to find "
-"yourself in a situation where your outcome variable is interval scale or "
-"higher |continuous|, and what you’re interested in is whether the average "
-"value of the outcome variable is higher in one group or another. For "
-"instance, a psychologist might want to know if anxiety levels are higher "
-"among parents than non-parents, or if working memory capacity is reduced by "
-"listening to music (relative to not listening to music). In a medical "
-"context we might want to know if a new drug increases or decreases blood "
-"pressure. An agricultural scientist might want to know whether adding "
-"phosphorus to Australian native plants will kill them.\\ [#]_ In all these "
-"situations our outcome variable is a fairly continuous |continuous|, "
-"interval or ratio scale variable, and our predictor is a binary “grouping” "
-"variable |nominal|. In other words, we want to compare the means of the two "
-"groups."
+"In chapter :doc:`../Ch10/Ch10_ChiSquare` we covered the situation when your "
+"outcome variable is nominal scale |nominal| and your predictor variable is "
+"also nominal scale |nominal|. Lots of real world situations have that "
+"character, and so you’ll find that χ²-tests in particular are quite widely "
+"used. However, you’re much more likely to find yourself in a situation where "
+"your outcome variable is interval scale or higher |continuous|, and what "
+"you’re interested in is whether the average value of the outcome variable is "
+"higher in one group or another. For instance, a psychologist might want to "
+"know if anxiety levels are higher among parents than non-parents, or if "
+"working memory capacity is reduced by listening to music (relative to not "
+"listening to music). In a medical context we might want to know if a new "
+"drug increases or decreases blood pressure. An agricultural scientist might "
+"want to know whether adding phosphorus to Australian native plants will kill "
+"them.\\ [#]_ In all these situations our outcome variable is a fairly "
+"continuous |continuous|, interval or ratio scale variable, and our predictor "
+"is a binary “grouping” variable |nominal|. In other words, we want to "
+"compare the means of the two groups."
 msgstr ""
-"Im Kapitel :doc:`Analyse kategorialer Daten <../Ch10/Ch10_ChiSquare>` haben "
-"wir die Situation behandelt, in der Ihre Ergebnisvariable eine nominale "
-"Skala |nominal| und Ihre Prädiktorvariable ebenfalls eine nominale Skala |"
-"nominal| hat. Viele Situationen in der realen Welt haben diesen Charakter, "
-"und so werden Sie feststellen, dass insbesondere χ²-Tests recht häufig "
-"verwendet werden. Es ist jedoch viel wahrscheinlicher, dass Sie sich in "
-"einer Situation befinden, in der Ihre Ergebnisvariable eine Intervallskala "
-"oder eine höhere Skala |continuous| ist, und Sie daran interessiert sind, ob "
-"der Durchschnittswert der Ergebnisvariable in der einen oder anderen Gruppe "
-"höher ist. Ein Psychologe könnte beispielsweise wissen wollen, ob die "
-"Angstwerte bei Eltern höher sind als bei Nicht-Eltern oder ob die Kapazität "
-"des Arbeitsgedächtnisses durch das Hören von Musik verringert wird (im "
-"Vergleich zum Nicht-Hören von Musik). In medizinischem Kontext könnte man "
-"wissen wollen, ob ein neues Medikament den Blutdruck erhöht oder senkt. Ein "
+"Im Kapitel :doc:`../Ch10/Ch10_ChiSquare` haben wir die Situation behandelt, "
+"in der Ihre Ergebnisvariable eine nominale Skala |nominal| und Ihre "
+"Prädiktorvariable ebenfalls eine nominale Skala |nominal| hat. Viele "
+"Situationen in der realen Welt haben diesen Charakter, und so werden Sie "
+"feststellen, dass insbesondere χ²-Tests recht häufig verwendet werden. Es "
+"ist jedoch viel wahrscheinlicher, dass Sie sich in einer Situation befinden, "
+"in der Ihre Ergebnisvariable eine Intervallskala oder eine höhere Skala |"
+"continuous| ist, und Sie daran interessiert sind, ob der Durchschnittswert "
+"der Ergebnisvariable in der einen oder anderen Gruppe höher ist. Ein "
+"Psychologe könnte beispielsweise wissen wollen, ob die Angstwerte bei Eltern "
+"höher sind als bei Nicht-Eltern oder ob die Kapazität des "
+"Arbeitsgedächtnisses durch das Hören von Musik verringert wird (im Vergleich "
+"zum Nicht-Hören von Musik). In medizinischem Kontext könnte man wissen "
+"wollen, ob ein neues Medikament den Blutdruck erhöht oder senkt. Ein "
 "Agrarwissenschaftler könnte wissen wollen, ob das Düngen mit Phosphor "
 "australische Pflanzen abtötet.\\ [#]_ In all diesen Situationen ist unsere "
 "Ergebnisvariable eine kontinuierliche Variable auf einer Intervall- oder "
@@ -76,13 +147,13 @@ msgstr ""
 "„Gruppierungs“-Variable |nominal|. Mit anderen Worten, wir wollen die "
 "Mittelwerte der beiden Gruppen vergleichen."
 
-#: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:479
-#: ../../Ch11/Ch11_tTest_05.rst:234 ../../Ch11/Ch11_tTest_09.rst:142
+#: ../../Ch11/Ch11_tTest.rst:69 ../../Ch11/Ch11_tTest_03.rst:476
+#: ../../Ch11/Ch11_tTest_05.rst:233 ../../Ch11/Ch11_tTest_09.rst:142
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:476
-#: ../../Ch11/Ch11_tTest_05.rst:231 ../../Ch11/Ch11_tTest_09.rst:139
+#: ../../Ch11/Ch11_tTest.rst:66 ../../Ch11/Ch11_tTest_03.rst:473
+#: ../../Ch11/Ch11_tTest_05.rst:230 ../../Ch11/Ch11_tTest_09.rst:139
 msgid "continuous"
 msgstr "continuous"
 
@@ -96,7 +167,7 @@ msgid ""
 "samples *t*-test: The :doc:`Student test <Ch11_tTest_03>` assumes that the "
 "groups have the same standard deviation, the :doc:`Welch test "
 "<Ch11_tTest_04>` does not. Afterwards, :doc:`paired samples *t*-tests "
-"<Ch11_tTest_05>` are discussed. We’ll then talk about :doc:`One-sided tests "
+"<Ch11_tTest_05>` are discussed. We’ll then talk about :doc:`one-sided tests "
 "<Ch11_tTest_06>` and, after that, we’ll talk a bit about Cohen’s *d*, which "
 "is the standard measure of :doc:`effect size <Ch11_tTest_07>` for a *t*-"
 "test. The later sections of the chapter focus on the assumptions of the *t*-"
@@ -114,7 +185,7 @@ msgstr ""
 "gleiche Standardabweichung haben, und dem :doc:`Welch-Test <Ch11_tTest_04>` "
 "bei dem diese Voraussetzung nicht erfüllt sein muss. Danach werden :doc:`*t*-"
 "Tests für gepaarte Stichproben <Ch11_tTest_05>` besprochen. Wir sprechen "
-"dann über :doc:`Einseitige Tests <Ch11_tTest_06>` und danach ein wenig über "
+"dann über :doc:`einseitige Tests <Ch11_tTest_06>` und danach ein wenig über "
 "Cohen's *d*, welches das Standardmaß für die :doc:`Effektstärke "
 "<Ch11_tTest_07>` für einen *t*-Test ist. Die späteren Abschnitte des "
 "Kapitels konzentrieren sich auf die Voraussetzungen, um *t*-Tests "
@@ -411,8 +482,8 @@ msgid ""
 "true, and the true mean is µ\\ :sub:`0`, then these facts together mean that "
 "we know the complete population distribution of the data: a normal "
 "distribution with mean µ\\ :sub:`0` and standard deviation σ. Adopting the "
-"notation from section :doc:`Normal distribution <../Ch07/"
-"Ch07_Probability_5>`, a statistician might write this as:"
+"notation from section :doc:`../Ch07/Ch07_Probability_5`, a statistician "
+"might write this as:"
 msgstr ""
 "Um das herauszufinden, müssen wir etwas raffinierter vorgehen und uns auf "
 "die beiden zuvor genannten Hintergrundinformationen stützen, nämlich dass "
@@ -422,14 +493,13 @@ msgstr ""
 "bedeuten diese Tatsachen zusammen, dass wir die Verteilung der Daten in der "
 "Population kennen: eine Normalverteilung mit dem Mittelwert µ\\ :sub:`0` und "
 "der Standardabweichung σ. In Anlehnung an die Notation aus dem Abschnitt :"
-"doc:`Normalverteilung <../Ch07/Ch07_Probability_5>` könnte ein Statistiker "
-"dies so schreiben:"
+"doc:`../Ch07/Ch07_Probability_5` könnte ein Statistiker dies so schreiben:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:146
+#: ../../Ch11/Ch11_tTest_01.rst:145
 msgid "X ~ Normal(µ\\ :sub:`0`, σ²)"
 msgstr "X ~ Normal(μ\\ :sub:'0', σ²)"
 
-#: ../../Ch11/Ch11_tTest_01.rst:148
+#: ../../Ch11/Ch11_tTest_01.rst:147
 msgid ""
 "Okay, if that’s true, then what can we say about the distribution of *X̄*? "
 "Well, as we discussed earlier (see :ref:`The central limit theorem "
@@ -444,7 +514,7 @@ msgstr ""
 "Standardabweichung dieser Stichprobenverteilung *SE(X̄)*, die *Standardfehler "
 "des Mittelwerts* genannt wird, ist"
 
-#: ../../Ch11/Ch11_tTest_01.rst:154
+#: ../../Ch11/Ch11_tTest_01.rst:153
 msgid ""
 "SE(X̄) = \\frac{\\sigma}{\\sqrt{N}}\n"
 "\n"
@@ -452,7 +522,7 @@ msgstr ""
 "SE(X̄) = \\frac{\\sigma}{\\sqrt{N}}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_01.rst:156
+#: ../../Ch11/Ch11_tTest_01.rst:155
 msgid ""
 "In other words, if the null hypothesis is true then the sampling "
 "distribution of the mean can be written as follows:"
@@ -460,11 +530,11 @@ msgstr ""
 "Mit anderen Worten: Wenn die Nullhypothese wahr ist, kann die "
 "Stichprobenverteilung des Mittelwerts wie folgt geschrieben werden:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:159
+#: ../../Ch11/Ch11_tTest_01.rst:158
 msgid "*X̄* ~ Normal(µ\\ :sub:`0`, *SE(X̄)*)"
 msgstr "*X̄* ~ Normal(µ\\ :sub:`0`, *SE(X̄)*)"
 
-#: ../../Ch11/Ch11_tTest_01.rst:161
+#: ../../Ch11/Ch11_tTest_01.rst:160
 msgid ""
 "Now comes the trick. What we can do is convert the sample mean *X̄* into a :"
 "doc:`standard score <../Ch04/Ch04_Descriptives_5>`. This is conventionally "
@@ -483,7 +553,7 @@ msgstr ""
 "einzelnen Beobachtung, worauf sich ein *z*-Score normalerweise bezieht). Der "
 "*z*-Score für unseren Stichprobenmittelwert lautet dann:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:169
+#: ../../Ch11/Ch11_tTest_01.rst:168
 msgid ""
 "z_{\\bar{X}} = \\frac{\\bar{X} - \\mu_0}{SE(X̄)}\n"
 "\n"
@@ -491,11 +561,11 @@ msgstr ""
 "z_{\\bar{X}} = \\frac{\\bar{X} - \\mu_0}{SE(X̄)}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_01.rst:171
+#: ../../Ch11/Ch11_tTest_01.rst:170
 msgid "or, equivalently:"
 msgstr "oder, gleichwertig:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:173
+#: ../../Ch11/Ch11_tTest_01.rst:172
 msgid ""
 "z_{\\bar{X}} =  \\frac{\\bar{X} - \\mu_0}{\\sigma / \\sqrt{N}}\n"
 "\n"
@@ -503,7 +573,7 @@ msgstr ""
 "z_{\\bar{X}} =  \\frac{\\bar{X} - \\mu_0}{\\sigma / \\sqrt{N}}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_01.rst:175
+#: ../../Ch11/Ch11_tTest_01.rst:174
 msgid ""
 "This *z*-score is our test statistic. The nice thing about using this as our "
 "test statistic is that like all *z*-scores, it has a standard normal "
@@ -513,93 +583,93 @@ msgstr ""
 "Wertes als Teststatistik ist, dass er wie alle *z*-Scores einer "
 "Standardnormalverteilung folgt:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:179
+#: ../../Ch11/Ch11_tTest_01.rst:178
 msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
-#: ../../Ch11/Ch11_tTest_01.rst:181
+#: ../../Ch11/Ch11_tTest_01.rst:180
+#, python-format
 msgid ""
-"(again, see section :doc:`Standard scores <../Ch04/Ch04_Descriptives_5>` if "
-"you’ve forgotten why this is true). In other words, regardless of what scale "
-"the original data are on, the *z*-statistic itself always has the same "
-"interpretation: it’s equal to the number of standard errors that separate "
-"the observed sample mean *X̄* from the population mean µ\\ :sub:`0` predicted "
-"by the null hypothesis. Better yet, regardless of what the population "
-"parameters for the raw scores actually are, the 5\\% critical regions for "
-"the *z*-test are always the same, as illustrated in :numref:`fig-ztest`. And "
-"what this meant, way back in the days where people did all their statistics "
-"by hand, is that someone could publish a table like this:"
+"(again, see section :doc:`../Ch04/Ch04_Descriptives_5` if you’ve forgotten "
+"why this is true). In other words, regardless of what scale the original "
+"data are on, the *z*-statistic itself always has the same interpretation: "
+"it’s equal to the number of standard errors that separate the observed "
+"sample mean *X̄* from the population mean µ\\ :sub:`0` predicted by the null "
+"hypothesis. Better yet, regardless of what the population parameters for the "
+"raw scores actually are, the 5\\% critical regions for the *z*-test are "
+"always the same, as illustrated in :numref:`fig-ztest`. And what this meant, "
+"way back in the days where people did all their statistics by hand, is that "
+"someone could publish a table like this:"
 msgstr ""
-"(siehe auch den Abschnitt :doc:`Standardwerte <../Ch04/"
-"Ch04_Descriptives_5>`, falls Sie vergessen haben, warum das so ist). Mit "
-"anderen Worten: Unabhängig davon, auf welcher Skala die Originaldaten "
-"liegen, hat die *z*-Statistik immer dieselbe Interpretation: Sie ist gleich "
-"der Anzahl der Standardfehler, die den beobachteten Stichprobenmittelwert "
-"*X̄* von dem durch die Nullhypothese vorhergesagten Populationsmittelwert µ"
-"\\ :sub:`0` trennen. Noch besser: Unabhängig davon, wie die "
-"Populationsparameter für die Rohwerte tatsächlich aussehen, sind die "
-"kritischen 5\\%-Werte für den *z*-Test immer die gleichen, wie in :numref:"
-"`fig-ztest` dargestellt. In den Zeiten, als die Leute ihre Statistiken noch "
-"von Hand erstellten, bedeutete dies, dass jemand eine Tabelle wie diese "
-"veröffentlichen konnte:"
+"(siehe auch den Abschnitt :doc:`../Ch04/Ch04_Descriptives_5`, falls Sie "
+"vergessen haben, warum das so ist). Mit anderen Worten: Unabhängig davon, "
+"auf welcher Skala die Originaldaten liegen, hat die *z*-Statistik immer "
+"dieselbe Interpretation: Sie ist gleich der Anzahl der Standardfehler, die "
+"den beobachteten Stichprobenmittelwert *X̄* von dem durch die Nullhypothese "
+"vorhergesagten Populationsmittelwert µ\\ :sub:`0` trennen. Noch besser: "
+"Unabhängig davon, wie die Populationsparameter für die Rohwerte tatsächlich "
+"aussehen, sind die kritischen 5\\%-Werte für den *z*-Test immer die "
+"gleichen, wie in :numref:`fig-ztest` dargestellt. In den Zeiten, als die "
+"Leute ihre Statistiken noch von Hand erstellten, bedeutete dies, dass jemand "
+"eine Tabelle wie diese veröffentlichen konnte:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:193
+#: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "desired α level"
 msgstr "gewünschtes α-Niveau"
 
-#: ../../Ch11/Ch11_tTest_01.rst:193
+#: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "two-sided test"
 msgstr "zweiseitige Prüfung"
 
-#: ../../Ch11/Ch11_tTest_01.rst:193
+#: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "one-sided test"
 msgstr "einseitige Prüfung"
 
-#: ../../Ch11/Ch11_tTest_01.rst:195
+#: ../../Ch11/Ch11_tTest_01.rst:194
 msgid "0.1"
 msgstr "0.1"
 
-#: ../../Ch11/Ch11_tTest_01.rst:195 ../../Ch11/Ch11_tTest_01.rst:197
+#: ../../Ch11/Ch11_tTest_01.rst:194 ../../Ch11/Ch11_tTest_01.rst:196
 msgid "1.644854"
 msgstr "1.644854"
 
-#: ../../Ch11/Ch11_tTest_01.rst:195
+#: ../../Ch11/Ch11_tTest_01.rst:194
 msgid "1.281552"
 msgstr "1.281552"
 
-#: ../../Ch11/Ch11_tTest_01.rst:197
+#: ../../Ch11/Ch11_tTest_01.rst:196
 msgid "0.05"
 msgstr "0.05"
 
-#: ../../Ch11/Ch11_tTest_01.rst:197
+#: ../../Ch11/Ch11_tTest_01.rst:196
 msgid "1.959964"
 msgstr "1.959964"
 
-#: ../../Ch11/Ch11_tTest_01.rst:199
+#: ../../Ch11/Ch11_tTest_01.rst:198
 msgid "0.01"
 msgstr "0.01"
 
-#: ../../Ch11/Ch11_tTest_01.rst:199
+#: ../../Ch11/Ch11_tTest_01.rst:198
 msgid "2.575829"
 msgstr "2.575829"
 
-#: ../../Ch11/Ch11_tTest_01.rst:199
+#: ../../Ch11/Ch11_tTest_01.rst:198
 msgid "2.326348"
 msgstr "2.326348"
 
-#: ../../Ch11/Ch11_tTest_01.rst:201
+#: ../../Ch11/Ch11_tTest_01.rst:200
 msgid "0.001"
 msgstr "0.001"
 
-#: ../../Ch11/Ch11_tTest_01.rst:201
+#: ../../Ch11/Ch11_tTest_01.rst:200
 msgid "3.290527"
 msgstr "3.290527"
 
-#: ../../Ch11/Ch11_tTest_01.rst:201
+#: ../../Ch11/Ch11_tTest_01.rst:200
 msgid "3.090232"
 msgstr "3.090232"
 
-#: ../../Ch11/Ch11_tTest_01.rst:204
+#: ../../Ch11/Ch11_tTest_01.rst:203
 msgid ""
 "This, in turn, meant that researchers could calculate their *z*-statistic by "
 "hand and then look up the critical value in a text book."
@@ -607,11 +677,11 @@ msgstr ""
 "Dies wiederum bedeutete, dass Forscher ihre *z*-Statistik von Hand berechnen "
 "und dann den kritischen Wert in einer Tabelle nachschlagen konnten."
 
-#: ../../Ch11/Ch11_tTest_01.rst:214
+#: ../../Ch11/Ch11_tTest_01.rst:213
 msgid "Rejection regions for the two- and one-sided *z*-tests"
 msgstr "Ablehnungsbereiche für die zwei- und einseitigen *z*-Tests"
 
-#: ../../Ch11/Ch11_tTest_01.rst:214
+#: ../../Ch11/Ch11_tTest_01.rst:213
 msgid ""
 "Rejection regions for the two-sided *z*-test (left panel) and the one-sided "
 "*z*-test (right panel)"
@@ -619,11 +689,11 @@ msgstr ""
 "Ablehnungsbereiche für den zweiseitigen *z*-Test (links) und den einseitigen "
 "*z*-Test (rechts)"
 
-#: ../../Ch11/Ch11_tTest_01.rst:220
+#: ../../Ch11/Ch11_tTest_01.rst:219
 msgid "A worked example, by hand"
 msgstr "Ein praktisches Beispiel, Schritt-für-Schritt"
 
-#: ../../Ch11/Ch11_tTest_01.rst:222
+#: ../../Ch11/Ch11_tTest_01.rst:221
 msgid ""
 "Now, as I mentioned earlier, the *z*-test is almost never used in practice. "
 "It’s so rarely used in real life that the basic installation of jamovi "
@@ -646,7 +716,7 @@ msgstr ""
 "den die Nullhypothese vorgibt (µ\\ :sub:`0` = 67,5), außerdem kennen wir den "
 "Stichprobenumfang (*N* = 20)."
 
-#: ../../Ch11/Ch11_tTest_01.rst:232
+#: ../../Ch11/Ch11_tTest_01.rst:231
 msgid ""
 "Next, let’s calculate the (true) standard error of the mean (easily done "
 "with a calculator):"
@@ -654,11 +724,11 @@ msgstr ""
 "Als Nächstes berechnen wir den (wahren) Standardfehler des Mittelwerts (dies "
 "ist mit einem Taschenrechner leicht möglich):"
 
-#: ../../Ch11/Ch11_tTest_01.rst:241
+#: ../../Ch11/Ch11_tTest_01.rst:240
 msgid "And finally, we calculate our *z*-score:"
 msgstr "Und schließlich berechnen wir unseren *z*-Wert:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:249
+#: ../../Ch11/Ch11_tTest_01.rst:248
 msgid ""
 "At this point, we would traditionally look up the value 2.26 in our table of "
 "critical values. Our original hypothesis was two-sided (we didn’t really "
@@ -682,7 +752,7 @@ msgstr ""
 "Niveau von α = 0,01 signifikant zu sein. Daraus können wir schließen, dass "
 "wir einen signifikanten Effekt haben, den wir etwa so formulieren könnten:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:261
+#: ../../Ch11/Ch11_tTest_01.rst:260
 msgid ""
 "With a mean grade of 72.3 in the sample of psychology students, and assuming "
 "a true population standard deviation of 9.5, we can conclude that the "
@@ -695,11 +765,11 @@ msgstr ""
 "Psychologiestudenten signifikant andere Statistikwerte haben als der "
 "Klassendurchschnitt (*z* = 2,26, *N* = 20, *p* < 0,05)."
 
-#: ../../Ch11/Ch11_tTest_01.rst:269
+#: ../../Ch11/Ch11_tTest_01.rst:268
 msgid "Assumptions of the *z*-test"
 msgstr "Voraussetzungen für den *z*-Test"
 
-#: ../../Ch11/Ch11_tTest_01.rst:271
+#: ../../Ch11/Ch11_tTest_01.rst:270
 msgid ""
 "As I’ve said before, all statistical tests make assumptions. Some tests make "
 "reasonable assumptions, while other tests do not. The test I’ve just "
@@ -710,22 +780,20 @@ msgstr ""
 "den ich gerade beschrieben habe, der *z*-Test mit einer Stichprobe, geht von "
 "drei Grundannahmen aus. Diese sind:"
 
-#: ../../Ch11/Ch11_tTest_01.rst:275
+#: ../../Ch11/Ch11_tTest_01.rst:274
 msgid ""
 "*Normality*. As usually described, the *z*-test assumes that the true "
 "population distribution is normal.\\ [#]_ This is often a pretty reasonable "
 "assumption, and it’s also an assumption that we can check if we feel worried "
-"about it (see section :doc:`Checking the normality of a sample "
-"<Ch11_tTest_08>`)."
+"about it (see section :doc:`Ch11_tTest_08`)."
 msgstr ""
 "*Normalverteilung*. Wie üblicherweise beschrieben, geht der *z*-Test davon "
 "aus, dass die wahre Verteilung der Grundgesamtheit eine Normalverteilung ist."
 "\\ [#]_ Dies ist oft eine ziemlich vernünftige Annahme, und es ist auch eine "
 "Annahme, die wir überprüfen können, wenn wir uns darüber Sorgen machen "
-"(siehe Abschnitt :doc:`Überprüfen der Normalverteilung in einer Stichprobe "
-"<Ch11_tTest_08>`)."
+"(siehe den Abschnitt :doc:`Ch11_tTest_08`)."
 
-#: ../../Ch11/Ch11_tTest_01.rst:281
+#: ../../Ch11/Ch11_tTest_01.rst:279
 msgid ""
 "*Independence*. The second assumption of the test is that the observations "
 "in your data set are not correlated with each other, or related to each "
@@ -755,7 +823,7 @@ msgstr ""
 "um Studien so zu konzipieren, dass die Probleme mit korrelierten Daten "
 "möglichst gering sind."
 
-#: ../../Ch11/Ch11_tTest_01.rst:295
+#: ../../Ch11/Ch11_tTest_01.rst:293
 msgid ""
 "*Known standard deviation*. The third assumption of the *z*-test is that the "
 "true standard deviation of the population is known to the researcher. This "
@@ -770,7 +838,7 @@ msgstr ""
 "Grundgesamtheit, weiß aber nichts über den Mittelwert µ. Mit anderen Worten, "
 "diese Annahme ist *immer* falsch."
 
-#: ../../Ch11/Ch11_tTest_01.rst:303
+#: ../../Ch11/Ch11_tTest_01.rst:301
 msgid ""
 "In view of the stupidity of assuming that σ is known, let’s see if we can "
 "live without it. This takes us out of the dreary domain of the *z*-test, and "
@@ -782,7 +850,7 @@ msgstr ""
 "Tests und begeben uns in das magische Reich des *t*-Tests, mit Einhörnern, "
 "Feen und Kobolden!"
 
-#: ../../Ch11/Ch11_tTest_01.rst:311
+#: ../../Ch11/Ch11_tTest_01.rst:309
 msgid ""
 "Actually this is too strong. Strictly speaking requires the *z* test only "
 "that the sampling distribution of the mean is normally distributed. If the "
@@ -947,35 +1015,34 @@ msgid ""
 "estimate has been constructed from *N* observations, then the sampling "
 "distribution turns into a *t*-distribution with *N* - 1 **degrees of "
 "freedom** (df). The *t*-distribution is very similar to the normal "
-"distribution, but has “heavier” tails, as discussed earlier in :doc:`Other "
-"useful distributions <../Ch07/Ch07_Probability_6>` and illustrated in :"
-"numref:`fig-ttestdist`. Notice, though, that as *df* gets larger, the *t*-"
-"distribution starts to look identical to the standard normal distribution. "
-"This is as it should be: if you have a sample size of *N* = 70,000,000 then "
-"your “estimate” of the standard deviation would be pretty much perfect, "
-"right? So, you should expect that for large *N*, the *t*-test would behave "
-"exactly the same way as a *z*-test. And that’s exactly what happens!"
+"distribution, but has “heavier” tails, as discussed earlier in :doc:`../Ch07/"
+"Ch07_Probability_6` and illustrated in :numref:`fig-ttestdist`. Notice, "
+"though, that as *df* gets larger, the *t*-distribution starts to look "
+"identical to the standard normal distribution. This is as it should be: if "
+"you have a sample size of *N* = 70,000,000 then your “estimate” of the "
+"standard deviation would be pretty much perfect, right? So, you should "
+"expect that for large *N*, the *t*-test would behave exactly the same way as "
+"a *z*-test. And that’s exactly what happens!"
 msgstr ""
 "Das Einzige, was sich in der Gleichung geändert hat, ist, dass wir an Stelle "
 "des bekannten wahren Wertes σ die Schätzung :math:`\\hat{\\sigma}` "
 "verwenden. Und wenn diese Schätzung aus *N* Beobachtungen konstruiert wurde, "
 "dann wird die Stichprobenverteilung zu einer *t*-Verteilung mit *N* - 1 "
 "**Freiheitsgraden** (df). Die *t*-Verteilung ist der Normalverteilung sehr "
-"ähnlich, hat aber „schwerere“ Ausläufer, wie bereits in :doc:`Andere "
-"nützliche Verteilungen <../Ch07/Ch07_Probability_6>` besprochen und in :"
-"numref:`fig-ttestdist` dargestellt. Beachten Sie jedoch, dass die *t*-"
-"Verteilung mit zunehmender Größe von *df* beginnt, sich der Standard-"
-"Normalverteilung anzunähern. Das ist auch gut so: Bei einem "
-"Stichprobenumfang von *N* = 70.000.000 wäre Ihre „Schätzung“ der "
+"ähnlich, hat aber „schwerere“ Ausläufer, wie bereits in :doc:`../Ch07/"
+"Ch07_Probability_6` besprochen und in :numref:`fig-ttestdist` dargestellt. "
+"Beachten Sie jedoch, dass die *t*-Verteilung mit zunehmender Größe von *df* "
+"beginnt, sich der Standard-Normalverteilung anzunähern. Das ist auch gut so: "
+"Bei einem Stichprobenumfang von *N* = 70.000.000 wäre Ihre „Schätzung“ der "
 "Standardabweichung ziemlich genau. Sie sollten also erwarten, dass sich der "
 "*t*-Test bei einem großen *N* genau so verhält wie ein *z*-Test. Und genau "
 "das passiert auch!"
 
-#: ../../Ch11/Ch11_tTest_02.rst:89
+#: ../../Ch11/Ch11_tTest_02.rst:88
 msgid "*t*-distribution with *df* = 2 and *df* = 10"
 msgstr "*t*-Verteilung mit *df* = 2 und *df* = 10"
 
-#: ../../Ch11/Ch11_tTest_02.rst:89
+#: ../../Ch11/Ch11_tTest_02.rst:88
 msgid ""
 "The *t*-distribution with 2 degrees of freedom (left panel) and 10 degrees "
 "of freedom (right panel), with a standard normal distribution (i.e., mean = "
@@ -995,12 +1062,12 @@ msgstr ""
 "vernachlässigbar für größere Werte. Mit anderen Worten: Für große *df* ist "
 "die *t*-Verteilung im Wesentlichen identisch mit einer Normalverteilung."
 
-#: ../../Ch11/Ch11_tTest_02.rst:101 ../../Ch11/Ch11_tTest_03.rst:262
+#: ../../Ch11/Ch11_tTest_02.rst:100 ../../Ch11/Ch11_tTest_03.rst:261
 #: ../../Ch11/Ch11_tTest_05.rst:166
 msgid "Doing the test in jamovi"
 msgstr "Durchführen des Tests in jamovi"
 
-#: ../../Ch11/Ch11_tTest_02.rst:103
+#: ../../Ch11/Ch11_tTest_02.rst:102
 msgid ""
 "As you might expect, the mechanics of the *t*-test are almost identical to "
 "the mechanics of the *z*-test. So there’s not much point in going through "
@@ -1039,14 +1106,15 @@ msgstr ""
 "kommen werden, eine *t*-Statistik = 2.25 ergibt, mit 19 Freiheitsgraden und "
 "einem zugehörigen *p*-Wert von 0.036."
 
-#: ../../Ch11/Ch11_tTest_02.rst:127
+#: ../../Ch11/Ch11_tTest_02.rst:126
 msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr "Durchführen des *t*-Tests mit einer Stichprobe in jamovi"
 
-#: ../../Ch11/Ch11_tTest_02.rst:131
+#: ../../Ch11/Ch11_tTest_02.rst:130
+#, python-format
 msgid ""
-"Also reported are two other things you might care about: the 95\\% "
-"confidence interval and a measure of effect size (we’ll talk more about "
+"Also reported are two other things you might care about: the 95\\"
+"% confidence interval and a measure of effect size (we’ll talk more about "
 "effect sizes later). So that seems straightforward enough. Now what do we "
 "*do* with this output? Well, since we’re pretending that we actually care "
 "about my toy example, we’re overjoyed to discover that the result is "
@@ -1062,7 +1130,8 @@ msgstr ""
 "(d. h. einen *p*-Wert von unter 0,05 hat). Wir könnten das Ergebnis in etwa "
 "so wiedergeben:"
 
-#: ../../Ch11/Ch11_tTest_02.rst:139
+#: ../../Ch11/Ch11_tTest_02.rst:138
+#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher "
 "than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -1073,7 +1142,7 @@ msgstr ""
 "mittlere Differenz betrug 4,80 und das 95\\%-Konfidenzintervall lag zwischen "
 "0,34 und 9,26."
 
-#: ../../Ch11/Ch11_tTest_02.rst:144
+#: ../../Ch11/Ch11_tTest_02.rst:143
 msgid ""
 "where *t*\\(19) is shorthand notation for a *t*-statistic that has 19 "
 "degrees of freedom. That said, it’s often the case that people don’t report "
@@ -1089,11 +1158,11 @@ msgstr ""
 "dass das Konfidenzintervall als Teil des Statistikblocks nach der Angabe der "
 "Mittelwertdifferenz angegeben wird:"
 
-#: ../../Ch11/Ch11_tTest_02.rst:151
+#: ../../Ch11/Ch11_tTest_02.rst:150
 msgid "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
 msgstr "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
 
-#: ../../Ch11/Ch11_tTest_02.rst:153
+#: ../../Ch11/Ch11_tTest_02.rst:152
 msgid ""
 "With that much jargon crammed into half a line, you know it must be really "
 "smart.\\ [#]_"
@@ -1101,11 +1170,11 @@ msgstr ""
 "Bei so viel Fachjargon in einer halben Zeile weiß man, dass es wirklich "
 "schlau sein muss.\\ [#]_"
 
-#: ../../Ch11/Ch11_tTest_02.rst:159
+#: ../../Ch11/Ch11_tTest_02.rst:158
 msgid "Assumptions of the one sample *t*-test"
 msgstr "Voraussetzungen für den *t*-Test bei einer Stichprobe"
 
-#: ../../Ch11/Ch11_tTest_02.rst:161
+#: ../../Ch11/Ch11_tTest_02.rst:160
 msgid ""
 "Okay, so what assumptions does the one-sample *t*-test make? Well, since the "
 "*t*-test is basically a *z*-test with the assumption of known standard "
@@ -1120,24 +1189,22 @@ msgstr ""
 "erfordert wie der *z*-Test, abzüglich der Annahme der bekannten "
 "Standardabweichung. Das bedeutet"
 
-#: ../../Ch11/Ch11_tTest_02.rst:168
+#: ../../Ch11/Ch11_tTest_02.rst:167
 msgid ""
 "*Normality*. We’re still assuming that the population distribution is normal,"
 "\\ [#]_ and as noted earlier, there are standard tools that you can use to "
-"check to see if this assumption is met (section :doc:`Checking the normality "
-"of a sample <Ch11_tTest_08>`), and other tests you can do in it’s place if "
-"this assumption is violated (section :doc:`Testing non-normal data with "
-"Wilcoxon tests <Ch11_tTest_09>`)."
+"check to see if this assumption is met (section :doc:`Ch11_tTest_08`), and "
+"other tests you can do in it’s place if this assumption is violated "
+"(section :doc:`Ch11_tTest_09`)."
 msgstr ""
 "*Normalverteilung*. Wir gehen immer noch davon aus, dass die Grundgesamtheit "
 "normalverteilt ist,\\ [#]_ und wie bereits erwähnt, gibt es "
 "Standardwerkzeuge, mit denen Sie überprüfen können, ob diese Annahme erfüllt "
-"ist (Abschnitt :doc:`Überprüfen der Normalverteilung in einer Stichprobe <../"
-"Ch11/Ch11_tTest_08>`\\), und andere Tests, die Sie stattdessen durchführen "
-"können, wenn diese Annahme verletzt wird (Abschnitt :doc:`Prüfen nicht-"
-"normalverteilter Daten mit dem Wilcoxon-Test <Ch11_tTest_09>`\\)."
+"ist (Abschnitt :doc:`../Ch11/Ch11_tTest_08`), und andere Tests, die Sie "
+"durchführen können, wenn diese Annahme verletzt wird (Abschnitt :doc:"
+"`Ch11_tTest_09`)."
 
-#: ../../Ch11/Ch11_tTest_02.rst:175
+#: ../../Ch11/Ch11_tTest_02.rst:173
 msgid ""
 "*Independence*. Once again, we have to assume that the observations in our "
 "sample are generated independently of one another. See the earlier "
@@ -1149,7 +1216,7 @@ msgstr ""
 "Siehe die frühere Diskussion beim *z*-Test für Einzelheiten (Abschnitt :ref:"
 "`Annahmen des *z*-Tests <assumptions_z_test>`)."
 
-#: ../../Ch11/Ch11_tTest_02.rst:180
+#: ../../Ch11/Ch11_tTest_02.rst:178
 msgid ""
 "Overall, these two assumptions aren’t terribly unreasonable, and as a "
 "consequence the one-sample *t*-test is pretty widely used in practice as a "
@@ -1160,7 +1227,7 @@ msgstr ""
 "eines Stichprobenmittelwerts mit einem hypothetischen Populationsmittelwert "
 "verwendet."
 
-#: ../../Ch11/Ch11_tTest_02.rst:188
+#: ../../Ch11/Ch11_tTest_02.rst:186
 msgid ""
 "Well, sort of. As I understand the history, Gosset only provided a partial "
 "solution; the general solution to the problem was provided by Sir Ronald "
@@ -1170,7 +1237,7 @@ msgstr ""
 "nur eine Teillösung geliefert; die allgemeine Lösung des Problems wurde von "
 "Sir Ronald Fisher geliefert."
 
-#: ../../Ch11/Ch11_tTest_02.rst:193
+#: ../../Ch11/Ch11_tTest_02.rst:191
 msgid ""
 "More seriously, I tend to think the reverse is true. I get very suspicious "
 "of technical reports that fill their results sections with nothing except "
@@ -1189,7 +1256,7 @@ msgstr ""
 "versteht oder faul ist. Ihre Leser sind klug, aber nicht unendlich geduldig. "
 "Verärgern Sie sie nicht, wenn Sie es vermeiden können."
 
-#: ../../Ch11/Ch11_tTest_02.rst:202
+#: ../../Ch11/Ch11_tTest_02.rst:200
 msgid ""
 "A technical comment. In the same way that we can weaken the assumptions of "
 "the *z*-test so that we’re only talking about the sampling distribution, we "
@@ -1198,8 +1265,8 @@ msgid ""
 "this. As before, we can replace the assumption of population normality with "
 "an assumption that the sampling distribution of *X̄* is normal. However, "
 "remember that we’re also relying on a sample estimate of the standard "
-"deviation, and so we also require the sampling distribution of :math:`"
-"\\hat{\\sigma}` to be χ². That makes things nastier, and this version is "
+"deviation, and so we also require the sampling distribution of :math:"
+"`\\hat{\\sigma}` to be χ². That makes things nastier, and this version is "
 "rarely used in practice. Fortunately, if the population distribution is "
 "normal, then both of these two assumptions are met."
 msgstr ""
@@ -1261,10 +1328,9 @@ msgid ""
 "``ID``, ``grade`` and ``tutor``. The ``grade`` variable contains each "
 "student’s grade, but it is not imported into jamovi with the correct "
 "measurement level attribute, so I need to change this so it is regarded as a "
-"continuous variable |continuous| (see :doc:`Changing data from one level to "
-"another <../Ch03/Ch03_jamoviIntro_3>`). The ``tutor`` variable is a factor |"
-"nominal| that indicates who each student’s tutor was - either Anastasia or "
-"Bernadette."
+"continuous variable |continuous| (see :ref:`Changing measurement levels "
+"<variable_editor>`). The ``tutor`` variable is a factor |nominal| that "
+"indicates who each student’s tutor was - either Anastasia or Bernadette."
 msgstr ""
 "Angenommen, 33 Studenten besuchen die Statistikvorlesungen von Dr. Harpo, "
 "und Dr. Harpo benotet nicht im Einklang mit einer Normalverteilungskurve. "
@@ -1280,10 +1346,10 @@ msgstr ""
 "``tutor``. Die Variable ``grade`` enthält die Note jedes Schülers, aber sie "
 "wird nicht mit dem richtigen Attribut für die Messungsebene in jamovi "
 "importiert, also muss ich dies ändern, damit sie als kontinuierliche "
-"Variable |continuous| betrachtet wird (siehe :doc:`Skalenniveau von Daten "
-"ändern <../Ch03/Ch03_jamoviIntro_3>`). Die Variable ``tutor`` ist ein Faktor "
-"|nominal|, der angibt, wer der Tutor des jeweiligen Schülers war: entweder "
-"Anastasia oder Bernadette."
+"Variable |continuous| betrachtet wird (siehe :ref:`Skalenniveau von Daten "
+"ändern <variable_editor>`). Die Variable ``tutor`` ist ein Faktor |nominal|, "
+"der angibt, wer der Tutor des jeweiligen Schülers war: entweder Anastasia "
+"oder Bernadette."
 
 #: ../../Ch11/Ch11_tTest_03.rst:36
 msgid ""
@@ -1446,9 +1512,9 @@ msgstr ""
 "üblich bezeichnen wir die beobachteten Stichprobenmittelwerte für diese "
 "beiden Gruppen mit *X̄*\\ :sub:`1`und *X̄*\\ :sub:`2`. Unsere Nullhypothese "
 "besagt, dass die beiden Populationsmittelwerte identisch sind (µ\\ :sub:`1` "
-"= µ\\ :sub:`2`), und die Alternativhypothese ist, dass sie es nicht sind (µ"
-"\\ :sub:`1` ≠ µ\\ :sub:`2`). In mathematischer Sprache ausgedrückt bedeutet "
-"dies:"
+"= µ\\ :sub:`2`), und die Alternativhypothese ist, dass sie es nicht sind "
+"(µ\\ :sub:`1` ≠ µ\\ :sub:`2`). In mathematischer Sprache ausgedrückt "
+"bedeutet dies:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:107
 msgid "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
@@ -1621,15 +1687,15 @@ msgid ""
 "describing the pooled standard deviation estimate. It’s not my favourite way "
 "of thinking about pooled standard deviations, however. I prefer to think "
 "about it like this. Our data set actually corresponds to a set of *N* "
-"observations which are sorted into two groups. So let’s use the notation *X*"
-"\\ :sub:`ik` to refer to the grade received by the i-th student in the k-th "
-"tutorial group. That is, *X*\\ :sub:`11` is the grade received by the first "
-"student in Anastasia’s class, *X*\\ :sub:`21` is her second student, and so "
-"on. And we have two separate group means *X̄*\\ :sub:`1` and *X̄*\\ :sub:`2`, "
-"which we could “generically” refer to using the notation *X̄*\\ :sub:`k`, i."
-"e., the mean grade for the k-th tutorial group. So far, so good. Now, since "
-"every single student falls into one of the two tutorials, we can describe "
-"their deviation from the group mean as the difference"
+"observations which are sorted into two groups. So let’s use the notation "
+"*X*\\ :sub:`ik` to refer to the grade received by the i-th student in the k-"
+"th tutorial group. That is, *X*\\ :sub:`11` is the grade received by the "
+"first student in Anastasia’s class, *X*\\ :sub:`21` is her second student, "
+"and so on. And we have two separate group means *X̄*\\ :sub:`1` and *X̄*\\ :"
+"sub:`2`, which we could “generically” refer to using the notation *X̄*\\ :sub:"
+"`k`, i.e., the mean grade for the k-th tutorial group. So far, so good. Now, "
+"since every single student falls into one of the two tutorials, we can "
+"describe their deviation from the group mean as the difference"
 msgstr ""
 "Und wenn Sie w\\ :sub:`1` = *N*\\ :sub:`1` - 1 und w\\ :sub:`2` = *N*\\ :sub:"
 "`2` - 1 in diese Gleichung einsetzen, erhalten Sie eine sehr hässlich "
@@ -1678,27 +1744,26 @@ msgstr ""
 msgid ""
 "where the notation “Σ\\ :sub:`ik`” is a lazy way of saying “calculate a sum "
 "by looking at all students in all tutorials”, since each “ik” corresponds to "
-"one student.\\ [#]_ But, as we saw in chapter :doc:`Estimating unknown "
-"quantities from a sample <../Ch08/Ch08_Estimation>`, calculating the "
-"variance by dividing by *N* produces a biased estimate of the population "
-"variance. And previously we needed to divide by *N* - 1 to fix this. "
-"However, as I mentioned at the time, the reason why this bias exists is "
-"because the variance estimate relies on the sample mean, and to the extent "
-"that the sample mean isn’t equal to the population mean it can "
-"systematically bias our estimate of the variance. But this time we’re "
-"relying on *two* sample means! Does this mean that we’ve got more bias? Yes, "
-"yes it does. And does this mean we now need to divide by *N* - 2 instead of "
-"*N* - 1, in order to calculate our pooled variance estimate? Why, yes"
+"one student.\\ [#]_ But, as we saw in chapter :doc:`../Ch08/"
+"Ch08_Estimation`, calculating the variance by dividing by *N* produces a "
+"biased estimate of the population variance. And previously we needed to "
+"divide by *N* - 1 to fix this. However, as I mentioned at the time, the "
+"reason why this bias exists is because the variance estimate relies on the "
+"sample mean, and to the extent that the sample mean isn’t equal to the "
+"population mean it can systematically bias our estimate of the variance. But "
+"this time we’re relying on *two* sample means! Does this mean that we’ve got "
+"more bias? Yes, yes it does. And does this mean we now need to divide by *N* "
+"- 2 instead of *N* - 1, in order to calculate our pooled variance estimate? "
+"Why, yes"
 msgstr ""
 "wobei die Schreibweise „Σ\\ :sub:`ik`“ eine einfache Art ist, zu sagen: "
 "„Berechne eine Summe, indem du alle Studenten in allen Tutorien "
 "betrachtest“, da jedes „ik“ einem Studenten entspricht.\\ [#]_ Aber wie wir "
-"in Kapitel :doc:`Schätzen unbekannter Größen anhand einer Stichprobe <../"
-"Ch08/Ch08_Estimation>` gesehen haben, führt die Berechnung der Varianz bei "
-"der wir durch *N* dividieren zu einer verzerrten Schätzung der "
-"Populationsvarianz. Bisher mussten wir durch *N* - 1 dividieren, um dies zu "
-"korrigieren. Wie ich bereits erwähnt habe, liegt der Grund für diese "
-"Verzerrung darin, dass sich die Varianzschätzung auf den "
+"in Kapitel :doc:`../Ch08/Ch08_Estimation` gesehen haben, führt die "
+"Berechnung der Varianz bei der wir durch *N* dividieren zu einer verzerrten "
+"Schätzung der Populationsvarianz. Bisher mussten wir durch *N* - 1 "
+"dividieren, um dies zu korrigieren. Wie ich bereits erwähnt habe, liegt der "
+"Grund für diese Verzerrung darin, dass sich die Varianzschätzung auf den "
 "Stichprobenmittelwert stützt, und in dem Maße, in dem der "
 "Stichprobenmittelwert nicht mit dem Mittelwert in der Grundgesamtheit "
 "übereinstimmt, kann dies unsere Varianzschätzung systematisch verzerren. "
@@ -1707,7 +1772,7 @@ msgstr ""
 "dies, dass wir jetzt durch *N* - 2 statt durch *N* - 1 dividieren müssen, um "
 "unsere gepoolte Varianzschätzung zu berechnen? Ja, natürlich."
 
-#: ../../Ch11/Ch11_tTest_03.rst:217
+#: ../../Ch11/Ch11_tTest_03.rst:216
 msgid ""
 "\\hat\\sigma^2_p = \\frac{\\sum_{ik} \\left( X_{ik} - \\bar{X}_k \\right)^2}"
 "{N -2}\n"
@@ -1717,24 +1782,24 @@ msgstr ""
 "{N -2}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_03.rst:219
+#: ../../Ch11/Ch11_tTest_03.rst:218
 msgid ""
-"Oh, and if you take the square root of this then you get :math:`"
-"\\hat{\\sigma}_p`, the pooled standard deviation estimate. In other words, "
+"Oh, and if you take the square root of this then you get :math:"
+"`\\hat{\\sigma}_p`, the pooled standard deviation estimate. In other words, "
 "the pooled standard deviation calculation is nothing special. It’s not "
 "terribly different to the regular standard deviation calculation."
 msgstr ""
-"Wenn Sie nun die Quadratwurzel daraus ziehen, erhalten Sie :math:`"
-"\\hat{\\sigma}_p`, die gepoolte Schätzung für die Standardabweichung. Mit "
+"Wenn Sie nun die Quadratwurzel daraus ziehen, erhalten Sie :math:"
+"`\\hat{\\sigma}_p`, die gepoolte Schätzung für die Standardabweichung. Mit "
 "anderen Worten, die Berechnung der gepoolten Standardabweichung ist nichts "
 "Besonderes. Sie unterscheidet sich nicht wesentlich von der gewöhnlichen "
 "Berechnung der Standardabweichung."
 
-#: ../../Ch11/Ch11_tTest_03.rst:226
+#: ../../Ch11/Ch11_tTest_03.rst:225
 msgid "Completing the test"
 msgstr "Abschließen des Tests"
 
-#: ../../Ch11/Ch11_tTest_03.rst:228
+#: ../../Ch11/Ch11_tTest_03.rst:227
 msgid ""
 "Regardless of which way you want to think about it, we now have our pooled "
 "estimate of the standard deviation. From now on, I’ll drop the silly *p* "
@@ -1765,7 +1830,7 @@ msgstr ""
 "müssen, in Wirklichkeit der **Standardfehler der Differenz** zwischen den "
 "Mittelwerten."
 
-#: ../../Ch11/Ch11_tTest_03.rst:242
+#: ../../Ch11/Ch11_tTest_03.rst:241
 msgid ""
 "As long as the two variables really do have the same standard deviation, "
 "then our estimate for the standard error is"
@@ -1773,7 +1838,7 @@ msgstr ""
 "Sofern die beiden Variablen tatsächlich dieselbe Standardabweichung haben, "
 "lautet unsere Schätzung für den Standardfehler"
 
-#: ../../Ch11/Ch11_tTest_03.rst:245
+#: ../../Ch11/Ch11_tTest_03.rst:244
 msgid ""
 "SE(\\bar{X}_1 - \\bar{X}_2) = \\hat\\sigma \\sqrt{\\frac{1}{N_1} + \\frac{1}"
 "{N_2}}\n"
@@ -1783,11 +1848,11 @@ msgstr ""
 "{N_2}}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_03.rst:247
+#: ../../Ch11/Ch11_tTest_03.rst:246
 msgid "and our *t*-statistic is therefore"
 msgstr "und unsere *t*-Statistik ist daher"
 
-#: ../../Ch11/Ch11_tTest_03.rst:249 ../../Ch11/Ch11_tTest_04.rst:42
+#: ../../Ch11/Ch11_tTest_03.rst:248 ../../Ch11/Ch11_tTest_04.rst:42
 msgid ""
 "t = \\frac{\\bar{X}_1 - \\bar{X}_2}{SE(\\bar{X}_1 - \\bar{X}_2)}\n"
 "\n"
@@ -1795,7 +1860,7 @@ msgstr ""
 "t = \\frac{\\bar{X}_1 - \\bar{X}_2}{SE(\\bar{X}_1 - \\bar{X}_2)}\n"
 "\n"
 
-#: ../../Ch11/Ch11_tTest_03.rst:251
+#: ../../Ch11/Ch11_tTest_03.rst:250
 msgid ""
 "Just as we saw with our one-sample test, the sampling distribution of this "
 "*t*-statistic is a *t*-distribution (shocking, isn’t it?) as long as the "
@@ -1817,7 +1882,7 @@ msgstr ""
 "Stichprobenmittelwerte). Die gesamten Freiheitsgrade für diesen Test sind "
 "also *N* - 2."
 
-#: ../../Ch11/Ch11_tTest_03.rst:264
+#: ../../Ch11/Ch11_tTest_03.rst:263
 msgid ""
 "Not surprisingly, you can run an independent samples *t*-test easily in "
 "jamovi. The outcome variable for our test is the student ``grade``, and the "
@@ -1837,11 +1902,11 @@ msgstr ""
 "das Feld ``Dependent Variables`` und die Variable ``tutor`` in das Feld "
 "``Grouping Variable`` verschieben, wie in :numref:`fig-ttest_ind` gezeigt."
 
-#: ../../Ch11/Ch11_tTest_03.rst:279
+#: ../../Ch11/Ch11_tTest_03.rst:278
 msgid "Conducting an Independent Samples *t*-test in jamovi"
 msgstr "Durchführen eines Tests für unabhängige Stichproben *t*-test in jamovi"
 
-#: ../../Ch11/Ch11_tTest_03.rst:279
+#: ../../Ch11/Ch11_tTest_03.rst:278
 msgid ""
 "Conducting an Independent Samples *t*-test in jamovi, with options for "
 "recommended outputs checked."
@@ -1849,7 +1914,7 @@ msgstr ""
 "Durchführen eines *t*-Tests für unabhängigen Stichproben in jamovi, bei dem "
 "die Optionen für die empfohlenen Ergebnisausgaben bereits gesetzt sind."
 
-#: ../../Ch11/Ch11_tTest_03.rst:284
+#: ../../Ch11/Ch11_tTest_03.rst:283
 msgid ""
 "The output has a very familiar form. First, it tells you what test was run, "
 "and it tells you the name of the dependent variable that you used. It then "
@@ -1867,7 +1932,8 @@ msgstr ""
 "angegeben: ein Konfidenzintervall und eine Effektstärke. Über Effektstärken "
 "werde ich später sprechen, über das Konfidenzintervall jetzt."
 
-#: ../../Ch11/Ch11_tTest_03.rst:292
+#: ../../Ch11/Ch11_tTest_03.rst:291
+#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1878,8 +1944,8 @@ msgid ""
 "The confidence interval reported in :numref:`fig-ttest_ind` tells you that "
 "there’s a if we replicated this study again and again, then 95\\% of the "
 "time the true difference in means would lie between 0.20 and 10.76. Look "
-"back at :doc:`Estimating a confidence interval <../Ch08/Ch08_Estimation_5>` "
-"for a reminder about what confidence intervals mean."
+"back at :doc:`../Ch08/Ch08_Estimation_5` for a reminder about what "
+"confidence intervals mean."
 msgstr ""
 "Es ist ziemlich wichtig, sich darüber im Klaren zu sein, worauf sich dieses "
 "Konfidenzintervall eigentlich bezieht. Es ist ein Konfidenzintervall für die "
@@ -1891,11 +1957,11 @@ msgstr ""
 "kleiner sein als dieser Wert. Das in :numref:`fig-ttest_ind` angegebene "
 "Konfidenzintervall besagt, dass der wahre Unterschied der Mittelwerte, wenn "
 "wir diese Studie immer wieder wiederholen würden, in 95 % der Fälle zwischen "
-"0,20 und 10,76 liegen würde. Schauen Sie noch einmal unter :doc:`Schätzen "
-"eines Konfidenzintervalls <../Ch08/Ch08_Estimation_5>` nach, um sich daran "
-"zu erinnern, was Konfidenzintervalle bedeuten."
+"0,20 und 10,76 liegen würde. Schauen Sie noch einmal unter :doc:`../Ch08/"
+"Ch08_Estimation_5` nach, um sich daran zu erinnern, was Konfidenzintervalle "
+"bedeuten."
 
-#: ../../Ch11/Ch11_tTest_03.rst:305
+#: ../../Ch11/Ch11_tTest_03.rst:303
 msgid ""
 "In any case, the difference between the two groups is significant (just "
 "barely), so we might write up the result using text like this:"
@@ -1904,7 +1970,8 @@ msgstr ""
 "signifikant, so dass wir das Ergebnis in einem Text wie diesem wiedergeben "
 "könnten:"
 
-#: ../../Ch11/Ch11_tTest_03.rst:308
+#: ../../Ch11/Ch11_tTest_03.rst:306
+#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5\\% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1\\% (std dev = 5.8). A Student’s "
@@ -1920,7 +1987,7 @@ msgstr ""
 "sub:`95` = [0,2, 10,8]`, *d* = 0,74), was darauf hindeutet, dass ein die "
 "Lernergebnisse einen echten Unterschied aufweisen."
 
-#: ../../Ch11/Ch11_tTest_03.rst:315
+#: ../../Ch11/Ch11_tTest_03.rst:313
 msgid ""
 "Notice that I’ve included the confidence interval and the effect size in the "
 "stat block. People don’t always do this. At a bare minimum, you’d expect to "
@@ -1955,11 +2022,11 @@ msgstr ""
 "Ich bin der Meinung, dass Sie sowohl die Effektstärke als auch das "
 "Konfidenzintervall angeben sollten."
 
-#: ../../Ch11/Ch11_tTest_03.rst:334
+#: ../../Ch11/Ch11_tTest_03.rst:332
 msgid "Positive and negative *t*-values"
 msgstr "Positive und negative *t*-Werte"
 
-#: ../../Ch11/Ch11_tTest_03.rst:336
+#: ../../Ch11/Ch11_tTest_03.rst:334
 msgid ""
 "Before moving on to talk about the assumptions of the *t*-test, there’s one "
 "additional point I want to make about the use of *t*-tests in practice. The "
@@ -1995,11 +2062,11 @@ msgstr ""
 "des *t*-Tests durchführt wurden. Was hier passiert, ist sehr einfach. Die "
 "*t*-Statistik, die wir hier berechnen, hat immer die Form"
 
-#: ../../Ch11/Ch11_tTest_03.rst:355
+#: ../../Ch11/Ch11_tTest_03.rst:353
 msgid "*t* = (mean 1 - mean 2) / SE"
 msgstr "*t* = (Mittelwert 1 - Mittelwert 2) / SE"
 
-#: ../../Ch11/Ch11_tTest_03.rst:357
+#: ../../Ch11/Ch11_tTest_03.rst:355
 msgid ""
 "If “mean 1” is larger than “mean 2” the *t*-statistic will be positive, "
 "whereas if “mean 2” is larger then the *t*-statistic will be negative. "
@@ -2016,7 +2083,7 @@ msgstr ""
 "Konfidenzintervall für die Differenz „(Mittelwert 2) minus (Mittelwert 1)“ "
 "berechnen würden."
 
-#: ../../Ch11/Ch11_tTest_03.rst:364
+#: ../../Ch11/Ch11_tTest_03.rst:362
 msgid ""
 "Okay, that’s pretty straightforward when you think about it, but now "
 "consider our *t*-test comparing Anastasia’s class to Bernadette’s class. "
@@ -2047,7 +2114,7 @@ msgstr ""
 "töricht. Es ist einfacher, sich die tatsächlichen Gruppenmittelwerte "
 "anzusehen, da die jamovi-Ausgabe sie ebenfalls anzeigt!"
 
-#: ../../Ch11/Ch11_tTest_03.rst:378
+#: ../../Ch11/Ch11_tTest_03.rst:376
 msgid ""
 "Here’s the important thing. Because it really doesn’t matter what jamovi "
 "shows you, I usually try to *report* the *t*-statistic in such a way that "
@@ -2064,7 +2131,7 @@ msgstr ""
 "dass es sinnvoll ist, die *t*-Statistik so darzustellen, als ob Anastasias "
 "Klasse der Gruppe 1 entsprechen würde. In diesem Fall würde ich schreiben"
 
-#: ../../Ch11/Ch11_tTest_03.rst:386
+#: ../../Ch11/Ch11_tTest_03.rst:384
 msgid ""
 "Anastasia’s class had higher grades than Bernadette’s class: *t*\\(31) = "
 "2.1, *p* = 0.04."
@@ -2072,7 +2139,7 @@ msgstr ""
 "Die Klasse von Anastasia hatte bessere Noten als die Klasse von Bernadette: "
 "*t*\\(31) = 2,1, *p* = 0,04."
 
-#: ../../Ch11/Ch11_tTest_03.rst:389
+#: ../../Ch11/Ch11_tTest_03.rst:387
 msgid ""
 "(I wouldn’t actually underline the word “higher” in real life, I’m just "
 "doing it to emphasise the point that “higher” corresponds to positive *t*-"
@@ -2087,7 +2154,7 @@ msgstr ""
 "ist. In diesem Fall ist es sinnvoller, ihre Klasse als Gruppe 1 zu "
 "behandeln, und in diesem Fall sieht der Text wie folgt aus"
 
-#: ../../Ch11/Ch11_tTest_03.rst:395
+#: ../../Ch11/Ch11_tTest_03.rst:393
 msgid ""
 "Bernadette’s class had lower grades than Anastasia’s class: *t*\\(31) = "
 "-2.1, *p* = 0.04."
@@ -2095,7 +2162,7 @@ msgstr ""
 "Die Klasse von Bernadette hatte schlechtere Noten als die Klasse von "
 "Anastasia: *t*\\(31) = -2,1, *p* = 0,04."
 
-#: ../../Ch11/Ch11_tTest_03.rst:398
+#: ../../Ch11/Ch11_tTest_03.rst:396
 msgid ""
 "Because I’m talking about one group having “lower” scores this time around, "
 "it is more sensible to use the negative form of the *t*-statistic. It just "
@@ -2105,7 +2172,7 @@ msgstr ""
 "sinnvoller, die negative Form der *t*-Statistik zu verwenden. Das macht es "
 "einfach sauberer."
 
-#: ../../Ch11/Ch11_tTest_03.rst:402
+#: ../../Ch11/Ch11_tTest_03.rst:400
 msgid ""
 "One last thing: please note that you *can’t* do this for other types of test "
 "statistics. It works for *t*-tests, but it wouldn’t be meaningful for χ²-"
@@ -2119,11 +2186,11 @@ msgstr ""
 "die ich in diesem Buch behandle. Verallgemeinern Sie diesen Rat also nicht "
 "zu sehr! Ich spreche hier wirklich nur über *t*-Tests und nichts anderes!"
 
-#: ../../Ch11/Ch11_tTest_03.rst:412
+#: ../../Ch11/Ch11_tTest_03.rst:410
 msgid "Assumptions of the Student *t*-test"
 msgstr "Voraussetzungen für den *t*-Test nach Student"
 
-#: ../../Ch11/Ch11_tTest_03.rst:414
+#: ../../Ch11/Ch11_tTest_03.rst:412
 msgid ""
 "As always, our hypothesis test relies on some assumptions. So what are they? "
 "For the Student *t*-test there are three assumptions, some of which we saw "
@@ -2136,24 +2203,21 @@ msgstr ""
 "Stichprobe gesehen haben (siehe Abschnitt :ref:`Voraussetzungen für den *t*-"
 "Tests bei einer Stichprobe <assumptions_one_sample_t_test>`):"
 
-#: ../../Ch11/Ch11_tTest_03.rst:419
+#: ../../Ch11/Ch11_tTest_03.rst:417
 msgid ""
 "*Normality*. Like the one-sample *t*-test, it is assumed that the data are "
 "normally distributed. Specifically, we assume that both groups are normally "
-"distributed. In section :doc:`Checking the normality of sample "
-"<Ch11_tTest_08>`, we’ll discuss how to test for normality, and in section :"
-"doc:`Testing non-normal data with Wilcoxon tests <Ch11_tTest_09>` we’ll "
-"discuss possible solutions."
+"distributed. In section :doc:`Ch11_tTest_08`, we’ll discuss how to test for "
+"normality, and in section :doc:`Ch11_tTest_09` we’ll discuss possible "
+"solutions."
 msgstr ""
 "*Normalverteilung*. Wie beim *t*-Test für eine Stichprobe wird angenommen, "
 "dass die Daten normalverteilt sind. Insbesondere wird angenommen, dass beide "
-"Gruppen normalverteilt sind. Im Abschnitt :doc:`Überprüfen der "
-"Normalverteilung in einer Stichprobe <Ch11_tTest_08>` wird erörtert, wie man "
-"auf Normalverteilung testet, und im Abschnitt :doc:`Prüfen nicht-"
-"normalverteilter Daten mit dem Wilcoxon-Test <Ch11_tTest_09>` werden wir "
-"mögliche Lösungen diskutieren."
+"Gruppen normalverteilt sind. Im Abschnitt :doc:`Ch11_tTest_08` wird "
+"erörtert, wie man auf Normalverteilung testet, und im Abschnitt :doc:"
+"`Ch11_tTest_09` werden wir mögliche Lösungen diskutieren."
 
-#: ../../Ch11/Ch11_tTest_03.rst:426
+#: ../../Ch11/Ch11_tTest_03.rst:423
 msgid ""
 "*Independence*. Once again, it is assumed that the observations are "
 "independently sampled. In the context of the Student test this has two "
@@ -2176,29 +2240,29 @@ msgstr ""
 "dieselbe Person für verschiedene Bedingungen anmeldete), dann gibt es einige "
 "stichprobenübergreifende Abhängigkeiten, die Sie berücksichtigen müssen."
 
-#: ../../Ch11/Ch11_tTest_03.rst:437
+#: ../../Ch11/Ch11_tTest_03.rst:434
 msgid ""
 "*Homogeneity of variance* (also called “homoscedasticity”). The third "
 "assumption is that the population standard deviation is the same in both "
 "groups. You can test this assumption using the Levene test, which I’ll talk "
-"about later on in the book (section :doc:`Checking the homogeneity of "
-"variance assumption <../Ch13/Ch13_ANOVA_06>`). However, there’s a very "
-"simple remedy for this assumption if you are worried, which I’ll talk about "
-"in the next section."
+"about later on in the book (section :ref:`Checking the homogeneity of "
+"variance assumption <homogeneity_of_variance_anova>`). However, there’s a "
+"very simple remedy for this assumption if you are worried, which I’ll talk "
+"about in the next section."
 msgstr ""
 "*Varianzhomogenität* (auch „Homoskedastizität“ genannt). Die dritte Annahme "
 "ist, dass die Standardabweichung in der Grundgesamtheit für beide Gruppen "
 "gleich ist. Sie können diese Annahme mit dem Levene-Test testen, auf den ich "
-"später im Buch eingehe (Abschnitt :doc:`Überprüfen der Annahme der "
-"Varianzhomogenität <../Ch13/Ch13_ANOVA_06>`). Wenn Sie sich Sorgen machen, "
-"gibt es jedoch eine sehr einfache Lösung für diese Annahme, die ich im "
-"nächsten Abschnitt erläutern werde."
+"später im Buch eingehe (Abschnitt :ref:`Überprüfen der Annahme der "
+"Varianzhomogenität <homogeneity_of_variance_anova>`). Wenn Sie sich Sorgen "
+"machen, gibt es jedoch eine sehr einfache Lösung für diese Annahme, die ich "
+"im nächsten Abschnitt erläutern werde."
 
-#: ../../Ch11/Ch11_tTest_03.rst:448
+#: ../../Ch11/Ch11_tTest_03.rst:445
 msgid "Although it is the simplest, which is why I started with it."
 msgstr "Es ist das Einfachste, deshalb werde ich damit anfangen."
 
-#: ../../Ch11/Ch11_tTest_03.rst:451
+#: ../../Ch11/Ch11_tTest_03.rst:448
 msgid ""
 "A funny question almost always pops up at this point: what the heck *is* the "
 "population being referred to in this case? Is it the set of students "
@@ -2234,13 +2298,13 @@ msgstr ""
 "Annahme fast immer falsch ist, führt sie nicht zu einem pathologischen "
 "Verhalten des Tests, so dass wir dazu neigen, sie einfach zu ignorieren."
 
-#: ../../Ch11/Ch11_tTest_03.rst:468
+#: ../../Ch11/Ch11_tTest_03.rst:465
 msgid ""
-"A more correct notation will be introduced in chapter :doc:`Comparing "
-"several means (one-way ANOVA) <../Ch13/Ch13_ANOVA>`."
+"A more correct notation will be introduced in chapter :doc:`../Ch13/"
+"Ch13_ANOVA`."
 msgstr ""
-"Eine korrektere Schreibweise wird im Kapitel :doc:`Vergleich mehrerer "
-"Mittelwerte (einfaktorielle ANOVA) <../Ch13/Ch13_ANOVA>` eingeführt."
+"Eine korrektere Schreibweise wird im Kapitel :doc:`../Ch13/Ch13_ANOVA` "
+"eingeführt."
 
 #: ../../Ch11/Ch11_tTest_04.rst:4
 msgid "The independent samples *t*-test (Welch test)"
@@ -2468,8 +2532,8 @@ msgid ""
 msgstr ""
 "Außer… dass unser Ergebnis nicht mehr signifikant ist. Als wir den *t*-Test "
 "nach Student durchführten, erhielten wir einen signifikanten Effekt, aber "
-"der *t*-Test nach Welch für denselben Datensatz ist nicht signifikant (*t*"
-"\\(23.02) = 2.03, *p* = 0.054). Was bedeutet das für uns? Sollten wir in "
+"der *t*-Test nach Welch für denselben Datensatz ist nicht signifikant "
+"(*t*\\(23.02) = 2.03, *p* = 0.054). Was bedeutet das für uns? Sollten wir in "
 "Panik geraten? Wahrscheinlich nicht. Die Tatsache, dass ein Test signifikant "
 "ist und der andere nicht, bedeutet an sich nicht viel, vor allem, weil ich "
 "die Daten so generiert habe, dass genau das passiert. Im Allgemeinen ist es "
@@ -2555,10 +2619,10 @@ msgstr ""
 "Stichproben. Wir könnten uns zum Beispiel dafür interessieren, ob das Hören "
 "von Musik die Kapazität des Arbeitsgedächtnisses von Personen verringert. Zu "
 "diesem Zweck messen wir die Arbeitsgedächtniskapazität jeder Person unter "
-"zwei Bedingungen: mit Musik und ohne Musik. In einem Versuchsplan wie diesem"
-"\\ [#]_ erscheint jeder Teilnehmer in *beiden* Gruppen. Dies erfordert eine "
-"andere Herangehensweise an das Problem, nämlich die Verwendung des **t-Tests "
-"für gepaarte Stichproben**."
+"zwei Bedingungen: mit Musik und ohne Musik. In einem Versuchsplan wie "
+"diesem\\ [#]_ erscheint jeder Teilnehmer in *beiden* Gruppen. Dies erfordert "
+"eine andere Herangehensweise an das Problem, nämlich die Verwendung des **t-"
+"Tests für gepaarte Stichproben**."
 
 #: ../../Ch11/Ch11_tTest_05.rst:26
 msgid ""
@@ -2880,19 +2944,17 @@ msgstr "Die Ergebnisse zeigen einen *t*-Test mit paarweisen Differenzwerten"
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample T-"
-"Test`` analysis (section :doc:`The one-sample *t*-test <Ch11_tTest_02>`), "
-"and it confirms our intuition. There’s an average improvement of 1.4\\% from "
-"test 1 to test 2, and this is significantly different from 0 (*t*\\(19) = "
-"6.48, *p* < 0.001)."
+"Test`` analysis (section :doc:`Ch11_tTest_02`), and it confirms our "
+"intuition. There’s an average improvement of 1.4\\% from test 1 to test 2, "
+"and this is significantly different from 0 (*t*\\(19) = 6.48, *p* < 0.001)."
 msgstr ""
 "Die in :numref:`fig-ttest_paired2` gezeigte Ausgabe ist (natürlich) genau so "
-"formatiert wie bei der ``One Sample T-Test`` Analyse (Abschnitt :doc:`Der "
-"*t*-Test bei einer Stichprobe <Ch11_tTest_02>`), und sie bestätigt unsere "
-"Intuition. Es gibt eine durchschnittliche Verbesserung von 1,4 % von Examen "
-"1 zu Examen 2, und diese ist signifikant verschieden von 0 (*t*\\(19) = "
-"6,48, *p* < 0,001)."
+"formatiert wie bei der ``One Sample T-Test`` Analyse (Abschnitt :doc:"
+"`Ch11_tTest_02`), und sie bestätigt unsere Intuition. Es gibt eine "
+"durchschnittliche Verbesserung von 1,4 % von Examen 1 zu Examen 2, und diese "
+"ist signifikant verschieden von 0 (*t*\\(19) = 6,48, *p* < 0,001)."
 
-#: ../../Ch11/Ch11_tTest_05.rst:191
+#: ../../Ch11/Ch11_tTest_05.rst:190
 msgid ""
 "However, suppose you’re lazy and you don’t want to go to all the effort of "
 "creating a new variable. Or perhaps you just want to keep the difference "
@@ -2907,11 +2969,11 @@ msgstr ""
 "Samples T-Test`` in jamovi verwenden und erhalten die in :numref:`fig-"
 "ttest_paired3` angezeigten Ergebnisse."
 
-#: ../../Ch11/Ch11_tTest_05.rst:203
+#: ../../Ch11/Ch11_tTest_05.rst:202
 msgid "Results showing a paired sample *t*-test"
 msgstr "Ergebnisse eines *t*-Tests für gepaarte Stichproben"
 
-#: ../../Ch11/Ch11_tTest_05.rst:203
+#: ../../Ch11/Ch11_tTest_05.rst:202
 msgid ""
 "Results showing a paired sample *t*-test. Compare it with :numref:`fig-"
 "ttest_paired2`."
@@ -2919,7 +2981,7 @@ msgstr ""
 "Ergebnisse eines *t*-Tests für gepaarte Stichproben. Vergleichen Sie es mit :"
 "numref:`fig-ttest_paired2`."
 
-#: ../../Ch11/Ch11_tTest_05.rst:208
+#: ../../Ch11/Ch11_tTest_05.rst:207
 msgid ""
 "The numbers are identical to those that come from the one sample test, which "
 "of course they have to be given that the paired samples *t*-test is just a "
@@ -2929,24 +2991,24 @@ msgstr ""
 "natürlich auch sein müssen, da der *t*-Test für gepaarte Stichproben unter "
 "der Haube ein *t*-Test für eine Stichprobe ist."
 
-#: ../../Ch11/Ch11_tTest_05.rst:215
+#: ../../Ch11/Ch11_tTest_05.rst:214
 msgid ""
-"This design is very similar to the one in section :doc:`The McNemar test <../"
-"Ch10/Ch10_ChiSquare_7>` that motivated the McNemar test. This should be no "
+"This design is very similar to the one in section :doc:`../Ch10/"
+"Ch10_ChiSquare_7` that motivated the McNemar test. This should be no "
 "surprise. Both are standard repeated measures designs involving two "
 "measurements. The only difference is that this time our outcome variable is "
 "interval scale (working memory capacity, |continuous|) rather than a binary "
 "scale variable (a yes-or-no question, |nominal|)."
 msgstr ""
-"Das Versuchsdesign ähnelt sehr dem in Abschnitt zum :doc:`McNemar-Test <../"
-"Ch10/Ch10_ChiSquare_7>`. Dies sollte keine Überraschung sein. In beiden "
-"Fällen handelt es sich um Standarddesigns mit wiederholten Messungen, die "
-"zwei Messungen umfassen. Der einzige Unterschied besteht darin, dass unsere "
+"Das Versuchsdesign ähnelt sehr dem in Abschnitt zum :doc:`../Ch10/"
+"Ch10_ChiSquare_7`. Dies sollte keine Überraschung sein. In beiden Fällen "
+"handelt es sich um Standarddesigns mit wiederholten Messungen, die zwei "
+"Messungen umfassen. Der einzige Unterschied besteht darin, dass unsere "
 "Ergebnisvariable diesmal eine Intervallskala ist "
 "(Arbeitsgedächtniskapazität, |continuous|) und keine binäre Skalenvariable "
 "(eine Ja-oder-Nein-Frage, |nominal|)."
 
-#: ../../Ch11/Ch11_tTest_05.rst:223
+#: ../../Ch11/Ch11_tTest_05.rst:222
 msgid ""
 "At this point we have Drs Harpo, Chico and Zeppo. No prizes for guessing who "
 "Dr Groucho is."
@@ -3016,8 +3078,8 @@ msgid ""
 "*t*-statistic and degrees of freedom have not changed, the *p*-value has. "
 "This is because the one-sided test has a different rejection region from the "
 "two-sided test. If you’ve forgotten why this is and what it means, you may "
-"find it helpful to read back over chapter :doc:`Hypothesis testing <../Ch09/"
-"Ch09_HypothesisTesting>`, and section :ref:`The difference between one-sided "
+"find it helpful to read back over chapter :doc:`../Ch09/"
+"Ch09_HypothesisTesting`, and section :ref:`The difference between one-sided "
 "and two-sided tests <one_vs_twosided_tests>` in particular. The third thing "
 "to note is that the confidence interval is different too: it now reports a "
 "“one-sided” confidence interval rather than a two-sided one. In a two-sided "
@@ -3036,9 +3098,8 @@ msgstr ""
 "geändert haben, wohl aber der *p*-Wert. Das liegt daran, dass der einseitige "
 "Test einen anderen Ablehnungsbereich hat als der zweiseitige Test. Wenn Sie "
 "vergessen haben, warum dies so ist und was es bedeutet, sollten Sie das "
-"Kapitel :doc:`Das Überprüfen von Hypothesen <../Ch09/"
-"Ch09_HypothesisTesting>` und insbesondere den Abschnitt :ref:`Der "
-"Unterschied zwischen einseitigen und zweiseitigen Tests "
+"Kapitel :doc:`../Ch09/Ch09_HypothesisTesting` und insbesondere den "
+"Abschnitt :ref:`Der Unterschied zwischen einseitigen und zweiseitigen Tests "
 "<one_vs_twosided_tests>` noch einmal lesen. Drittens ist auch das "
 "Konfidenzintervall anders: Es wird jetzt ein „einseitiges“ "
 "Konfidenzintervall und nicht mehr ein zweiseitiges angegeben. In einem "
@@ -3483,8 +3544,8 @@ msgstr ""
 "herauszufinden, ob dies das Maß ist, das Sie wollen oder nicht. In dem Maße, "
 "in dem Sie sich um die praktischen Konsequenzen Ihrer Forschung kümmern, "
 "möchten Sie oft die Effektstärke relativ zur Variation der *ursprünglichen* "
-"Variablen messen, nicht die *Differenz* (z. B. ist die Verbesserung von 1 % "
-"in Dr. Chicos Klasse ziemlich klein, wenn man sie an der natürlichen "
+"Variablen messen, nicht die *Differenz* (z. B. ist die Verbesserung von 1 "
+"% in Dr. Chicos Klasse ziemlich klein, wenn man sie an der natürlichen "
 "Variation von Noten zwischen verschiedenen Schülern relativiert). In diesem "
 "Fall verwenden Sie die gleichen Versionen von Cohen's *d*, die Sie für einen "
 "Student- oder Welch-Test verwenden würden. Es ist nicht so einfach, dies in "
@@ -3711,14 +3772,14 @@ msgid ""
 "statistic has a maximum value of 1, which occurs when the data look "
 "“perfectly normal”. The smaller the value of *W* the less normal the data "
 "are. However, the sampling distribution for *W*, which is not one of the "
-"standard ones that I discussed in chapter :doc:`Introduction to probability "
-"<../Ch07/Ch07_Probability>` and is in fact a complete pain in the arse to "
-"work with, does depend on the sample size *N*. To give you a feel for what "
-"these sampling distributions look like, I’ve plotted three of them in :"
-"numref:`fig-swdist`. Notice that, as the sample size starts to get large, "
-"the sampling distribution becomes very tightly clumped up near *W* = 1, and "
-"as a consequence, for larger samples *W* doesn’t have to be very much "
-"smaller than 1 in order for the test to be significant."
+"standard ones that I discussed in chapter :doc:`../Ch07/Ch07_Probability` "
+"and is in fact a complete pain in the arse to work with, does depend on the "
+"sample size *N*. To give you a feel for what these sampling distributions "
+"look like, I’ve plotted three of them in :numref:`fig-swdist`. Notice that, "
+"as the sample size starts to get large, the sampling distribution becomes "
+"very tightly clumped up near *W* = 1, and as a consequence, for larger "
+"samples *W* doesn’t have to be very much smaller than 1 in order for the "
+"test to be significant."
 msgstr ""
 "Da es etwas schwierig ist, die Mathematik hinter der *W*-Statistik zu "
 "erklären, ist es besser, eine grobe Beschreibung ihres Verhaltens zu geben. "
@@ -3729,15 +3790,14 @@ msgstr ""
 "einen Maximalwert von 1, der auftritt, wenn die Daten „vollkommen "
 "normalverteilt“ erscheinen. Je kleiner der Wert von *W* ist, desto weniger "
 "normalverteilt sind die Daten. Die Stichprobenverteilung für *W*, gehört "
-"nicht zu den Standardverteilungen, die ich in Kapitel :doc:`Einführung in "
-"die Wahrscheinlichkeitsrechnung <../Ch07/Ch07_Probability>` besprochen habe. "
-"Mit ihr zu arbeiten ist eher mühsam, und sie wird von der Stichprobengröße "
-"*N* beeinflusst. Um Ihnen ein Gefühl dafür zu vermitteln, wie diese "
-"Stichprobenverteilungen aussehen, habe ich drei davon in :numref:`fig-"
-"swdist` aufgezeichnet. Beachten Sie, dass die Stichprobenverteilung mit "
-"zunehmender Größe der Stichprobe in der Nähe von *W* = 1 sehr stark "
-"verklumpt, so dass *W* bei größeren Stichproben nicht sehr viel kleiner als "
-"1 sein muss, damit der Test signifikant wird."
+"nicht zu den Standardverteilungen, die ich in Kapitel :doc:`../Ch07/"
+"Ch07_Probability` besprochen habe. Mit ihr zu arbeiten ist eher mühsam, und "
+"sie wird von der Stichprobengröße *N* beeinflusst. Um Ihnen ein Gefühl dafür "
+"zu vermitteln, wie diese Stichprobenverteilungen aussehen, habe ich drei "
+"davon in :numref:`fig-swdist` aufgezeichnet. Beachten Sie, dass die "
+"Stichprobenverteilung mit zunehmender Größe der Stichprobe in der Nähe von "
+"*W* = 1 sehr stark verklumpt, so dass *W* bei größeren Stichproben nicht "
+"sehr viel kleiner als 1 sein muss, damit der Test signifikant wird."
 
 #: ../../Ch11/Ch11_tTest_08.rst:122
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
@@ -3788,20 +3848,20 @@ msgid ""
 "to the QQ plot and the Shapiro-Wilk test when the data turn out to be non-"
 "normal. For that, let’s look at the distribution of our AFL winning margins "
 "variable (``afl.margins`` from the |aflsmall_margins|_ data set), which if "
-"you remember back to th chapter on :doc:`Descriptive statistics <../Ch04/"
-"Ch04_Descriptives>` didn’t look like they came from a normal distribution at "
-"all. Here’s what happens to the QQ plot:"
+"you remember back to th chapter on :doc:`../Ch04/Ch04_Descriptives` didn’t "
+"look like they came from a normal distribution at all. Here’s what happens "
+"to the QQ plot:"
 msgstr ""
 "In der Zwischenzeit lohnt es sich wahrscheinlich, Ihnen ein Beispiel dafür "
 "zu zeigen, was mit dem Q-Q-Diagramm und dem Shapiro-Wilk-Test passiert, wenn "
 "sich die Daten als nicht normalverteilt erweisen. Betrachten wir dazu die "
 "Verteilung unserer AFL-Gewinnspannen-Variable (``afl.margins`` aus dem |"
 "aflsmall_margins|_-Datensatz), die, wenn Sie sich an das Kapitel über :doc:"
-"`Deskriptive Statistik <../Ch04/Ch04_Descriptives>` erinnern, überhaupt "
-"nicht so aussahen, als würden sie aus einer Normalverteilung stammen. Hier "
-"ist, was mit dem Q-Q-Diagramm passiert:"
+"`../Ch04/Ch04_Descriptives` erinnern, überhaupt nicht so aussahen, als "
+"würden sie aus einer Normalverteilung stammen. Hier ist, was mit dem Q-Q-"
+"Diagramm passiert:"
 
-#: ../../Ch11/Ch11_tTest_08.rst:156
+#: ../../Ch11/Ch11_tTest_08.rst:155
 msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
@@ -3809,7 +3869,7 @@ msgstr ""
 "Q-Q-Diagramm für die (schief verteilten) Daten in der Variable ``afl."
 "margins`` aus dem Datensatz |aflsmall_margins|"
 
-#: ../../Ch11/Ch11_tTest_08.rst:156
+#: ../../Ch11/Ch11_tTest_08.rst:155
 msgid ""
 "QQ plot for the (skewed) data in the ``afl.margins`` variable of the |"
 "aflsmall_margins|_ data set"
@@ -3817,7 +3877,7 @@ msgstr ""
 "Q-Q-Diagramm für die (schief verteilten) Daten in der Variable ``afl."
 "margins`` aus dem Datensatz |aflsmall_margins|_"
 
-#: ../../Ch11/Ch11_tTest_08.rst:161
+#: ../../Ch11/Ch11_tTest_08.rst:160
 msgid ""
 "And when we run the Shapiro-Wilk test with ``afl.margins``, we get a value "
 "for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-value = "
@@ -3828,11 +3888,11 @@ msgstr ""
 "Normalverteilungsteststatistik von W = 0,94 und einen *p*-Wert = 9,481e-07. "
 "Eindeutig eine signifikante Abweichung von der Normalverteilung!"
 
-#: ../../Ch11/Ch11_tTest_08.rst:168
+#: ../../Ch11/Ch11_tTest_08.rst:167
 msgid "This is a massive oversimplification."
 msgstr "Dies ist eine starke Vereinfachung."
 
-#: ../../Ch11/Ch11_tTest_08.rst:171
+#: ../../Ch11/Ch11_tTest_08.rst:170
 msgid ""
 "Either that, or the Kolmogorov-Smirnov test, which is probably more "
 "traditional than the Shapiro-Wilk. Although most things I’ve read seem to "
@@ -4211,27 +4271,27 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_10.rst:21
 msgid ""
-":doc:`One-sided tests <Ch11_tTest_06>` are perfectly legitimate as long as "
-"they are pre-planned."
+":doc:`Ch11_tTest_06` are perfectly legitimate as long as they are pre-"
+"planned."
 msgstr ""
-":doc:`Einseitige Tests <Ch11_tTest_06>` sind völlig legitim, solange man "
-"seine Hypothesen im Voraus entsprechend formuliert."
+":doc:`Ch11_tTest_06` sind völlig legitim, solange man seine Hypothesen im "
+"Voraus entsprechend formuliert."
 
 #: ../../Ch11/Ch11_tTest_10.rst:24
 msgid ""
-":doc:`Effect size calculations <Ch11_tTest_07>` for the difference between "
-"means can be calculated via the Cohen’s *d*-statistic."
+":doc:`Ch11_tTest_07` calculations for the difference between means can be "
+"calculated via the Cohen’s *d*-statistic."
 msgstr ""
 ":doc:`Effektstärken <Ch11_tTest_07>` für die Differenz zwischen Mittelwerten "
 "können über die Cohen's *d*-Statistik berechnet werden."
 
 #: ../../Ch11/Ch11_tTest_10.rst:27
 msgid ""
-"You can check the normality of a sample using QQ plots and the :doc:`Shapiro-"
-"Wilk test <Ch11_tTest_08>`."
+"You can :doc:`check the normality of a sample <Ch11_tTest_08>` using QQ "
+"plots and the Shapiro-Wilk test."
 msgstr ""
-"Sie können die Normalverteilung einer Stichprobe mit Hilfe von Q-Q-"
-"Diagrammen und dem :doc:`Shapiro-Wilk-Test <Ch11_tTest_08>` überprüfen."
+"Sie können die :doc:`Normalverteilung einer Stichprobe <Ch11_tTest_08>` mit "
+"Hilfe von Q-Q-Diagrammen und dem Shapiro-Wilk-Test überprüfen."
 
 #: ../../Ch11/Ch11_tTest_10.rst:30
 msgid ""
