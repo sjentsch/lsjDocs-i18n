@@ -25,20 +25,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-13 20:17+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-13 19:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,13 +35,15 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
 msgid "Bayesian statistics"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes.rst:0 ../../Ch16/Ch16_Bayes.rst
+#: ../../Ch16/Ch16_Bayes.rst:0
 msgid ""
 "*In our reasonings concerning matter of fact, there are all imaginable "
 "degrees of assurance, from the highest certainty to the lowest species of "
@@ -250,8 +241,8 @@ msgid ""
 "might want to calculate the probability that today is rainy (i.e., "
 "hypothesis *h* is true) and I’m carrying an umbrella (i.e., data *d* is "
 "observed). The **joint probability** of the hypothesis and the data is "
-"written *P*\\ (d, h), and you can calculate it by multiplying the prior "
-"*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
+"written *P*\\ (d, h), and you can calculate it by multiplying the prior *P*"
+"\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:106
@@ -568,9 +559,9 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:282
 msgid ""
 "However, remember what I said at the start of the last section, namely that "
-"the joint probability *P*\\ (d, h) is calculated by multiplying the prior "
-"*P*\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we "
-"actually know how to write down are the priors and the likelihood, so let’s "
+"the joint probability *P*\\ (d, h) is calculated by multiplying the prior *P*"
+"\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we actually "
+"know how to write down are the priors and the likelihood, so let’s "
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
@@ -631,10 +622,10 @@ msgstr ""
 msgid ""
 "You might notice that this equation is actually a restatement of the same "
 "basic rule I listed at the start of the last section. If you multiply both "
-"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = "
-"*P*\\ (d, h), which is the rule for how joint probabilities are calculated. "
-"So I’m not actually introducing any “new” rules here, I’m just using the "
-"same rule in a different way."
+"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = *P*"
+"\\ (d, h), which is the rule for how joint probabilities are calculated. So "
+"I’m not actually introducing any “new” rules here, I’m just using the same "
+"rule in a different way."
 msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:4
@@ -696,8 +687,8 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
 "In practice, most Bayesian data analysts tend not to talk in terms of the "
-"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:"
-"`1`\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
+"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:`1`"
+"\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
 "Think of it like betting. Suppose, for instance, the posterior probability "
 "of the null hypothesis is 25\\%, and the posterior probability of the "
 "alternative is 75\\%. The alternative hypothesis is three times as probable "
@@ -919,7 +910,7 @@ msgstr ""
 msgid "Statistics that mean what you think they mean"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
 "*You keep using that word. I do not think it means what you think it means*"
 msgstr ""
@@ -1005,8 +996,8 @@ msgid ""
 "Speaking for myself, I found this to be the most liberating thing about "
 "switching to the Bayesian view. Once you’ve made the jump, you no longer "
 "have to wrap your head around counter-intuitive definitions of *p*-values. "
-"You don’t have to bother remembering why you can’t say that you’re 95\\"
-"% confident that the true mean lies within some interval. All you have to do "
+"You don’t have to bother remembering why you can’t say that you’re 95\\% "
+"confident that the true mean lies within some interval. All you have to do "
 "is be honest about what you believed before you ran the study and then "
 "report what you learned from doing it. Sounds nice, doesn’t it? To me, this "
 "is the big promise of the Bayesian approach. You do the analysis you really "
@@ -1017,7 +1008,7 @@ msgstr ""
 msgid "Evidentiary standards you can believe"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
 "If [*p*] is below 0.02 it is strongly indicated that the [null] hypothesis "
 "fails to account for the whole of the facts. We shall not often be astray if "
@@ -1071,7 +1062,7 @@ msgstr ""
 msgid "The *p*-value is a lie."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*The cake is a lie.*"
 msgstr ""
 
@@ -1408,7 +1399,7 @@ msgid ""
 "theory worth having. In essence, my point is this:"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:0 ../../Ch16/Ch16_Bayes_3.rst
+#: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*Good laws have their origins in bad morals.*"
 msgstr ""
 
