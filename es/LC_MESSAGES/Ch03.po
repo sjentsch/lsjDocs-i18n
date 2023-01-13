@@ -61,70 +61,26 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-13 19:35+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 20:31+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-12 17:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
 msgid "Getting started with jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0 ../../Ch03/Ch03_jamoviIntro.rst
+#: ../../Ch03/Ch03_jamoviIntro.rst:0
 msgid "*Robots are nice to work with.*"
 msgstr ""
 
@@ -367,7 +323,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:313 ../../Ch03/Ch03_jamoviIntro_3.rst:108
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:311
 msgid "ID"
 msgstr ""
 
@@ -384,7 +339,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:319 ../../Ch03/Ch03_jamoviIntro_3.rst:114
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:317
 msgid "nominal"
 msgstr "nominal"
 
@@ -396,7 +350,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:322 ../../Ch03/Ch03_jamoviIntro_3.rst:117
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:320
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -408,7 +361,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:316 ../../Ch03/Ch03_jamoviIntro_3.rst:111
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:314
 msgid "continuous"
 msgstr "continuous"
 
@@ -437,7 +389,7 @@ msgid ""
 "type with the variable editor."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:70 ../../Ch03/Ch03_jamoviIntro_2.rst:68
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:70
 msgid ""
 "The variable editor can be opened by selecting ``Setup`` from the ``Data`` "
 "ribbon or by double-clicking on the variable column header. The variable "
@@ -447,14 +399,14 @@ msgid ""
 "``↑``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:76 ../../Ch03/Ch03_jamoviIntro_2.rst:74
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:76
 msgid ""
 "New variables can be inserted or appended to the data set using the ``Add`` "
 "button from the ``Data`` tab. The ``Add`` button also allows the addition of "
 "computed variables."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:80 ../../Ch03/Ch03_jamoviIntro_2.rst:78
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:80
 msgid ""
 "Sometimes you want to change the variable level. This can happen for all "
 "sorts of reasons. Sometimes when you import data from files, it can come to "
@@ -467,7 +419,7 @@ msgid ""
 "term, you want to **coerce** the variable from one class into another."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:90 ../../Ch03/Ch03_jamoviIntro_2.rst:88
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:90
 msgid ""
 "If you want to change a variable’s measurement level then you can do this in "
 "the jamovi ``Data`` view. Click on the variable name in the top row of the "
@@ -475,11 +427,11 @@ msgid ""
 "Type`` – continuous |continuous|, ordinal |ordinal| or nominal |nominal|."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:97 ../../Ch03/Ch03_jamoviIntro_2.rst:95
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:97
 msgid "Computed variables"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:99 ../../Ch03/Ch03_jamoviIntro_2.rst:97
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:99
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other variables. Computed Variables can be used for a range "
@@ -490,7 +442,7 @@ msgid ""
 "`EFA_in_jamovi` and in :numref:`fig-efa7`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:107 ../../Ch03/Ch03_jamoviIntro_2.rst:105
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:107
 msgid ""
 "Computed variables can be added to the data set with the ``Add`` button "
 "available on the data tab. This will produce a formula box where you can "
@@ -498,7 +450,7 @@ msgid ""
 "examples of formulas are:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:119 ../../Ch03/Ch03_jamoviIntro_2.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:119
 msgid ""
 "In order, these are the sum of ``A`` and ``B``, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the *z*-score of the variable "
@@ -507,19 +459,19 @@ msgid ""
 "example data set)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:131 ../../Ch03/Ch03_jamoviIntro_2.rst:129
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
 msgid "Computed variable: *z*-score of ``dose``"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:131 ../../Ch03/Ch03_jamoviIntro_2.rst:129
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
 msgid "A newly computed variable, the *z*-score of ``dose``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:135 ../../Ch03/Ch03_jamoviIntro_2.rst:133
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:135
 msgid "*V-functions*"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:137 ../../Ch03/Ch03_jamoviIntro_2.rst:135
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:137
 msgid ""
 "Several functions are already available in jamovi and available from the "
 "drop down box labelled *f*\\ :sub:`x`. A number of functions appear in "
@@ -530,25 +482,25 @@ msgid ""
 "the values in ``A``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:147 ../../Ch03/Ch03_jamoviIntro_2.rst:145
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:147
 msgid "Loading data in jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:149 ../../Ch03/Ch03_jamoviIntro_2.rst:147
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:149
 msgid ""
 "There are several different types of files that are likely to be relevant to "
 "us when doing data analysis. There are two in particular that are especially "
 "important from the perspective of this book:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:153 ../../Ch03/Ch03_jamoviIntro_2.rst:151
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:153
 msgid ""
 "*jamovi files* are those with a ``.omv`` file extension. This is the "
 "standard kind of file that jamovi uses to store data, and variables and "
 "analyses."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:157 ../../Ch03/Ch03_jamoviIntro_2.rst:155
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:157
 msgid ""
 "*Comma separated value (CSV) files* are those with a ``.csv`` file "
 "extension. These are just regular old text files and they can be opened with "
@@ -556,7 +508,7 @@ msgid ""
 "data in CSV files, precisely because they’re so simple."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:163 ../../Ch03/Ch03_jamoviIntro_2.rst:161
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:163
 msgid ""
 "There are also several other kinds of data file that you might want to "
 "import into jamovi. For instance, you might want to open Microsoft Excel "
@@ -564,14 +516,14 @@ msgid ""
 "native file formats for other statistics software, such as SPSS or SAS."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:168 ../../Ch03/Ch03_jamoviIntro_2.rst:166
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:168
 msgid ""
 "Whichever file formats you are using, it’s a good idea to create a folder or "
 "folders especially for your jamovi data sets and analyses and to make sure "
 "you keep these backed up regularly."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:172 ../../Ch03/Ch03_jamoviIntro_2.rst:170
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:172
 msgid ""
 "To open a file select the main jamovi menu (``☰``; top left hand corner), "
 "select ``Open`` and then choose from the files listed under ``This PC`` if "
@@ -581,11 +533,11 @@ msgid ""
 "``lsj-data``)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:180 ../../Ch03/Ch03_jamoviIntro_2.rst:178
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:180
 msgid "Importing data from CSV files"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:182 ../../Ch03/Ch03_jamoviIntro_2.rst:180
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:182
 msgid ""
 "One quite commonly used data format is the humble “comma separated value” "
 "file, also called a CSV file, and usually bearing the file extension ``."
@@ -597,11 +549,11 @@ msgid ""
 "variables."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:197 ../../Ch03/Ch03_jamoviIntro_2.rst:195
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:197
 msgid "|booksales| data file"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:197 ../../Ch03/Ch03_jamoviIntro_2.rst:195
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:197
 msgid ""
 "The |booksales|_ data file. On the left I’ve opened the file using a "
 "spreadsheet program (LibreOffice), which shows that the file is basically a "
@@ -610,7 +562,7 @@ msgid ""
 "entries in the table are wrapped in quote marks and separated by commas."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:205 ../../Ch03/Ch03_jamoviIntro_2.rst:203
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:205
 msgid ""
 "It’s easy to open CSV files in jamovi. From the jamovi main menu (``☰``; top "
 "left hand corner) choose ``Open`` and browse to where you have stored the "
@@ -621,38 +573,38 @@ msgid ""
 "Find the one you want, then click on the ``Open`` button."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:213 ../../Ch03/Ch03_jamoviIntro_2.rst:211
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:213
 msgid ""
 "There are a few things that you can check to make sure that the data gets "
 "imported correctly:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:216 ../../Ch03/Ch03_jamoviIntro_2.rst:214
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:216
 msgid ""
 "Heading. Does the first row of the file contain the names for each variable "
 "- a “header” row? The |booksales|_ file has a header, so that’s a yes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:220 ../../Ch03/Ch03_jamoviIntro_2.rst:218
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:220
 msgid ""
 "Separator. What character is used to separate different entries? In most CSV "
 "files this will be a comma (it is “comma separated” after all)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:224 ../../Ch03/Ch03_jamoviIntro_2.rst:222
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:224
 msgid ""
 "Decimal. What character is used to specify the decimal point? In English "
 "speaking countries this is almost always a period (i.e., ``.``). That’s not "
 "universally true though, many European countries use a comma."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:229 ../../Ch03/Ch03_jamoviIntro_2.rst:227
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:229
 msgid ""
 "Quote. What character is used to denote a block of text? That’s usually "
 "going to be a double quote mark (``\"``). It is for the |booksales|_ file."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:233 ../../Ch03/Ch03_jamoviIntro_2.rst:231
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:233
 msgid ""
 "Throughout this book I’ve assumed that your data are stored as a jamovi ``."
 "omv`` file or as a “properly” formatted CSV file. However, in real life "
@@ -660,7 +612,7 @@ msgid ""
 "some of the other possibilities that you might run into."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:238 ../../Ch03/Ch03_jamoviIntro_2.rst:236
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:238
 msgid ""
 "The first thing I should point out is that if your data are saved as a text "
 "file but aren’t *quite* in the proper CSV format then there’s still a pretty "
@@ -669,7 +621,7 @@ msgid ""
 "formatting. The ones that I’ve often found myself needing to change are:"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:245 ../../Ch03/Ch03_jamoviIntro_2.rst:243
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:245
 msgid ""
 "``header``. A lot of the time when you’re storing data as a CSV file the "
 "first row actually contains the column names and not data. If that’s not "
@@ -677,7 +629,7 @@ msgid ""
 "programme such as LibreOffice and add the header row manually."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:251 ../../Ch03/Ch03_jamoviIntro_2.rst:249
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:251
 msgid ""
 "``sep``. As the name “comma separated value” indicates, the values in a row "
 "of a CSV file are usually separated by commas. This isn’t universal, "
@@ -687,7 +639,7 @@ msgid ""
 "the separator. At other times, I’ve seen a TAB character used."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:259 ../../Ch03/Ch03_jamoviIntro_2.rst:257
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:259
 msgid ""
 "``quote``. It’s conventional in CSV files to include a quoting character for "
 "textual data. As you can see by looking at the |booksales|_ file, this is "
@@ -695,7 +647,7 @@ msgid ""
 "character at all, or you might see a single quote mark ``’`` used instead."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:265 ../../Ch03/Ch03_jamoviIntro_2.rst:263
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:265
 msgid ""
 "``skip``. It’s actually very common to receive CSV files in which the first "
 "few rows have nothing to do with the actual data. Instead, they provide a "
@@ -703,7 +655,7 @@ msgid ""
 "some technical info that doesn’t relate to the data."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:271 ../../Ch03/Ch03_jamoviIntro_2.rst:269
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:271
 msgid ""
 "``missing values``. Often you’ll get given data with missing values. For one "
 "reason or another, some entries in the table are missing. The data file "
@@ -718,11 +670,11 @@ msgid ""
 "``Setup`` view."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:285 ../../Ch03/Ch03_jamoviIntro_2.rst:283
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:285
 msgid "Importing data from other statistics packages"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:287 ../../Ch03/Ch03_jamoviIntro_2.rst:285
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:287
 msgid ""
 "The commands listed above are the main ones we’ll need for data files in "
 "this book. But in real life we have many more possibilities. For example, "
@@ -733,14 +685,14 @@ msgid ""
 "but this time navigate to the ``.sav`` file you want to import."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:296 ../../Ch03/Ch03_jamoviIntro_2.rst:294
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:296
 msgid ""
 "As far as other statistical software goes, jamovi can also directly open / "
 "import a wealth of other formats such as R, SAS, STATA, Excel, LibreOffice, "
 "and JSON."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:303 ../../Ch03/Ch03_jamoviIntro_2.rst:301
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:303
 msgid ""
 "You can change the default value for missing values in jamovi from the "
 "settings menu (``⋮``, top right corner), but this only works at the time of "
@@ -835,7 +787,6 @@ msgid "Installing add-on modules into jamovi"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
-#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "

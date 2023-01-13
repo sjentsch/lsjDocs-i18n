@@ -59,7 +59,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-13 20:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -67,81 +67,27 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-13 19:35+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 20:31+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 17:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-12 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch03.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
 msgid "Getting started with jamovi"
 msgstr "Die ersten Schritte mit jamovi"
 
-#: ../../Ch03/Ch03_jamoviIntro.rst
+#: ../../Ch03/Ch03_jamoviIntro.rst:0
 msgid "*Robots are nice to work with.*"
 msgstr "*Mit Robotern lässt es sich gut zusammen arbeiten.*"
 
@@ -512,7 +458,7 @@ msgstr ""
 "Angabe eines ID-Variablentyps kann die Leistung bei der Interaktion mit sehr "
 "großen Datensätzen verbessern."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:311 ../../Ch03/Ch03_jamoviIntro_3.rst:108
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:313 ../../Ch03/Ch03_jamoviIntro_3.rst:108
 msgid "ID"
 msgstr "ID"
 
@@ -538,7 +484,6 @@ msgstr ""
 "schöne „menschenlesbare“ Bezeichnungen hinzufügen (mehr dazu später)."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:319 ../../Ch03/Ch03_jamoviIntro_3.rst:114
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:317
 msgid "nominal"
 msgstr "nominal"
 
@@ -553,7 +498,6 @@ msgstr ""
 "bei der 3 für „stimme voll zu“ und -3 für „stimme überhaupt nicht zu“ steht."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:322 ../../Ch03/Ch03_jamoviIntro_3.rst:117
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:320
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -568,7 +512,6 @@ msgstr ""
 "Gewicht. Man spricht auch von „Intervallskala“ oder „Verhältnisskala“."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:316 ../../Ch03/Ch03_jamoviIntro_3.rst:111
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:314
 msgid "continuous"
 msgstr "continuous"
 
@@ -607,7 +550,7 @@ msgstr ""
 "Erkennung von jamovi nicht korrekt ist. In einem solchen Fall kann man den "
 "Variablentyp manuell mit dem Variablen-Editor festlegen."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:68
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:70
 msgid ""
 "The variable editor can be opened by selecting ``Setup`` from the ``Data`` "
 "ribbon or by double-clicking on the variable column header. The variable "
@@ -623,7 +566,7 @@ msgstr ""
 "Stufe der Variablen angezeigte Bezeichnung ändern. Der Variablen-Editor kann "
 "durch Klicken auf ``↑`` verlassen werden."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:74
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:76
 msgid ""
 "New variables can be inserted or appended to the data set using the ``Add`` "
 "button from the ``Data`` tab. The ``Add`` button also allows the addition of "
@@ -633,7 +576,7 @@ msgstr ""
 "Datensatz eingefügt oder angehängt werden. Die Schaltfläche ``Add`` "
 "ermöglicht auch das Hinzufügen von berechneten Variablen."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:78
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:80
 msgid ""
 "Sometimes you want to change the variable level. This can happen for all "
 "sorts of reasons. Sometimes when you import data from files, it can come to "
@@ -657,7 +600,7 @@ msgstr ""
 "den korrekten Begriff zu verwenden, Sie wollen die Variable von einer Klasse "
 "in eine andere **überführen**."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:88
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:90
 msgid ""
 "If you want to change a variable’s measurement level then you can do this in "
 "the jamovi ``Data`` view. Click on the variable name in the top row of the "
@@ -670,11 +613,11 @@ msgstr ""
 "einfach auf das für die gewünschte Niveau unter ``Measure Type`` – "
 "kontinuierlich |continuous|, ordinal |ordinal| oder nominal |nominal|."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:95
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:97
 msgid "Computed variables"
 msgstr "Berechnete Variablen"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:97
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:99
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other variables. Computed Variables can be used for a range "
@@ -694,7 +637,7 @@ msgstr ""
 "Ende des Teilabschnitts :ref:`EFA_in_jamovi` kurz beschrieben (siehe "
 "insbesondere :numref:`fig-efa7`)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:105
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:107
 msgid ""
 "Computed variables can be added to the data set with the ``Add`` button "
 "available on the data tab. This will produce a formula box where you can "
@@ -707,7 +650,7 @@ msgstr ""
 "Es stehen die üblichen arithmetischen Operatoren zur Verfügung. Einige "
 "Beispiele für Formeln sind:"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:119
 msgid ""
 "In order, these are the sum of ``A`` and ``B``, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the *z*-score of the variable "
@@ -721,19 +664,19 @@ msgstr ""
 "Bildschirm für die neue Variable, die als *z*-Wert von ``dose`` berechnet "
 "wird (aus dem Beispiel-Datensatz ``Tooth Growth``)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:129
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
 msgid "Computed variable: *z*-score of ``dose``"
 msgstr "Berechnete Variable: *z*-Wert von ``dose``"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:129
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
 msgid "A newly computed variable, the *z*-score of ``dose``."
 msgstr "Eine neu berechnete Variable, der *z*-Wert von ``dose``."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:133
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:135
 msgid "*V-functions*"
 msgstr "*V-Funktionen*"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:135
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:137
 msgid ""
 "Several functions are already available in jamovi and available from the "
 "drop down box labelled *f*\\ :sub:`x`. A number of functions appear in "
@@ -752,11 +695,11 @@ msgstr ""
 "``B`` für jede Zeile. ``VMEAN(A)`` hingegen liefert den Mittelwert aller "
 "Werte in ``A``."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:145
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:147
 msgid "Loading data in jamovi"
 msgstr "Datendateien in jamovi öffnen"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:147
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:149
 msgid ""
 "There are several different types of files that are likely to be relevant to "
 "us when doing data analysis. There are two in particular that are especially "
@@ -766,7 +709,7 @@ msgstr ""
 "werden, wenn wir eine Datenanalyse durchführen wollen. Insbesondere gibt es "
 "zwei, die aus der Perspektive dieses Buches besonders wichtig sind:"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:151
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:153
 msgid ""
 "*jamovi files* are those with a ``.omv`` file extension. This is the "
 "standard kind of file that jamovi uses to store data, and variables and "
@@ -776,7 +719,7 @@ msgstr ""
 "ist der Dateityp den jamovi standardmäßig zum Speichern von Daten, Variablen "
 "und Analysen verwendet."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:155
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:157
 msgid ""
 "*Comma separated value (CSV) files* are those with a ``.csv`` file "
 "extension. These are just regular old text files and they can be opened with "
@@ -788,7 +731,7 @@ msgstr ""
 "verschiedenen Softwareprogrammen geöffnet werden können. Leute speichern "
 "ihre Daten häufig und gerne als CSV-Dateien, eben weil sie so einfach sind."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:161
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:163
 msgid ""
 "There are also several other kinds of data file that you might want to "
 "import into jamovi. For instance, you might want to open Microsoft Excel "
@@ -801,7 +744,7 @@ msgstr ""
 "Dateiformaten anderer Statistikprogramme wie SPSS oder SAS gespeichert "
 "wurden."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:166
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:168
 msgid ""
 "Whichever file formats you are using, it’s a good idea to create a folder or "
 "folders especially for your jamovi data sets and analyses and to make sure "
@@ -811,7 +754,7 @@ msgstr ""
 "einen oder mehrere Ordner speziell für Ihre jamovi-Datensätze und -analysen "
 "zu erstellen und sicherzustellen, dass Sie diese auch regelmäßig sichern."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:170
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:172
 msgid ""
 "To open a file select the main jamovi menu (``☰``; top left hand corner), "
 "select ``Open`` and then choose from the files listed under ``This PC`` if "
@@ -828,11 +771,11 @@ msgstr ""
 "dieses Buch finden Sie unter ``Data Library`` → ``learning statistics with "
 "jamovi`` (bzw. ``lsj-data``)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:178
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:180
 msgid "Importing data from CSV files"
 msgstr "Importieren von CSV-Dateien"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:180
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:182
 msgid ""
 "One quite commonly used data format is the humble “comma separated value” "
 "file, also called a CSV file, and usually bearing the file extension ``."
@@ -852,11 +795,11 @@ msgstr ""
 "Buchverkaufsdaten für einen Monat dar. Die erste Zeile enthält jedoch keine "
 "Daten, sondern Variablennamen."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:195
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:197
 msgid "|booksales| data file"
 msgstr "Die Datei |booksales|"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:195
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:197
 msgid ""
 "The |booksales|_ data file. On the left I’ve opened the file using a "
 "spreadsheet program (LibreOffice), which shows that the file is basically a "
@@ -871,7 +814,7 @@ msgstr ""
 "geöffnet, dort sehen wir, wie die Datei formatiert ist: Die Einträge in der "
 "Tabelle sind in Anführungszeichen eingeschlossen und durch Kommas getrennt."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:203
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:205
 msgid ""
 "It’s easy to open CSV files in jamovi. From the jamovi main menu (``☰``; top "
 "left hand corner) choose ``Open`` and browse to where you have stored the "
@@ -890,7 +833,7 @@ msgstr ""
 "sollten, die CSV-Datei zu finden, die Sie importieren möchten! Suchen Sie "
 "die gewünschte Datei und klicken Sie dann auf die ``Open``-Schaltfläche."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:211
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:213
 msgid ""
 "There are a few things that you can check to make sure that the data gets "
 "imported correctly:"
@@ -898,7 +841,7 @@ msgstr ""
 "Es gibt einige Dinge, die Sie überprüfen können, um sicherzustellen, dass "
 "die Daten auch korrekt importiert werden:"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:214
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:216
 msgid ""
 "Heading. Does the first row of the file contain the names for each variable "
 "- a “header” row? The |booksales|_ file has a header, so that’s a yes."
@@ -906,7 +849,7 @@ msgstr ""
 "Kopfzeile. Enthält die erste Zeile der Datei die Variablennamen - also eine "
 "„Kopfzeile“? Die Datei |booksales|_ hat eine Kopfzeile, also Ja."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:218
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:220
 msgid ""
 "Separator. What character is used to separate different entries? In most CSV "
 "files this will be a comma (it is “comma separated” after all)."
@@ -915,7 +858,7 @@ msgstr ""
 "verwendet? In den meisten CSV-Dateien wird dies ein Komma sein (es heißt ja "
 "schließlich auch „comma separated“)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:222
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:224
 msgid ""
 "Decimal. What character is used to specify the decimal point? In English "
 "speaking countries this is almost always a period (i.e., ``.``). That’s not "
@@ -926,7 +869,7 @@ msgstr ""
 "ist jedoch nicht überall der Fall, so verwenden viele europäische Länder zum "
 "Beispiel das Komma."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:227
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:229
 msgid ""
 "Quote. What character is used to denote a block of text? That’s usually "
 "going to be a double quote mark (``\"``). It is for the |booksales|_ file."
@@ -935,7 +878,7 @@ msgstr ""
 "Normalerweise ist das ein doppeltes Anführungszeichen (``\"``). So auch für "
 "die Datei |booksales|_."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:231
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:233
 msgid ""
 "Throughout this book I’ve assumed that your data are stored as a jamovi ``."
 "omv`` file or as a “properly” formatted CSV file. However, in real life "
@@ -948,7 +891,7 @@ msgstr ""
 "möchte ich lieber auch auf einige der anderen Möglichkeiten eingehen, auf "
 "die Sie stoßen könnten."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:236
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:238
 msgid ""
 "The first thing I should point out is that if your data are saved as a text "
 "file but aren’t *quite* in the proper CSV format then there’s still a pretty "
@@ -963,7 +906,7 @@ msgstr ""
 "müssen Sie allerdings doch einige Formatierungen ändern. Formatierungen, die "
 "ich oft ändern musste, sind die Folgenden:"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:243
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:245
 msgid ""
 "``header``. A lot of the time when you’re storing data as a CSV file the "
 "first row actually contains the column names and not data. If that’s not "
@@ -975,7 +918,7 @@ msgstr ""
 "es keine schlechte Idee, die CSV-Datei in einem Tabellenprogramm wie "
 "LibreOffice zu öffnen und die Kopfzeile manuell hinzuzufügen."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:249
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:251
 msgid ""
 "``sep``. As the name “comma separated value” indicates, the values in a row "
 "of a CSV file are usually separated by commas. This isn’t universal, "
@@ -992,7 +935,7 @@ msgstr ""
 "ungewöhnlich, ``;`` anstelle von ``,`` als Trennzeichen zu wählen. Ich habe "
 "auch schon gesehen, dass ein TAB-Zeichen verwendet wurde."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:257
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:259
 msgid ""
 "``quote``. It’s conventional in CSV files to include a quoting character for "
 "textual data. As you can see by looking at the |booksales|_ file, this is "
@@ -1005,7 +948,7 @@ msgstr ""
 "auch gar kein Anführungszeichen, oder es wird stattdessen ein einfaches "
 "Anführungszeichen ``'`` verwendet."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:263
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:265
 msgid ""
 "``skip``. It’s actually very common to receive CSV files in which the first "
 "few rows have nothing to do with the actual data. Instead, they provide a "
@@ -1018,7 +961,7 @@ msgstr ""
 "Herkunft der Daten, oder vielleicht auch einige technische Informationen, "
 "die nichts mit den Daten zu tun haben."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:269
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:271
 msgid ""
 "``missing values``. Often you’ll get given data with missing values. For one "
 "reason or another, some entries in the table are missing. The data file "
@@ -1045,11 +988,11 @@ msgstr ""
 "Wert für fehlende Werte in jeder Variable auch mittels einer Option unter "
 "``Setup`` im ``Data``-Tab ändern:"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:283
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:285
 msgid "Importing data from other statistics packages"
 msgstr "Daten aus anderen Statistikprogrammen importieren"
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:285
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:287
 msgid ""
 "The commands listed above are the main ones we’ll need for data files in "
 "this book. But in real life we have many more possibilities. For example, "
@@ -1068,7 +1011,7 @@ msgstr ""
 "einfach die obigen Anweisungen zum Öffnen einer CSV-Datei, aber navigieren "
 "Sie dieses Mal zu der ``.sav``-Datei, die Sie importieren möchten."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:294
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:296
 msgid ""
 "As far as other statistical software goes, jamovi can also directly open / "
 "import a wealth of other formats such as R, SAS, STATA, Excel, LibreOffice, "
@@ -1078,7 +1021,7 @@ msgstr ""
 "anderer Formate wie R, SAS, STATA, Excel, LibreOffice und JSON öffnen bzw. "
 "importieren."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:301
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:303
 msgid ""
 "You can change the default value for missing values in jamovi from the "
 "settings menu (``⋮``, top right corner), but this only works at the time of "
@@ -1230,7 +1173,6 @@ msgid "Installing add-on modules into jamovi"
 msgstr "Installation von Zusatzmodulen in jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
-#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "
