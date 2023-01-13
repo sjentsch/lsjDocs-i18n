@@ -62,75 +62,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-13 20:17+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-13 19:35+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 21:07+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 20:31+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 17:42+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-01-12 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -138,6 +72,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch09.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:4
@@ -145,7 +91,6 @@ msgid "Hypothesis testing"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting.rst
 msgid ""
 "*The process of induction is the process of assuming the simplest law that "
 "can be made to harmonize with our experience. This process, however, has no "
@@ -437,8 +382,8 @@ msgid ""
 "statistical hypothesis (the “null” hypothesis, H\\ :sub:`0`\\ ) that "
 "corresponds to the exact opposite of what I want to believe, and then focus "
 "exclusively on that almost to the neglect of the thing I’m actually "
-"interested in (which is now called the “alternative” hypothesis, H\\ :sub:"
-"`1`\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
+"interested in (which is now called the “alternative” hypothesis, H\\ :sub:`1`"
+"\\ ). In our ESP example, the null hypothesis is that *θ* = 0.5, since "
 "that’s what we’d expect if ESP *didn’t* exist. My hope, of course, is that "
 "ESP is totally real and so the *alternative* to this null hypothesis is *θ* "
 "≠ 0.5. In essence, what we’re doing here is dividing up the possible values "
@@ -591,42 +536,34 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - α"
 msgstr "1 - α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(probability of correct retention)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "α"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type I error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "β"
 msgstr "β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(type II error rate)"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "1 - β"
 msgstr "1 - β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_02.rst
 msgid "(power of the test)"
 msgstr ""
 
@@ -897,7 +834,6 @@ msgid "A note on statistical “significance”"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst
 msgid ""
 "*Like other occult techniques of divination, the statistical method has a "
 "private jargon deliberately contrived to obscure its methods from non-"
@@ -1568,7 +1504,6 @@ msgid "Effect size"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:0
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst
 msgid ""
 "*Since all models are wrong the scientist must be alert to what is "
 "importantly wrong. It is inappropriate to be concerned with mice when there "
@@ -1866,13 +1801,13 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:59
 msgid ""
 "As you can see, what we have today is an odd mishmash of the two. We talk "
-"about having both a null hypothesis and an alternative (Neyman), but "
-"usually\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but "
-"we still have α values (Neyman). Some of the statistical tests have "
-"explicitly specified alternatives (Neyman) but others are quite vague about "
-"it (Fisher). And, according to some people at least, we’re not allowed to "
-"talk about accepting the alternative (Fisher). It’s a mess, but I hope this "
-"at least explains why it’s a mess."
+"about having both a null hypothesis and an alternative (Neyman), but usually"
+"\\ [#]_ define the *p*-value in terms of extreme data (Fisher), but we still "
+"have α values (Neyman). Some of the statistical tests have explicitly "
+"specified alternatives (Neyman) but others are quite vague about it "
+"(Fisher). And, according to some people at least, we’re not allowed to talk "
+"about accepting the alternative (Fisher). It’s a mess, but I hope this at "
+"least explains why it’s a mess."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
