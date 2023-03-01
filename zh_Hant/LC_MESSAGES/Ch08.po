@@ -4,6 +4,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -67,13 +88,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 18:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 18:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 14:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-13 21:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1386,14 +1439,15 @@ msgstr ""
 msgid ""
 "So far, estimation seems pretty simple, and you might be wondering why I "
 "forced you to read through all that stuff about sampling theory. In the case "
-"of the mean our estimate of the population parameter (i.e. :math:`\\hat"
-"\\mu`) turned out to be identical to the corresponding sample statistic (i."
-"e. *X̄*). However, that’s not always true. To see this, let’s have a think "
-"about how to construct an **estimate of the population standard deviation**, "
-"which we’ll denote :math:`\\hat\\sigma`. What shall we use as our estimate "
-"in this case? Your first thought might be that we could do the same thing we "
-"did when estimating the mean, and just use the sample statistic as our "
-"estimate. That’s almost the right thing to do, but not quite."
+"of the mean our estimate of the population parameter (i.e. :math:"
+"`\\hat\\mu`) turned out to be identical to the corresponding sample "
+"statistic (i.e. *X̄*). However, that’s not always true. To see this, let’s "
+"have a think about how to construct an **estimate of the population standard "
+"deviation**, which we’ll denote :math:`\\hat\\sigma`. What shall we use as "
+"our estimate in this case? Your first thought might be that we could do the "
+"same thing we did when estimating the mean, and just use the sample "
+"statistic as our estimate. That’s almost the right thing to do, but not "
+"quite."
 msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:95
@@ -1599,8 +1653,8 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:242
 msgid ""
-"One final point. In practice, a lot of people tend to refer to :math:`"
-"\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
+"One final point. In practice, a lot of people tend to refer to :math:"
+"`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
 "*sample* standard deviation. Technically, this is incorrect. The *sample* "
 "standard deviation should be equal to *s* (i.e., the formula where we divide "
 "by *N*). These aren’t the same thing, either conceptually or numerically. "

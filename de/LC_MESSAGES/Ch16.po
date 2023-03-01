@@ -4,6 +4,27 @@
 # This file is distributed under the same license as the Learning statistics with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -25,13 +46,45 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 18:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 18:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch16.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 14:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch16.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-13 21:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -334,8 +387,8 @@ msgid ""
 "might want to calculate the probability that today is rainy (i.e., "
 "hypothesis *h* is true) and I’m carrying an umbrella (i.e., data *d* is "
 "observed). The **joint probability** of the hypothesis and the data is "
-"written *P*\\ (d, h), and you can calculate it by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
+"written *P*\\ (d, h), and you can calculate it by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). Mathematically, we say that:"
 msgstr ""
 "Beginnen wir mit einer der Regeln der Wahrscheinlichkeitsrechnung. Ich habe "
 "sie schon vor langer Zeit in :numref:`tab-probrules` aufgelistet, aber ich "
@@ -774,9 +827,9 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:282
 msgid ""
 "However, remember what I said at the start of the last section, namely that "
-"the joint probability *P*\\ (d, h) is calculated by multiplying the prior *P*"
-"\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we actually "
-"know how to write down are the priors and the likelihood, so let’s "
+"the joint probability *P*\\ (d, h) is calculated by multiplying the prior "
+"*P*\\ (h) by the likelihood *P*\\ (d|h). In real life, the things we "
+"actually know how to write down are the priors and the likelihood, so let’s "
 "substitute those back into the equation. This gives us the following formula "
 "for the posterior probability"
 msgstr ""
@@ -872,10 +925,10 @@ msgstr ""
 msgid ""
 "You might notice that this equation is actually a restatement of the same "
 "basic rule I listed at the start of the last section. If you multiply both "
-"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = *P*"
-"\\ (d, h), which is the rule for how joint probabilities are calculated. So "
-"I’m not actually introducing any “new” rules here, I’m just using the same "
-"rule in a different way."
+"sides of the equation by *P*\\ (d), then you get *P*\\ (d) *P*\\ (h|d) = "
+"*P*\\ (d, h), which is the rule for how joint probabilities are calculated. "
+"So I’m not actually introducing any “new” rules here, I’m just using the "
+"same rule in a different way."
 msgstr ""
 "Sie werden feststellen, dass diese Gleichung eigentlich eine Umformulierung "
 "der gleichen Grundregel ist, die ich zu Beginn des letzten Abschnitts "
@@ -912,8 +965,8 @@ msgstr ""
 "meisten Menschen nur schwer verständlich ist. Im Gegensatz dazu ist der "
 "Bayessche Ansatz zur Hypothesenprüfung unglaublich einfach. Wählen wir eine "
 "Situation, die dem frequentistischen Szenario sehr ähnlich ist. Es gibt zwei "
-"Hypothesen, die wir miteinander vergleichen wollen, eine Nullhypothese *h*"
-"\\ :sub:`0` und eine Alternativhypothese *h*\\ :sub:`1`. Bevor wir das "
+"Hypothesen, die wir miteinander vergleichen wollen, eine Nullhypothese "
+"*h*\\ :sub:`0` und eine Alternativhypothese *h*\\ :sub:`1`. Bevor wir das "
 "Experiment durchführen, haben wir einige Überzeugungen *P*\\(h) darüber, "
 "welche Hypothesen wahr sind. Wir führen ein Experiment durch und erhalten "
 "Daten *d*. Im Gegensatz zur frequentistischen Statistik können wir in der "
@@ -968,8 +1021,8 @@ msgstr "Der Bayes-Faktor"
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
 "In practice, most Bayesian data analysts tend not to talk in terms of the "
-"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:`1`"
-"\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
+"raw posterior probabilities *P*\\ (h\\ :sub:`0`\\|d) and *P*\\ (h\\ :sub:"
+"`1`\\|d). Instead, we tend to talk in terms of the **posterior odds** ratio. "
 "Think of it like betting. Suppose, for instance, the posterior probability "
 "of the null hypothesis is 25\\%, and the posterior probability of the "
 "alternative is 75\\%. The alternative hypothesis is three times as probable "
@@ -978,8 +1031,8 @@ msgid ""
 "one posterior probability by the other"
 msgstr ""
 "In der Praxis neigen die meisten Bayesianischen Datenanalysten dazu, nicht "
-"von den rohen Posterior-Wahrscheinlichkeiten *P*\\ (h\\ :sub:`0`\\|d) und *P*"
-"\\ (h\\ :sub:`1`\\|d) zu sprechen. Stattdessen neigen wir dazu, vom "
+"von den rohen Posterior-Wahrscheinlichkeiten *P*\\ (h\\ :sub:`0`\\|d) und "
+"*P*\\ (h\\ :sub:`1`\\|d) zu sprechen. Stattdessen neigen wir dazu, vom "
 "**Verhältnis der a-posteriori-Wahrscheinlichkeiten** zu sprechen. Stellen "
 "Sie sich das wie eine Wette vor. Angenommen, die a-posteriori-"
 "Wahrscheinlichkeit der Nullhypothese beträgt 25\\% und die a-posteriori-"
