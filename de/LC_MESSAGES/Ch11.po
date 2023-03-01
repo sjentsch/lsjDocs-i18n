@@ -15,19 +15,21 @@
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-01 18:21+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-03-01 17:37+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch11/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
@@ -3551,6 +3553,11 @@ msgid ""
 "0.992, indicating that no significant departures from normality were "
 "detected (*p* = 0.361)."
 msgstr ""
+"Histogramm (links) und QQ-Diagramm (rechts) für die Spalte ``Normal`` im "
+"Datensatz |distributions|_, einer normalverteilten Stichprobe mit 200 "
+"Beobachtungen. Die mit diesen Daten verbundene Shapiro-Wilk-Statistik "
+"beträgt *W* = 0,992, was bedeutet, dass keine signifikanten Abweichungen von "
+"der Normalität festgestellt wurden (*p* = 0,361)."
 
 #: ../../Ch11/Ch11_tTest_08.rst:47
 msgid "Histogram and QQ plot for skewed and tailed data"
