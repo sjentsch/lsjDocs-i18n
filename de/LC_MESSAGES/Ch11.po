@@ -1,12 +1,3 @@
-# #-#-#-#-#  Ch11.pot (Learning statistics with jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
-# work is licensed under a Creative Commons Attribution-Non Commercial 4.0
-# International License.
-# This file is distributed under the same license as the Learning statistics
-# with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
-#
 # #-#-#-#-#  Ch11.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch11.po (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -14,6 +5,7 @@
 # International License.
 # This file is distributed under the same license as the Learning statistics
 # with jamovi package.
+#
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 msgid ""
 msgstr ""
