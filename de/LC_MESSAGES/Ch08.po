@@ -1,3 +1,24 @@
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
+# #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
+# This file is distributed under the same license as the Learning statistics with jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#
 # #-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#
 # Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This
@@ -11,6 +32,39 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 14:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (Learning statistics with jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  Ch08.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 14:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  Ch08.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-01 18:21+0100\n"
@@ -18,7 +72,6 @@ msgstr ""
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch08/de/"
 ">\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2012,14 +2065,15 @@ msgstr "Schätzen der Standardabweichung der Grundgesamtheit"
 msgid ""
 "So far, estimation seems pretty simple, and you might be wondering why I "
 "forced you to read through all that stuff about sampling theory. In the case "
-"of the mean our estimate of the population parameter (i.e. :math:`\\hat"
-"\\mu`) turned out to be identical to the corresponding sample statistic (i."
-"e. *X̄*). However, that’s not always true. To see this, let’s have a think "
-"about how to construct an **estimate of the population standard deviation**, "
-"which we’ll denote :math:`\\hat\\sigma`. What shall we use as our estimate "
-"in this case? Your first thought might be that we could do the same thing we "
-"did when estimating the mean, and just use the sample statistic as our "
-"estimate. That’s almost the right thing to do, but not quite."
+"of the mean our estimate of the population parameter (i.e. :math:"
+"`\\hat\\mu`) turned out to be identical to the corresponding sample "
+"statistic (i.e. *X̄*). However, that’s not always true. To see this, let’s "
+"have a think about how to construct an **estimate of the population standard "
+"deviation**, which we’ll denote :math:`\\hat\\sigma`. What shall we use as "
+"our estimate in this case? Your first thought might be that we could do the "
+"same thing we did when estimating the mean, and just use the sample "
+"statistic as our estimate. That’s almost the right thing to do, but not "
+"quite."
 msgstr ""
 "Bis jetzt scheint die Schätzung ziemlich einfach zu sein, und Sie werden "
 "sich vielleicht fragen, warum ich Sie gezwungen habe, den ganzen Kram über "
@@ -2372,8 +2426,8 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:242
 msgid ""
-"One final point. In practice, a lot of people tend to refer to :math:`"
-"\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
+"One final point. In practice, a lot of people tend to refer to :math:"
+"`\\hat{\\sigma}` (i.e., the formula where we divide by *N* - 1) as the "
 "*sample* standard deviation. Technically, this is incorrect. The *sample* "
 "standard deviation should be equal to *s* (i.e., the formula where we divide "
 "by *N*). These aren’t the same thing, either conceptually or numerically. "
@@ -2391,16 +2445,16 @@ msgid ""
 "thinking that *s* and :math:`\\hat\\sigma` are the same thing, you start "
 "doing exactly that."
 msgstr ""
-"Ein letzter Punkt: In der Praxis neigen viele Leute dazu, :math:`"
-"\\hat{\\sigma}` (d.h. die Formel, in der wir durch *N* - 1 dividieren) als "
+"Ein letzter Punkt: In der Praxis neigen viele Leute dazu, :math:"
+"`\\hat{\\sigma}` (d.h. die Formel, in der wir durch *N* - 1 dividieren) als "
 "die *Stichprobenstandardabweichung* zu bezeichnen. Technisch gesehen ist "
 "dies falsch. Die Standardabweichung der *Stichprobe* sollte gleich *s* sein "
 "(d. h. die Formel, bei der wir durch *N* dividieren). Dies ist nicht "
 "dasselbe, weder konzeptionell noch numerisch. Das eine ist eine Eigenschaft "
 "der Stichprobe, das andere ist ein geschätztes Merkmal der Grundgesamtheit. "
 "In fast allen Anwendungen im wirklichen Leben geht es jedoch um die "
-"Schätzung des Parameters für die Grundgesamtheit. Deshalb wird immer :math:`"
-"\\hat\\sigma` statt *s* angegeben. Das ist natürlich die richtige Zahl. Es "
+"Schätzung des Parameters für die Grundgesamtheit. Deshalb wird immer :math:"
+"`\\hat\\sigma` statt *s* angegeben. Das ist natürlich die richtige Zahl. Es "
 "ist nur so, dass die Leute dazu neigen, sich bei der Terminologie etwas "
 "ungenau auszudrücken, weil „Stichprobenstandardabweichung“ kürzer ist als "
 "„geschätzte Standardabweichung in der Grundgesamtheit“. Das ist keine große "
@@ -2560,8 +2614,8 @@ msgstr ""
 "unverzerrter Schätzer für σ² ist, könnte man annehmen, dass es in Ordnung "
 "wäre, die Quadratwurzel zu ziehen und dass :math:`\\hat\\sigma` ebenfalls "
 "ein unverzerrter Schätzer für σ ist. Seltsamerweise ist das nicht der Fall. "
-"Es gibt tatsächlich eine subtile, winzige Verzerrung in :math:`\\hat"
-"\\sigma`. Das ist einfach bizarr: :math:`\\hat\\sigma^2` ist ein "
+"Es gibt tatsächlich eine subtile, winzige Verzerrung in :math:"
+"`\\hat\\sigma`. Das ist einfach bizarr: :math:`\\hat\\sigma^2` ist ein "
 "unverzerrter Schätzer der Varianz der Grundgesamtheit σ², aber wenn man die "
 "Quadratwurzel zieht, stellt sich heraus, dass :math:`\\hat\\sigma` ein "
 "verzerrter Schätzer der Standardabweichung der Grundgesamtheit σ ist. "
@@ -2570,9 +2624,9 @@ msgstr ""
 "Quadratwurzel) nicht mit dem Erwartungswert übereinstimmen“, aber das klingt "
 "für jeden, der keinen Kurs in mathematischer Statistik belegt hat, wie "
 "Kauderwelsch. Glücklicherweise spielt das für praktische Zwecke keine Rolle. "
-"Die Verzerrung ist gering, und im wirklichen Leben verwendet jeder :math:`"
-"\\hat\\sigma`, und es funktioniert ganz gut. Manchmal ist Mathematik einfach "
-"lästig."
+"Die Verzerrung ist gering, und im wirklichen Leben verwendet jeder :math:"
+"`\\hat\\sigma`, und es funktioniert ganz gut. Manchmal ist Mathematik "
+"einfach lästig."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:4
 msgid "Estimating a confidence interval"
