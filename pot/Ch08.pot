@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1663,7 +1663,7 @@ msgstr ""
 msgid "*Statistics means never having to say you’re certain*"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:13
+#: ../../Ch08/Ch08_Estimation_5.rst:10
 msgid "Unknown origin\\ [#]_"
 msgstr ""
 

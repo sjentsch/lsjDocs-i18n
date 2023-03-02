@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "*Robots are nice to work with.*"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:23
+#: ../../Ch03/Ch03_jamoviIntro.rst:19
 msgid "Roger Zelazny (Dismal Light, 1968)"
 msgstr ""
 

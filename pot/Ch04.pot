@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1797,7 +1797,7 @@ msgstr ""
 msgid "*The death of millions is a statistic.*"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:53
+#: ../../Ch04/Ch04_Descriptives_6.rst:49
 msgid "Josef Stalin, Potsdam 1945"
 msgstr ""
 
@@ -1805,7 +1805,7 @@ msgstr ""
 msgid "*950,000 – 1,200,000*"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:59
+#: ../../Ch04/Ch04_Descriptives_6.rst:55
 msgid ""
 "Estimate of Soviet repression deaths, 1937-1938 (:ref:`Ellman, 2002 "
 "<Ellman_2002>`)"

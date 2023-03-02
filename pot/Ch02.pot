@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +27,7 @@ msgid ""
 "experiment died of.*"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign.rst:30
+#: ../../Ch02/Ch02_StudyDesign.rst:25
 msgid "Sir Ronald Fisher\\ [#]_"
 msgstr ""
 
@@ -1887,7 +1887,7 @@ msgstr ""
 msgid "*when his salary depends on his not understanding it.*"
 msgstr ""
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:642
+#: ../../Ch02/Ch02_StudyDesign_6.rst:638
 msgid "Upton Sinclair"
 msgstr ""
 

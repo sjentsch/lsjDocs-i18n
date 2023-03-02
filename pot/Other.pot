@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1166,7 +1166,7 @@ msgid ""
 "do.*"
 msgstr ""
 
-#: ../../Other/StatTheory.rst:38
+#: ../../Other/StatTheory.rst:33
 msgid "Arthur Wellesley, 1st Duke of Wellington"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgid ""
 "that we do not know whether it will rise.*"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting.rst:41
+#: ../../Ch09/Ch09_HypothesisTesting.rst:32
 msgid "Ludwig Wittgenstein\\ [#]_"
 msgstr ""
 
@@ -770,7 +770,7 @@ msgid ""
 "practitioners.*"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:114
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:109
 msgid "Attributed to G. O. Ashley\\ [#]_"
 msgstr ""
 
@@ -1440,7 +1440,7 @@ msgid ""
 "are tigers abroad*"
 msgstr ""
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:115
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:110
 msgid ":ref:`George Box (1976) <Box_1976>`"
 msgstr ""
 
