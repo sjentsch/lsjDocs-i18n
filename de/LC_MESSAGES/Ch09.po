@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
+"POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch09/de/"
@@ -113,7 +113,7 @@ msgstr ""
 "Hypothese, dass die Sonne morgen aufgehen wird und das bedeutet, dass wir "
 "nicht wissen, ob sie aufgehen wird.*"
 
-#: ../../Ch09/Ch09_HypothesisTesting.rst:41
+#: ../../Ch09/Ch09_HypothesisTesting.rst:32
 msgid "Ludwig Wittgenstein\\ [#]_"
 msgstr "Ludwig Wittgenstein\\ [#]_"
 
@@ -1308,7 +1308,7 @@ msgstr ""
 "einen eigenen Jargon, der erfunden wurde, um ihre Methoden vor Nicht-"
 "Mitgliedern zu verbergen*."
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:114
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:109
 msgid "Attributed to G. O. Ashley\\ [#]_"
 msgstr "G. O. Ashley zugeschrieben\\ [#]_"
 
@@ -2337,7 +2337,7 @@ msgstr ""
 "wirklich falsch ist. Es ist unangemessen, sich mit Mäusen zu beschäftigen, "
 "wenn es im Ausland Tiger gibt*"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:115
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:110
 msgid ":ref:`George Box (1976) <Box_1976>`"
 msgstr ":ref:`George Box (1976) <Box_1976>`"
 
