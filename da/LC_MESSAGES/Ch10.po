@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: 2023-03-26 07:39+0000\n"
+"PO-Revision-Date: 2023-03-26 08:39+0000\n"
 "Last-Translator: Brian Seisbye <brianseisbye@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/lsjdocs/ch10/da/>"
 "\n"
@@ -422,10 +422,11 @@ msgstr ""
 msgid ""
 "H\\ :sub:`1`: At least one of the suit-choice probabilities *isn’t* 0.25"
 msgstr ""
+"H\\ :sub:`1`: Mindst en af sandsynlighederne for valg af kulør *er ikke* 0.25"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:139
 msgid "and the “mathematician friendly” version is:"
-msgstr ""
+msgstr "og den \"matematikervenlige\" version er:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:142
 msgid "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
@@ -433,7 +434,7 @@ msgstr "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:145
 msgid "The “goodness-of-fit” test statistic"
-msgstr ""
+msgstr "Teststatistikken for \"god tilpasning\""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:147
 msgid ""
