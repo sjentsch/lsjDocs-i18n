@@ -1,41 +1,43 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-26 07:38+0000\n"
+"Last-Translator: Brian Seisbye <brianseisbye@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/lsjdocs/start/da/>"
+"\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../index.rst:26
 msgid "Background"
-msgstr ""
+msgstr "Baggrund"
 
 #: ../../index.rst:35
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "En introduktion til jamovi"
 
 #: ../../index.rst:46
 msgid "Statistical theory"
-msgstr ""
+msgstr "Statistisk teori"
 
 #: ../../index.rst:57
 msgid "Statistical tools"
-msgstr ""
+msgstr "Statistiske værktøjer"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "Slutninger, alternativer, udsigter"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "Lær statistik med jamovi"
 
 #: ../../index.rst:7
 msgid ""
@@ -44,6 +46,10 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"Velkommen til Læringsstatistikker med `jamovi <https://www.jamovi.org>`__, "
+"som er en tutorial, der har til formål at hjælpe psykologistuderende og "
+"andre begyndere med de første trin ind i jamovi. jamovi er en gratis og åben "
+"statistisk software til at bygge bro mellem forsker og statistiker."
 
 #: ../../index.rst:12
 msgid ""
@@ -56,3 +62,11 @@ msgid ""
 "`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
 ">`__."
 msgstr ""
+"Før vi begynder, en kort bemærkning om, hvordan du bruger denne webside. "
+"Indholdet er tilgængeligt på forskellige sprog. For at ændre sproget skal du "
+"gå til rullemenuen \"Læringsstatistikker med jamovi\" (i nederste venstre "
+"hjørne) og klikke på den. Der udfolder sig en større menu, hvor du kan vælge "
+"det sprog, du gerne vil læse dokumentationen på. Indtil videre er kun få "
+"sprog oversat fuldstændigt, men du er meget velkommen til at bidrage til en `"
+"oversættelse til dit sprog <https://hosted .weblate.org/projects/lsjdocs/"
+">`__."
