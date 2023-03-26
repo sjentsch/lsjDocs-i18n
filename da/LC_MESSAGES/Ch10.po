@@ -1,21 +1,23 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-03-26 07:38+0000\n"
+"Last-Translator: Brian Seisbye <brianseisbye@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/lsjdocs/ch10/da/>"
+"\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
 msgid "Categorical data analysis"
-msgstr ""
+msgstr "Kategorisk dataanalyse"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:19
 msgid ""
@@ -32,6 +34,18 @@ msgid ""
 "observed, correlated variables in terms of a lower number of unobserved "
 "variables called factors or latent Variables."
 msgstr ""
+"Nu hvor vi har gennemgået den grundlæggende teori bag hypotesetestning, er "
+"det tid til at se på specifikke test, der ofte anvendes i psykologi. Så hvor "
+"skal vi starte? Ikke alle lærebøger er enige om, hvor vi skal starte, men "
+"jeg vil starte med \"χ²-tests\" (\"Kategorisk dataanalyse\", dette kapitel) "
+"og \"*t*-tests\" (kapitel :doc:`../Ch11/Ch11_test`). Begge disse værktøjer "
+"bruges meget ofte i videnskabelig praksis, og selv om de ikke er så "
+"effektive som \"regression\" (kapitel :doc:`../Ch12/Ch12_Regression`) og "
+"\"Variansanalyse\" (kapitlerne :doc:`../Ch13/Ch13_ANOVA` og :doc:`../Ch14/"
+"Ch14_ANOVA2`), er de meget lettere at forstå. Endelig er der :doc:`../Ch15/"
+"Ch15_FactorAnalysis`, der har til formål at beskrive variabiliteten blandt "
+"observerede, korrelerede variabler i form af et lavere antal uobserverede "
+"variabler kaldet faktorer eller latente variabler."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:32
 msgid ""
@@ -48,6 +62,19 @@ msgid ""
 "lot of different tools that can be used for categorical data analysis, and "
 "this chapter covers only a few of the more common ones."
 msgstr ""
+"Udtrykket \"kategoriske data\" i titlen på dette kapitel er blot et andet "
+"navn for \"nominel skaladata\" |nominal|. Det er ikke noget, som vi ikke "
+"allerede har diskuteret, det er bare, at i forbindelse med dataanalyse har "
+"folk en tendens til at bruge udtrykket \"kategoriske data\" frem for "
+"\"nominel skaladata\". Jeg ved ikke hvorfor. Under alle omstændigheder "
+"refererer **kategorisk dataanalyse** til en samling værktøjer, som du kan "
+"bruge, når dine data er på nominel skala |nominel|. Disse værktøjer kaldes "
+"ofte \"χ²-tests\" (udtales \"chi-kvadrat\", nogle gange \"chi-kvadrat\"). De "
+"bestemmer, om der er en statistisk signifikant forskel mellem forventede og "
+"observerede frekvenser, og om observationerne følger en χ²-"
+"frekvensfordeling. Der er dog en masse forskellige værktøjer, der kan bruges "
+"til kategorisk dataanalyse, og dette kapitel dækker kun nogle få af de mere "
+"almindelige."
 
 #: ../../Ch10/Ch10_ChiSquare.rst:47 ../../Ch10/Ch10_ChiSquare_1.rst:733
 #: ../../Ch10/Ch10_ChiSquare_2.rst:327
@@ -56,7 +83,7 @@ msgstr "nominal"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:4
 msgid "The χ² (chi-square) goodness-of-fit test"
-msgstr ""
+msgstr "χ² (chi-kvadrat) godhed-of-fit-testen"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:6
 msgid ""
@@ -72,10 +99,22 @@ msgid ""
 "the numbers that would be expected given the standard treatment option. "
 "Let’s think about this some more, with some psychology."
 msgstr ""
+"χ²-testen for god tilpasning er en af de ældste hypotesetests, der findes. "
+"Den blev opfundet af :ref:`Karl Pearson (1900) <Pearson_1900>`, med nogle "
+"rettelser senere foretaget af :ref:`Sir Ronald Fisher (1922a) <Fisher_1922a>`"
+". Den tester, om en observeret frekvensfordeling af en nominel variabel "
+"|nominal| stemmer overens med en forventet frekvensfordeling. Antag f.eks. "
+"at en gruppe patienter har gennemgået en eksperimentel behandling og har "
+"fået vurderet deres helbred for at se, om deres tilstand er blevet bedre, "
+"uændret eller forværret. En goodness-of-fit-test kan bruges til at afgøre, "
+"om tallene i hver kategori - forbedret, uændret, forværret - svarer til de "
+"tal, der ville være forventet i betragtning af "
+"standardbehandlingsmuligheden. Lad os tænke lidt mere over dette, med lidt "
+"psykologi."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:19
 msgid "The cards data"
-msgstr ""
+msgstr "Kortenes data"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:21
 msgid ""
@@ -99,6 +138,25 @@ msgid ""
 "variables ``choice_1`` and ``choice_2`` that indicate the card suits that "
 "people chose."
 msgstr ""
+"Gennem årene har der været mange undersøgelser, der viser, at mennesker har "
+"svært ved at simulere tilfældighed. Prøv som vi kunne at \"handle\" "
+"tilfældigt, vi *tænker* i form af mønstre og struktur, og så når de bliver "
+"bedt om at \"gøre noget tilfældigt\", er det, folk rent faktisk gør, alt "
+"andet end tilfældigt. Som en konsekvens heraf åbner studiet af menneskelig "
+"tilfældighed (eller ikke-tilfældighed, alt efter tilfældet) en masse dybe "
+"psykologiske spørgsmål om, hvordan vi tænker om verden. Med dette i "
+"tankerne, lad os overveje en meget enkel undersøgelse. Antag, at jeg bad "
+"folk om at forestille sig et blandet sæt kort, og mentalt vælge ét kort fra "
+"denne imaginære bunke \"tilfældigt\". Efter at de har valgt et kort, beder "
+"jeg dem mentalt vælge et andet. For begge valg er det, vi skal se på, den "
+"farve (hjerter, kløver, spar eller ruder), som folk valgte. Efter at have "
+"bedt f.eks. *N* =200 personer om at gøre dette, vil jeg gerne se på dataene "
+"og finde ud af, om de kort, som folk foregav at vælge, virkelig var "
+"tilfældige. Dataene er indeholdt i datasættet |randomness|_, hvor du, når du "
+"åbner det i jamovi og tager et kig på regnearksvisningen, vil se tre "
+"variabler. Disse er: en ``id``-variabel, der tildeler en unik identifikator "
+"til hver deltager, og de to variabler ``choice_1`` og ``choice_2``, der "
+"angiver de kortfarve, som folk valgte."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:40
 msgid ""
@@ -107,6 +165,10 @@ msgid ""
 "to count the number of times that we observed people choosing each suit. "
 "This is what we get:"
 msgstr ""
+"Lad os for øjeblikket bare fokusere på det første valg, som folk traf. Vi "
+"bruger muligheden ``Frekvenstabeller`` under ``Udforskning`` → "
+"``Descriptives`` til at tælle antallet af gange, vi observerede, at folk "
+"valgte hver farve. Dette er hvad vi får:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:50
 msgid ""
@@ -117,6 +179,12 @@ msgid ""
 "some kind of statistical analysis to find out, which is what I’m going to "
 "talk about in the next section."
 msgstr ""
+"Den lille frekvenstabel er ret nyttig. Når man ser på det, er der lidt af et "
+"hint om, at folk *måske* er mere tilbøjelige til at vælge hjerter end "
+"køller, men det er ikke helt indlysende bare ved at se på det, om det "
+"virkelig er sandt, eller om det bare skyldes tilfældigheder. Så vi bliver "
+"nok nødt til at lave en form for statistisk analyse for at finde ud af det, "
+"hvilket er det, jeg vil tale om i næste afsnit."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:57
 msgid ""
@@ -129,26 +197,34 @@ msgid ""
 "written as *O*\\ :sub:`2` in maths. The relationship between the English "
 "descriptions and the mathematical symbols are illustrated below:"
 msgstr ""
+"Fremragende. Fra nu af vil vi behandle denne tabel som de data, vi ønsker at "
+"analysere. Men da jeg bliver nødt til at tale om disse data i matematiske "
+"termer (undskyld!), er det måske en god idé at gøre sig klart, hvad "
+"notationen er. I matematisk notation forkorter vi det menneskeligt læsbare "
+"ord \"observeret\" til bogstavet *O*, og vi bruger subscripts til at angive "
+"observationens position. Så den anden observation i vores tabel skrives som "
+"*O*\\ :sub:`2` i matematik. Sammenhængen mellem de engelske beskrivelser og "
+"de matematiske symboler er illustreret nedenfor:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "label"
-msgstr ""
+msgstr "etiket"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "index, *i*"
-msgstr ""
+msgstr "indeks, *i*"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "math. symbol"
-msgstr ""
+msgstr "matematisk symbol"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "the value"
-msgstr ""
+msgstr "værdien"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:69
 msgid "clubs (♣)"
-msgstr ""
+msgstr "klør (♣)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:69 ../../Ch10/Ch10_ChiSquare_1.rst:185
 #: ../../Ch10/Ch10_ChiSquare_1.rst:409
@@ -165,7 +241,7 @@ msgstr "35"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:71
 msgid "diamonds (♢)"
-msgstr ""
+msgstr "diamanter (♢)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:71 ../../Ch10/Ch10_ChiSquare_1.rst:411
 msgid "2"
@@ -181,7 +257,7 @@ msgstr "51"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:73
 msgid "hearts (♡)"
-msgstr "hearts (♡)"
+msgstr "hjerter (♡)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:73 ../../Ch10/Ch10_ChiSquare_1.rst:413
 msgid "3"
@@ -222,6 +298,13 @@ msgid ""
 "statisticians group all observed values into a vector,\\ [#]_ which I’ll "
 "refer to as *O*."
 msgstr ""
+"Forhåbentlig er det ret klart. Det er også værd at bemærke, at matematikere "
+"foretrækker at tale om generelle snarere end specifikke ting, så du vil også "
+"se notationen *O*\\ :sub:'i'\\, som henviser til antallet af observationer, "
+"der falder inden for *i*-th kategorien (hvor *i* kunne være 1, 2, 3 eller 4)"
+". Endelig, hvis vi vil henvise til sættet af alle observerede frekvenser, "
+"grupperer statistikere alle observerede værdier i en vektor, \\ [#]_, som "
+"jeg vil henvise til som * O *."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:85
 msgid ""
@@ -236,10 +319,14 @@ msgid ""
 "frequencies (i.e., ``observed``), but I’m referring to it using mathematical "
 "notation."
 msgstr ""
+"Igen, det er ikke noget nyt eller interessant. Det er bare notation. Hvis "
+"jeg siger, at *O* = (35, 51, 64, 50), beskriver jeg blot tabellen over de "
+"observerede frekvenser (dvs. ``observed``), men jeg henviser til den ved "
+"hjælp af matematisk notation."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:93
 msgid "The null hypothesis and the alternative hypothesis"
-msgstr ""
+msgstr "Nulhypotesen og den alternative hypotese"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:95
 msgid ""
@@ -251,10 +338,17 @@ msgid ""
 "to begin by carefully constructing our null hypothesis. In this case, it’s "
 "pretty easy. First, let’s state the null hypothesis in words:"
 msgstr ""
+"Som det fremgår af sidste afsnit, er vores forskningshypotese, at \"folk "
+"ikke vælger kort tilfældigt\". Det, vi nu vil gøre, er at omsætte dette til "
+"nogle statistiske hypoteser og derefter konstruere en statistisk test af "
+"disse hypoteser. Den test, som jeg vil beskrive for Dem, er **Pearsons χ²-"
+"test (chi-square-test) for god tilpasning**, og som det ofte er tilfældet, "
+"skal vi begynde med at opstille vores nulhypotese omhyggeligt. I dette "
+"tilfælde er det ret nemt. Lad os først formulere nulhypotesen i ord:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:103 ../../Ch10/Ch10_ChiSquare_1.rst:136
 msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
-msgstr ""
+msgstr "H\\ :sub:`0`: Alle fire muligheder er valgt med lige stor sandsynlighed"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:105
 msgid ""
@@ -271,6 +365,18 @@ msgid ""
 "*P*\\ :sub:`3`\\, *P*\\ :sub:`4`\\) refer to the collection of probabilities "
 "that describe our null hypothesis, then we have:"
 msgstr ""
+"Da vi taler om statistik, skal vi kunne sige det samme på en matematisk "
+"måde. For at gøre dette bruger vi betegnelsen *P* \\ :sub:`j`\\ til at "
+"referere til den sande sandsynlighed for, at den *j*-te farve vælges. Hvis "
+"nulhypotesen er sand, har hver af de fire farver en chance på 25 % for at "
+"blive valgt. Med andre ord hævder vores nulhypotese, at *P*\\ :sub:`1` = "
+"0,25, *P*\\ :sub:`2` = 0,25, *P*\\ :sub:`3` = 0,25 og endelig at *P*\\ "
+":sub:`4` = 0,25. Men på samme måde som vi kan gruppere vores observerede "
+"frekvenser i en vektor *O*, der opsummerer hele datasættet, kan vi bruge *P* "
+"til at henvise til de sandsynligheder, der svarer til vores nulhypotese. Så "
+"hvis jeg lader vektoren P = (*P*\\ :sub:`1`\\, *P*\\ :sub:`2`\\, *P*\\ "
+":sub:`3`\\, *P*\\ :sub:`4`\\) henvise til den samling af sandsynligheder, "
+"der beskriver vores nulhypotese, så har vi:"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:118 ../../Ch10/Ch10_ChiSquare_1.rst:141
 msgid "H\\ :sub:`0`: *P* = (0.25, 0.25, 0.25, 0.25)"
@@ -289,6 +395,16 @@ msgid ""
 "common use of the goodness-of-fit test is to test a null hypothesis that all "
 "of the categories are equally likely, so we’ll stick to that for our example."
 msgstr ""
+"I dette særlige tilfælde svarer vores nulhypotese til en vektor af "
+"sandsynligheder *P*, hvor alle sandsynlighederne er lige store. Men dette "
+"behøver ikke at være tilfældet. Hvis forsøgsopgaven f.eks. gik ud på, at "
+"folk skulle forestille sig, at de trak fra et spil, der havde dobbelt så "
+"mange klør som alle andre farver, ville nulhypotesen svare til noget i "
+"retning af *P* = (0,4, 0,2, 0,2, 0,2, 0,2). Så længe sandsynlighederne alle "
+"er positive tal, og de alle summerer til 1, er det et helt legitimt valg for "
+"nulhypotesen. Den mest almindelige anvendelse af goodness-of-fit-testen er "
+"imidlertid at teste en nulhypotese om, at alle kategorierne er lige "
+"sandsynlige, så vi holder os til det i vores eksempel."
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:131
 msgid ""
