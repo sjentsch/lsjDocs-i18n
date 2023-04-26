@@ -1,16 +1,19 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-04-26 16:52+0000\n"
+"Last-Translator: 轟焦凍✨ <rorohasen404@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/lsjdocs/start/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.18-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../index.rst:26
@@ -19,23 +22,23 @@ msgstr "الخلفية"
 
 #: ../../index.rst:35
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "مقدمة لجاموفي‌"
 
 #: ../../index.rst:46
 msgid "Statistical theory"
-msgstr ""
+msgstr "النظرية الإحصائية"
 
 #: ../../index.rst:57
 msgid "Statistical tools"
-msgstr ""
+msgstr "أدوات إحصائية"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "نهايات ، بدائل ، احتمالات"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "احصائيات التعلم مع جاموفي"
 
 #: ../../index.rst:7
 msgid ""
@@ -44,6 +47,9 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"مرحبًا بك في إحصائيات التعلم مع `` jamovi <https://www.jamovi.org> `__ ، وهو "
+"برنامج تعليمي يهدف إلى مساعدة طلاب علم النفس والمبتدئين الآخرين في الخطوات "
+"الأولى نحو jamovi. jamovi و حر"
 
 #: ../../index.rst:12
 msgid ""
@@ -56,3 +62,9 @@ msgid ""
 "`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
 ">`__."
 msgstr ""
+"قبل أن نبدأ ، هناك ملاحظة موجزة حول كيفية استخدام صفحة الويب هذه. المحتوى "
+"متوفر بلغات مختلفة. لتغيير اللغة ، يرجى التوجه إلى قائمة \"إحصائيات التعلم "
+"مع jamovi\" (في الزاوية اليسرى السفلية) والنقر عليها. تتكشف قائمة أكبر حيث "
+"يمكنك تحديد اللغة التي ترغب في قراءة الوثائق بها. حتى الآن ، لم تتم ترجمة "
+"سوى عدد قليل من اللغات بالكامل ، ولكن نرحب بك جدًا للمساهمة في `الترجمة إلى "
+"لغتك <https: // host .weblate.org / projects / lsjdocs />"
