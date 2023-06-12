@@ -1670,7 +1670,7 @@ msgstr "*O*\\ :sub:`21`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:87 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*O*\\ :sub:`22`"
-msgstr "*O*\\ :sub:`21`"
+msgstr "*O*\\ :sub:`22`"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:87 ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "*R*\\ :sub:`2`"
