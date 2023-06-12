@@ -1,17 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2023-06-12 16:34+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
@@ -2114,11 +2115,11 @@ msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`J`"
-msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
+msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`A` = µ\\ :sub:`J`"
-msgstr "ist µ\\ :sub:`P` = µ\\ :sub:`A`"
+msgstr "ist µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "which hypothesis?"
