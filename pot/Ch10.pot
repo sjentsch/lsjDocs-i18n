@@ -913,7 +913,7 @@ msgstr "2.204"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:419
 msgid "3.828"
-msgstr "2.204"
+msgstr "3.828"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:419
 msgid "5.348"
