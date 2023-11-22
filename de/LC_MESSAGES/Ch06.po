@@ -1,19 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2023-11-22 16:30+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch06/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.2.1-rc\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../Ch06/Ch06_DataHandling.rst:4
@@ -1765,7 +1764,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:121
 msgid "We’ll leave the box-cox function until :ref:`later on <box-cox>`."
-msgstr "Wir verschieben die Box-Cox-Funktion auf :ref:`später auf <box-cox>`."
+msgstr "Wir verschieben die Box-Cox-Funktion auf :ref:`später <box-cox>`."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:4
 msgid "Extracting a subset of the data"
