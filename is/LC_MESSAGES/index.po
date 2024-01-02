@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
 "PO-Revision-Date: 2024-01-02 13:08+0000\n"
-"Last-Translator: sirbingos <ottarbirgisson@gmail.com>\n"
+"Last-Translator: kristjanketill <kristjanketill@gmail.com>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/lsjdocs/start/"
 "is/>\n"
 "Language: is\n"
@@ -21,19 +21,19 @@ msgstr ""
 
 #: ../../index.rst:26
 msgid "Background"
-msgstr ""
+msgstr "Bakgrunnur"
 
 #: ../../index.rst:35
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "Kynning á Jamovi"
 
 #: ../../index.rst:46
 msgid "Statistical theory"
-msgstr ""
+msgstr "Tölfræðikenningar"
 
 #: ../../index.rst:57
 msgid "Statistical tools"
-msgstr ""
+msgstr "Verkfæri tölfræðinnar"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
