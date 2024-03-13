@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: 2023-07-27 11:04+0000\n"
-"Last-Translator: Ali Osman Kayhan <lsmnkayhan@gmail.com>\n"
+"PO-Revision-Date: 2024-03-13 09:01+0000\n"
+"Last-Translator: Semih <semihbrn10@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/lsjdocs/start/tr/"
 ">\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../index.rst:26
@@ -33,7 +33,7 @@ msgstr "İstatistiksel araçlar"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "Sonlar, alternatifler, beklentiler"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
@@ -46,6 +46,11 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"Psikoloji öğrencilerine ve diğer yeni başlayanlara jamovi'ye ilk adımlarda "
+"yardımcı olmayı amaçlayan bir eğitim olan `jamovi <https://www.jamovi.org>`"
+"__ ile Öğrenme istatistiklerine hoş geldiniz. jamovi, araştırmacı ile "
+"istatistikçi arasındaki boşluğu dolduran ücretsiz ve açık bir istatistik "
+"yazılımıdır."
 
 #: ../../index.rst:12
 msgid ""
