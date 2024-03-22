@@ -1,10 +1,9 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: 2024-03-22 12:01+0000\n"
+"PO-Revision-Date: 2024-08-13 16:59+0000\n"
 "Last-Translator: \"Mr.k\" <mineshtine28546271@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/lsjdocs/rollout/"
 "ar/>\n"
@@ -14,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../_templates/versions.html:11
