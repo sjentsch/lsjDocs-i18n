@@ -1,41 +1,44 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-06-26 10:09+0000\n"
+"Last-Translator: dex girl <saraciric73@gmail.com>\n"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/lsjdocs/start/"
+"hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6-rc\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../index.rst:26
 msgid "Background"
-msgstr ""
+msgstr "pozadina"
 
 #: ../../index.rst:35
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "upoznavanje jaoma"
 
 #: ../../index.rst:46
 msgid "Statistical theory"
-msgstr ""
+msgstr "statička teorija"
 
 #: ../../index.rst:57
 msgid "Statistical tools"
-msgstr ""
+msgstr "statički alat"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "završetci, alternative, prospekti"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "Kao često ime, ne treba se prevoditi"
 
 #: ../../index.rst:7
 msgid ""
@@ -44,6 +47,10 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"Dobrošli u učenje statistika sa jamovi <https://www.jamovi.org> što je "
+"tutorijal koji pomaže studentima psihologije i drugim početnicima sa prvim "
+"koracima u jamovi, jamovi je besplatan i otvoren statički softver mosta "
+"između pretraživača i statika."
 
 #: ../../index.rst:12
 msgid ""
@@ -56,3 +63,9 @@ msgid ""
 "`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
 ">`__."
 msgstr ""
+"Pre nego što počnemo, mali podsednik kako korstiti ovu stranicu. Ovaj "
+"sadržaj je dostupan u različitim jezicima. Da promenite jezik, molim vas "
+"idite do \"učenje statistika sa jamovi\" skrolujte meni 8u donjem levom uglu)"
+" i kliknite na njega. Veći meni dolazi gde možete izabrati jezik na kome "
+"želite da čitate dokumenta. Samo par jezika je prevedeno kompletno, ali ste "
+"dobrodošli da prevedete na vaš jezik."
