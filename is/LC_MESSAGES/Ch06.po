@@ -1,10 +1,42 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-03 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 16:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 16:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
@@ -53,23 +85,23 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:45
 msgid ":doc:`Ch06_DataHandling_1`"
-msgstr ""
+msgstr ":doc:`Ch06_DataHandling_1`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:47
 msgid ":doc:`Ch06_DataHandling_2`"
-msgstr ""
+msgstr ":doc:`Ch06_DataHandling_2`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:49
 msgid ":doc:`Ch06_DataHandling_3`"
-msgstr ""
+msgstr ":doc:`Ch06_DataHandling_3`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:51
 msgid ":doc:`Ch06_DataHandling_4`"
-msgstr ""
+msgstr ":doc:`Ch06_DataHandling_4`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:53
 msgid ":doc:`Ch06_DataHandling_5`"
-msgstr ""
+msgstr ":doc:`Ch06_DataHandling_5`"
 
 #: ../../Ch06/Ch06_DataHandling.rst:55
 msgid ""
@@ -460,11 +492,11 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "``NOT``"
-msgstr ""
+msgstr "``NOT``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "``NOT(1==1)``"
-msgstr ""
+msgstr "``NOT(1==1)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "or"
@@ -472,11 +504,11 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``or``"
-msgstr ""
+msgstr "``or``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``(1==1) or (2==3)``"
-msgstr ""
+msgstr "``(1==1) or (2==3)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "and"
@@ -484,11 +516,11 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``and``"
-msgstr ""
+msgstr "``and``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``(1==1) and (2==3)``"
-msgstr ""
+msgstr "``(1==1) and (2==3)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:146
 msgid ""
@@ -652,7 +684,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:298
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:16
 msgid "Creating a transformed variable"
@@ -995,15 +1027,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "``SQRT(x)``"
-msgstr ""
+msgstr "``SQRT(x)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "``SQRT(25)``"
-msgstr ""
+msgstr "``SQRT(25)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "Absolute value"
@@ -1011,15 +1043,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "``ABS(x)``"
-msgstr ""
+msgstr "``ABS(x)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "``ABS(-23)``"
-msgstr ""
+msgstr "``ABS(-23)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "Logarithm (base 10)"
@@ -1027,15 +1059,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "``LOG10(x)``"
-msgstr ""
+msgstr "``LOG10(x)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "``LOG10(1000)``"
-msgstr ""
+msgstr "``LOG10(1000)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "Logarithm (base *e*)"
@@ -1043,15 +1075,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "``LN(x)``"
-msgstr ""
+msgstr "``LN(x)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "``LN(1000)``"
-msgstr ""
+msgstr "``LN(1000)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "6.908"
-msgstr ""
+msgstr "6.908"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "Exponentiation"
@@ -1059,15 +1091,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "``EXP(x)``"
-msgstr ""
+msgstr "``EXP(x)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "``EXP(6.908)``"
-msgstr ""
+msgstr "``EXP(6.908)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "1000.245"
-msgstr ""
+msgstr "1000.245"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "Box-Cox"
@@ -1075,15 +1107,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "``BOXCOX(x, lamda)``"
-msgstr ""
+msgstr "``BOXCOX(x, lamda)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "``BOXCOX(6.908, 3)``"
-msgstr ""
+msgstr "``BOXCOX(6.908, 3)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "109.551"
-msgstr ""
+msgstr "109.551"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "Rounding to nearest"
@@ -1091,15 +1123,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "``ROUND()``"
-msgstr ""
+msgstr "``ROUND()``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "``ROUND(1.32)``"
-msgstr ""
+msgstr "``ROUND(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37 ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "Rounding down"
@@ -1107,11 +1139,11 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "``FLOOR()``"
-msgstr ""
+msgstr "``FLOOR()``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "``FLOOR(1.32)``"
-msgstr ""
+msgstr "``FLOOR(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "Rounding up"
@@ -1119,15 +1151,15 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "``CEILING()``"
-msgstr ""
+msgstr "``CEILING()``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "``CEILING(1.32)``"
-msgstr ""
+msgstr "``CEILING(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:47
 msgid "Logarithms and exponentials"
@@ -1165,7 +1197,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:75
 msgid "10³ = 1000"
-msgstr ""
+msgstr "10³ = 1000"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:77
 msgid ""
@@ -1177,7 +1209,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:82
 msgid "log\\ :sub:`10`\\(1000) = 3"
-msgstr ""
+msgstr "log\\ :sub:`10`\\(1000) = 3"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:84
 msgid ""
@@ -1202,7 +1234,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:102
 msgid "*e* = 2.718282"
-msgstr ""
+msgstr "*e* = 2.718282"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:104
 msgid ""

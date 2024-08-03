@@ -1,18 +1,25 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch04/de/"
-">\n"
-"Language: de\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-03 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
 msgid "Descriptive statistics"
@@ -194,7 +201,7 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_1.rst:33
 msgid ""
 "The first piece of notation to introduce is *N*, which we’ll use to refer to "
-"the number of observations that we’re averaging (in this case *N* = 5`). "
+"the number of observations that we’re averaging (in this case *N* = 5). "
 "Next, we need to attach a label to the observations themselves. It’s "
 "traditional to use *X* for this, and to use subscripts to indicate which "
 "observation we’re actually talking about. That is, we’ll use *X*\\ :sub:`1` "
@@ -1027,6 +1034,7 @@ msgid "Interquartile range"
 msgstr "Interquartilsabstand"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:39
+#, python-format
 msgid ""
 "The **interquartile range** (IQR) is like the range, but instead of the "
 "difference between the biggest and smallest value the difference between the "
@@ -1140,7 +1148,7 @@ msgid ""
 "19.4. Okay, that’s simple enough. The next step in the process is to convert "
 "these deviations to absolute deviations, and we do this by converting any "
 "negative values to positive ones. Mathematically, we would denote the "
-"absolute value of -3 as \\|-3\\|, and so we say that \\|-3\\| = 3`. We use "
+"absolute value of -3 as \\|-3\\|, and so we say that \\|-3\\| = 3. We use "
 "the absolute value here because we don’t really care whether the value is "
 "higher than the mean or lower than the mean, we’re just interested in how "
 "*close* it is to the mean. To help make this process as obvious as possible, "
@@ -1163,7 +1171,7 @@ msgstr ""
 "das ist einfach genug. Der nächste Schritt besteht darin, diese Abweichungen "
 "in absolute Abweichungen umzuwandeln, und zwar indem wir alle negativen "
 "Werte in positive umwandeln. Mathematisch gesehen würden wir den absoluten "
-"Wert von -3 als \\|-3\\| bezeichnen, und so sagen wir, dass \\|-3\\| = 3`. "
+"Wert von -3 als \\|-3\\| bezeichnen, und so sagen wir, dass \\|-3\\| = 3. "
 "Wir verwenden hier den absoluten Wert, weil es uns nicht wirklich "
 "interessiert, ob der Wert höher oder niedriger als der Mittelwert ist, "
 "sondern nur, wie *nah* er am Mittelwert liegt. Um diesen Vorgang so deutlich "
@@ -1703,8 +1711,8 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_2.rst:358
 msgid ""
 "For reasons that will make sense when we return to this topic in chapter :"
-"doc:`../Ch08/Ch08_Estimation` I’ll refer to this new quantity as :math:`\\hat"
-"\\sigma` (read as: “sigma hat”), and the formula for this is:"
+"doc:`../Ch08/Ch08_Estimation` I’ll refer to this new quantity as :math:"
+"`\\hat\\sigma` (read as: “sigma hat”), and the formula for this is:"
 msgstr ""
 "Aus Gründen, die sinnvoll sind, wenn wir in Kapitel :doc:`../Ch08/"
 "Ch08_Estimation` auf dieses Thema zurückkommen, werde ich diese neue Größe "
@@ -1722,6 +1730,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:364
+#, python-format
 msgid ""
 "Interpreting standard deviations is slightly more complex. Because the "
 "standard deviation is derived from the variance, and the variance is a "
@@ -1744,8 +1753,8 @@ msgstr ""
 "Größe ist, die für uns Menschen wenig bis gar keine Bedeutung hat, lässt "
 "sich die Standardabweichung nicht einfach interpretieren. Folglich verlassen "
 "sich die meisten von uns auf eine einfache Faustregel. Im Allgemeinen sollte "
-"man erwarten, dass 68 % der Daten innerhalb von 1 Standardabweichung, 95 % "
-"der Daten innerhalb von 2 Standardabweichungen und 99,7 % der Daten "
+"man erwarten, dass 68 % der Daten innerhalb von 1 Standardabweichung, 95 "
+"% der Daten innerhalb von 2 Standardabweichungen und 99,7 % der Daten "
 "innerhalb von 3 Standardabweichungen um den Mittelwert liegen. Diese Regel "
 "funktioniert in den meisten Fällen recht gut, ist aber nicht exakt. Sie wird "
 "auf der Grundlage der *Annahme* berechnet, dass das Histogramm symmetrisch "
@@ -1763,17 +1772,18 @@ msgstr ""
 "Standardabweichung für die ersten 5 Werte der Variablen ``afl.margins``"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:386
+#, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data. "
 "The shaded bars in the histogram show how much of the data fall within one "
 "standard deviation of the mean. In this case, 65.3\\% of the data set lies "
-"within this range, which is pretty consistent with the “approximately 68\\% "
-"rule” discussed in the main text."
+"within this range, which is pretty consistent with the “approximately 68\\"
+"% rule” discussed in the main text."
 msgstr ""
 "Illustration der Standardabweichung für die AFL-Gewinnspannen. Die "
 "schattierten Balken im Histogramm zeigen, wie viele der Daten innerhalb "
-"einer Standardabweichung vom Mittelwert liegen. In diesem Fall liegen 65,3 % "
-"des Datensatzes innerhalb dieses Bereichs, was ziemlich gut mit der im "
+"einer Standardabweichung vom Mittelwert liegen. In diesem Fall liegen 65,3 "
+"% des Datensatzes innerhalb dieses Bereichs, was ziemlich gut mit der im "
 "Haupttext besprochenen „ungefähr 68 %“-Regel übereinstimmt."
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:395
@@ -1988,8 +1998,8 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:46
 msgid ""
-"where *N* is the number of observations, *X̄* is the sample mean, and :math:`"
-"\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
+"where *N* is the number of observations, *X̄* is the sample mean, and :math:"
+"`\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
 "that is)."
 msgstr ""
 "wobei *N* die Anzahl der Beobachtungen, *X̄* der Stichprobenmittelwert und :"
@@ -2318,6 +2328,7 @@ msgid "Standard scores"
 msgstr "Standardwerte"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:6
+#, python-format
 msgid ""
 "Suppose my friend is putting together a new questionnaire intended to "
 "measure “grumpiness”. The survey has 50 questions which you can answer in a "
@@ -2355,6 +2366,7 @@ msgstr ""
 "handelt, ist dies keine sehr informative Aussage."
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:23
+#, python-format
 msgid ""
 "A simpler way around this is to describe my grumpiness by comparing me to "
 "other people. Shockingly, out of my friend’s sample of 1,000,000 people, "
@@ -2446,6 +2458,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:57
+#, python-format
 msgid ""
 "To interpret this value, recall the rough heuristic that I provided in "
 "section :ref:`Standard deviation <standard_deviation>` in which I noted that "
@@ -2627,11 +2640,11 @@ msgstr ""
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr "Epilog: Gute deskriptivstatistische Maße sind anschaulich!"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of one man is a tragedy.*"
 msgstr "*Der Tod eines Menschen ist eine Tragödie.*"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of millions is a statistic.*"
 msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 
@@ -2639,7 +2652,7 @@ msgstr "*Der Tod von Millionen von Menschen ist eine statistische Größe.*"
 msgid "Josef Stalin, Potsdam 1945"
 msgstr "Josef Stalin, Potsdam 1945"
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*950,000 – 1,200,000*"
 msgstr "*950.000 - 1.200.000*"
 

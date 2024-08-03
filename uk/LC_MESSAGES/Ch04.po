@@ -3,15 +3,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-03 23:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
 msgid "Descriptive statistics"
@@ -135,7 +143,7 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_1.rst:33
 msgid ""
 "The first piece of notation to introduce is *N*, which we’ll use to refer to "
-"the number of observations that we’re averaging (in this case *N* = 5`). "
+"the number of observations that we’re averaging (in this case *N* = 5). "
 "Next, we need to attach a label to the observations themselves. It’s "
 "traditional to use *X* for this, and to use subscripts to indicate which "
 "observation we’re actually talking about. That is, we’ll use *X*\\ :sub:`1` "
@@ -695,6 +703,7 @@ msgid "Interquartile range"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:39
+#, python-format
 msgid ""
 "The **interquartile range** (IQR) is like the range, but instead of the "
 "difference between the biggest and smallest value the difference between the "
@@ -771,7 +780,7 @@ msgid ""
 "19.4. Okay, that’s simple enough. The next step in the process is to convert "
 "these deviations to absolute deviations, and we do this by converting any "
 "negative values to positive ones. Mathematically, we would denote the "
-"absolute value of -3 as \\|-3\\|, and so we say that \\|-3\\| = 3`. We use "
+"absolute value of -3 as \\|-3\\|, and so we say that \\|-3\\| = 3. We use "
 "the absolute value here because we don’t really care whether the value is "
 "higher than the mean or lower than the mean, we’re just interested in how "
 "*close* it is to the mean. To help make this process as obvious as possible, "
@@ -1177,8 +1186,8 @@ msgstr ""
 #: ../../Ch04/Ch04_Descriptives_2.rst:358
 msgid ""
 "For reasons that will make sense when we return to this topic in chapter :"
-"doc:`../Ch08/Ch08_Estimation` I’ll refer to this new quantity as :math:`\\hat"
-"\\sigma` (read as: “sigma hat”), and the formula for this is:"
+"doc:`../Ch08/Ch08_Estimation` I’ll refer to this new quantity as :math:"
+"`\\hat\\sigma` (read as: “sigma hat”), and the formula for this is:"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:362
@@ -1192,6 +1201,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:364
+#, python-format
 msgid ""
 "Interpreting standard deviations is slightly more complex. Because the "
 "standard deviation is derived from the variance, and the variance is a "
@@ -1216,12 +1226,13 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:386
+#, python-format
 msgid ""
 "Illustration of the standard deviation from the AFL winning margins data. "
 "The shaded bars in the histogram show how much of the data fall within one "
 "standard deviation of the mean. In this case, 65.3\\% of the data set lies "
-"within this range, which is pretty consistent with the “approximately 68\\% "
-"rule” discussed in the main text."
+"within this range, which is pretty consistent with the “approximately 68\\"
+"% rule” discussed in the main text."
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_2.rst:395
@@ -1365,8 +1376,8 @@ msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_3.rst:46
 msgid ""
-"where *N* is the number of observations, *X̄* is the sample mean, and :math:`"
-"\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
+"where *N* is the number of observations, *X̄* is the sample mean, and :math:"
+"`\\hat{\\sigma}` is the standard deviation (the “divide by *N - 1*” version, "
 "that is)."
 msgstr ""
 
@@ -1594,6 +1605,7 @@ msgid "Standard scores"
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:6
+#, python-format
 msgid ""
 "Suppose my friend is putting together a new questionnaire intended to "
 "measure “grumpiness”. The survey has 50 questions which you can answer in a "
@@ -1613,6 +1625,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:23
+#, python-format
 msgid ""
 "A simpler way around this is to describe my grumpiness by comparing me to "
 "other people. Shockingly, out of my friend’s sample of 1,000,000 people, "
@@ -1677,6 +1690,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch04/Ch04_Descriptives_5.rst:57
+#, python-format
 msgid ""
 "To interpret this value, recall the rough heuristic that I provided in "
 "section :ref:`Standard deviation <standard_deviation>` in which I noted that "
@@ -1789,11 +1803,11 @@ msgstr ""
 msgid "Epilogue: Good descriptive statistics are descriptive!"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of one man is a tragedy.*"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*The death of millions is a statistic.*"
 msgstr ""
 
@@ -1801,7 +1815,7 @@ msgstr ""
 msgid "Josef Stalin, Potsdam 1945"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_6.rst:0
+#: ../../Ch04/Ch04_Descriptives_6.rst:0 ../../Ch04/Ch04_Descriptives_6.rst
 msgid "*950,000 – 1,200,000*"
 msgstr ""
 

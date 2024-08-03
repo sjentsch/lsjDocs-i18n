@@ -1,83 +1,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-03 23:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:54+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:51+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:49+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 15:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 14:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch03/Ch03_jamoviIntro.rst:4
 msgid "Getting started with jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0
+#: ../../Ch03/Ch03_jamoviIntro.rst:0 ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:19 ../../Ch03/Ch03_jamoviIntro.rst:23
+#: ../../Ch03/Ch03_jamoviIntro.rst:19
 msgid "Roger Zelazny (Dismal Light, 1968)"
 msgstr ""
 
@@ -315,7 +267,7 @@ msgid ""
 "sets."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:313 ../../Ch03/Ch03_jamoviIntro_3.rst:108
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:313
 msgid "ID"
 msgstr ""
 
@@ -331,7 +283,7 @@ msgid ""
 "values with the variable editor (more on this later)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:319 ../../Ch03/Ch03_jamoviIntro_3.rst:114
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:319
 msgid "nominal"
 msgstr "nominal"
 
@@ -342,7 +294,7 @@ msgid ""
 "“strongly agree” and -3 being “strongly disagree”."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:322 ../../Ch03/Ch03_jamoviIntro_3.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -353,7 +305,7 @@ msgid ""
 "to as “interval scale” or “ratio scale”."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:316 ../../Ch03/Ch03_jamoviIntro_3.rst:111
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:316
 msgid "continuous"
 msgstr "continuous"
 
@@ -417,7 +369,8 @@ msgid ""
 "If you want to change a variable’s measurement level then you can do this in "
 "the jamovi ``Data`` view. Click on the variable name in the top row of the "
 "data table and then select the desired measurement level under ``Measure "
-"Type`` – continuous |continuous|, ordinal |ordinal| or nominal |nominal|."
+"Type`` – ``continuous`` |continuous|, ``ordinal`` |ordinal| or ``nominal`` |"
+"nominal|."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:97
@@ -438,7 +391,7 @@ msgstr ""
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:107
 msgid ""
 "Computed variables can be added to the data set with the ``Add`` button "
-"available on the data tab. This will produce a formula box where you can "
+"available on the ``Data`` tab. This will produce a formula box where you can "
 "specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
@@ -780,6 +733,7 @@ msgid "Installing add-on modules into jamovi"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
+#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "
