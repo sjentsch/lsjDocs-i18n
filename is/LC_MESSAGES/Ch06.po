@@ -54,8 +54,8 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling.rst:20
 msgid ""
-"*The garden of life never seems to confine itself* *to the plots "
-"philosophers have laid out for its convenience.* *Maybe a few more tractors "
+"*The garden of life never seems to confine itself to the plots "
+"philosophers have laid out for its convenience. Maybe a few more tractors "
 "would do the trick.*"
 msgstr ""
 
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
-"Don’t worry about the “χ² Tests” table that is produced. We are going to "
+"Don’t worry about the ``χ² Tests`` table that is produced. We are going to "
 "cover this later on in chapter :doc:`../Ch10/Ch10_ChiSquare`. When "
 "interpreting the contingency table remember that these are counts, so the "
 "fact that the first row and second column of numbers corresponds to a value "
@@ -467,14 +467,14 @@ msgid ""
 "=`` which, as with all the others, does what it says it does. It returns a "
 "value of ``TRUE`` when things on either side are not identical to each "
 "other. Therefore, since ``2 + 2`` isn’t equal to *5* we would get ``TRUE`` "
-"as the value for our newly computed variable. Try it and see:"
+"as the value for our newly computed variable. Try it and see.:"
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:119
 msgid ""
 "We’re not quite done yet. There are three more logical operations that are "
 "worth knowing about, listed in :numref:`tab-logicals2`. These are the "
-"**not** operator ``!``, the ``and``-operator and, and the ``or``-operator "
+"**not** operator ``!``, the **and**-operator ``and``, **or**-operator "
 "``or``. Like the other logical operators, their behaviour is more or less "
 "exactly what you’d expect given their names. For instance, if I ask you to "
 "assess the claim that “either ``2 + 2 = 4`` *or* ``2 + 2 = 5``” you’d say "
@@ -967,9 +967,9 @@ msgstr ""
 #: ../../Ch06/Ch06_DataHandling_3.rst:275
 msgid ""
 "The reason we have to use the ``IF`` command and keep zero as zero is that "
-"you cannot just use likert.centred / opinion.strength to calculate the sign "
-"of likert.centred, because mathematically dividing zero by zero does not "
-"work. Try it and see"
+"you cannot just use ``likert.centred / opinion.strength`` to calculate the sign "
+"of ``likert.centred``, because mathematically dividing zero by zero does not "
+"work. Try it and see."
 msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:281
