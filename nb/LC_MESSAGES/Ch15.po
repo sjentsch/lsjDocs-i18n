@@ -1,21 +1,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"PO-Revision-Date: 2024-08-04 18:04+0200\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: \n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.15.0\n"
+"X-Generator: Poedit 3.5\n"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:4
 msgid "Factor Analysis"
-msgstr ""
+msgstr "Faktoranalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:17
 msgid ""
@@ -30,6 +31,16 @@ msgid ""
 "are not directly observed but are rather inferred (through statistical "
 "analysis) from other variables that are observed (directly measured)."
 msgstr ""
+"I de foregående kapitlene har vi tatt for oss statistiske tester for "
+"forskjeller mellom to eller flere grupper. Noen ganger kan det imidlertid "
+"være ønskelig å undersøke hvordan flere variabler *kovarierer*. Det vil si "
+"hvordan de er relatert til hverandre, og om mønstrene i relasjonen antyder "
+"noe interessant og meningsfylt. For eksempel er vi ofte interessert i å "
+"undersøke om det finnes noen underliggende uobserverte **latente faktorer** "
+"som er representert av de observerte, direkte målte variablene i datasettet "
+"vårt. I statistikk er latente faktorer i utgangspunktet skjulte variabler "
+"som ikke observeres direkte, men som utledes (gjennom statistisk analyse) "
+"fra andre variabler som observeres (måles direkte)."
 
 #: ../../Ch15/Ch15_FactorAnalysis.rst:29
 msgid ""
@@ -47,10 +58,23 @@ msgid ""
 "`Ch15_FactorAnalysis_4` which tests how consistently a scale measures a "
 "psychological construct."
 msgstr ""
+"I dette kapittelet skal vi se nærmere på en rekke ulike faktoranalyser og "
+"beslektede teknikker, og vi begynner med :doc:`Ch15_FactorAnalysis_1` (EFA). "
+"EFA er en statistisk teknikk for å identifisere underliggende latente "
+"faktorer i et datasett. I neste avsnitt tar vi for oss :doc:"
+"`Ch15_FactorAnalysis_2` (PCA), som er en datareduksjonsteknikk som strengt "
+"tatt ikke identifiserer underliggende latente faktorer. I stedet produserer "
+"PCA ganske enkelt en lineær kombinasjon av observerte variabler. Etter dette "
+"viser avsnittet :doc:`Ch15_FactorAnalysis_3` (CFA) at i motsetning til EFA, "
+"starter du med CFA med en idé - en modell - om hvordan variablene i dataene "
+"dine er relatert til hverandre. Deretter tester du modellen mot de "
+"observerte dataene og vurderer hvor godt modellen passer. Til slutt "
+"introduserer vi :doc:`Ch15_FactorAnalysis_4`, som tester hvor konsistent en "
+"skala måler et psykologisk konstrukt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:4
 msgid "Exploratory Factor Analysis"
-msgstr ""
+msgstr "Eksplorerende faktoranalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:6
 msgid ""
@@ -62,6 +86,13 @@ msgid ""
 "one observed variable but instead is manifested in the relationships it "
 "causes in a set of observed variables."
 msgstr ""
+"**Eksplorerende faktoranalyse (EFA)** er en statistisk teknikk for å avdekke "
+"eventuelle skjulte latente faktorer som kan utledes fra våre observerte "
+"data. Denne teknikken beregner i hvilken grad et sett med målte variabler, "
+"for eksempel V1, V2, V3, V4 og V5, kan representeres som mål på en "
+"underliggende latent faktor. Denne latente faktoren kan ikke måles gjennom "
+"bare én observert variabel, men kommer i stedet til uttrykk i de "
+"sammenhengene den forårsaker i et sett med observerte variabler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:15
 msgid ""
@@ -72,15 +103,24 @@ msgid ""
 "observed variable, *V*\\ :sub:`i`, that is unexplained by the underlying "
 "latent factor."
 msgstr ""
+"I :numref:`fig-efa1` er hver observerte variabel V til en viss grad "
+"«forårsaket» av den underliggende latente faktoren (F), representert ved "
+"koeffisientene b1 til b5 (også kalt faktorladninger). Hver observerte "
+"variabel har også et tilhørende feilledd, e1 til e5. Hvert feilledd er "
+"variansen i den tilhørende observerte variabelen, *V*\\ :sub:`i`, som ikke "
+"kan forklares av den underliggende latente faktoren."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:28
 msgid "Latent factor underlying the relationship between observed variables"
 msgstr ""
+"Latent faktor som ligger til grunn for forholdet mellom observerte variabler"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:28
 msgid ""
 "Latent factor underlying the relationship between several observed variables"
 msgstr ""
+"Latent faktor som ligger til grunn for forholdet mellom flere observerte "
+"variabler"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:32
 msgid ""
@@ -93,6 +133,14 @@ msgid ""
 "specific questions may give us a picture about an individual’s introversion, "
 "or their conscientiousness."
 msgstr ""
+"I psykologien representerer latente faktorer psykologiske fenomener eller "
+"konstruksjoner som er vanskelige å observere eller måle direkte. For "
+"eksempel personlighet, intelligens eller tankestil. I eksemplet i :numref:"
+"`fig-efa1` kan vi ha stilt folk fem spesifikke spørsmål om deres atferd "
+"eller holdninger, og ut fra dette kan vi danne oss et bilde av en "
+"personlighetskonstruksjon som for eksempel kalles ekstraversjon. Et annet "
+"sett med spesifikke spørsmål kan gi oss et bilde av en persons innadvendthet "
+"eller samvittighetsfullhet."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:42
 msgid ""
@@ -108,6 +156,16 @@ msgid ""
 "similar low responses to these variables because of their low statistics "
 "anxiety."
 msgstr ""
+"Her er et annet eksempel: Vi kan kanskje ikke måle statistikkangst direkte, "
+"men vi kan måle om statistikkangsten er høy eller lav ved hjelp av et sett "
+"med spørsmål i et spørreskjema. For eksempel kan «Q1: Å gjøre en oppgave i "
+"et statistikkurs», «Q2: Å prøve å forstå statistikken som er beskrevet i en "
+"tidsskriftsartikkel», og «Q3: Å be foreleseren om hjelp til å forstå noe fra "
+"kurset», etc., hver rangert fra lav angst til høy angst. Personer med høy "
+"statistikkangst vil ha en tendens til å gi tilsvarende høye svar på disse "
+"observerte variablene på grunn av sin høye statistikkangst. På samme måte "
+"vil personer med lav statistikkangst gi tilsvarende lave svar på disse "
+"variablene på grunn av sin lave statistikkangst."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:54
 msgid ""
@@ -127,10 +185,26 @@ msgid ""
 "something called Eigen values. We’ll come back to this in a moment, after we "
 "have covered some of the main assumptions of EFA."
 msgstr ""
+"I eksplorerende faktoranalyse (EFA) utforsker vi i hovedsak korrelasjonene "
+"mellom observerte variabler for å avdekke eventuelle interessante, viktige "
+"underliggende (latente) faktorer som identifiseres når observerte variabler "
+"samvarierer. Vi kan bruke statistisk programvare til å estimere eventuelle "
+"latente faktorer og identifisere hvilke av variablene våre som har en høy "
+"faktorladning\\ [#]_ (f.eks. ladning > 0,5) på hver faktor, noe som tyder på "
+"at de er et nyttig mål, eller en indikator, for den latente faktoren. En del "
+"av denne prosessen inkluderer et trinn som kalles rotasjon, som for å være "
+"ærlig er en ganske merkelig idé, men som vi heldigvis ikke trenger å bekymre "
+"oss for å forstå; vi trenger bare å vite at det er nyttig fordi det gjør "
+"mønsteret av ladninger på ulike faktorer mye tydeligere. Rotasjon hjelper "
+"oss med å se tydeligere hvilke variabler som er knyttet til hver faktor. Vi "
+"må også avgjøre hvor mange faktorer som er rimelig ut fra dataene våre, og i "
+"den forbindelse er det noe som kalles Eigen-verdier. Vi kommer tilbake til "
+"dette om et øyeblikk, etter at vi har gått gjennom noen av de viktigste "
+"forutsetningene for EFA."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:72
 msgid "Checking assumptions"
-msgstr ""
+msgstr "Kontroll av antakelser"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:74
 msgid ""
@@ -144,6 +218,15 @@ msgid ""
 "that the observed correlation matrix is significantly divergent from the "
 "null, and is therefore suitable for EFA."
 msgstr ""
+"Det er et par forutsetninger som må sjekkes som en del av analysen. Den "
+"første forutsetningen er **sfærisitet**, som i hovedsak sjekker at "
+"variablene i datasettet ditt er korrelert med hverandre i en slik grad at de "
+"potensielt kan oppsummeres med et mindre sett med faktorer. Bartletts test "
+"for sfæricitet sjekker om den observerte korrelasjonsmatrisen avviker "
+"signifikant fra en nullkorrelasjonsmatrise. Hvis Bartletts test er "
+"signifikant (p < 0,05), indikerer dette at den observerte "
+"korrelasjonsmatrisen avviker signifikant fra null, og at den derfor egner "
+"seg for EFA."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:85
 msgid ""
@@ -160,10 +243,23 @@ msgid ""
 "suitable. Values between 0.5 and 0.7 are considered adequate, values between "
 "0.7 and 0.9 are good and values between 0.9 and 1.0 are excellent."
 msgstr ""
+"Den andre forutsetningen er **samplingstilstrekkelighet** (*sampling "
+"adequacy*) og kontrolleres ved hjelp av Kaiser-Meyer-Olkin (KMO) Measure of "
+"Sampling Adequacy (MSA). KMO-indeksen er et mål på hvor stor andel av "
+"variansen blant de observerte variablene som kan være felles varians. Ved "
+"hjelp av partielle korrelasjoner sjekker den om det finnes faktorer som bare "
+"lader to elementer. Vi ønsker sjelden, om noen gang, at EFA skal produsere "
+"mange faktorer som bare lader to elementer hver. KMO handler om "
+"utvalgstilstrekkelighet, fordi partielle korrelasjoner vanligvis oppstår når "
+"utvalget er utilstrekkelig. Hvis KMO-indeksen er høy (≈ 1), er EFA effektiv, "
+"mens hvis KMO er lav (≈ 0), er EFA ikke relevant. KMO-verdier under 0,5 "
+"indikerer at EFA ikke er egnet, og en KMO-verdi på 0,6 bør være til stede "
+"før EFA anses som egnet. Verdier mellom 0,5 og 0,7 anses som adekvate, "
+"verdier mellom 0,7 og 0,9 er gode, og verdier mellom 0,9 og 1,0 er utmerkede."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:101
 msgid "What is EFA good for?"
-msgstr ""
+msgstr "Hva er EFA bra for?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:103
 msgid ""
@@ -175,6 +271,14 @@ msgid ""
 "then they will assess whether some items should be removed because they "
 "don’t usefully or distinctly measure one of the latent factors."
 msgstr ""
+"Hvis EFA har gitt en god løsning (dvs. en faktormodell), må vi bestemme oss "
+"for hva vi skal gjøre med de skinnende nye faktorene våre. Forskere bruker "
+"ofte EFA i forbindelse med utvikling av psykometriske skalaer. De utvikler "
+"et utvalg av spørreskjemaelementer som de tror er relatert til ett eller "
+"flere psykologiske konstrukter, bruker EFA for å se hvilke elementer som "
+"«passer sammen» som latente faktorer, og deretter vurderer de om noen "
+"elementer bør fjernes fordi de ikke måler en av de latente faktorene på en "
+"nyttig eller tydelig måte."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:112
 msgid ""
@@ -183,18 +287,26 @@ msgid ""
 "known as a scale score. There are two options for combining variables into a "
 "scale score:"
 msgstr ""
+"I tråd med denne tilnærmingen er en annen konsekvens av EFA å kombinere "
+"variablene som lader på forskjellige faktorer, til en faktorskår, også kjent "
+"som en skalaskår. Det finnes to alternativer for å kombinere variabler til "
+"en skalapoengsum:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:117
 msgid ""
 "Create a new variable with a score weighted by the factor loadings for each "
 "item that contributes to the factor."
 msgstr ""
+"Opprett en ny variabel med en poengsum vektet med faktorladningene for hvert "
+"element som bidrar til faktoren."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:120
 msgid ""
 "Create a new variable based on each item that contributes to the factor, but "
 "weighting them equally."
 msgstr ""
+"Opprett en ny variabel basert på hvert element som bidrar til faktoren, men "
+"vekt dem likt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:123
 msgid ""
@@ -212,6 +324,19 @@ msgid ""
 "combined variable measure as an average of items is simpler and more "
 "intuitive than using a sample specific optimally-weighted combination."
 msgstr ""
+"I det første alternativet avhenger hvert enkelt elements bidrag til den "
+"kombinerte skåren av hvor sterkt det er relatert til faktoren. I det andre "
+"alternativet tar vi vanligvis bare gjennomsnittet av alle elementene som "
+"bidrar vesentlig til en faktor, for å skape den kombinerte "
+"skalaskårvariabelen. Hva man velger, er et spørsmål om preferanser, men en "
+"ulempe med det første alternativet er at ladningene kan variere ganske mye "
+"fra utvalg til utvalg, og i atferds- og helsefag er vi ofte interessert i å "
+"utvikle og bruke sammensatte skalaskårer på tvers av ulike studier og ulike "
+"utvalg. I så fall er det rimelig å bruke et sammensatt mål som er basert på "
+"at de ulike spørsmålene bidrar likt, i stedet for å vekte med "
+"utvalgsspesifikke ladninger fra et annet utvalg. Uansett er det enklere og "
+"mer intuitivt å forstå et kombinert variabelmål som et gjennomsnitt av "
+"elementer enn å bruke en utvalgsspesifikk optimalt vektet kombinasjon."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:138
 msgid ""
@@ -222,10 +347,16 @@ msgid ""
 "packages dedicated to this approach. But let’s not get ahead of ourselves; "
 "what we should really focus on now is how to do an EFA in jamovi."
 msgstr ""
+"En mer avansert statistisk teknikk, som ligger utenfor denne bokens rammer, "
+"er regresjonsmodellering der latente faktorer brukes i prediksjonsmodeller "
+"for andre latente faktorer. Dette kalles «strukturell ligningsmodell», og "
+"det finnes egne programmer og R-pakker som er dedikert til denne "
+"tilnærmingen. Men la oss ikke gå for fort frem; det vi egentlig bør fokusere "
+"på nå, er hvordan man gjør en EFA i jamovi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid "EFA in jamovi"
-msgstr ""
+msgstr "EFA i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:151
 msgid ""
@@ -238,6 +369,15 @@ msgid ""
 "behaviour or attitudes. The items are organized by five putative factors: "
 "Agreeableness, Conscientiousness, Extraversion, Neuroticism, and Openness."
 msgstr ""
+"Først trenger vi noen data. Tjuefem selvrapporteringsspørsmål om "
+"personlighet (se :numref:`tab-bfi`) hentet fra International Personality "
+"Item Pool (https://ipip.ori.org) ble inkludert som en del av prosjektet "
+"Synthetic Aperture Personality Assessment (SAPA) web-based personality "
+"assessment (https://sapa-project.org). De 25 påstandene er korte setninger "
+"som man skal svare på ved å angi hvor nøyaktig påstanden beskriver ens "
+"typiske atferd eller holdninger. Spørsmålene er organisert etter fem antatte "
+"faktorer: Agreeableness, Conscientiousness, Extraversion, Neuroticism og "
+"Openness."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:161
 msgid ""
@@ -245,14 +385,17 @@ msgid ""
 "factors in the |bfi_sample|_ data set. If there is an R in the second "
 "column, the item is reversed."
 msgstr ""
+"Tjuefem observerte variabelelementer organisert etter fem antatte "
+"personlighetsfaktorer i datasettet |bfi_sample|_. Hvis det er en R i den "
+"andre kolonnen, er elementet reversert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Question / Item"
-msgstr ""
+msgstr "Spørsmål"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "A1"
@@ -270,7 +413,7 @@ msgstr "R"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Am indifferent to the feelings of others."
-msgstr ""
+msgstr "Er likegyldig til andres følelser."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A2"
@@ -278,7 +421,7 @@ msgstr "A2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "Inquire about others' well-being."
-msgstr ""
+msgstr "Spør om andres velvære."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "A3"
@@ -286,7 +429,7 @@ msgstr "A3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Know how to comfort others."
-msgstr ""
+msgstr "Vet hvordan du kan trøste andre."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A4"
@@ -294,7 +437,7 @@ msgstr "A4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "Love children."
-msgstr ""
+msgstr "Elsker barn."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "A5"
@@ -302,7 +445,7 @@ msgstr "A5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Make people feel at ease."
-msgstr ""
+msgstr "Få folk til å føle seg trygge."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C1"
@@ -310,7 +453,7 @@ msgstr "C1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Am exacting in my work."
-msgstr ""
+msgstr "Jeg er krevende i arbeidet mitt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C2"
@@ -318,7 +461,7 @@ msgstr "C2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Continue until everything is perfect."
-msgstr ""
+msgstr "Fortsett til alt er perfekt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C3"
@@ -326,7 +469,7 @@ msgstr "C3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things according to a plan."
-msgstr ""
+msgstr "Gjør ting i henhold til en plan."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C4"
@@ -334,7 +477,7 @@ msgstr "C4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Do things in a half-way manner."
-msgstr ""
+msgstr "Gjør ting på en halvveis måte."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "C5"
@@ -342,7 +485,7 @@ msgstr "C5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Waste my time."
-msgstr ""
+msgstr "Jeg kaster bort tiden min."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E1"
@@ -350,7 +493,7 @@ msgstr "E1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "Don't talk a lot."
-msgstr ""
+msgstr "Ikke snakk så mye."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "E2"
@@ -358,7 +501,7 @@ msgstr "E2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Find it difficult to approach others."
-msgstr ""
+msgstr "Synes det er vanskelig å ta kontakt med andre."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E3"
@@ -366,7 +509,7 @@ msgstr "E3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Know how to captivate people."
-msgstr ""
+msgstr "Vet hvordan du skal fange folk."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E4"
@@ -374,7 +517,7 @@ msgstr "E4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Make friends easily."
-msgstr ""
+msgstr "Det er lett å få venner."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "E5"
@@ -382,7 +525,7 @@ msgstr "E5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "Take charge."
-msgstr ""
+msgstr "Ta ansvar."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "N1"
@@ -390,7 +533,7 @@ msgstr "N1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get angry easily."
-msgstr ""
+msgstr "Har lett for å bli sint."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N2"
@@ -398,7 +541,7 @@ msgstr "N2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Get irritated easily."
-msgstr ""
+msgstr "Blir lett irritert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N3"
@@ -406,7 +549,7 @@ msgstr "N3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "Have frequent mood swings."
-msgstr ""
+msgstr "Har hyppige humørsvingninger."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "N4"
@@ -414,7 +557,7 @@ msgstr "N4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Often feel blue."
-msgstr ""
+msgstr "Føler meg ofte nedfor."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "N5"
@@ -422,7 +565,7 @@ msgstr "N5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "Panic easily."
-msgstr ""
+msgstr "Får lett panikk."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "O1"
@@ -430,7 +573,7 @@ msgstr "O1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:209
 msgid "Am full of ideas."
-msgstr ""
+msgstr "Jeg er full av ideer."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "O2"
@@ -438,7 +581,7 @@ msgstr "O2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:211
 msgid "Avoid difficult reading material."
-msgstr ""
+msgstr "Unngå vanskelig lesestoff."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "O3"
@@ -446,7 +589,7 @@ msgstr "O3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Carry the conversation to a higher level."
-msgstr ""
+msgstr "Løft samtalen opp på et høyere nivå."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O4"
@@ -454,7 +597,7 @@ msgstr "O4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Spend time reflecting on things."
-msgstr ""
+msgstr "Bruk tid på å reflektere over ting."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "O5"
@@ -462,35 +605,35 @@ msgstr "O5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "Will not probe deeply into a subject."
-msgstr ""
+msgstr "Vil ikke gå dypt inn i et emne."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:221
 msgid "The item data were collected using a 6-point response scale:"
-msgstr ""
+msgstr "Dataene ble samlet inn ved hjelp av en 6-punkts svarskala:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:223
 msgid "Very Inaccurate"
-msgstr ""
+msgstr "Svært unøyaktig"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:225
 msgid "Moderately Inaccurate"
-msgstr ""
+msgstr "Moderat unøyaktig"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:227
 msgid "Slightly Inaccurate"
-msgstr ""
+msgstr "Litt unøyaktig"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:229
 msgid "Slightly Accurate"
-msgstr ""
+msgstr "Litt nøyaktig"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:231
 msgid "Moderately Accurate"
-msgstr ""
+msgstr "Moderat nøyaktig"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:233
 msgid "Very Accurate."
-msgstr ""
+msgstr "Veldig nøyaktig."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:235
 msgid ""
@@ -499,6 +642,10 @@ msgid ""
 "``ID`` (the respondent ID, a five digit number) as well as the age (``age``) "
 "and the gender (``gender``) of the respondent."
 msgstr ""
+"Et utvalg på *N* = 250 svar finnes i datasettet |bfi_sample|_. I tillegg til "
+"svarene inneholder datasettet tre andre kolonner: ``ID`` (respondentens ID, "
+"et femsifret nummer) samt respondentens alder (``age``) og kjønn "
+"(``gender``)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:240
 msgid ""
@@ -511,6 +658,14 @@ msgid ""
 "which case continuous variables |continuous| are needed). To perform an EFA "
 "in jamovi:"
 msgstr ""
+"Som forskere er vi interessert i å utforske dataene for å se om det finnes "
+"noen underliggende latente faktorer som måles rimelig godt av de 25 "
+"observerte variablene i datasettet |bfi_sample|_. Åpne det og sjekk at de 25 "
+"variablene er kodet som kontinuerlige variabler |continuous| (teknisk sett "
+"er de ordinale |ordinal|, men for EFA i jamovi spiller det for det meste "
+"ingen rolle, bortsett fra hvis du bestemmer deg for å beregne vektede "
+"faktorskårer, og i så fall er kontinuerlige variabler |continuous| "
+"nødvendig). Slik utfører du en EFA i jamovi:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:606
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:316
@@ -529,12 +684,16 @@ msgid ""
 "tab to open the options panel where you can determine the settings for the "
 "EFA (:numref:`fig-efa2`)."
 msgstr ""
+"Velg ``Factor`` → ``Exploratory Factor Analysis`` under fanen ``Analyses`` "
+"for å åpne analysepanelet der du kan bestemme innstillingene for EFA (:"
+"numref:`fig-efa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:252
 msgid ""
 "Select the 25 personality questions and transfer them into the ``Variables`` "
 "box."
 msgstr ""
+"Velg de 25 personlighetsspørsmålene, og overfør dem til boksen ``Variables``."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:255
 msgid ""
@@ -545,16 +704,25 @@ msgid ""
 "``Method`` and ``Number of Factors`` extracted is typically adjusted by the "
 "researcher during the analysis to find the best result, as described below)."
 msgstr ""
+"Sjekk de aktuelle alternativene, inkludert ``Assumption Checks``, men også "
+"``Rotation`` under ``Method``, ``Number of Factors`` som skal trekkes ut, og "
+"``Additional Output`` (se :numref:`fig-efa2` for foreslåtte alternativer for "
+"denne illustrative EFA-en, og vær oppmerksom på at ``Rotation`` under "
+"``Method`` og ``Number of Factors`` som trekkes ut, vanligvis justeres av "
+"forskeren under analysen for å finne det beste resultatet, som beskrevet "
+"nedenfor)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
 msgid "jamovi EFA analysis window"
-msgstr ""
+msgstr "jamovi EFA-analysevindu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
 msgid ""
 "Options panel with the settings for conducting an Exploratory Factor "
 "Analysis (EFA) in jamovi"
 msgstr ""
+"Analysepanel med innstillingene for å gjennomføre en eksplorerende "
+"faktoranalyse (EFA) i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:274
 msgid ""
@@ -563,22 +731,31 @@ msgid ""
 "satisfied; and (2) the KMO measure of sampling adequacy (MSA) is 0.81 "
 "overall, suggesting good sampling adequacy. No problems here then!"
 msgstr ""
+"Først sjekker du forutsetningene (:numref:`fig-efa3`). Du kan se at (1) "
+"Bartletts sfæricitetstest er signifikant, så denne forutsetningen er "
+"oppfylt, og (2) KMO-målet for utvalgstilstrekkelighet (MSA) er 0,81 totalt "
+"sett, noe som tyder på god utvalgstilstrekkelighet. Ingen problemer her, "
+"altså!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:285
 msgid "jamovi EFA assumption checks for the personality questionnaire data"
-msgstr ""
+msgstr "jamovi EFA-forutsetningssjekker for personlighetsspørreskjemaet"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:289
 msgid ""
 "The next thing to check is how many factors to use (or “extract” from the "
 "data). Three different approaches are available:"
 msgstr ""
+"Det neste du må sjekke, er hvor mange faktorer du skal bruke (eller "
+"«ekstrahere» fra dataene). Tre ulike tilnærminger er tilgjengelige:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:292
 msgid ""
 "One convention is to choose all components with Eigen values greater than 1."
 "\\ [#]_ This would give us four factors with our data (try it and see)."
 msgstr ""
+"En konvensjon er å velge alle komponenter med Eigen-verdier større enn 1.\\ "
+"[#]_ Dette vil gi oss fire faktorer med våre data (prøv det og se)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:295
 msgid ""
@@ -589,6 +766,12 @@ msgid ""
 "efa4` there is a noticeable step from 5 to 6 factors, but in other scree "
 "plots you look at it will not be so clear cut."
 msgstr ""
+"Ved å undersøke scree-plottet, som i :numref:`fig-efa4`, kan du identifisere "
+"«bøyningspunktet». Dette er det punktet der stigningen på scree-kurven "
+"flater tydelig ut, under «albuen». Dette gir oss fem faktorer med våre data. "
+"Det er litt av en kunst å tolke scree-plott: I :numref:`fig-efa4` er det et "
+"merkbart steg fra 5 til 6 faktorer, men i andre scree-plott du ser på, vil "
+"det ikke være så tydelig."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:302
 msgid ""
@@ -597,16 +780,22 @@ msgid ""
 "extracted is the number with Eigen values greater than what would be found "
 "with random data."
 msgstr ""
+"Ved hjelp av en parallell analyseteknikk sammenlignes de oppnådde Eigen-"
+"verdiene med de som ville blitt oppnådd fra tilfeldige data. Antallet "
+"faktorer som trekkes ut, er antallet med Eigen-verdier som er større enn det "
+"som ville blitt funnet med tilfeldige data."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid "Scree plot of the personality data"
-msgstr ""
+msgstr "Scree-plott av personlighetsdataene"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid ""
 "Scree plot of the personality data in the EFA in jamovi, showing a "
 "noticeable inflection and levelling off after point 5 (the “elbow”)"
 msgstr ""
+"Scree plot av personlighetsdataene i EFA i jamovi, som viser en merkbar "
+"bøyning og utflating etter punkt 5 («albuen»)"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:318
 msgid ""
@@ -619,6 +808,13 @@ msgid ""
 "fewer factors. They then adopt the solution which makes the most sense to "
 "them."
 msgstr ""
+"Den tredje tilnærmingen er god ifølge :ref:`Fabrigar et al. (1999) "
+"<Fabrigar_1999>`, selv om forskere i praksis har en tendens til å se på alle "
+"tre og deretter gjøre en vurdering av hvor mange faktorer som er lettest "
+"eller mest nyttig å tolke. Dette kan forstås som «meningsfullhetskriteriet», "
+"og forskere vil typisk, i tillegg til løsningen fra en av tilnærmingene "
+"ovenfor, undersøke løsninger med en eller to faktorer til eller færre. "
+"Deretter velger de den løsningen som gir mest mening for dem."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:326
 msgid ""
@@ -630,6 +826,13 @@ msgid ""
 "scientists are not often dimensions we would expect to be orthogonal, so "
 "oblique solutions are arguably more sensible.\\ [#]_"
 msgstr ""
+"Samtidig bør vi også vurdere den beste måten å rotere den endelige løsningen "
+"på. Det finnes to hovedtilnærminger til rotasjon: ortogonal rotasjon (f.eks. "
+"``Varimax``) tvinger de utvalgte faktorene til å være ukorrelerte, mens skrå "
+"rotasjon (f.eks. ``Oblimin``) lar de utvalgte faktorene være korrelerte. "
+"Dimensjoner som er av interesse for psykologer og atferdsforskere, er ofte "
+"ikke dimensjoner som vi forventer er ortogonale, så det kan hevdes at skrå "
+"løsninger er mer fornuftige.\\ [#]_"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:334
 msgid ""
@@ -644,16 +847,27 @@ msgid ""
 "researcher can go ahead and conduct an orthogonal rotation (which should "
 "then give about the same solution as the oblique rotation)."
 msgstr ""
+"Hvis faktorene i en skrå rotasjon viser seg å være betydelig korrelerte "
+"(positive eller negative, og > 0,3), som i :numref:`fig-efa5`, der "
+"korrelasjonen mellom to av de ekstraherte faktorene er 0,31, vil dette "
+"bekrefte intuisjonen vår om å foretrekke skrå rotasjon. Hvis faktorene "
+"faktisk er korrelerte, vil en skrå rotasjon gi et bedre estimat av de sanne "
+"faktorene og en bedre enkel struktur enn en ortogonal rotasjon. Og hvis den "
+"skrå rotasjonen indikerer at faktorene har nær null korrelasjoner seg "
+"imellom, kan forskeren gå videre og gjennomføre en ortogonal rotasjon (som "
+"da bør gi omtrent samme løsning som den skrå rotasjonen)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid "Factor summary statistics and correlations"
-msgstr ""
+msgstr "Oppsummert faktorstatistikk og korrelasjoner"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid ""
 "Factor summary statistics and correlations for a five factor solution in the "
 "EFA conducted in jamovi"
 msgstr ""
+"Faktorsammendragsstatistikk og korrelasjoner for en femfaktorløsning i EFA "
+"utført i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:356
 msgid ""
@@ -667,6 +881,14 @@ msgid ""
 "better if the overall solution accounted for a more substantive proportion "
 "of the variance in our data."
 msgstr ""
+"Ved kontroll av korrelasjonen mellom de ekstraherte faktorene var minst én "
+"korrelasjon større enn 0,3 (:numref:`fig-efa5`), så en skrå (``Oblimin``) "
+"rotasjon av de fem ekstraherte faktorene er å foretrekke. Vi kan også se i :"
+"numref:`fig-efa5` at andelen av den totale variansen i dataene som forklares "
+"av de fem faktorene, er 46\\%. Faktor én står for rundt 10\\% av variansen, "
+"faktor to til fire for rundt 9\\% hver, og faktor fem for litt over 7\\%. "
+"Dette er ikke så bra, og det hadde vært bedre om den samlede løsningen hadde "
+"stått for en større andel av variansen i dataene våre."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:366
 msgid ""
@@ -679,6 +901,14 @@ msgid ""
 "if it takes 18 factors (for example) to explain most of the variance in "
 "those 25 variables, you might as well just use the original 25."
 msgstr ""
+"Vær oppmerksom på at du i hver EFA potensielt kan ha like mange faktorer som "
+"observerte variabler, men at hver ekstra faktor du inkluderer, vil tilføre "
+"en mindre mengde forklart varians. Hvis de første faktorene forklarer en god "
+"del av variansen i de opprinnelige 25 variablene, er disse faktorene helt "
+"klart en nyttig, enklere erstatning for de 25 variablene. Du kan droppe "
+"resten uten å miste for mye av den opprinnelige variabiliteten. Men hvis det "
+"for eksempel kreves 18 faktorer for å forklare mesteparten av variansen i de "
+"25 variablene, kan du like gjerne bare bruke de opprinnelige 25."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:375
 msgid ""
@@ -687,15 +917,19 @@ msgid ""
 "hidden loadings less than 0.3 (set in the options shown in :numref:`fig-"
 "efa2`)."
 msgstr ""
+":numref:`fig-efa6` viser faktorladningene. Det vil si hvordan de 25 ulike "
+"personlighetselementene lader på hver av de fem utvalgte faktorene. Vi har "
+"skjult ladninger som er mindre enn 0,3 (angitt i alternativene som vises i :"
+"numref:`fig-efa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid "Factor loadings for a five factor solution"
-msgstr ""
+msgstr "Faktorladninger for en femfaktorløsning"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid ""
 "Factor loadings for a five factor solution in the EFA conducted in jamovi"
-msgstr ""
+msgstr "Faktorladninger for en femfaktorløsning i EFA utført i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:389
 msgid ""
@@ -707,6 +941,13 @@ msgid ""
 "efa6` suggests that it loads onto factor 4 (albeit with a relatively low "
 "loading) but not substantively onto factor \\5."
 msgstr ""
+"For faktor 1, 2, 3 og 4 samsvarer mønsteret av faktorladninger i stor grad "
+"med de antatte faktorene som er spesifisert i :numref:`tab-bfi`. Jøss! Og "
+"faktor 5 er ganske nær, med fire av de fem observerte variablene som "
+"angivelig måler «åpenhet» (*openness*), som lader ganske godt på faktoren. "
+"Variabelen ``O4`` ser imidlertid ikke helt ut til å passe, ettersom "
+"faktorløsningen i :numref:`fig-efa6` antyder at den lader på faktor 4 (om "
+"enn med en relativt lav ladning), men ikke substansielt på faktor \\5."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:397
 msgid ""
@@ -720,6 +961,15 @@ msgid ""
 "``A``-variables, and this is why it has a negative factor loading, as shown "
 "in :numref:`fig-efa6`."
 msgstr ""
+"Den andre tingen å merke seg er at de variablene som ble betegnet som «R: "
+"reverse coding» i :numref:`tab-bfi`, er de som har negative faktorladninger. "
+"Ta en titt på spørsmålene ``A1`` («Er likegyldig til andres følelser») og "
+"``A2`` («Spør etter andres velbefinnende»). Vi ser at en høy skåre på ``A1`` "
+"indikerer lav omgjengelighet (*agreeableness*), mens en høy skåre på ``A2`` "
+"(og alle de andre ``A``-variablene for den saks skyld) indikerer høy "
+"Agreeableness. A1 vil derfor være negativt korrelert med de andre ``A``-"
+"variablene, og dette er grunnen til at den har en negativ faktorladning, som "
+"vist i :numref:`fig-efa6`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:407
 msgid ""
@@ -731,6 +981,13 @@ msgid ""
 "solution (35\\%). Note that the greater the ``Uniqueness``, the lower the "
 "relevance or contribution of the variable in the factor model."
 msgstr ""
+"I :numref:`fig-efa6` kan vi også se ``Uniqueness`` for hver variabel. "
+"Unikhet er andelen av variansen som er «unik» for variabelen og som ikke "
+"forklares av faktorene.\\ [#]_ For eksempel forklares 72\\% av variansen i "
+"``A1`` ikke av faktorene i femfaktorløsningen. I motsetning til dette har "
+"``N1`` relativt lav varians som ikke forklares av faktorløsningen (35\\%). "
+"Legg merke til at jo større ``Uniqueness`` er, desto lavere er variablens "
+"relevans eller bidrag i faktormodellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:415
 msgid ""
@@ -742,6 +999,12 @@ msgid ""
 "latent factors, but you don’t have such a strong sense of which variables "
 "are going to go where!"
 msgstr ""
+"For å være ærlig er det uvanlig å få en så ryddig løsning i EFA. Det er "
+"vanligvis litt mer rotete enn dette, og ofte er det mer utfordrende å tolke "
+"betydningen av faktorene. Det er ikke ofte man har et så klart avgrenset "
+"utvalg av elementer. Oftere vil du ha en hel haug med observerte variabler "
+"som du tror kan være indikatorer på noen underliggende latente faktorer, men "
+"du har ikke så god oversikt over hvilke variabler som hører hjemme hvor!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:423
 msgid ""
@@ -757,6 +1020,17 @@ msgid ""
 "factor score we have calculated is based on equally weighted scores from "
 "each of the included variables. We can do this in jamovi in two steps:"
 msgstr ""
+"Det ser altså ut til at vi har en ganske god femfaktorløsning, selv om den "
+"står for en relativt lav andel av den observerte variansen. La oss anta at "
+"vi er fornøyde med denne løsningen og ønsker å bruke faktorene våre i videre "
+"analyse. Det enkleste alternativet er å beregne en samlet (gjennomsnittlig) "
+"poengsum for hver faktor ved å legge sammen poengsummen for hver variabel "
+"som i vesentlig grad lader på faktoren, og deretter dividere med antall "
+"variabler. For hver person i datasettet vårt vil det for eksempel bety at vi "
+"for faktoren Agreeableness legger sammen ``A1 + A2 + A3 + A4 + A5``, og "
+"deretter dividerer med ``5``.\\ [#]_ Det betyr i praksis at faktorskåren vi "
+"har beregnet, er basert på like vektede skårer fra hver av de inkluderte "
+"variablene.Vi kan gjøre dette i jamovi i to trinn:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:435
 msgid ""
@@ -764,6 +1038,9 @@ msgid ""
 "e. 6 = 1; 5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) using the jamovi transform "
 "variable command (see :numref:`fig-efa7`)."
 msgstr ""
+"Omkod ``A1`` til ``A1R`` ved å reversere verdiene i variabelen (dvs. 6 = 1; "
+"5 = 2; 4 = 3; 3 = 4; 2 = 5; 1 = 6) ved hjelp av jamovi transform variable-"
+"kommandoen (se :numref:`fig-efa7`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:439
 msgid ""
@@ -771,18 +1048,23 @@ msgid ""
 "``A1R``, ``A2``, ``A3``, ``A4`` and ``A5``. Do this using the jamovi "
 "``Compute`` command to create a new variable (see :numref:`fig-efa8`)."
 msgstr ""
+"Beregn en ny variabel, kalt ``Agreeableness``, ved å beregne gjennomsnittet "
+"av ``A1R``, ``A2``, ``A3``, ``A4`` og ``A5``. Dette gjør du ved å bruke "
+"jamovi-kommandoen ``Compute`` for å opprette en ny variabel (se :numref:`fig-"
+"efa8`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:449
 msgid "Recode variable using the Transform command in jamovi"
-msgstr ""
+msgstr "Omkoding av variabel ved hjelp av Transform-kommandoen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable in jamovi"
-msgstr ""
+msgstr "Beregne ny skalapoengvariabel i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable using a Computed variable in jamovi"
 msgstr ""
+"Beregn en ny skalapoengvariabel ved hjelp av en beregnet variabel i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:461
 msgid ""
@@ -790,6 +1072,9 @@ msgid ""
 "use the jamovi |Rj|_ editor to do this in ``R``.\\ [#]_ Again, there are two "
 "steps:"
 msgstr ""
+"Et annet alternativ er å lage en optimalt vektet faktorpoengindeks. Vi kan "
+"bruke jamovi |Rj|_-editoren til å gjøre dette i ``R``.\\ [#]_ Igjen er det "
+"to trinn:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:465
 msgid ""
@@ -798,6 +1083,10 @@ msgid ""
 "optimally weighted factor scores. Save the new dataset, with the factor "
 "scores, to a file (see :numref:`fig-efa9`)."
 msgstr ""
+"Bruk |Rj|_-editoren til å kjøre EFA i ``R`` med samme spesifikasjon som i "
+"jamovi (dvs. fem faktorer og Oblimin-rotasjon) og beregne optimalt vektede "
+"faktorskårer. Lagre det nye datasettet, med faktorresultatene, i en fil (se :"
+"numref:`fig-efa9`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:470
 msgid ""
@@ -807,20 +1096,26 @@ msgid ""
 "possible that the factors will not be in the expected order, so make sure "
 "you check)."
 msgstr ""
+"Åpne den nye filen i jamovi (se :numref:`fig-efa10`) og sjekk at "
+"variabeltypene er satt riktig. Merk de nye faktorskårvariablene med de "
+"relevante faktornavnene eller -definisjonene (NB: Det er mulig at faktorene "
+"ikke kommer i den forventede rekkefølgen, så sørg for å sjekke dette)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
-msgstr ""
+msgstr "|Rj|_-editor-kommandoer for å lage optimalt vektede faktorskårer"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid ""
 "|Rj|_ editor commands for creating optimally weighted factor scores for the "
 "five factor solution"
 msgstr ""
+"|Rj|_-editor-kommandoer for å lage optimalt vektede faktorskårer for "
+"femfaktorløsningen"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid "Newly created data file with new factor score variables"
-msgstr ""
+msgstr "Nyopprettet datafil med nye faktorpoengvariabler"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid ""
@@ -829,6 +1124,10 @@ msgid ""
 "factor score variables is labelled corresponding to the order that the "
 "factors are listed in the factor loadings table."
 msgstr ""
+"Nyopprettet datafil ``bfifactscores.csv`` som er opprettet i |Rj|_-editoren, "
+"og som inneholder de fem faktorskårvariablene. Legg merke til at hver av de "
+"nye faktorskårvariablene er merket i samme rekkefølge som faktorene er "
+"oppført i faktorladningstabellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:498
 msgid ""
@@ -842,20 +1141,31 @@ msgid ""
 "were less agreeable than females, this was not a significant difference "
 "(Mann-Whitney *U* = 5760.5, *p* = 0.073)."
 msgstr ""
+"Nå kan du gå videre og foreta ytterligere analyser, enten ved å bruke de "
+"faktorbaserte poengsummene (en gjennomsnittlig skalapoengtilnærming) eller "
+"ved å bruke de optimalt vektede faktorpoengene som er beregnet via |Rj|_-"
+"editoren. Du velger selv! Du kan for eksempel se om det er noen "
+"kjønnsforskjeller i hver av personlighetsskalaene våre. Vi gjorde dette for "
+"Agreeableness-skåren som vi beregnet ved hjelp av den faktorbaserte "
+"skårtilnærmingen, og selv om plottet (se :numref:`fig-efa11`) viste at menn "
+"var mindre behagelige enn kvinner, var dette ikke en signifikant forskjell "
+"(Mann-Whitney *U* = 5760,5, *p* = 0,073)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid "Gender differences in Agreeableness factor-based scores"
-msgstr ""
+msgstr "Kjønnsforskjeller i skårer basert på Agreeableness-faktoren"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid ""
 "Comparing differences in Agreeableness factor-based scores between males and "
 "females"
 msgstr ""
+"Sammenligning av forskjeller i Agreeableness-faktorbaserte skårer mellom "
+"menn og kvinner"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
 msgid "Writing up an EFA"
-msgstr ""
+msgstr "Skriving av en EFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:521
 msgid ""
@@ -865,13 +1175,21 @@ msgid ""
 "vary by discipline and researcher. That said, there are some fairly standard "
 "pieces of information to include in your write-up:"
 msgstr ""
+"Forhåpentligvis har vi så langt gitt deg en viss forståelse av EFA og "
+"hvordan man gjennomfører EFA i jamovi. Når du har gjennomført en EFA, "
+"hvordan skriver du den da? Det finnes ingen formell standard måte å skrive "
+"en EFA på, og eksemplene har en tendens til å variere etter fagfelt og "
+"forsker. Når det er sagt, finnes det likevel noen standardopplysninger som "
+"bør inkluderes i oppsummeringen:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:527
 msgid ""
 "What are the theoretical underpinnings for the area you are studying, and "
 "specifically for the constructs that you are interested in uncovering "
-"through EFA."
+"through EFA?"
 msgstr ""
+"Hva er det teoretiske grunnlaget for det området du studerer, og spesielt "
+"for de konstruktene du er interessert i å avdekke gjennom EFA?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:531
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
@@ -879,6 +1197,8 @@ msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
+"En beskrivelse av utvalget (f.eks. demografisk informasjon, "
+"utvalgsstørrelse, utvalgsmetode)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:534
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
@@ -886,6 +1206,8 @@ msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
 msgstr ""
+"En beskrivelse av hvilken type data som er brukt (f.eks. nominell |nominal|, "
+"kontinuerlig |continuous|) og deskriptiv statistikk."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:609
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
@@ -898,10 +1220,15 @@ msgid ""
 "regarding sphericity checks and measures of sampling adequacy should be "
 "reported."
 msgstr ""
+"Beskriv hvordan du gikk frem for å teste forutsetningene for EFA. Detaljer "
+"om sfæricitetskontroller og mål på utvalgets tilstrekkelighet bør "
+"rapporteres."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
 msgstr ""
+"Forklar hvilken FA-ekstraksjonsmetode (f.eks. Maximum Likelihood) som ble "
+"brukt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:543
 msgid ""
@@ -909,12 +1236,17 @@ msgid ""
 "extracted in the final solution, and which items were selected. Clearly "
 "explain the rationale for key decisions during the EFA process."
 msgstr ""
+"Forklar kriteriene og prosessen som ble brukt for å avgjøre hvor mange "
+"faktorer som ble trukket ut i den endelige løsningen, og hvilke elementer "
+"som ble valgt ut. Forklar tydelig begrunnelsen for viktige beslutninger "
+"under EFA-prosessen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:547
 msgid ""
 "Explain what rotation methods were attempted, the reasons why, and the "
 "results."
 msgstr ""
+"Forklar hvilke rotasjonsmetoder som ble forsøkt, hvorfor, og resultatene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:550
 msgid ""
@@ -924,6 +1256,12 @@ msgid ""
 "labels in addition to item numbers. Correlations between the factors should "
 "also be included, either at the bottom of this table, in a separate table."
 msgstr ""
+"De endelige faktorladningene bør rapporteres i resultatene, i en tabell. "
+"Denne tabellen bør også rapportere unikheten (eller fellesskapet) for hver "
+"variabel (i den siste kolonnen). Faktorladningene bør rapporteres med "
+"beskrivende navner i tillegg til itemnumrene. Korrelasjoner mellom faktorene "
+"bør også inkluderes, enten nederst i denne tabellen eller i en separat "
+"tabell."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:556
 msgid ""
@@ -931,12 +1269,16 @@ msgid ""
 "to use previously selected factor names, but on examining the actual items "
 "and factors you may think a different name is more appropriate."
 msgstr ""
+"De ekstraherte faktorene bør gis meningsfulle navn. Det kan være lurt å "
+"bruke tidligere valgte faktornavn, men når du undersøker de faktiske "
+"elementene og faktorene, kan det hende du mener at et annet navn er mer "
+"passende."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:563
 msgid ""
 "Quite helpfully, factor loadings can be interpreted like standardized "
 "regression coefficients"
-msgstr ""
+msgstr "Faktorladningene kan tolkes som standardiserte regresjonskoeffisienter"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:567
 msgid ""
@@ -944,6 +1286,9 @@ msgid ""
 "a factor accounts for. A factor with an Eigen value > 1 accounts for more "
 "variance than a single observed variable"
 msgstr ""
+"En Eigen-verdi angir hvor mye av variansen i de observerte variablene en "
+"faktor står for. En faktor med en Eigen-verdi > 1 står for mer varians enn "
+"en enkelt observert variabel"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:572
 msgid ""
@@ -959,6 +1304,17 @@ msgid ""
 "coefficient). Under orthogonal rotation, structure and pattern coefficients "
 "are the same."
 msgstr ""
+"Skrå rotasjoner gir to faktormatriser, en som kalles en strukturmatrise og "
+"en som kalles en mønstermatrise. I jamovi er det bare mønstermatrisen som "
+"vises i resultatene, siden denne vanligvis er mest nyttig for tolkningen, "
+"selv om noen eksperter mener at begge kan være nyttige. I en strukturmatrise "
+"viser koeffisientene forholdet mellom variabelen og faktorene, mens de "
+"ignorerer forholdet mellom den aktuelle faktoren og alle de andre faktorene "
+"(dvs. en null-ordens korrelasjon). Mønstermatrise-koeffisienter viser det "
+"unike bidraget fra en faktor til en variabel, samtidig som man kontrollerer "
+"for effekten av andre faktorer på den aktuelle variabelen (i likhet med "
+"standardiserte partielle regresjonskoeffisienter). Under ortogonal rotasjon "
+"er struktur- og mønsterkoeffisientene de samme."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:586
 msgid ""
@@ -966,10 +1322,13 @@ msgid ""
 "of variance in a variable that is accounted for by the factor solution. "
 "Uniqueness is equal to (1 - *communality*)"
 msgstr ""
+"Noen ganger rapporteres «kommunalitet» (*communality*) i faktoranalyse, som "
+"er hvor mye av variansen i en variabel som forklares av faktorløsningen. "
+"Unikhet er lik (1 - *kommunalitet*)"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:591
 msgid "Remembering to first reverse score some variables if necessary."
-msgstr ""
+msgstr "Husk å først reversere noen variabler hvis det er nødvendig."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:594
 msgid ""
@@ -977,10 +1336,13 @@ msgid ""
 "from within jamovi - it's an option. But this explanation is helpful as it's "
 "a good insight into using R directly from jamovi."
 msgstr ""
+"I de nyeste versjonene av jamovi kan du nå lagre faktorresultater direkte "
+"fra jamovi - det er et alternativ. Men denne forklaringen er nyttig, da den "
+"gir et godt innblikk i hvordan du bruker R direkte fra jamovi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:4
 msgid "Principal Component Analysis"
-msgstr ""
+msgstr "Prinsipal komponentanalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:6
 msgid ""
@@ -989,6 +1351,10 @@ msgid ""
 "factors can be used in further statistical analysis using some sort of "
 "combined factor scores."
 msgstr ""
+"I forrige avsnitt så vi at EFA fungerer for å identifisere underliggende "
+"latente faktorer. Og som vi så, kan det mindre antallet latente faktorer i "
+"ett scenario brukes i videre statistisk analyse ved hjelp av en form for "
+"kombinert faktorskår."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:11
 msgid ""
@@ -998,6 +1364,12 @@ msgid ""
 "underlying latent factors. Instead it creates a linear composite score from "
 "a larger set of measured variables."
 msgstr ""
+"På denne måten brukes EFA som en «datareduksjonsteknikk». En annen type "
+"datareduksjonsteknikk, som av og til blir sett på som en del av EFA-"
+"familien, er **hovedkomponentanalyse** (*principal component analysis*, "
+"PCA). PCA identifiserer imidlertid ikke underliggende latente faktorer. I "
+"stedet skaper den en lineær, sammensatt score fra et større sett med målte "
+"variabler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:17
 msgid ""
@@ -1010,6 +1382,14 @@ msgid ""
 "factor scores that can be used for data reduction purposes just like "
 "principal component scores (:ref:`Fabrigar et al., 1999 <Fabrigar_1999>`)."
 msgstr ""
+"PCA gir ganske enkelt en matematisk transformasjon av de opprinnelige "
+"dataene uten antagelser om hvordan variablene samvarierer. Målet med PCA er "
+"å beregne noen få lineære kombinasjoner (komponenter) av de opprinnelige "
+"variablene som kan brukes til å oppsummere det observerte datasettet uten å "
+"miste for mye informasjon. Hvis målet med analysen er å identifisere den "
+"underliggende strukturen, er imidlertid EFA å foretrekke. Og som vi så, "
+"produserer EFA faktorskårer som kan brukes til datareduksjonsformål på samme "
+"måte som hovedkomponentskårer (:ref:`Fabrigar et al., 1999 <Fabrigar_1999>`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:26
 msgid ""
@@ -1022,10 +1402,18 @@ msgid ""
 "the same,\\ [#]_ and with large samples and a sufficient number of factors "
 "and variables, the results from PCA and EFA should be fairly similar."
 msgstr ""
+"PCA har vært populært i psykologien av en rekke årsaker, og derfor er det "
+"verdt å ta for seg, selv om EFA i dag er like enkelt å utføre med tanke på "
+"kraften til stasjonære datamaskiner og kan være mindre utsatt for skjevheter "
+"enn PCA, spesielt med et lite antall faktorer og variabler. Vi bruker det "
+"samme datasettet |bfi_sample|_ som tidligere. Mye av prosedyren er lik EFA, "
+"så selv om det er noen konseptuelle forskjeller, er trinnene praktisk talt "
+"de samme,\\ [#]_ og med store utvalg og et tilstrekkelig antall faktorer og "
+"variabler bør resultatene fra PCA og EFA være ganske like."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:36
 msgid "Performing PCA in jamovi"
-msgstr ""
+msgstr "Utfører PCA i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:38
 msgid ""
@@ -1034,22 +1422,35 @@ msgid ""
 "options panel where you can determine the settings for the PCA (:numref:`fig-"
 "pca1`). Then select the 25 personality questions and transfer them into the "
 "``Variables`` box. Check appropriate options, including ``Assumption "
-"Checks``, but also ``Rotation`` under ``Method``, ``Number of Factors`` to "
-"extract, and the ``Additional Output`` options (see :numref:`fig-pca1` for "
-"suggested options for this PCA, and please note that ``Rotation`` under "
-"``Method`` and ``Number of Factors`` extracted is typically adjusted during "
-"the analysis to find the best result, as described below)."
+"Checks``, but also ``Rotation`` under ``Method``, ``Number of Components`` "
+"to extract, and the ``Additional Output`` options (see :numref:`fig-pca1` "
+"for suggested options for this PCA, and please note that ``Rotation`` under "
+"``Method`` and ``Number of Components`` extracted is typically adjusted "
+"during the analysis to find the best result, as described below)."
 msgstr ""
+"Når du har lastet inn datasettet |bfi_sample|_, velger du ``Factor`` → "
+"``Principal Component Analysis`` fra fanen ``Analyses`` for å åpne "
+"analysepanelet der du kan bestemme innstillingene for PCA (:numref:`fig-"
+"pca1`). Velg deretter de 25 personlighetsspørsmålene og overfør dem til "
+"boksen ``Variables``. Kryss av for de aktuelle alternativene, inkludert "
+"``Assumption Checks``, men også ``Rotation`` under ``Method``, ``Number of "
+"Components`` to extract, og ``Additional Output``-alternativene (se :numref:"
+"`fig-pca1` for foreslåtte alternativer for denne PCA-en, og vær oppmerksom "
+"på at ``Rotation`` under ``Method`` og ``Number of Components`` extracted "
+"vanligvis justeres i løpet av analysen for å finne det beste resultatet, som "
+"beskrevet nedenfor)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:55
 msgid "jamovi PCA analysis window"
-msgstr ""
+msgstr "jamovi PCA-analysevindu"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:55
 msgid ""
 "Options panel with the settings for conducting a Principal Component "
 "Analysis (PCA) in jamovi"
 msgstr ""
+"Analysepanel med innstillingene for gjennomføring av en prinsipal "
+"komponentanalyse (PCA) i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:60
 msgid ""
@@ -1058,27 +1459,36 @@ msgid ""
 "satisfied; and (2) the KMO measure of sampling adequacy (MSA) is 0.81 "
 "overall, suggesting very good sampling adequacy. No problems here then!"
 msgstr ""
+"Hvis du først sjekker forutsetningene (se :numref:`fig-pca2`), kan du se at "
+"(1) Bartletts test av sfæricitet er signifikant, så denne forutsetningen er "
+"oppfylt, og (2) KMO-målet for utvalgstilstrekkelighet (MSA) er 0,81 totalt "
+"sett, noe som tyder på svært god utvalgstilstrekkelighet. Ingen problemer "
+"her, altså!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:71
 msgid "Assumption checks for the personality item data"
-msgstr ""
+msgstr "Forutsetningssjekker for personlighetsdataene"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:71
 msgid ""
 "Assumption checks for the personality item data when using a PCA in jamovi"
-msgstr ""
+msgstr "Forutsetningssjekker for personlighetsdataene ved bruk av PCA i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:75
 msgid ""
 "The next thing to check is how many components to use (or “extract” from the "
 "data). As with EFA, three different approaches are available:"
 msgstr ""
+"Det neste man må sjekke, er hvor mange komponenter man skal bruke (eller "
+"«ekstrahere» fra dataene). Som med EFA finnes det tre ulike tilnærminger:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:78
 msgid ""
 "One convention is to choose all components with Eigen values greater than 1. "
 "This would give us two components with our data."
 msgstr ""
+"En konvensjon er å velge alle komponenter med Eigen-verdier større enn 1. "
+"Dette vil gi oss to komponenter med våre data."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:81
 msgid ""
@@ -1087,6 +1497,10 @@ msgid ""
 "curve clearly levels off, below the “elbow”. Again, this would give us two "
 "components as the levelling off clearly occurs after the second component."
 msgstr ""
+"Ved å undersøke scree-plottet, som i :numref:`fig-pca3`, kan du identifisere "
+"«bøyningspunktet». Dette er det punktet der stigningen på scree-kurven "
+"tydelig flater ut, under «albuen». Igjen vil dette gi oss to komponenter, "
+"ettersom utflatingen tydelig skjer etter den andre komponenten."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:87
 msgid ""
@@ -1095,16 +1509,22 @@ msgid ""
 "extracted is the number with Eigen values greater than what would be found "
 "with random data."
 msgstr ""
+"Ved hjelp av en parallell analyseteknikk sammenlignes de oppnådde Eigen-"
+"verdiene med de som ville blitt oppnådd fra tilfeldige data. Antallet "
+"komponenter som trekkes ut, er antallet med Eigen-verdier som er større enn "
+"det som ville blitt funnet med tilfeldige data."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:98
 msgid "Scree plot of the personality item data"
-msgstr ""
+msgstr "Scree-plott av personlighetsdataene"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:98
 msgid ""
 "Scree plot of the personality item data when conducting a PCA in jamovi, "
 "showing the levelling off point, the “elbow”, after component 5"
 msgstr ""
+"Scree-plott av personlighetsdataene ved PCA i jamovi, som viser "
+"utjevningspunktet, «albuen», etter komponent 5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:103
 msgid ""
@@ -1117,6 +1537,13 @@ msgid ""
 "one or two more or fewer components. They then adopt the solution which "
 "makes the most sense to them."
 msgstr ""
+"Den tredje tilnærmingen er god ifølge :ref:`Fabrigar et al. (1999) "
+"<Fabrigar_1999>`, selv om forskere i praksis pleier å se på alle tre og "
+"deretter gjøre en vurdering av hvor mange komponenter som er lettest eller "
+"mest nyttig å tolke. Dette kan forstås som «meningsfullhetskriteriet», og "
+"forskere vil typisk, i tillegg til løsningen fra en av tilnærmingene "
+"ovenfor, undersøke løsninger med én eller to komponenter til eller færre. "
+"Deretter tar de i bruk den løsningen som gir mest mening for dem."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:111
 msgid ""
@@ -1139,16 +1566,35 @@ msgid ""
 "the correlations is > 0.3 so it is appropriate to switch to orthogonal "
 "(``Varimax``) rotation."
 msgstr ""
+"Samtidig bør vi også vurdere den beste måten å rotere den endelige løsningen "
+"på. Som med EFA finnes det to hovedtilnærminger til rotasjon: ortogonal "
+"rotasjon (f.eks. ``Varimax``) tvinger de utvalgte komponentene til å være "
+"ukorrelerte, mens skrå rotasjon (f.eks. ``Oblimin``) gjør at de utvalgte "
+"komponentene kan være korrelerte. Dimensjoner som er av interesse for "
+"psykologer og atferdsforskere, er ofte ikke dimensjoner som vi forventer er "
+"ortogonale, så det kan hevdes at skrå løsninger er mer fornuftige. I praksis "
+"vil det si at hvis det viser seg at komponentene i en skrå rotasjon er "
+"vesentlig korrelerte (dvs. > 0,3), vil dette bekrefte intuisjonen vår om å "
+"foretrekke skrå rotasjon. Hvis komponentene faktisk er korrelerte, vil en "
+"skrå rotasjon gi et bedre estimat av de sanne komponentene og en bedre enkel "
+"struktur enn en ortogonal rotasjon. Og hvis den skrå rotasjonen indikerer at "
+"komponentene har nær null korrelasjon med hverandre, kan forskeren gå videre "
+"og gjennomføre en ortogonal rotasjon (som da bør gi omtrent samme løsning "
+"som den skrå rotasjonen). I :numref:`fig-pca4` ser vi at ingen av "
+"korrelasjonene er > 0,3, så det er hensiktsmessig å gå over til ortogonal "
+"(``Varimax``) rotasjon."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid "Component summary statistics and correlations"
-msgstr ""
+msgstr "Oppsummert komponentstatistikk og korrelasjoner"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid ""
 "Component summary statistics and correlations for a five component solution "
 "when conducting a PCA with the personality item data in jamovi"
 msgstr ""
+"Komponentstatistikk og korrelasjoner for en femkomponentløsning ved "
+"gjennomføring av en PCA med personlighetsdataene i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:140
 msgid ""
@@ -1166,6 +1612,18 @@ msgid ""
 "most of the variance in those 25 variables, you might as well just use the "
 "original 25."
 msgstr ""
+"I :numref:`fig-pca4` har vi også andelen av den totale variansen i dataene "
+"som de to komponentene står for. Komponent én og to står for litt over 12\\% "
+"av variansen hver. Til sammen står løsningen med fem komponenter for litt "
+"over halvparten av variansen (56\\%) i de observerte dataene. Vær oppmerksom "
+"på at du i enhver PCA potensielt kan ha like mange komponenter som "
+"observerte variabler, men at hver ekstra komponent du inkluderer, vil gi en "
+"mindre mengde forklart varians. Hvis de første få komponentene forklarer en "
+"god del av variansen i de opprinnelige 25 variablene, er disse komponentene "
+"helt klart en nyttig, enklere erstatning for alle 25 variablene. Du kan "
+"droppe resten uten å miste for mye av den opprinnelige variasjonen. Men hvis "
+"det kreves 18 komponenter for å forklare mesteparten av variansen i de 25 "
+"variablene, kan du like gjerne bare bruke de opprinnelige 25."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:153
 msgid ""
@@ -1176,16 +1634,24 @@ msgid ""
 "the threshold at the higher 0.4 value also provided a cleaner, clearer "
 "solution."
 msgstr ""
+":numref:`fig-pca5` viser komponentladningene. Det vil si hvordan de 25 ulike "
+"personlighetselementene lader på hver av de valgte komponentene. Vi har "
+"skjult ladninger under 0,4 (angitt i alternativene som vises i :numref:`fig-"
+"pca1`), ettersom vi var interessert i elementer med en betydelig ladning, og "
+"fordi det å sette terskelen til den høyere verdien 0,4 også ga en renere og "
+"tydeligere løsning."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid "Component loadings for a five component solution"
-msgstr ""
+msgstr "Komponentladninger for en femkomponentløsning"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid ""
 "Component loadings for a five component solution when conducting a PCA with "
 "the personality item data in jamovi"
 msgstr ""
+"Komponentladninger for en femkomponentløsning når man utfører en PCA med "
+"personlighetsdataene i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:170
 msgid ""
@@ -1197,6 +1663,14 @@ msgid ""
 "pca5` suggests that it loads onto component 4 (albeit with a relatively low "
 "loading) but not substantively onto component 5."
 msgstr ""
+"For komponent 1, 2, 3 og 4 samsvarer mønsteret i komponentladningene godt "
+"med de antatte faktorene som er spesifisert i :numref:`tab-bfi`. Og "
+"komponent 5 er ganske nær, med fire av de fem observerte variablene som "
+"angivelig måler «åpenhet» (*openness*), som lader ganske godt inn i "
+"komponenten. Variabelen ``O4`` ser imidlertid ikke helt ut til å passe, "
+"ettersom komponentløsningen i :numref:`fig-pca5` antyder at den lader på "
+"komponent 4 (om enn med en relativt lav ladning), men ikke i vesentlig grad "
+"på komponent 5."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:178
 msgid ""
@@ -1208,6 +1682,13 @@ msgid ""
 "component solution (30\\%). Note that the greater the ``Uniqueness``, the "
 "lower the relevance or contribution of the variable in the component model."
 msgstr ""
+"I :numref:`fig-pca1` kan vi også se ``Uniqueness`` for hver variabel. "
+"Unikhet er andelen av variansen som er «unik» for variabelen, og som ikke "
+"forklares av komponentene. For eksempel forklares 52\\% av variansen i "
+"``A1`` ikke av komponentene i femkomponentløsningen. I motsetning til dette "
+"har ``N1`` relativt lav varians som ikke forklares av komponentløsningen "
+"(30\\%). Legg merke til at jo større ``Uniqueness`` er, desto lavere er "
+"variablens relevans eller bidrag i komponentmodellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:186
 msgid ""
@@ -1215,6 +1696,9 @@ msgid ""
 "in jamovi, and how it is conceptually different but practically fairly "
 "similar (given the right data) to EFA."
 msgstr ""
+"Forhåpentligvis har dette gitt deg et godt førsteinntrykk av hvordan du kan "
+"gjennomføre PCA i jamovi, og hvordan PCA er konseptuelt forskjellig fra EFA, "
+"men praktisk sett ganske likt (gitt de riktige dataene)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:190
 msgid ""
@@ -1223,10 +1707,14 @@ msgid ""
 "component score index then the commands and syntax in the jamovi |Rj|_ "
 "editor are a little different. See :numref:`fig-pca6`."
 msgstr ""
+"Du kan fortsette med å opprette og lagre komponentskårer på omtrent samme "
+"måte som i EFA. Hvis du velger å opprette en optimalt vektet "
+"komponentskåreindeks, er imidlertid kommandoene og syntaksen i jamovi |Rj|_-"
+"editoren litt annerledes. Se :numref:`fig-pca6`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid "|Rj| editor commands for creating optimally weighted component scores"
-msgstr ""
+msgstr "|Rj|-editorkommandoer for å lage optimalt vektede komponentresultater"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid ""
@@ -1234,16 +1722,21 @@ msgid ""
 "the five component solution  when conducting a PCA with the personality item "
 "data in jamovi"
 msgstr ""
+"|Rj|_-editor-kommandoer for å lage optimalt vektede komponentskårer for "
+"femkomponentløsningen når man gjennomfører en PCA med personlighetsdataene i "
+"jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:210
 msgid ""
 "…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
 msgstr ""
+"...og det betyr at det er en del gjentakelser i PCA-trinnene som beskrives i "
+"neste avsnitt. Beklager det, men forhåpentligvis er det ikke så ille!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:4
 msgid "Confirmatory Factor Analysis"
-msgstr ""
+msgstr "Bekreftende faktoranalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:6
 msgid ""
@@ -1257,6 +1750,15 @@ msgid ""
 "will, unsuprisingly, be seeking to *confirm* a pre-specificied latent factor "
 "structure.\\ [#]_"
 msgstr ""
+"Forsøket vårt på å identifisere underliggende latente faktorer ved hjelp av "
+"EFA med nøye utvalgte spørsmål fra personlighetspoolen så altså ut til å ha "
+"vært ganske vellykket. Neste skritt i vår søken etter å utvikle et nyttig "
+"mål på personlighet er å sjekke de latente faktorene vi identifiserte i den "
+"opprinnelige EFA-en, med et annet utvalg. Vi ønsker å se om faktorene holder "
+"stand, om vi kan bekrefte deres eksistens med andre data. Som vi skal se, er "
+"dette en grundigere sjekk. Og det kalles **konfirmatorisk faktoranalyse** "
+"(*confirmatory factor analysis*, CFA), ettersom vi, ikke overraskende, søker "
+"å *bekrefte* en forhåndsspesifisert latent faktorstruktur.\\ [#]_"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:16
 msgid ""
@@ -1266,16 +1768,24 @@ msgid ""
 "structure. In this sense, we are undertaking a confirmatory analysis, to see "
 "how well a pre-specified **model** is confirmed by the observed data."
 msgstr ""
+"I stedet for å gjøre en analyse der vi ser hvordan dataene henger sammen i "
+"utforskende forstand, pålegger vi i stedet dataene en struktur, som i :"
+"numref:`fig-cfa1`, og ser hvor godt dataene passer til den "
+"forhåndsspesifiserte strukturen. I denne forstand foretar vi en bekreftende "
+"analyse, for å se hvor godt en forhåndsspesifisert **modell** bekreftes av "
+"de observerte dataene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:29
 msgid "Initial pre-specification of latent factor structure"
-msgstr ""
+msgstr "Innledende forhåndsspesifisering av den latente faktorstrukturen"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:29
 msgid ""
 "Initial pre-specification of latent factor structure for the five factor "
 "personality scales, for use in CFA"
 msgstr ""
+"Innledende forhåndsspesifisering av latent faktorstruktur for de fem "
+"personlighetsskalaene, til bruk i CFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:34
 msgid ""
@@ -1289,6 +1799,15 @@ msgid ""
 "accounted for by the Agreeableness factor. This is sometimes called "
 "**measurement error**."
 msgstr ""
+"En enkel bekreftende faktoranalyse (CFA) av personlighetsspørsmålene vil "
+"derfor spesifisere fem latente faktorer, som vist i :numref:`fig-cfa1`, hver "
+"målt ved hjelp av fem observerte variabler. Hver variabel er et mål på en "
+"underliggende latent faktor. For eksempel predikeres ``A1`` av den "
+"underliggende latente faktoren Agreeableness. Og fordi ``A1`` ikke er et "
+"perfekt mål på faktoren Agreeableness, er det knyttet et feilledd, *e*, til "
+"den. Med andre ord representerer *e* variansen i ``A1`` som ikke forklares "
+"av agreeableness-faktoren. Dette kalles noen ganger **målefeil** "
+"(*measurement error*)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:44
 msgid ""
@@ -1299,6 +1818,12 @@ msgid ""
 "other. So, in our model, we should allow these latent factors to co-vary, as "
 "shown by the double-headed arrows in :numref:`fig-cfa1`."
 msgstr ""
+"Det neste trinnet er å vurdere om de latente faktorene bør tillates å "
+"korrelere i modellen vår. Som nevnt tidligere, er konstrukter i psykologien "
+"og atferdsvitenskapen ofte relatert til hverandre, og vi tror også at noen "
+"av personlighetsfaktorene våre kan være korrelert med hverandre. I modellen "
+"vår bør vi derfor tillate at disse latente faktorene samvarierer, som vist "
+"med de doble pilene i :numref:`fig-cfa1`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:51
 msgid ""
@@ -1311,6 +1836,13 @@ msgid ""
 "but, for now, there are no clear reasons that we can see that would justify "
 "correlating some of the error terms with each other."
 msgstr ""
+"Samtidig bør vi vurdere om det er noen god, systematisk grunn til at noen av "
+"feilleddene er korrelert med hverandre. En grunn til dette kan være at det "
+"finnes en felles metodisk funksjon for bestemte undergrupper av de "
+"observerte variablene, slik at de observerte variablene kan være korrelert "
+"av metodiske snarere enn substansielle latente faktorårsaker. Vi kommer "
+"tilbake til denne muligheten i et senere avsnitt, men foreløpig kan vi ikke "
+"se noen klare grunner til at noen av feilleddene er korrelert med hverandre."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:60
 msgid ""
@@ -1323,14 +1855,23 @@ msgid ""
 "observed data, but not in our model) then we may find a poor fit between our "
 "model and the observed data."
 msgstr ""
+"Uten korrelerte feilledd er modellen vi tester for å se hvor godt den passer "
+"med de observerte dataene våre, akkurat slik den er spesifisert i :numref:"
+"`fig-cfa1`. Bare parametere som er inkludert i modellen, forventes å bli "
+"funnet i dataene, så i CFA settes alle andre mulige parametere "
+"(koeffisienter) til null. Hvis disse andre parameterne ikke er null (for "
+"eksempel kan det være en betydelig ladning fra ``A1`` på den latente "
+"faktoren Extraversion i de observerte dataene, men ikke i modellen vår), kan "
+"vi finne en dårlig tilpasning mellom modellen vår og de observerte dataene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:69
 msgid "Right, let’s take a look at how we set this CFA analysis up in jamovi."
 msgstr ""
+"La oss ta en titt på hvordan vi setter opp denne CFA-analysen i jamovi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:72
 msgid "CFA in jamovi"
-msgstr ""
+msgstr "CFA i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:74
 msgid ""
@@ -1338,6 +1879,9 @@ msgid ""
 "as ordinal |ordinal| (or continuous |continuous|; it won’t make any "
 "difference for this analysis). To perform CFA in jamovi:"
 msgstr ""
+"Åpne datasettet |bfi_sample2|_, og sjekk at de 25 variablene er kodet som "
+"ordinal |ordinal| (eller kontinuerlig |continuous|; det vil ikke gjøre noen "
+"forskjell for denne analysen). Slik utfører du CFA i jamovi:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:78
 msgid ""
@@ -1345,12 +1889,17 @@ msgid ""
 "tab to open the options panel where you can determine the settings for the "
 "CFA (:numref:`fig-cfa2`)."
 msgstr ""
+"Velg ``Factor`` → ``Confirmatory Factor Analysis`` fra fanen ``Analyses`` "
+"for å åpne analysepanelet der du kan bestemme innstillingene for CFA (:"
+"numref:`fig-cfa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:82
 msgid ""
 "Select the 5 ``A`` variables and transfer them into the ``Factors`` box and "
 "give them the label “Agreeableness”."
 msgstr ""
+"Velg de 5 ``A``-variablene og overfør dem til ``Factors``-boksen, og gi dem "
+"betegnelsen «Agreeableness»."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:85
 msgid ""
@@ -1358,6 +1907,9 @@ msgid ""
 "Select the 5 ``C`` variables and transfer them into the ``Factors`` box "
 "under the “Conscientiousness” label."
 msgstr ""
+"Opprett en ny faktor i ``Factors``-boksen, og betegne den "
+"«Conscientiousness». Velg de 5 ``C``-variablene og overfør dem til "
+"``Factors``-boksen under «Conscientiousness»-overskriften."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:89
 msgid ""
@@ -1365,6 +1917,9 @@ msgid ""
 "“Extraversion”. Select the 5 ``E`` variables and transfer them into the "
 "``Factors`` box under the “Extraversion” label."
 msgstr ""
+"Opprett en ny faktor i ``Factors``-boksen, og gi den betegnelsen "
+"«Extraversion». Velg de 5 ``E``-variablene, og overfør dem til ``Factors``-"
+"boksen under «Extraversion»-overskriften."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:93
 msgid ""
@@ -1372,6 +1927,9 @@ msgid ""
 "Select the 5 ``N`` variables and transfer them into the ``Factors`` box "
 "under the “Neuroticism” label."
 msgstr ""
+"Opprett en ny faktor i ``Factors``-boksen, og gi den betegnelsen "
+"«Neuroticism». Velg de 5 ``N``-variablene og overfør dem til ``Factors``-"
+"boksen under «Neuroticism»-overskriften."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:97
 msgid ""
@@ -1379,6 +1937,9 @@ msgid ""
 "Select the 5 ``O`` variables and transfer them into the ``Factors`` box "
 "under the “Openness” label."
 msgstr ""
+"Opprett en ny faktor i ``Factors``-boksen, og gi den betegnelsen «Openness». "
+"Velg de 5 ``O``-variablene og overfør dem til ``Factors``-boksen under "
+"«Openness»-overskriften."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:101
 msgid ""
@@ -1387,16 +1948,22 @@ msgid ""
 "``Plots`` to see jamovi produce a (fairly) similar diagram to our :numref:"
 "`fig-cfa1`."
 msgstr ""
+"Sjekk andre passende alternativer, standardinnstillingene er OK for denne "
+"første gjennomgangen, men det kan være lurt å sjekke alternativet ``Path "
+"diagram`` under ``Plots`` for å se jamovi produsere et (ganske) likt diagram "
+"som vårt :numref:`fig-cfa1`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:112
 msgid "Settings for conducting a Confirmatory Factor Analysis"
-msgstr ""
+msgstr "Innstillinger for gjennomføring av en konfirmatorisk faktoranalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:112
 msgid ""
 "Options panel with the settings for conducting a Confirmatory Factor "
 "Analysis (CFA) in jamovi"
 msgstr ""
+"Analysepanel med innstillinger for gjennomføring av en konfirmatorisk "
+"faktoranalyse (CFA) i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:117
 msgid ""
@@ -1407,14 +1974,22 @@ msgid ""
 "estimated, including the factor correlations by default. Everything else is "
 "set to zero."
 msgstr ""
+"Når vi har satt opp analysen, kan vi vende oppmerksomheten mot jamovi-"
+"resultatvinduet og se hva som er hva. Det første vi bør se på er "
+"**modelltilpasning** (*model fit*; :numref:`fig-cfa3`), da dette forteller "
+"oss hvor godt modellen vår passer til de observerte dataene. Merk at i vår "
+"modell estimeres bare de forhåndsspesifiserte kovariansene, inkludert "
+"faktorkorrelasjonene som standard. Alt annet er satt til null."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
 msgid "``Model Fit`` results for the specified CFA model in jamovi"
-msgstr ""
+msgstr "``Model Fit``-resultater for den spesifiserte CFA-modellen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
 msgid "Table with ``Model Fit`` results for the specified CFA model in jamovi"
 msgstr ""
+"Tabell med ``Model Fit``-resultater for den spesifiserte CFA-modellen i "
+"jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:134
 msgid ""
@@ -1425,6 +2000,12 @@ msgid ""
 "and the data almost always produces a large and significant (p < 0.05) χ²-"
 "value."
 msgstr ""
+"Det finnes flere måter å vurdere modelltilpasning på. Den første er en χ²-"
+"statistikk som, hvis den er liten, indikerer at modellen passer godt til "
+"dataene. χ²-statistikken som brukes til å vurdere modelltilpasning, er "
+"imidlertid ganske følsom for utvalgsstørrelsen, noe som betyr at med et "
+"stort utvalg gir en god nok tilpasning mellom modellen og dataene nesten "
+"alltid en stor og signifikant (p < 0,05) χ²-verdi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:140
 msgid ""
@@ -1436,6 +2017,13 @@ msgid ""
 "of about 0.05 to 0.08. A good fit is CFI > 0.95, TLI > 0.95, and RMSEA and "
 "upper CI for RMSEA < 0.05."
 msgstr ""
+"Derfor trenger vi andre måter å vurdere modelltilpasning på. jamovi tilbyr "
+"flere slike metoder som standard. Disse er Comparative Fit Index (CFI), "
+"Tucker Lewis Index (TLI) og Root Mean Square Error of Approximation (RMSEA) "
+"sammen med 90\\%-konfidensintervall for RMSEA. Noen nyttige "
+"tommelfingerregler er at en tilfredsstillende tilpasning indikeres av CFI > "
+"0,9, TLI > 0,9 og RMSEA på rundt 0,05 til 0,08. En god tilpasning er CFI > "
+"0,95, TLI > 0,95 og RMSEA og øvre KI for RMSEA < 0,05."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:148
 msgid ""
@@ -1446,6 +2034,12 @@ msgid ""
 "confidence interval from 0.077 to 0.092, again this does not indicate a good "
 "fit."
 msgstr ""
+"Når vi ser på :numref:`fig-cfa3`, kan vi se at χ²-verdien er stor og svært "
+"signifikant. Utvalgsstørrelsen vår er ikke så stor, så dette indikerer "
+"muligens en dårlig tilpasning. CFI er 0,762 og TLI er 0,731, noe som "
+"indikerer dårlig tilpasning mellom modellen og dataene. RMSEA er 0,085 med "
+"et 90\\%-konfidensintervall fra 0,077 til 0,092, noe som heller ikke tyder "
+"på god tilpasning."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:154
 msgid ""
@@ -1454,6 +2048,10 @@ msgid ""
 "`Ch15_FactorAnalysis_1`), only around half of the variance in the data was "
 "accounted for by the five factor model."
 msgstr ""
+"Ganske skuffende, hva? Men kanskje ikke så overraskende med tanke på at i "
+"den tidligere EFA-en, da vi kjørte med et lignende datasett (avsnitt :doc:"
+"`Ch15_FactorAnalysis_1`), ble bare rundt halvparten av variansen i dataene "
+"forklart av femfaktormodellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:159
 msgid ""
@@ -1467,14 +2065,25 @@ msgid ""
 "under the ``Estimates`` option. These tables can usefully be incorporated "
 "into a written report or scientific article."
 msgstr ""
+"La oss gå videre og se på faktorladningene og faktorkovariansestimatene, som "
+"vises i :numref:`fig-cfa4` og :numref:`fig-cfa5`. *Z*-statistikken og *p*-"
+"verdien for hver av disse parameterne indikerer at de gir et rimelig bidrag "
+"til modellen (dvs. at de ikke er null), så det ser ikke ut til å være noen "
+"grunn til å fjerne noen av de spesifiserte variabel-faktorbanene eller "
+"faktor-faktorkorrelasjonene fra modellen. Ofte er de standardiserte "
+"estimatene lettere å tolke, og disse kan spesifiseres under alternativet "
+"``Estimates``. Disse tabellene kan med fordel innlemmes i en skriftlig "
+"rapport eller vitenskapelig artikkel."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:175
 msgid "Table with ``Factor Loadings`` for the specified CFA model in jamovi"
 msgstr ""
+"Tabell med ``Factor Loadings`` for den spesifiserte CFA-modellen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:183
 msgid "Table with ``Factor Covariances`` for the specified CFA model in jamovi"
 msgstr ""
+"Tabell med ``Factor Covariances`` for den spesifiserte CFA-modellen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:187
 msgid ""
@@ -1485,16 +2094,24 @@ msgid ""
 "indices``, specified as an ``Additional Output`` option in jamovi (see :"
 "numref:`fig-cfa6`)."
 msgstr ""
+"Hvordan kan vi forbedre modellen? En mulighet er å gå tilbake noen trinn og "
+"tenke over hvilke elementer/mål vi bruker, og hvordan de kan forbedres eller "
+"endres. Et annet alternativ er å gjøre noen *post-hoc*-justeringer av "
+"modellen for å forbedre tilpasningen. En måte å gjøre dette på er å bruke "
+"``Modification indices``, spesifisert som et ``Additional Output``-"
+"alternativ i jamovi (se :numref:`fig-cfa6`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid "Table with ``Factor Loadings Modification Indices``"
-msgstr ""
+msgstr "Tabell med ``Factor Loadings Modification Indices``"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid ""
 "Table with ``Factor Loadings Modification Indices`` for the specified CFA "
 "model in jamovi"
 msgstr ""
+"Tabell med ``Factor Loadings Modification Indices`` for den spesifiserte CFA-"
+"modellen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:204
 msgid ""
@@ -1507,6 +2124,14 @@ msgid ""
 "add this path into the model then the χ²-value will reduce by around the "
 "same amount."
 msgstr ""
+"Det vi er ute etter, er den høyeste modifikasjonsindeksverdien (MI). "
+"Deretter vurderer vi om det er fornuftig å legge til det ekstra leddet i "
+"modellen, ved hjelp av en *post-hoc*-rasjonalisering. Vi kan for eksempel se "
+"i :numref:`fig-cfa6` at den største MI-verdien for faktorladningene som ikke "
+"allerede finnes i modellen, er en verdi på 28,786 for ladningen av ``N4`` "
+"(«Føler meg ofte trist»; *Often feel blue*) på den latente faktoren "
+"extraversion. Dette indikerer at hvis vi legger til denne stien i modellen, "
+"vil χ²-verdien reduseres med omtrent like mye."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:212
 msgid ""
@@ -1522,6 +2147,17 @@ msgid ""
 "have also improved, though only a bit. But it’s not enough: it’s still not a "
 "good fitting model."
 msgstr ""
+"Men i vår modell gir det egentlig ingen teoretisk eller metodisk mening å "
+"legge til denne stien, så det er ikke en god idé (med mindre du kan komme "
+"med et overbevisende argument for at «Føler meg ofte trist» måler både "
+"nevrotisisme og ekstraversjon). Jeg kan ikke komme på noen god grunn. Men la "
+"oss for argumentets skyld late som om det gir mening, og legge til denne "
+"banen i modellen. Gå tilbake til CFA-analysevinduet (se :numref:`fig-cfa2`) "
+"og legg til ``N4`` i Extraversion-faktoren. Resultatene av CFA-en vil nå "
+"endre seg (ikke vist); χ²-verdien har gått ned til rundt 709 (en nedgang på "
+"rundt 30, omtrent tilsvarende størrelsen på MI), og de andre "
+"tilpasningsindeksene har også blitt bedre, om enn bare litt. Men det er ikke "
+"nok: Det er fortsatt ikke en modell som passer godt."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:223
 msgid ""
@@ -1529,6 +2165,9 @@ msgid ""
 "then always re-check the MI tables after each new addition, as the MIs are "
 "refreshed each time."
 msgstr ""
+"Hvis du legger til nye parametere i en modell ved hjelp av MI-verdiene, må "
+"du alltid sjekke MI-tabellene på nytt etter hvert nye tillegg, ettersom MI-"
+"verdiene oppdateres hver gang."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:227
 msgid ""
@@ -1541,16 +2180,26 @@ msgid ""
 "And then you can start again looking for the biggest MI in the re-calculated "
 "results."
 msgstr ""
+"Det finnes også en tabell med ``Residual Covariances Modification Indices`` "
+"produsert av jamovi (:numref:`fig-cfa7`). Med andre ord, en tabell som viser "
+"hvilke korrelerte feil som ville forbedre modelltilpasningen mest hvis de "
+"ble lagt til i modellen. Det er lurt å se på begge MI-tabellene samtidig, "
+"finne den største MI-en, vurdere om det er rimelig å legge til den "
+"foreslåtte parameteren, og hvis det er mulig, legge den til i modellen. "
+"Deretter kan du begynne på nytt med å lete etter den største MI-en i de "
+"nyberegnede resultatene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
 msgid "Table with ``Residual Covariances Modification Indices``"
-msgstr ""
+msgstr "Tabell med ``Residual Covariances Modification Indices``"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
 msgid ""
 "Table with ``Residual Covariances Modification Indices`` for the specified "
 "CFA model in jamovi"
 msgstr ""
+"Tabell med ``Residual Covariances Modification Indices`` for den "
+"spesifiserte CFA-modellen i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:246
 msgid ""
@@ -1561,6 +2210,12 @@ msgid ""
 "doesn’t have any theoretical sense or purity. In other words, be very "
 "careful!"
 msgstr ""
+"Du kan fortsette på denne måten så lenge du vil, og legge til parametere i "
+"modellen basert på det største MI, og til slutt vil du oppnå en "
+"tilfredsstillende tilpasning. Men det er også en stor mulighet for at du på "
+"denne måten har skapt et monster! En modell som er stygg og deformert, og "
+"som ikke har noen teoretisk mening eller renhet. Med andre ord, vær veldig "
+"forsiktig!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:252
 msgid ""
@@ -1569,6 +2224,10 @@ msgid ""
 "structure from the EFA was confirmed in the CFA, so it’s back to the drawing "
 "board as far as the development of this personality scale goes."
 msgstr ""
+"Så langt har vi sjekket ut faktorstrukturen fra EFA ved hjelp av et annet "
+"utvalg og CFA. Dessverre fant vi ikke at faktorstrukturen fra EFA ble "
+"bekreftet i CFA, så det er tilbake til tegnebrettet når det gjelder "
+"utviklingen av denne personlighetsskalaen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:257
 msgid ""
@@ -1578,10 +2237,16 @@ msgid ""
 "covariances using modification indices. Nevertheless, let's discuss how to "
 "report the results of a CFA (with a more fitted model)."
 msgstr ""
+"Selv om det noen ganger kan være gode grunner til å la residualene "
+"samvariere (eller korrelere), var det ingen slike grunner til å "
+"«optimalisere» CFA-en for modellen som vi definerte ved å inkludere "
+"ytterligere faktorladninger eller residualkovarianser ved hjelp av "
+"modifikasjonsindekser. La oss likevel diskutere hvordan vi kan rapportere "
+"resultatene av en CFA (med en mer tilpasset modell)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:264
 msgid "Reporting a CFA"
-msgstr ""
+msgstr "Rapportering av en CFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
 msgid ""
@@ -1589,10 +2254,14 @@ msgid ""
 "vary by discipline and researcher. That said, there are some fairly standard "
 "pieces of information to include in your write-up:"
 msgstr ""
+"Det finnes ingen formell standardmåte å skrive en CFA på, og eksemplene har "
+"en tendens til å variere fra fagfelt til fagfelt og forsker til forsker. Når "
+"det er sagt, finnes det likevel noen standardopplysninger som bør inkluderes "
+"i rapporten:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
-msgstr ""
+msgstr "En teoretisk og empirisk begrunnelse for den hypotetiske modellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
 msgid ""
@@ -1601,34 +2270,44 @@ msgid ""
 "any correlations between error terms). A path diagram, like the one in :"
 "numref:`fig-cfa3` would be good to include."
 msgstr ""
+"En fullstendig beskrivelse av hvordan modellen ble spesifisert (f.eks. "
+"indikatorvariablene for hver latent faktor, kovarianser mellom latente "
+"variabler og eventuelle korrelasjoner mellom feilledd). Et stigediagram, som "
+"det i :numref:`fig-cfa3`, kan være bra å inkludere."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:283
 msgid "Tests of assumptions and estimation method used."
-msgstr ""
+msgstr "Tester av forutsetninger og estimeringsmetode."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
 msgstr ""
+"En beskrivelse av manglende data og hvordan de manglende dataene ble "
+"håndtert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
-msgstr ""
+msgstr "Programvaren og versjonen som ble brukt til å tilpasse modellen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
 msgid "Measures, and the criteria used, to judge model fit."
-msgstr ""
+msgstr "Mål og kriterier som brukes for å bedømme modelltilpasning."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
 msgid ""
 "Any alterations made to the original model based on model fit or "
 "modification indices."
 msgstr ""
+"Eventuelle endringer i den opprinnelige modellen basert på modelltilpasning "
+"eller modifikasjonsindekser."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:294
 msgid ""
 "All parameter estimates (i.e., loadings, error variances, latent "
 "(co)variances) and their standard errors, probably in a table."
 msgstr ""
+"Alle parameterestimater (dvs. ladninger, feilvarianser, latente "
+"(ko)varianser) og deres standardfeil, sannsynligvis i en tabell."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:300
 msgid ""
@@ -1642,10 +2321,20 @@ msgid ""
 "final scale, or if they want to check an established scale in a new sample, "
 "then CFA is a good option."
 msgstr ""
+"Som en parentes bemerket kunne vi, gitt at vi hadde en ganske sikker idé ut "
+"fra de første «antatte» faktorene våre, bare ha gått rett til CFA og hoppet "
+"over EFA-trinnet. Hvorvidt man bruker EFA og deretter går videre til CFA, "
+"eller om man går rett til CFA, er et spørsmål om skjønn og hvor sikker man "
+"er på at modellen er riktig i utgangspunktet (med hensyn til antall faktorer "
+"og variabler). På et tidlig stadium i utviklingen av skalaer eller "
+"identifiseringen av underliggende latente konstrukter har forskere en "
+"tendens til å bruke EFA. Senere, når de nærmer seg en endelig skala, eller "
+"hvis de ønsker å sjekke en etablert skala i et nytt utvalg, er CFA et godt "
+"alternativ."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:4
 msgid "Internal consistency reliability analysis"
-msgstr ""
+msgstr "Reliabilitetsanalyse av intern konsistens"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:6
 msgid ""
@@ -1655,6 +2344,11 @@ msgid ""
 "interested in at this stage is to see how well the factors are measured "
 "using a scale that combines the observed variables."
 msgstr ""
+"Etter at du har vært gjennom prosessen med å utvikle den første skalaen ved "
+"hjelp av EFA og CFA, bør du ha kommet til et stadium der skalaen holder seg "
+"ganske godt ved hjelp av CFA med ulike utvalg. På dette stadiet kan det også "
+"være interessant å se hvor godt faktorene måles ved hjelp av en skala som "
+"kombinerer de observerte variablene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:12
 msgid ""
@@ -1667,6 +2361,14 @@ msgid ""
 "that tells us how internally consistent these items are in measuring the "
 "underlying construct."
 msgstr ""
+"I psykometri bruker vi reliabilitetsanalyse for å gi informasjon om hvor "
+"konsistent en skala måler et psykologisk konstrukt (se avsnitt :doc:`../Ch02/"
+"Ch02_StudyDesign_3`). Det vi er opptatt av her, er **intern konsistens**, "
+"som refererer til konsistensen på tvers av alle de individuelle elementene "
+"som utgjør et målenivå. Hvis vi har V1, V2, V3, V4 og V5 som observerte item-"
+"variabler, kan vi beregne en statistikk som forteller oss hvor internt "
+"konsistente disse itemene er når det gjelder å måle det underliggende "
+"konstruktet."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:21
 msgid ""
@@ -1684,6 +2386,19 @@ msgid ""
 "of error variance in the scale is 0.20. In other words, a scale with an α of "
 "0.80 includes approximately 20\\% error."
 msgstr ""
+"En populær statistikk som brukes til å kontrollere den interne konsistensen "
+"i en skala, er **Cronbachs α** (alfa; :ref:`Cronbach, 1951 "
+"<Cronbach_1951>`). Cronbachs α er et mål på ekvivalens (hvorvidt ulike sett "
+"med skalaelementer vil gi samme måleresultater). Ekvivalens testes ved å "
+"dele skalaelementene i to grupper (en «split-half») og se om analysen av de "
+"to delene gir sammenlignbare resultater. Det er selvsagt mange måter å dele "
+"et sett med ledd på, men hvis alle mulige delinger er gjort, er det mulig å "
+"produsere en statistikk som gjenspeiler det generelle mønsteret i "
+"koeffisientene for delte halvdeler. Cronbachs α er en slik statistikk: en "
+"funksjon av alle split-half-koeffisientene for en skala. Hvis et sett med "
+"elementer som måler et konstrukt (f.eks. en skala for ekstraversjon), har en "
+"α på 0,80, er andelen feilvarians i skalaen 0,20. Med andre ord inneholder "
+"en skala med en α på 0,80 omtrent 20\\% feil."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:35
 msgid ""
@@ -1697,6 +2412,15 @@ msgid ""
 "% comes from more than one underlying construct. That’s why EFA and CFA are "
 "useful to do first."
 msgstr ""
+"MEN, (og det er et STORT «MEN»), Cronbachs α er ikke et mål på "
+"endimensjonalitet (dvs. en indikator på at en skala måler én enkelt faktor "
+"eller ett enkelt konstrukt snarere enn flere relaterte konstrukter). Skalaer "
+"som er flerdimensjonale, vil føre til at α blir underestimert hvis de ikke "
+"vurderes separat for hver dimensjon, men høye verdier for α er ikke "
+"nødvendigvis en indikator på endimensjonalitet. En α på 0,80 betyr altså "
+"ikke at 80\\% av et enkelt underliggende konstrukt er tatt hensyn til. Det "
+"kan være at de 80\\% kommer fra mer enn ett underliggende konstrukt. Det er "
+"derfor EFA og CFA er nyttige å gjøre først."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:45
 msgid ""
@@ -1711,6 +2435,16 @@ msgid ""
 "initial check on scale performance when you administer a scale with a "
 "different sample, from a different setting or population, for example."
 msgstr ""
+"Et annet trekk ved α er at den har en tendens til å være utvalgsspesifikk: "
+"Den er ikke en egenskap ved skalaen, men snarere en egenskap ved utvalget "
+"som skalaen har blitt brukt i. Et skjevt, ikke-representativt eller lite "
+"utvalg kan gi en helt annen α-koeffisient enn et stort, representativt "
+"utvalg. α kan til og med variere fra stort utvalg til stort utvalg. Til "
+"tross for disse begrensningene har Cronbachs α likevel vært populær i "
+"psykologien for å estimere intern konsistensreliabilitet. Den er ganske "
+"enkel å beregne, forstå og tolke, og derfor kan den være en nyttig "
+"innledende sjekk av skalaens ytelse når du for eksempel administrerer en "
+"skala med et annet utvalg, fra en annen setting eller populasjon."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:56
 msgid ""
@@ -1721,6 +2455,12 @@ msgid ""
 "statistic. If these assumptions are not violated then α and ω will be "
 "similar, but if they are then ω is to be preferred."
 msgstr ""
+"Et alternativ er **McDonalds ω** (omega), og jamovi gir også denne "
+"statistikken. Mens α gjør følgende forutsetninger: (a) ingen "
+"residualkorrelasjoner, (b) elementene har identiske ladninger, og (c) "
+"skalaen er endimensjonal, gjør ikke ω det, og er derfor en mer robust "
+"reliabilitetsstatistikk. Hvis disse forutsetningene ikke er brutt, vil α og "
+"ω være like, men hvis de er det, er ω å foretrekke."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:63
 msgid ""
@@ -1732,6 +2472,13 @@ msgid ""
 "or ω of 0.70 is associated with 30\\% error variance in a scale, and an α or "
 "ω of 0.80 is associated with 20\\%."
 msgstr ""
+"Noen ganger oppgis det en terskelverdi for α eller ω, som antyder en «god "
+"nok» verdi. Dette kan for eksempel være α på 0,70 eller 0,80, som "
+"representerer henholdsvis «akseptabel» og «god» reliabilitet. Dette avhenger "
+"imidlertid av hva skalaen er ment å måle, så slike terskelverdier bør brukes "
+"med forsiktighet. Det kan være bedre å si at en α eller ω på 0,70 er "
+"forbundet med 30\\% feilvarians i en skala, og at en α eller ω på 0,80 er "
+"forbundet med 20\\%."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:71
 msgid ""
@@ -1740,10 +2487,14 @@ msgid ""
 "might be too much overly-redundant specificity in the measurement, with a "
 "risk that the construct being measured is perhaps overly narrow."
 msgstr ""
+"Kan α være for høy? Sannsynligvis: Hvis du får en α-koeffisient på over "
+"0,95, indikerer dette høy interkorrelasjon mellom elementene og at det kan "
+"være for mye redundant spesifisitet i målingen, med risiko for at "
+"konstruktet som måles, kanskje er for snevert."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:77
 msgid "Reliability analysis in jamovi"
-msgstr ""
+msgstr "Reliabilitetsanalyse i jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:79
 msgid ""
@@ -1752,6 +2503,10 @@ msgid ""
 "personality item variables are coded as continuous |continuous|. To perform "
 "reliability analysis in jamovi:"
 msgstr ""
+"Vi har et tredje utvalg av personlighetsdata som vi kan bruke til å "
+"gjennomføre en reliabilitetsanalyse: i datasettet |bfi_sample3|_. Kontroller "
+"nok en gang at de 25 personlighetsvariablene er kodet som kontinuerlige |"
+"continuous|. Slik utfører du reliabilitetsanalyse i jamovi:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:84
 msgid ""
@@ -1759,10 +2514,13 @@ msgid ""
 "jamovi to open the options panel where you can determine the settings for "
 "the reliability analysis (:numref:`fig-rel1`)."
 msgstr ""
+"Velg ``Factor`` → ``Reliability Analysis`` under fanen ``Analyses`` i jamovi "
+"for å åpne analysepanelet der du kan bestemme innstillingene for "
+"reliabilitetsanalysen (:numref:`fig-rel1`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:88
 msgid "Select the 5 ``A``-variables and transfer them into the ``Items`` box."
-msgstr ""
+msgstr "Velg de 5 ``A``-variablene og overfør dem til ``Items``-boksen."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:90
 msgid ""
@@ -1770,20 +2528,25 @@ msgid ""
 "``Normal Scaled Items`` box and move it across to the ``Reverse Scaled "
 "Items`` variable box."
 msgstr ""
+"Under alternativet ``Reverse Scaled Items`` velger du variabelen ``A1`` i "
+"boksen ``Normal Scaled Items`` og flytter den over til variabelboksen "
+"``Reverse Scaled Items``."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:94
 msgid "Check other appropriate options, as in :numref:`fig-rel1`."
-msgstr ""
+msgstr "Sjekk andre passende alternativer, som i :numref:`fig-rel1`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:102
 msgid "Settings for conducting a Reliability Analysis"
-msgstr ""
+msgstr "Innstillinger for gjennomføring av en reliabilitetsanalyse"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:102
 msgid ""
 "Options panel with the settings for conducting a Reliability Analysis in "
 "jamovi"
 msgstr ""
+"Analysepanel med innstillinger for å gjennomføre en reliabilitetsanalyse i "
+"jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
 msgid ""
@@ -1793,16 +2556,23 @@ msgid ""
 "30\\% of the Agreeableness scale score is error variance. McDonald’s ω is "
 "also given, and this is 0.74, not much different from α."
 msgstr ""
+"Når du er ferdig, kan du se på jamovi-resultatvinduet. Du bør se noe sånt "
+"som :numref:`fig-rel2`. Dette forteller oss at Cronbachs α-koeffisient for "
+"Agreeableness-skalaen er 0,72. Dette betyr at i underkant av 30\\% av skåren "
+"på Agreeableness-skalaen er feilvarians. McDonalds ω er også oppgitt, og "
+"denne er 0,74, ikke mye forskjellig fra α."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
 msgid "Results of the Reliability Analysis for Agreeableness"
-msgstr ""
+msgstr "Resultater av reliabilitetsanalysen for Agreeableness"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
 msgid ""
 "Tables with the results of the Reliability Analysis for the Agreeableness "
 "factor from the |bfi_sample3|_ data set"
 msgstr ""
+"Tabeller med resultatene av reliabilitetsanalysen for faktoren Agreeableness "
+"fra datasettet |bfi_sample3|_"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:124
 msgid ""
@@ -1810,6 +2580,10 @@ msgid ""
 "from the scale. For example, α would increase to 0.72 and ω to 0.74 if we "
 "dropped item A1. This isn’t a big increase, so probably not worth doing."
 msgstr ""
+"Vi kan også sjekke hvordan α eller ω kan forbedres hvis et bestemt element "
+"fjernes fra skalaen. For eksempel vil α øke til 0,72 og ω til 0,74 hvis vi "
+"fjerner element A1. Dette er ikke en stor økning, så det er sannsynligvis "
+"ikke verdt å gjøre det."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:128
 msgid ""
@@ -1820,10 +2594,16 @@ msgid ""
 "indicates that Openness is substantially less consistent as a reliable "
 "measure of a personality attribute than the other personality scales."
 msgstr ""
+"Prosessen med å beregne og kontrollere skalastatistikken (α og ω) er den "
+"samme for alle de andre skalaene, og de hadde alle lignende "
+"reliabilitetsestimater bortsett fra åpenhet (*openness*; α = 0,60, ω = "
+"0,62). For Åpenhet er feilvariansen i skalaskåren på rundt 40\\%, noe som er "
+"høyt og indikerer at åpenhet er vesentlig mindre konsistent som et reliabel "
+"mål på en personlighetsegenskap enn de andre personlighetsskalaene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:4
 msgid "Summary"
-msgstr ""
+msgstr "Sammendrag"
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:6
 msgid ""
@@ -1831,6 +2611,9 @@ msgid ""
 "and demonstrated statistical analyses that assess the pattern of "
 "relationships in a data set. Specifically, we have covered:"
 msgstr ""
+"I dette kapittelet om faktoranalyse og beslektede teknikker har vi "
+"introdusert og demonstrert statistiske analyser som vurderer mønsteret av "
+"sammenhenger i et datasett. Mer spesifikt har vi tatt for oss:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:10
 msgid ""
@@ -1841,6 +2624,13 @@ msgid ""
 "reduction, i.e. identifying observed variables than can be combined into new "
 "factor variables for subsequent analysis."
 msgstr ""
+":doc:`Ch15_FactorAnalysis_1` (EFA). EFA er en statistisk teknikk for å "
+"identifisere underliggende latente faktorer i et datasett. Hver observerte "
+"variabel konseptualiseres som om den til en viss grad representerer den "
+"latente faktoren, noe som indikeres av en faktorladning. Forskere bruker "
+"også EFA som en måte å redusere datamengden på, det vil si å identifisere "
+"observerte variabler som kan kombineres til nye faktorvariabler for senere "
+"analyse."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:17
 msgid ""
@@ -1848,6 +2638,9 @@ msgid ""
 "strictly speaking, does not identify underlying latent factors. Instead, PCA "
 "simply produces a linear combination of observed variables."
 msgstr ""
+":doc:`Ch15_FactorAnalysis_2` (PCA) er en datareduksjonsteknikk som strengt "
+"tatt ikke identifiserer underliggende latente faktorer. I stedet produserer "
+"PCA ganske enkelt en lineær kombinasjon av observerte variabler."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:21
 msgid ""
@@ -1856,9 +2649,15 @@ msgid ""
 "other. You then test your model against the observed data and assess how "
 "good a fit the model is to the data."
 msgstr ""
+":doc:`Ch15_FaktorAnalyse_3` (CFA). I motsetning til EFA starter du med CFA "
+"med en idé - en modell - om hvordan variablene i dataene dine er relatert "
+"til hverandre. Deretter tester du modellen mot de observerte dataene og "
+"vurderer hvor godt modellen passer til dataene."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:26
 msgid ""
 ":doc:`Ch15_FactorAnalysis_4`. This form of reliability analysis tests how "
 "consistently a scale measures a measurement (psychological) construct."
 msgstr ""
+":doc:`Ch15_FactorAnalysis_4`. Denne formen for reliabilitetsanalyse tester "
+"hvor konsistent en skala måler en (psykologisk) konstruksjon."
