@@ -1,32 +1,36 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-08-04 21:47+0200\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: \n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
+"X-Generator: Poedit 3.5\n"
 
 #: ../../Ch06/Ch06_DataHandling.rst:4
 msgid "Pragmatic matters"
-msgstr ""
+msgstr "Pragmatiske spørsmål"
 
 #: ../../Ch06/Ch06_DataHandling.rst:20
 msgid ""
-"*The garden of life never seems to confine itself* *to the plots "
-"philosophers have laid out for its convenience.* *Maybe a few more tractors "
-"would do the trick.*"
+"*The garden of life never seems to confine itself to the plots philosophers "
+"have laid out for its convenience. Maybe a few more tractors would do the "
+"trick.*"
 msgstr ""
+"*Livets hage ser aldri ut til å begrense seg til de parsellene filosofene "
+"har anlagt for dens bekvemmelighet. Kanskje noen traktorer ville gjøre susen."
+"*"
 
 #: ../../Ch06/Ch06_DataHandling.rst:24
 msgid "Roger Zelazny (Home is the Hangman, 1975)"
-msgstr ""
+msgstr "Roger Zelazny (Home is the Hangman, 1975)"
 
 #: ../../Ch06/Ch06_DataHandling.rst:27
 msgid ""
@@ -47,6 +51,22 @@ msgid ""
 "essentially a collection of techniques and doesn’t tell a single coherent "
 "story, it may be useful to start with a list of topics:"
 msgstr ""
+"Dette er et litt merkelig kapittel, selv etter mine standarder. Målet mitt i "
+"dette kapittelet er å snakke litt mer ærlig om realitetene ved å jobbe med "
+"data enn du vil se noe annet sted i boken. Problemet med virkelige datasett "
+"er at de er *knotete*. Svært ofte har ikke datafilen du starter med, "
+"variablene lagret i riktig format for den analysen du ønsker å gjøre. Noen "
+"ganger kan det være mange manglende verdier i datasettet. Noen ganger ønsker "
+"du bare å analysere en delmengde av dataene. Og så videre. Med andre ord er "
+"det mye **datamanipulering** du må gjøre bare for å få variablene i "
+"datasettet ditt inn i det formatet du trenger. Formålet med dette kapittelet "
+"er å gi en grunnleggende innføring i disse pragmatiske temaene. Selv om "
+"kapittelet er motivert av de praktiske problemene som oppstår når man "
+"manipulerer virkelige data, vil jeg holde meg til den praksisen jeg har "
+"brukt gjennom det meste av boken, og ta utgangspunkt i svært små, fiktive "
+"datasett som illustrerer det underliggende problemet. Fordi dette kapittelet "
+"i hovedsak er en samling teknikker og ikke forteller én sammenhengende "
+"historie, kan det være nyttig å starte med en liste over emner:"
 
 #: ../../Ch06/Ch06_DataHandling.rst:45
 msgid ":doc:`Ch06_DataHandling_1`"
@@ -81,10 +101,20 @@ msgid ""
 "probably find is that later on you’ll need to flick back to this chapter in "
 "order to understand some of the concepts that I refer to here."
 msgstr ""
+"Som du kan se, er listen over emner som kapitlet dekker ganske bred, og det "
+"er *mye* innhold der. Selv om dette er et av de lengste og vanskeligste "
+"kapitlene i boken, skraper jeg egentlig bare i overflaten av flere ganske "
+"forskjellige og viktige temaer. Mitt råd er som vanlig å lese gjennom "
+"kapittelet én gang og prøve å få med deg så mye som mulig av det. Ikke tenk "
+"for mye på om du ikke får med deg alt på en gang, særlig ikke de siste "
+"avsnittene. Resten av boken er bare i liten grad avhengig av dette "
+"kapittelet, så du kan klare deg med bare å forstå det grunnleggende. Men "
+"senere vil du sannsynligvis oppdage at du må bla tilbake til dette "
+"kapittelet for å forstå noen av de begrepene jeg refererer til her."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:4
 msgid "Tabulating and cross-tabulating data"
-msgstr ""
+msgstr "Tabulering og krysstabulering av data"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:6
 msgid ""
@@ -92,10 +122,13 @@ msgid ""
 "tables, or cross-tabulation of one variable against another. These tasks can "
 "be achieved in jamovi and I’ll show you how in this section."
 msgstr ""
+"En svært vanlig oppgave når man analyserer data, er å lage frekvenstabeller "
+"eller krysstabeller av en variabel mot en annen. Disse oppgavene kan utføres "
+"i jamovi, og jeg skal vise deg hvordan du gjør det i denne delen."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:11
 msgid "Creating tables for single variables"
-msgstr ""
+msgstr "Opprette tabeller for enkeltvariabler"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:13
 msgid ""
@@ -106,14 +139,20 @@ msgid ""
 "Open up this data set in jamovi and take a look at the data in the ``Data`` "
 "view. You will see that the data looks something like this:"
 msgstr ""
+"La oss begynne med et enkelt eksempel. Som småbarnsforelder bruker jeg "
+"naturlig nok mye tid på å se på TV-serier som *In the Night Garden*. I "
+"datasettet |nightgarden|_ har jeg transkribert en kort del av dialogen. "
+"Filen inneholder to interessante variabler, ``speaker`` og ``utterance``. "
+"Åpne dette datasettet i jamovi og ta en titt på dataene i ``Data``-"
+"visningen. Du vil se at dataene ser omtrent slik ut:"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:20
 msgid "``speaker`` variable"
-msgstr ""
+msgstr "Variabelen ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:26
 msgid "``utterance`` variable"
-msgstr ""
+msgstr "Variabelen ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:33
 msgid ""
@@ -123,10 +162,15 @@ msgid ""
 "show. The jamovi ``Descriptives`` screen has a check box called ``Frequency "
 "tables`` which does just this, see :numref:`fig-freqtable`."
 msgstr ""
+"Når man ser på dette, blir det veldig tydelig hva som skjedde med forstanden "
+"min! Med disse dataene som datagrunnlag, kan det hende jeg får behov for å "
+"konstruere en frekvenstelling av antall ord hver karakter sier i løpet av "
+"serien. Skjermbildet jamovi ``Descriptives`` har en avmerkingsboks som heter "
+"``Frequency tables`` som gjør nettopp dette, se :numref:`fig-freqtable`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
-msgstr ""
+msgstr "Frekvenstabell for variabelen ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:49
 msgid ""
@@ -136,6 +180,11 @@ msgid ""
 "column it tells you how many times that speaker appears in the data. In "
 "other words, it’s a frequency table."
 msgstr ""
+"Utdataene her forteller oss på første linje at det vi ser på, er en tabell "
+"over variabelen ``speaker``. I kolonnen ``Levels`` listes alle de ulike "
+"talerne som finnes i dataene, og i kolonnen ``Counts`` står det hvor mange "
+"ganger den aktuelle taleren forekommer i dataene. Det er med andre ord en "
+"frekvenstabell."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:55
 msgid ""
@@ -149,28 +198,43 @@ msgid ""
 "into the ``Columns`` box. You then should have a contingency table like the "
 "one shown in :numref:`fig-contingencytable`."
 msgstr ""
+"I jamovi vil avkrysningsboksen ``Frequency tables`` bare produsere en tabell "
+"for enkeltvariabler. For en tabell med to variabler, for eksempel en "
+"kombinasjon av ``speaker`` og ``utterance``, slik at vi kan se hvor mange "
+"ganger hver taler gjorde en bestemt ytring, trenger vi en krysstabell "
+"(*contingency table*). I jamovi kan du gjøre dette ved å velge analysen "
+"``Frequencies`` → ``Contingency Tables`` → ``Independent Samples`` og flytte "
+"variabelen ``speaker`` til ``Rows``-variableboksen, og variabelen "
+"``utterance`` til ``Columns``-variableboksen. Du bør da ha en krysstabell "
+"som den som vises i :numref:`fig-contingencytable`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for ``speaker`` and ``utterance``"
-msgstr ""
+msgstr "Krysstabell for ``speaker`` og ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for the ``speaker`` and ``utterance`` variables"
-msgstr ""
+msgstr "Krysstabell for variablene ``speaker`` og ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
-"Don’t worry about the “χ² Tests” table that is produced. We are going to "
+"Don’t worry about the ``χ² Tests`` table that is produced. We are going to "
 "cover this later on in chapter :doc:`../Ch10/Ch10_ChiSquare`. When "
 "interpreting the contingency table remember that these are counts, so the "
 "fact that the first row and second column of numbers corresponds to a value "
 "of 2 indicates that ``makka-pakka`` (row 1) says ``onk`` (column 2) twice in "
 "this data set."
 msgstr ""
+"Ikke bry deg om tabellen ``χ² Tests`` som blir produsert. Vi kommer til å "
+"dekke dette senere i kapittel :doc:`../Ch10/Ch10_ChiSquare`. Når du tolker "
+"krysstabellen, må du huske at dette er tellinger, så det faktum at den "
+"første raden og den andre kolonnen med tall tilsvarer verdien 2, betyr at "
+"``makka-pakka`` (rad 1) sier ``onk`` (kolonne 2) to ganger i dette "
+"datasettet."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:82
 msgid "Adding percentages to a contingency table"
-msgstr ""
+msgstr "Legge til prosentandeler i en krysstabell"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:84
 msgid ""
@@ -183,17 +247,27 @@ msgid ""
 "``Row`` check box and the Contingency Table in the output window will change "
 "to the one in :numref:`fig-contingencyrow`."
 msgstr ""
+"Krysstabellen som vises i :numref:`fig-contingencytable`, viser en tabell "
+"med råfrekvenser. Det vil si en opptelling av det totale antallet tilfeller "
+"for ulike kombinasjoner av nivåer av de angitte variablene. Ofte ønsker man "
+"imidlertid å organisere dataene i form av prosentandeler i tillegg til "
+"antall. Du finner avmerkingsboksene for ulike prosentandeler under "
+"alternativet ``Cells`` i analysevinduet for ``Contingency Tables``. Klikk "
+"først på avmerkingsboksen ``Row``, så endres krysstabellen (``Contingency "
+"Table``) i utgavevinduet til den du finner i :numref:`fig-contingencyrow`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
-msgstr ""
+msgstr "Krysstabell med radprosenter for ``speaker`` og ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with row "
 "percentages"
 msgstr ""
+"Krysstabell for variablene ``speaker`` og ``utterance``, med prosentandeler "
+"for hver rad"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:104
 msgid ""
@@ -207,21 +281,30 @@ msgid ""
 "utterance ``ee`` is made (in this data set), 100\\% of the time it’s a "
 "Tombliboo saying it."
 msgstr ""
+"Det vi ser på her, er prosentandelen av ytringer fra hvert tegn. Med andre "
+"ord, 50\\% av ``makka-pakka`` sine ytringer er ``pip``, og de resterende 50\\"
+"% er ``onk``. La oss sammenligne dette med tabellen vi får når vi beregner "
+"kolonneprosenter (fjern merket for ``Row`` og kryss av for ``Column`` i "
+"``Cells``-alternativvinduet), se :numref:`fig-contingencycol`. I denne "
+"versjonen er det vi ser prosentandelen tegn som er knyttet til hver ytring. "
+"For eksempel, når ytringen ``ee`` blir sagt (i dette datasettet), er det i "
+"100\\% av tilfellene en Tombliboo som sier det."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
-msgstr ""
+msgstr "Krysstabell med kolonneprosenter for ``speaker`` og ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with "
 "column percentages"
 msgstr ""
+"Krysstabell for variablene ``speaker`` og ``utterance``, med kolonneprosenter"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:4
 msgid "Logical expressions in jamovi"
-msgstr ""
+msgstr "Logiske uttrykk i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:6
 msgid ""
@@ -232,10 +315,15 @@ msgid ""
 "``FALSE``. Despite the simplicity, logical values are very useful things. "
 "Let’s see how they work."
 msgstr ""
+"Et nøkkelbegrep som mange datatransformasjoner i jamovi baserer seg på, er "
+"ideen om en **logisk verdi**. En logisk verdi er en påstand om hvorvidt noe "
+"er sant eller usant. Dette er implementert i jamovi på en ganske enkel måte. "
+"Det finnes to logiske verdier, nemlig ``TRUE`` og ``FALSE``. Til tross for "
+"enkelheten er logiske verdier svært nyttige. La oss se hvordan de fungerer."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:14
 msgid "Assessing mathematical truths"
-msgstr ""
+msgstr "Vurdering av matematiske sannheter"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:16
 msgid ""
@@ -251,6 +339,17 @@ msgid ""
 "regards basic mathematics. If I ask it to calculate ``2 + 2``,\\ [#]_ it "
 "always gives the same answer, and it’s not bloody 5!"
 msgstr ""
+"I George Orwells klassiske bok *1984* var et av slagordene som ble brukt av "
+"det totalitære partiet «to pluss to er fem». Tanken er at det politiske "
+"herredømmet over menneskets frihet blir fullstendig når det er mulig å "
+"undergrave selv de mest grunnleggende sannheter. Det er en skremmende tanke, "
+"særlig når hovedpersonen Winston Smith til slutt bryter sammen under tortur "
+"og går med på forslaget. «Mennesket er uendelig formbart», står det i boken. "
+"Jeg er ganske sikker på at dette ikke gjelder for mennesker\\ [#]_, og det "
+"gjelder definitivt ikke for jamovi. jamovi er ikke uendelig formbar, den har "
+"ganske faste meninger om hva som er sant og ikke sant, i hvert fall når det "
+"gjelder grunnleggende matematikk. Hvis jeg ber den regne ut ``2 + 2``,\\ "
+"[#]_ gir den alltid det samme svaret, og det er faen ikke 5!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:29
 msgid ""
@@ -259,6 +358,10 @@ msgid ""
 "jamovi to make an explicit judgement, I can use a command like this: ``2 + 2 "
 "== 4``"
 msgstr ""
+"Så langt gjør jamovi selvfølgelig bare utregningene. Jeg har ikke bedt den "
+"om eksplisitt å hevde at ``2 + 2 = 4`` er et sant utsagn. Hvis jeg vil at "
+"jamovi skal felle en eksplisitt dom, kan jeg bruke en kommando som denne: "
+"``2 + 2 == 4``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:34
 msgid ""
@@ -267,6 +370,10 @@ msgid ""
 "what jamovi thinks of the Party slogan, so type this into the compute new "
 "variable ``Formula`` box:"
 msgstr ""
+"Det jeg har gjort her er å bruke **likhetsoperatoren**, ``==``, for å tvinge "
+"jamovi til å gjøre en «``TRUE`` eller ``FALSE``»-vurdering.\\ [#]_ Ok, la "
+"oss se hva jamovi synes om partiets slagord, så skriv dette inn i boksen for "
+"beregning av ny variabel ``Formula``:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:43
 msgid ""
@@ -282,10 +389,21 @@ msgid ""
 "regardless of whether you use the correct **equality operator**, ``==``, or "
 "the equals sign ``=``."
 msgstr ""
+"Og hva får du ut av det? Du får et helt sett med ``FALSE``-verdier i "
+"regnearkkolonnen for den nyberegnede variabelen din. Booyah! Frihet og "
+"ponnier til alle! Eller noe i den stilen. Uansett, det var verdt å se på hva "
+"som skjer hvis jeg prøver å *tvinge* jamovi til å tro at to pluss to er fem "
+"ved å komme med en setning som ``2 + 2 = 5``. Jeg vet at hvis jeg gjør dette "
+"i et annet program, for eksempel ``R``, så kommer det opp en feilmelding. "
+"Men vent, hvis du gjør dette i jamovi, får du et helt sett med ``FALSE``-"
+"verdier. Så hva er det som skjer? Vel, det ser ut til at jamovi er ganske "
+"smart og skjønner at du tester om det er ``TRUE`` eller ``FALSE`` at ``2 + 2 "
+"= 5``, uavhengig av om du bruker den korrekte **likhetsoperatoren**, ``==``, "
+"eller likhetstegnet ``=``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:56
 msgid "Logical operations"
-msgstr ""
+msgstr "Logiske operasjoner"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:58
 msgid ""
@@ -294,10 +412,14 @@ msgid ""
 "we can combine logical operations with other operations and functions in a "
 "more complicated way, like this:"
 msgstr ""
+"Nå har vi sett logiske operasjoner i arbeid. Men så langt har vi bare sett "
+"det enkleste eksemplet. Du vil sikkert ikke bli overrasket over å oppdage at "
+"vi kan kombinere logiske operasjoner med andre operasjoner og funksjoner på "
+"en mer komplisert måte, som dette:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:67
 msgid "or this"
-msgstr ""
+msgstr "eller dette"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:73
 msgid ""
@@ -309,6 +431,13 @@ msgid ""
 "an answer of ``TRUE``, but if the two numbers are equal, or if the one on "
 "the right is larger, then jamovi returns an answer of ``FALSE``."
 msgstr ""
+"Ikke bare det, men som :numref:`tab-logicals` illustrerer, finnes det flere "
+"andre logiske operatorer som du kan bruke, og som tilsvarer noen "
+"grunnleggende matematiske begreper. Forhåpentligvis er alle disse ganske "
+"selvforklarende. For eksempel sjekker **mindre enn**-operatoren ``<`` om "
+"tallet til venstre er mindre enn tallet til høyre. Hvis det er mindre, "
+"returnerer jamovi svaret ``TRUE``, men hvis de to tallene er like, eller "
+"hvis tallet til høyre er større, returnerer jamovi svaret ``FALSE``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:81
 msgid ""
@@ -316,106 +445,109 @@ msgid ""
 "relational operators”, but quite frankly I don’t want to. It’s my book so no-"
 "one can make me."
 msgstr ""
+"Noen logiske operatorer. Egentlig burde jeg kalle disse «binære relasjonelle "
+"operatorer», men det har jeg ærlig talt ikke lyst til. Det er min bok, så "
+"ingen kan tvinge meg."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "operation"
-msgstr ""
+msgstr "drift"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "operator"
-msgstr ""
+msgstr "operatør"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "example input"
-msgstr ""
+msgstr "eksempel på input"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "answer"
-msgstr ""
+msgstr "svar"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "less than"
-msgstr ""
+msgstr "mindre enn"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "``<``"
-msgstr ""
+msgstr "``<``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "``2 < 3``"
-msgstr ""
+msgstr "``2 < 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89 ../../Ch06/Ch06_DataHandling_2.rst:91
 #: ../../Ch06/Ch06_DataHandling_2.rst:95 ../../Ch06/Ch06_DataHandling_2.rst:99
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``TRUE``"
-msgstr ""
+msgstr "``TRUE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "less than or equal to"
-msgstr ""
+msgstr "mindre enn eller lik"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "``<=``"
-msgstr ""
+msgstr "``<=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "``2 <= 2``"
-msgstr ""
+msgstr "``2 <= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "greater than"
-msgstr ""
+msgstr "større enn"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "``>``"
-msgstr ""
+msgstr "``>``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "``2 > 3``"
-msgstr ""
+msgstr "``2 > 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93 ../../Ch06/Ch06_DataHandling_2.rst:97
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``FALSE``"
-msgstr ""
+msgstr "``FALSE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "greater than or equal to"
-msgstr ""
+msgstr "større enn eller lik"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "``>=``"
-msgstr ""
+msgstr "``>=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "``2 >= 2``"
-msgstr ""
+msgstr "``2 >= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "equal to"
-msgstr ""
+msgstr "lik"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "``==``"
-msgstr ""
+msgstr "``==``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "``2 == 3``"
-msgstr ""
+msgstr "``2 == 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "not equal to"
-msgstr ""
+msgstr "ikke lik"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "``!=``"
-msgstr ""
+msgstr "``!=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "``2 != 3``"
-msgstr ""
+msgstr "``2 != 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:103
 msgid ""
@@ -425,6 +557,11 @@ msgid ""
 "point I hope it’s pretty obvious what the **greater than** operator ``>`` "
 "and the **greater than or equal to** operator ``>=`` do!"
 msgstr ""
+"Operatoren **mindre enn eller lik** ``<=`` vil derimot gjøre akkurat det den "
+"sier. Den returnerer verdien ``TRUE`` hvis tallet på venstre side er mindre "
+"enn eller lik tallet på høyre side. Nå håper jeg det er ganske åpenbart hva "
+"**større enn**-operatoren ``>`` og **større enn eller lik**-operatoren "
+"``>=`` gjør!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:109
 msgid ""
@@ -432,28 +569,41 @@ msgid ""
 "=`` which, as with all the others, does what it says it does. It returns a "
 "value of ``TRUE`` when things on either side are not identical to each "
 "other. Therefore, since ``2 + 2`` isn’t equal to *5* we would get ``TRUE`` "
-"as the value for our newly computed variable. Try it and see:"
+"as the value for our newly computed variable. Try it and see.:"
 msgstr ""
+"Den neste på listen over logiske operatorer er **ikke lik**-operatoren ``!"
+"=`` som, i likhet med alle de andre, gjør det den sier at den gjør. Den "
+"returnerer verdien ``TRUE`` når ting på hver side ikke er identiske med "
+"hverandre. Siden ``2 + 2`` ikke er lik *5*, vil vi derfor få ``TRUE`` som "
+"verdi for den nyberegnede variabelen vår. Prøv det og se:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:119
 msgid ""
 "We’re not quite done yet. There are three more logical operations that are "
 "worth knowing about, listed in :numref:`tab-logicals2`. These are the "
-"**not** operator ``!``, the ``and``-operator and, and the ``or``-operator "
+"**not** operator ``!``, the **and**-operator ``and``, **or**-operator "
 "``or``. Like the other logical operators, their behaviour is more or less "
 "exactly what you’d expect given their names. For instance, if I ask you to "
 "assess the claim that “either ``2 + 2 = 4`` *or* ``2 + 2 = 5``” you’d say "
 "that it’s true. Since it’s an “either-or” statement, all we need is for one "
 "of the two parts to be true. That’s what the ``or`` operator does:\\ [#]_"
 msgstr ""
+"Vi er ikke helt ferdige ennå. Det er tre logiske operasjoner til som det er "
+"verdt å kjenne til, listet opp i :numref:`tab-logicals2`. Disse er **ikke**-"
+"operatoren ``!``, **og**-operatoren ``and``, og **eller**-operatoren ``or``. "
+"I likhet med de andre logiske operatorene oppfører de seg mer eller mindre "
+"nøyaktig slik du forventer ut fra navnene deres. Hvis jeg for eksempel ber "
+"deg vurdere påstanden «enten ``2 + 2 = 4`` *eller* ``2 + 2 = 5``», vil du si "
+"at den er sann. Siden det er en «enten-eller»-påstand, trenger vi bare at en "
+"av de to delene er sann. Det er det ``or``-operatoren gjør:\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:133
 msgid "Some more logical operators."
-msgstr ""
+msgstr "Noen flere logiske operatorer."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "not"
-msgstr ""
+msgstr "ikke"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "``NOT``"
@@ -465,7 +615,7 @@ msgstr "``NOT(1==1)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "or"
-msgstr ""
+msgstr "eller"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``or``"
@@ -477,7 +627,7 @@ msgstr "``(1==1) or (2==3)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "and"
-msgstr ""
+msgstr "og"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``and``"
@@ -493,6 +643,9 @@ msgid ""
 "*and* 2 + 2 = 5” you’d say that it’s false. Since this is an *and* statement "
 "we need both parts to be true. And that’s what the ``and`` operator does:"
 msgstr ""
+"Hvis jeg derimot ber deg vurdere påstanden «både 2 + 2 = 4 *og* 2 + 2 = 5», "
+"vil du si at den er usann. Siden dette er et *og* utsagn, må begge delene "
+"være sanne. Og det er det operatoren ``and`` gjør:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:154
 msgid ""
@@ -502,6 +655,11 @@ msgid ""
 "actually my claim is that “``2 + 2 = 5`` is false”. And I’m right. If we "
 "write this in jamovi we use this:"
 msgstr ""
+"Til slutt har vi *not*-operatoren, som er enkel, men irriterende å beskrive "
+"på engelsk. Hvis jeg ber deg vurdere min påstand om at «det er ikke sant at "
+"``2 + 2 = 5``», så vil du si at påstanden min er sann, fordi påstanden min "
+"egentlig er at «``2 + 2 = 5`` er usann». Og jeg har rett i det. Hvis vi "
+"skriver dette i jamovi bruker vi dette:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:164
 msgid ""
@@ -512,6 +670,12 @@ msgid ""
 "much more black or white world. For jamovi everything is either ``TRUE`` or "
 "``FALSE``. No shades of grey are allowed."
 msgstr ""
+"Med andre ord, siden ``2 + 2 == 5`` er en påstand som er ``FALSE``, må det "
+"være slik at ``NOT(2 + 2 == 5)`` er en påstand som er ``TRUE``. Det vi "
+"egentlig har gjort, er å hevde at «ikke usant» er det samme som «sant». "
+"Dette er selvsagt ikke helt riktig i det virkelige liv. Men jamovi lever i "
+"en mye mer svart-hvitt-verden. For jamovi er alt enten ``TRUE`` eller "
+"``FALSE``. Ingen gråtoner er tillatt."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:171
 msgid ""
@@ -520,10 +684,13 @@ msgid ""
 "operators. We could have just used the “not equals to” operator ``!=`` like "
 "this:"
 msgstr ""
+"I vårt eksempel ``2 + 2 = 5`` trengte vi selvfølgelig ikke å bruke «ikke»-"
+"operatoren ``NOT`` og «er lik»-operatoren ``==`` som to separate operatorer. "
+"Vi kunne bare ha brukt «ikke lik»-operatoren ``!=`` på denne måten:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:181
 msgid "Applying logical operation to text"
-msgstr ""
+msgstr "Bruke logiske operasjoner på tekst"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:183
 msgid ""
@@ -536,6 +703,13 @@ msgid ""
 "talking about that one too, but I won’t give specific commands showing the "
 "use of ``!=``."
 msgstr ""
+"Jeg vil også kort påpeke at du kan bruke disse logiske operatorene på tekst "
+"så vel som på logiske data. Det er bare det at vi må være litt mer nøye med "
+"å forstå hvordan jamovi tolker de ulike operasjonene. I dette avsnittet skal "
+"jeg snakke om hvordan operatoren lik ``==`` brukes på tekst, siden dette er "
+"den viktigste. Operatoren ``!=`` gir selvsagt det stikk motsatte svaret av "
+"``==``, så jeg snakker implisitt om den også, men jeg kommer ikke til å gi "
+"spesifikke kommandoer som viser bruken av ``!=``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:192
 msgid ""
@@ -543,12 +717,17 @@ msgid ""
 "I can ask jamovi if the word ``cat`` is the same as the word ``dog``, like "
 "this:"
 msgstr ""
+"Ok, la oss se hvordan det fungerer. På én måte er det veldig enkelt. Jeg kan "
+"for eksempel spørre jamovi om ordet ``cat`` er det samme som ordet ``dog``, "
+"slik:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:200
 msgid ""
 "That’s pretty obvious, and it’s good to know that even jamovi can figure "
 "that out. Similarly, jamovi does recognise that a ``cat`` is a ``cat``:"
 msgstr ""
+"Det er ganske åpenbart, og det er godt å vite at til og med jamovi kan finne "
+"ut av det. På samme måte skjønner jamovi at en ``cat`` er en ``cat``:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:207
 msgid ""
@@ -557,6 +736,10 @@ msgid ""
 "spacing. If two strings differ in any way whatsoever, jamovi will say that "
 "they’re not equal to each other, as with the following:"
 msgstr ""
+"Igjen, det er akkurat det vi forventer. Det du imidlertid må huske på, er at "
+"jamovi overhodet ikke er tolerant når det gjelder grammatikk og mellomrom. "
+"Hvis to strenger skiller seg fra hverandre på noen som helst måte, vil "
+"jamovi si at de ikke er like, slik som i følgende tilfelle:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:218
 msgid ""
@@ -565,6 +748,10 @@ msgid ""
 "text “strings” comes first, alphabetically speaking. Sort of. Actually, it’s "
 "a bit more complicated than that, but let’s start with a simple example:"
 msgstr ""
+"Du kan også bruke andre logiske operatorer. For eksempel lar jamovi deg også "
+"bruke operatorene ``<`` og ``>`` til å bestemme hvilken av to tekststrenger "
+"som kommer først, alfabetisk sett. På en måte. Egentlig er det litt mer "
+"komplisert enn som så, men la oss starte med et enkelt eksempel:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:228
 msgid ""
@@ -576,6 +763,12 @@ msgid ""
 "What about ``cat`` and ``CAT``? Which of these comes first? Try it and find "
 "out:"
 msgstr ""
+"I jamovi evalueres dette eksempelet til ``TRUE``. Dette er fordi ``cat`` "
+"kommer før ``dog`` i alfabetet, så jamovi vurderer utsagnet til å være sant. "
+"Hvis vi derimot ber jamovi om å vurdere om ``cat`` kommer før ``anteater``, "
+"vil påstanden blir evaluert som ``FALSE``. Så langt, så bra. Men tekstdata "
+"er litt mer komplisert enn ordboken antyder. Hva med ``cat`` og ``CAT``? "
+"Hvilken av disse kommer først? Prøv det og finn ut av det:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:240
 msgid ""
@@ -588,6 +781,14 @@ msgid ""
 "true to say that ``\"anteater\" < \"ZEBRA\"``, as the following extract "
 "illustrates. Try this:"
 msgstr ""
+"Dette evalueres faktisk til ``TRUE``. Med andre ord antar jamovi at store "
+"bokstaver kommer før små. Det er greit nok. Det er det neppe noen som blir "
+"overrasket over. Det som kanskje overrasker deg, er at jamovi antar at "
+"*alle* store bokstaver kommer før *alle* små bokstaver. Det vil si at selv "
+"om ``\"anteater\" < \"zebra\"`` er et sant utsagn, og den tilsvarende store "
+"bokstaven ``\"ANTEATER\" < \"ZEBRA\"`` også er sann, er det *ikke* sant å si "
+"at ``\"anteater\" < \"ZEBRA\"``, som det følgende utdraget illustrerer. Prøv "
+"dette:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:253
 msgid ""
@@ -595,18 +796,25 @@ msgid ""
 "With that in mind, it may help to have a quick look at the various text "
 "characters in the order that jamovi processes them:"
 msgstr ""
+"Dette evalueres til ``FALSE``, og det kan virke litt kontraintuitivt. Med "
+"det i bakhodet kan det hjelpe å ta en rask titt på de ulike teksttegnene i "
+"den rekkefølgen jamovi behandler dem:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:266
 msgid ""
 "I offer up my teenage attempts to be “cool” as evidence that some things "
 "just can’t be done."
 msgstr ""
+"Jeg bruker mine tenåringsforsøk på å være «kul» som bevis på at noen ting "
+"bare ikke kan gjøres."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:270
 msgid ""
 "You can do this in the Compute new variable screen, though just calculating "
 "``2 + 2`` for every cell of a new variable is not very useful!"
 msgstr ""
+"Du kan gjøre dette i skjermbildet Compute new variable, selv om det ikke er "
+"særlig nyttig å bare beregne ``2 + 2`` for hver celle i en ny variabel!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:275
 msgid ""
@@ -619,6 +827,14 @@ msgid ""
 "screw this up a lot. Hmm. I think I see why I wasn’t cool as a teenager. And "
 "why I’m still not cool."
 msgstr ""
+"Merk at dette er en helt annen operator enn likhetsoperatoren ``=``. En "
+"vanlig skrivefeil som folk gjør når de prøver å skrive logiske kommandoer i "
+"jamovi (eller andre språk, siden skillet mellom ``=`` og ``==`` er viktig i "
+"mange data- og statistikkprogrammer), er å skrive ``=`` når du egentlig "
+"mener ``==``. Vær spesielt forsiktig med dette, jeg har programmert i "
+"forskjellige språk siden jeg var tenåring, og jeg *fortsetter* å gjøre mange "
+"feil. Hmm. Jeg tror jeg skjønner hvorfor jeg ikke var kul som tenåring. Og "
+"hvorfor jeg fortsatt ikke er kul."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:286
 msgid ""
@@ -630,10 +846,17 @@ msgid ""
 "5)``, then jamovi just displays either ``0`` or ``1``, depending whether the "
 "logical expression is evaluated as false, or true."
 msgstr ""
+"Her er en finurlighet i jamovi. Når du har enkle logiske uttrykk som de vi "
+"allerede har møtt, f.eks. ``2 + 2 == 5``, så skriver jamovi pent og pyntelig "
+"``FALSE`` (eller ``TRUE``) i den tilsvarende kolonnen i regnearket. Under "
+"panseret lagrer jamovi ``FALSE`` som ``0`` og ``TRUE`` som ``1``. Når vi har "
+"mer komplekse logiske uttrykk, for eksempel ``(2 + 2 == 4) or (2 + 2 == "
+"5)``, viser jamovi bare enten ``0`` eller ``1``, avhengig av om det logiske "
+"uttrykket er evaluert som usant eller sant."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:4
 msgid "Transforming and recoding a variable"
-msgstr ""
+msgstr "Transformering og omkoding av en variabel"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:6
 msgid ""
@@ -646,6 +869,14 @@ msgid ""
 "the absolute value of the original variable). In this section I’ll describe "
 "a few key ways you can do these things in jamovi."
 msgstr ""
+"Det er ikke uvanlig at man i dataanalyser finner ut at en av variablene ikke "
+"er helt ekvivalent med den variabelen man egentlig ønsker. For eksempel er "
+"det ofte praktisk å ta en kontinuerlig variabel |continuous| (f.eks. alder) "
+"og dele den opp i et lite antall kategorier (f.eks. yngre, middels, eldre). "
+"Andre ganger kan det være nødvendig å konvertere en numerisk variabel til en "
+"annen numerisk variabel (f.eks. hvis du ønsker å analysere den absolutte "
+"verdien av den opprinnelige variabelen). I dette avsnittet skal jeg beskrive "
+"noen viktige måter du kan gjøre disse tingene på i jamovi."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:298
 msgid "continuous"
@@ -653,7 +884,7 @@ msgstr "continuous"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:16
 msgid "Creating a transformed variable"
-msgstr ""
+msgstr "Opprette en transformert variabel"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:18
 msgid ""
@@ -667,17 +898,30 @@ msgid ""
 "haven’t talked about statistical tests or their assumptions, I’ll show you "
 "an example based on the first case."
 msgstr ""
+"Det første trikset vi skal diskutere, er ideen om å **transformere** en "
+"variabel. Bokstavelig talt er *alt* du gjør med en variabel en "
+"transformasjon, men i praksis betyr det vanligvis at du bruker en relativt "
+"enkel matematisk funksjon på den opprinnelige variabelen for å lage en ny "
+"variabel som enten (a) gir en bedre beskrivelse av det du faktisk er "
+"interessert i, eller (b) stemmer bedre overens med forutsetningene for de "
+"statistiske testene du ønsker å utføre. Siden jeg på dette stadiet ikke har "
+"snakket om statistiske tester eller forutsetningene for dem, skal jeg vise "
+"deg et eksempel basert på det første tilfellet."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:28
 msgid ""
 "Suppose I’ve run a short study in which I ask 10 people a single question:"
 msgstr ""
+"Anta at jeg har gjennomført en kort studie der jeg stiller ti personer ett "
+"enkelt spørsmål:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:31
 msgid ""
 "On a scale of 1 (strongly disagree) to 7 (strongly agree), to what extent do "
 "you agree with the proposition that “Dinosaurs are awesome”?"
 msgstr ""
+"På en skala fra 1 (helt uenig) til 7 (helt enig), i hvilken grad er du enig "
+"i påstanden om at «Dinosaurer er fantastiske»?"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:35
 msgid ""
@@ -696,10 +940,23 @@ msgid ""
 "``likert.centred`` (go ahead and type that in) and then add the following in "
 "the formula box, like in :numref:`fig-likertraw`: ``likert.raw - 4``"
 msgstr ""
+"La oss nå laste inn og se på dataene. Datasettet |likert|_ inneholder en "
+"enkelt variabel som inneholder rå Likert-skala-svar for disse 10 personene. "
+"Men hvis du tenker deg om, er ikke dette den beste måten å representere "
+"disse svarene på. På grunn av den ganske symmetriske måten vi har satt opp "
+"svarskalaen på, burde midtpunktet på skalaen ha vært kodet som 0 (ingen "
+"mening), og de to endepunktene burde ha vært **+3** (helt enig) og **-3** "
+"(helt uenig). Ved å omkode dataene på denne måten gjenspeiler det i større "
+"grad hvordan vi egentlig tenker om svarene. Omkodingen her er ganske enkel, "
+"vi trekker bare 4 fra råskårene. I jamovi kan du gjøre dette ved å beregne "
+"en ny variabel: Klikk på ``Compute``-knappen i ``Data``-fanen, og du vil se "
+"at en ny variabel har blitt lagt til i regnearket. La oss kalle denne nye "
+"variabelen ``likert.centred`` (skriv det inn), og legg deretter til følgende "
+"i formelboksen, som i :numref:`fig-likertraw`: ``likert.raw - 4``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:56
 msgid "Creating a new computed variable in jamovi"
-msgstr ""
+msgstr "Opprette en ny beregnet variabel i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:60
 msgid ""
@@ -718,14 +975,29 @@ msgid ""
 "is populated with ``ABS(likert.centred)`` and a new variable has been "
 "created in the spreadsheet view, as in :numref:`fig-opinionstrength`:"
 msgstr ""
+"En grunn til at det kan være nyttig å ha dataene i dette formatet, er at det "
+"finnes mange situasjoner der man kanskje foretrekker å analysere *styrken* i "
+"oppfatningen separat fra *retningen* i oppfatningen. Vi kan gjøre to ulike "
+"transformasjoner på denne ``likert.centred``-variabelen for å skille mellom "
+"disse to ulike konseptene. For det første, for å beregne en ``opinion."
+"strength``-variabel, vil vi ta absoluttverdien av de sentrerte dataene (ved "
+"hjelp av ``ABS``-funksjonen).\\ [#]_ I jamovi oppretter du en ny variabel "
+"ved hjelp av ``Compute``-knappen. Gi variabelen navnet ``opinion.strength``, "
+"og klikk denne gangen på *f*\\ :sub:`x`-knappen ved siden av ``Formula``-"
+"boksen. Dette viser de forskjellige funksjonene (``Functions``) og "
+"variablene (``Variables``) som du kan legge til i ``Formula``-boksen, så "
+"dobbeltklikk på ``ABS`` og dobbeltklikk deretter på ``likert.centred``, og "
+"du vil se at ``Formula``-boksen er fylt ut med ``ABS(likert.centred)`` og en "
+"ny variabel er opprettet i regnearkvisningen, som i :numref:`fig-"
+"opinionstrength`:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:82
 msgid "*f*\\ :sub:`x` button to select functions and variables"
-msgstr ""
+msgstr "*f*\\ :sub:`x`-knapp for å velge funksjoner og variabler"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:82
 msgid "Using the *f*\\ :sub:`x` button to select functions and variables"
-msgstr ""
+msgstr "Bruk *f*\\ :sub:`x`-knappen til å velge funksjoner og variabler"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:86
 msgid ""
@@ -735,6 +1007,11 @@ msgid ""
 "another new variable using the ``Compute`` button, name this one ``opinion."
 "sign``, and then type the following into the function box:"
 msgstr ""
+"For det andre, for å beregne en variabel som bare inneholder retningen på "
+"oppfatningen og ignorerer styrken, ønsker vi å beregne «fortegnet» på "
+"variabelen. I jamovi kan vi bruke ``IF``-funksjonen til å gjøre dette. "
+"Opprett en ny variabel ved hjelp av ``Compute``-knappen, gi den navnet "
+"``opinion.sign``, og skriv deretter inn følgende i funksjonsboksen:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:96
 msgid ""
@@ -742,6 +1019,9 @@ msgid ""
 "variable are converted to **-1**, all positive numbers are converted to "
 "**1** and zero stays as **0**, like so:"
 msgstr ""
+"Når du er ferdig, vil du se at alle negative tall fra variabelen ``likert."
+"centred`` blir konvertert til **-1**, alle positive tall blir konvertert til "
+"**1** og null forblir **0**, slik som dette:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:104
 msgid ""
@@ -758,17 +1038,33 @@ msgid ""
 "divided ``likert.centred`` by opinion.strength to give ``-1`` or ``+1`` "
 "depending of the sign of the original value in ``likert.centred``.\\ [#]_"
 msgstr ""
+"La oss forklare hva denne ``IF``-kommandoen gjør. I jamovi er det tre deler "
+"i en ``IF``-funksjon, skrevet som ``IF(expression, value, else)``. Den "
+"første delen, ``expression``, kan være et logisk eller matematisk utsagn. I "
+"vårt eksempel har vi spesifisert ``likert.centred == 0``, som er ``TRUE`` "
+"for verdier der ``likert.centred`` er null. Den neste delen, ``value``, er "
+"den nye verdien der uttrykket i første del er ``TRUE``. I vårt eksempel har "
+"vi sagt at for alle de verdiene der ``likert.centred`` er null, skal de "
+"holdes på null. I neste del, ``else``, kan vi skrive inn en annen logisk "
+"eller matematisk setning som skal brukes hvis del én evalueres til "
+"``FALSE``, dvs. der ``likert.centred`` ikke er null. I vårt eksempel har vi "
+"dividert ``likert.centred`` med opinion.strength for å gi ``-1`` eller ``"
+"+1`` avhengig av fortegnet til den opprinnelige verdien i ``likert.centred``."
+"\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:117
 msgid ""
 "And we’re done. We now have three shiny new variables, all of which are "
 "useful transformations of the original ``likert.raw`` variable."
 msgstr ""
+"Og vi er ferdige. Vi har nå tre nye, skinnende variabler, som alle er "
+"nyttige transformasjoner av den opprinnelige variabelen ``likert.raw``."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:121
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels or categories"
 msgstr ""
+"Sammenfatte en variabel i et mindre antall diskrete nivåer eller kategorier"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:123
 msgid ""
@@ -777,6 +1073,10 @@ msgid ""
 "instance, suppose I’m interested in looking at the age distribution of "
 "people at a social gathering:"
 msgstr ""
+"En pragmatisk oppgave som ofte dukker opp, er problemet med å redusere en "
+"variabel til et mindre antall diskrete nivåer eller kategorier. Anta for "
+"eksempel at jeg er interessert i å se på aldersfordelingen blant deltakerne "
+"på en sosial sammenkomst:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:132
 msgid ""
@@ -793,6 +1093,18 @@ msgid ""
 "value, but ``IF`` a third logical expression is ``TRUE``, then insert a "
 "third value. This can be written as:"
 msgstr ""
+"I noen situasjoner kan det være nyttig å gruppere disse i et mindre antall "
+"kategorier. Vi kan for eksempel gruppere dataene i tre brede kategorier: "
+"unge (0-20), voksne (21-40) og eldre (41-60). Dette er en ganske grovkornet "
+"klassifisering, og merkelappene jeg har brukt, gir bare mening i konteksten "
+"av dette datasettet (f.eks. vil en 42-åring generelt sett ikke anse seg selv "
+"som «eldre»). Vi kan dele opp denne variabelen ganske enkelt ved hjelp av "
+"jamovi ``IF``-funksjonen som vi allerede har brukt. Denne gangen må vi "
+"spesifisere nestede ``IF``-funksjoner, noe som ganske enkelt betyr at ``IF`` "
+"det første logiske uttrykket er ``TRUE``, sett inn en første verdi, men "
+"``IF`` et andre logisk uttrykk er ``TRUE``, sett inn en andre verdi, men "
+"``IF`` et tredje logisk uttrykk er ``TRUE``, sett så inn en tredje verdi. "
+"Dette kan skrives som:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:149
 msgid ""
@@ -802,16 +1114,22 @@ msgid ""
 "along with an accompanying frequency table, is shown in :numref:`fig-"
 "agecats`:"
 msgstr ""
+"Merk at det brukes tre parenteser på venstre side under nestingen, så hele "
+"formel må avsluttes med tre parenteser på høyre side, ellers vil du få en "
+"feilmelding. jamovi-skjermbildet for denne manipulasjonen, sammen med en "
+"tilhørende frekvenstabell, vises i :numref:`fig-agecats`:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid "Using the ``IF`` function"
-msgstr ""
+msgstr "Bruk av ``IF``-funksjonen"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid ""
 "Collapsing a variable into a smaller number of discrete levels using the "
 "jamovi ``IF`` function"
 msgstr ""
+"Kollaps av en variabel til et mindre antall diskrete nivåer ved hjelp av "
+"``IF``-funksjonen i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:166
 msgid ""
@@ -826,10 +1144,21 @@ msgid ""
 "inherently bad idea, but it does have some fairly serious drawbacks at "
 "times, so I would advise some caution if you are thinking about doing it."
 msgstr ""
+"Det er viktig å ta seg tid til å finne ut om de resulterende kategoriene i "
+"det hele tatt gir mening i forhold til forskningsprosjektet ditt. Hvis de "
+"ikke gir mening for deg som meningsfulle kategorier, er det sannsynlig at "
+"enhver dataanalyse som bruker disse kategoriene, vil være like meningsløs. "
+"Mer generelt har jeg i praksis lagt merke til at folk har et veldig sterkt "
+"ønske om å dele opp (kontinuerlige og uoversiktlige) data i noen få "
+"(diskrete og enkle) kategorier, og deretter kjøre analyser ved hjelp av de "
+"kategoriserte dataene i stedet for de opprinnelige dataene.\\ [#]_ Jeg vil "
+"ikke gå så langt som å si at dette er en dårlig idé i seg selv, men det har "
+"til tider noen ganske alvorlige ulemper, så jeg vil råde til forsiktighet "
+"hvis du vurderer å gjøre det."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:179
 msgid "Creating a transformation that can be applied to multiple variables"
-msgstr ""
+msgstr "Opprette en transformasjon som kan brukes på flere variabler"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:181
 msgid ""
@@ -848,15 +1177,30 @@ msgid ""
 "in the jamovi ``Data`` tab, and you’ll see something like :numref:`fig-"
 "transform1`."
 msgstr ""
+"Noen ganger ønsker du å bruke samme transformasjon på mer enn én variabel, "
+"for eksempel når du har flere spørreskjemaelementer som alle må beregnes på "
+"nytt eller omkodes på samme måte. En av de smarte funksjonene i jamovi er at "
+"du kan opprette en transformasjon ved hjelp av ``Transform``-knappen i "
+"``Data``-fanen, som deretter kan lagres og brukes på flere variabler. La oss "
+"gå tilbake til det første eksemplet ovenfor, med datasettet |likert|_, som "
+"inneholder en enkelt variabel med rå Likert-skala-svar for 10 personer. For "
+"å opprette en transformasjon som du kan lagre og deretter bruke på flere "
+"variabler (forutsatt at du hadde flere slike variabler i datafilen), velger "
+"(dvs. klikker) du først variabelen du vil bruke til å opprette "
+"transformasjonen, i regnearkredigeringsprogrammet. I vårt eksempel er dette "
+"``likert.raw``. Deretter klikker du på ``Transform``-knappen i jamovi "
+"``Data``-fanen, og du vil se noe som :numref:`fig-transform1`."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid "Using the jamovi ``Transform`` command"
-msgstr ""
+msgstr "Bruke ``Transform``-kommandoen i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid ""
 "Creating a new variable transformation using the jamovi ``Transform`` command"
 msgstr ""
+"Opprette en ny variabeltransformasjon ved hjelp av ``Transform``-kommandoen "
+"i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:207
 msgid ""
@@ -876,16 +1220,33 @@ msgid ""
 "has also been saved and can be re-used any time you like (providing you save "
 "the dataset as an ``.omv`` file, otherwise you’ll lose it!)."
 msgstr ""
+"Gi den nye variabelen et navn, la oss kalle den ``opinion.strength``, og "
+"klikk deretter på valgboksen ``Using transform``, og velg ``Create New "
+"Transform...``. Her oppretter og navngir du transformasjonen som kan brukes "
+"på så mange variabler du vil. Transformasjonen får automatisk navnet "
+"``Transform 1`` (fantasifullt, ikke sant? Du kan endre dette hvis du vil). "
+"Skriv deretter inn uttrykket ``ABS($source - 4)`` i funksjonstekstboksen, "
+"som i :numref:`fig-transform2`, trykk Enter eller Return på tastaturet, og "
+"vips, så har du opprettet en ny transformasjon og brukt den på variabelen "
+"``likert.raw``! Bra, ikke sant? Legg merke til at vi i stedet for å bruke "
+"variabelnavn i uttrykket har brukt ``$source``. Dette er for at vi skal "
+"kunne bruke den samme transformasjonen på så mange forskjellige variabler "
+"som vi vil - jamovi krever at du bruker ``$source`` for å referere til "
+"kildevariabelen du transformerer. Transformasjonen din er også lagret og kan "
+"brukes på nytt når du vil (forutsatt at du lagrer datasettet som en ``.omv``-"
+"fil, ellers mister du det!)"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid "Specifying a transformation in jamovi"
-msgstr ""
+msgstr "Spesifisere en transformasjon i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid ""
 "Specifying a transformation in jamovi, to be saved as the imaginatively "
 "named ``Transform 1``"
 msgstr ""
+"Spesifiserer en transformasjon i jamovi, som skal lagres som den "
+"fantasifullt navngitte ``Transform 1``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:235
 msgid ""
@@ -912,30 +1273,61 @@ msgid ""
 "by creating and then re-applying your transformation for each variable that "
 "you want to recode."
 msgstr ""
+"Du kan også lage en transformasjon med det andre eksempelet vi så på, nemlig "
+"aldersfordelingen på en sosial sammenkomst. Kom igjen, du vet at du har lyst "
+"til det! Husk at vi delte denne variabelen inn i tre grupper: yngre, voksne "
+"og eldre. Denne gangen vil vi oppnå det samme, men ved å bruke jamovi "
+"``Transform`` → ``Add condition``-knappen. Med dette datasettet (gå tilbake "
+"til det eller opprett det på nytt hvis du ikke har lagret det) setter du opp "
+"en ny variabeltransformasjon. Kall den transformerte variabelen ``AgeCats`` "
+"og transformasjonen du vil opprette ``Agegroupings``. Klikk deretter på det "
+"store tegnet ``+`` ved siden av funksjonsboksen. Dette er knappen ``Add "
+"condition``, og jeg har satt en stor rød pil på :numref:`fig-transform3` "
+"slik at du kan se nøyaktig hvor denne er. Gjenopprett transformasjonen som "
+"vises i :numref:`fig-transform3`, og når du har gjort det, vil du se de nye "
+"verdiene vises i regnearkvinduet. Dessuten er ``Agegroupings``-"
+"transformasjonen lagret og kan brukes på nytt når du vil. Ok, jeg vet at det "
+"er lite sannsynlig at du vil ha mer enn én ``Age``-variabel, men nå har du "
+"fått ideen om hvordan du kan sette opp transformasjoner i jamovi, så du kan "
+"følge denne ideen med andre typer variabler. Et typisk scenario for dette er "
+"når du har en spørreskjemaskala med for eksempel 20 elementer (variabler), "
+"og hvert element opprinnelig ble skåret fra 1 til 6, men av en eller annen "
+"grunn eller på grunn av dataenes særegenhet bestemmer du deg for å omkode "
+"alle elementene til 1 til 3. Du kan enkelt gjøre dette i jamovi ved å "
+"opprette og deretter bruke transformasjonen på nytt for hver variabel som du "
+"vil omkode."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid "jamovi transformation into categories"
-msgstr ""
+msgstr "jamovi transformasjon til kategorier"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid ""
 "jamovi transformation into three age categories, using the ``Add condition`` "
 "button"
 msgstr ""
+"jamovi-transformasjon i tre alderskategorier, ved hjelp av knappen ``Add "
+"condition``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:271
 msgid ""
 "The absolute value of a number is its distance from zero, regardless of "
 "whether it’s sign is negative or positive."
 msgstr ""
+"Den absolutte verdien av et tall er dets avstand fra null, uavhengig av om "
+"det har negativt eller positivt fortegn."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:275
 msgid ""
 "The reason we have to use the ``IF`` command and keep zero as zero is that "
-"you cannot just use likert.centred / opinion.strength to calculate the sign "
-"of likert.centred, because mathematically dividing zero by zero does not "
-"work. Try it and see"
+"you cannot just use ``likert.centred / opinion.strength`` to calculate the "
+"sign of ``likert.centred``, because mathematically dividing zero by zero "
+"does not work. Try it and see."
 msgstr ""
+"Grunnen til at vi må bruke ``IF``-kommandoen og beholde null som null, er at "
+"du ikke bare kan bruke ``likert.centred / opinion.strength`` for å beregne "
+"fortegnet til ``likert.centred``, fordi det matematisk sett ikke fungerer å "
+"dele null med null. Prøv det og se."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:281
 msgid ""
@@ -950,10 +1342,20 @@ msgid ""
 "g., the data will probably violate the normality assumption) and you can "
 "lose a lot of statistical power."
 msgstr ""
+"Hvis du har lest videre i boken og leser denne delen på nytt, kan et godt "
+"eksempel på dette være at noen velger å gjøre en ANOVA med ``AgeCats`` som "
+"grupperingsvariabel, i stedet for å kjøre en regresjon med ``Age`` som "
+"prediktor. Noen ganger er det gode grunner til å gjøre dette. For eksempel "
+"hvis forholdet mellom ``Age`` og utfallsvariabelen din er svært ikke-"
+"lineært, og du ikke er komfortabel med å prøve å kjøre ikke-lineær "
+"regresjon! Men med mindre du virkelig har en god begrunnelse for å gjøre "
+"dette, er det best å la være. Det har en tendens til å introdusere alle "
+"mulige andre problemer (f.eks. vil dataene sannsynligvis bryte med "
+"normalitetsantagelsen), og du kan miste mye statistisk styrke."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:4
 msgid "Mathematical functions and operations"
-msgstr ""
+msgstr "Matematiske funksjoner og operasjoner"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:6
 msgid ""
@@ -969,26 +1371,36 @@ msgid ""
 "a range of functions that are used regularly in data analysis and that are "
 "available in jamovi."
 msgstr ""
+"I forrige avsnitt diskuterte jeg ideene bak variabeltransformasjoner og "
+"viste at mange av de transformasjonene du kanskje vil bruke på dataene dine, "
+"er basert på ganske enkle matematiske funksjoner og operasjoner. I dette "
+"avsnittet vil jeg gå tilbake til denne diskusjonen og nevne flere andre "
+"matematiske funksjoner og regneoperasjoner som faktisk er ganske nyttige for "
+"mange dataanalyser. :numref:`tab-mathfunc` gir en kort oversikt over de "
+"ulike matematiske funksjonene jeg vil snakke om her, eller senere.\\ [#]_ "
+"Dette er selvsagt langt fra en fullstendig oversikt over alle mulighetene "
+"som finnes. Men det dekker en rekke funksjoner som brukes regelmessig i "
+"dataanalyse, og som er tilgjengelige i jamovi."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:17
 msgid "Some of the mathematical functions available in jamovi"
-msgstr ""
+msgstr "Noen av de matematiske funksjonene som er tilgjengelige i jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Function"
-msgstr ""
+msgstr "Funksjon"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Example input"
-msgstr ""
+msgstr "Eksempel på input"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "result"
-msgstr ""
+msgstr "resultat"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "Square root"
-msgstr ""
+msgstr "Kvadratrot"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "``SQRT(x)``"
@@ -1004,7 +1416,7 @@ msgstr "5"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "Absolute value"
-msgstr ""
+msgstr "Absolutt verdi"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "``ABS(x)``"
@@ -1020,7 +1432,7 @@ msgstr "23"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "Logarithm (base 10)"
-msgstr ""
+msgstr "Logaritme (med base 10)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "``LOG10(x)``"
@@ -1036,7 +1448,7 @@ msgstr "3"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "Logarithm (base *e*)"
-msgstr ""
+msgstr "Logaritme (med base *e*)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "``LN(x)``"
@@ -1052,7 +1464,7 @@ msgstr "6.908"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "Exponentiation"
-msgstr ""
+msgstr "Eksponentiering"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "``EXP(x)``"
@@ -1068,7 +1480,7 @@ msgstr "1000.245"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "Box-Cox"
-msgstr ""
+msgstr "Box-Cox"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "``BOXCOX(x, lamda)``"
@@ -1084,7 +1496,7 @@ msgstr "109.551"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "Rounding to nearest"
-msgstr ""
+msgstr "Avrunding til nærmeste heltall"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "``ROUND()``"
@@ -1100,7 +1512,7 @@ msgstr "1"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "Rounding down"
-msgstr ""
+msgstr "Avrunding nedover"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "``FLOOR()``"
@@ -1112,7 +1524,7 @@ msgstr "``FLOOR(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "Rounding up"
-msgstr ""
+msgstr "Avrunding oppover"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "``CEILING()``"
@@ -1128,7 +1540,7 @@ msgstr "2"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:47
 msgid "Logarithms and exponentials"
-msgstr ""
+msgstr "Logaritmer og eksponentialer"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:49
 msgid ""
@@ -1146,6 +1558,19 @@ msgid ""
 "take a social science statistics class who haven’t touched logarithms since "
 "high school, and would appreciate a bit of a refresher."
 msgstr ""
+"Som jeg har nevnt tidligere, har jamovi en rekke nyttige matematiske "
+"funksjoner innebygd, og det ville ikke være noen vits i å prøve å beskrive "
+"eller liste opp dem alle. Jeg har stort sett bare fokusert på de funksjonene "
+"som er strengt nødvendige for denne boken. Jeg vil imidlertid gjøre et "
+"unntak for logaritmer og eksponentialer. Selv om de ikke er nødvendige noe "
+"annet sted i denne boken, er de *overalt* i statistikk mer generelt. Og ikke "
+"bare det, det finnes *mange* situasjoner der det er praktisk å analysere "
+"logaritmen til en variabel (dvs. å ta en «log-transformasjon» av "
+"variabelen). Jeg regner med at mange (kanskje de fleste) lesere av denne "
+"boken har støtt på logaritmer og eksponentialer før, men av erfaring vet jeg "
+"at det er en betydelig andel av studentene som tar samfunnsvitenskapelig "
+"statistikk, som ikke har vært borti logaritmer siden videregående skole, og "
+"som ville sette pris på en liten oppfriskning."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:64
 msgid ""
@@ -1159,6 +1584,14 @@ msgid ""
 "closely related to the powers of 10. So let’s start by noting that 10-cubed "
 "is 1000. Mathematically, we would write this:"
 msgstr ""
+"For å forstå logaritmer og eksponentialer er det enklest å faktisk beregne "
+"dem og se hvordan de henger sammen med andre enkle utregninger. Det er "
+"spesielt tre jamovi-funksjoner jeg vil snakke om, nemlig ``LN()``, "
+"``LOG10()`` og ``EXP()``. La oss begynne med ``LOG10()``, som er kjent som "
+"«logaritmen med base 10». Trikset med å forstå en **logaritme** er å forstå "
+"at det i utgangspunktet er det «motsatte» av å ta en potens. Logaritmen med "
+"base 10 er nært knyttet til potenser av 10. Så la oss begynne med å merke "
+"oss at 10-kubikk er 1000. Matematisk sett ville vi skrevet dette:"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:75
 msgid "10³ = 1000"
@@ -1171,6 +1604,9 @@ msgid ""
 "that “the logarithm (in base 10) of 1000 is equal to 3”. Mathematically, we "
 "write this as follows,"
 msgstr ""
+"Trikset for å forstå en logaritme er å innse at utsagnet «10 i potensen 3 er "
+"lik 1000» tilsvarer utsagnet «logaritmen (med base 10) til 1000 er lik 3». "
+"Matematisk skriver vi dette på følgende måte,"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:82
 msgid "log\\ :sub:`10`\\(1000) = 3"
@@ -1196,6 +1632,22 @@ msgid ""
 "long, and is considered one of the most important numbers in mathematics. "
 "The first few digits of *e* are:"
 msgstr ""
+"Siden ``LOG10()``-funksjonen er relatert til potenser av 10, forventer du "
+"kanskje at det finnes andre logaritmer (med andre baser enn 10) som også er "
+"relatert til andre potenser. Og det er selvfølgelig sant: Det er egentlig "
+"ikke noe matematisk spesielt med tallet 10. Du og jeg synes tilfeldigvis at "
+"det er nyttig fordi desimaltall er bygget opp rundt tallet 10, men den "
+"store, stygge matematiske verden håner desimaltallene våre. Dessverre bryr "
+"universet seg faktisk ikke om hvordan vi skriver ned tall. Konsekvensen av "
+"denne kosmiske likegyldigheten er uansett at det ikke er noe spesielt med å "
+"beregne logaritmer med base 10. Du kan for eksempel regne logaritmer med "
+"base 2. Alternativt finnes det en tredje type logaritme, som vi ser mye mer "
+"av i statistikken enn både base 10 og base 2. Den kalles **naturlig "
+"logaritme**, og tilsvarer logaritmen med base *e*. Siden du kanskje støter "
+"på den en dag, er det best å forklare hva *e* er. Tallet *e*, kjent som "
+"**Eulers tall**, er et av de irriterende «irrasjonale» tallene som har "
+"uendelig lang desimalutvidelse, og regnes som et av de viktigste tallene i "
+"matematikken. De første sifrene i *e* er:"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:102
 msgid "*e* = 2.718282"
@@ -1213,20 +1665,33 @@ msgid ""
 "as log\\ :sub:`e`\\ (x) or *ln(x)*. In fact, jamovi works the same way: the "
 "``LN()`` function corresponds to the natural logarithm."
 msgstr ""
+"Det finnes en del situasjoner i statistikk som krever at vi beregner "
+"potenser av *e*, men ingen av dem dukker opp i denne boken. Å opphøye *e* "
+"til potensen *x* kalles **eksponentialen** av *x*, og det er derfor veldig "
+"vanlig å se e\\ :sup:`x` skrevet som *exp(x)*. Det er derfor ikke "
+"overraskende at jamovi har en funksjon som beregner eksponentialer, kalt "
+"``EXP()``. Fordi tallet *e* dukker opp så ofte i statistikken, har også den "
+"naturlige logaritmen (dvs. logaritmen med basen *e*) en tendens til å dukke "
+"opp. Matematikere skriver den ofte som log\\ :sub:`e`\\(x) eller *ln(x)*. "
+"Faktisk fungerer jamovi på samme måte: funksjonen ``LN()`` tilsvarer den "
+"naturlige logaritmen."
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:115
 msgid ""
 "And with that, I think we’ve had quite enough exponentials and logarithms "
 "for this book!"
 msgstr ""
+"Og med det tror jeg vi har fått nok eksponentialer og logaritmer for denne "
+"boken!"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:121
 msgid "We’ll leave the box-cox function until :ref:`later on <box-cox>`."
 msgstr ""
+"Vi venter med å bruke box-cox-funksjonen til :ref:`senere på <box-cox>`."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:4
 msgid "Extracting a subset of the data"
-msgstr ""
+msgstr "Trekker ut en delmengde av dataene"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:6
 msgid ""
@@ -1237,6 +1702,12 @@ msgid ""
 "step is getting jamovi to filter the subset of the data corresponding to the "
 "observations that you’re interested in."
 msgstr ""
+"En svært viktig type datahåndtering er å kunne trekke ut en bestemt "
+"delmengde av dataene. Det kan for eksempel være at du bare er interessert i "
+"å analysere data fra én eksperimentell betingelse, eller at du ønsker å se "
+"nærmere på data fra personer over 50 år. For å gjøre dette må du først få "
+"jamovi til å filtrere delmengden av data som tilsvarer de observasjonene du "
+"er interessert i."
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:13
 msgid ""
@@ -1250,6 +1721,16 @@ msgid ""
 "window by clicking on ``Filters`` on the main jamovi ``Data`` toolbar. Then, "
 "in the ``Filter 1`` text box, next to the ``=`` sign, type the following:"
 msgstr ""
+"I dette avsnittet vender vi tilbake til datasettet |nightgarden|_. Hvis du "
+"leser hele dette kapittelet i én omgang, bør du allerede ha lastet dette "
+"datasettet inn i et jamovi-vindu. I dette avsnittet skal vi fokusere på de "
+"to variablene ``speaker`` og ``utterance`` (se :doc:`Ch06_DataHandling_1` "
+"hvis du har glemt hvordan disse variablene ser ut). Anta at det jeg ønsker å "
+"gjøre, er å trekke ut bare de ytringene som ble fremsatt av ``makka-pakka``. "
+"For å gjøre det må vi spesifisere et filter i jamovi. Først åpner du et "
+"filtervindu ved å klikke på ``Filters`` på jamovis ``Data``-verktøylinje. "
+"Deretter skriver du inn følgende i tekstboksen ``Filter 1``, ved siden av "
+"tegnet ``=``:"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:27
 msgid ""
@@ -1262,16 +1743,25 @@ msgid ""
 "``speaker`` to the ``Variables``- box and checking ``Frequency tables``. Go "
 "on, try it, and see what that shows!"
 msgstr ""
+"Når du har gjort dette, vil du se at en ny kolonne med navn ``Filter 1`` er "
+"lagt til i regnearkvinduet (se :numref:`fig-subset1`), hvor tilfellene der "
+"``speaker`` ikke er ``makka-pakka`` er gråtonet (dvs. filtrert ut), og "
+"omvendt, har tilfellene der ``speaker`` er ``makka-pakka`` en grønn hake som "
+"indikerer at de er inkludert. Du kan teste dette ved å utføre "
+"``Exploration`` → ``Descriptives``, tilordne ``speaker`` til ``Variables``-"
+"boksen og krysse av for ``Frequency tables``. Prøv det, og se hva det viser!"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid "Creating a subset using ``Filters``"
-msgstr ""
+msgstr "Opprette en delmengde ved hjelp av ``Filters``"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid ""
 "Creating a subset of the |nightgarden|_ data set using the jamovi "
 "``Filters`` option"
 msgstr ""
+"Opprette en delmengde av datasettet |nightgarden|_ ved hjelp av jamovi "
+"``Filters``-funksjon"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:46
 msgid ""
@@ -1281,3 +1771,8 @@ msgid ""
 "this case in the ``Filter 1`` text box, next to the ``=`` sign, you would "
 "type the following:"
 msgstr ""
+"I forlengelsen av dette enkle eksempelet kan du også bygge opp mer komplekse "
+"filtre ved hjelp av logiske uttrykk i jamovi. Tenk deg for eksempel at jeg "
+"bare vil beholde de tilfellene der ytringen er enten ``pip`` eller ``oo``. I "
+"så fall ville du i tekstboksen ``Filter 1``, ved siden av tegnet ``=``, "
+"skrive inn følgende:"
