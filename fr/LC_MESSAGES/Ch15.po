@@ -880,7 +880,7 @@ msgstr ""
 msgid ""
 "What are the theoretical underpinnings for the area you are studying, and "
 "specifically for the constructs that you are interested in uncovering "
-"through EFA."
+"through EFA?"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:531
