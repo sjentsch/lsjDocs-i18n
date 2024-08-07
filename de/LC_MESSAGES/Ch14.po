@@ -1588,9 +1588,8 @@ msgstr ""
 "einmal beiseite."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:655
-msgid "English translation: “least tedious”."
-msgstr ""
-"Übersetzung in gewöhnliche Sprache: „am wenigsten mühsam“ („least tedious“)."
+msgid "To put it bluntly: “least tedious”."
+msgstr "Offen gesagt: „am wenigsten mühsam“."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:4
 msgid "Factorial ANOVA 2: balanced designs, interactions allowed"
@@ -3157,15 +3156,15 @@ msgid "person, p"
 msgstr "Person, p"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "grade, *Y*\\ :sub:`p`"
+msgid "``grade``, *Y*\\ :sub:`p`"
 msgstr "Note, *Y*\\ :sub:`p`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "attendance, *X*\\ :sub:`1p`"
+msgid "``attend``, *X*\\ :sub:`1p`"
 msgstr "Anwesenheit, *X*\\ :sub:`1p`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "reading, *X*\\ :sub:`2p`"
+msgid "``reading``, *X*\\ :sub:`2p`"
 msgstr "Lehrbuch gelesen, *X*\\ :sub:`2p`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:87 ../../Ch14/Ch14_ANOVA2_07.rst:89
@@ -3634,7 +3633,7 @@ msgid ""
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
 "for those two students who didn’t read the text or attend class. Second, "
 "notice that we have the regression coefficient of *b*\\ :sub:`1` = 18.0 for "
-"the attendance variable, suggesting that those students that attended class "
+"the variable ``attend``, suggesting that those students that attended class "
 "scored 18\\% higher than those who didn’t. So our expectation would be that "
 "those students who turned up to class but didn’t read the textbook would "
 "obtain a grade of *b*\\ :sub:`0` + *b*\\ :sub:`1`, which is equal to 43.5 + "
@@ -4365,13 +4364,14 @@ msgstr "Kontraste, die sich zu Null aufsummieren"
 #: ../../Ch14/Ch14_ANOVA2_08.rst:113
 msgid ""
 "The third option that I should briefly mention are “sum to zero” contrasts, "
-"called “Simple” contrasts in jamovi, which are used to construct pairwise "
+"called ``Simple`` contrasts in jamovi, which are used to construct pairwise "
 "comparisons between groups. Specifically, each contrast encodes the "
 "difference between one of the groups and a baseline category, which in this "
 "case corresponds to the first group:"
 msgstr ""
 "Die dritte Option, die ich kurz erwähnen möchte, sind die „Zu-Null-"
-"aufsummieren“-Kontraste, die in jamovi „einfache“ Kontraste genannt werden. "
+"aufsummieren“-Kontraste, die in jamovi „einfache“ Kontraste (``Simple``) "
+"genannt werden. "
 "Sie dienen dazu, paarweise Vergleiche zwischen Gruppen zu erstellen. Genauer "
 "gesagt, kodiert jeder Kontrast den Unterschied zwischen einer der Gruppen "
 "und einer Basiskategorie, die in diesem Fall der ersten Gruppe entspricht:"
@@ -4592,34 +4592,34 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:36
 msgid ""
-"The difference in mood gain for people given ``Anxifree`` versus people "
-"given the ``Placebo``."
+"The difference in ``mood.gain`` for people given ``anxifree`` versus people "
+"given the ``placebo``."
 msgstr ""
-"Der Unterschied in der Stimmungsverbesserung bei Personen, die ``Anxifree`` "
-"erhielten, im Vergleich zu Personen, die das ``Placebo`` erhielten."
+"Die Stimmungsänderung ``mood.gain`` bei Personen, die ``anxifree`` "
+"erhielten, im Vergleich zu Personen, die das ``placebo`` erhielten."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:39
 msgid ""
-"The difference in mood gain for people given ``Joyzepam`` versus people "
-"given the ``Placebo``."
+"The difference in ``mood.gain`` for people given ``joyzepam`` versus people "
+"given the ``placebo``."
 msgstr ""
-"Der Unterschied in der Stimmungsverbesserung bei Personen, die ``Joyzepam`` "
-"erhielten, im Vergleich zu Personen, die das ``Placebo`` erhielten."
+"Die Stimmungsänderung ``mood.gain`` bei Personen, die ``joyzepam`` "
+"erhielten, im Vergleich zu Personen, die das ``placebo`` erhielten."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:42
 msgid ""
-"The difference in mood gain for people given ``Anxifree`` versus people "
-"given ``Joyzepam``."
+"The difference in ``mood.gain`` for people given ``anxifree`` versus people "
+"given ``joyzepam``."
 msgstr ""
-"Der Unterschied in der Stimmungsverbesserung bei Personen, die ``Anxifree`` "
-"erhalten haben, gegenüber Personen, die ``Joyzepam`` erhalten haben."
+"Die Stimmungsänderung ``mood.gain`` bei Personen, die ``anxifree`` "
+"erhalten haben, gegenüber Personen, die ``joyzepam`` erhalten haben."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
-"The difference in mood gain for people treated with ``CBT`` and people given "
-"``No therapy``."
+"The difference in ``mood.gain`` for people treated with ``CBT`` and people given "
+"``no.therapy``."
 msgstr ""
-"Der Unterschied in der Stimmungsverbesserung bei Personen, die mit ``CBT`` "
+"Die Stimmungsänderung ``mood.gain`` bei Personen, die mit ``CBT`` "
 "behandelt wurden, und Personen, die ``no.therapy`` erhielten."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48

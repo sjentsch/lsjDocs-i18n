@@ -214,7 +214,7 @@ msgid ""
 "Adelaide to Sydney in 2016 and my teaching profile at UNSW is different to "
 "what it was at Adelaide, and I haven’t really had a chance to work on it "
 "since arriving here! It’s a little strange looking back at this actually. A "
-"few quick comments..."
+"few quick comments…"
 msgstr ""
 
 #: ../../Other/Prologue.rst:119
@@ -249,7 +249,7 @@ msgstr ""
 #: ../../Other/Prologue.rst:139
 msgid ""
 "Maybe someone would like to write a version that makes use of the "
-"**tidyverse**... I hear that’s become rather important to R these days :-)"
+"**tidyverse**… I hear that’s become rather important to R these days :-)"
 msgstr ""
 
 #: ../../Other/Prologue.rst:143

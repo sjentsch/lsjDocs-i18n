@@ -2102,7 +2102,7 @@ msgstr "LEELA:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "Robot… we be."
-msgstr "Roboter... sind wir."
+msgstr "Roboter… sind wir."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "FRY:"

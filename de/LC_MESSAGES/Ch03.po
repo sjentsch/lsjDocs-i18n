@@ -1155,7 +1155,7 @@ msgstr ""
 "So einfach ist das. Die neu installierten Module können dann über das "
 "``Analyses``-Menüband oder durch Klicken auf das große ``+`` aufgerufen und "
 "die gewünschten Analysen aus dem sich öffnenden Menü ausgewählt werden.\\ "
-"[#]_ Probieren Sie es aus... Nützliche Zusatzmodule zur Installation sind "
+"[#]_ Probieren Sie es aus… Nützliche Zusatzmodule zur Installation sind "
 "``scatr`` (wird unter ``Descriptives`` hinzugefügt) und |Rj|_."
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:89

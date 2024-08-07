@@ -1054,7 +1054,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:655
-msgid "English translation: “least tedious”."
+msgid "To put it bluntly: “least tedious”."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:4
@@ -2060,15 +2060,15 @@ msgid "person, p"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "grade, *Y*\\ :sub:`p`"
+msgid "``grade``, *Y*\\ :sub:`p`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "attendance, *X*\\ :sub:`1p`"
+msgid "``attend``, *X*\\ :sub:`1p`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
-msgid "reading, *X*\\ :sub:`2p`"
+msgid "``reading``, *X*\\ :sub:`2p`"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:87 ../../Ch14/Ch14_ANOVA2_07.rst:89
@@ -2427,7 +2427,7 @@ msgid ""
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
 "for those two students who didn’t read the text or attend class. Second, "
 "notice that we have the regression coefficient of *b*\\ :sub:`1` = 18.0 for "
-"the attendance variable, suggesting that those students that attended class "
+"the variable ``attend``, suggesting that those students that attended class "
 "scored 18\\% higher than those who didn’t. So our expectation would be that "
 "those students who turned up to class but didn’t read the textbook would "
 "obtain a grade of *b*\\ :sub:`0` + *b*\\ :sub:`1`, which is equal to 43.5 + "
@@ -2871,7 +2871,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_08.rst:113
 msgid ""
 "The third option that I should briefly mention are “sum to zero” contrasts, "
-"called “Simple” contrasts in jamovi, which are used to construct pairwise "
+"called ``Simple`` contrasts in jamovi, which are used to construct pairwise "
 "comparisons between groups. Specifically, each contrast encodes the "
 "difference between one of the groups and a baseline category, which in this "
 "case corresponds to the first group:"
@@ -3026,26 +3026,26 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:36
 msgid ""
-"The difference in mood gain for people given ``Anxifree`` versus people "
-"given the ``Placebo``."
+"The difference in ``mood.gain`` for people given ``anxifree`` versus people "
+"given the ``placebo``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:39
 msgid ""
-"The difference in mood gain for people given ``Joyzepam`` versus people "
-"given the ``Placebo``."
+"The difference in ``mood.gain`` for people given ``joyzepam`` versus people "
+"given the ``placebo``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:42
 msgid ""
-"The difference in mood gain for people given ``Anxifree`` versus people "
-"given ``Joyzepam``."
+"The difference in ``mood.gain`` for people given ``anxifree`` versus people "
+"given ``joyzepam``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
-"The difference in mood gain for people treated with ``CBT`` and people given "
-"``No therapy``."
+"The difference in ``mood.gain`` for people treated with ``CBT`` and people given "
+"``no.therapy``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48

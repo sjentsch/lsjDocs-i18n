@@ -1829,7 +1829,7 @@ msgid ""
 "…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
 msgstr ""
-"...und das bedeutet, dass es bei den im nächsten Abschnitt beschriebenen PCA-"
+"…und das bedeutet, dass es bei den im nächsten Abschnitt beschriebenen PCA-"
 "Schritten einige Wiederholungen gibt. Das tut mir leid, aber ich hoffe, es "
 "ist nicht zu schlimm!"
 
