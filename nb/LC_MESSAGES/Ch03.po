@@ -1127,7 +1127,7 @@ msgid ""
 msgstr ""
 "Så enkelt er det. De nyinstallerte modulene kan du få tilgang til fra båndet"
 " ``Analyses`` eller ved å klikke på det store ``+`` og velge de analysene du"
-" trenger fra menyen som åpnes.\\ [#]_ Prøv det ... nyttige tilleggsmoduler å"
+" trenger fra menyen som åpnes.\\ [#]_ Prøv det… nyttige tilleggsmoduler å"
 " installere inkluderer ``scatr`` (lagt til under ``Descriptives``) og |Rj|_."
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:89

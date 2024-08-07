@@ -858,7 +858,7 @@ msgstr ""
 "generelt er så fokusert på statistikk. Men jeg antar at du har mange flere "
 "spørsmål om hvilken rolle statistikk spiller i psykologien, og spesielt "
 "hvorfor psykologikursene alltid bruker så mange forelesninger på statistikk. "
-"Så her er mitt forsøk på å svare på noen av dem..."
+"Så her er mitt forsøk på å svare på noen av dem…"
 
 #: ../../Ch01/Ch01_WhyStats_4.rst:12
 msgid "**Why does psychology have so much statistics?**"

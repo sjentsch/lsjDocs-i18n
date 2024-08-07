@@ -256,7 +256,7 @@ msgstr ""
 "alder og en rekke andre variabler. Dette er i utgangspunktet en regresjonsmodell, men du kan "
 "ikke bruke vanlig lineær regresjon fordi utfallsvariabelen er kategorisk (f.eks. om du enten "
 "er på Twitter eller ikke). Fordi utfallsvariabelen er kategorisk, er det umulig at "
-"residualene kan være normalfordelte. Det finnes en rekke verktøy som statistikere kan bruke i "
+"residuene kan være normalfordelte. Det finnes en rekke verktøy som statistikere kan bruke i "
 "denne situasjonen, og det mest fremtredende av dem er logistisk regresjon."
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:178

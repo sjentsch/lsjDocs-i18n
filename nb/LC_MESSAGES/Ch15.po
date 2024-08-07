@@ -1207,7 +1207,7 @@ msgid ""
 "continuous|) and descriptive statistics."
 msgstr ""
 "En beskrivelse av hvilken type data som er brukt (f.eks. nominell |nominal|, "
-"kontinuerlig |continuous|) og deskriptiv statistikk."
+"kontinuerlig |continuous|) og deskriptivstatistikk."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:609
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
@@ -1731,7 +1731,7 @@ msgid ""
 "…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
 msgstr ""
-"...og det betyr at det er en del gjentakelser i PCA-trinnene som beskrives i "
+"…og det betyr at det er en del gjentakelser i PCA-trinnene som beskrives i "
 "neste avsnitt. Beklager det, men forhåpentligvis er det ikke så ille!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:4
@@ -2237,7 +2237,7 @@ msgid ""
 "covariances using modification indices. Nevertheless, let's discuss how to "
 "report the results of a CFA (with a more fitted model)."
 msgstr ""
-"Selv om det noen ganger kan være gode grunner til å la residualene "
+"Selv om det noen ganger kan være gode grunner til å la residuene "
 "samvariere (eller korrelere), var det ingen slike grunner til å "
 "«optimalisere» CFA-en for modellen som vi definerte ved å inkludere "
 "ytterligere faktorladninger eller residualkovarianser ved hjelp av "

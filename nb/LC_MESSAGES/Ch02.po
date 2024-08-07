@@ -137,7 +137,7 @@ msgid ""
 "safe in saying that the largest possible age is *150*, since no human has "
 "ever lived that long."
 msgstr ""
-"Min **alder** (i år) kunne ha vært *0, 1, 2, 3 ...* osv. Den øvre grensen "
+"Min **alder** (i år) kunne ha vært *0, 1, 2, 3 …* osv. Den øvre grensen "
 "for hva alderen min kan være, er litt uklar, men i praksis kan man trygt si "
 "at den høyest mulige alderen er *150*, siden ingen mennesker noensinne har "
 "levd så lenge."
@@ -568,11 +568,11 @@ msgstr ""
 " ikke finnes noen. Det er et dumt spørsmål å stille. Du kan si at bil er den"
 " mest populære reisemåten, og at tog er den minst populære, men det er alt. "
 "Legg også merke til at rekkefølgen jeg lister opp alternativene i, ikke er "
-"særlig interessant. Jeg kunne ha valgt å vise dataene slik..."
+"særlig interessant. Jeg kunne ha valgt å vise dataene slik…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:68
 msgid "…and nothing really changes."
-msgstr "...og ingenting forandrer seg egentlig."
+msgstr "…og ingenting forandrer seg egentlig."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:71
 msgid "Ordinal scale"
@@ -644,11 +644,11 @@ msgstr ""
 "vitenskap. Når det gjelder det jeg er interessert i (i hvilken grad folk "
 "støtter vitenskapen), kan jeg ordne påstandene som 1 > 2 > 3 > 4. Siden "
 "denne rekkefølgen eksisterer, ville det vært veldig rart å liste opp "
-"alternativene slik..."
+"alternativene slik…"
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:107
 msgid "…because it seems to violate the natural “structure” to the question."
-msgstr "...fordi det bryter med den naturlige «strukturen» i spørsmålet."
+msgstr "…fordi det bryter med den naturlige «strukturen» i spørsmålet."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:109
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 "rimelig å slå sammen (2), (3) og (4) og si at 49 av 100 personer registrerte"
 " *i det minste en viss uenighet* med den dominerende vitenskapelige "
 "oppfatningen. Det ville imidlertid være helt bisart å prøve å slå sammen "
-"(1), (2) og (4) og si at 90 av 100 personer sa ... hva? Det er ingenting "
+"(1), (2) og (4) og si at 90 av 100 personer sa… hva? Det er ingenting "
 "fornuftig som gjør at du i det hele tatt kan gruppere disse svarene sammen."
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:134
@@ -1119,7 +1119,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_2.rst:327
 msgid "Ah, psychology… never an easy answer to anything!"
-msgstr "Psykologi ... aldri et enkelt svar på noe!"
+msgstr "Psykologi… aldri et enkelt svar på noe!"
 
 #: ../../Ch02/Ch02_StudyDesign_3.rst:4
 msgid "Assessing the reliability of a measurement"
@@ -2225,7 +2225,7 @@ msgstr ""
 "Du tester de psykologiske effektene av et nytt angstdempende legemiddel. Det"
 " du gjør, er å måle angsten før du gir medisinen (f.eks. ved hjelp av "
 "selvrapportering og fysiologiske målinger). Deretter administrerer du "
-"medikamentet, og etterpå tar du de samme målingene. Men midt i det hele, "
+"legemiddelet, og etterpå tar du de samme målingene. Men midt i det hele, "
 "fordi laboratoriet ditt ligger i Los Angeles, skjer det et jordskjelv som "
 "øker angsten hos deltakerne."
 
@@ -2847,7 +2847,7 @@ msgstr ""
 "forteller dem at det er en kur mot en sykdom, vil de ha en tendens til å bli"
 " raskere friske enn folk som ikke får behandling i det hele tatt. Det er med"
 " andre ord folks tro på at de blir behandlet som gir bedre resultater, ikke "
-"medikamentet."
+"legemiddelet."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:610
 msgid ""
