@@ -69,7 +69,7 @@ msgid ""
 "logical foundation but only a psychological one. It is clear that there are "
 "no grounds for believing that the simplest course of events will really "
 "happen. It is an hypothesis that the sun will rise tomorrow: and this means "
-"that we do not know whether it will rise.*"
+"that we do not know whether it will rise*."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting.rst:32
@@ -809,7 +809,7 @@ msgstr ""
 msgid ""
 "*Like other occult techniques of divination, the statistical method has a "
 "private jargon deliberately contrived to obscure its methods from non-"
-"practitioners.*"
+"practitioners*."
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:109

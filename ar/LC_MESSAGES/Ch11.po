@@ -1730,7 +1730,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:51
-msgid "Descriptives for the two grade test variables in the |chico| data set"
+msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:51

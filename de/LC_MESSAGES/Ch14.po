@@ -3268,7 +3268,7 @@ msgstr ""
 "die Teilnahme am Unterricht eine große Rolle für die Note spielen."
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
-msgid "jamovi descriptives for the |rtfm| data set"
+msgid "jamovi descriptives for the |rtfm|_ data set"
 msgstr "jamovi-Deskriptivstatistik für den |rtfm| Datensatz"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
@@ -4750,7 +4750,7 @@ msgstr ""
 "erhalten haben."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:108
-msgid "etc"
+msgid "etc."
 msgstr "usw."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:110

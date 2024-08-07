@@ -257,7 +257,7 @@ msgstr ""
 "empfehlenswert, aber andere Eltern sagen mir, dass das ziemlich normal ist."
 
 #: ../../Ch12/Ch12_Regression_01.rst:55
-msgid "Histograms for three variables from the |parenthood| data set"
+msgid "Histograms for three variables from the |parenthood|_ data set"
 msgstr "Histogramme für drei Variablen aus dem Datensatz |parenthood|"
 
 #: ../../Ch12/Ch12_Regression_01.rst:55
@@ -531,7 +531,7 @@ msgstr ""
 "Seite, um die Ausgabe in :numref:`fig-correlations` zu erhalten."
 
 #: ../../Ch12/Ch12_Regression_01.rst:197
-msgid "jamovi screenshot with correlations in the |parenthood| data set"
+msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
 msgstr "jamovi-Screenshot mit Korrelationen aus dem Datensatz |parenthood|"
 
 #: ../../Ch12/Ch12_Regression_01.rst:197
@@ -2251,7 +2251,7 @@ msgid ""
 "test you might try is the null hypothesis that there is *no relationship* "
 "between the predictors and the outcome, and the alternative hypothesis that "
 "*the data are distributed in exactly the way that the regression model "
-"predicts.*"
+"predicts*."
 msgstr ""
 "Nehmen wir an, Sie haben Ihr Regressionsmodell geschätzt. Der erste "
 "Hypothesentest, den Sie versuchen könnten, ist die Nullhypothese, dass es "

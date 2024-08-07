@@ -2163,7 +2163,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
-msgid "jamovi descriptives for the |rtfm| data set"
+msgid "jamovi descriptives for the |rtfm|_ data set"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
@@ -3126,7 +3126,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:108
-msgid "etc"
+msgid "etc."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:110
