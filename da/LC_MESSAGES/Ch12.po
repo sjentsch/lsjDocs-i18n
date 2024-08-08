@@ -2160,7 +2160,7 @@ msgstr ""
 msgid ""
 "The way we calculate these is to divide the ordinary residual by an estimate "
 "of the (population) standard deviation of these residuals. For technical "
-"reasons, mumble mumble, the formula for this is"
+"reasons, mumble mumble, the formula for this is:"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:79
