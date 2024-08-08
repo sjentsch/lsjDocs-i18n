@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: 2024-08-08 12:07+0200\n"
+"PO-Revision-Date: 2024-08-08 16:32+0200\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: \n"
 "Language: nb\n"
@@ -20,7 +20,7 @@ msgstr "Introduksjon til sannsynlighetsregning"
 
 #: ../../Ch07/Ch07_Probability.rst:0
 msgid "*[God] has afforded us only the twilight … of Probability.*"
-msgstr "*[Gud] har bare gitt oss et tussmørke … av sannsynlighet.*"
+msgstr "*[Gud] har bare gitt oss skumringen … av sannsynlighet.*"
 
 #: ../../Ch07/Ch07_Probability.rst:23
 msgid "John Locke"
@@ -772,7 +772,7 @@ msgstr ""
 "er å definere sannsynligheten for en hendelse som **graden av tro** som en "
 "intelligent og rasjonell aktør tillegger sannheten om denne hendelsen. Ut "
 "fra dette perspektivet eksisterer ikke sannsynligheter i verden, men snarere "
-"i tankene og antagelsene til mennesker og andre intelligente vesener."
+"i tankene og antakelsene til mennesker og andre intelligente vesener."
 
 #: ../../Ch07/Ch07_Probability_2.rst:168
 msgid ""
