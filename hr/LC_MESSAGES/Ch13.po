@@ -2238,7 +2238,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:273
-msgid "and we can define the “between groups ranked sums of squares” like this"
+msgid "and we can define the “between groups ranked sums of squares” like this:"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275
