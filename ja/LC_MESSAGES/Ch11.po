@@ -3,15 +3,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"POT-Creation-Date: 2024-08-12 22:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-12 21:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
 msgid "Comparing two means"
@@ -334,6 +342,7 @@ msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:180
+#, python-format
 msgid ""
 "(again, see section :doc:`../Ch04/Ch04_Descriptives_5` if you’ve forgotten "
 "why this is true). In other words, regardless of what scale the original "
@@ -678,9 +687,10 @@ msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:130
+#, python-format
 msgid ""
-"Also reported are two other things you might care about: the 95\\% "
-"confidence interval and a measure of effect size (we’ll talk more about "
+"Also reported are two other things you might care about: the 95\\"
+"% confidence interval and a measure of effect size (we’ll talk more about "
 "effect sizes later). So that seems straightforward enough. Now what do we "
 "*do* with this output? Well, since we’re pretending that we actually care "
 "about my toy example, we’re overjoyed to discover that the result is "
@@ -689,6 +699,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:138
+#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher "
 "than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -902,6 +913,7 @@ msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
+#, python-format
 msgid ""
 "The plots show the mean grade for students in Anastasia’s and Bernadette’s "
 "tutorials. Error bars depict 95\\% confidence intervals around the mean. "
@@ -1229,6 +1241,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:291
+#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1250,6 +1263,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:306
+#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5\\% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1\\% (std dev = 5.8). A Student’s "
@@ -1688,11 +1702,8 @@ msgstr ""
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:51
-msgid "Descriptives for the two grade test variables in the |chico|_ data set"
-msgstr ""
-
 #: ../../Ch11/Ch11_tTest_05.rst:55
+#, python-format
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
 "ttest_paired1`, we see that this impression seems to be supported. Across "
@@ -1711,6 +1722,7 @@ msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
+#, python-format
 msgid ""
 "Mean grade for test 1 and test 2, with associated 95\\% confidence intervals "
 "(left panel). Scatterplot showing the individual grades for test 1 and test "
@@ -1848,10 +1860,10 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_05.rst:168
 msgid ""
 "How do you do a paired samples *t*-test in jamovi? One possibility is to "
-"follow the process I outlined above. That is, create a difference "
-"variable and then run a one sample *t*-test on that. Since we’ve already "
-"created a variable called ``improvement``, let’s do that and see what we get "
-"(see :numref:`fig-ttest_paired2`\\)."
+"follow the process I outlined above. That is, create a difference variable "
+"and then run a one sample *t*-test on that. Since we’ve already created a "
+"variable called ``improvement``, let’s do that and see what we get (see :"
+"numref:`fig-ttest_paired2`\\)."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:180
@@ -1859,6 +1871,7 @@ msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:184
+#, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample T-"
@@ -1914,6 +1927,7 @@ msgid "One-sided tests"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
+#, python-format
 msgid ""
 "When introducing the theory of null hypothesis tests, I mentioned that there "
 "are some situations when it’s appropriate to specify a *one-sided* test (see "
@@ -1944,6 +1958,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
+#, python-format
 msgid ""
 "Notice that there are a few changes from the output that we saw last time. "
 "Most important is the fact that the actual hypothesis has changed, to "
@@ -2155,7 +2170,7 @@ msgid ""
 "versions of *d* that you might want to use in this situation. To understand "
 "why there are multiple versions of *d*, it helps to take the time to write "
 "down a formula that corresponds to the true population effect size δ. It’s "
-"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) /"
+"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) / σ."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:84
@@ -2244,6 +2259,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:140
+#, python-format
 msgid ""
 "This is the version of Cohen’s *d* that gets reported by the jamovi ``Paired "
 "Samples T-Test`` analysis. The only wrinkle is figuring out whether this is "

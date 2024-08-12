@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"POT-Creation-Date: 2024-08-12 22:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1094,8 +1094,8 @@ msgid ""
 "mean |Yb_k|, and ``VMEAN(mood.gain)`` the grand mean |Yb|. Again, we find "
 "that the values for that variable are the same as in the last column of the "
 "table above: the first three rows represent ``placebo``, followed by three "
-"lines with ``anxifree`` and three lines with ``joyzepam``; the next nine lines "
-"are a repetition of the first nine ones."
+"lines with ``anxifree`` and three lines with ``joyzepam``; the next nine "
+"lines are a repetition of the first nine ones."
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:511
@@ -1375,7 +1375,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:16
 msgid ""
-"To make life easier for you, jamovi can do ANOVA..hurrah! Go to the "
+"To make life easier for you, jamovi can do ANOVA… hurrah! Go to the "
 "``ANOVA`` - ``ANOVA`` analysis, and move the ``mood.gain`` variable across "
 "so it is in the ``Dependent Variable`` box, and then move the ``drug`` "
 "variable across so it is in the ``Fixed Factors`` box. This should give the "
@@ -2205,7 +2205,8 @@ msgstr ""
 "\n"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:273
-msgid "and we can define the “between groups ranked sums of squares” like this:"
+msgid ""
+"and we can define the “between groups ranked sums of squares” like this:"
 msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275

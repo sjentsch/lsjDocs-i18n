@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"POT-Creation-Date: 2024-08-12 22:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3012,8 +3012,8 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
-"The difference in ``mood.gain`` for people treated with ``CBT`` and people given "
-"``no.therapy``."
+"The difference in ``mood.gain`` for people treated with ``CBT`` and people "
+"given ``no.therapy``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48

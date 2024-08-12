@@ -1,18 +1,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: 2024-08-08 00:14+0200\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: \n"
-"Language: nb\n"
+"POT-Creation-Date: 2024-08-12 22:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 21:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 21:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 21:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-12 21:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
-"X-Generator: Poedit 3.5\n"
+"Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
 msgid "Comparing two means"
@@ -479,6 +513,7 @@ msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:180
+#, python-format
 msgid ""
 "(again, see section :doc:`../Ch04/Ch04_Descriptives_5` if you’ve forgotten "
 "why this is true). In other words, regardless of what scale the original "
@@ -980,9 +1015,10 @@ msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr "Gjennomføring av en *t*-test med ett utvalg i jamovi"
 
 #: ../../Ch11/Ch11_tTest_02.rst:130
+#, python-format
 msgid ""
-"Also reported are two other things you might care about: the 95\\% "
-"confidence interval and a measure of effect size (we’ll talk more about "
+"Also reported are two other things you might care about: the 95\\"
+"% confidence interval and a measure of effect size (we’ll talk more about "
 "effect sizes later). So that seems straightforward enough. Now what do we "
 "*do* with this output? Well, since we’re pretending that we actually care "
 "about my toy example, we’re overjoyed to discover that the result is "
@@ -998,6 +1034,7 @@ msgstr ""
 "resultatet ved å si noe sånt som dette:"
 
 #: ../../Ch11/Ch11_tTest_02.rst:138
+#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher "
 "than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -1026,7 +1063,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:150
 msgid "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
-msgstr "*t*\\(19) = 2.25, *p* = 0.036, KI\\ :sub:`95` = [0.34, 9.26]"
+msgstr "*t*\\(19) = 2.25, *p* = 0.036, CI\\ :sub:`95` = [0.34, 9.26]"
 
 #: ../../Ch11/Ch11_tTest_02.rst:152
 msgid ""
@@ -1300,6 +1337,7 @@ msgstr ""
 "Gjennomsnittskarakterer (med feilsøyler) i Anastasias og Bernadettes klasser"
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
+#, python-format
 msgid ""
 "The plots show the mean grade for students in Anastasia’s and Bernadette’s "
 "tutorials. Error bars depict 95\\% confidence intervals around the mean. "
@@ -1769,6 +1807,7 @@ msgstr ""
 "snakke om nå."
 
 #: ../../Ch11/Ch11_tTest_03.rst:291
+#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1804,6 +1843,7 @@ msgstr ""
 "kan skrive opp resultatet med en tekst som dette:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:306
+#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5\\% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1\\% (std dev = 5.8). A Student’s "
@@ -2479,6 +2519,7 @@ msgstr ""
 "datasettet |chico|_"
 
 #: ../../Ch11/Ch11_tTest_05.rst:55
+#, python-format
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
 "ttest_paired1`, we see that this impression seems to be supported. Across "
@@ -2508,6 +2549,7 @@ msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr "Gjennomsnittskarakter for prøve 1 og prøve 2 i Dr. Chicos klasse"
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
+#, python-format
 msgid ""
 "Mean grade for test 1 and test 2, with associated 95\\% confidence intervals "
 "(left panel). Scatterplot showing the individual grades for test 1 and test "
@@ -2729,6 +2771,7 @@ msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr "Resultater fra en *t*-test på parvise forskjeller i poengsum"
 
 #: ../../Ch11/Ch11_tTest_05.rst:184
+#, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample T-"
@@ -2807,6 +2850,7 @@ msgid "One-sided tests"
 msgstr "Ensidige tester"
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
+#, python-format
 msgid ""
 "When introducing the theory of null hypothesis tests, I mentioned that there "
 "are some situations when it’s appropriate to specify a *one-sided* test (see "
@@ -2855,6 +2899,7 @@ msgstr ""
 "er ensidig, dvs. at det sanne gjennomsnittet er større enn 67,5\\%."
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
+#, python-format
 msgid ""
 "Notice that there are a few changes from the output that we saw last time. "
 "Most important is the fact that the actual hypothesis has changed, to "
@@ -3151,7 +3196,7 @@ msgid ""
 "versions of *d* that you might want to use in this situation. To understand "
 "why there are multiple versions of *d*, it helps to take the time to write "
 "down a formula that corresponds to the true population effect size δ. It’s "
-"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) / (µ\\ :sub:`2`)"
+"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) / σ."
 msgstr ""
 "De fleste diskusjoner om Cohens *d* fokuserer på en situasjon som er analog "
 "med Students uavhengig *t*-test, og det er i denne sammenhengen at historien "
@@ -3159,7 +3204,7 @@ msgstr ""
 "ønske å bruke i denne situasjonen. For å forstå hvorfor det finnes flere "
 "versjoner av *d*, er det nyttig å ta seg tid til å skrive ned en formel som "
 "tilsvarer den sanne populasjonseffektstørrelsen δ. Det er ganske enkelt, δ = "
-"(µ\\ :sub:`1` - µ\\ :sub:`2`) / (µ\\ :sub:`2`)"
+"(µ\\ :sub:`1` - µ\\ :sub:`2`) / σ."
 
 #: ../../Ch11/Ch11_tTest_07.rst:84
 msgid ""
@@ -3290,6 +3335,7 @@ msgstr ""
 "enn skårene for tid 1."
 
 #: ../../Ch11/Ch11_tTest_07.rst:140
+#, python-format
 msgid ""
 "This is the version of Cohen’s *d* that gets reported by the jamovi ``Paired "
 "Samples T-Test`` analysis. The only wrinkle is figuring out whether this is "
@@ -4035,64 +4081,3 @@ msgid ""
 msgstr ""
 "Hvis dataene dine ikke er normalfordelt, kan du bruke :doc:`Mann-Whitney- "
 "eller Wilcoxon-tester <Ch11_tTest_09>` i stedet for *t*-tester."
-
-#: ../../Ch11/Ch11_tTest_03.rst:196
-msgid ""
-"So why not just use these deviations (i.e., the extent to which each "
-"student’s grade differs from the mean grade in their tutorial)? Remember, a "
-"variance is just the average of a bunch of squared deviations, so let’s do "
-"that. Mathematically, we could write it like this"
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_03.rst:387
-msgid ""
-"(I wouldn’t actually underline the word “higher” in real life, I’m just "
-"doing it to emphasise the point that “higher” corresponds to positive *t*-"
-"values). On the other hand, suppose the phrasing I wanted to use has "
-"Bernadette’s class listed first. If so, it makes more sense to treat her "
-"class as group 1, and if so, the write up looks like this"
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_05.rst:51
-msgid "Descriptives for the two grade test variables in the |chico| data set"
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_05.rst:168
-msgid ""
-"How do you do a paired samples *t*-test in jamovi? One possibility is to "
-"follow the process I outlined above. That is, create a ``difference`` "
-"variable and then run a one sample *t*-test on that. Since we’ve already "
-"created a variable called ``improvement``, let’s do that and see what we get "
-"(see :numref:`fig-ttest_paired2`\\)."
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_06.rst:51
-msgid ""
-"So that’s how to do a one-sided one sample *t*-test. However, all versions "
-"of the *t*-test can be one-sided. For an independent samples *t*-test, you "
-"could have a one-sided test if you’re only interested in testing to see if "
-"group A has *higher* scores than group B, but have no interest in finding "
-"out if group B has higher scores than group A. Let’s suppose that, for Dr "
-"Harpo’s class, you wanted to see if Anastasia’s students had higher grades "
-"than Bernadette’s. For this analysis, in the ``Hypothesis`` options, specify "
-"that ``Group 1 > Group2``. You should get the results shown in :numref:`fig-"
-"ttest_onesided2`."
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_06.rst:93
-msgid ""
-"jamovi results showing a ``Paired Samples T-Test`` where the actual "
-"hypothesis is one-sided, i.e. that ``grade test2`` (``Measure 1``) is larger "
-"than ``grade test1`` (``Measure 2``)."
-msgstr ""
-
-#: ../../Ch11/Ch11_tTest_07.rst:76
-msgid ""
-"The majority of discussions of Cohen’s *d* focus on a situation that is "
-"analogous to Student’s independent samples *t*-test, and it’s in this "
-"context that the story becomes messier, since there are several different "
-"versions of *d* that you might want to use in this situation. To understand "
-"why there are multiple versions of *d*, it helps to take the time to write "
-"down a formula that corresponds to the true population effect size δ. It’s "
-"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) /"
-msgstr ""

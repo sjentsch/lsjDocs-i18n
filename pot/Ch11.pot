@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-03 23:58+0200\n"
+"POT-Creation-Date: 2024-08-12 22:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1691,10 +1691,6 @@ msgstr ""
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:51
-msgid "Descriptives for the two grade test variables in the |chico|_ data set"
-msgstr ""
-
 #: ../../Ch11/Ch11_tTest_05.rst:55
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
@@ -1851,10 +1847,10 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_05.rst:168
 msgid ""
 "How do you do a paired samples *t*-test in jamovi? One possibility is to "
-"follow the process I outlined above. That is, create a difference "
-"variable and then run a one sample *t*-test on that. Since we’ve already "
-"created a variable called ``improvement``, let’s do that and see what we get "
-"(see :numref:`fig-ttest_paired2`\\)."
+"follow the process I outlined above. That is, create a difference variable "
+"and then run a one sample *t*-test on that. Since we’ve already created a "
+"variable called ``improvement``, let’s do that and see what we get (see :"
+"numref:`fig-ttest_paired2`\\)."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:180
@@ -2158,7 +2154,7 @@ msgid ""
 "versions of *d* that you might want to use in this situation. To understand "
 "why there are multiple versions of *d*, it helps to take the time to write "
 "down a formula that corresponds to the true population effect size δ. It’s "
-"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) /"
+"pretty straightforward, δ = (µ\\ :sub:`1` - µ\\ :sub:`2`) / σ."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:84
