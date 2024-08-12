@@ -1156,7 +1156,3 @@ msgid ""
 msgstr ""
 "Og jeg håper at denne boken, eller den ferdige boken som dette en dag vil "
 "bli, kan hjelpe deg med det."
-
-#: ../../Ch17/Ch17_Epilogue.rst:0
-msgid "““and go on till you come to the end: then stop”*"
-msgstr ""
