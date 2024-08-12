@@ -1,21 +1,22 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:13+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-08-07 23:57+0200\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: \n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
+"X-Generator: Poedit 3.5\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
 msgid "Comparing several means (one-way ANOVA)"
-msgstr ""
+msgstr "Sammenligning av flere gjennomsnitt (enveis ANOVA)"
 
 #: ../../Ch13/Ch13_ANOVA.rst:22
 msgid ""
@@ -35,6 +36,21 @@ msgid ""
 "groups differ in terms of some outcome variable of interest. This is the "
 "question that is addressed by a **one-way ANOVA**."
 msgstr ""
+"Dette kapittelet introduserer et av de mest brukte verktøyene i psykologisk "
+"statistikk, kjent som «variansanalyse», men vanligvis omtalt som ANOVA. Den "
+"grunnleggende teknikken ble utviklet av Sir Ronald Fisher på begynnelsen av "
+"1900-tallet, og det er ham vi kan takke for den noe uheldige terminologien. "
+"Begrepet ANOVA er litt misvisende på to måter. For det første, selv om "
+"navnet på teknikken refererer til varianser, handler ANOVA om å undersøke "
+"forskjeller i gjennomsnitt. For det andre finnes det flere forskjellige ting "
+"der ute som alle omtales som ANOVA, og noen av dem har bare en svært svak "
+"forbindelse med hverandre. Senere i boken vil vi støte på en rekke ulike "
+"ANOVA-metoder som kan brukes i ganske forskjellige situasjoner, men i dette "
+"kapittelet skal vi bare se på den enkleste formen for ANOVA, der vi har "
+"flere ulike grupper av observasjoner, og vi er interessert i å finne ut om "
+"disse gruppene er forskjellige når det gjelder en eller annen "
+"utfallsvariabel av interesse. Det er dette spørsmålet en **enveis ANOVA** "
+"tar for seg."
 
 #: ../../Ch13/Ch13_ANOVA.rst:39
 msgid ""
@@ -53,16 +69,33 @@ msgid ""
 "measures ANOVA <Ch13_ANOVA_07>` and it's non-parametric equivalent, the :doc:"
 "`Friedman test <Ch13_ANOVA_08>`."
 msgstr ""
+"Strukturen i dette kapittelet er som følger: I avsnitt :doc:`Ch13_ANOVA_01` "
+"introduserer jeg et fiktivt datasett som vi vil bruke som et løpende "
+"eksempel gjennom hele kapittelet. Etter å ha introdusert dataene beskriver "
+"jeg hvordan en enveis ANOVA faktisk fungerer (:doc:`Ch13_ANOVA_02`), og "
+"deretter fokuserer jeg på :doc:`hvordan du kan kjøre en enveis ANOVA i "
+"jamovi <Ch13_ANOVA_03>`. Disse to avsnittene utgjør kjernen i kapitlet. "
+"Resten av kapittelet tar for seg en rekke viktige temaer som uunngåelig "
+"dukker opp når man kjører en ANOVA, nemlig hvordan man beregner :doc:"
+"`effektstørrelser <Ch13_ANOVA_04>`, og :doc:`post-hoc-tester og korreksjoner "
+"for multiple sammenligninger <Ch13_ANOVA_05>`. Etterpå snakker vi om :doc:"
+"`forutsetningene som ANOVA bygger på <Ch13_ANOVA_06>`, hvordan du kan "
+"sjekke disse forutsetningene og noen av de tingene du kan gjøre hvis "
+"forutsetningene brytes. Deretter tar vi for oss :doc:`repeated measures "
+"ANOVA <Ch13_ANOVA_07>` og dens ikke-parametriske ekvivalent, :doc:`Friedman-"
+"testen <Ch13_ANOVA_08>`."
 
 #: ../../Ch13/Ch13_ANOVA.rst:54
 msgid ""
 "At the end of the chapter we’ll talk a little about the :doc:`relationship "
 "between ANOVA and other statistical tools <Ch13_ANOVA_09>`."
 msgstr ""
+"På slutten av kapittelet skal vi snakke litt om :doc:`forholdet mellom ANOVA "
+"og andre statistiske verktøy <Ch13_ANOVA_09>`."
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:4
 msgid "An illustrative data set"
-msgstr ""
+msgstr "Et illustrativt datasett"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:6
 msgid ""
@@ -83,6 +116,23 @@ msgid ""
 "clinicaltrial|_ data set. It contains the three variables ``drug`` |"
 "nominal|, ``therapy`` |nominal| and ``mood.gain`` |continuous|."
 msgstr ""
+"Anta at du har blitt involvert i en klinisk studie der dere tester et nytt "
+"antidepressivt legemiddel kalt *Joyzepam*. For å kunne lage en rettferdig "
+"test av legemiddelets effektivitet, innebærer studien at tre separate "
+"legemiddel skal administreres. Det ene er placebo, og det andre er et "
+"eksisterende antidepressivt / angstdempende legemiddel kalt *Anxifree*. En "
+"samling på 18 deltakere med moderat til alvorlig depresjon rekrutteres til "
+"den innledende testingen. Fordi legemidlene noen ganger gis sammen med "
+"psykologisk terapi, inkluderer studien din 9 personer som gjennomgår "
+"kognitiv atferdsterapi (KAT) og 9 som ikke gjør det. Deltakerne blir "
+"tilfeldig tildelt (dobbelt blindet, selvfølgelig) en terapi, slik at tre "
+"personer som får CBT og tre personer som ikke får terapi, får hvert av de "
+"tre legemidlene. En psykolog vurderer stemningsleiet til hver person etter 3 "
+"måneders behandling med hvert legemiddel, og den generelle *forbedringen* i "
+"stemningsleiet til hver person vurderes på en skala fra -5 til +5. Med dette "
+"som studiedesign, la oss nå laste inn datasettet |clinicaltrial|_. Det "
+"inneholder de tre variablene ``drug`` |nominal|, ``therapy`` |nominal| og "
+"``mood.gain`` |continuous|."
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:55 ../../Ch13/Ch13_ANOVA_08.rst:48
 msgid "nominal"
@@ -100,24 +150,37 @@ msgid ""
 "Ch04_Descriptives` we showed you how to do this, and some of the descriptive "
 "statistics we can calculate in jamovi are shown in :numref:`fig-anova1`."
 msgstr ""
+"I dette kapittelet er vi egentlig interessert i effekten av ``drug`` på "
+"``mood.gain``. Det første vi må gjøre, er å beregne deskriptivstatistikk og "
+"lage noen diagrammer. I :doc:`../Ch04/Ch04_Descriptives` viste vi deg "
+"hvordan du gjør dette, og noen deskriptivstatistikk vi kan beregne i jamovi, "
+"vises i :numref:`fig-anova1`."
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
+"Deskriptivstatistikk for ``mood.gain``, og boksplotter gruppert etter "
+"hvilket legemiddel (``drug``) ble administrert"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:41
 msgid ""
 "As the plot makes clear, there is a larger improvement in mood for "
-"participants in the ``Joyzepam`` group than for either the ``Anxifree`` "
-"group or the ``Placebo`` group. The ``Anxifree`` group shows a larger mood "
-"gain than the ``Placebo`` group, but the difference isn’t as large. The "
+"participants in the ``joyzepam`` group than for either the ``anxifree`` "
+"group or the ``placebo`` group. The ``anxifree`` group shows a larger mood "
+"gain than the ``placebo`` group, but the difference isn’t as large. The "
 "question that we want to answer is are these difference “real”, or are they "
 "just due to chance?"
 msgstr ""
+"Som det fremgår av diagrammet, er det en større bedring i humøret for "
+"deltakerne i ``joyzepam``-gruppen enn for både ``anxifree``-gruppen og "
+"``placebo``-gruppen. Gruppen som fikk ``anxifree`` viser en større "
+"humørforbedring enn ``placebo``-gruppen, men forskjellen er ikke like stor. "
+"Spørsmålet vi ønsker å få svar på er om disse forskjellene er «reelle», "
+"eller om de bare skyldes tilfeldigheter?"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:4
 msgid "How ANOVA works"
-msgstr ""
+msgstr "Hvordan ANOVA fungerer"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:6
 msgid ""
@@ -130,6 +193,14 @@ msgid ""
 "works, and then once you’ve grasped the concept never *ever* do it this way "
 "again."
 msgstr ""
+"For å svare på spørsmålet som stilles av dataene fra |clinicaltrial|_, skal "
+"vi kjøre en enveis ANOVA. Jeg skal begynne med å vise deg hvordan du gjør "
+"det på den vanskelige måten, ved å bygge det statistiske verktøyet fra "
+"grunnen av og vise deg hvordan du kan gjøre det hvis du ikke har tilgang til "
+"noen av de kule innebygde ANOVA-funksjonene i jamovi. Jeg håper du vil lese "
+"den nøye, prøve å gjøre det på den lange måten en eller to ganger for å "
+"forsikre deg om at du virkelig forstår hvordan ANOVA fungerer, og når du har "
+"forstått konseptet, aldri *noen gang* gjøre det på denne måten igjen."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:15
 msgid ""
@@ -145,11 +216,23 @@ msgid ""
 "drugs is any more effective than a placebo. We can write out this null "
 "hypothesis as:"
 msgstr ""
+"Forsøksdesignet som jeg beskrev i forrige avsnitt, tyder sterkt på at vi er "
+"interessert i å sammenligne den gjennomsnittlige stemningsendringen for de "
+"tre ulike legemidlene. I så måte snakker vi om en analyse som ligner på *t*-"
+"testen (kapittel :doc:`../Ch11/Ch11_tTest`), men som involverer flere enn to "
+"grupper. Hvis vi lar µ\\ :sub:`P` betegne populasjonsgjennomsnittet for "
+"stemningsendringen indusert av placebo, og lar µ\\ :sub:`A` og µ\\ :sub:`J` "
+"betegne de tilsvarende gjennomsnittene for våre to legemiddel, Anxifree og "
+"Joyzepam, så er den (noe pessimistiske) nullhypotesen vi ønsker å teste, at "
+"alle tre populasjonsgjennomsnittene er identiske. Det vil si at *ingen* av "
+"de to legemidlene er mer effektive enn placebo. Vi kan skrive ut denne "
+"nullhypotesen som:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:26
 msgid ""
 "H\\ :sub:`0`: it is true that µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 msgstr ""
+"H\\ :sub:`0`: det er sant at µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:28
 msgid ""
@@ -159,11 +242,17 @@ msgid ""
 "few different ways in which the null hypothesis can be false. So for now "
 "we’ll just write the alternative hypothesis like this:"
 msgstr ""
+"Alternativhypotesen vår er derfor at minst én av de tre ulike behandlingene "
+"er forskjellig fra de andre. Det er litt vanskelig å skrive dette "
+"matematisk, for (som vi skal komme tilbake til) kan nullhypotesen være falsk "
+"på mange forskjellige måter. Så inntil videre skriver vi bare "
+"alternativhypotesen slik:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:34
 msgid ""
 "H\\ :sub:`1`: it is NOT true that µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 msgstr ""
+"H\\ :sub:`1`: det er IKKE sant at µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:36
 msgid ""
@@ -179,10 +268,21 @@ msgid ""
 "around with variances and it will turn out that this gives us a useful tool "
 "for investigating means."
 msgstr ""
+"Denne nullhypotesen er mye vanskeligere å teste enn noen av de vi har sett "
+"tidligere. Hvordan skal vi gjøre det? Et fornuftig forslag ville være å "
+"«gjennomføre en ANOVA», siden det er tittelen på kapitlet, men det er ikke "
+"spesielt klart hvorfor en «*varians*analyse» vil hjelpe oss å lære noe "
+"nyttig om *gjennomsnittene*. Faktisk er dette en av de største konseptuelle "
+"vanskelighetene folk har når de først møter ANOVA. For å se hvordan dette "
+"fungerer, synes jeg det er mest nyttig å begynne med å snakke om varianser. "
+"Jeg skal faktisk begynne med å leke litt matematisk med formelen som "
+"beskriver variansen. Det vil si at vi begynner med å leke oss med varianser, "
+"og det vil vise seg at dette gir oss et nyttig verktøy for å undersøke "
+"gjennomsnitt."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:49
 msgid "Two formulas for the variance of *Y*"
-msgstr ""
+msgstr "To formler for variansen til *Y*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:51
 msgid ""
@@ -199,6 +299,20 @@ msgid ""
 "the experiment, and |Yb_k| to refer to the average mood change experienced "
 "by the 6 people in group *k*.\\ [#]"
 msgstr ""
+"La oss begynne med å introdusere noen notasjoner. Vi bruker *G* for å "
+"referere til det totale antallet grupper. I vårt datasett er det tre "
+"legemidler, så det er *G* = 3 grupper. Deretter bruker vi *N* for å referere "
+"til den totale utvalgsstørrelsen; det er totalt *N* = 18 personer i "
+"datasettet vårt. På samme måte bruker vi |N_k| for å betegne antall personer "
+"i den *k*-tredje gruppen. I våre data fra |clinicaltrial|_ er "
+"utvalgsstørrelsen |N_k| = 6` for alle tre gruppene.\\ [#]_ Til slutt bruker "
+"vi *Y* for å betegne utfallsvariabelen. I vårt tilfelle refererer *Y* til "
+"humørforbedringer. Nærmere bestemt bruker vi |Y_ik| for å referere til "
+"humørforbedringen som oppleves av det *i*-te medlemmet av den *k*-te "
+"gruppen. På samme måte bruker vi |Yb| for å betegne den gjennomsnittlige "
+"humørforbedringen for alle de 18 personene i eksperimentet, og |Yb_k| for å "
+"referere til den gjennomsnittlige humørforbedringen som ble opplevd av de "
+"seks personene i gruppe *k*.\\ [#]."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:66
 msgid ""
@@ -208,6 +322,10 @@ msgid ""
 "just doing descriptive statistics. The sample variance of *Y* is defined as "
 "follows:"
 msgstr ""
+"Nå som vi har fått orden på notasjonen, kan vi begynne å skrive ned formler. "
+"Til å begynne med kan vi minne om :ref:`formelen for variansen "
+"<variance_formula>`, som vi brukte den gang vi bare drev med "
+"deskriptivstatistikk. Utvalgsvariansen til *Y* er definert på følgende måte:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:72
 msgid ""
@@ -231,6 +349,15 @@ msgid ""
 "summation here is that I’ve classified people into groups, and then assigned "
 "numbers to people within groups."
 msgstr ""
+"Denne formelen ser stort sett identisk ut med :ref:`formelen for variansen "
+"<variance_formula>`. Den eneste forskjellen er at jeg denne gangen har to "
+"summeringer her: Jeg summerer over grupper (dvs. verdiene for *k*) og over "
+"personene i gruppene (dvs. verdiene for *:`i*). Dette er en ren kosmetisk "
+"detalj. Hvis jeg i stedet hadde brukt notasjonen |Y_p| for å referere til "
+"verdien av utfallsvariabelen for person *p* i utvalget, ville jeg bare hatt "
+"en enkelt summering. Den eneste grunnen til at vi har en dobbel summering "
+"her, er at jeg har klassifisert personer i grupper, og deretter tildelt tall "
+"til personer i gruppene."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:84
 msgid ""
@@ -240,54 +367,59 @@ msgid ""
 "group 2. It turns out that we have three cool people (*N*\\ :sub:`1` = 3) "
 "and two uncool people (*N*\\ :sub:`2` = 2)."
 msgstr ""
+"Et konkret eksempel kan være nyttig her. La oss se på denne tabellen, der vi "
+"har totalt *N* = 5 personer sortert i *G* = 2 grupper. La oss si at de "
+"«kule» personene er gruppe 1 og de «ukule» personene er gruppe 2. Det viser "
+"seg at vi har tre kule personer (*N*\\ :sub:`1` = 3) og to ukule personer "
+"(*N*\\ :sub:`2` = 2)."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "name"
-msgstr ""
+msgstr "navn"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "person"
-msgstr ""
+msgstr "person"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:398
 #: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
 #: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
 msgid "group"
-msgstr ""
+msgstr "gruppe"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "group num."
-msgstr ""
+msgstr "gruppenummer."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "index in group"
-msgstr ""
+msgstr "indeks i gruppe"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "grumpiness"
-msgstr ""
+msgstr "grettenhet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*p*"
-msgstr ""
+msgstr "*p*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:400
 #: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
 #: ../../Ch13/Ch13_ANOVA_02.rst:493 ../../Ch13/Ch13_ANOVA_02.rst:523
 msgid "*k*"
-msgstr ""
+msgstr "*k*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*i*"
-msgstr ""
+msgstr "*i*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "|Y_ik| or |Y_p|"
-msgstr ""
+msgstr "|Y_ik| eller |Y_p|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "Ann"
-msgstr ""
+msgstr "Ann"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_02.rst:101
@@ -299,7 +431,7 @@ msgstr "1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "cool"
-msgstr ""
+msgstr "kult"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "20"
@@ -307,7 +439,7 @@ msgstr "20"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
@@ -323,7 +455,7 @@ msgstr "55"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "Cat"
-msgstr ""
+msgstr "Katt"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:202 ../../Ch13/Ch13_ANOVA_07.rst:70
@@ -336,7 +468,7 @@ msgstr "21"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "Tim"
-msgstr ""
+msgstr "Tim"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_05.rst:49
 #: ../../Ch13/Ch13_ANOVA_05.rst:200 ../../Ch13/Ch13_ANOVA_07.rst:72
@@ -346,7 +478,7 @@ msgstr "4"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "uncool"
-msgstr ""
+msgstr "ukul"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "91"
@@ -354,7 +486,7 @@ msgstr "91"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "Egg"
-msgstr ""
+msgstr "Egg"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:198 ../../Ch13/Ch13_ANOVA_07.rst:70
@@ -380,6 +512,17 @@ msgid ""
 "valid to refer to Tim’s grumpiness by saying that |Y_ik| = 91, where *k* = 2 "
 "and *i* = 1."
 msgstr ""
+"Legg merke til at jeg har konstruert to forskjellige merkingssystemer her. "
+"Vi har en «person»-variabel *p*, så det ville være helt fornuftig å referere "
+"til |Y_p| som grettenheten til den *p*-tredje personen i utvalget. Tabellen "
+"viser for eksempel at Tim er den fjerde, så vi sier *p* = 4. Så når vi "
+"snakker om grettenheten *Y* til denne «Tim»-personen, uansett hvem han er, "
+"kan vi referere til grettenheten hans ved å si at |Y_p| = 91, for person *p* "
+"= 4, altså. Det er imidlertid ikke den eneste måten vi kan referere til Tim "
+"på. Alternativt kan vi si at Tim tilhører den «ukule» gruppen (*k* = 2), og "
+"at han faktisk er den første personen i den «ukule» gruppen (*i* = 1). Det "
+"er altså like gyldig å referere til Tims grettenhet ved å si at |Y_ik| = 91, "
+"der *k* = 2 og *i* = 1."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:119
 msgid ""
@@ -387,6 +530,9 @@ msgid ""
 "and so the formula that I gave above is actually identical to our original "
 "formula for the variance, which would be"
 msgstr ""
+"Med andre ord, hver person *p* tilsvarer en unik *ik*-kombinasjon, og dermed "
+"er formelen jeg ga ovenfor faktisk identisk med vår opprinnelige formel for "
+"variansen, som ville vært"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:123
 msgid ""
@@ -406,10 +552,15 @@ msgid ""
 "doing an ANOVA it’s important to keep track of which participants belong in "
 "which groups, and we need to use the |Y_ik| notation to do this."
 msgstr ""
+"I begge formlene summerer vi bare over alle observasjonene i utvalget. Som "
+"oftest vil vi bare bruke den enklere |Y_p|-notasjonen; ligningen som bruker |"
+"Y_p| er helt klart den enkleste av de to. Når vi utfører en ANOVA, er det "
+"imidlertid viktig å holde rede på hvilke deltakere som tilhører hvilke "
+"grupper, og vi må bruke |Y_ik|-notasjonen for å gjøre dette."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:133
 msgid "From variances to sums of squares"
-msgstr ""
+msgstr "Fra varianser til kvadratsummer"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:135
 msgid ""
@@ -418,12 +569,18 @@ msgid ""
 "|SS_t|\\. This is very simple. Instead of averaging the squared deviations, "
 "which is what we do when calculating the variance, we just add them up."
 msgstr ""
+"Nå som vi har fått en god forståelse av hvordan variansen beregnes, kan vi "
+"definere noe som kalles **total sum av kvadrater**, som betegnes |SS_t|\\. "
+"Dette er veldig enkelt. I stedet for å ta gjennomsnittet av de kvadrerte "
+"avvikene, som vi gjør når vi beregner variansen, legger vi dem bare sammen."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:141
 msgid ""
 "So the formula for the total sum of squares is almost identical to the "
 "formula for the variance"
 msgstr ""
+"Formelen for den totale kvadratsummen er altså nesten identisk med formelen "
+"for variansen"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:144
 msgid ""
@@ -442,12 +599,18 @@ msgid ""
 "actual variance. One very nice thing about the total sum of squares is that "
 "we can break it up into two different kinds of variation."
 msgstr ""
+"Når vi snakker om å analysere varianser i forbindelse med ANOVA, jobber vi "
+"egentlig med den totale kvadratsummen i stedet for den faktiske variansen. "
+"En veldig fin ting med den totale kvadratsummen er at vi kan dele den opp i "
+"to forskjellige typer variasjon."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:151
 msgid ""
 "First, we can talk about the **within-group sum of squares**, in which we "
 "look to see how different each individual person is from their own group mean"
 msgstr ""
+"For det første kan vi snakke om **innen-gruppens kvadratsum**, der vi ser på "
+"hvor forskjellig hver enkelt person er fra gjennomsnittet i sin egen gruppe"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:155
 msgid ""
@@ -469,6 +632,14 @@ msgid ""
 "sum of squares, because it’s completely ignoring any group differences, i."
 "e., whether the drugs will have different effects on people’s moods."
 msgstr ""
+"hvor |Yb_k| er et gruppegjennomsnitt. I vårt eksempel vil |Yb_k| være den "
+"gjennomsnittlige humørforbedringen som oppleves av de personene som får det "
+"*k*-te legemiddelet. Så i stedet for å sammenligne enkeltpersoner med "
+"gjennomsnittet av alle personene i eksperimentet, sammenligner vi dem bare "
+"med personene i samme gruppe. Som en konsekvens av dette kan du forvente at "
+"verdien av |SS_w| er mindre enn den totale summen av kvadrater, fordi den "
+"fullstendig ignorerer eventuelle gruppeforskjeller, dvs. om legemidlene vil "
+"ha ulik effekt på humøret til folk."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:165
 msgid ""
@@ -476,12 +647,17 @@ msgid ""
 "differences between groups. We do this by looking at the differences between "
 "the group means |Yb_k| and grand mean |Yb|."
 msgstr ""
+"Deretter kan vi definere et tredje variasjonsbegrep som *kun* fanger opp "
+"forskjellene mellom grupper. Dette gjør vi ved å se på forskjellene mellom "
+"gruppegjennomsnittet |Yb_k| og det totale gjennomsnittet |Yb|."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:169
 msgid ""
 "In order to quantify the extent of this variation, what we do is calculate "
 "the **between-group sum of squares**"
 msgstr ""
+"For å kvantifisere omfanget av denne variasjonen beregner vi **kvadratsummen "
+"mellom gruppene**."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:172
 msgid ""
@@ -503,6 +679,9 @@ msgid ""
 "experiment |SS_t| is actually the sum of the differences between the groups |"
 "SS_b| and the variation inside the groups S\\ :sub:`w`\\. That is,"
 msgstr ""
+"Det er ikke så vanskelig å vise at den totale variasjonen blant personene i "
+"eksperimentet |SS_t| faktisk er summen av forskjellene mellom gruppene |"
+"SS_b| og variasjonen innad i gruppene S\\ :sub:`w`\\. Det vil si at,"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:183
 msgid "|SS_w| + |SS_b| = |SS_t|"
@@ -510,11 +689,11 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:185
 msgid "Yay."
-msgstr ""
+msgstr "Jippi."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:193
 msgid "illustration of between and within groups variation"
-msgstr ""
+msgstr "illustrasjon av variasjon mellom og innad i grupper"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:193
 msgid ""
@@ -523,6 +702,10 @@ msgid ""
 "the differences in the group means. In the right panel, the arrows highlight "
 "the variability within each group."
 msgstr ""
+"Grafisk illustrasjon av variasjon «mellom grupper» (venstre panel) og "
+"variasjon «innenfor grupper» (høyre panel). I det venstre panelet viser "
+"pilene forskjellene i gruppegjennomsnitt. I det høyre panelet fremhever "
+"pilene variasjonen innad i hver gruppe."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:200
 msgid ""
@@ -539,10 +722,22 @@ msgid ""
 "associated with everything else”, |SS_w|\\. Hmm. I detect a hypothesis test "
 "coming on."
 msgstr ""
+"Hva har vi funnet ut? Vi har oppdaget at den totale variasjonen knyttet til "
+"utfallsvariabelen (|SS_t|\\) matematisk sett kan deles opp i summen av "
+"«variasjonen som skyldes forskjellene i utvalgsgjennomsnitt for de ulike "
+"gruppene» (|SS_b|\\) pluss «all den øvrige variasjonen» (|SS_w|\\).\\ [#]_ " 
+"Hvordan hjelper det meg å finne ut om gruppene har ulike "
+"populasjonsgjennomsnitt?"
+"Vent litt. Nå som jeg tenker meg om, er det *nøyaktig* det vi var "
+"ute etter. Hvis nullhypotesen er sann, forventer du vel at alle "
+"utvalgsgjennomsnittene er ganske like hverandre? Og det ville innebære at du "
+"forventer at |SS_b| er veldig liten, eller i det minste forventer du at den "
+"er mye mindre enn «variasjonen knyttet til alt annet», |SS_w|\\. Hmm. Jeg "
+"aner en hypotesetest på vei."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:216
 msgid "From sums of squares to the *F*-test"
-msgstr ""
+msgstr "Fra kvadratsummer til *F*-test"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:218
 msgid ""
@@ -556,6 +751,15 @@ msgid ""
 "test statistic, the **F-ratio**, and then try to give you a feel for *why* "
 "we do it this way."
 msgstr ""
+"Som vi så i forrige avsnitt, er den *kvalitative* ideen bak ANOVA å "
+"sammenligne de to kvadratsummene |SS_b| og |SS_w| med hverandre. Hvis "
+"variasjonen mellom gruppene |SS_b| er stor i forhold til variasjonen innad i "
+"gruppene |SS_w|, har vi grunn til å mistenke at populasjonsgjennomsnittene "
+"for de ulike gruppene ikke er identiske med hverandre. For å konvertere "
+"dette til en brukbar hypotesetest, er det nødvendig med litt «fikling». Jeg "
+"skal først vise deg *hvad* vi gjør for å beregne teststatistikken vår, **F-"
+"ratio**, og deretter prøve å gi deg en følelse av *hvorfor* vi gjør det på "
+"denne måten."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:229
 msgid ""
@@ -570,6 +774,16 @@ msgid ""
 "variation of the group means (*G* data points) around the grand mean (1 "
 "constraint). Therefore, the degrees of freedom here are:"
 msgstr ""
+"For å konvertere SS-verdiene våre til et *F*-forhold må vi først beregne "
+"**frihetsgradene** som er knyttet til |SS_b|- og |SS_w|-verdiene. Som vanlig "
+"tilsvarer frihetsgradene antallet unike «datapunkter» som bidrar til en "
+"bestemt beregning, minus antallet «begrensninger» (*constraints*) som de må "
+"tilfredsstille. For variabiliteten innad i gruppene beregner vi variasjonen "
+"i de individuelle observasjonene (*N* datapunkter) rundt "
+"gruppegjennomsnittet (*G* begrensninger). For variabiliteten mellom grupper "
+"er vi derimot interessert i variasjonen i gruppegjennomsnittet (*G* "
+"datapunkter) rundt det totale gjennomsnittet (1 begrensning). Derfor er "
+"frihetsgradene her:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:289
 msgid "|df_b| = *G* - 1"
@@ -585,6 +799,9 @@ msgid ""
 "squares value into a “mean squares” value, which we do by dividing by the "
 "degrees of freedom:"
 msgstr ""
+"Ok, det virker enkelt nok. Det neste vi gjør, er å konvertere den summerte "
+"kvadratverdien (*sum of squares*) til en «gjennomsnittlig kvadratverdi», "
+"(*mean square values*; MS) noe vi gjør ved å dividere med frihetsgradene:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:249 ../../Ch13/Ch13_ANOVA_02.rst:289
 msgid "|MS_b| = |SS_b| / |df_b|"
@@ -599,6 +816,8 @@ msgid ""
 "Finally, we calculate the *F*-ratio by dividing the between-groups MS by the "
 "within-groups MS:"
 msgstr ""
+"Til slutt beregner vi *F*-ratioen ved å dividere MS mellom grupper med MS "
+"innenfor grupper:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:255 ../../Ch13/Ch13_ANOVA_02.rst:289
 msgid "F = |MS_b| / |MS_w|"
@@ -615,6 +834,13 @@ msgid ""
 "deeper understanding of what ANOVA is and what the mean squares values "
 "actually are."
 msgstr ""
+"På et veldig generelt nivå er intuisjonen bak *F*-statistikken enkel. Større "
+"verdier av *F* betyr at variasjonen mellom gruppene er stor i forhold til "
+"variasjonen innad i gruppene. Jo større verdien av *F* er, desto mer bevis "
+"har vi mot nullhypotesen. Men hvor stor må *F* være for at vi faktisk skal "
+"kunne *forkaste* H\\ :sub:`0`? For å forstå dette trenger du en litt dypere "
+"forståelse av hva ANOVA er, og hva de gjennomsnittlige kvadratverdiene "
+"faktisk er."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:266
 msgid ""
@@ -630,6 +856,16 @@ msgid ""
 "freedom |df_b|, and the second one *df*\\ :sub:`2` is the within groups "
 "degrees of freedom |df_w|\\."
 msgstr ""
+"I neste avsnitt diskuterer vi dette i detalj, men for lesere som ikke er "
+"interessert i detaljene om hva testen faktisk måler, skal jeg gå rett på "
+"sak. For å kunne fullføre hypotesetesten må vi kjenne utvalgsfordelingen for "
+"*F* hvis nullhypotesen er sann. Ikke overraskende er utvalgsfordelingen for "
+"*F*-statistikken under nullhypotesen en *F*-fordeling. Hvis du husker "
+"diskusjonen om *F*-fordelingen i kapittel :doc:`../Ch07/Ch07_Probability`, "
+"har *F*-fordelingen to parametere, som tilsvarer de to frihetsgradene som er "
+"involvert. Den første *df*\\ :sub:`1` er frihetsgradene mellom grupper |"
+"df_b|, og den andre *df*\\ :sub:`2` er frihetsgradene innenfor grupper |df_w|"
+"\\."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:277
 msgid ""
@@ -637,6 +873,9 @@ msgid ""
 "the formulas showing how they are calculated, is shown in :numref:`tab-"
 "anovatable`."
 msgstr ""
+"En oppsummering av alle de viktigste størrelsene som inngår i en enveis "
+"ANOVA, inkludert formlene som viser hvordan de beregnes, er vist i :numref:"
+"`tab-anovatable`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:280
 msgid ""
@@ -645,30 +884,34 @@ msgid ""
 "a very ugly formula and would be nightmarishly hard to calculate without a "
 "computer) are shown."
 msgstr ""
+"Alle de viktigste størrelsene som inngår i en ANOVA, er organisert i en "
+"«standard» ANOVA-tabell. Formlene for alle størrelsene (bortsett fra *p*-"
+"verdien, som har en veldig stygg formel og ville vært marerittaktig "
+"vanskelig å beregne uten datamaskin) er vist."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "*df*"
-msgstr ""
+msgstr "*df*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "sum of squares"
-msgstr ""
+msgstr "summen av kvadrater"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "mean squares"
-msgstr ""
+msgstr "gjennomsnittskvadratene"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "*F*-statistic"
-msgstr ""
+msgstr "*F*-statistikk"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
 msgid "*p*-value"
-msgstr ""
+msgstr "*p*-verdi"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:289 ../../Ch13/Ch13_ANOVA_02.rst:597
 msgid "**between groups**"
-msgstr ""
+msgstr "**mellom grupper**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:289
 msgid "|SS_b| = |f_SS_b|"
@@ -676,11 +919,11 @@ msgstr "|SS_b| = |f_SS_b|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:289
 msgid "[complicated]"
-msgstr ""
+msgstr "[komplisert]"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:291 ../../Ch13/Ch13_ANOVA_02.rst:599
 msgid "**within groups**"
-msgstr ""
+msgstr "**innenfor grupper**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:291
 msgid "|SS_w| = |f_SS_w|"
@@ -688,7 +931,7 @@ msgstr "|SS_w| = |f_SS_w|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:297
 msgid "The model for the data and the meaning of *F*"
-msgstr ""
+msgstr "Modellen for dataene og betydningen av *F*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:299
 msgid ""
@@ -710,12 +953,31 @@ msgid ""
 "“residual” is a better term than the word “error”. In statistics both words "
 "mean “leftover variability”, that is “stuff” that the model can’t explain."
 msgstr ""
+"På et grunnleggende nivå er ANOVA en konkurranse mellom to ulike statistiske "
+"modeller, H\\ :sub:`0` og H\\ :sub:`1`. Da jeg beskrev nullhypotesen og "
+"alternativhypotesen i begynnelsen av avsnittet, var jeg litt upresis med "
+"hensyn til hva disse modellene egentlig er. Det skal jeg rette på nå, selv "
+"om du sikkert ikke vil like at jeg gjør det. Hvis du husker det, var "
+"nullhypotesen vår at alle gruppegjennomsnittene er identiske med hverandre. "
+"I så fall er en naturlig måte å tenke på utfallsvariabelen |Y_ik| å beskrive "
+"individuelle resultater i form av et enkelt populasjonsgjennomsnitt µ, pluss "
+"avviket fra dette populasjonsgjennomsnittet. Dette avviket betegnes "
+"vanligvis ϵ\\ :sub:`ik` og kalles tradisjonelt *feilen* eller **residuum** "
+"som er knyttet til observasjonen. Men vær forsiktig. Akkurat som vi så med "
+"ordet «signifikant», har ordet «feil» en teknisk betydning i statistikk som "
+"ikke er helt den samme som den engelske hverdagsdefinisjonen. I "
+"dagligspråket innebærer «feil» et feilgrep av et eller annet slag, men i "
+"statistikken gjør det ikke det (eller i hvert fall ikke nødvendigvis). Med "
+"det i bakhodet er ordet «residuum» et bedre begrep enn ordet «feil». I "
+"statistikk betyr begge ordene «restvariabilitet», det vil si «ting» som "
+"modellen ikke kan forklare."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:319
 msgid ""
 "In any case, here’s what the null hypothesis looks like when we write it as "
 "a statistical model"
 msgstr ""
+"Slik ser nullhypotesen uansett ut når vi skriver den som en statistisk modell"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:322
 msgid "|Y_ik| = µ + ϵ\\ :sub:`ik`"
@@ -723,12 +985,17 @@ msgstr "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:324
 msgid ""
-"where we make the *assumption* (discussed later) that the residual values ϵ"
-"\\ :sub:`ik` are normally distributed, with mean 0 and a standard deviation "
+"where we make the *assumption* (discussed later) that the residual values "
+"ϵ\\ :sub:`ik` are normally distributed, with mean 0 and a standard deviation "
 "σ that is the same for all groups. To use the notation that we introduced in "
 "chapter :doc:`../Ch07/Ch07_Probability` we would write this assumption like "
 "this:"
 msgstr ""
+"hvor vi gjør den *antakelsen* (diskutert senere) at residuene ϵ\\ :sub:`ik` "
+"er normalfordelte, med et gjennomsnitt på 0 og et standardavvik σ som er "
+"likt for alle gruppene. For å bruke notasjonen som vi introduserte i "
+"kapittel :doc:`../Ch07/Ch07_Probability`, ville vi skrevet denne "
+"forutsetningen slik:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:330 ../../Ch13/Ch13_ANOVA_06.rst:29
 msgid "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
@@ -742,6 +1009,11 @@ msgid ""
 "denote the population mean for the *k*-th group in our experiment, then the "
 "statistical model corresponding to H\\ :sub:`1` is"
 msgstr ""
+"Hva med alternativhypotesen, H\\ :sub:`1`? Den eneste forskjellen mellom "
+"nullhypotesen og alternativhypotesen er at vi tillater at hver gruppe har et "
+"forskjellig populasjonsgjennomsnitt. Så hvis vi lar µ\\ :sub:`k` betegne "
+"populasjonsgjennomsnittet for den *k*-tredje gruppen i eksperimentet vårt, "
+"er den statistiske modellen som svarer til H\\ :sub:`1`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:339
 msgid "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
@@ -753,6 +1025,9 @@ msgid ""
 "with mean 0 and standard deviation σ. That is, the alternative hypothesis "
 "also assumes that ϵ ~ Normal(0, σ²)"
 msgstr ""
+"hvor vi igjen antar at residuene er normalfordelte med gjennomsnitt 0 og "
+"standardavvik σ. Det vil si at alternativhypotesen også forutsetter at ϵ ~ "
+"Normal(0, σ²)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:346
 msgid ""
@@ -767,6 +1042,18 @@ msgid ""
 "that depends on the true differences among the group means. If we call this "
 "quantity *Q*, then we can see that the *F*-statistic is basically:\\ [#]_"
 msgstr ""
+"Nå som vi har beskrevet de statistiske modellene som ligger til grunn for H"
+"\\ :sub:`0` og H\\ :sub:`1` i mer detalj, er det nå ganske enkelt å si hva "
+"de gjennomsnittlige kvadratverdiene (*mean square values*; MS) måler, og hva"
+" dette betyr for tolkningen"
+" av *F*. Jeg skal ikke kjede deg med beviset for dette, men det viser seg at "
+"gjennomsnittskvadratet innenfor grupper, |MS_w|, kan betraktes som en "
+"estimator (i teknisk forstand, se kapittel :doc:`../Ch08/Ch08_Estimation`) "
+"av feilvariansen σ². Mellomgruppe-gjennomsnittskvadratet |MS_b| er også en "
+"estimator, men det den estimerer, er feilvariansen *pluss* en størrelse som "
+"avhenger av de sanne forskjellene mellom gruppegjennomsnittene. Hvis vi "
+"kaller denne størrelsen *Q*, kan vi se at *F*-statistikken i bunn og grunn "
+"er:\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:357
 msgid ""
@@ -787,14 +1074,22 @@ msgid ""
 "mean of 1,\\ [#]_ and so we need to see *F*-values larger than 1 in order to "
 "safely reject the null."
 msgstr ""
+"der den sanne verdien *Q* = 0 hvis nullhypotesen er sann, og *Q* > 0 hvis "
+"alternativhypotesen er sann (:ref:`Hays, 1994 <Hays_1994>`, kap. 10). F-"
+"verdien må derfor som et minimum *være større enn 1* for å ha en sjanse til "
+"å forkaste nullhypotesen. Merk at dette *ikke* betyr at det er umulig å få "
+"en *F*-verdi mindre enn 1. Det betyr at hvis nullhypotesen er sann, har "
+"utvalgsfordelingen av *F*-forholdet et gjennomsnitt på 1,\\ [#]_, og derfor "
+"må vi se *F*-verdier som er større enn 1 for å kunne forkaste nullhypotesen "
+"med sikkerhet."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:368
 msgid ""
 "To be a bit more precise about the sampling distribution, notice that if the "
 "null hypothesis is true, both |MS_b| and |MS_w| are estimators of the "
 "variance of the residuals ϵ\\ :sub:`ik`. If those residuals are normally "
-"distributed, then you might suspect that the estimate of the variance of ϵ"
-"\\ :sub:`ik` is χ²-distributed, because (as discussed in :doc:`../Ch07/"
+"distributed, then you might suspect that the estimate of the variance of "
+"ϵ\\ :sub:`ik` is χ²-distributed, because (as discussed in :doc:`../Ch07/"
 "Ch07_Probability_6`) that’s what a χ²-distribution *is*: it’s what you get "
 "when you square a bunch of normally-distributed things and add them up. And "
 "since the *F*-distribution is (again, by definition) what you get when you "
@@ -803,10 +1098,21 @@ msgid ""
 "when I say this, but in broad terms, this really is where our sampling "
 "distribution comes from."
 msgstr ""
+"For å være litt mer presis om utvalgsfordelingen, legg merke til at hvis "
+"nullhypotesen er sann, er både |MS_b| og |MS_w| estimatorer av variansen til "
+"residuene ϵ\\ :sub:`ik`. Hvis disse residuene er normalfordelte, kan du "
+"mistenke at estimatet av variansen til ϵ\\ :sub:`ik` er χ²-fordelt, fordi "
+"(som diskutert i :doc:`../Ch07/Ch07_Probability_6`) det er det en χ²-"
+"fordeling *er*: det er det du får når du kvadrerer en haug med "
+"normalfordelte ting og legger dem sammen. Og siden *F*-fordelingen (igjen, "
+"per definisjon) er det du får når du tar forholdet mellom to ting som er χ²-"
+"fordelt, har vi utvalgsfordelingen vår. Jeg hopper selvsagt over en hel "
+"masse ting når jeg sier dette, men i grove trekk er det dette som er "
+"utgangspunktet for utvalgsfordelingen vår."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:383
 msgid "A worked example"
-msgstr ""
+msgstr "Et gjennomarbeidet eksempel"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:385
 msgid ""
@@ -822,11 +1128,22 @@ msgid ""
 "the within-group sums of squares. First, let’s draw up a nice table to help "
 "us with our calculations:"
 msgstr ""
+"Den forrige diskusjonen var ganske abstrakt og litt teknisk, så jeg tror det "
+"kan være nyttig å se et fungerende eksempel nå. La oss derfor gå tilbake til "
+"datasettet |clinicaltrial|_ som ble introdusert tidligere i kapittelet. Den "
+"deskriptive statistikken som vi beregnet i begynnelsen, forteller oss "
+"gruppegjennomsnittet: En gjennomsnittlig humørforbedring på 0,45 for "
+"placebo, 0,72 for Anxifree og 1,48 for Joyzepam. Med det i bakhodet, la oss "
+"feste som om det er 1899\\ [#]_ og begynne å gjøre noen beregninger med "
+"blyant og papir. Jeg gjør dette bare for de første fem observasjonene, fordi "
+"det ikke er 1899, og jeg er veldig lat. La oss begynne med å beregne |SS_w|, "
+"kvadratsummene innad i gruppen. La oss først lage en fin tabell for å hjelpe "
+"oss med beregningene:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:398 ../../Ch13/Ch13_ANOVA_02.rst:424
 #: ../../Ch13/Ch13_ANOVA_02.rst:445
 msgid "outcome"
-msgstr ""
+msgstr "resultat"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:400 ../../Ch13/Ch13_ANOVA_02.rst:426
 #: ../../Ch13/Ch13_ANOVA_02.rst:447
@@ -840,7 +1157,7 @@ msgstr "|Y_ik|"
 #: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_02.rst:495
 #: ../../Ch13/Ch13_ANOVA_02.rst:525
 msgid "placebo"
-msgstr ""
+msgstr "placebo"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:402 ../../Ch13/Ch13_ANOVA_02.rst:428
 #: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_06.rst:331
@@ -862,7 +1179,7 @@ msgstr "0.1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_02.rst:457
 #: ../../Ch13/Ch13_ANOVA_02.rst:497 ../../Ch13/Ch13_ANOVA_02.rst:527
 msgid "anxifree"
-msgstr ""
+msgstr "anxifree"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:408 ../../Ch13/Ch13_ANOVA_02.rst:434
 #: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_06.rst:331
@@ -885,11 +1202,19 @@ msgid ""
 "particularly difficult since we already calculated those group means when "
 "doing our descriptive statistics:"
 msgstr ""
+"På dette stadiet er det eneste jeg har inkludert i tabellen, selve "
+"rådataene. Det vil si grupperingsvariabelen (dvs. ``drug``) og "
+"utfallsvariabelen (dvs. ``mood.gain``) for hver person. Merk at "
+"utfallsvariabelen her tilsvarer |Y_ik|-verdien i ligningen vår tidligere. "
+"Det neste trinnet i beregningen er å skrive ned det tilsvarende "
+"gruppegjennomsnittet, |Yb_k|, for hver person i studien. Dette er litt "
+"repeterende, men ikke spesielt vanskelig, siden vi allerede har beregnet "
+"disse gruppegjennomsnittene i forbindelse med den deskriptive statistikken:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
 #: ../../Ch13/Ch13_ANOVA_02.rst:491
 msgid "group mean"
-msgstr ""
+msgstr "gruppegjennomsnitt"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
 #: ../../Ch13/Ch13_ANOVA_02.rst:493
@@ -912,14 +1237,18 @@ msgid ""
 "subtract |Y_ik| - |Yb_k|. After we’ve done that, we need to square "
 "everything. When we do that, here’s what we get:"
 msgstr ""
+"Nå som vi har skrevet dem ned, må vi igjen beregne avviket fra det "
+"tilsvarende gruppegjennomsnittet for hver person. Det vil si at vi ønsker å "
+"trekke fra |Y_ik| - |Yb_k|. Etter at vi har gjort det, må vi kvadrere alt. "
+"Når vi gjør det, får vi følgende resultat:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:445
 msgid "dev. from group mean"
-msgstr ""
+msgstr "avvik fra gruppegjennomsnittet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:445
 msgid "squared deviation"
-msgstr ""
+msgstr "kvadrert avvik"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:447
 msgid "(|Y_ik| - |Yb_k|)"
@@ -985,6 +1314,9 @@ msgid ""
 "group sum of squares we just add up the squared deviations across all "
 "observations:"
 msgstr ""
+"Det siste trinnet er like enkelt. For å beregne kvadratsummen innad i "
+"gruppen summerer vi bare de kvadrerte avvikene på tvers av alle "
+"observasjonene:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:464
 msgid "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
@@ -997,11 +1329,16 @@ msgid ""
 "could continue with the pencil and paper calculations if we wanted to, but "
 "it’s pretty tedious. Alternatively, it’s not too hard to do this in jamovi."
 msgstr ""
+"Hvis vi faktisk ønsker å finne det *riktige* svaret, må vi selvfølgelig "
+"gjøre dette for alle de 18 observasjonene i datasettet, ikke bare de fem "
+"første. Vi kan fortsette med blyant- og papirberegningene hvis vi vil, men "
+"det er ganske kjedelig. Alternativt er det ikke så vanskelig å gjøre dette i "
+"jamovi."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:472
 msgid ""
 "Go to an empty column (at the end of the data set) and double click on the "
-"column header, choose “New computed variable” and enter ``sq_res_wth`` in "
+"column header, choose ``New computed variable`` and enter ``sq_res_wth`` in "
 "the first line and the formula ``(mood.gain - VMEAN(mood.gain, group_by = "
 "drug)) ^ 2`` in the line starting with ``=`` (next to the *f*\\ :sub:`x`). "
 "``mood.gain`` represents |Y_ik|, ``VMEAN(mood.gain, group_by = drug)`` the "
@@ -1010,6 +1347,15 @@ msgid ""
 "(apart from rounding errors) identical to those in the last column of the "
 "table above."
 msgstr ""
+"Gå til en tom kolonne (på slutten av datasettet) og dobbeltklikk på "
+"kolonneoverskriften, velg ``New computed variable`` og skriv inn "
+"``sq_res_wth`` i første linje og formelen ``(mood.gain - VMEAN(mood.gain, "
+"group_by = drug)) ^ 2`` i linjen som begynner med ``=`` (ved siden av *f*\\ :"
+"sub:`x`). ``mood.gain`` representerer |Y_ik|, ``VMEAN(mood.gain, group_by = "
+"drug)`` gruppegjennomsnittet |Yb_k|. Denne differansen (tredje kolonne i "
+"tabellen ovenfor) er deretter kvadrert, og det er derfor ikke så "
+"overraskende at verdiene (bortsett fra avrundingsfeil) er identiske med "
+"verdiene i den siste kolonnen i tabellen ovenfor."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:482
 msgid ""
@@ -1021,18 +1367,25 @@ msgid ""
 "between the group means |Yb_k| and the grand mean |Yb| (in this case 0.88) "
 "for all of the groups."
 msgstr ""
+"Nå som vi har beregnet variasjonen innad i gruppene, |SS_w|, er det på tide "
+"å rette oppmerksomheten mot summen av kvadratene mellom gruppene, |SS_b|. "
+"Beregningene for dette tilfellet er veldig like. Hovedforskjellen er at i "
+"stedet for å beregne forskjellene mellom en observasjon |Y_ik| og et "
+"gruppegjennomsnitt |Yb_k| for alle observasjonene, beregner vi forskjellene "
+"mellom gruppegjennomsnittet |Yb_k| og det totale gjennomsnittet |Yb| (i dette "
+"tilfellet 0,88) for alle gruppene."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:491
 msgid "grand mean"
-msgstr ""
+msgstr "totalt gjennomsnitt"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:491
 msgid "deviation"
-msgstr ""
+msgstr "avvik"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
 msgid "squared deviations"
-msgstr ""
+msgstr "kvadrerte avvik"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:493
 msgid "|Yb|"
@@ -1069,7 +1422,7 @@ msgstr "0.03"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:499 ../../Ch13/Ch13_ANOVA_02.rst:529
 msgid "joyzepam"
-msgstr ""
+msgstr "joyzepam"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:499
 msgid "1.48"
@@ -1090,10 +1443,18 @@ msgid ""
 "formula. The term ``VMEAN(mood.gain, group_by = drug)`` represents the group "
 "mean |Yb_k|, and ``VMEAN(mood.gain)`` the grand mean |Yb|. Again, we find "
 "that the values for that variable are the same as in the last column of the "
-"table above: the first three rows represent “placebo”, followed by three "
-"lines with “anxifree” and three lines with “joyzepam”; the next nine lines "
-"are a repetition of the first nine ones."
+"table above: the first three rows represent ``placebo``, followed by three "
+"lines with ``anxifree`` and three lines with ``joyzepam``; the next nine "
+"lines are a repetition of the first nine ones."
 msgstr ""
+"Vi oppretter en annen beregnet variabel med navnet ``sq_res_btw`` og "
+"``(VMEAN(mood.gain, group_by = drug) - VMEAN(mood.gain) - ) ^ 2`` som "
+"formel. Uttrykket ``VMEAN(mood.gain, group_by = drug)`` representerer "
+"gruppegjennomsnittet |Yb_k|, og ``VMEAN(mood.gain)`` det totale "
+"gjennomsnittet |Yb|. Igjen ser vi at verdiene for denne variabelen er de "
+"samme som i den siste kolonnen i tabellen ovenfor: De tre første radene "
+"representerer ``placebo``, etterfulgt av tre rader med ``anxifree`` og tre "
+"rader med ``joyzepam``; de neste ni radene er en repetisjon av de ni første."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:511
 msgid ""
@@ -1106,6 +1467,13 @@ msgid ""
 "people is 6 · 0.19 = 1.14. So we have to extend our little table of "
 "calculations:"
 msgstr ""
+"For beregningene mellom grupper må vi imidlertid multiplisere hvert av disse "
+"kvadrerte avvikene med |N_k|, antall observasjoner i gruppen. Vi gjør dette "
+"fordi hver *observasjon* i gruppen (alle |N_k| av dem) er forbundet med en "
+"mellomgruppeforskjell. Så hvis det er seks personer i placebogruppen, og "
+"placebogruppens gjennomsnitt avviker fra det totale gjennomsnittet med 0,19, "
+"er den *totale* variasjonen mellom gruppene knyttet til disse seks personene "
+"6 - 0,19 = 1,14. Så vi må utvide den lille utregningstabellen vår:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:521 ../../Ch13/Ch13_ANOVA_02.rst:523
 #: ../../Ch13/Ch13_ANOVA_02.rst:525 ../../Ch13/Ch13_ANOVA_02.rst:527
@@ -1115,11 +1483,11 @@ msgstr "…"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:521
 msgid "sample size"
-msgstr ""
+msgstr "utvalgsstørrelse"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:521
 msgid "weighted squared deviat."
-msgstr ""
+msgstr "vektet kvadrert avvik."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:523
 msgid "|N_k|"
@@ -1153,6 +1521,9 @@ msgid ""
 "And so now our between group sum of squares is obtained by summing these "
 "“weighted squared deviations” over all three groups in the study:"
 msgstr ""
+"Nå får vi kvadratsummen mellom gruppene ved å summere disse «vektede "
+"kvadrerte avvikene» (*weighted squared deviations*) over alle de tre "
+"gruppene i studien:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:535
 msgid "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
@@ -1163,6 +1534,8 @@ msgid ""
 "As you can see, the between group calculations are a lot shorter (when "
 "calculated b hand)."
 msgstr ""
+"Som du kan se, er beregningene mellom gruppene mye kortere (når de beregnes "
+"for hånd)."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:540
 msgid ""
@@ -1174,6 +1547,12 @@ msgid ""
 "value of **3.453** (just rounding errors away from the 3.48 we calculated "
 "above)."
 msgstr ""
+"I jamovi kan vi beregne disse summene, dvs. verdiene for |SS_b| og |SS_w|, "
+"ved å klikke på ``Descriptives`` → ``Descriptive Statistics``, deretter "
+"flytte ``sq_res_wth`` og ``sq_res_btw`` til ``Variables``-boksen, og til "
+"slutt velge ``Sum`` fra rullegardinmenyen ``Statistics``. Summen av "
+"``sq_res_wth`` (|SS_w|) har en verdi på **1,392**, ``sq_res_wth`` (|SS_b|) "
+"en verdi på **3,453** (bare avrundingsfeil fra de 3,48 vi beregnet ovenfor)."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:548
 msgid ""
@@ -1182,6 +1561,10 @@ msgid ""
 "degrees of freedom. Since we have *G* = 3 groups and *N* = 18 observations "
 "in total our degrees of freedom can be calculated by simple subtraction:"
 msgstr ""
+"Nå som vi har beregnet kvadratsummene våre, |SS_b| og |SS_w|, er resten av "
+"ANOVA ganske smertefritt. Neste trinn er å beregne frihetsgradene. Siden vi "
+"har *G* = 3 grupper og *N* = 18 observasjoner totalt, kan frihetsgradene "
+"våre beregnes ved enkel subtraksjon:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:553
 msgid "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
@@ -1194,6 +1577,10 @@ msgid ""
 "groups variability, we can obtain the mean square values by dividing one by "
 "the other:"
 msgstr ""
+"Siden vi nå har beregnet verdiene for kvadratsummene og frihetsgradene, både "
+"for variabiliteten innad i gruppene og variabiliteten mellom gruppene, kan "
+"vi finne de gjennomsnittlige kvadratverdiene (*mean square values*; MS) ved "
+"å dividere den ene med den andre:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:561
 msgid ""
@@ -1217,6 +1604,10 @@ msgid ""
 "value, which is the test statistic that we’re interested in. We do this by "
 "dividing the between-groups MS value by the within-groups MS value.\\ [#]_"
 msgstr ""
+"Vi er nesten ferdige. De gjennomsnittlige kvadratverdiene kan brukes til å "
+"beregne *F*-verdien, som er den teststatistikken vi er interessert i. Dette"
+" gjør vi ved å dividere MS-verdien mellom gruppene med MS-verdien innenfor "
+"gruppene.\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:573
 msgid ""
@@ -1243,6 +1634,20 @@ msgid ""
 "*extremely* conservative about our Type I error rate, we’re pretty much "
 "guaranteed to reject the null hypothesis."
 msgstr ""
+"Woohooo! Dette er fryktelig spennende, ikke sant? Nå som vi har "
+"teststatistikken vår, er det siste steget å finne ut om selve testen gir oss "
+"et signifikant resultat. Som diskutert i kapittel :doc:`../Ch09/"
+"Ch09_HypothesisTesting` i «gamle dager» åpnet vi en lærebok i statistikk "
+"eller bladde til bakerste del, som faktisk hadde en enorm oppslagstabell, og "
+"fant terskelverdien *F* som tilsvarte en bestemt verdi av α (nullhypotesens "
+"forkastelsesområde), f.eks. 0,05, 0,01 eller 0,001, for 2 og 15 "
+"frihetsgrader. Hvis vi gjør det på denne måten, får vi en terskel *F*-verdi "
+"for en α på 0,001 på 11,34. Siden dette er mindre enn vår beregnede *F*-"
+"verdi, sier vi at *p* < 0,001. Men det var i gamle dager, og i dag beregner "
+"fancy statistikkprogramvare den nøyaktige *p*-verdien for deg. Faktisk er "
+"den eksakte *p*-verdien 0,000086. Så med mindre vi er *ekstremt* "
+"konservative når det gjelder type I-feilprosent, er vi så godt som garantert "
+"å forkaste nullhypotesen."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:589
 msgid ""
@@ -1251,6 +1656,10 @@ msgid ""
 "in :numref:`tab-anovatable`. For our |clinicaltrial|_ data, the ANOVA table "
 "would look like this:\\ [#]_"
 msgstr ""
+"På dette tidspunktet er vi i utgangspunktet ferdige. Etter å ha fullført "
+"beregningene våre er det tradisjonelt å organisere alle disse tallene i en "
+"ANOVA-tabell som den i :numref:`tab-anovatable`. For våre |clinicaltrial|_-"
+"data vil ANOVA-tabellen se slik ut:\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:597
 msgid "3.453"
@@ -1290,16 +1699,25 @@ msgid ""
 "good reason to include the whole table in your write up. A pretty standard "
 "way of reporting this result would be to write something like this:"
 msgstr ""
+"I dag vil du sannsynligvis aldri ha noen grunn til å konstruere en slik "
+"tabell selv, men du vil oppdage at nesten all statistisk programvare (jamovi "
+"inkludert) har en tendens til å organisere resultatet av en ANOVA i en slik "
+"tabell, så det er lurt å bli vant til å lese dem. Selv om programvaren vil "
+"vise en fullstendig ANOVA-tabell, er det imidlertid nesten aldri noen god "
+"grunn til å ta med hele tabellen i rapporten. En ganske vanlig måte å "
+"rapportere dette resultatet på ville være å skrive noe sånt som dette:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:611
 msgid ""
 "One-way ANOVA showed a significant effect of drug on mood gain: *F*\\(2,15) "
 "= 18.61, *p* < 0.001."
 msgstr ""
+"Enveis ANOVA viste en signifikant effekt av legemiddelet på "
+"humørforbedringen: *F*\\(2,15) = 18,61, *p* < 0,001."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:614
 msgid "Sigh. So much work for one short sentence."
-msgstr ""
+msgstr "Sukk. Så mye arbeid for en kort setning."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:619
 msgid ""
@@ -1308,12 +1726,18 @@ msgid ""
 "ANOVA, which is the topic of this chapter. It becomes more important when "
 "you start doing more complicated ANOVAs."
 msgstr ""
+"Når alle gruppene har like mange observasjoner, sier man at forsøksdesignet "
+"er «balansert». Balanse er ikke så viktig for enveis ANOVA, som er temaet "
+"for dette kapittelet. Det blir viktigere når du begynner å gjøre mer "
+"kompliserte ANOVAer."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:625
 msgid ""
 "|SS_w| is also referred to in an independent ANOVA as the error variance, or "
 "SS\\ :sub:`error`"
 msgstr ""
+"|SS_w| refereres også til i en uavhengig ANOVA som feilvariansen, eller SS"
+"\\ :sub:`error`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:629
 msgid ""
@@ -1323,11 +1747,18 @@ msgid ""
 "that *Q* refers to a weighted mean of the squared treatment effects, :math:"
 "`Q = (\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
 msgstr ""
+"Hvis du leser videre til kapittel :doc:`../Ch14/Ch14_ANOVA2` og ser på "
+"hvordan «behandlingseffekten» (*treatment effect*) på nivå *k* av en faktor "
+"er definert med hensyn til α\\ :sub:`k`-verdiene (se avsnitt :doc:`../Ch14/"
+"Ch14_ANOVA2_02`), viser det seg at *Q* refererer til et vektet "
+"gjennomsnitt av de kvadrerte behandlingseffektene, :math:`Q = (\\sum_{k=1}^G "
+"N_k \\alpha_k^2)/(G-1)`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:636
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
+"Eller, hvis vi skal være helt nøyaktige, :math:`1 + \\frac{2}{df_2 - 2}`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:640
 msgid ""
@@ -1336,6 +1767,9 @@ msgid ""
 "have made any sense in 1899 because ANOVA didn’t exist until about the "
 "1920s”."
 msgstr ""
+"Eller, for å være mer presis, en fest som «det er 1899, og vi har ingen "
+"venner og ikke noe bedre å gjøre enn å gjøre noen beregninger som ikke ville "
+"ha gitt noen mening i 1899, fordi ANOVA ikke eksisterte før på 1920-tallet»."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:646
 msgid ""
@@ -1344,6 +1778,11 @@ msgid ""
 "which gives us 18.611 as value. If you could not reprodcuce the calculation "
 "steps above, you can download and open the |clinicaltrial_anova|_ data set."
 msgstr ""
+"Vi kan like godt gjøre dette ved å opprette enda en beregnet variabel, kalt "
+"``F`` ved hjelp av formelen ``(VSUM(sq_res_btw) / 2) / (VSUM(sq_res_wth) / "
+"15)`` som gir oss 18,611 som verdi. Hvis du ikke kunne reprodusere "
+"beregningstrinnene ovenfor, kan du laste ned og åpne datasettet |"
+"clinicaltrial_anova|_."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:653
 msgid ""
@@ -1351,10 +1790,13 @@ msgid ""
 "the settings menu (``⋮``, top-right corner) and set the ``p-value format`` "
 "to ``16 dp``."
 msgstr ""
+"For å se *p*-verdien med et høyt antall desimaler, klikker du på "
+"innstillingsmenyen (``⋮``, øverst i høyre hjørne) og setter ``p-value "
+"format`` til ``16 dp``."
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:4
 msgid "Running an ANOVA in jamovi"
-msgstr ""
+msgstr "Kjører en ANOVA i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:6
 msgid ""
@@ -1365,14 +1807,20 @@ msgid ""
 "along the way, and it would be tedious to have to do this over and over "
 "again every time you wanted to do an ANOVA."
 msgstr ""
+"Jeg er ganske sikker på at jeg vet hva du tenker etter å ha lest den siste "
+"delen, *spesielt* hvis du fulgte rådet mitt og gjorde alt dette med blyant "
+"og papir (dvs. i et regneark) selv. Å gjøre ANOVA-beregningene selv *suger*. "
+"Det er ganske mange beregninger vi måtte gjøre underveis, og det ville vært "
+"kjedelig å måtte gjøre dette om og om igjen hver gang du ønsket å gjøre en "
+"ANOVA."
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:14
 msgid "Using jamovi to specify your ANOVA"
-msgstr ""
+msgstr "Bruke jamovi til å spesifisere ANOVA"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:16
 msgid ""
-"To make life easier for you, jamovi can do ANOVA..hurrah! Go to the "
+"To make life easier for you, jamovi can do ANOVA… hurrah! Go to the "
 "``ANOVA`` - ``ANOVA`` analysis, and move the ``mood.gain`` variable across "
 "so it is in the ``Dependent Variable`` box, and then move the ``drug`` "
 "variable across so it is in the ``Fixed Factors`` box. This should give the "
@@ -1381,15 +1829,24 @@ msgid ""
 "and this is also shown on the results table. We will come back to effect "
 "sizes a bit later."
 msgstr ""
+"For å gjøre livet enklere for deg, jamovi kan gjøre ANOVA… hurra! Opprett "
+"analysen med ``ANOVA`` - ``ANOVA``, og flytt ``mood.gain``-variabelen over "
+"slik at den er i ``Dependent Variable``-boksen, og flytt deretter ``drug``-"
+"variabelen over slik at den er i ``Fixed Factors``-boksen. Dette skal gi "
+"resultatene som vist i :numref:`fig-anova2`.\\ [#]_ Merk at jeg også har "
+"krysset av for η², som uttales «eta kvadrat», under alternativet ``Effect "
+"Size``, og dette vises også i resultattabellen. Vi kommer tilbake til "
+"effektstørrelser litt senere."
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
-msgstr ""
+msgstr "``ANOVA`` resultattabell for ``mood.gain`` etter ``drug`` administrert"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
 msgid ""
 "jamovi ``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
+"jamovi ``ANOVA`` resultattabell for ``mood.gain`` etter ``drug`` administrert"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:35
 msgid ""
@@ -1409,16 +1866,34 @@ msgid ""
 "again, these are more or less the same, give or take rounding errors, to the "
 "numbers that we calculated ourselves when doing it the long and tedious way."
 msgstr ""
+"Resultattabellen i jamovi viser kvadratsummene, frihetsgradene og et par "
+"andre størrelser som vi egentlig ikke er interessert i akkurat nå. Legg "
+"imidlertid merke til at jamovi ikke bruker navnene «mellom "
+"grupper» (*between groups*) og «innenfor grupper» (*within group*). I stedet "
+"prøver den å tildele mer meningsfulle navn. I vårt eksempel tilsvarer "
+"variansen *mellom grupper* effekten som legemiddelet (``drug``) har på "
+"utfallsvariabelen, og variansen *innenfor grupper* tilsvarer den "
+"«resterende» variabiliteten, så den kaller det for *residuene*. Hvis vi "
+"sammenligner disse tallene med tallene som jeg beregnet for hånd i avsnitt :"
+"ref:`Et bearbeidet eksempel <worked_example>`, kan du se at de er mer "
+"eller mindre de samme, bortsett fra avrundingsfeil. Kvadratsummene mellom "
+"gruppene er SS\\ :sub:`b` = 3,45, kvadratsummene innenfor gruppene er SS\\ :"
+"sub:`w` = 1,39, og frihetsgradene er henholdsvis 2 og 15. Vi får også *F*-"
+"verdien og *p*-verdien, og igjen er disse mer eller mindre de samme, med "
+"eller uten avrundingsfeil, som de tallene vi beregnet selv da vi gjorde det "
+"på den lange og kjedelige måten."
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:54
 msgid ""
 "The jamovi results are more accurate than the ones in the text above, due to "
 "rounding errors."
 msgstr ""
+"Resultatene fra jamovi er mer nøyaktige enn resultatene i teksten ovenfor, "
+"på grunn av avrundingsfeil."
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Effektstørrelse"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:6
 msgid ""
@@ -1428,6 +1903,10 @@ msgid ""
 "the moment I’ll just explain η². The definition of η² is actually really "
 "simple"
 msgstr ""
+"Det finnes flere ulike måter å måle effektstørrelsen på i en ANOVA, men de "
+"mest brukte målene er η² (**eta-kvadrat**) og partiell η². For en enveis "
+"variansanalyse er de identiske, så for øyeblikket vil jeg bare forklare η². "
+"Definisjonen av η² er faktisk veldig enkel"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:13
 msgid "η² = SS\\ :sub:`b` / SS\\ :sub:`tot`"
@@ -1439,6 +1918,9 @@ msgid ""
 "I see that SS\\ :sub:`b`   = 3.45 and SS\\ :sub:`tot` = 3.45 + 1.39 = 4.84. "
 "Thus we get an η² value of"
 msgstr ""
+"Det er alt det er. Så når jeg ser på ANOVA-tabellen i :numref:`fig-anova2`, "
+"ser jeg at SS\\ :sub:`b` = 3,45 og SS\\ :sub:`tot` = 3,45 + 1,39 = 4,84. "
+"Dermed får vi en η²-verdi på"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:20
 msgid "η² = 3.45 / 4.84 = 0.71"
@@ -1455,6 +1937,13 @@ msgid ""
 "`The *R*\\² (R-squared) value <../Ch12/Ch12_Regression_06>`, and has an "
 "equivalent interpretation."
 msgstr ""
+"Tolkningen av η² er like enkel. Den viser til hvor stor andel av "
+"variabiliteten i utfallsvariabelen (``mood.gain``) som kan forklares ved "
+"hjelp av prediktoren (``drug``). En verdi på η² = 0 betyr at det ikke er "
+"noen sammenheng mellom de to, mens en verdi på η = 1 betyr at sammenhengen "
+"er perfekt. Enda bedre er det at η²-verdien er svært nært beslektet med *R*"
+"\\², som diskutert tidligere i underavsnittet :doc:`*R*\\² (R-kvadrat)-"
+"verdien <../Ch12/Ch12_Regression_06>`, og har en tilsvarende tolkning."
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:31
 msgid ""
@@ -1466,10 +1955,18 @@ msgid ""
 "Usefully, there is also an option in jamovi to specify omega-squared (ω²), "
 "which is less biased, alongside eta-squared."
 msgstr ""
+"Selv om mange lærebøker i statistikk foreslår η² som standard "
+"effektstørrelsesmål i ANOVA, finnes det et interessant `blogginnlegg <https://"
+"daniellakens.blogspot.com.au/2015/06/why-you-should-use-omega-squared."
+"html>`__ av Daniel Lakens som antyder at eta-kvadrat kanskje ikke er det "
+"beste effektstørrelsesmålet i dataanalyse i den virkelige verden, fordi det "
+"kan være en skjev estimator. Det er nyttig å merke seg at det også finnes et "
+"alternativ i jamovi for å spesifisere omega-kvadrat (ω²), som er mindre "
+"skjevt, i tillegg til eta-kvadrat."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:4
 msgid "Multiple comparisons and post-hoc tests"
-msgstr ""
+msgstr "Multiple sammenligninger og post-hoc-tester"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:6
 msgid ""
@@ -1481,24 +1978,36 @@ msgid ""
 "hypothesis is actually claiming *three* different things all at once here. "
 "Specifically, it claims that:"
 msgstr ""
+"Hver gang du kjører en ANOVA med mer enn to grupper og ender opp med en "
+"signifikant effekt, er det første du sannsynligvis vil spørre deg selv om "
+"hvilke grupper som faktisk er forskjellige fra hverandre. I eksemplet med "
+"legemiddel var nullhypotesen vår at alle tre legemidlene (placebo, Anxifree "
+"og Joyzepam) har nøyaktig samme effekt på humøret. Men hvis du tenker over "
+"det, hevder nullhypotesen faktisk *tre* forskjellige ting på en gang. "
+"Nærmere bestemt hevder den at:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:14
 msgid ""
 "Your competitor’s drug (Anxifree) is no better than a placebo (i.e., µ\\ :"
 "sub:`A` = µ\\ :sub:`P`)"
 msgstr ""
+"Konkurrentens legemiddel (Anxifree) er ikke bedre enn placebo (dvs. µ\\ :sub:"
+"`A` = µ\\ :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:17
 msgid ""
 "Your drug (Joyzepam) is no better than a placebo (i.e., µ\\ :sub:`J` = µ\\ :"
 "sub:`P`)"
 msgstr ""
+"Legemidlet ditt (Joyzepam) er ikke bedre enn placebo (dvs. µ\\ :sub:`J` = µ"
+"\\ :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:20
 msgid ""
 "Anxifree and Joyzepam are equally effective (i.e., µ\\ :sub:`J` = µ\\ :sub:"
 "`A`)"
 msgstr ""
+"Anxifree og Joyzepam er like effektive (dvs. µ\\ :sub:`J` = µ\\ :sub:`A`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:23
 msgid ""
@@ -1513,6 +2022,16 @@ msgid ""
 "against placebos by other researchers, it can still be very useful to check "
 "that your study is producing similar results to earlier work."
 msgstr ""
+"Hvis en av disse tre påstandene er usanne, er også nullhypotesen usann. Så "
+"nå som vi har forkastet nullhypotesen, tenker vi at *mindst* én av disse "
+"tingene ikke er sanne. Men hvilken av dem? Alle disse tre påstandene er av "
+"interesse. Siden du absolutt ønsker å vite om ditt nye legemiddel Joyzepam "
+"er bedre enn placebo, ville det vært fint å vite hvor godt det står seg i "
+"forhold til et eksisterende kommersielt alternativ (f.eks. Anxifree). Det "
+"ville til og med vært nyttig å sjekke resultatene til Anxifree opp mot "
+"placebo. Selv om Anxifree allerede har blitt grundig testet mot placebo av "
+"andre forskere, kan det likevel være svært nyttig å sjekke at studien din "
+"gir lignende resultater som tidligere arbeid."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:35
 msgid ""
@@ -1520,26 +2039,29 @@ msgid ""
 "propositions, it becomes clear that there are eight possible “states of the "
 "world” that we need to distinguish between:"
 msgstr ""
+"Når vi karakteriserer nullhypotesen i form av disse tre ulike påstandene, "
+"blir det klart at det finnes åtte mulige «verdenstilstander» som vi må "
+"skille mellom:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "possibility:"
-msgstr ""
+msgstr "mulighet:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`A`"
-msgstr ""
+msgstr "er µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "er µ\\ :sub:`P` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`A` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "er µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "which hypothesis?"
-msgstr ""
+msgstr "Hvilken hypotese?"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43 ../../Ch13/Ch13_ANOVA_05.rst:45
 #: ../../Ch13/Ch13_ANOVA_05.rst:47 ../../Ch13/Ch13_ANOVA_05.rst:49
@@ -1550,14 +2072,14 @@ msgstr "✓"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43
 msgid "null"
-msgstr ""
+msgstr "null"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:49 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:53 ../../Ch13/Ch13_ANOVA_05.rst:55
 #: ../../Ch13/Ch13_ANOVA_05.rst:57
 msgid "alternative"
-msgstr ""
+msgstr "alternativ"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:66
 #: ../../Ch13/Ch13_ANOVA_07.rst:68 ../../Ch13/Ch13_ANOVA_07.rst:76
@@ -1580,10 +2102,19 @@ msgid ""
 "real difference between Anxifree and the placebo. However, if we want to get "
 "a clearer answer about this, it might help to run some tests."
 msgstr ""
+"Ved å forkaste nullhypotesen har vi bestemt oss for at vi *ikke* tror at #1 "
+"er den sanne tilstanden i verden. Det neste spørsmålet vi må stille oss, er "
+"hvilken av de andre sju mulighetene *tror* vi er riktig? Når vi står overfor "
+"en slik situasjon, hjelper det vanligvis å se på dataene. Hvis vi for "
+"eksempel ser på plottene i :numref:`fig-anova1`, er det fristende å "
+"konkludere med at Joyzepam er bedre enn placebo og bedre enn Anxifree, men "
+"at det ikke er noen reell forskjell mellom Anxifree og placebo. Hvis vi "
+"ønsker å få et klarere svar på dette, kan det imidlertid hjelpe å kjøre noen "
+"tester."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:71
 msgid "Running “pairwise” *t*-tests"
-msgstr ""
+msgstr "Gjennomføre «parvise» *t*-tester"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:73
 msgid ""
@@ -1597,14 +2128,23 @@ msgid ""
 "pairwise *t*-test comparisons amongst the three levels of the ``drug`` "
 "variable, as in :numref:`fig-anova3`."
 msgstr ""
+"Hvordan kan vi gå frem for å løse problemet vårt? Gitt at vi har tre "
+"separate gjennomsnittspar (placebo versus anxifree, placebo versus joyzepam, "
+"og anxifree versus joyzepam) å sammenligne, kan vi kjøre tre separate *t*-"
+"tester og se hva som skjer. Dette er enkelt å gjøre i jamovi. Gå til "
+"``ANOVA`` → ``Post Hoc Tests``, flytt ``drug``-variabelen over i den aktive "
+"boksen til høyre, og klikk deretter på avkrysningsboksen ``No correction``. "
+"Dette vil produsere en fin tabell som viser alle de parvise *t*-"
+"testsammenligningene mellom de tre nivåene av variabelen ``drug``, som i :"
+"numref:`fig-anova3`."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
-msgstr ""
+msgstr "Ukorrigerte parvise *t*-tester som post-hoc-sammenligninger i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:94
 msgid "Corrections for multiple testing"
-msgstr ""
+msgstr "Korrigeringer for flere tester"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:96
 msgid ""
@@ -1616,6 +2156,13 @@ msgid ""
 "differences is referred to as **post-hoc analysis** (“post-hoc” being Latin "
 "for “after this”).\\ [#]_"
 msgstr ""
+"I forrige avsnitt antydet jeg at det er et problem med å bare kjøre massevis "
+"av *t*-tester. Problemet er at når vi kjører disse analysene, er det vi gjør "
+"å dra på en «fiskeekspedisjon». Vi kjører mange, mange tester uten særlig "
+"teoretisk veiledning i håp om at noen av dem skal vise seg å være "
+"signifikante. Denne typen leting etter gruppeforskjeller uten at det baserer "
+"seg på en teori omtales som **post-hoc-analyse** («post-hoc» er latin for "
+"«etter dette»).\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:104
 msgid ""
@@ -1633,6 +2180,19 @@ msgid ""
 "of my ANOVA results, my actual Type I error rate across this whole *family* "
 "of tests has gotten completely out of control."
 msgstr ""
+"Det er greit å kjøre post-hoc-analyser, men det krever stor forsiktighet. "
+"For eksempel bør analysen jeg kjørte i forrige avsnitt unngås, ettersom hver "
+"*individuelle* *t*-test er designet for å ha en type-I-feilrate på 5\\% "
+"(dvs. α = 0,05), og jeg kjørte tre av disse testene. Tenk deg hva som ville "
+"ha skjedd hvis ANOVAen min omfattet 10 forskjellige grupper, og jeg hadde "
+"bestemt meg for å kjøre 45 «post-hoc»-*t*-tester for å prøve å finne ut "
+"hvilke som var signifikant forskjellige fra hverandre, da ville du forvente "
+"at 2 eller 3 av dem ville være signifikante *ved en tilfeldighet alene*. Som "
+"vi så i kapittel :doc:`../Ch09/Ch09_HypothesisTesting`, er det sentrale "
+"organisatoriske prinsippet bak nullhypotesetesting at vi søker å kontrollere "
+"Type I-feilraten vår, men nå som jeg kjører mange *t*-tester samtidig for å "
+"finne kilden til ANOVA-resultatene mine, har den faktiske Type I-feilraten "
+"min på tvers av hele denne *familien* av tester kommet helt ut av kontroll."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:117
 msgid ""
@@ -1647,10 +2207,20 @@ msgid ""
 "should be aware that there are many other methods out there (:ref:`Hsu, 1996 "
 "<Hsu_1996>`)."
 msgstr ""
+"Den vanlige løsningen på dette problemet er å innføre en justering av *p*-"
+"verdien, som tar sikte på å kontrollere den totale feilraten i hele "
+"testfamilien (:ref:`Shaffer, 1995 <Shaffer_1995>`). En slik justering, som "
+"vanligvis (men ikke alltid) brukes fordi man gjør en post-hoc-analyse, "
+"kalles ofte en **korreksjon for multiple sammenligninger**, selv om den noen "
+"ganger omtales som «samtidig slutning» (*simultaneous inference*). Uansett "
+"finnes det ganske mange forskjellige måter å gjøre denne justeringen på. Jeg "
+"vil diskutere noen av dem i dette avsnittet og i avsnitt :doc:`../Ch14/"
+"Ch14_ANOVA2_09`, men du bør være klar over at det finnes mange andre metoder "
+"der ute (:ref:`Hsu, 1996 <Hsu_1996>`)."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:129
 msgid "Bonferroni corrections"
-msgstr ""
+msgstr "Bonferroni-korreksjon"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:131
 msgid ""
@@ -1663,6 +2233,14 @@ msgid ""
 "and let *p*'\\ :sub:`j` be the corrected value, then the Bonferroni "
 "correction tells that:"
 msgstr ""
+"Den enkleste av disse justeringene kalles **Bonferroni-korreksjonen** (:ref:"
+"`Dunn, 1961 <Dunn_1961>`), og den er veldig, veldig enkel. Anta at post-hoc-"
+"analysen min består av *m* separate tester, og at jeg ønsker å sikre at den "
+"totale sannsynligheten for å gjøre *noen* type I-feil i det hele tatt er "
+"høyst α.\\ [#]_ I så fall sier Bonferroni-korreksjonen bare «multipliser alle"
+" de rå *p*-verdiene dine med *m*». Hvis vi lar *p* betegne den opprinnelige "
+"*p*-verdien, og lar *p*'\\ :sub:`j` være den korrigerte verdien, så forteller"
+" Bonferroni-korreksjonen at:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:140
 msgid "*p*'\\ :sub:`j` = *m* × *p*"
@@ -1677,6 +2255,12 @@ msgid ""
 "*total* Type I error rate across these tests cannot be larger than α. That’s "
 "pretty simple, so much so that in the original paper, the author writes,"
 msgstr ""
+"Hvis du bruker Bonferroni-korreksjonen, vil du derfor forkaste nullhypotesen "
+"hvis *p*'\\ :sub:`j` < α. Logikken bak denne korreksjonen er veldig enkel. "
+"Vi gjør *m* forskjellige tester, så hvis vi ordner det slik at hver test har "
+"en type I-feilrate på maksimalt α / *m*, kan ikke den *totale* type I-"
+"feilraten på tvers av disse testene være større enn α. Det er ganske enkelt, "
+"så mye at forfatteren skriver i den opprinnelige artikkelen,"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:150
 msgid ""
@@ -1686,6 +2270,11 @@ msgid ""
 "it is a very good method in some situations (:ref:`Dunn, 1961 <Dunn_1961>`, "
 "pp. 52-53)."
 msgstr ""
+"Metoden som er gitt her, er så enkel og så generell at jeg er sikker på at "
+"den må ha vært brukt før dette. Jeg finner den imidlertid ikke, så jeg kan "
+"bare konkludere med at det kanskje er nettopp enkelheten som har hindret "
+"statistikere i å innse at det er en svært god metode i noen situasjoner (:"
+"ref:`Dunn, 1961 <Dunn_1961>`, s. 52-53)."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:156
 msgid ""
@@ -1696,10 +2285,16 @@ msgid ""
 "values to those for the uncorrected, pairwise *t*-tests, it is clear that "
 "the only thing that jamovi has done is multiply them by 3."
 msgstr ""
+"Hvis du vil bruke Bonferroni-korreksjonen i jamovi, klikker du bare på "
+"avmerkingsboksen ``Bonferroni`` i ``Correction``-opsjonene, og du vil se "
+"en ny kolonne lagt til i ``ANOVA``-resultattabellen som viser de justerte "
+"*p*-verdiene for Bonferroni-korreksjonen (:numref:`fig-anova3`). Hvis vi "
+"sammenligner disse tre *p*-verdiene med de ukorrigerte, parvise *t*-testene, "
+"er det tydelig at det eneste jamovi har gjort, er å multiplisere dem med 3."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:165
 msgid "Holm corrections"
-msgstr ""
+msgstr "Holm-korreksjoner"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:167
 msgid ""
@@ -1710,6 +2305,12 @@ msgid ""
 "starting with the smallest (raw) *p*-value and moving onto the largest one. "
 "For the *j*-th largest of the *p*-values, the adjustment is *either*"
 msgstr ""
+"Selv om Bonferroni-korreksjonen er den enkleste justeringen som finnes, er "
+"den vanligvis ikke den beste å bruke. En metode som ofte brukes i stedet, er "
+"**Holm-korreksjonen** (:ref:`Holm, 1979 <Holm_1979>`). Ideen bak Holm-"
+"korreksjonen er å late som om du gjør testene sekvensielt, ved å starte med "
+"den minste (rå) *p*-verdien og gå videre til den største. For den *j*-tredje "
+"største av *p*-verdiene er justeringen *enten*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:174
 msgid "*p*'\\ :sub:`j` = j × *p*\\ :sub:`j`"
@@ -1720,6 +2321,8 @@ msgid ""
 "(i.e., the biggest *p*-value remains unchanged, the second biggest *p*-value "
 "is doubled, the third biggest *p*-value is tripled, and so on), *or*"
 msgstr ""
+"(dvs. den største *p*-verdien forblir uendret, den nest største *p*-verdien "
+"dobles, den tredje største *p*-verdien tredobles, og så videre), *eller*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:180
 msgid "*p*'\\ :sub:`j` = *p*'\\ :sub:`j + 1`"
@@ -1739,10 +2342,21 @@ msgid ""
 "works, consider the table below, which shows the calculations of a Holm "
 "correction for a collection of five *p*-values:"
 msgstr ""
+"avhengig av hvilken som er størst. Dette høres kanskje litt forvirrende ut, "
+"så la oss gå gjennom det litt saktere. Dette er hva Holm-korreksjonen gjør. "
+"Først sorterer du alle *p*-verdiene dine i rekkefølge, fra den minste til "
+"den største. For den minste *p*-verdien multipliserer du den bare med *m*, "
+"og så er du ferdig. For alle de andre er det imidlertid en totrinnsprosess. "
+"Når du for eksempel går til den nest minste *p*-verdien, multipliserer du "
+"den først med *m* - 1. Hvis dette gir et tall som er større enn den justerte "
+"*p*-verdien du fikk forrige gang, beholder du det. Men hvis den er mindre "
+"enn den forrige, kopierer du den forrige *p*-verdien. For å illustrere "
+"hvordan dette fungerer, kan du se på tabellen nedenfor, som viser "
+"beregningene av en Holm-korreksjon for en samling av fem *p*-verdier:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "raw *p* rank"
-msgstr ""
+msgstr "rå *p* rang"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "*j*"
@@ -1754,7 +2368,7 @@ msgstr "*p* × *j*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "Holm *p*"
-msgstr ""
+msgstr "Holm *p*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:198
 msgid ".001"
@@ -1798,7 +2412,7 @@ msgstr "0.103"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:209
 msgid "Hopefully that makes things clear."
-msgstr ""
+msgstr "Forhåpentligvis gjør det ting klart."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:211
 msgid ""
@@ -1816,10 +2430,23 @@ msgid ""
 "correction at all. In contrast, the smallest *p*-value (Joyzepam versus "
 "placebo) has been multiplied by three."
 msgstr ""
+"Selv om den er litt vanskeligere å beregne, har Holm-korreksjonen noen "
+"veldig fine egenskaper. Den er kraftigere enn Bonferroni (dvs. at den har en "
+"lavere type II-feilrate), men, selv om det kan virke kontraintuitivt, har "
+"den *samme* type I-feilrate. I praksis er det derfor aldri noen grunn til å "
+"bruke den enklere Bonferroni-korreksjonen, siden den alltid blir "
+"utkonkurrert av den litt mer forseggjorte Holm-korreksjonen. På grunn av "
+"dette bør Holm-korreksjonen være din *go to* korreksjon for multiple "
+"sammenligninger. :numref:`fig-anova3` viser også de Holm-korrigerte *p*-"
+"verdiene, og som du kan se, er den største *p*-verdien (som tilsvarer "
+"sammenligningen mellom Anxifree og placebo) uendret. Med en verdi på 0,15 er "
+"den nøyaktig den samme som den opprinnelige verdien vi fikk da vi ikke "
+"korrigerte i det hele tatt. Derimot har den minste *p*-verdien (Joyzepam "
+"versus placebo) blitt multiplisert med tre."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:226
 msgid "Writing up the post-hoc test"
-msgstr ""
+msgstr "Skriving av post-hoc-testen"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:228
 msgid ""
@@ -1827,6 +2454,9 @@ msgid ""
 "significantly different to one another, you might write up the result like "
 "this:"
 msgstr ""
+"Når du til slutt har kjørt post-hoc-analysen for å finne ut hvilke grupper "
+"som er signifikant forskjellige fra hverandre, kan du skrive opp resultatet "
+"slik:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:232
 msgid ""
@@ -1835,6 +2465,10 @@ msgid ""
 "= 0.001) and the placebo (*p* = 9.0 · 10\\ :sup:`-5`). We found no evidence "
 "that Anxifree performed better than the placebo (*p* = 0.15)."
 msgstr ""
+"Post-hoc-tester (med Holm-korreksjon for å justere *p*) indikerte at "
+"Joyzepam ga en signifikant større stemningsendring enn både Anxifree (*p* = "
+"0,001) og placebo (*p* = 9,0 - 10\\ :sup:`-5`). Vi fant ingen bevis for at "
+"Anxifree ga bedre resultater enn placebo (*p* = 0,15)."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:238
 msgid ""
@@ -1846,6 +2480,13 @@ msgid ""
 "statistics (i.e., the group means and standard deviations), since these *p*-"
 "values on their own aren’t terribly informative."
 msgstr ""
+"Eller, hvis du ikke liker tanken på å rapportere eksakte *p*-verdier, kan du "
+"endre disse tallene til henholdsvis *p* < 0,001`, *p* < 0,01 og *p* > 0,05. "
+"Uansett, det viktigste er at du angir at du brukte Holms korreksjon for å "
+"justere *p*-verdiene. Og jeg går selvfølgelig ut fra at du et annet sted i "
+"rapporten har tatt med relevant deskriptivstatistikk (dvs. "
+"gruppegjennomsnitt og standardavvik), siden disse *p*-verdiene i seg selv "
+"ikke er veldig informative."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:250
 msgid ""
@@ -1855,6 +2496,12 @@ msgid ""
 "comparisons”. I do talk about this situation later in the book in section :"
 "doc:`../Ch14/Ch14_ANOVA2_10`), but for now I want to keep things simple."
 msgstr ""
+"Hvis du *har* et teoretisk grunnlag for å ville undersøke noen "
+"sammenligninger, men ikke andre, er det en annen sak. I slike tilfeller "
+"gjennomfører du egentlig ikke «post-hoc»-analyser i det hele tatt, du gjør "
+"«planlagte sammenligninger» (*planned comparisons*). Jeg kommer tilbake til "
+"denne situasjonen senere i boken i avsnittet :doc:`../Ch14/Ch14_ANOVA2_10`), "
+"men nå vil jeg holde det enkelt."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:257
 msgid ""
@@ -1863,10 +2510,15 @@ msgid ""
 "error rate”. However, there are other post-hoc tests that seek to control "
 "the “false discovery rate”, which is a somewhat different thing."
 msgstr ""
+"Det er verdt å merke seg at ikke alle justeringsmetoder forsøker å gjøre "
+"dette. Det jeg har beskrevet her, er en tilnærming for å kontrollere den "
+"«familievise type-I-feilraten». Det finnes imidlertid andre post-hoc-tester "
+"som søker å kontrollere «falsk oppdagelsesrate» (*false discovery rate*), "
+"noe som er en annen ting."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:4
 msgid "Assumptions of the one-way ANOVA"
-msgstr ""
+msgstr "Forutsetninger for enveis ANOVA"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:6
 msgid ""
@@ -1875,6 +2527,10 @@ msgid ""
 "that you need to be aware of: *normality*, *homogeneity of variance* and "
 "*independence*."
 msgstr ""
+"Som alle andre statistiske tester er variansanalyse avhengig av noen "
+"antakelser om dataene, spesielt residuene. Det er tre viktige forutsetninger "
+"du må være klar over: *normalfordeling*, *varianshomogenitet* og "
+"*uavhengighet*."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:11
 msgid ""
@@ -1883,6 +2539,10 @@ msgid ""
 "didn’t read the whole thing, I described the statistical models underpinning "
 "ANOVA in this way:"
 msgstr ""
+"Hvis du husker tilbake til underavsnittet :ref:`Modellen for dataene og "
+"betydningen av *F* <meaning_of_F>`, som jeg håper du i det minste "
+"skummet over selv om du ikke leste hele, beskrev jeg de statistiske "
+"modellene som ligger til grunn for ANOVA på denne måten:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:16
 msgid "H\\ :sub:`0`: Y\\ :sub:`ik` = µ           + ϵ\\ :sub:`ik`"
@@ -1903,6 +2563,15 @@ msgid ""
 "However, all of our testing procedures have, implicitly, relied on a "
 "specific assumption about the residuals, ϵ\\ :sub:`ik`, namely that"
 msgstr ""
+"I disse ligningene refererer µ til et enkelt overordnet "
+"populasjonsgjennomsnitt som er det samme for alle grupper, og µ\\ :sub:`k` "
+"er populasjonsgjennomsnittet for den *k*-tredje gruppen. Frem til nå har vi "
+"vært mest interessert i om dataene våre best kan beskrives ved hjelp av ett "
+"enkelt totalt gjennomsnitt (nullhypotesen) eller ved hjelp av ulike "
+"gruppespesifikke gjennomsnitt (alternativhypotesen). Dette gir selvfølgelig "
+"mening, siden det faktisk er det viktige forskningsspørsmålet! Alle "
+"testprosedyrene våre har imidlertid implisitt basert seg på en spesifikk "
+"antakelse om residuene, ϵ\\ :sub:`ik`, nemlig at"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:31
 msgid ""
@@ -1912,6 +2581,11 @@ msgid ""
 "think it’s measuring, and so any conclusions that you might draw on the "
 "basis of the *F* test might be wrong."
 msgstr ""
+"Ingen av regnestykkene fungerer skikkelig uten denne biten. Eller, for å "
+"være presis, du kan fortsatt gjøre alle beregningene og ende opp med en *F*-"
+"statistikk, men du har ingen garanti for at denne *F*-statistikken faktisk "
+"måler det du tror den måler, og dermed kan eventuelle konklusjoner du "
+"trekker på grunnlag av *F*-testen, være feil."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:38
 msgid ""
@@ -1919,6 +2593,9 @@ msgid ""
 "Well, as I indicated above, there are three distinct claims buried in this "
 "one statement, and we’ll consider them separately."
 msgstr ""
+"Så hvordan sjekker vi om forutsetningen om residuene er korrekt? Som jeg antydet "
+"ovenfor, ligger det tre forskjellige påstander begravd i denne ene "
+"påstanden, og vi skal se på dem hver for seg."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:42
 msgid ""
@@ -1930,6 +2607,13 @@ msgid ""
 "groups. We’ll talk about this extensively in subsection :ref:`Checking the "
 "homogeneity of variance assumption <homogeneity_of_variance_anova>`."
 msgstr ""
+"**Varianshomogenitet**. Legg merke til at vi bare har én verdi for "
+"populasjonens standardavvik (dvs. σ), i stedet for å la hver gruppe ha sin "
+"egen verdi (dvs. σ\\ :sub:`k`). Dette kalles forutsetningen om "
+"varianshomogenitet (noen ganger kalt homoskedastisitet). ANOVA forutsetter "
+"at standardavviket i populasjonen er det samme for alle grupper. Vi skal "
+"snakke mye om dette i underavsnittet :ref:`Sjekk forutsetningen om "
+"varianshomogenitet <homogeneity_of_variance_anova>`."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:50
 msgid ""
@@ -1939,6 +2623,11 @@ msgid ""
 "more in an ANOVA context in subsection :ref:`Checking the normality "
 "assumption <normality_anova>`."
 msgstr ""
+"**Normalfordeling**. Residuene antas å være normalfordelte. Som vi så i "
+"underavsnitt :doc:`../Ch11/Ch11_tTest_08`, kan vi vurdere dette ved å se på "
+"QQ-plott (eller kjøre en Shapiro-Wilk-test). Jeg skal snakke mer om dette i "
+"en ANOVA-sammenheng i underavsnitt :ref:`Sjekk forutsetningen om normalfordeling "
+"<normality_anova>`."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:56
 msgid ""
@@ -1954,10 +2643,21 @@ msgid ""
 "same person! When that happens, you need to use something like repeated "
 "measures ANOVA (see section :doc:`Ch13_ANOVA_07`)."
 msgstr ""
+"**Uavhengighet**. Antakelsen om uavhengighet er litt vanskeligere. Det betyr "
+"i bunn og grunn at det å kjenne til et residuum ikke forteller deg noe om "
+"noen annet residuum. Alle ϵ\\ :sub:`ik`-verdiene antas å ha blitt generert "
+"uten «hensyn til» eller «forhold til» noen av de andre. Det finnes ingen "
+"åpenbar eller enkel måte å teste dette på, men det finnes noen situasjoner "
+"som er klare brudd på dette. Hvis du for eksempel har et design med "
+"gjentatte målinger, der hver deltaker i studien deltar i mer enn én "
+"betingelse, gjelder ikke uavhengighet. Det er et spesielt forhold mellom "
+"noen observasjoner, nemlig de som tilsvarer samme person! Når det skjer, må "
+"du bruke noe som ANOVA med gjentatte målinger (se avsnitt :doc:"
+"`Ch13_ANOVA_07`)."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:72
 msgid "Checking the homogeneity of variance assumption"
-msgstr ""
+msgstr "Sjekk av forutsetningen om varianshomogenitet"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:82
 msgid ""
@@ -1968,6 +2668,12 @@ msgid ""
 "1960 <Levene_1960>`), and the closely related **Brown-Forsythe test** (:ref:"
 "`Brown & Forsythe, 1974 <Brown_1974>`)."
 msgstr ""
+"Det er mer enn én måte å flå en katt på, som det heter, og det er mer enn én "
+"måte å teste forutsetningen om varianshomogenitet på også (selv om ingen av en "
+"eller annen grunn har gjort et ordtak ut av det). Den mest brukte testen for "
+"dette som jeg har sett i litteraturen, er **Levene-testen** (:ref:`Levene, "
+"1960 <Levene_1960>`), og den nært beslektede **Brown-Forsythe-testen** (:ref:"
+"`Brown & Forsythe, 1974 <Brown_1974>`)."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:89
 msgid ""
@@ -1978,13 +2684,23 @@ msgid ""
 "rather than Y\\ :sub:`ik`. With that in mind, we can go on to look at how to "
 "run the test in jamovi."
 msgstr ""
+"Uansett om du bruker standard Levene-test eller Brown-Forsythe-test, "
+"beregnes teststatistikken, som noen ganger betegnes *F*, men som også noen "
+"ganger skrives *W*, på nøyaktig samme måte som *F*-statistikken for den "
+"vanlige ANOVA-testen, bare at du bruker Z\\ :sub:`ik` i stedet for Y\\ :sub:"
+"`ik`. Med dette i bakhodet kan vi gå videre til å se på hvordan vi kjører "
+"testen i jamovi."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:97
 msgid ""
-"The Levene test is shockingly simple. Suppose we have our outcome variable Y"
-"\\ :sub:`ik`. All we do is define a new variable, which I’ll call Z\\ :sub:"
+"The Levene test is shockingly simple. Suppose we have our outcome variable "
+"Y\\ :sub:`ik`. All we do is define a new variable, which I’ll call Z\\ :sub:"
 "`ik`, corresponding to the absolute deviation from the group mean"
 msgstr ""
+"Levene-testen er sjokkerende enkel. Anta at vi har utfallsvariabelen Y\\ :"
+"sub:`ik`. Alt vi trenger å gjøre er å definere en ny variabel, som jeg "
+"kaller Z\\ :sub:`ik`, som tilsvarer det absolutte avviket fra "
+"gruppegjennomsnittet"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:102
 msgid "Z\\ :sub:`ik` = Y\\ :sub:`ik` - Ȳ\\ :sub:`k`"
@@ -1993,8 +2709,8 @@ msgstr "Z\\ :sub:`ik` = Y\\ :sub:`ik` - Ȳ\\ :sub:`k`"
 #: ../../Ch13/Ch13_ANOVA_06.rst:104
 msgid ""
 "Okay, what good does this do us? Well, let’s take a moment to think about "
-"what Z\\ :sub:`ik` actually is and what we’re trying to test. The value of Z"
-"\\ :sub:`ik` is a measure of how the *i*-th observation in the *k*-th group "
+"what Z\\ :sub:`ik` actually is and what we’re trying to test. The value of "
+"Z\\ :sub:`ik` is a measure of how the *i*-th observation in the *k*-th group "
 "deviates from its group mean. And our null hypothesis is that all groups "
 "have the same variance, i.e., the same overall deviations from the group "
 "means! So the null hypothesis in a Levene test is that the population means "
@@ -2003,6 +2719,16 @@ msgid ""
 "we seen that before? Oh right, that’s what ANOVA is, and so all that the "
 "Levene test does is run an ANOVA on the new variable Z\\ :sub:`ik`."
 msgstr ""
+"Ok, hva kan vi bruke dette til? La oss bruke et øyeblikk på å tenke over hva "
+"Z\\ :sub:`ik` egentlig er og hva vi prøver å teste. Verdien av Z\\ :sub:`ik` "
+"er et mål på hvordan den *i*-te observasjonen i den *k*-te gruppen avviker "
+"fra gruppegjennomsnittet. Og nullhypotesen vår er at alle gruppene har samme "
+"varians, dvs. samme totale avvik fra gruppegjennomsnittet! Nullhypotesen i "
+"en Levene-test er altså at populasjonsgjennomsnittet av Z er identisk for "
+"alle grupper. Ja. Så det vi trenger nå, er en statistisk test av "
+"nullhypotesen om at alle gruppegjennomsnitt er identiske. Hvor har vi sett "
+"det før? Akkurat, det er det en ANOVA er, så alt Levene-testen gjør er å "
+"kjøre en ANOVA på den nye variabelen Z\\ :sub:`ik`."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:116
 msgid ""
@@ -2012,6 +2738,11 @@ msgid ""
 "from the group *medians* rather than deviations from the group *means*. That "
 "is, for the Brown-Forsythe test"
 msgstr ""
+"Hva med Brown-Forsythe-testen? Gjør den noe særlig annerledes? Nei, det gjør "
+"den ikke. Den eneste endringen fra Levene-testen er at den konstruerer den "
+"transformerte variabelen *Z* på en litt annen måte, ved å bruke avvik fra "
+"gruppens *medianer* i stedet for avvik fra gruppens *gjennomsnitt*. Det vil "
+"si at for Brown-Forsythe-testen"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:122
 msgid "Z\\ :sub:`ik` = Y\\ :sub:`ik` - median\\ :sub:`k(Y)`"
@@ -2019,11 +2750,11 @@ msgstr "Z\\ :sub:`ik` = Y\\ :sub:`ik` - median\\ :sub:`k(Y)`"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:124
 msgid "where median\\ :sub:`k(Y)` is the median for group *k*."
-msgstr ""
+msgstr "der median\\ :sub:`k(Y)` er medianen for gruppe *k*."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:127
 msgid "Running the Levene-test in jamovi"
-msgstr ""
+msgstr "Kjører Levene-testen i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:129
 msgid ""
@@ -2044,14 +2775,30 @@ msgid ""
 "category in the analysis… just to see if they look fairly similar (i.e. "
 "homogeneity of variance) or not."
 msgstr ""
+"Hvordan kjører vi Levene-testen? Det er egentlig enkelt - under ``ANOVA`` → "
+"``Assumption Checks`` klikker du bare på avmerkingsboksen "
+"``Homogeneity tests``. Hvis vi ser på resultatet, som vises i :numref:`fig-"
+"anova4`, ser vi at testen ikke er signifikant (*F*\\{2,15} = 1,45, *p* = "
+"0,266), så det ser ut til at forutsetningen om varianshomogenitet er "
+"gitt. Utseendet kan imidlertid bedra! Hvis utvalgsstørrelsen er ganske "
+"stor, kan Levene-testen vise en signifikant effekt (dvs. *p* < 0,05) selv om "
+"forutsetningen om varianshomogenitet ikke er brutt i en grad som svekker "
+"robustheten til ANOVA. Dette var poenget George Box kom med i sitatet "
+"ovenfor. På samme måte kan det hende at forutsetningen om varianshomogenitet "
+"ikke er oppfylt hvis utvalgsstørrelsen er ganske liten, og at en Levene-test "
+"likevel kan være ikke-signifikant (dvs. *p* > 0,05). Dette betyr at du, ved "
+"siden av enhver statistisk test av om forutsetningen er oppfylt, alltid bør "
+"plotte standardavviket rundt gjennomsnittene for hver gruppe / kategori i "
+"analysen… bare for å se om de ser ganske like ut (dvs. varianshomogenitet) "
+"eller ikke."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
-msgstr ""
+msgstr "Utgave fra ``Levene test`` for ``One-Way ANOVA`` i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:157
 msgid "Removing the homogeneity of variance assumption"
-msgstr ""
+msgstr "Analyser som ikke forutsetter varianshomogenitet"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:159
 msgid ""
@@ -2071,10 +2818,25 @@ msgid ""
 "Way ANOVA`` analysis command, and check the option ``Don't assume equal "
 "(Welch’s)`` (see :numref:`fig-anova4a`)."
 msgstr ""
+"I vårt eksempel viste det seg at forutsetningen om varianshomogenitet var "
+"ganske trygg: Levene-testen viste seg å være ikke-signifikant (selv om vi "
+"også bør se på plottet av standardavvik), så vi trenger sannsynligvis ikke å "
+"bekymre oss. Men i virkeligheten er vi ikke alltid like heldige. Hvordan "
+"redder vi ANOVA-en vår når forutsetningen om varianshomogenitet er brutt? "
+"Hvis du husker fra diskusjonen vår om *t*-tester, har vi sett dette "
+"problemet før. Student *t*-testen forutsetter lik varians, så løsningen var "
+"å bruke Welch *t*-testen, som ikke gjør det. Faktisk viste :ref:`Welch "
+"(1951) <Welch_1951>` også hvordan vi kan løse dette problemet for ANOVA også "
+"(**Welch One-way test**). Den er implementert i jamovi ved hjelp av ``One-"
+"Way ANOVA``-analysen. Dette er en spesifikk analysetilnærming bare for "
+"enveis ANOVA, og for å kjøre Welch enveis ANOVA for vårt eksempel, kjører vi "
+"analysen på nytt som tidligere, men denne gangen bruker vi jamovi ``ANOVA`` "
+"→ ``One Way ANOVA``-analysen, og merker av for alternativet ``Don't "
+"assume equal (Welch's)`` (se :numref:`fig-anova4a`)."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
-msgstr ""
+msgstr "Welchs test som en del av enveis ANOVA i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:184
 msgid ""
@@ -2084,6 +2846,11 @@ msgid ""
 "also displayed in the ``One-Way ANOVA`` table (in the row starting with "
 "``Fisher's``) if the option ``Assume equal (Fisher's)`` was chosen."
 msgstr ""
+"For å forstå hva som skjer her, kan vi sammenligne disse tallene med dem vi "
+"fikk tidligere i avsnitt :doc:`Ch13_ANOVA_03`, nemlig *F*\\(2,15) = 18,611, "
+"*p* = 0,00009. Som vist i :numref:`fig-anova4a`, vises disse verdiene også i "
+"tabellen ``One-Way ANOVA`` (i raden som begynner med ``Fisher's``) hvis "
+"alternativet ``Assume equal (Fisher's)`` ble valgt."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:190
 msgid ""
@@ -2092,10 +2859,14 @@ msgid ""
 "Welch test has reduced the within-groups degrees of freedom from 15 to 9.49, "
 "and the *F*-value has increased from 18.6 to 26.32."
 msgstr ""
+"Ok, så opprinnelig ga vår ANOVA oss resultatet *F*\\(2,15) = 18,6, mens "
+"Welchs enveistest ga oss *F*\\(2,9,49) = 26,32. Welch-testen har med andre "
+"ord redusert frihetsgradene innenfor gruppene fra 15 til 9,49, og *F*-"
+"verdien har økt fra 18,6 til 26,32."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:199
 msgid "Checking the normality assumption"
-msgstr ""
+msgstr "Sjekk forutsetningen om normalfordeling"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:201
 msgid ""
@@ -2112,6 +2883,18 @@ msgid ""
 "sample can produce false negatives. That’s why a visual inspection of the QQ "
 "plot is important."
 msgstr ""
+"Det er relativt enkelt å sjekke forutsetningen om normalfordeling. Vi har dekket det "
+"meste av det du trenger å vite i avsnitt :doc:`../Ch11/Ch11_tTest_08`. Det "
+"eneste vi egentlig trenger å gjøre, er å tegne et QQ-plott og i tillegg "
+"kjøre Shapiro-Wilk-testen, hvis den er tilgjengelig. QQ-plottet vises i :"
+"numref:`fig-anova5`, og jeg synes det ser ganske normalt ut. Hvis Shapiro-"
+"Wilk-testen ikke er signifikant (dvs. *p* > 0,05), indikerer dette at "
+"forutsetningen om normalfordeling ikke er brutt. Men som med Levenes test, kan en "
+"signifikant Shapiro-Wilk-test, hvis utvalget er stort, faktisk være en falsk "
+"positiv, der forutsetningen om normalfordeling ikke er brutt i noen vesentlig "
+"problematisk forstand for analysen. Og på samme måte kan et svært lite "
+"utvalg gi falske negative resultater. Derfor er det viktig med en visuell "
+"inspeksjon av QQ-plottet."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:214
 msgid ""
@@ -2120,14 +2903,19 @@ msgid ""
 "= 0.6053 (see :numref:`fig-anova4a`). This therefore supports the QQ plot "
 "assessment; both checks find no indication that normality is violated."
 msgstr ""
+"I tillegg til å inspisere QQ-plottet for eventuelle avvik fra normalfordelingen, "
+"viser Shapiro-Wilk-testen for dataene våre en ikke-signifikant effekt, med "
+"*p* = 0,6053 (se :numref:`fig-anova4a`). Dette støtter derfor QQ-"
+"plottvurderingen; begge kontrollene finner ingen indikasjon på at "
+"forutsetning om normalfordelingen er brutt."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
-msgstr ""
+msgstr "QQ-plott produsert fra jamovi One-Way ANOVA-alternativer"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:231
 msgid "Removing the normality assumption"
-msgstr ""
+msgstr "Brudd på forutsetningen om normalfordeling"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:233
 msgid ""
@@ -2142,6 +2930,16 @@ msgid ""
 "**Kruskal-Wallis rank sum test** (:ref:`Kruskal & Wallis, 1952 "
 "<Kruskal_1952>`). So that’s the test we’ll talk about next."
 msgstr ""
+"Nå som vi har sett hvordan vi kan sjekke for normalfordeling, er det naturlig å "
+"spørre hva vi kan gjøre for å håndtere brudd på forutsetningen om normalfordeling. I forbindelse "
+"med en enveis ANOVA er den enkleste løsningen sannsynligvis å gå over til en "
+"ikke-parametrisk test (dvs. en test som ikke er avhengig av noen spesiell "
+"antakelse om hva slags fordeling som er involvert). Vi har sett ikke-"
+"parametriske tester før, i avsnitt :doc:`../Ch11/Ch11_tTest_09`. Når du bare "
+"har to grupper, er Mann-Whitney- eller Wilcoxon-testen det ikke-parametriske "
+"alternativet du trenger. Når du har tre eller flere grupper, kan du bruke "
+"**Kruskal-Wallis rangsumtest** (:ref:`Kruskal & Wallis, 1952 "
+"<Kruskal_1952>`). Det er den neste testen vi skal snakke om."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:244
 msgid ""
@@ -2151,6 +2949,10 @@ msgid ""
 "we’ll do is rank order all of these Y\\ :sub:`ik` values and conduct our "
 "analysis on the ranked data."
 msgstr ""
+"Kruskal-Wallis-testen er overraskende lik ANOVA, på noen måter. I ANOVA "
+"startet vi med Y\\ :sub:`ik`, verdien av utfallsvariabelen for den *i*-te "
+"personen i den *k*-te gruppen. I Kruskal-Wallis-testen skal vi rangere alle "
+"disse Y\\ :sub:`ik`-verdiene og utføre analysen på de rangerte dataene."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:250
 msgid ""
@@ -2158,6 +2960,10 @@ msgid ""
 "of the *k*-th group. Now, let’s calculate R̄\\ :sub:`k`, the average rank "
 "given to observations in the *k*-th group:"
 msgstr ""
+"La oss la R\\ :sub:`ik` referere til rangeringen som er gitt til det *i*-te "
+"medlemmet av den *k*-te gruppen. La oss nå beregne R̄\\ :sub:`k`, den "
+"gjennomsnittlige rangeringen som er gitt til observasjonene i den *k*-te "
+"gruppen:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:254
 msgid ""
@@ -2169,7 +2975,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:256
 msgid "and let’s also calculate R̄, the grand mean rank"
-msgstr ""
+msgstr "og la oss også beregne R̄, den totale gjennomsnittlige rangen"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:258
 msgid ""
@@ -2192,6 +2998,17 @@ msgid ""
 "and define our *ranked* sums of squares measures, much like we did earlier. "
 "First, we have our “total ranked sums of squares”"
 msgstr ""
+"Nå som vi har gjort dette, kan vi beregne de kvadrerte avvikene fra den "
+"totale gjennomsnittsverdien R̄. Når vi gjør dette for de individuelle skårene, "
+"dvs. hvis vi beregner (R\\ :sub:`ik` - R̄)², har vi et «ikke-parametrisk» mål "
+"på hvor langt den *ik*-te observasjonen avviker fra den totale "
+"gjennomsnittsrangeringen. Når vi beregner det kvadrerte avviket til "
+"gruppegjennomsnittet fra det totale gjennomsnittet, dvs. hvis vi beregner (R̄"
+"\\ :sub:`k` - R̄)², har vi et ikke-parametrisk mål på hvor mye *gruppen* "
+"avviker fra den totale gjennomsnittsrangeringen. Med dette i bakhodet følger "
+"vi samme logikk som vi gjorde med ANOVA og definerer våre *rangerte* "
+"kvadratsummer (*ranked sums of squares*), omtrent som vi gjorde tidligere. "
+"Først har vi våre «totale rangerte kvadratsummen»"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:271
 msgid ""
@@ -2202,8 +3019,8 @@ msgstr ""
 "\n"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:273
-msgid "and we can define the “between groups ranked sums of squares” like this"
-msgstr ""
+msgid "and we can define the “between groups ranked sums of squares” like this:"
+msgstr "og vi kan definere de «rangerte kvadratsummene mellom gruppene» slik:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275
 msgid ""
@@ -2226,6 +3043,12 @@ msgid ""
 "the ANOVA *F*-statistic, but for technical reasons the Kruskal-Wallis test "
 "statistic, usually denoted *K*, is constructed in a slightly different way,"
 msgstr ""
+"Så hvis nullhypotesen er sann og det ikke er noen sanne gruppeforskjeller i "
+"det hele tatt, vil du forvente at rangsummene mellom gruppene RSS\\ :sub:`b` "
+"er svært små, mye mindre enn de totale rangsummene RSS\\ :sub:`tot`. "
+"Kvalitativt sett er dette omtrent det samme som vi fant da vi konstruerte "
+"ANOVA *F*-statistikken, men av tekniske årsaker er Kruskal-Wallis-"
+"teststatistikken, vanligvis betegnet *K*, konstruert på en litt annen måte,"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:291
 msgid ""
@@ -2243,6 +3066,10 @@ msgid ""
 "with the null hypothesis, so this is a one-sided test. We reject H\\ :sub:"
 "`0` when *K* is sufficiently large."
 msgstr ""
+"og hvis nullhypotesen er sann, er utvalgsfordelingen til *K* *tilnærmet* χ² "
+"med *G* - 1 frihetsgrader (hvor *G* er antall grupper). Jo større verdien av "
+"*K* er, desto mindre konsistente er dataene med nullhypotesen, så dette er "
+"en ensidig test. Vi forkaster H\\ :sub:`0` når *K* er tilstrekkelig stor."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:299
 msgid ""
@@ -2253,6 +3080,12 @@ msgid ""
 "use a bit of algebraic jiggery-pokery [#]_ to show that the equation for *K* "
 "can be rewritten as"
 msgstr ""
+"Beskrivelsen i forrige avsnitt illustrerer logikken bak Kruskal-Wallis-"
+"testen. På et konseptuelt nivå er dette den riktige måten å tenke på hvordan "
+"testen fungerer. Fra et rent matematisk perspektiv er det imidlertid "
+"unødvendig komplisert. Jeg skal ikke vise deg utledningen, men du kan bruke "
+"litt algebraisk jiggery-pokery [#]_ for å vise at ligningen for *K* kan "
+"skrives om til"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:306
 msgid ""
@@ -2272,6 +3105,12 @@ msgid ""
 "calculated ends up with a rather different look to it than the one we used "
 "for our original ANOVA."
 msgstr ""
+"Det er denne siste ligningen som du noen ganger ser oppgitt for *K*. Den er "
+"mye enklere å beregne enn den versjonen jeg beskrev i forrige avsnitt, men "
+"det er bare det at den er helt meningsløs for mennesker. Det er nok best å "
+"tenke på *K* slik jeg beskrev det tidligere, som en analog til ANOVA basert "
+"på rangeringer. Men husk at teststatistikken som blir beregnet, ender opp "
+"med å se ganske annerledes ut enn den vi brukte for den opprinnelige ANOVAen."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:316
 msgid ""
@@ -2289,6 +3128,19 @@ msgid ""
 "abstract, so here’s a concrete example from the frequency table of ``mood."
 "gain`` from the |clinicaltrial|_ data set:"
 msgstr ""
+"Men vent, det er mer! Herregud, hvorfor er det alltid *mer*? Historien jeg "
+"har fortalt så langt, er faktisk bare sann når det ikke er noen bindinger i "
+"rådataene. Det vil si hvis det ikke finnes to observasjoner som har nøyaktig "
+"samme verdi. Hvis det *er* bindinger, må vi innføre en korreksjonsfaktor i "
+"disse beregningene. På dette tidspunktet antar jeg at selv den mest flittige "
+"leser har sluttet å bry seg (eller i det minste har dannet seg en oppfatning "
+"om at korreksjonsfaktoren ikke er noe som krever umiddelbar oppmerksomhet). "
+"Så jeg skal raskt fortelle deg hvordan den beregnes, og utelate de kjedelige "
+"detaljene om *hvorfor* den gjøres på denne måten. Anta at vi konstruerer en "
+"frekvenstabell for rådataene, og la f\\ :sub:`j` være antallet observasjoner "
+"som har den *j*-te unike verdien. Dette høres kanskje litt abstrakt ut, så "
+"her er et konkret eksempel fra frekvenstabellen for ``mood.gain`` fra "
+"datasettet |clinicaltrial|_:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.2"
@@ -2335,6 +3187,11 @@ msgid ""
 "that f\\ :sub:`3` = 2. Yay. So, now that we know this, the tie correction "
 "factor (TCF) is:"
 msgstr ""
+"Når vi ser på denne tabellen, legger vi merke til at den tredje oppføringen "
+"i frekvenstabellen har verdien 2. Siden dette tilsvarer en ``mood.gain`` på "
+"0,3, forteller denne tabellen oss at humøret til to personer økte med 0,3. I "
+"den matematiske notasjonen jeg introduserte ovenfor, forteller dette oss at f"
+"\\ :sub:`3` = 2. Jippi. Nå som vi vet dette, er tie correction factor (TCF)"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:343
 msgid ""
@@ -2354,10 +3211,17 @@ msgid ""
 "you realise that you *don’t* know how to calculate the tie-correction factor "
 "for the Kruskal-Wallis test. Right?"
 msgstr ""
+"Den uavhengighetskorrigerte verdien av Kruskal-Wallis-statistikken får du "
+"ved å dividere verdien av *K* med denne størrelsen. Det er denne tie-"
+"korrigerte versjonen jamovi beregner. Og endelig er vi faktisk ferdige med "
+"teorien om Kruskal-Wallis-testen. Dere er sikkert veldig lettet over at jeg "
+"har kurert dere for den eksistensielle angsten som naturlig nok oppstår når "
+"man innser at man *ikke* vet hvordan man beregner tie-korreksjonsfaktoren "
+"for Kruskal-Wallis-testen. Eller hva?"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:355
 msgid "How to run the Kruskal-Wallis test in jamovi"
-msgstr ""
+msgstr "Slik kjører du Kruskal-Wallis-testen i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:357
 msgid ""
@@ -2371,22 +3235,31 @@ msgid ""
 "jamovi. What this gives us is a Kruskal-Wallis χ² = 12.076, *df* = 2, *p*-"
 "value = 0.00239, as in :numref:`fig-anova6`."
 msgstr ""
+"Til tross for at vi har gått gjennom en hel del for å prøve å forstå hva "
+"Kruskal-Wallis-testen egentlig gjør, viser det seg at det er ganske "
+"smertefritt å kjøre testen, siden jamovi har en analyse som en del av "
+"analysesettet ``ANOVA`` som heter ``Non-Parametric`` - ``One-Way ANOVA "
+"(Kruskall-Wallis)``. Som oftest vil du ha data som i datasettet |"
+"clinicaltrial|_, der du har utfallsvariabelen ``mood.gain`` og en "
+"grupperingsvariabel ``drug``. I så fall kan du bare gå videre og kjøre "
+"analysen i jamovi. Dette gir oss en Kruskal-Wallis χ² = 12,076, *df* = 2, "
+"*p*-verdi = 0,00239, som i :numref:`fig-anova6`."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:373
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
-msgstr ""
+msgstr "ikke-parametrisk ``One-Way ANOVA (Kruskal-Wallis)`` i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:373
 msgid "Non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
-msgstr ""
+msgstr "Ikke-parametrisk ``One-Way ANOVA (Kruskal-Wallis)`` i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:380
 msgid "A technical term."
-msgstr ""
+msgstr "En teknisk term."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:4
 msgid "Repeated measures one-way ANOVA"
-msgstr ""
+msgstr "Enveis ANOVA med gjentatte målinger"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:6
 msgid ""
@@ -2398,6 +3271,13 @@ msgid ""
 "experimental group. This type of design and analysis can also be called a "
 "“related ANOVA” or a “within-subjects ANOVA”."
 msgstr ""
+"Enveis ANOVA-test med gjentatte målinger er en statistisk metode for å teste "
+"for signifikante forskjeller mellom tre eller flere grupper der de samme "
+"deltakerne brukes i hver gruppe (eller der hver deltaker er tett matchet med "
+"deltakere i andre eksperimentgrupper). Av denne grunn bør det alltid være "
+"like mange poengsummer (datapunkter) i hver forsøksgruppe. Denne typen "
+"design og analyse kan også kalles en «relatert ANOVA» eller en «within-"
+"subjects ANOVA»."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:14
 msgid ""
@@ -2409,6 +3289,13 @@ msgid ""
 "the respective degrees of freedom to give MS\\ :sub:`b` and MS\\ :sub:`w` "
 "(see :numref:`tab-anovatable`) the *F*-ratio is calculated as:"
 msgstr ""
+"Logikken bak en ANOVA med gjentatte målinger er svært lik logikken bak en "
+"uavhengig ANOVA (noen ganger kalt en «between-subjects»-ANOVA). Du husker "
+"sikkert at vi tidligere viste at i en between-subjects-ANOVA deles den "
+"totale variabiliteten inn i variabilitet mellom grupper (SS\\ :sub:`b`) og "
+"variabilitet innenfor grupper (SS\\ :sub:`w`), og etter at hver av dem er "
+"delt på de respektive frihetsgradene for å gi MS\\ :sub:`b` og MS\\ :sub:`w` "
+"(se :numref:`tab-anovatable`), beregnes *F*-forholdet som følger:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:23
 msgid "*F* = MS\\ :sub:`b` / MS\\ :sub:`w`"
@@ -2429,16 +3316,31 @@ msgid ""
 "factor. And then we can subtract SS\\ :sub:`subjects` from SS\\ :sub:`w` to "
 "provide a smaller SS\\ :sub:`error` term:"
 msgstr ""
+"I en ANOVA med gjentatte målinger beregnes *F*-ratioen på samme måte, men "
+"mens man i en uavhengig ANOVA bruker variabiliteten innad i gruppen (SS\\ :"
+"sub:`w`) som grunnlag for nevneren i MS\\ :sub:`w`, deles SS\\ :sub:`w` i en "
+"ANOVA med gjentatte målinger opp i to deler. Ettersom vi bruker de samme "
+"forsøkspersonene i hver gruppe, kan vi fjerne variabiliteten som skyldes "
+"individuelle forskjeller mellom forsøkspersonene (referert til som SS\\ :sub:"
+"`subjects`) fra variabiliteten innad i gruppene. Vi skal ikke gå for mye inn "
+"på tekniske detaljer om hvordan dette gjøres, men i bunn og grunn blir hver "
+"forsøksperson et nivå av en faktor som kalles forsøkspersoner. "
+"Variabiliteten i denne innad i gruppen-faktoren beregnes deretter på samme "
+"måte som en hvilken som helst faktor mellom grupper. Og så kan vi trekke SS"
+"\\ :sub:`subjects` fra SS\\ :sub:`w` for å få et mindre SS\\ :sub:`error`-"
+"term:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:40
 msgid "Independent ANOVA:       SS\\ :sub:`error` = SS\\ :sub:`w`"
-msgstr ""
+msgstr "Uavhengig ANOVA: SS\\ :sub:`error` = SS\\ :sub:`w`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:41
 msgid ""
 "Repeated Measures ANOVA: SS\\ :sub:`error` = SS\\ :sub:`w - SS\\ :sub:"
 "`subjects`"
 msgstr ""
+"ANOVA med gjentatte målinger: SS\\ :sub:`error` = SS\\ :sub:`w - SS\\ :sub:"
+"`subjekter`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:43
 msgid ""
@@ -2449,10 +3351,15 @@ msgid ""
 "(*n* - 1)(*k* - 1) remembering that there are more subjects in the "
 "independent ANOVA design."
 msgstr ""
+"Denne endringen i SS\\ :sub:`error`-termen fører ofte til en sterkere "
+"statistisk test, men dette avhenger av om reduksjonen i SS\\ :sub:`error` "
+"mer enn oppveier for reduksjonen i frihetsgrader for feiltermen: "
+"Frihetsgradene går fra (*n* - *k*)\\[#]_ til (*n* - 1)(*k* - 1), med tanke "
+"på at det er flere forsøkspersoner i den uavhengige ANOVA-designen."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:51
 msgid "Repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "ANOVA med gjentatte målinger i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:53
 msgid ""
@@ -2463,26 +3370,32 @@ msgid ""
 "communication difficulties experienced by six patients suffering from "
 "Broca’s Aphasia (a language deficit commonly experienced following a stroke)."
 msgstr ""
+"Først trenger vi noen data. :ref:`Geschwind (1972) <Geschwind_1972>` har "
+"foreslått at den nøyaktige karakteren av en pasients språkvansker etter et "
+"hjerneslag kan brukes til å diagnostisere den spesifikke regionen i hjernen "
+"som har blitt skadet. En forsker er opptatt av å identifisere de spesifikke "
+"kommunikasjonsvanskene hos seks pasienter som lider av Brocas afasi (en "
+"språkvanske som ofte oppstår etter et hjerneslag)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:60
 msgid "Number of attempts successfully completed on three experimental tasks."
-msgstr ""
+msgstr "Antall forsøk som ble fullført på tre eksperimentelle oppgaver."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Participant"
-msgstr ""
+msgstr "Deltaker"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Speech"
-msgstr ""
+msgstr "Tale"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Conceptual"
-msgstr ""
+msgstr "Konseptuell"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Syntax"
-msgstr ""
+msgstr "Syntaks"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:70
 msgid "9"
@@ -2503,6 +3416,17 @@ msgid ""
 "numref:`tab-RManova`. Enter these data into jamovi ready for analysis (or "
 "take a short-cut and load the |broca|_ data set)."
 msgstr ""
+"Pasientene måtte gjennomføre tre ordgjenkjenningsoppgaver. I den første "
+"oppgaven (taleproduksjon) skulle pasientene gjenta enkeltord som ble lest "
+"høyt av forskeren. I den andre oppgaven (begrepsforståelse), som skulle "
+"teste ordforståelsen, skulle pasientene matche en rekke bilder med riktig "
+"navn. I den tredje oppgaven (syntaks), som skulle teste kunnskap om korrekt "
+"ordstilling, ble pasientene bedt om å omorganisere syntaktisk ukorrekte "
+"setninger. Hver pasient fullførte alle tre oppgavene. Rekkefølgen pasientene "
+"løste oppgavene i, ble utjevnet mellom deltakerne. Hver oppgave besto av en "
+"serie på 10 forsøk. Antall forsøk som ble fullført av hver pasient, vises i :"
+"numref:`tab-RManova`. Legg inn disse dataene i jamovi klar for analyse "
+"(eller ta en snarvei og last inn datasettet |broca|_)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:93
 msgid ""
@@ -2510,6 +3434,9 @@ msgid ""
 "measures ANOVA dialogue box, as in :numref:`fig-RManova1`, via ``ANOVA - "
 "Repeated Measures ANOVA``. Then:"
 msgstr ""
+"For å utføre en enveis ANOVA i jamovi, åpner du dialogboksen for enveis "
+"ANOVA med gjentatte målinger, som i :numref:`fig-RManova1`, via ``ANOVA - "
+"Repeated Measures ANOVA``. Åpne deretter:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:97
 msgid ""
@@ -2520,6 +3447,12 @@ msgid ""
 "would be ``Task``. Note that this new factor name represents the independent "
 "variable in the analysis."
 msgstr ""
+"Skriv inn et navn for ``Repeated Measures Factors`` (opprinnelig: ``RM "
+"Factor…``). Dette bør være en etikett som du velger for å beskrive "
+"forholdene som gjentas av alle deltakerne. For eksempel, for å beskrive "
+"tale-, begreps- og syntaksoppgavene som ble fullført av alle deltakerne, vil "
+"en passende etikett være ``Task``. Merk at dette nye faktornavnet "
+"representerer den uavhengige variabelen i analysen."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:104
 msgid ""
@@ -2527,22 +3460,29 @@ msgid ""
 "there are three levels representing the three tasks: ``Speech``, "
 "``Conceptual`` and ``Syntax``. Change the labels of the levels accordingly."
 msgstr ""
+"Legg til et tredje nivå i variabelboksen ``Repeated Measures Factors``, "
+"siden det er tre nivåer som representerer de tre oppgavene: ``Speech``, "
+"``Conceptual`` og ``Syntax``. Endre etikettene på nivåene tilsvarende."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:108
 msgid ""
 "Then move each of the levels variables across to the ``Repeated Measures "
 "Cells`` text box."
 msgstr ""
+"Flytt deretter hver av nivåvariablene over til tekstboksen ``Repeated "
+"Measures Cells``."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:111
 msgid ""
 "Finally, under the ``Assumption Checks`` option, tick the ``Sphericity "
 "checks`` check box."
 msgstr ""
+"Til slutt krysser du av for ``Sphericity checks`` under alternativet "
+"``Assumption Checks``."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
-msgstr ""
+msgstr "Dialogboks for ANOVA med gjentatte målinger i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:124
 msgid ""
@@ -2557,10 +3497,20 @@ msgid ""
 "conclude that the variances of the differences are not significantly "
 "different (i.e. they are roughly equal and sphericity can be assumed.)."
 msgstr ""
+"Utgave fra en enveis ``Repeated Measures ANOVA`` i jamovi produseres som vist "
+"i :numref:`fig-RManova2` til :numref:`fig-RManova5`. Det første resultatet "
+"vi bør se på, er ``Mauchly's Test of Sphericity``, som tester hypotesen om "
+"at variansene i forskjellene mellom betingelsene er like (noe som betyr at "
+"spredningen i differansescore mellom studiebetingelsene er omtrent den "
+"samme). I :numref:`fig-RManova2` er Mauchlys testsignifikansnivå *p* = "
+"0,720. Hvis Mauchlys test ikke er signifikant (dvs. *p* > 0,05, som er "
+"tilfellet i denne analysen), er det rimelig å konkludere med at variansene i "
+"forskjellene ikke er signifikant forskjellige (dvs. at de er omtrent like "
+"store og sfæricitet kan antas)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
-msgstr ""
+msgstr "Enveis ANOVA med gjentatte målinger: Mauchlys test av sfæricitet"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:146
 msgid ""
@@ -2570,18 +3520,27 @@ msgid ""
 "met. In this case, we should apply a correction to the *F*-value obtained in "
 "the one-way related ANOVA analysis:"
 msgstr ""
+"Hvis Mauchlys test derimot hadde vært signifikant (*p* < 0,05), ville vi "
+"konkludert med at det er signifikante forskjeller mellom variansen i "
+"forskjellene, og at kravet om sfæricitet ikke er oppfylt. I dette tilfellet "
+"bør vi korrigere *F*-verdien som ble oppnådd i den enveisrelaterte ANOVA-"
+"analysen:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:153
 msgid ""
 "If the ``Greenhouse-Geisser`` value in the ``Tests of Sphericity`` table is "
 "> 0.75 then you should use the Huynh-Feldt correction."
 msgstr ""
+"Hvis verdien ``Greenhouse-Geisser`` i tabellen ``Tests of Sphericity`` er > "
+"0,75, bør du bruke Huynh-Feldt-korreksjonen."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:156
 msgid ""
 "But if the ``Greenhouse-Geisser`` value is < 0.75, then you should use the "
 "Greenhouse-Geisser correction."
 msgstr ""
+"Men hvis ``Greenhouse-Geisser``-verdien er < 0,75, bør du bruke Greenhouse-"
+"Geisser-korreksjonen."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:159
 msgid ""
@@ -2590,15 +3549,20 @@ msgid ""
 "corrected *F*-values are then shown in the results table, as in :numref:`fig-"
 "RManova3`."
 msgstr ""
+"Begge disse korrigerte *F*-verdiene kan spesifiseres i avmerkingsboksene "
+"``Sphericity Corrections`` under ``Assumption Checks``, og de korrigerte *F*-"
+"verdiene vises deretter i resultattabellen, som i :numref:`fig-RManova3`."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:170
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Utgave fra ANOVA med gjentatte målinger: Tester av innenfor-deltakere-effekter (*within subjects*)"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:170
 msgid ""
 "One-way repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Enveis ANOVA med gjentatte målinger: Tester av innenfor-deltakere-effekter (*within subjects*)"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:175
 msgid ""
@@ -2609,13 +3573,21 @@ msgid ""
 "output values for the repeated measure ``Task``: *F* = 6.93, *df1* = 2, "
 "*df2* = 10, *p* = 0.013, and we can conclude that the number of tests "
 "successfully completed on each language task did vary significantly "
-"depending on whether the task was speech, comprehension or syntax based (*F*"
-"\\(2,10) = 6.93, *p* = 0.013)."
+"depending on whether the task was speech, comprehension or syntax based "
+"(*F*\\(2,10) = 6.93, *p* = 0.013)."
 msgstr ""
+"I analysen vår så vi at signifikansen til Mauchlys sfæricitetstest var *p* = "
+"0,720 (dvs. *p* > 0,05). Dette betyr at vi kan anta at kravet til sfæricitet "
+"er oppfylt, og at det ikke er nødvendig å korrigere *F*-verdien. Derfor kan "
+"vi bruke utgangsverdiene for sfæricitetskorreksjon ``None`` for den "
+"gjentatte målingen ``Task``: *F* = 6,93, *df1* = 2, *df2* = 10, *p* = 0,013, "
+"og vi kan konkludere med at antallet tester som ble fullført på hver "
+"språkoppgave, varierte signifikant avhengig av om oppgaven var tale-, "
+"forståelses- eller syntaksbasert (*F*\\(2,10) = 6,93, *p* = 0,013)."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "Post-hoc-tester i ANOVA med gjentatte målinger i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:195
 msgid ""
@@ -2624,6 +3596,10 @@ msgid ""
 "`fig-RManova4`. These indicate that there is a significant difference "
 "between ``Speech`` and ``Syntax``, but not between other levels."
 msgstr ""
+"Post-hoc-tester kan også spesifiseres i jamovi for ANOVA med gjentatte "
+"målinger på samme måte som for uavhengig ANOVA. Resultatene vises i :numref:"
+"`fig-RManova4`. Disse indikerer at det er en signifikant forskjell mellom "
+"``Speech`` og ``Syntax``, men ikke mellom de andre nivåene."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:201
 msgid ""
@@ -2636,18 +3612,26 @@ msgid ""
 "4.33), with a significant difference in post-hoc tests between ``Speech`` "
 "and ``Syntax`` task performance."
 msgstr ""
+"Deskriptivstatistikk (esimterte randgjennomsnitt) kan gjennomgås for å tolke "
+"resultatene, som produseres i jamovi-utgaven som i :numref:`fig-RManova5`. "
+"Sammenligning av gjennomsnittlig antall forsøk som deltakerne fullførte, "
+"viser at Brocas afasirammede presterer rimelig bra på oppgavene "
+"taleproduksjon (gjennomsnitt = 7,17) og språkforståelse (gjennomsnitt = "
+"6,17). De presterte imidlertid betydelig dårligere på syntaksoppgaven "
+"(gjennomsnitt = 4,33), med en signifikant forskjell i post-hoc-tester mellom "
+"``Speech`` og ``Syntax``."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
-msgstr ""
+msgstr "Enveis ANOVA med gjentatte målinger: Deskriptivstatistikk"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:223
 msgid "(n - k): (number of subjects - number of groups)"
-msgstr ""
+msgstr "(n - k): (antall forsøkspersoner - antall grupper)"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:4
 msgid "The Friedman non-parametric repeated measures ANOVA test"
-msgstr ""
+msgstr "Friedmans ikke-parametriske ANOVA-test med gjentatte målinger"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:6
 msgid ""
@@ -2659,6 +3643,13 @@ msgid ""
 "ordinal|, or if the assumption of normality is not met, then the Friedman "
 "test can be used."
 msgstr ""
+"Friedman-testen er en ikke-parametrisk versjon av en ANOVA med gjentatte "
+"målinger og kan brukes i stedet for Kruskall-Wallis-testen når man tester "
+"for forskjeller mellom tre eller flere grupper |nominal| der de samme "
+"deltakerne er i hver gruppe, eller der hver deltaker er tett matchet med "
+"deltakere i andre betingelser. Hvis den avhengige variabelen er ordinal "
+"|ordinal|, eller hvis forutsetningen om normalfordeling ikke er oppfylt, "
+"kan Friedman-testen brukes."
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:51
 msgid "ordinal"
@@ -2666,7 +3657,7 @@ msgstr "ordinal"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
-msgstr ""
+msgstr "Dialogboksen ``Repeated Measures ANOVA (Non-parametric)`` i jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:23
 msgid ""
@@ -2676,6 +3667,11 @@ msgid ""
 "test, and in :numref:`fig-RManova6` there is an example using the Broca’s "
 "Aphasia data we have already looked at."
 msgstr ""
+"Som med Kruskall-Wallis-testen er den underliggende matematikken komplisert, "
+"og vil ikke bli presentert her. For denne bokens formål er det tilstrekkelig "
+"å merke seg at jamovi beregner den uavhengighetskorrigerte versjonen av "
+"Friedman-testen, og i :numref:`fig-RManova6` finnes det et eksempel med "
+"Brocas afasidata som vi allerede har sett på."
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:29
 msgid ""
@@ -2687,6 +3683,13 @@ msgid ""
 "statistics (means and medians) for the three repeated measures variables, "
 "click on the ``Descriptives`` button."
 msgstr ""
+"Det er ganske enkelt å kjøre en Friedman-test i jamovi. Bare velg "
+"``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA (Non-parametric)``, som "
+"i :numref:`fig-RManova6`. Deretter markerer du og overfører navnene på de "
+"gjentatte målevariablene du ønsker å sammenligne (``Speech``, "
+"``Conceptual``, ``Syntax``) til tekstboksen ``Measures:``. Klikk på "
+"``Descriptives``-knappen for å produsere deskriptivstatistikk (gjennomsnitt "
+"og median) for de tre variablene med gjentatte målinger."
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:37
 msgid ""
@@ -2699,10 +3702,18 @@ msgid ""
 "(median = 4.5), with a significant difference in post-hoc tests between "
 "Speech and Syntax task performance."
 msgstr ""
+"Resultatene fra jamovi viser deskriptivstatistikk, χ²-verdi, frihetsgrader "
+"og *p*-verdi (:numref:`fig-RManova6`). Siden *p*-verdien er lavere enn det "
+"nivået som vanligvis brukes for å fastslå signifikans (*p* < 0,05), kan vi "
+"konkludere med at Brocas afasirammede presterer rimelig godt på "
+"taleproduksjon (median = 7,5) og språkforståelse (median = 6,5). De "
+"presterte imidlertid betydelig dårligere på syntaksoppgaven (median = 4,5), "
+"med en signifikant forskjell i post-hoc-tester mellom tale- og "
+"syntaksoppgavene."
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:4
 msgid "On the relationship between ANOVA and the Student *t*-test"
-msgstr ""
+msgstr "Om forholdet mellom ANOVA og Student *t*-testen"
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:6
 msgid ""
@@ -2724,10 +3735,27 @@ msgid ""
 "there is a fairly straightforward relationship here. If we square the *t*-"
 "statistic then we get the *F*-statistic from before: -1.3068² = 1.7077."
 msgstr ""
+"Det er en siste ting jeg vil påpeke før jeg avslutter. Det er noe som mange "
+"synes er litt overraskende, men det er verdt å vite om. En ANOVA med to "
+"grupper er identisk med Student *t*-testen. Nei, jeg mener det. Det er ikke "
+"bare det at de er like, men de er faktisk ekvivalente på alle meningsfulle "
+"måter. Jeg skal ikke prøve å bevise at dette alltid er sant, men jeg vil "
+"vise deg en enkelt konkret demonstrasjon. Anta at vi i stedet for å kjøre en "
+"ANOVA på vår ``mood.gain ~ drug``-modell, la oss i stedet gjøre det med "
+"``therapy`` som prediktor. Hvis vi kjører denne ANOVA-en, får vi en *F*-"
+"statistikk på F(1,16) = 1,71, og en *p*-verdi = 0,210. Siden vi bare har to "
+"grupper, trengte jeg faktisk ikke å ty til en ANOVA, jeg kunne bare ha "
+"bestemt meg for å kjøre en Student *t*-test. Så la oss se hva som skjer når "
+"jeg gjør det: Jeg får en *t*-statistikk på t(16) = -1,3068 og en *p*-verdi = "
+"0,21. Merkelig nok er *p*-verdiene identiske. Igjen får vi en verdi på *p* = "
+"0,210. Men hva med teststatistikken? Etter å ha kjørt en *t*-test i stedet "
+"for en ANOVA får vi et noe annet svar, nemlig t(16) = -1,3068. Det er "
+"imidlertid en ganske enkel sammenheng her. Hvis vi kvadrerer *t*-"
+"statistikken, får vi *F*-statistikken fra før: -1,3068² = 1,7077."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:4
 msgid "Summary"
-msgstr ""
+msgstr "Sammendrag"
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:6
 msgid ""
@@ -2737,22 +3765,32 @@ msgid ""
 "a lot of detail in chapter :doc:`../Ch14/Ch14_ANOVA2`. In terms of what we "
 "have discussed, the key topics were:"
 msgstr ""
+"Det er en god del som er dekket i dette kapittelet, men det er fortsatt mye "
+"som mangler. Det mest åpenbare er at jeg ikke har diskutert hvordan man "
+"kjører en ANOVA når man er interessert i mer enn én grupperingsvariabel, men "
+"det vil bli diskutert i detalj i kapittel :doc:`../Ch14/Ch14_ANOVA2`. De "
+"viktigste temaene vi har diskutert, var:"
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:12
 msgid ""
 "The basic logic behind :doc:`how ANOVA works <Ch13_ANOVA_02>` and :doc:`how "
 "to run one in jamovi <Ch13_ANOVA_03>`."
 msgstr ""
+"Den grunnleggende logikken bak :doc:`hvordan ANOVA fungerer <Ch13_ANOVA_02>` "
+"og :doc:`hvordan du kjører en ANOVA i jamovi <Ch13_ANOVA_03>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:15
 msgid "How to compute an :doc:`effect size <Ch13_ANOVA_04>` for an ANOVA."
 msgstr ""
+"Slik beregner du en :doc:`effektstørrelse <Ch13_ANOVA_04>` for en ANOVA."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:17
 msgid ""
 ":doc:`Post-hoc analysis and corrections for multiple testing "
 "<Ch13_ANOVA_05>`."
 msgstr ""
+":doc:`Post-hoc-analyse og korreksjoner for multippel testing "
+"<Ch13_ANOVA_05>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:19
 msgid ""
@@ -2760,12 +3798,18 @@ msgid ""
 "homogeneity of variance assumption and what to do if it is violated; as well "
 "as how to check the normality assumption and what to do if it is violated."
 msgstr ""
+"The :doc:`forutsetningene for ANOVA <Ch13_ANOVA_06>`: Hvordan du "
+"undersøker forutsetningen om varianshomogenitet og hva du skal gjøre hvis "
+"den brytes, samt hvordan du undersøker forutsetningen om normalfordeling og hva "
+"du skal gjøre hvis den brytes."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:23
 msgid ""
 ":doc:`Repeated measures ANOVA <Ch13_ANOVA_07>` and its non-parametric "
 "equivalent, the :doc:`Friedman test <Ch13_ANOVA_08>`."
 msgstr ""
+":doc:`Repeated measures ANOVA <Ch13_ANOVA_07>` og dens ikke-parametriske "
+"ekvivalent, :doc:`Friedman-test <Ch13_ANOVA_08>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:26
 msgid ""
@@ -2776,3 +3820,8 @@ msgid ""
 "advanced readers who are interested in understanding the mathematics behind "
 "ANOVA."
 msgstr ""
+"Som med alle kapitlene i denne boken er det ganske mange ulike kilder jeg "
+"har støttet meg til, men den teksten jeg har vært mest påvirket av, er :ref:"
+"`Sahai og Ageel (2000) <Sahai_2000>`. Det er ikke en god bok for "
+"nybegynnere, men det er en utmerket bok for mer avanserte lesere som er "
+"interessert i å forstå matematikken bak ANOVA."
