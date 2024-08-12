@@ -471,11 +471,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Umbrella, Rainy)"
-msgstr "*P* (Paraply, regn)"
+msgstr "*P*\\ (Paraply, regn)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (No-umbrella, Rainy)"
-msgstr "*P* (Ingen paraply, regn)"
+msgstr "*P*\\ (Ingen paraply, regn)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Rainy)"
@@ -483,11 +483,11 @@ msgstr "*P*\\ (Regn)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Umbrella, Dry)"
-msgstr "*P* (Paraply, tørr)"
+msgstr "*P*\\ (Paraply, tørr)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (No-umbrella, Dry)"
-msgstr "*P* (Ingen paraply, tørr)"
+msgstr "*P*\\ (Ingen paraply, tørr)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Dry)"
@@ -495,7 +495,7 @@ msgstr "*P*\\ (Tørr)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (Umbrella)"
-msgstr "*P* (Paraply)"
+msgstr "*P*\\ (Paraply)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (No-umbrella)"
