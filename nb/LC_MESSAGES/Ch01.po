@@ -20,7 +20,7 @@ msgstr "Hvorfor lærer vi statistikk?"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr "*«Du skal ikke svare på spørreskjemaer"
+msgstr "*«Du skal ikke svare på spørreskjemaer*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
