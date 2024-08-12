@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
 "PO-Revision-Date: 2024-08-08 16:27+0200\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: \n"
@@ -379,7 +379,7 @@ msgstr ""
 "variabeltype, kan det forbedre ytelsen når du samhandler med svært store "
 "datasett."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:313 ../../Ch03/Ch03_jamoviIntro_3.rst:108
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:313
 msgid "ID"
 msgstr "ID"
 
@@ -404,7 +404,7 @@ msgstr ""
 "etiketter til disse verdiene med variabelredigeringsprogrammet (mer om dette "
 "senere)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:319 ../../Ch03/Ch03_jamoviIntro_3.rst:114
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:319
 msgid "nominal"
 msgstr "nominal"
 
@@ -418,7 +418,7 @@ msgstr ""
 "at verdiene har en bestemt rekkefølge. Et eksempel er en Likert-skala der 3 "
 "er «helt enig» og -3 er «helt uenig»."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:322 ../../Ch03/Ch03_jamoviIntro_3.rst:117
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:322
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -432,7 +432,7 @@ msgstr ""
 "kontinuerlig skala. Eksempler kan være høyde eller vekt. Dette kalles også "
 "«intervallskala» eller «forholdstallskala»."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:316 ../../Ch03/Ch03_jamoviIntro_3.rst:111
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:316
 msgid "continuous"
 msgstr "continuous"
 
@@ -1133,14 +1133,15 @@ msgstr ""
 "analysene i modulen hvis du holder musepekeren over den (da vises analysene) "
 "eller klikker på den (da får du tilgang til analysene)."
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:259
-msgid ""
-"``quote``. It’s conventional in CSV files to include a quoting character for "
-"textual data. As you can see by looking at the |booksales|_ file, this is "
-"usually a double quote character, ``\"``. But sometimes there is no quoting "
-"character at all, or you might see a single quote mark ``’`` used instead."
-msgstr ""
-"``quote``. I CSV-filer er det vanlig å inkludere et anførselstegn for "
-"tekstdata. Som du kan se i filen |booksales|_, er dette vanligvis et dobbelt "
-"anførselstegn, ``\"``. Men noen ganger er det ikke noe anførselstegn i det "
-"hele tatt, eller du kan se et enkelt anførselstegn, ``'``, brukt i stedet."
+#~ msgid ""
+#~ "``quote``. It’s conventional in CSV files to include a quoting character "
+#~ "for textual data. As you can see by looking at the |booksales|_ file, "
+#~ "this is usually a double quote character, ``\"``. But sometimes there is "
+#~ "no quoting character at all, or you might see a single quote mark ``’`` "
+#~ "used instead."
+#~ msgstr ""
+#~ "``quote``. I CSV-filer er det vanlig å inkludere et anførselstegn for "
+#~ "tekstdata. Som du kan se i filen |booksales|_, er dette vanligvis et "
+#~ "dobbelt anførselstegn, ``\"``. Men noen ganger er det ikke noe "
+#~ "anførselstegn i det hele tatt, eller du kan se et enkelt anførselstegn, "
+#~ "``'``, brukt i stedet."
