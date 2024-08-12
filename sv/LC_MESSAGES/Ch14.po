@@ -3009,8 +3009,8 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
-"The difference in ``mood.gain`` for people treated with ``CBT`` and people given "
-"``no.therapy``."
+"The difference in ``mood.gain`` for people treated with ``CBT`` and people "
+"given ``no.therapy``."
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
