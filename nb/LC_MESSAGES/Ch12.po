@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:13+0100\n"
+"POT-Creation-Date: 2024-08-03 23:58+0200\n"
 "PO-Revision-Date: 2024-08-08 00:17+0200\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: \n"
@@ -4237,60 +4237,3 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <Ch12_Regression_12>`"
 msgstr ":doc:`Velger en regresjonsmodell <Ch12_Regression_12>`"
-
-#: ../../Ch12/Ch12_Regression_01.rst:55
-msgid "Histograms for three variables from the |parenthood| data set"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_01.rst:197
-msgid "jamovi screenshot with correlations in the |parenthood| data set"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_01.rst:348
-msgid ""
-"How should we address this? Actually, it’s really easy. If we’re looking for "
-"ordinal relationships all we have to do is treat the data as if it were "
-"ordinal scale |ordinal|! So, instead of measuring effort in terms of “hours "
-"worked”, lets rank all 10 of our students in order of hours worked. That is, "
-"student 1 did the least work out of anyone (2 hours) so they get the lowest "
-"rank (rank = 1). Student 4 was the next laziest, putting in only 6 hours of "
-"work over the whole semester, so they get the next lowest rank (rank = 2). "
-"Notice that I’m using “rank =1” to mean “low rank”. Sometimes in everyday "
-"language we talk about “rank = 1” to mean “top rank” rather than “bottom "
-"rank”. So be careful, you can rank “from smallest value to largest value” (i."
-"e., small equals rank 1) or you can rank “from largest value to smallest "
-"value” (i.e., large equals rank 1). In this case, I’m ranking from smallest "
-"to largest, but as it’s really easy to forget which way you set things up "
-"you have to put a bit of effort into remembering!"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_05.rst:95
-msgid ""
-"The equation that I gave above shows you what a multiple regression model "
-"looks like when you include two predictors. Not surprisingly, then, if you "
-"want more than two predictors all you have to do is add more *X* terms and "
-"more *b* coefficients. In other words, if you have *K* predictor variables "
-"in the model then the regression equation looks like this"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_07.rst:19
-msgid ""
-"Okay, suppose you’ve estimated your regression model. The first hypothesis "
-"test you might try is the null hypothesis that there is *no relationship* "
-"between the predictors and the outcome, and the alternative hypothesis that "
-"*the data are distributed in exactly the way that the regression model "
-"predicts.*"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_07.rst:58
-msgid ""
-"Now that we’ve got our mean square values we can calculate an *F*-statistic "
-"like this"
-msgstr ""
-
-#: ../../Ch12/Ch12_Regression_11.rst:75
-msgid ""
-"The way we calculate these is to divide the ordinary residual by an estimate "
-"of the (population) standard deviation of these residuals. For technical "
-"reasons, mumble mumble, the formula for this is"
-msgstr ""
