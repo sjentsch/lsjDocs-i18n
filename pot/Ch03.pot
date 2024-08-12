@@ -585,7 +585,7 @@ msgid ""
 "``quote``. It’s conventional in CSV files to include a quoting character for "
 "textual data. As you can see by looking at the |booksales|_ file, this is "
 "usually a double quote character, ``\"``. But sometimes there is no quoting "
-"character at all, or you might see a single quote mark ``’`` used instead."
+"character at all, or you might see a single quote mark ``'`` used instead."
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:265

@@ -1940,7 +1940,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_05.rst:168
 msgid ""
 "How do you do a paired samples *t*-test in jamovi? One possibility is to "
-"follow the process I outlined above. That is, create a ``difference`` "
+"follow the process I outlined above. That is, create a difference "
 "variable and then run a one sample *t*-test on that. Since we’ve already "
 "created a variable called ``improvement``, let’s do that and see what we get "
 "(see :numref:`fig-ttest_paired2`\\)."
@@ -2066,7 +2066,7 @@ msgid ""
 "out if group B has higher scores than group A. Let’s suppose that, for Dr "
 "Harpo’s class, you wanted to see if Anastasia’s students had higher grades "
 "than Bernadette’s. For this analysis, in the ``Hypothesis`` options, specify "
-"that ``Group 1 > Group2``. You should get the results shown in :numref:`fig-"
+"that ``Group 1 > Group 2``. You should get the results shown in :numref:`fig-"
 "ttest_onesided2`."
 msgstr ""
 
@@ -2106,8 +2106,8 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid ""
 "jamovi results showing a ``Paired Samples T-Test`` where the actual "
-"hypothesis is one-sided, i.e. that ``grade test2`` (``Measure 1``) is larger "
-"than ``grade test1`` (``Measure 2``)."
+"hypothesis is one-sided, i.e. that ``grade_test2`` (``Measure 1``) is larger "
+"than ``grade_test1`` (``Measure 2``)."
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:99
