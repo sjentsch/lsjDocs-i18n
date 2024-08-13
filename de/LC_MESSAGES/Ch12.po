@@ -1,17 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2024-08-13 17:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/"
-">\n"
+"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/>"
+"\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -3137,7 +3138,7 @@ msgstr ""
 "Die Art und Weise, wie wir diese berechnen, besteht darin, das gewöhnlichen "
 "Residuum durch eine Schätzung der Standardabweichung dieser Residuen in der "
 "Grundgesamtheit zu dividieren. Aus technischen Gründen… unverständlich… "
-"lautet die Formel dafür"
+"lautet die Formel dafür:"
 
 #: ../../Ch12/Ch12_Regression_11.rst:79
 msgid ""
