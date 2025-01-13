@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: 2025-01-13 12:00+0000\n"
+"PO-Revision-Date: 2025-01-13 13:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch11/ta/>\n"
 "Language: ta\n"
@@ -3609,10 +3609,20 @@ msgid ""
 "the *t*-test (i.e., higher Type II error rate). I won’t discuss the Wilcoxon "
 "tests in as much detail as the *t*-tests, but I’ll give you a brief overview."
 msgstr ""
+"*T *-test ஐப் போலவே, வில்காக்சன் சோதனை இரண்டு வடிவங்களில், ஒரு மாதிரி மற்றும் இரண்டு "
+"மாதிரி, மேலும் அவை *t *-tests போன்ற அதே சூழ்நிலைகளில் அதிகமாகவோ அல்லது குறைவாகவோ "
+"பயன்படுத்தப்படுகின்றன. *T *-test போலல்லாமல், வில்காக்சன் சோதனை இயல்புநிலையை எடுத்துக் "
+"கொள்ளாது, இது நன்றாக இருக்கிறது. உண்மையில், அவர்கள் எந்த வகையான வழங்கல் "
+"சம்பந்தப்பட்டிருக்கிறார்கள் என்பது குறித்து அவர்கள் எந்த அனுமானங்களையும் செய்ய மாட்டார்கள். "
+"புள்ளிவிவர வாசகங்களில், இது அவற்றை ** ஒப்பற்ற சோதனைகள் ** ஆக்குகிறது. இயல்பான "
+"அனுமானத்தைத் தவிர்ப்பது நன்றாக இருக்கும்போது, ஒரு குறைபாடு உள்ளது: வில்காக்சன் சோதனை "
+"பொதுவாக *t *-test ஐ விட குறைவான ஆற்றல் வாய்ந்தது (அதாவது, அதிக வகை II பிழை "
+"விகிதம்). வில்காக்சன் சோதனைகளை நான் *t *-tests போன்ற விவரங்களில் விவாதிக்க மாட்டேன், "
+"ஆனால் நான் உங்களுக்கு ஒரு சுருக்கமான கண்ணோட்டத்தை தருகிறேன்."
 
 #: ../../Ch11/Ch11_tTest_09.rst:26
 msgid "Two sample Mann-Whitney U test"
-msgstr ""
+msgstr "இரண்டு மாதிரி மான்-விட்னி யு சோதனை"
 
 #: ../../Ch11/Ch11_tTest_09.rst:28
 msgid ""
@@ -3625,6 +3635,13 @@ msgid ""
 "apart from the usual ``ID`` variable: ``scores`` |continuous| and ``group`` |"
 "nominal|."
 msgstr ""
+"** மான்-விட்னி யு டெச்ட் ** ஐ விவரிப்பதன் மூலம் தொடங்குவேன், ஏனெனில் இது ஒரு மாதிரி "
+"பதிப்பை விட எளிமையானது. சில சோதனைகளில் 10 பேரின் மதிப்பெண்களைப் பார்க்கிறோம் என்று "
+"வைத்துக்கொள்வோம். எனது கற்பனை இப்போது என்னை முற்றிலுமாக தோல்வியுற்றதால், இது ஒரு "
+"“அற்புதத்தின் சோதனை” என்று பாசாங்கு செய்வோம், மேலும் “ஏ” மற்றும் “பி” என்ற இரண்டு குழுக்கள்"
+" உள்ளன. எந்த குழு மிகவும் அருமை என்பதை அறிய ஆர்வமாக உள்ளேன். தரவு | அற்புதமான | _ "
+"தரவு தொகுப்பில் சேர்க்கப்பட்டுள்ளன, மேலும் வழக்கமான `` ஐடி`` மாறி: `` மதிப்பெண்கள்`` | "
+"தொடர்ச்சியான | மற்றும் `` குழு`` | பெயரளவு |."
 
 #: ../../Ch11/Ch11_tTest_09.rst:37
 msgid ""
@@ -3634,42 +3651,47 @@ msgid ""
 "against every observation in group B. Whenever the group A datum is larger, "
 "we place a check mark in the table:"
 msgstr ""
+"உறவுகள் இல்லாத வரை (அதாவது, அதே அற்புதமான மதிப்பெண் உள்ளவர்கள்) பின்னர் நாம் செய்ய "
+"விரும்பும் சோதனை வியக்கத்தக்க வகையில் எளிமையானது. குழு A இல் உள்ள ஒவ்வொரு "
+"அவதானிப்பிற்கும் எதிராக குழு A இல் உள்ள ஒவ்வொரு அவதானிப்பையும் ஒப்பிடுகையில், குழு A "
+"தரவு பெரிதாக இருக்கும்போதெல்லாம், அட்டவணையில் ஒரு காசோலை அடையாளத்தை வைக்கிறோம்: நாங்கள் "
+"செய்ய வேண்டியது."
 
 #: ../../Ch11/Ch11_tTest_09.rst:44
 msgid "**Group B**"
-msgstr ""
+msgstr "** குழு பி **"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "14.5"
-msgstr ""
+msgstr "14.5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "10.4"
-msgstr ""
+msgstr "10.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "12.4"
-msgstr ""
+msgstr "12.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "11.7"
-msgstr ""
+msgstr "11.7"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "13.0"
-msgstr ""
+msgstr "13.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "**Group A**"
-msgstr ""
+msgstr "** குழு A **"
 
 #: ../../Ch11/Ch11_tTest_09.rst:48
 msgid "6.4"
-msgstr ""
+msgstr "6.4"
 
 #: ../../Ch11/Ch11_tTest_09.rst:50
 msgid "10.7"
-msgstr ""
+msgstr "10.7"
 
 #: ../../Ch11/Ch11_tTest_09.rst:50 ../../Ch11/Ch11_tTest_09.rst:52
 #: ../../Ch11/Ch11_tTest_09.rst:94 ../../Ch11/Ch11_tTest_09.rst:96
@@ -3678,15 +3700,15 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "11.9"
-msgstr ""
+msgstr "11.9"
 
 #: ../../Ch11/Ch11_tTest_09.rst:54
 msgid "7.3"
-msgstr ""
+msgstr "7.3"
 
 #: ../../Ch11/Ch11_tTest_09.rst:56
 msgid "10.0"
-msgstr ""
+msgstr "10.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:59
 msgid ""
@@ -3698,6 +3720,13 @@ msgid ""
 "hypothesis when *W* is very large or very small, but if we have a "
 "directional (i.e., one-sided) hypothesis then we only use one or the other."
 msgstr ""
+"சரிபார்ப்பு அடையாளங்களின் எண்ணிக்கையை நாங்கள் எண்ணுகிறோம். இது எங்கள் சோதனை புள்ளிவிவரம், *"
+"w *. \\ [#] _ *W *க்கான உண்மையான மாதிரி வழங்கல் ஓரளவு சிக்கலானது, மேலும் விவரங்களைத் "
+"தவிர்ப்பேன். எங்கள் நோக்கங்களுக்காக, *w *இன் விளக்கம் *t *அல்லது *z *இன் விளக்கத்திற்கு "
+"தரமானது என்பதை கவனிக்க போதுமானது. அதாவது, நாம் இரு பக்க சோதனையை விரும்பினால், * W *"
+" மிகப் பெரியதாகவோ அல்லது மிகச் சிறியதாகவோ இருக்கும்போது சுழிய கருதுகோளை "
+"நிராகரிக்கிறோம், ஆனால் நமக்கு ஒரு திசை (அதாவது, ஒருதலைப்பட்ச) கருதுகோள் இருந்தால், நாம்"
+" ஒன்று அல்லது மற்றொன்றை மட்டுமே பயன்படுத்துகிறோம் ."
 
 #: ../../Ch11/Ch11_tTest_09.rst:67
 msgid ""
@@ -3707,10 +3736,15 @@ msgid ""
 "option for ``Mann-Whitney U``, we will get results showing that U = 3 (i.e., "
 "the same number of check marks as shown above), and a *p*-value = 0.05556."
 msgstr ""
+"சாமோவியில், `` மதிப்பெண்கள்`` | தொடர்ச்சியான | உடன் `` சுயாதீன மாதிரிகள் டி-டெச்ட்`` ஐ "
+"இயக்கினால் சார்பு மாறியாக. மற்றும் `` குழு`` குழு மாறியாக | பெயரளவு |, பின்னர் `` "
+"சோதனைகள்` க்கான விருப்பங்களின் கீழ் `` மான்-விட்னி u`` க்கான விருப்பத்தை சரிபார்க்கவும், உ "
+"= 3 (அதாவது, மேலே காட்டப்பட்டுள்ள அதே எண்ணிக்கையிலான காசோலை மதிப்பெண்கள்), மற்றும் A *P "
+"*-மதிப்பு = 0.05556."
 
 #: ../../Ch11/Ch11_tTest_09.rst:74
 msgid "One sample Wilcoxon test"
-msgstr ""
+msgstr "ஒரு மாதிரி வில்காக்சன் சோதனை"
 
 #: ../../Ch11/Ch11_tTest_09.rst:76
 msgid ""
@@ -3728,6 +3762,18 @@ msgid ""
 "all the complete sample. What you end up with is a table that looks like "
 "this:"
 msgstr ""
+"** ஒரு மாதிரி வில்காக்சன் சோதனை ** (அல்லது அதற்கு சமமாக, இணை மாதிரிகள் வில்காக்சன் "
+"சோதனை) பற்றி என்ன? புள்ளிவிவர வகுப்பை எடுத்துக்கொள்வது மாணவர்களின் மகிழ்ச்சியில் ஏதேனும் "
+"தாக்கத்தை ஏற்படுத்துமா என்பதைக் கண்டுபிடிப்பதில் நான் ஆர்வமாக உள்ளேன் என்று வைத்துக்கொள்வோம். |"
+" மகிழ்ச்சி | _ தரவுத் தொகுப்பில் ஒவ்வொரு மாணவரின் மகிழ்ச்சியும் உள்ளது `` முன்` `வகுப்பு "
+"எடுப்பதற்கு முன் | ஆர்டினல் | மற்றும் `` `` `வகுப்பு எடுத்த பிறகு | ஆர்டினல் | `` "
+"மாற்றம்`` மதிப்பெண் இருவருக்கும் உள்ள வேறுபாடு. *T *-test உடன் நாம் பார்த்தது போலவே, `` "
+"`` `மற்றும்` `க்குப் பிறகு` `மாற்றம்`` ஐப் பயன்படுத்தி ஒரு சோடி-மாதிரிகள் சோதனையைச் "
+"செய்வதற்கு எந்த அடிப்படை வேறுபாடும் இல்லை மதிப்பெண்கள். முன்பு போலவே, சோதனையைப் பற்றி "
+"சிந்திக்க எளிய வழி ஒரு அட்டவணையை உருவாக்குவதாகும். இந்த நேரத்தில் இதைச் செய்வதற்கான வழி"
+", நேர்மறையான வேறுபாடுகளான அந்த மாற்ற மதிப்பெண்களை எடுத்துக்கொள்வதும், அவற்றை அனைத்து "
+"முழுமையான மாதிரிக்கு எதிராக அட்டவணைப்படுத்துவதும் ஆகும். நீங்கள் முடிவடைவது இதைப் போல "
+"தோற்றமளிக்கும் அட்டவணை:"
 
 #: ../../Ch11/Ch11_tTest_09.rst:145
 msgid "ordinal"
@@ -3735,19 +3781,19 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:90
 msgid "all differences"
-msgstr ""
+msgstr "அனைத்து வேறுபாடுகள்"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-24"
-msgstr ""
+msgstr "-24"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-14"
-msgstr ""
+msgstr "-14"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-10"
-msgstr ""
+msgstr "-10"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "7"
@@ -3755,11 +3801,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-6"
-msgstr ""
+msgstr "-6"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-38"
-msgstr ""
+msgstr "-38"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "2"
@@ -3767,11 +3813,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-35"
-msgstr ""
+msgstr "-35"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-30"
-msgstr ""
+msgstr "-30"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "5"
@@ -3779,15 +3825,15 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:95
 msgid "positive differences"
-msgstr ""
+msgstr "நேர்மறையான வேறுபாடுகள்"
 
 #: ../../Ch11/Ch11_tTest_09.rst:94
 msgid "7 2 5"
-msgstr ""
+msgstr "7 2 5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:94
 msgid "✓ ✓ ✓"
-msgstr ""
+msgstr "✓ ✓ ✓"
 
 #: ../../Ch11/Ch11_tTest_09.rst:99
 msgid ""
@@ -3802,16 +3848,29 @@ msgid ""
 "of the test won’t give us a different answer, of course; see :numref:`fig-"
 "ttest_nonparametric`."
 msgstr ""
+"இந்த நேரத்தில் டிக் குறிகளை எண்ணுவதன் மூலம் * w * = 7 இன் சோதனை புள்ளிவிவரத்தைப் "
+"பெறுகிறோம். முன்பு போலவே, எங்கள் சோதனை இரு பக்கமாக இருந்தால், * W * மிகப் பெரியதாகவோ "
+"அல்லது மிகச் சிறியதாகவோ இருக்கும்போது சுழிய கருதுகோளை நிராகரிக்கிறோம். சமோவியில் அதை"
+" இயக்கும் வரையில், நீங்கள் எதிர்பார்ப்பது இதுதான். ஒரு மாதிரி பதிப்பிற்கு, `` ஒரு மாதிரி "
+"*t *-test`` விருப்பங்கள் குழுவில் `` சோதனைகள்` இன் கீழ் `` வில்காக்சன் தரவரிசை` "
+"விருப்பத்தை நீங்கள் குறிப்பிடுகிறீர்கள். இது உங்களுக்கு வில்காக்சனுக்கு *w *= 7, * "
+"பி*-மதிப்பு = 0.03711. இது காண்பித்தபடி, நாங்கள் ஒரு குறிப்பிடத்தக்க விளைவைக் "
+"கொண்டுள்ளோம். வெளிப்படையாக, புள்ளிவிவர வகுப்பை எடுத்துக்கொள்வது உங்கள் மகிழ்ச்சியில் "
+"தாக்கத்தை ஏற்படுத்தும். சோதனையின் இணை மாதிரிகள் பதிப்பிற்கு மாறுவது எங்களுக்கு வேறு "
+"பதிலைக் கொடுக்காது; காண்க: NumRef: `Figh-ttest_nonnonparametric`."
 
 #: ../../Ch11/Ch11_tTest_09.rst:116
 msgid "Results for one sample and paired sample Wilcoxon non-parametric tests"
 msgstr ""
+"ஒரு மாதிரி மற்றும் இணை மாதிரிக்கான முடிவுகள் வில்காக்சன் அளவுரு அல்லாத சோதனைகள்"
 
 #: ../../Ch11/Ch11_tTest_09.rst:116
 msgid ""
 "jamovi screen showing results for one sample and paired sample Wilcoxon non-"
 "parametric tests"
 msgstr ""
+"ஒரு மாதிரி மற்றும் இணை மாதிரிக்கான முடிவுகளைக் காட்டும் சாமோவி திரை வில்காக்சன் அல்லாத "
+"அளவுரு அல்லாத சோதனைகள்"
 
 #: ../../Ch11/Ch11_tTest_09.rst:124
 msgid ""
@@ -3819,6 +3878,8 @@ msgid ""
 "from each other by a constant value. The version that I’ve described is the "
 "one that jamovi calculates."
 msgstr ""
+"உண்மையில், சோதனை புள்ளிவிவரத்தின் இரண்டு வெவ்வேறு பதிப்புகள் உள்ளன, அவை ஒருவருக்கொருவர் "
+"நிலையான மதிப்பால் வேறுபடுகின்றன. நான் விவரித்த பதிப்பு சமோவி கணக்கிடுகிறது."
 
 #: ../../Ch11/Ch11_tTest_10.rst:4
 msgid "Summary"
@@ -3829,6 +3890,9 @@ msgid ""
 "A :doc:`one sample *t*-test <Ch11_tTest_02>` is used to compare a single "
 "sample mean against a hypothesised value for the population mean."
 msgstr ""
+"ப: டிஓசி: `ஒரு மாதிரி *டி *-டெச்ட் <CH11_TTTEST_02>` மக்கள்தொகை சராசரியான ஒரு "
+"கருதுகோள் மதிப்புக்கு எதிராக ஒற்றை மாதிரி சராசரியை ஒப்பிட்டுப் பார்க்க "
+"பயன்படுத்தப்படுகிறது."
 
 #: ../../Ch11/Ch11_tTest_10.rst:9
 msgid ""
@@ -3838,6 +3902,11 @@ msgid ""
 "assumes that the groups have the same standard deviation, the :doc:`Welch "
 "test <Ch11_tTest_04>` does not."
 msgstr ""
+"AN: DOC: `சுயாதீன மாதிரிகள் *t *-test <ch11_ttest_03>` இரண்டு குழுக்களின் "
+"வழிமுறைகளை ஒப்பிட்டுப் பயன்படுத்தப் பயன்படுகிறது, மேலும் அவை ஒரே சராசரி என்ற சுழிய "
+"கருதுகோளைச் சோதிக்கின்றன. இது இரண்டு வடிவங்களில் வருகிறது: தி: டாக்: `மாணவர் சோதனை "
+"<CH11_TTTEST_03>` குழுக்களுக்கு ஒரே நிலையான விலகல் இருப்பதாகக் கருதுகிறது, தி: "
+"டாக்: `வெல்ச் டெச்ட் <CH11_TTEST_04>` இல்லை."
 
 #: ../../Ch11/Ch11_tTest_10.rst:15
 msgid ""
@@ -3847,27 +3916,40 @@ msgid ""
 "between the two scores for each person, and then running a one sample *t*-"
 "test on the difference scores."
 msgstr ""
+"ப: டாக்: `சோடி மாதிரிகள் *டி *-டெச்ட் <CH11_TTEST_05>` ஒவ்வொரு நபரிடமிருந்தும் இரண்டு"
+" மதிப்பெண்கள் இருக்கும்போது பயன்படுத்தப்படுகிறது, மேலும் இரண்டு மதிப்பெண்களும் ஒரே சராசரி "
+"என்ற சுழிய கருதுகோளை நீங்கள் சோதிக்க விரும்புகிறீர்கள். இது ஒவ்வொரு நபருக்கும் இரண்டு "
+"மதிப்பெண்களுக்கு இடையிலான வித்தியாசத்தை எடுத்துக்கொள்வதற்கு சமம், பின்னர் ஒரு மாதிரி *t "
+"*-test ஐ வேறுபாடு மதிப்பெண்களில் இயக்குகிறது."
 
 #: ../../Ch11/Ch11_tTest_10.rst:21
 msgid ""
 ":doc:`Ch11_tTest_06` are perfectly legitimate as long as they are pre-"
 "planned."
 msgstr ""
+":doc:`Ch11_tTest_06` அரே perfectly legitimate அச் long அச் they அரே pre-"
+"planned."
 
 #: ../../Ch11/Ch11_tTest_10.rst:24
 msgid ""
 ":doc:`Ch11_tTest_07` calculations for the difference between means can be "
 "calculated via the Cohen’s *d*-statistic."
 msgstr ""
+":doc:`Ch11_tTest_07` calculations க்கு the வேறுபாடு between means can be "
+"calculated வழிமம் the Cohen’s *d*-statistic."
 
 #: ../../Ch11/Ch11_tTest_10.rst:27
 msgid ""
 "You can :doc:`check the normality of a sample <Ch11_tTest_08>` using QQ "
 "plots and the Shapiro-Wilk test."
 msgstr ""
+"உங்களால் முடியும்: டாக்: `ஒரு மாதிரியின் இயல்பான தன்மையை சரிபார்க்கவும் "
+"<Ch11_ttest_08> Q QQ அடுக்கு மற்றும் சாபிரோ-வில்க் சோதனையைப் பயன்படுத்துதல்."
 
 #: ../../Ch11/Ch11_tTest_10.rst:30
 msgid ""
 "If your data are non-normal, you can use :doc:`Mann-Whitney or Wilcoxon "
 "tests <Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
+"உங்கள் தரவு இயல்பற்றதாக இருந்தால், நீங்கள் பயன்படுத்தலாம்: DOC: `மான்-விட்னி அல்லது வில்காக்சன்"
+" சோதனைகள் <ch11_ttest_09>` *t *-tests க்கு பதிலாக."
