@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -194,7 +158,7 @@ msgstr ""
 "hvordan du gjør dette, og noen deskriptivstatistikk vi kan beregne i jamovi, "
 "vises i :numref:`fig-anova1`."
 
-#: ../../Ch13/Ch13_ANOVA_01.rst:37
+#: ../../Ch13/Ch13_ANOVA_01.rst:33 ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
 "Deskriptivstatistikk for ``mood.gain``, og boksplotter gruppert etter "
@@ -729,7 +693,7 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 msgid "Yay."
 msgstr "Jippi."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:189
 msgid "illustration of between and within groups variation"
 msgstr "illustrasjon av variasjon mellom og innad i grupper"
 
@@ -1874,7 +1838,7 @@ msgstr ""
 "Size``, og dette vises også i resultattabellen. Vi kommer tilbake til "
 "effektstørrelser litt senere."
 
-#: ../../Ch13/Ch13_ANOVA_03.rst:31
+#: ../../Ch13/Ch13_ANOVA_03.rst:27
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr "``ANOVA`` resultattabell for ``mood.gain`` etter ``drug`` administrert"
 
@@ -2174,7 +2138,7 @@ msgstr ""
 "testsammenligningene mellom de tre nivåene av variabelen ``drug``, som i :"
 "numref:`fig-anova3`."
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:89
+#: ../../Ch13/Ch13_ANOVA_05.rst:85 ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
 msgstr "Ukorrigerte parvise *t*-tester som post-hoc-sammenligninger i jamovi"
 
@@ -2827,7 +2791,7 @@ msgstr ""
 "standardavviket rundt gjennomsnittene for hver gruppe / kategori i analysen… "
 "bare for å se om de ser ganske like ut (dvs. varianshomogenitet) eller ikke."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:152
+#: ../../Ch13/Ch13_ANOVA_06.rst:148 ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
 msgstr "Utgave fra ``Levene test`` for ``One-Way ANOVA`` i jamovi"
 
@@ -2869,7 +2833,7 @@ msgstr ""
 "→ ``One Way ANOVA``-analysen, og merker av for alternativet ``Don't assume "
 "equal (Welch's)`` (se :numref:`fig-anova4a`)."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:180
+#: ../../Ch13/Ch13_ANOVA_06.rst:176 ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
 msgstr "Welchs test som en del av enveis ANOVA i jamovi"
 
@@ -2944,7 +2908,7 @@ msgstr ""
 "støtter derfor QQ-plottvurderingen; begge kontrollene finner ingen "
 "indikasjon på at forutsetning om normalfordelingen er brutt."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:226
+#: ../../Ch13/Ch13_ANOVA_06.rst:222 ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
 msgstr "QQ-plott produsert fra jamovi One-Way ANOVA-alternativer"
 
@@ -3283,7 +3247,7 @@ msgstr ""
 "analysen i jamovi. Dette gir oss en Kruskal-Wallis χ² = 12,076, *df* = 2, "
 "*p*-verdi = 0,00239, som i :numref:`fig-anova6`."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:373
+#: ../../Ch13/Ch13_ANOVA_06.rst:369
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
 msgstr "ikke-parametrisk ``One-Way ANOVA (Kruskal-Wallis)`` i jamovi"
 
@@ -3518,7 +3482,7 @@ msgstr ""
 "Til slutt krysser du av for ``Sphericity checks`` under alternativet "
 "``Assumption Checks``."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:120
+#: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr "Dialogboks for ANOVA med gjentatte målinger i jamovi"
 
@@ -3546,7 +3510,7 @@ msgstr ""
 "forskjellene ikke er signifikant forskjellige (dvs. at de er omtrent like "
 "store og sfæricitet kan antas)."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:142
+#: ../../Ch13/Ch13_ANOVA_07.rst:138 ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr "Enveis ANOVA med gjentatte målinger: Mauchlys test av sfæricitet"
 
@@ -3591,7 +3555,7 @@ msgstr ""
 "``Sphericity Corrections`` under ``Assumption Checks``, og de korrigerte *F*-"
 "verdiene vises deretter i resultattabellen, som i :numref:`fig-RManova3`."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:170
+#: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 "Utgave fra ANOVA med gjentatte målinger: Tester av innenfor-deltakere-"
@@ -3625,7 +3589,7 @@ msgstr ""
 "språkoppgave, varierte signifikant avhengig av om oppgaven var tale-, "
 "forståelses- eller syntaksbasert (*F*\\(2,10) = 6,93, *p* = 0,013)."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:191
+#: ../../Ch13/Ch13_ANOVA_07.rst:187 ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr "Post-hoc-tester i ANOVA med gjentatte målinger i jamovi"
 
@@ -3661,7 +3625,7 @@ msgstr ""
 "(gjennomsnitt = 4,33), med en signifikant forskjell i post-hoc-tester mellom "
 "``Speech`` og ``Syntax``."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:216
+#: ../../Ch13/Ch13_ANOVA_07.rst:212 ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr "Enveis ANOVA med gjentatte målinger: Deskriptivstatistikk"
 
@@ -3695,7 +3659,7 @@ msgstr ""
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch13/Ch13_ANOVA_08.rst:19
+#: ../../Ch13/Ch13_ANOVA_08.rst:15 ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
 msgstr "Dialogboksen ``Repeated Measures ANOVA (Non-parametric)`` i jamovi"
 

@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 18:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch13/ta/>\n"
@@ -189,7 +153,7 @@ msgstr ""
 "சாமோவியில் நாம் கணக்கிடக்கூடிய சில புள்ளிவிவரங்கள் இதில் காட்டப்பட்டுள்ளன: NumRef:` Fig-"
 "anova1`."
 
-#: ../../Ch13/Ch13_ANOVA_01.rst:37
+#: ../../Ch13/Ch13_ANOVA_01.rst:33 ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr "`` மனநிலை.கெய்ன்`` க்கான விளக்கங்கள், மற்றும் `` மருந்து`` மூலம் பெட்டி அடுக்குகள்"
 
@@ -716,7 +680,7 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 msgid "Yay."
 msgstr "ஆம்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:189
 msgid "illustration of between and within groups variation"
 msgstr "குழுக்களுக்கு இடையில் மற்றும் உள்ளே மாறுபாடு மாறுபாடு"
 
@@ -1833,7 +1797,7 @@ msgstr ""
 "”ச்கொயர்,` `விளைவு அளவு`` விருப்பத்தின் கீழ் மற்றும் இதுவும் உள்ளது முடிவுகள் அட்டவணையில் "
 "காட்டப்பட்டுள்ளது. சிறிது நேரம் கழித்து அளவுகளுக்கு மீண்டும் வருவோம்."
 
-#: ../../Ch13/Ch13_ANOVA_03.rst:31
+#: ../../Ch13/Ch13_ANOVA_03.rst:27
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr "`` மனநிலை"
 
@@ -2131,7 +2095,7 @@ msgstr ""
 "ஒப்பீடுகளையும் காட்டும் ஒரு தூய்மையான அட்டவணையை உருவாக்கும், இதுபோன்று: எண்ரெஃப்:` அத்தி-"
 "அனோவா 3`."
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:89
+#: ../../Ch13/Ch13_ANOVA_05.rst:85 ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
 msgstr "சமோவியில் பிந்தைய தற்காலிக ஒப்பீடுகளாக சரி செய்யப்படாத இணை *டி *-டெச்ட்கள்"
 
@@ -2776,7 +2740,7 @@ msgstr ""
 "விலகலைத் திட்டமிட வேண்டும்… அவை மிகவும் ஒத்ததாக இருக்கிறதா என்று பார்க்க (அதாவது "
 "மாறுபாட்டின் ஒருமைப்பாடு) அல்லது இல்லை."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:152
+#: ../../Ch13/Ch13_ANOVA_06.rst:148 ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
 msgstr "`` லெவென் டெச்ட்`` சாமோவியில் `` ஒரு வழி அனோவா` க்கான வெளியீடு"
 
@@ -2819,7 +2783,7 @@ msgstr ""
 "மற்றும் `` சமமான (வெல்ச்சின்) `` என்ற விருப்பத்தை சரிபார்க்கவும் `` (காண்க: NumRef: `Fig-"
 "anova4a`)."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:180
+#: ../../Ch13/Ch13_ANOVA_06.rst:176 ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
 msgstr "சாமோவியில் ஒரு வழி ANOVA பகுப்பாய்வின் ஒரு பகுதியாக வெல்ச்சின் சோதனை"
 
@@ -2893,7 +2857,7 @@ msgstr ""
 "ஆதரிக்கிறது; இரண்டு காசோலைகளும் இயல்புநிலை மீறப்படுகின்றன என்பதற்கான எந்தக் குறிப்பையும் "
 "காணவில்லை."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:226
+#: ../../Ch13/Ch13_ANOVA_06.rst:222 ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
 msgstr "QQ-plot சாமோவிக்கு ஒரு வழி ANOVA விருப்பங்களிலிருந்து தயாரிக்கப்படுகிறது"
 
@@ -3227,7 +3191,7 @@ msgstr ""
 "சமோவியில் பகுப்பாய்வை இயக்கலாம். இது நமக்குத் தருவது ஒரு க்ருச்கல்-வாலிச் χ² = 12.076, "
 "*df *= 2, *p *-value = 0.00239, இதைப் போல: numref: `fig-anova6`."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:373
+#: ../../Ch13/Ch13_ANOVA_06.rst:369
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
 msgstr "அளவுரு அல்லாத `` ஒரு வழி அனோவா (க்ருச்கல்-வாலிச்) `` சாமோவியில்"
 
@@ -3458,7 +3422,7 @@ msgstr ""
 "இறுதியாக, `` அனுமான காசோலைகள்` விருப்பத்தின் கீழ், `` கோள காசோலைகள்` சரிபார்ப்புப் "
 "பெட்டியைத் தேர்வுசெய்க."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:120
+#: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr "சமோவியில் ANOVA உரையாடல் பெட்டியை மீண்டும் மீண்டும் நடவடிக்கைகள்"
 
@@ -3486,7 +3450,7 @@ msgstr ""
 "மாறுபாடுகள் கணிசமாக வேறுபட்டவை அல்ல என்று முடிவு செய்வது நியாயமானதே (அதாவது அவை "
 "தோராயமாக சமமானவை மற்றும் கோளத்தை கருதலாம் .)."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:142
+#: ../../Ch13/Ch13_ANOVA_07.rst:138 ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
 "ஒரு வழி மீண்டும் மீண்டும் நடவடிக்கைகள் ANOVA வெளியீடு: ம uch ச்லியின் கோளத்தின் சோதனை"
@@ -3531,7 +3495,7 @@ msgstr ""
 "திருத்தங்கள்` `செக் பாக்சில் குறிப்பிடப்படலாம், மேலும் சரிசெய்யப்பட்ட *எஃப் *-மதிப்புகள் "
 "பின்னர் முடிவுகள் அட்டவணையில் காட்டப்பட்டுள்ளன: NumRef: `Fig-rmanova3`."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:170
+#: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr "மீண்டும் மீண்டும் நடவடிக்கைகள் ANOVA வெளியீடு: பாடங்களுக்குள் விளைவுகளின் சோதனைகள்"
 
@@ -3562,7 +3526,7 @@ msgstr ""
 "(*f*\\ (2,10) = 6.93,*ப*= 0.013) என்பதைப் பொறுத்து கணிசமாக மாறுபட்டது என்று நாம் "
 "முடிவு செய்யலாம்."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:191
+#: ../../Ch13/Ch13_ANOVA_07.rst:187 ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr "சமோவியில் மீண்டும் மீண்டும் நடவடிக்கைகளில் பிந்தைய தற்காலிக சோதனைகள்"
 
@@ -3598,7 +3562,7 @@ msgstr ""
 "தொடரியல்`` பணி செயல்திறனுக்கும் இடையில் பிந்தைய தற்காலிக சோதனைகளில் குறிப்பிடத்தக்க "
 "வேறுபாடு உள்ளது."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:216
+#: ../../Ch13/Ch13_ANOVA_07.rst:212 ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr "ஒரு வழி மீண்டும் மீண்டும் நடவடிக்கைகள் ANOVA வெளியீடு: விளக்க புள்ளிவிவரங்கள்"
 
@@ -3631,7 +3595,7 @@ msgstr ""
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch13/Ch13_ANOVA_08.rst:19
+#: ../../Ch13/Ch13_ANOVA_08.rst:15 ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
 msgstr ""
 "`` மீண்டும் மீண்டும் நடவடிக்கைகள் ANOVA (அளவுரு அல்லாத) `` சமோவியில் உரையாடல் பெட்டி"

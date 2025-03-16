@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/"
@@ -207,7 +162,7 @@ msgstr ""
 "Statistiken, die wir in jamovi berechnen können, sind in :numref:`fig-"
 "anova1` dargestellt."
 
-#: ../../Ch13/Ch13_ANOVA_01.rst:37
+#: ../../Ch13/Ch13_ANOVA_01.rst:33 ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
 "Deskriptivstatistik für ``mood.gain`` und Boxplots für das verabreichte "
@@ -761,7 +716,7 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 msgid "Yay."
 msgstr "Juhu (*Yay*)."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:189
 msgid "illustration of between and within groups variation"
 msgstr "Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
 
@@ -1937,7 +1892,7 @@ msgstr ""
 "Quadrat“, aktiviert habe, was auch in der Ergebnistabelle angezeigt wird. "
 "Wir werden etwas später auf Effektstärken zurückkommen."
 
-#: ../../Ch13/Ch13_ANOVA_03.rst:31
+#: ../../Ch13/Ch13_ANOVA_03.rst:27
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
 "``ANOVA``-Ergebnistabelle für ``mood gain`` ensprechend dem verabreichten "
@@ -2248,7 +2203,7 @@ msgstr ""
 "zwischen den drei Stufen der Variable ``drug`` zeigt, wie in :numref:`fig-"
 "anova3`."
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:89
+#: ../../Ch13/Ch13_ANOVA_05.rst:85 ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
 msgstr ""
 "Nicht-korrigierte paarweise *t*-Tests als Post-hoc-Vergleiche in jamovi"
@@ -2925,7 +2880,7 @@ msgstr ""
 "Kategorie in der Analyse darstellen sollten… um zu sehen, ob sie ziemlich "
 "ähnlich aussehen (d. h. Varianzhomogenität) oder nicht."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:152
+#: ../../Ch13/Ch13_ANOVA_06.rst:148 ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
 msgstr "``Levene test``-Ausgabe für die ``One-Way ANOVA`` in jamovi"
 
@@ -2970,7 +2925,7 @@ msgstr ""
 "wir bei der (gewöhnlichen) ANOVA zuvor zuweisen und dann die Option ``Don't "
 "assume equal (Welch’s)`` setzen (wie in :numref:`fig-anova4a` gezeigt)."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:180
+#: ../../Ch13/Ch13_ANOVA_06.rst:176 ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
 msgstr "ANOVA nach Welch als Teil der einfaktoriellen ANOVA in jamovi"
 
@@ -3049,7 +3004,7 @@ msgstr ""
 "ergeben keinen Hinweis auf eine Verletzung der Annahme einer "
 "Normalverteilung."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:226
+#: ../../Ch13/Ch13_ANOVA_06.rst:222 ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
 msgstr ""
 "Q-Q-Diagramm erstellt mit Option ``QQ-plot`` innerhalb der ``One-Way ANOVA`` "
@@ -3404,7 +3359,7 @@ msgstr ""
 "durchführen. Sie ergibt ein Kruskal-Wallis χ² = 12,076, *df* = 2, *p* = "
 "0,00239, wie in :numref:`fig-anova6` gezeigt."
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:373
+#: ../../Ch13/Ch13_ANOVA_06.rst:369
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
 msgstr "Nicht-parametrische ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
 
@@ -3652,7 +3607,7 @@ msgstr ""
 "Aktivieren Sie schließlich unter den ``Assumption Checks``-Optionen die "
 "``Sphericity checks``-Checkbox."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:120
+#: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr "Options-Dialogfeld für die ANOVA mit Messwiederholung in jamovi"
 
@@ -3682,7 +3637,7 @@ msgstr ""
 "unterschiedlich sind (d. h. sie sind ungefähr gleich und es kann Sphärizität "
 "angenommen werden)."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:142
+#: ../../Ch13/Ch13_ANOVA_07.rst:138 ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
 "Ausgabe der einfaktoriellen ANOVA mit Messwiederholung: Mauchly’s Test auf "
@@ -3730,7 +3685,7 @@ msgstr ""
 "angegeben werden, und die korrigierten *F*-Werte werden dann in der "
 "Ergebnistabelle angezeigt, wie in :numref:`fig-RManova3`."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:170
+#: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 "Ausgabe der ANOVA mit Messwiederholung: Tests von Effekten innerhalb der "
@@ -3767,7 +3722,7 @@ msgstr ""
 "produktions-, verständnis- oder syntaxbasiert war (*F*\\(2,10) = 6,93, *p* = "
 "0,013)."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:191
+#: ../../Ch13/Ch13_ANOVA_07.rst:187 ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr "Post-hoc-Tests bei der ANOVA mit Messwiederholung in jamovi"
 
@@ -3807,7 +3762,7 @@ msgstr ""
 "signifikanter Unterschied zwischen den Leistungen bei ``Speech`` und "
 "``Syntax`` besteht."
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:216
+#: ../../Ch13/Ch13_ANOVA_07.rst:212 ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr ""
 "Ausgabe der einfaktoriellen ANOVA mit Messwiederholung: Deskriptive Statistik"
@@ -3842,7 +3797,7 @@ msgstr ""
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch13/Ch13_ANOVA_08.rst:19
+#: ../../Ch13/Ch13_ANOVA_08.rst:15 ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
 msgstr ""
 "Dialogfeld mit den Analyseoptionen und die Ergebnisausgabe für die "
