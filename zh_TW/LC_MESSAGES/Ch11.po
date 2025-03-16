@@ -1,6 +1,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
@@ -142,7 +178,7 @@ msgid ""
 "are going to need some statistics."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_01.rst:60
+#: ../../Ch11/Ch11_tTest_01.rst:56 ../../Ch11/Ch11_tTest_01.rst:60
 msgid "Theoretical and empirical distribution of student grades"
 msgstr ""
 
@@ -204,7 +240,7 @@ msgid ""
 "we’ll keep things simple."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_01.rst:105
+#: ../../Ch11/Ch11_tTest_01.rst:101 ../../Ch11/Ch11_tTest_01.rst:105
 msgid ""
 "One-sample *z*-test: Illustration of the null and alternative hypotheses"
 msgstr ""
@@ -409,7 +445,7 @@ msgid ""
 "hand and then look up the critical value in a text book."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_01.rst:213
+#: ../../Ch11/Ch11_tTest_01.rst:209 ../../Ch11/Ch11_tTest_01.rst:213
 msgid "Rejection regions for the two- and one-sided *z*-tests"
 msgstr ""
 
@@ -568,7 +604,7 @@ msgid ""
 "it’s one we’re going to have to address."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_02.rst:40
+#: ../../Ch11/Ch11_tTest_02.rst:36 ../../Ch11/Ch11_tTest_02.rst:40
 msgid ""
 "Illustration: Null and alternative hypotheses by the one-sample *t*-test"
 msgstr ""
@@ -631,7 +667,7 @@ msgid ""
 "a *z*-test. And that’s exactly what happens!"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_02.rst:88
+#: ../../Ch11/Ch11_tTest_02.rst:84 ../../Ch11/Ch11_tTest_02.rst:88
 msgid "*t*-distribution with *df* = 2 and *df* = 10"
 msgstr ""
 
@@ -673,7 +709,7 @@ msgid ""
 "of freedom and an associated *p*-value of 0.036."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_02.rst:126
+#: ../../Ch11/Ch11_tTest_02.rst:122 ../../Ch11/Ch11_tTest_02.rst:126
 msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr ""
 
@@ -885,7 +921,7 @@ msgid ""
 "(:numref:`fig-ttestci`)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:59
+#: ../../Ch11/Ch11_tTest_03.rst:55 ../../Ch11/Ch11_tTest_03.rst:59
 msgid "Histogram with grades in Anastasia’s and Bernadette’s classes"
 msgstr ""
 
@@ -897,7 +933,7 @@ msgid ""
 "grades on average, though they also seem a bit more variable."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:70
+#: ../../Ch11/Ch11_tTest_03.rst:66 ../../Ch11/Ch11_tTest_03.rst:70
 msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes"
 msgstr ""
 
@@ -952,7 +988,7 @@ msgstr "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
 msgid "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 
-#: ../../Ch11/Ch11_tTest_03.rst:116
+#: ../../Ch11/Ch11_tTest_03.rst:112 ../../Ch11/Ch11_tTest_03.rst:116
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
 msgstr ""
 
@@ -1207,7 +1243,7 @@ msgid ""
 "Variable`` box, as shown in :numref:`fig-ttest_ind`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_03.rst:278
+#: ../../Ch11/Ch11_tTest_03.rst:274 ../../Ch11/Ch11_tTest_03.rst:278
 msgid "Conducting an Independent Samples *t*-test in jamovi"
 msgstr ""
 
@@ -1476,7 +1512,7 @@ msgid ""
 "Test`` options in jamovi, so this is probably the best place to discuss it."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_04.rst:28
+#: ../../Ch11/Ch11_tTest_04.rst:24 ../../Ch11/Ch11_tTest_04.rst:28
 msgid "Illustration: Null and alternative hypotheses for the Welch *t*-test"
 msgstr ""
 
@@ -1574,7 +1610,7 @@ msgid ""
 "above, then this is what it gives you :numref:`fig-ttest_welch`:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_04.rst:88
+#: ../../Ch11/Ch11_tTest_04.rst:84 ../../Ch11/Ch11_tTest_04.rst:88
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
 msgstr ""
 
@@ -1684,7 +1720,7 @@ msgid ""
 "an improvement from the first test to the second one."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:51
+#: ../../Ch11/Ch11_tTest_05.rst:47 ../../Ch11/Ch11_tTest_05.rst:51
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
@@ -1702,7 +1738,7 @@ msgid ""
 "that the apparent improvement in student performance is pure chance."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:73
+#: ../../Ch11/Ch11_tTest_05.rst:69 ../../Ch11/Ch11_tTest_05.rst:73
 msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr ""
 
@@ -1850,7 +1886,7 @@ msgid ""
 "numref:`fig-ttest_paired2`\\)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:180
+#: ../../Ch11/Ch11_tTest_05.rst:176 ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
@@ -1872,7 +1908,7 @@ msgid ""
 "shown in :numref:`fig-ttest_paired3`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_05.rst:202
+#: ../../Ch11/Ch11_tTest_05.rst:198 ../../Ch11/Ch11_tTest_05.rst:202
 msgid "Results showing a paired sample *t*-test"
 msgstr ""
 
@@ -1929,7 +1965,7 @@ msgid ""
 "ttest_onesided1`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_06.rst:28
+#: ../../Ch11/Ch11_tTest_06.rst:24 ../../Ch11/Ch11_tTest_06.rst:28
 msgid "jamovi results showing a ``One Sample T-Test``"
 msgstr ""
 
@@ -1974,7 +2010,7 @@ msgid ""
 "ttest_onesided2`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_06.rst:67
+#: ../../Ch11/Ch11_tTest_06.rst:63 ../../Ch11/Ch11_tTest_06.rst:67
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
 msgstr ""
 
@@ -2003,7 +2039,7 @@ msgid ""
 "should get the results shown in :numref:`fig-ttest_onesided3`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_06.rst:93
+#: ../../Ch11/Ch11_tTest_06.rst:89 ../../Ch11/Ch11_tTest_06.rst:93
 msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
 msgstr ""
 
@@ -2294,7 +2330,7 @@ msgstr ""
 msgid "QQ plots"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:35
+#: ../../Ch11/Ch11_tTest_08.rst:31 ../../Ch11/Ch11_tTest_08.rst:35
 msgid "Histogram and QQ plot for normally-distributed data"
 msgstr ""
 
@@ -2307,7 +2343,7 @@ msgid ""
 "detected (*p* = 0.361)."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:47
+#: ../../Ch11/Ch11_tTest_08.rst:43 ../../Ch11/Ch11_tTest_08.rst:47
 msgid "Histogram and QQ plot for skewed and tailed data"
 msgstr ""
 
@@ -2407,7 +2443,7 @@ msgid ""
 "test to be significant."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:124
+#: ../../Ch11/Ch11_tTest_08.rst:120 ../../Ch11/Ch11_tTest_08.rst:124
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
 msgstr ""
 
@@ -2446,7 +2482,7 @@ msgid ""
 "to the QQ plot:"
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_08.rst:157
+#: ../../Ch11/Ch11_tTest_08.rst:152 ../../Ch11/Ch11_tTest_08.rst:157
 msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
@@ -2699,7 +2735,7 @@ msgid ""
 "ttest_nonparametric`."
 msgstr ""
 
-#: ../../Ch11/Ch11_tTest_09.rst:116
+#: ../../Ch11/Ch11_tTest_09.rst:112 ../../Ch11/Ch11_tTest_09.rst:116
 msgid "Results for one sample and paired sample Wilcoxon non-parametric tests"
 msgstr ""
 

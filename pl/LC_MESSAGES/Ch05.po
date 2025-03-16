@@ -3,6 +3,51 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -166,7 +211,7 @@ msgid ""
 "of these characteristics come from drawing a **histogram**."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_1.rst:39
+#: ../../Ch05/Ch05_Graphics_1.rst:35 ../../Ch05/Ch05_Graphics_1.rst:39
 msgid "Histogram check box in jamovi"
 msgstr ""
 
@@ -192,7 +237,7 @@ msgid ""
 "isn’t an issue."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_1.rst:63
+#: ../../Ch05/Ch05_Graphics_1.rst:59 ../../Ch05/Ch05_Graphics_1.rst:63
 msgid "Density plot for the ``afl.margins`` variable"
 msgstr ""
 
@@ -234,7 +279,7 @@ msgid ""
 "aflsmall_margins|_ data set as our example."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:22
+#: ../../Ch05/Ch05_Graphics_2.rst:18 ../../Ch05/Ch05_Graphics_2.rst:22
 msgid "Box plot of the ``afl.margins`` variable"
 msgstr ""
 
@@ -283,7 +328,7 @@ msgid ""
 "simplicity, so in practice it might be better to just use a simple box plot."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:64
+#: ../../Ch05/Ch05_Graphics_2.rst:60 ../../Ch05/Ch05_Graphics_2.rst:64
 msgid "Violin plot of the ``afl.margins`` variable"
 msgstr ""
 
@@ -311,7 +356,7 @@ msgid ""
 "across into the ``Split by`` box, as in :numref:`fig-splitfile1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:89
+#: ../../Ch05/Ch05_Graphics_2.rst:85 ../../Ch05/Ch05_Graphics_2.rst:89
 msgid "``Split by`` box"
 msgstr ""
 
@@ -330,7 +375,7 @@ msgid ""
 "learn anything useful."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:106
+#: ../../Ch05/Ch05_Graphics_2.rst:102 ../../Ch05/Ch05_Graphics_2.rst:106
 msgid "Multiple box plots: ``margin`` split by ``year`` from |aflmarginbyyear|"
 msgstr ""
 
@@ -354,7 +399,7 @@ msgid ""
 "came up looking like :numref:`fig-boxplot4`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:129
+#: ../../Ch05/Ch05_Graphics_2.rst:125 ../../Ch05/Ch05_Graphics_2.rst:129
 msgid "Box plot of the ``afl.margins`` variable with outliers"
 msgstr ""
 
@@ -378,7 +423,7 @@ msgid ""
 "filter field, as in :numref:`fig-filter1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:153
+#: ../../Ch05/Ch05_Graphics_2.rst:149 ../../Ch05/Ch05_Graphics_2.rst:153
 msgid "jamovi filter screen"
 msgstr ""
 
@@ -399,7 +444,7 @@ msgid ""
 "should go back to the original data source to find out what is going on."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_2.rst:173
+#: ../../Ch05/Ch05_Graphics_2.rst:169 ../../Ch05/Ch05_Graphics_2.rst:173
 msgid "Frequency table for ID"
 msgstr ""
 
@@ -460,7 +505,7 @@ msgid ""
 "then get a bar graph, something like that shown in :numref:`fig-bar1`."
 msgstr ""
 
-#: ../../Ch05/Ch05_Graphics_3.rst:35
+#: ../../Ch05/Ch05_Graphics_3.rst:31 ../../Ch05/Ch05_Graphics_3.rst:35
 msgid "Bar plot in jamovi, showing just four AFL teams"
 msgstr ""
 

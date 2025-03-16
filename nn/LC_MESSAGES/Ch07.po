@@ -3,6 +3,42 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -473,7 +509,7 @@ msgid ""
 "number at which it finally settles is the true probability of heads."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_2.rst:104
+#: ../../Ch07/Ch07_Probability_2.rst:100 ../../Ch07/Ch07_Probability_2.rst:104
 msgid "Illustration of how frequentist probability works"
 msgstr ""
 
@@ -810,7 +846,7 @@ msgid ""
 "that focuses entirely on my trousers. Everyone wins!"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_3.rst:88
+#: ../../Ch07/Ch07_Probability_3.rst:84 ../../Ch07/Ch07_Probability_3.rst:88
 msgid "“Trousers” probability distribution"
 msgstr ""
 
@@ -1038,7 +1074,7 @@ msgid ""
 "Instead, I just want to show you what the binomial distribution looks like."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_4.rst:92
+#: ../../Ch07/Ch07_Probability_4.rst:88 ../../Ch07/Ch07_Probability_4.rst:92
 msgid "Binomial distribution for *N* = 20 and θ = 1/6"
 msgstr ""
 
@@ -1082,7 +1118,7 @@ msgid ""
 "in the possible outcomes."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_4.rst:132
+#: ../../Ch07/Ch07_Probability_4.rst:128 ../../Ch07/Ch07_Probability_4.rst:132
 msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 msgstr ""
 
@@ -1138,7 +1174,7 @@ msgid ""
 "distformulas`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:32
+#: ../../Ch07/Ch07_Probability_5.rst:28 ../../Ch07/Ch07_Probability_5.rst:32
 msgid "Normal distribution with mean μ = 0 and standard deviation σ = 1"
 msgstr ""
 
@@ -1183,7 +1219,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch07/Ch07_Probability_5.rst:72
+#: ../../Ch07/Ch07_Probability_5.rst:68 ../../Ch07/Ch07_Probability_5.rst:72
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
 msgstr ""
 
@@ -1212,7 +1248,7 @@ msgid ""
 "numref:`fig-scaleShiftNormal`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:99
+#: ../../Ch07/Ch07_Probability_5.rst:95 ../../Ch07/Ch07_Probability_5.rst:99
 msgid "Normal distribution: µ = 5 and σ = 1 (solid) or σ = 2 (dashed)"
 msgstr ""
 
@@ -1241,7 +1277,7 @@ msgid ""
 "deviations. This idea is illustrated in :numref:`fig-normAreaSD`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:127
+#: ../../Ch07/Ch07_Probability_5.rst:123 ../../Ch07/Ch07_Probability_5.rst:127
 msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr ""
 
@@ -1257,7 +1293,7 @@ msgid ""
 "mean."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_5.rst:142
+#: ../../Ch07/Ch07_Probability_5.rst:138 ../../Ch07/Ch07_Probability_5.rst:142
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 
@@ -1412,7 +1448,7 @@ msgid ""
 "doc:`../Ch11/Ch11_tTest`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:30
+#: ../../Ch07/Ch07_Probability_6.rst:26 ../../Ch07/Ch07_Probability_6.rst:30
 msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
 msgstr ""
 
@@ -1437,7 +1473,7 @@ msgid ""
 "`fig-chiSqDist` illustrates what a χ²-distribution looks like."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:54
+#: ../../Ch07/Ch07_Probability_6.rst:50 ../../Ch07/Ch07_Probability_6.rst:54
 msgid "χ²-distribution with *df* = 3"
 msgstr ""
 
@@ -1463,7 +1499,7 @@ msgid ""
 "*F*-distribution. Oh, and there’s a picture in :numref:`fig-Fdist`."
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability_6.rst:78
+#: ../../Ch07/Ch07_Probability_6.rst:74 ../../Ch07/Ch07_Probability_6.rst:78
 msgid "*F*-distribution with *df* = 3 and *df* = 5"
 msgstr ""
 

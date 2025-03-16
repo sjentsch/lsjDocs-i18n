@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -140,10 +140,12 @@ msgid ""
 "At the top of the page, under the heading `“Download” <https://www.jamovi."
 "org/download.html>`__, you’ll see separate links for Windows users, Mac "
 "users, and Linux users. If you follow the relevant link you’ll see that the "
-"online instructions are pretty self-explanatory.\\ [#]_"
+"online instructions are pretty self-explanatory. At the time of writing, the "
+"current version of jamovi is 2.6, but they usually issue updates every few "
+"months, so you’ll probably have a newer version.\\ [#]_"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:22
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:24
 msgid ""
 "Whereas this text book was one of the first resources available to support "
 "jamovi, there is now an abundance of them: Have a look under “resources” → "
@@ -151,11 +153,11 @@ msgid ""
 "jamovi homepage."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:28
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:30
 msgid "The jamovi window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:30
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:32
 msgid ""
 "One way or another, regardless of what operating system you’re using, it’s "
 "time to open jamovi and get started. When first starting jamovi you will be "
@@ -163,15 +165,15 @@ msgid ""
 "startjamovi`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:41
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:39
 msgid "jamovi start window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:41
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:43
 msgid "jamovi looks like this when you start it."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:45
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:47
 msgid ""
 "To the left is the :doc:`spreadsheet view <Ch03_jamoviIntro_2>`, and to the "
 "right is where the results of your :doc:`statistical analyses "
@@ -180,18 +182,18 @@ msgid ""
 "sizes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:50
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:52
 msgid ""
 "The first time you open jamovi, you may want to change some of the default "
 "settings. These can be accessed from the settings menu (``⋮``, at the top-"
 "left corner). You can for example change there how many decimals you would "
 "like to be displayed in your analyses’ output, the plot and color schemes "
-"for your figures and (since version 2.3 of jamovi) also the language of your "
+"for your figures and (since version 2.3 of jamovi) the language of your "
 "jamovi user interface. On most operating systems (OS), the language defaults "
-"to the language you have set for your OS.\\ [#]"
+"to the language you have set for your OS.\\ [#]_"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:58
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:60
 msgid ""
 "To quit jamovi, just close the program the same way you would any other "
 "program. However, what you might want to do before you quit is save your "
@@ -209,7 +211,7 @@ msgid ""
 "your analyses as PDF, HTML or as LaTeX-document."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:76
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:78
 msgid ""
 "Although jamovi is updated frequently it doesn’t usually make much of a "
 "difference for the sort of work we’ll do in this book. In fact, during the "
@@ -217,7 +219,7 @@ msgid ""
 "difference at all to what is in this book."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:82
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:84
 msgid ""
 "Please note that the figures (screenshots, etc.) within this book are using "
 "the English user interface."
@@ -310,7 +312,7 @@ msgid ""
 "data type of either ``Text``, ``Integer`` or ``Decimal``."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:56
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:52
 msgid "Measurement levels and data types in jamovi"
 msgstr ""
 
@@ -400,7 +402,7 @@ msgid ""
 "example data set)."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:131
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:127
 msgid "Computed variable: *z*-score of ``dose``"
 msgstr ""
 
@@ -490,7 +492,7 @@ msgid ""
 "variables."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_2.rst:197
+#: ../../Ch03/Ch03_jamoviIntro_2.rst:193
 msgid "|booksales| data file"
 msgstr ""
 
@@ -755,7 +757,7 @@ msgid ""
 "_."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_3.rst:89
+#: ../../Ch03/Ch03_jamoviIntro_3.rst:85
 msgid "jamovi modules in the jamovi library"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,7 +104,7 @@ msgid ""
 "statistics we can calculate in jamovi are shown in :numref:`fig-anova1`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_01.rst:37
+#: ../../Ch13/Ch13_ANOVA_01.rst:33 ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
 
@@ -515,7 +515,7 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 msgid "Yay."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:189
 msgid "illustration of between and within groups variation"
 msgstr ""
 
@@ -1385,7 +1385,7 @@ msgid ""
 "sizes a bit later."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_03.rst:31
+#: ../../Ch13/Ch13_ANOVA_03.rst:27
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
 
@@ -1601,7 +1601,7 @@ msgid ""
 "variable, as in :numref:`fig-anova3`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_05.rst:89
+#: ../../Ch13/Ch13_ANOVA_05.rst:85 ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
 msgstr ""
 
@@ -2048,7 +2048,7 @@ msgid ""
 "homogeneity of variance) or not."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:152
+#: ../../Ch13/Ch13_ANOVA_06.rst:148 ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
 msgstr ""
 
@@ -2075,7 +2075,7 @@ msgid ""
 "(Welch’s)`` (see :numref:`fig-anova4a`)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:180
+#: ../../Ch13/Ch13_ANOVA_06.rst:176 ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
 msgstr ""
 
@@ -2124,7 +2124,7 @@ msgid ""
 "assessment; both checks find no indication that normality is violated."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:226
+#: ../../Ch13/Ch13_ANOVA_06.rst:222 ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
 msgstr ""
 
@@ -2376,7 +2376,7 @@ msgid ""
 "value = 0.00239, as in :numref:`fig-anova6`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_06.rst:373
+#: ../../Ch13/Ch13_ANOVA_06.rst:369
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
 msgstr ""
 
@@ -2544,7 +2544,7 @@ msgid ""
 "checks`` check box."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:120
+#: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
 msgstr ""
 
@@ -2562,7 +2562,7 @@ msgid ""
 "different (i.e. they are roughly equal and sphericity can be assumed.)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:142
+#: ../../Ch13/Ch13_ANOVA_07.rst:138 ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
 
@@ -2595,7 +2595,7 @@ msgid ""
 "RManova3`."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:170
+#: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
 
@@ -2617,7 +2617,7 @@ msgid ""
 "(*F*\\(2,10) = 6.93, *p* = 0.013)."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:191
+#: ../../Ch13/Ch13_ANOVA_07.rst:187 ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
 msgstr ""
 
@@ -2641,7 +2641,7 @@ msgid ""
 "and ``Syntax`` task performance."
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_07.rst:216
+#: ../../Ch13/Ch13_ANOVA_07.rst:212 ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
 msgstr ""
 
@@ -2668,7 +2668,7 @@ msgstr ""
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../Ch13/Ch13_ANOVA_08.rst:19
+#: ../../Ch13/Ch13_ANOVA_08.rst:15 ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
 msgstr ""
 

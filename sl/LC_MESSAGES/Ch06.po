@@ -1,6 +1,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
@@ -124,7 +169,7 @@ msgid ""
 "tables`` which does just this, see :numref:`fig-freqtable`."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:45
+#: ../../Ch06/Ch06_DataHandling_1.rst:41 ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
 msgstr ""
 
@@ -150,7 +195,7 @@ msgid ""
 "one shown in :numref:`fig-contingencytable`."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:71
+#: ../../Ch06/Ch06_DataHandling_1.rst:67 ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for ``speaker`` and ``utterance``"
 msgstr ""
 
@@ -184,7 +229,7 @@ msgid ""
 "to the one in :numref:`fig-contingencyrow`."
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:99
+#: ../../Ch06/Ch06_DataHandling_1.rst:95 ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr ""
@@ -208,6 +253,7 @@ msgid ""
 "Tombliboo saying it."
 msgstr ""
 
+#: ../../Ch06/Ch06_DataHandling_1.rst:115
 #: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
@@ -697,7 +743,7 @@ msgid ""
 "the formula box, like in :numref:`fig-likertraw`: ``likert.raw - 4``"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:56
+#: ../../Ch06/Ch06_DataHandling_3.rst:52 ../../Ch06/Ch06_DataHandling_3.rst:56
 msgid "Creating a new computed variable in jamovi"
 msgstr ""
 
@@ -719,7 +765,7 @@ msgid ""
 "created in the spreadsheet view, as in :numref:`fig-opinionstrength`:"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:82
+#: ../../Ch06/Ch06_DataHandling_3.rst:78 ../../Ch06/Ch06_DataHandling_3.rst:82
 msgid "*f*\\ :sub:`x` button to select functions and variables"
 msgstr ""
 
@@ -803,6 +849,7 @@ msgid ""
 "agecats`:"
 msgstr ""
 
+#: ../../Ch06/Ch06_DataHandling_3.rst:157
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid "Using the ``IF`` function"
 msgstr ""
@@ -849,6 +896,7 @@ msgid ""
 "transform1`."
 msgstr ""
 
+#: ../../Ch06/Ch06_DataHandling_3.rst:198
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid "Using the jamovi ``Transform`` command"
 msgstr ""
@@ -877,6 +925,7 @@ msgid ""
 "the dataset as an ``.omv`` file, otherwise you’ll lose it!)."
 msgstr ""
 
+#: ../../Ch06/Ch06_DataHandling_3.rst:226
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid "Specifying a transformation in jamovi"
 msgstr ""
@@ -913,6 +962,7 @@ msgid ""
 "you want to recode."
 msgstr ""
 
+#: ../../Ch06/Ch06_DataHandling_3.rst:259
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid "jamovi transformation into categories"
 msgstr ""
@@ -1263,7 +1313,7 @@ msgid ""
 "on, try it, and see what that shows!"
 msgstr ""
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:41
+#: ../../Ch06/Ch06_DataHandling_5.rst:37 ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid "Creating a subset using ``Filters``"
 msgstr ""
 

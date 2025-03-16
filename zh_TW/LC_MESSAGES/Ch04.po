@@ -1,6 +1,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
@@ -30,7 +66,7 @@ msgid ""
 "are stored in the file (:numref:`fig-aflsmall_margins`)."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:35
+#: ../../Ch04/Ch04_Descriptives.rst:31 ../../Ch04/Ch04_Descriptives.rst:35
 msgid "Variables stored in ``aflsmall margins``"
 msgstr ""
 
@@ -67,7 +103,7 @@ msgid ""
 "margins`` variable."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives.rst:66
+#: ../../Ch04/Ch04_Descriptives.rst:62 ../../Ch04/Ch04_Descriptives.rst:66
 msgid ""
 "Histogram of AFL 2010 winning margin data (the ``afl.margins`` variable)"
 msgstr ""
@@ -297,6 +333,7 @@ msgid ""
 "information; see :numref:`fig-descriptives_default`."
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_1.rst:108
 #: ../../Ch04/Ch04_Descriptives_1.rst:112
 msgid "AFL 2010 winning margin data"
 msgstr ""
@@ -411,6 +448,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
+#: ../../Ch04/Ch04_Descriptives_1.rst:189
 #: ../../Ch04/Ch04_Descriptives_1.rst:193
 msgid "Comparison of mean and median"
 msgstr ""
@@ -562,6 +600,7 @@ msgid ""
 "played in all 200 finals matches played during the period 1987 to 2010."
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_1.rst:311
 #: ../../Ch04/Ch04_Descriptives_1.rst:315
 msgid "Variables in |aflsmall_finalists|"
 msgstr ""
@@ -572,6 +611,7 @@ msgid ""
 "_ data set"
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_1.rst:320
 #: ../../Ch04/Ch04_Descriptives_1.rst:324
 msgid ""
 "Frequency table for the ``afl.margins`` variable in |aflsmall_finalists|"
@@ -631,6 +671,7 @@ msgid ""
 "margin."
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_1.rst:371
 #: ../../Ch04/Ch04_Descriptives_1.rst:375
 msgid "Modal value of the ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr ""
@@ -707,7 +748,7 @@ msgid ""
 "``Descriptives`` → ``Statistics`` screen."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:55
+#: ../../Ch04/Ch04_Descriptives_2.rst:51 ../../Ch04/Ch04_Descriptives_2.rst:55
 msgid "Quartiles for the ``afl.margins`` variable"
 msgstr ""
 
@@ -1043,6 +1084,7 @@ msgid ""
 "typo? Am I an idiot?"
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_2.rst:259
 #: ../../Ch04/Ch04_Descriptives_2.rst:263
 msgid "Variance for the first 5 values of the ``afl.margins`` variable"
 msgstr ""
@@ -1210,6 +1252,7 @@ msgid ""
 "This is shown visually in :numref:`fig-aflSD`."
 msgstr ""
 
+#: ../../Ch04/Ch04_Descriptives_2.rst:382
 #: ../../Ch04/Ch04_Descriptives_2.rst:386
 msgid ""
 "Standard deviation for the first 5 values of the ``afl.margins`` variable"
@@ -1319,7 +1362,7 @@ msgid ""
 "seen kurtosis reported in a scientific article to date."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:20
+#: ../../Ch04/Ch04_Descriptives_3.rst:16 ../../Ch04/Ch04_Descriptives_3.rst:20
 msgid "Illustration of skewness"
 msgstr ""
 
@@ -1395,7 +1438,7 @@ msgid ""
 "assessed relative to this curve."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:74
+#: ../../Ch04/Ch04_Descriptives_3.rst:70 ../../Ch04/Ch04_Descriptives_3.rst:74
 msgid "Illustration of kurtosis"
 msgstr ""
 
@@ -1525,7 +1568,7 @@ msgid ""
 "it and see what we’ve got:"
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:21
+#: ../../Ch04/Ch04_Descriptives_4.rst:17 ../../Ch04/Ch04_Descriptives_4.rst:21
 msgid "Variables in |clinicaltrial|"
 msgstr ""
 
@@ -1557,7 +1600,7 @@ msgid ""
 "and you should get something like :numref:`fig-clinicaltrial_grouping`."
 msgstr ""
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:47
+#: ../../Ch04/Ch04_Descriptives_4.rst:43 ../../Ch04/Ch04_Descriptives_4.rst:47
 msgid "Variables in |clinicaltrial| split by therapy type"
 msgstr ""
 

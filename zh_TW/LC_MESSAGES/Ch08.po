@@ -1,6 +1,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
@@ -215,7 +251,7 @@ msgid ""
 "sampled **without replacement**."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:133
+#: ../../Ch08/Ch08_Estimation_1.rst:129 ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr ""
 
@@ -234,7 +270,7 @@ msgid ""
 "simple random sample, because it makes the data analysis *much* easier."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:155
+#: ../../Ch08/Ch08_Estimation_1.rst:151 ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
 
@@ -252,7 +288,7 @@ msgid ""
 "numref:`fig-srs2`."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:175
+#: ../../Ch08/Ch08_Estimation_1.rst:171 ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr ""
 
@@ -453,7 +489,7 @@ msgid ""
 "deviation σ is 15."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:354 ../../Ch08/Ch08_Estimation_1.rst:358
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr ""
 
@@ -540,7 +576,7 @@ msgid ""
 "`fig-IQsim` demonstrates."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_2.rst:34
+#: ../../Ch08/Ch08_Estimation_2.rst:30 ../../Ch08/Ch08_Estimation_2.rst:34
 msgid "Random sample drawn from a normal distribution using jamovi"
 msgstr ""
 
@@ -939,7 +975,7 @@ msgid ""
 "mean**."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_3.rst:113
+#: ../../Ch08/Ch08_Estimation_3.rst:109 ../../Ch08/Ch08_Estimation_3.rst:113
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr ""
 
@@ -987,7 +1023,7 @@ msgid ""
 "in the 100 to 140 range."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_3.rst:157
+#: ../../Ch08/Ch08_Estimation_3.rst:153 ../../Ch08/Ch08_Estimation_3.rst:157
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
 msgstr ""
 
@@ -1024,7 +1060,7 @@ msgid ""
 "increases, the SEM decreases."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_3.rst:194
+#: ../../Ch08/Ch08_Estimation_3.rst:190 ../../Ch08/Ch08_Estimation_3.rst:194
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr ""
 
@@ -1078,7 +1114,7 @@ msgid ""
 "population distribution looks like!"
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_3.rst:246
+#: ../../Ch08/Ch08_Estimation_3.rst:242 ../../Ch08/Ch08_Estimation_3.rst:246
 msgid "Demonstration of the central limit theorem"
 msgstr ""
 
@@ -1405,7 +1441,7 @@ msgid ""
 "the average of the sample means is also 100."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:170
+#: ../../Ch08/Ch08_Estimation_4.rst:166 ../../Ch08/Ch08_Estimation_4.rst:170
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr ""
 
@@ -1439,7 +1475,7 @@ msgid ""
 "than the sample standard deviation *s*."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_4.rst:202
+#: ../../Ch08/Ch08_Estimation_4.rst:198 ../../Ch08/Ch08_Estimation_4.rst:202
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr ""
 
@@ -1839,7 +1875,7 @@ msgid ""
 "of them contained the true mean."
 msgstr ""
 
-#: ../../Ch08/Ch08_Estimation_5.rst:142
+#: ../../Ch08/Ch08_Estimation_5.rst:138 ../../Ch08/Ch08_Estimation_5.rst:142
 msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1257,7 +1257,7 @@ msgid ""
 "to see if you’ve gotten a significant result, all bets are off."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_3.rst:305
+#: ../../Ch16/Ch16_Bayes_3.rst:301
 msgid "Effect of re-running your tests every time new data arrive"
 msgstr ""
 
@@ -1475,7 +1475,7 @@ msgid ""
 "less than 0.05, we reject the null hypothesis."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:33
+#: ../../Ch16/Ch16_Bayes_5.rst:29 ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "``Independent Samples T-Test`` result in jamovi"
 msgstr ""
 
@@ -1490,7 +1490,7 @@ msgid ""
 "hypothesis."
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:50
+#: ../../Ch16/Ch16_Bayes_5.rst:46 ../../Ch16/Ch16_Bayes_5.rst:50
 msgid "``Bayes Factor`` analysis alongside ``Independent Samples T-Test``"
 msgstr ""
 
@@ -1523,7 +1523,7 @@ msgid ""
 "alternative. We could probably reject the null with some confidence!"
 msgstr ""
 
-#: ../../Ch16/Ch16_Bayes_5.rst:82
+#: ../../Ch16/Ch16_Bayes_5.rst:78 ../../Ch16/Ch16_Bayes_5.rst:82
 msgid "``Paired Samples T-Test`` and ``Bayes Factor`` result in jamovi"
 msgstr ""
 

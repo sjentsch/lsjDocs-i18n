@@ -1,6 +1,51 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 17:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-12 22:11+0200\n"
@@ -95,7 +140,7 @@ msgid ""
 "factorialanova1`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:37
+#: ../../Ch14/Ch14_ANOVA2_01.rst:33 ../../Ch14/Ch14_ANOVA2_01.rst:37
 msgid "jamovi contingency table for ``drug`` by ``therapy``"
 msgstr ""
 
@@ -412,7 +457,7 @@ msgid ""
 "factorialanova2`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:241
+#: ../../Ch14/Ch14_ANOVA2_01.rst:237 ../../Ch14/Ch14_ANOVA2_01.rst:241
 msgid "jamovi One-way ANOVA of ``mood.gain`` by ``drug``"
 msgstr ""
 
@@ -425,7 +470,7 @@ msgid ""
 "``Fixed Factor`` in the analysis, see :numref:`fig-factorialanova3`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:257
+#: ../../Ch14/Ch14_ANOVA2_01.rst:253 ../../Ch14/Ch14_ANOVA2_01.rst:257
 msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the factors ``drug`` and "
 "``therapy``"
@@ -971,7 +1016,7 @@ msgid ""
 "you shouldn’t do is drop variables that actually make a difference!"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:616
+#: ../../Ch14/Ch14_ANOVA2_01.rst:612 ../../Ch14/Ch14_ANOVA2_01.rst:616
 msgid "Four different outcomes for a 2 × 2 ANOVA"
 msgstr ""
 
@@ -1026,7 +1071,7 @@ msgstr ""
 msgid "Factorial ANOVA 2: balanced designs, interactions allowed"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:12
+#: ../../Ch14/Ch14_ANOVA2_02.rst:8 ../../Ch14/Ch14_ANOVA2_02.rst:12
 msgid "Qualitatively different interactions for a 2 × 2 ANOVA"
 msgstr ""
 
@@ -1064,7 +1109,7 @@ msgid ""
 "interactions even exist! In this section, we’ll fix this problem."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:52
+#: ../../Ch14/Ch14_ANOVA2_02.rst:48 ../../Ch14/Ch14_ANOVA2_02.rst:52
 msgid "Descriptive interaction plot in jamovi"
 msgstr ""
 
@@ -1385,7 +1430,7 @@ msgid ""
 "we get the results shown in :numref:`fig-factorialanova4`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:242
+#: ../../Ch14/Ch14_ANOVA2_02.rst:238 ../../Ch14/Ch14_ANOVA2_02.rst:242
 msgid "Results for the full factorial model"
 msgstr ""
 
@@ -1622,7 +1667,7 @@ msgid ""
 "standard errors rather than use a separate one for each group."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_03.rst:121
+#: ../../Ch14/Ch14_ANOVA2_03.rst:117 ../../Ch14/Ch14_ANOVA2_03.rst:121
 msgid "Estimated marginal means for the saturated model"
 msgstr ""
 
@@ -1659,7 +1704,7 @@ msgid ""
 "for the analysis shown in :numref:`fig-margmean2`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_03.rst:152
+#: ../../Ch14/Ch14_ANOVA2_03.rst:148 ../../Ch14/Ch14_ANOVA2_03.rst:152
 msgid "Estimated marginal means for the unsaturated model"
 msgstr ""
 
@@ -1732,7 +1777,7 @@ msgid ""
 "homogeneity of variance assumption is not violated."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_04.rst:48
+#: ../../Ch14/Ch14_ANOVA2_04.rst:44 ../../Ch14/Ch14_ANOVA2_04.rst:48
 msgid "Checking assumptions in an ANOVA model"
 msgstr ""
 
@@ -1788,7 +1833,7 @@ msgid ""
 "<Everitt_1996>`)."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:38
+#: ../../Ch14/Ch14_ANOVA2_06.rst:34 ../../Ch14/Ch14_ANOVA2_06.rst:38
 msgid "Plot of Statistics anxiety against age for two distinct groups"
 msgstr ""
 
@@ -1818,7 +1863,7 @@ msgid ""
 "options."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:66
+#: ../../Ch14/Ch14_ANOVA2_06.rst:62 ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid "The jamovi ANCOVA options panel"
 msgstr ""
 
@@ -1841,7 +1886,7 @@ msgid ""
 "effects."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:87
+#: ../../Ch14/Ch14_ANOVA2_06.rst:83 ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid "jamovi ANCOVA output"
 msgstr ""
 
@@ -1851,7 +1896,7 @@ msgid ""
 "method, with age as a covariate"
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#: ../../Ch14/Ch14_ANOVA2_06.rst:92 ../../Ch14/Ch14_ANOVA2_06.rst:96
 msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
@@ -1887,7 +1932,7 @@ msgid ""
 "people who cycle are happier, on average, than those who drive to work."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:127
+#: ../../Ch14/Ch14_ANOVA2_06.rst:123 ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr ""
 
@@ -2127,7 +2172,7 @@ msgid ""
 "attending the class both matter a lot."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:119
+#: ../../Ch14/Ch14_ANOVA2_07.rst:115 ../../Ch14/Ch14_ANOVA2_07.rst:119
 msgid "jamovi descriptives for the |rtfm|_ data set"
 msgstr ""
 
@@ -2166,7 +2211,7 @@ msgid ""
 "jamovi."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:155
+#: ../../Ch14/Ch14_ANOVA2_07.rst:151 ../../Ch14/Ch14_ANOVA2_07.rst:155
 msgid "ANOVA with two factors (only main effects, without their interaction)"
 msgstr ""
 
@@ -2375,7 +2420,7 @@ msgid ""
 "results shown in :numref:`fig-factorialanova7`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:261
+#: ../../Ch14/Ch14_ANOVA2_07.rst:257 ../../Ch14/Ch14_ANOVA2_07.rst:261
 msgid "Regression analysis for the rtfm dataset, unsaturated"
 msgstr ""
 
@@ -2429,7 +2474,7 @@ msgid ""
 "factorialanova8`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:306
+#: ../../Ch14/Ch14_ANOVA2_07.rst:302 ../../Ch14/Ch14_ANOVA2_07.rst:306
 msgid "Omnibus ANOVA Test"
 msgstr ""
 
@@ -2542,7 +2587,7 @@ msgid ""
 "factorialanova9`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:385
+#: ../../Ch14/Ch14_ANOVA2_07.rst:381 ../../Ch14/Ch14_ANOVA2_07.rst:385
 msgid "ANOVA results for the |clinicaltrial| dataset: Unsaturated model"
 msgstr ""
 
@@ -2561,7 +2606,7 @@ msgid ""
 "in :numref:`fig-factorialanova10`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:402
+#: ../../Ch14/Ch14_ANOVA2_07.rst:398 ../../Ch14/Ch14_ANOVA2_07.rst:402
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
 msgstr ""
 
@@ -2598,7 +2643,7 @@ msgid ""
 "in :numref:`fig-factorialanova11`\\."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:436
+#: ../../Ch14/Ch14_ANOVA2_07.rst:432 ../../Ch14/Ch14_ANOVA2_07.rst:436
 msgid "Model comparison: Null model 1 vs. contrasts model 2"
 msgstr ""
 
@@ -2633,7 +2678,7 @@ msgid ""
 "``placebo`` and ``no.therapy``, respectively, because this makes most sense."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:466
+#: ../../Ch14/Ch14_ANOVA2_07.rst:462 ../../Ch14/Ch14_ANOVA2_07.rst:466
 msgid "Regression analysis with factors and contrasts"
 msgstr ""
 
@@ -3038,7 +3083,7 @@ msgid ""
 "factorialanova13`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:73
+#: ../../Ch14/Ch14_ANOVA2_09.rst:69 ../../Ch14/Ch14_ANOVA2_09.rst:73
 msgid "Options panel to set up post hoc tests"
 msgstr ""
 
@@ -3103,7 +3148,7 @@ msgid ""
 "but with a lot more comparisons made."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:122
+#: ../../Ch14/Ch14_ANOVA2_09.rst:118 ../../Ch14/Ch14_ANOVA2_09.rst:122
 msgid "Results table for a Tukey HSD post-hoc test"
 msgstr ""
 
@@ -3225,7 +3270,7 @@ msgid ""
 "view, as in :numref:`fig-factorialanova15`\\."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:61
+#: ../../Ch14/Ch14_ANOVA2_11.rst:57 ../../Ch14/Ch14_ANOVA2_11.rst:61
 msgid "Descriptive statistics for the different levels of sugar and milk"
 msgstr ""
 
@@ -3398,7 +3443,7 @@ msgid ""
 "factorialanova16`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:191
+#: ../../Ch14/Ch14_ANOVA2_11.rst:187 ../../Ch14/Ch14_ANOVA2_11.rst:191
 msgid ""
 "Results table using Type 1 sum of squares, factor ``sugar`` entered first"
 msgstr ""
@@ -3423,7 +3468,7 @@ msgid ""
 "ordering, as in :numref:`fig-factorialanova17`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:213
+#: ../../Ch14/Ch14_ANOVA2_11.rst:209 ../../Ch14/Ch14_ANOVA2_11.rst:213
 msgid "Results table using Type 1 sum of squares, factor milk entered first"
 msgstr ""
 
@@ -3635,7 +3680,7 @@ msgid ""
 "squares, see :numref:`fig-factorialanova18`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:359
+#: ../../Ch14/Ch14_ANOVA2_11.rst:355 ../../Ch14/Ch14_ANOVA2_11.rst:359
 msgid "Results table using Type 3 sum of squares"
 msgstr ""
 
@@ -3801,7 +3846,7 @@ msgid ""
 "factorialanova19`."
 msgstr ""
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:496
+#: ../../Ch14/Ch14_ANOVA2_11.rst:492 ../../Ch14/Ch14_ANOVA2_11.rst:496
 msgid "Results table using Type 2 sum of squares"
 msgstr ""
 
