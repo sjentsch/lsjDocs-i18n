@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -182,7 +146,7 @@ msgstr ""
 "Ch06_DataHandling_1`), får vi tabellen som vises i :numref:`fig-"
 "factorialanova1`."
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:37
+#: ../../Ch14/Ch14_ANOVA2_01.rst:33 ../../Ch14/Ch14_ANOVA2_01.rst:37
 msgid "jamovi contingency table for ``drug`` by ``therapy``"
 msgstr "jamovi krysstabell for ``drug`` etter ``therapy``"
 
@@ -609,7 +573,7 @@ msgstr ""
 "(dvs. ``mood.gain``), og vi fikk resultatene som vises i :numref:`fig-"
 "factorialanova2`."
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:241
+#: ../../Ch14/Ch14_ANOVA2_01.rst:237 ../../Ch14/Ch14_ANOVA2_01.rst:241
 msgid "jamovi One-way ANOVA of ``mood.gain`` by ``drug``"
 msgstr "jamovi Enveis ANOVA av ``mood.gain`` etter ``drug``"
 
@@ -628,7 +592,7 @@ msgstr ""
 "``therapy`` som en annen ``Fixed Factor`` i analysen, se :numref:`fig-"
 "factorialanova3`."
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:257
+#: ../../Ch14/Ch14_ANOVA2_01.rst:253
 msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the factors ``drug`` and "
 "``therapy``"
@@ -1448,7 +1412,7 @@ msgstr ""
 "ikke inkluderer denne irrelevante faktoren. Det du ikke bør gjøre, er å "
 "droppe variabler som faktisk utgjør en forskjell!"
 
-#: ../../Ch14/Ch14_ANOVA2_01.rst:616
+#: ../../Ch14/Ch14_ANOVA2_01.rst:612
 msgid "Four different outcomes for a 2 × 2 ANOVA"
 msgstr "Fire ulike utfall for en 2 × 2 ANOVA"
 
@@ -1529,7 +1493,7 @@ msgstr "Satt på spissen: «minst kjedelig»."
 msgid "Factorial ANOVA 2: balanced designs, interactions allowed"
 msgstr "Faktoriell ANOVA 2: balansert design, interaksjoner tillatt"
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:12
+#: ../../Ch14/Ch14_ANOVA2_02.rst:8 ../../Ch14/Ch14_ANOVA2_02.rst:12
 msgid "Qualitatively different interactions for a 2 × 2 ANOVA"
 msgstr "Kvalitativt forskjellige interaksjoner for en 2 × 2 ANOVA"
 
@@ -1598,7 +1562,7 @@ msgstr ""
 "spørsmålet, fordi vi ikke tar høyde for at det i det hele tatt eksisterer "
 "interaksjoner! I dette avsnittet skal vi løse dette problemet."
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:52
+#: ../../Ch14/Ch14_ANOVA2_02.rst:48
 msgid "Descriptive interaction plot in jamovi"
 msgstr "(Deskriptivstatistisk) Interaksjonsplott i jamovi"
 
@@ -2032,7 +1996,7 @@ msgstr ""
 "kjører ANOVA-en med interaksjonstermen inkludert, får vi resultatene vist i :"
 "numref:`fig-factorialanova4`."
 
-#: ../../Ch14/Ch14_ANOVA2_02.rst:242
+#: ../../Ch14/Ch14_ANOVA2_02.rst:238
 msgid "Results for the full factorial model"
 msgstr "Resultater for den fullstendige faktorielle modellen"
 
@@ -2420,7 +2384,7 @@ msgstr ""
 "konfidensintervallene vil bruke et samlet estimat av standardfeilene i "
 "stedet for å bruke et separat estimat for hver gruppe."
 
-#: ../../Ch14/Ch14_ANOVA2_03.rst:121
+#: ../../Ch14/Ch14_ANOVA2_03.rst:117
 msgid "Estimated marginal means for the saturated model"
 msgstr "Estimerte marginale gjennomsnitt for den mettede modellen"
 
@@ -2479,7 +2443,7 @@ msgstr ""
 "modellen, via ``Model``-alternativene i jamovi ANOVA-analysen, får man de "
 "marginale gjennomsnittene for analysen som vises i :numref:`fig-margmean2`."
 
-#: ../../Ch14/Ch14_ANOVA2_03.rst:152
+#: ../../Ch14/Ch14_ANOVA2_03.rst:148
 msgid "Estimated marginal means for the unsaturated model"
 msgstr "Estimerte marginale gjennomsnitt for den umettede modellen"
 
@@ -2593,7 +2557,7 @@ msgstr ""
 "forutsetningen om varianshomogenitet ikke er brutt, forutsatt at den stemmer "
 "overens med en visuell inspeksjon av plottet av standardavvikene."
 
-#: ../../Ch14/Ch14_ANOVA2_04.rst:48
+#: ../../Ch14/Ch14_ANOVA2_04.rst:44 ../../Ch14/Ch14_ANOVA2_04.rst:48
 msgid "Checking assumptions in an ANOVA model"
 msgstr "Sjekk av forutsetninger for en ANOVA-modell"
 
@@ -2678,7 +2642,7 @@ msgstr ""
 "i hovedsak «ekstrapolert inn i et område uten data» (:ref:`Everitt, 1996 "
 "<Everitt_1996>`)."
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:38
+#: ../../Ch14/Ch14_ANOVA2_06.rst:34 ../../Ch14/Ch14_ANOVA2_06.rst:38
 msgid "Plot of Statistics anxiety against age for two distinct groups"
 msgstr "Plott av statistikk for angst mot alder for to forskjellige grupper"
 
@@ -2721,7 +2685,7 @@ msgstr ""
 "overfør den til tekstboksen ``Covariates``. Klikk deretter på ``Estimated "
 "Marginal Means`` for å få opp alternativene for plott og tabeller."
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:66
+#: ../../Ch14/Ch14_ANOVA2_06.rst:62
 msgid "The jamovi ANCOVA options panel"
 msgstr "Analysepanel for ANCOVA i jamovi"
 
@@ -2755,7 +2719,7 @@ msgstr ""
 "numref:`fig-ancova4`) er en god måte å visualisere og tolke de signifikante "
 "effektene på."
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:87
+#: ../../Ch14/Ch14_ANOVA2_06.rst:83
 msgid "jamovi ANCOVA output"
 msgstr "Utgave fra ANCOVA i jamovi"
 
@@ -2767,7 +2731,7 @@ msgstr ""
 "Utgave fra ANCOVA for lykke som en funksjon av stress og pendlingsmetode, "
 "med alder som kovariat i jamovi"
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#: ../../Ch14/Ch14_ANOVA2_06.rst:92
 msgid "Estimated Marginal means within the ANCOVA"
 msgstr "Estimerte marginale gjennomsnitt innenfor ANCOVA"
 
@@ -2825,7 +2789,7 @@ msgstr ""
 "personer som sykler, er i gjennomsnitt lykkeligere enn de som kjører bil til "
 "jobben."
 
-#: ../../Ch14/Ch14_ANOVA2_06.rst:127
+#: ../../Ch14/Ch14_ANOVA2_06.rst:123
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr "Plot med de estimerte marginale gjennomsnittene innenfor ANCOVA"
 
@@ -3147,7 +3111,7 @@ msgstr ""
 "ser på gjennomsnittskarakterene, får man et sterkt inntrykk av at både det å "
 "lese teksten og det å delta i undervisningen betyr mye."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:119
+#: ../../Ch14/Ch14_ANOVA2_07.rst:115
 msgid "jamovi descriptives for the |rtfm|_ data set"
 msgstr "jamovi-beskrivelser for datasettet |rtfm|_"
 
@@ -3205,7 +3169,7 @@ msgstr ""
 "bruker vi datasettet |rtfm|_, og :numref:`fig-factorialanova6` viser hva vi "
 "får når vi kjører analysen i jamovi."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:155
+#: ../../Ch14/Ch14_ANOVA2_07.rst:151
 msgid "ANOVA with two factors (only main effects, without their interaction)"
 msgstr "ANOVA med to faktorer (kun hovedeffekter, uten interaksjon)"
 
@@ -3483,7 +3447,7 @@ msgstr ""
 "at dette virkelig er sant. Å kjøre regresjonen på vanlig måte gir "
 "resultatene som vises i :numref:`fig-factorialanova7`."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:261
+#: ../../Ch14/Ch14_ANOVA2_07.rst:257
 msgid "Regression analysis for the rtfm dataset, unsaturated"
 msgstr "Regresjonsanalyse for rtfm-datasett, umettet (*unsaturated*)"
 
@@ -3569,7 +3533,7 @@ msgstr ""
 "Regression`` - ``Model Coefficients`` - ``Omnibus Test`` - ``ANOVA test``, "
 "og dette vil gi deg tabellen som vises i :numref:`fig-factorialanova8`."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:306
+#: ../../Ch14/Ch14_ANOVA2_07.rst:302
 msgid "Omnibus ANOVA Test"
 msgstr "Omnibus-ANOVA-test"
 
@@ -3731,7 +3695,7 @@ msgstr ""
 "brukes på kontrastvariablene. La oss starte med å kjøre ANOVAen på nytt, med "
 "resultatene vist i :numref:`fig-factorialanova9`."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:385
+#: ../../Ch14/Ch14_ANOVA2_07.rst:381
 msgid "ANOVA results for the |clinicaltrial| dataset: Unsaturated model"
 msgstr ""
 "ANOVA-resultater for datasettet |clinicaltrial|: Umettet (*unsaturated*) "
@@ -3759,7 +3723,7 @@ msgstr ""
 "``drugjoyzepam`` og ``therapyCBT`` som prediktorer. Resultatene vises i :"
 "numref:`fig-factorialanova10`."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:402
+#: ../../Ch14/Ch14_ANOVA2_07.rst:398
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
 msgstr "Regresjon: datasett fra kliniske studier, genererte kontrastvariabler"
 
@@ -3821,7 +3785,7 @@ msgstr ""
 "tilfellet vil inkludere prediktoren ``therapyCBT``, og utelate begge de "
 "legemiddel-relaterte variablene, som i :numref:`fig-factorialanova11`\\."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:436
+#: ../../Ch14/Ch14_ANOVA2_07.rst:432
 msgid "Model comparison: Null model 1 vs. contrasts model 2"
 msgstr "Sammenligning av modeller: Nullmodell 1 vs. kontrastmodell 2"
 
@@ -3874,7 +3838,7 @@ msgstr ""
 "referansenivå, via alternativet ``Reference Levels``. Vi har endret dette "
 "til henholdsvis ``placebo`` og ``no.therapy``, fordi dette gir mest mening."
 
-#: ../../Ch14/Ch14_ANOVA2_07.rst:466
+#: ../../Ch14/Ch14_ANOVA2_07.rst:462
 msgid "Regression analysis with factors and contrasts"
 msgstr "Regresjonsanalyse med faktorer og kontraster"
 
@@ -4496,7 +4460,7 @@ msgstr ""
 "post-hoc-korreksjoner som kan brukes. Dette, sammen med den tilhørende "
 "resultattabellen, vises i :numref:`fig-factorialanova13`."
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:73
+#: ../../Ch14/Ch14_ANOVA2_09.rst:69
 msgid "Options panel to set up post hoc tests"
 msgstr "Analysepanel for å sette opp post-hoc-tester"
 
@@ -4594,7 +4558,7 @@ msgstr ""
 "factorialanova14`. Du kan se at det ser ganske likt ut som før, men med "
 "mange flere sammenligninger."
 
-#: ../../Ch14/Ch14_ANOVA2_09.rst:122
+#: ../../Ch14/Ch14_ANOVA2_09.rst:118
 msgid "Results table for a Tukey HSD post-hoc test"
 msgstr "Resultattabell for en Tukey HSD post-hoc-test"
 
@@ -4798,7 +4762,7 @@ msgstr ""
 "på dataene i jamovi-regnearkvisningen, som i :numref:`fig-"
 "factorialanova15`\\."
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:61
+#: ../../Ch14/Ch14_ANOVA2_11.rst:57
 msgid "Descriptive statistics for the different levels of sugar and milk"
 msgstr "Deskriptivstatistikk for de ulike nivåene av ``sugar`` og ``milk``"
 
@@ -5057,7 +5021,7 @@ msgstr ""
 "``Model``-opsjonene. Dette gir oss ANOVA-tabellen som vises i :numref:`fig-"
 "factorialanova16`."
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:191
+#: ../../Ch14/Ch14_ANOVA2_11.rst:187
 msgid ""
 "Results table using Type 1 sum of squares, factor ``sugar`` entered first"
 msgstr ""
@@ -5097,7 +5061,7 @@ msgstr ""
 "prinsipielt svar på spørsmålet. Likevel, se hva som skjer når vi endrer "
 "rekkefølgen, som i :numref:`fig-factorialanova17`."
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:213
+#: ../../Ch14/Ch14_ANOVA2_11.rst:209
 msgid "Results table using Type 1 sum of squares, factor milk entered first"
 msgstr ""
 "Resultattabell med kvadratsummen av type 1, faktor ``milk`` lagt inn først"
@@ -5385,7 +5349,7 @@ msgstr ""
 "la oss først ta en titt på ANOVA-resultattabellen med type-3-kvadratsum, se :"
 "numref:`fig-factorialanova18`."
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:359
+#: ../../Ch14/Ch14_ANOVA2_11.rst:355
 msgid "Results table using Type 3 sum of squares"
 msgstr "Resultattabell med kvadratsummen av type 3"
 
@@ -5610,7 +5574,7 @@ msgstr ""
 "of squares`` i jamovi ``ANOVA`` → ``Model``-alternativene. Dette gir oss "
 "ANOVA-tabellen som vises i :numref:`fig-factorialanova19`."
 
-#: ../../Ch14/Ch14_ANOVA2_11.rst:496
+#: ../../Ch14/Ch14_ANOVA2_11.rst:492
 msgid "Results table using Type 2 sum of squares"
 msgstr "Resultattabell med kvadratsummen av type 2"
 
