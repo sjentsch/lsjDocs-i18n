@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 09:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch05/ta/>\n"
@@ -113,7 +77,7 @@ msgstr ""
 "கைப்பிடியை அகற்ற ஏற்பாடு செய்து 500 க்கும் மேற்பட்டவர்களைக் கொன்ற வெடிப்பை முடித்தார். ஒரு "
 "நல்ல தரவு காட்சிப்படுத்தலின் ஆற்றல் இதுதான்."
 
-#: ../../Ch05/Ch05_Graphics.rst:54
+#: ../../Ch05/Ch05_Graphics.rst:50
 msgid "Redrawing of Snow’s original cholera map"
 msgstr "ச்னோவின் அசல் காலரா வரைபடத்தை மறுவடிவமைத்தல்"
 
@@ -222,7 +186,7 @@ msgstr ""
 "அல்லது கர்டோசிச் உள்ளதா? இந்த குணாதிசயங்களின் எங்கள் முதல் பதிவுகள் ** இச்டோகிராம் ** "
 "வரைவதிலிருந்து வருகின்றன."
 
-#: ../../Ch05/Ch05_Graphics_1.rst:39
+#: ../../Ch05/Ch05_Graphics_1.rst:35
 msgid "Histogram check box in jamovi"
 msgstr "சமோவியில் இச்டோகிராம் தேர்வுப்பெட்டி"
 
@@ -262,7 +226,7 @@ msgstr ""
 "பின் இச்டோகிராம் என்பதால் வேறுபடக்கூடிய போதுமான விநியோக வடிவத்தை உருவாக்காது. "
 "இருப்பினும், அடர்த்தி அடுக்குகளுடன், இது ஒரு சிக்கல் அல்ல."
 
-#: ../../Ch05/Ch05_Graphics_1.rst:63
+#: ../../Ch05/Ch05_Graphics_1.rst:59
 msgid "Density plot for the ``afl.margins`` variable"
 msgstr "`` Afl.margins`` மாறுபாட்டிற்கான அடர்த்தி சூழ்ச்சி"
 
@@ -322,7 +286,7 @@ msgstr ""
 "எடுத்துக்காட்டு என அமைக்கப்பட்ட `` afl.margins`` மாறியைப் பயன்படுத்தி, அவை எவ்வாறு "
 "செயல்படுகின்றன என்பதைப் பார்ப்போம்."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:22
+#: ../../Ch05/Ch05_Graphics_2.rst:18
 msgid "Box plot of the ``afl.margins`` variable"
 msgstr "`` Afl.margins`` மாறியின் பெட்டி சூழ்ச்சி"
 
@@ -397,7 +361,7 @@ msgstr ""
 "வரைபடத்தை சற்று பிசியாக மாற்றும், ஆனால் என் கருத்து. தெளிவு எளிமை, எனவே நடைமுறையில் "
 "ஒரு எளிய பெட்டி சதித்திட்டத்தைப் பயன்படுத்துவது நல்லது."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:64
+#: ../../Ch05/Ch05_Graphics_2.rst:60
 msgid "Violin plot of the ``afl.margins`` variable"
 msgstr "`` Afl.margins`` மாறுபாட்டின் வயலின் சூழ்ச்சி"
 
@@ -438,7 +402,7 @@ msgstr ""
 "செய்வதற்கான வழி என்னவென்றால், `` ஆண்டு`` மாறியை `` பெட்டியால் பிளவுக்குள் "
 "நகர்த்துவதாகும், இதுபோன்று: numref: `figure-splitfile1`."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:89
+#: ../../Ch05/Ch05_Graphics_2.rst:85
 msgid "``Split by`` box"
 msgstr "`` பெட்டியால் பிரிக்கவும்"
 
@@ -464,7 +428,7 @@ msgstr ""
 "முயற்சித்திருந்தால் என்ன நடந்திருக்கும் என்று இப்போது கற்பனை செய்து பாருங்கள்: வாசகர் "
 "பயனுள்ள எதையும் கற்றுக்கொள்ளப் போவதில்லை என்பதற்கு வாய்ப்பு இல்லை."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:106
+#: ../../Ch05/Ch05_Graphics_2.rst:102
 msgid "Multiple box plots: ``margin`` split by ``year`` from |aflmarginbyyear|"
 msgstr "பல பெட்டி அடுக்குகள்: `` விளிம்பு`` `` ஆண்டு`` ஆல் | aflmarginbyyear |"
 
@@ -496,7 +460,7 @@ msgstr ""
 "எடுத்துக்காட்டு. `` Afl.margins`` மாறிக்கான பெட்டி சதித்திட்டத்தை நான் வரைந்திருக்கிறேன் "
 "என்று வைத்துக்கொள்வோம், அது போல் வந்தது: NumRef: `Fig-foxplot4`."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:129
+#: ../../Ch05/Ch05_Graphics_2.rst:125
 msgid "Box plot of the ``afl.margins`` variable with outliers"
 msgstr "வெளிநாட்டினருடன் `` afl.margins`` மாறியின் பெட்டி சூழ்ச்சி"
 
@@ -533,7 +497,7 @@ msgstr ""
 "வடிப்பான்கள்`` பொத்தானைக் சொடுக்கு செய்து, பின்னர் `` விளிம்பு> 300`` ஐ வடிகட்டி "
 "புலத்தில் தட்டச்சு செய்க: எண்ரீஃப்: `FIG-FILTER1`."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:153
+#: ../../Ch05/Ch05_Graphics_2.rst:149
 msgid "jamovi filter screen"
 msgstr "சாமோவி வடிகட்டி திரை"
 
@@ -562,7 +526,7 @@ msgstr ""
 "இவை சந்தேகத்திற்கிடமான வழக்குகள் அல்லது அவதானிப்புகள், என்ன நடக்கிறது என்பதைக் "
 "கண்டுபிடிக்க நீங்கள் அசல் தரவு மூலத்திற்குச் செல்ல வேண்டும்."
 
-#: ../../Ch05/Ch05_Graphics_2.rst:173
+#: ../../Ch05/Ch05_Graphics_2.rst:169
 msgid "Frequency table for ID"
 msgstr "ஐடியுக்கான அதிர்வெண் அட்டவணை"
 
@@ -657,7 +621,7 @@ msgstr ""
 "சாமோவிக்கு தெரியும்). நீங்கள் ஒரு பார் வரைபடத்தைப் பெற வேண்டும், இதுபோன்ற ஒன்று "
 "காட்டப்பட்டுள்ளது: numref: `Fig-bar1`."
 
-#: ../../Ch05/Ch05_Graphics_3.rst:35
+#: ../../Ch05/Ch05_Graphics_3.rst:31
 msgid "Bar plot in jamovi, showing just four AFL teams"
 msgstr "சமோவியில் பார் சூழ்ச்சி, நான்கு ஏ.எஃப்.எல் அணிகளைக் காட்டுகிறது"
 
