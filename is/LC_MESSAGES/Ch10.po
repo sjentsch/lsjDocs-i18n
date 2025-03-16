@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -620,7 +575,7 @@ msgid ""
 "here goes."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:328 ../../Ch10/Ch10_ChiSquare_1.rst:332
+#: ../../Ch10/Ch10_ChiSquare_1.rst:328
 msgid "χ² distributions with different degrees of freedom"
 msgstr ""
 
@@ -680,7 +635,7 @@ msgid ""
 "hypothesis is true. This is illustrated in :numref:`fig-chiSqTest`."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:381 ../../Ch10/Ch10_ChiSquare_1.rst:385
+#: ../../Ch10/Ch10_ChiSquare_1.rst:381
 msgid "Hypothesis testing works for the χ² GOF test"
 msgstr ""
 
@@ -1171,7 +1126,7 @@ msgid ""
 "jamovi gives us the actual *p*-value of the calculated χ² for *df* = 3."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:455 ../../Ch10/Ch10_ChiSquare_1.rst:459
+#: ../../Ch10/Ch10_ChiSquare_1.rst:455
 msgid "χ² One Sample Proportion Test in jamovi"
 msgstr ""
 
@@ -1231,7 +1186,7 @@ msgid ""
 "don’t provide enough evidence against it."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:504 ../../Ch10/Ch10_ChiSquare_1.rst:508
+#: ../../Ch10/Ch10_ChiSquare_1.rst:504
 msgid "Changing expected proportions in the χ² One Sample Proportion Test"
 msgstr ""
 
@@ -2345,7 +2300,7 @@ msgid ""
 "numref:`fig-Fisher`)."
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_6.rst:85 ../../Ch10/Ch10_ChiSquare_6.rst:89
+#: ../../Ch10/Ch10_ChiSquare_6.rst:85
 msgid "``Fisher's exact test`` output in jamovi"
 msgstr ""
 
