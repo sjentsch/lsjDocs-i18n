@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -377,7 +332,7 @@ msgstr ""
 "kann, in solchen Fällen sagt man, dass die Stichprobe **ohne Zurücklegen** "
 "gezogen wurde."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:133
+#: ../../Ch08/Ch08_Estimation_1.rst:129 ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr ""
 "Einfache Zufallsstichprobenziehung aus einer endlichen Grundgesamtheit OHNE "
@@ -411,7 +366,7 @@ msgstr ""
 "Statistiker sehr, wenn ein Datensatz als einfache Zufallsstichprobe "
 "betrachtet werden kann, denn das macht die Datenanalyse *viel* einfacher."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:155
+#: ../../Ch08/Ch08_Estimation_1.rst:151 ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
 "Verzerrte (*biased*) Stichprobenziehung aus einer endlichen Grundgesamtheit "
@@ -442,7 +397,7 @@ msgstr ""
 "ersten ist, dass es möglich ist, dasselbe Mitglied der Population mehrfach "
 "zu beobachten, wie in numref:`fig-srs2` dargestellt."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:175
+#: ../../Ch08/Ch08_Estimation_1.rst:171 ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr ""
 "Einfache Zufallsstichprobenziehung aus einer endlichen Grundgesamtheit MIT "
@@ -818,7 +773,7 @@ msgstr ""
 "sie Merkmale der gesamten Population sind. Das heißt, der Mittelwert der "
 "Population µ ist 100 und die Standardabweichung der Population σ ist 15."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:354
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr ""
 "Populationsverteilung des IQ und zwei Stichproben mit N=100 und N=10.000"
@@ -967,7 +922,7 @@ msgstr ""
 "nahe an der wahren Werten in der Grundgesamtheit, wie :numref:`fig-IQsim` "
 "zeigt."
 
-#: ../../Ch08/Ch08_Estimation_2.rst:34
+#: ../../Ch08/Ch08_Estimation_2.rst:30 ../../Ch08/Ch08_Estimation_2.rst:34
 msgid "Random sample drawn from a normal distribution using jamovi"
 msgstr "Mit jamovi aus einer Normalverteilung gezogene Zufallsstichprobe"
 
@@ -1471,7 +1426,7 @@ msgstr ""
 "Stichprobenmittelwerte erhalten! Diese Verteilung hat in der Statistik einen "
 "besonderen Namen, sie heißt **Stichprobenverteilung des Mittelwerts**."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:113
+#: ../../Ch08/Ch08_Estimation_3.rst:109
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr ""
 "Stichprobenverteilung: Mittelwert für das „Experiment mit fünf IQ-Werten“"
@@ -1547,7 +1502,7 @@ msgstr ""
 "höchsten IQ-Wert findet, diese einen überdurchschnittlichen IQ haben wird. "
 "Meistens findet man jemanden, dessen IQ im Bereich von 100 bis 140 liegt."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:157
+#: ../../Ch08/Ch08_Estimation_3.rst:153
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
 msgstr "Stichprobenverteilung: Maximum für das „Experiment mit fünf IQ-Werten“"
 
@@ -1609,7 +1564,7 @@ msgstr ""
 "Akronym SEM. Wie Sie aus der Abbildung ersehen können, nimmt der SEM ab, "
 "wenn der Stichprobenumfang *N* steigt."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:194
+#: ../../Ch08/Ch08_Estimation_3.rst:190
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr ""
 "Aussehen der Stichprobenverteilung in Abhängigkeit vom Stichprobenumfang"
@@ -1712,7 +1667,7 @@ msgstr ""
 "Stichprobenverteilung des Mittelwerts annähernd normal, egal wie die "
 "Verteilung in der Grundgesamtheit aussieht!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:246
+#: ../../Ch08/Ch08_Estimation_3.rst:242
 msgid "Demonstration of the central limit theorem"
 msgstr "Veranschaulichung des zentralen Grenzwertsatzes"
 
@@ -2230,7 +2185,7 @@ msgstr ""
 "Mittelwert der Grundgesamtheit 100 und der Durchschnitt der "
 "Stichprobenmittelwerte ebenfalls 100 ist."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:170
+#: ../../Ch08/Ch08_Estimation_4.rst:166
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr ""
 "Stichprobenverteilung der Standardabweichung für ein Experiment mit „zwei IQ-"
@@ -2294,7 +2249,7 @@ msgstr ""
 "Grundgesamtheit σ vornehmen wollen, sollten wir sicherstellen, dass unsere "
 "Schätzung ein wenig größer ist als die Standardabweichung der Stichprobe *s*."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:202
+#: ../../Ch08/Ch08_Estimation_4.rst:198
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr ""
 "Stichprobenumfang: Mittelwert (unverzerrt) und Standardabweichung (verzerrt)"
@@ -2917,7 +2872,7 @@ msgstr ""
 "sind. Zufälligerweise stellte sich heraus, dass von den 100 simulierten "
 "Replikationen genau 95 den wahren Mittelwert enthielten."
 
-#: ../../Ch08/Ch08_Estimation_5.rst:142
+#: ../../Ch08/Ch08_Estimation_5.rst:138
 msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
 msgstr ""
 "Konfidenzintervalle für IQ-Stichproben mit N=10 (oben) und N=25 (unten)"

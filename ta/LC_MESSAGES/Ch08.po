@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 10:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch08/ta/>\n"
@@ -348,7 +312,7 @@ msgstr ""
 "இதுபோன்ற சந்தர்ப்பங்களில் அவதானிப்புகள் மாற்றப்படாமல் ** மாதிரி செய்யப்பட்டதாகக் "
 "கூறப்படுகிறது **."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:133
+#: ../../Ch08/Ch08_Estimation_1.rst:129 ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr "வரையறுக்கப்பட்ட மக்கள்தொகையிலிருந்து மாற்றப்படாமல் எளிய சீரற்ற மாதிரி"
 
@@ -378,7 +342,7 @@ msgstr ""
 "புள்ளிவிவர வல்லுநர்கள் ஒரு தரவுத் தொகுப்பை ஒரு எளிய சீரற்ற மாதிரியாகக் கருதும்போது அதை "
 "விரும்புகிறார்கள், ஏனெனில் இது தரவு பகுப்பாய்வை * மிகவும் * எளிதாக்குகிறது."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:155
+#: ../../Ch08/Ch08_Estimation_1.rst:151 ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr "வரையறுக்கப்பட்ட மக்கள்தொகையில் இருந்து மாற்றாமல் பக்கச்சார்பான மாதிரி"
 
@@ -405,7 +369,7 @@ msgstr ""
 "நிலைமைக்கும் முதலாவதாகவும் உள்ள வேறுபாடு என்னவென்றால், ஒரே மக்கள்தொகை உறுப்பினரை பல "
 "முறை அவதானிக்க முடியும், இது எண்ரெப்பில் விளக்கப்பட்டுள்ளது: `FIG-SRS2`."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:175
+#: ../../Ch08/Ch08_Estimation_1.rst:171 ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr "வரையறுக்கப்பட்ட மக்கள்தொகையிலிருந்து மாற்றத்துடன் எளிய சீரற்ற மாதிரி"
 
@@ -743,7 +707,7 @@ msgstr ""
 "மக்கள்தொகையின் பண்புகள். அதாவது, மக்கள்தொகை என்பது 100 டாலர் என்றும் மக்கள்தொகை தரநிலை "
 "விலகல் 15 என்றும் நாங்கள் கூறுகிறோம்."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:354
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr "N = 100 மற்றும் n = 10,000 உடன் IQ மற்றும் இரண்டு மாதிரிகளின் மக்கள் தொகை வழங்கல்"
 
@@ -880,7 +844,7 @@ msgstr ""
 "மதிப்புகள் இப்போது உண்மையான மக்கள்தொகைக்கு மிக நெருக்கமாக உள்ளன, இவ்வாறு: NUMREF: `Fig-"
 "iqsim` நிரூபிக்கிறது."
 
-#: ../../Ch08/Ch08_Estimation_2.rst:34
+#: ../../Ch08/Ch08_Estimation_2.rst:30 ../../Ch08/Ch08_Estimation_2.rst:34
 msgid "Random sample drawn from a normal distribution using jamovi"
 msgstr "சமோவியைப் பயன்படுத்தி ஒரு சாதாரண விநியோகத்திலிருந்து பெறப்பட்ட சீரற்ற மாதிரி"
 
@@ -1358,7 +1322,7 @@ msgstr ""
 "புள்ளிவிவரங்களில் ஒரு சிறப்புப் பெயரைக் கொண்டுள்ளது, இது சராசரி ** மாதிரி வழங்கல் ** "
 "என்று அழைக்கப்படுகிறது."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:113
+#: ../../Ch08/Ch08_Estimation_3.rst:109
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr "மாதிரி விநியோகம்: “ஐந்து ஐ.க்யூ மதிப்பெண்கள் பரிசோதனைக்கு” சராசரி"
 
@@ -1429,7 +1393,7 @@ msgstr ""
 "அவர்கள் சராசரியாக IQ ஐக் கொண்டிருக்கப் போகிறார்கள். 100 முதல் 140 வரம்பில் ஐ.க்யூ "
 "அளவிடப்பட்ட ஒருவருடன் நீங்கள் முடிவடையும்."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:157
+#: ../../Ch08/Ch08_Estimation_3.rst:153
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
 msgstr "மாதிரி விநியோகம்: “ஐந்து ஐ.க்யூ மதிப்பெண்கள் பரிசோதனைக்கு” அதிகபட்சம்"
 
@@ -1486,7 +1450,7 @@ msgstr ""
 "SEM என்ற சுருக்கத்தை பயன்படுத்துகிறோம். படத்தைப் பார்ப்பதன் மூலம் நீங்கள் பார்க்க முடியும் என, "
 "மாதிரி அளவு * n * அதிகரிக்கும் போது, SEM குறைகிறது."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:194
+#: ../../Ch08/Ch08_Estimation_3.rst:190
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr "மாதிரி அளவின் சார்பு மாதிரி விநியோகத்தின் வடிவம்"
 
@@ -1575,7 +1539,7 @@ msgstr ""
 "மாதிரி அளவு சிறியதாக இல்லாத வரை, உங்கள் மக்கள்தொகை வழங்கல் எப்படி இருந்தாலும் "
 "சராசரியின் மாதிரி வழங்கல் தோராயமாக இயல்பானதாக இருக்கும்!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:246
+#: ../../Ch08/Ch08_Estimation_3.rst:242
 msgid "Demonstration of the central limit theorem"
 msgstr "நடு வரம்பு தேற்றத்தின் ஆர்ப்பாட்டம்"
 
@@ -2052,7 +2016,7 @@ msgstr ""
 "விநியோகத்தை திட்டமிட்டபோது, மக்கள் தொகை சராசரி 100 மற்றும் மாதிரியின் சராசரியும் கூட "
 "100."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:170
+#: ../../Ch08/Ch08_Estimation_4.rst:166
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr "மாதிரி வழங்கல். எச்.டி.டி. தேவ். “இரண்டு IQ மதிப்பெண்கள்” பரிசோதனைக்கு"
 
@@ -2106,7 +2070,7 @@ msgstr ""
 "சிக்மா` மக்கள்தொகை தரமான விலகலின் மதிப்பைப் பற்றி σ எங்கள் உய்த்துணர்தல் மாதிரி நிலையான "
 "விலகலை விட சற்று பெரியது என்பதை உறுதிப்படுத்த வேண்டும் *கள் *."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:202
+#: ../../Ch08/Ch08_Estimation_4.rst:198
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr "மாதிரி அளவு: சராசரி (ஐ.நா.-சார்பற்ற) மற்றும் நிலையான விலகல் (பக்கச்சார்பானது)"
 
@@ -2685,7 +2649,7 @@ msgstr ""
 "நம்பிக்கை இடைவெளிகளைக் காட்டுகிறது ). ஒரு பிட் அதிர்ச்டவசமாக, நான் உருவகப்படுத்திய 100 "
 "பிரதிகளில், அவற்றில் சரியாக 95 உண்மையான சராசரியைக் கொண்டிருந்தன."
 
-#: ../../Ch08/Ch08_Estimation_5.rst:142
+#: ../../Ch08/Ch08_Estimation_5.rst:138
 msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
 msgstr ""
 "N = 10 (மேல்) மற்றும் n = 25 (கீழே) உடன் IQ- மாதிரிகளுக்கான நம்பிக்கை இடைவெளிகள்"

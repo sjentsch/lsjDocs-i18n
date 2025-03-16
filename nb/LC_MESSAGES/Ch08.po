@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -351,7 +315,7 @@ msgstr ""
 "ikke kan observere det samme to ganger, og i slike tilfeller sier man at "
 "observasjonene er tatt ut **uten erstatning**."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:133
+#: ../../Ch08/Ch08_Estimation_1.rst:129 ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
 msgstr "Enkelt tilfeldig utvalg UTEN erstatning fra en begrenset populasjon"
 
@@ -381,7 +345,7 @@ msgstr ""
 "statistikere det veldig godt når et datasett kan betraktes som et enkelt "
 "tilfeldig utvalg, fordi det gjør dataanalysen *mye* enklere."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:155
+#: ../../Ch08/Ch08_Estimation_1.rst:151 ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
 msgstr ""
 "Skjevhet (*bias*) i utvalget UTEN erstatning fra en begrenset populasjon"
@@ -410,7 +374,7 @@ msgstr ""
 "observere det samme populasjonsmedlemmet flere ganger, som illustrert i "
 "numref:`fig-srs2`."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:175
+#: ../../Ch08/Ch08_Estimation_1.rst:171 ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
 msgstr "Enkelt tilfeldig utvalg MED erstatning fra en begrenset populasjon"
 
@@ -760,7 +724,7 @@ msgstr ""
 "kjennetegn ved hele populasjonen. Det vil si at vi sier at "
 "populasjonsgjennomsnittet µ er 100 og populasjonsstandardavviket σ er 15."
 
-#: ../../Ch08/Ch08_Estimation_1.rst:358
+#: ../../Ch08/Ch08_Estimation_1.rst:354
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
 msgstr "Populasjonsfordeling av IQ og to utvalg med N=100 og N=10 000"
 
@@ -900,7 +864,7 @@ msgstr ""
 "være 99,68, og standardavviket er 14,90. Disse verdiene ligger nå svært nær "
 "den sanne populasjonen, som :numref:`fig-IQsim` viser."
 
-#: ../../Ch08/Ch08_Estimation_2.rst:34
+#: ../../Ch08/Ch08_Estimation_2.rst:30 ../../Ch08/Ch08_Estimation_2.rst:34
 msgid "Random sample drawn from a normal distribution using jamovi"
 msgstr "Tilfeldig utvalg trukket fra en normalfordeling ved hjelp av jamovi"
 
@@ -1390,7 +1354,7 @@ msgstr ""
 "*fordeling* av utvalgsgjennomsnitt! Denne fordelingen har et spesielt navn i "
 "statistikken, den kalles **utvalgsfordelingen av gjennomsnittet**."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:113
+#: ../../Ch08/Ch08_Estimation_3.rst:109
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr "Utvalgsfordeling: Gjennomsnitt for «eksperimentet med fem IQ-skårer»"
 
@@ -1464,7 +1428,7 @@ msgstr ""
 "vedkommende til å ha en IQ over gjennomsnittet. Som oftest vil du ende opp "
 "med en person som har en IQ på mellom 100 og 140."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:157
+#: ../../Ch08/Ch08_Estimation_3.rst:153
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
 msgstr "Utvalgsfordeling: Maksimum for «eksperimentet med fem IQ-skårer»"
 
@@ -1522,7 +1486,7 @@ msgstr ""
 "Som du kan se bare ved å se på bildet, synker SEM når utvalgsstørrelsen *N* "
 "øker."
 
-#: ../../Ch08/Ch08_Estimation_3.rst:194
+#: ../../Ch08/Ch08_Estimation_3.rst:190
 msgid "Shape of the sampling distribution in dependence of the sample size"
 msgstr "Utvalgsfordelingens form avhenger av utvalgsstørrelsen"
 
@@ -1622,7 +1586,7 @@ msgstr ""
 "av gjennomsnittet være tilnærmet normalfordelt, uansett hvordan "
 "populasjonsfordelingen ser ut!"
 
-#: ../../Ch08/Ch08_Estimation_3.rst:246
+#: ../../Ch08/Ch08_Estimation_3.rst:242
 msgid "Demonstration of the central limit theorem"
 msgstr "Demonstrasjon av sentralgrenseteoremet"
 
@@ -2115,7 +2079,7 @@ msgstr ""
 "populasjonsgjennomsnittet er 100 og gjennomsnittet av utvalgsgjennomsnittet "
 "også er 100."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:170
+#: ../../Ch08/Ch08_Estimation_4.rst:166
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr "Utvalgsfordeling av std. dev. for et eksperiment med «to IQ-scorer»"
 
@@ -2173,7 +2137,7 @@ msgstr ""
 "populasjonsstandardavviket σ, bør vi sørge for at gjetningen vår er litt "
 "større enn utvalgsstandardavviket *s*."
 
-#: ../../Ch08/Ch08_Estimation_4.rst:202
+#: ../../Ch08/Ch08_Estimation_4.rst:198
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr ""
 "Utvalgsstørrelse: Gjennomsnitt (objektiv) og standardavvik (ikke objektiv; "
@@ -2771,7 +2735,7 @@ msgstr ""
 "Litt tilfeldig viste det seg at nøyaktig 95 av de 100 replikasjonene jeg "
 "simulerte, inneholdt det sanne gjennomsnittet."
 
-#: ../../Ch08/Ch08_Estimation_5.rst:142
+#: ../../Ch08/Ch08_Estimation_5.rst:138
 msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
 msgstr "Konfidensintervaller for IQ-utvalg med N=10 (øverst) og N=25 (nederst)"
 
