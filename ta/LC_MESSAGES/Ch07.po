@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 09:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch07/ta/>\n"
@@ -668,7 +632,7 @@ msgstr ""
 "விகிதம் * இறுதியில் ஏற்ற இறக்கத்தை நிறுத்தி குடியேறுகிறது. அவ்வாறு செய்யும்போது, அது "
 "இறுதியாக நிலைபெறும் எண்ணிக்கை தலைகளின் உண்மையான நிகழ்தகவு."
 
-#: ../../Ch07/Ch07_Probability_2.rst:104
+#: ../../Ch07/Ch07_Probability_2.rst:100
 msgid "Illustration of how frequentist probability works"
 msgstr "அடிக்கடி நிகழ்தகவு எவ்வாறு செயல்படுகிறது என்பதற்கான விளக்கம்"
 
@@ -1175,7 +1139,7 @@ msgstr ""
 "என்பதை நீங்கள் கற்றுக்கொண்டீர்கள், இறுதியாக எனது கால்சட்டைகளை முழுமையாக மையமாகக் கொண்ட ஒரு "
 "வரைபடத்தை உருவாக்க ஒரு வழியைக் கண்டுபிடிக்க முடிந்தது. எல்லோரும் வெற்றி!"
 
-#: ../../Ch07/Ch07_Probability_3.rst:88
+#: ../../Ch07/Ch07_Probability_3.rst:84
 msgid "“Trousers” probability distribution"
 msgstr "“கால்சட்டை” நிகழ்தகவு வழங்கல்"
 
@@ -1486,7 +1450,7 @@ msgstr ""
 "அதற்கு பதிலாக, பைனோமியல் வழங்கல் எப்படி இருக்கும் என்பதை நான் உங்களுக்குக் காட்ட "
 "விரும்புகிறேன்."
 
-#: ../../Ch07/Ch07_Probability_4.rst:92
+#: ../../Ch07/Ch07_Probability_4.rst:88
 msgid "Binomial distribution for *N* = 20 and θ = 1/6"
 msgstr "* N * = 20 மற்றும் θ = 1/6 க்கான பைனோமியல் வழங்கல்"
 
@@ -1558,7 +1522,7 @@ msgstr ""
 "தோராயமாக நடுவில் இருக்கும், ஆனால் சாத்தியமான விளைவுகளில் இன்னும் கொஞ்சம் மாறுபாடு "
 "உள்ளது."
 
-#: ../../Ch07/Ch07_Probability_4.rst:132
+#: ../../Ch07/Ch07_Probability_4.rst:128
 msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 msgstr ""
 "பைனோமியல் விநியோகம்: θ = 1/2 மற்றும் * n * = 20 (இடது) அல்லது * n * = 100 (வலது)"
@@ -1637,7 +1601,7 @@ msgstr ""
 "செய்யாத ஒரு அறிமுக உரை அதில் கவனம் செலுத்த விரும்புகிறேன், எனவே நான் அதை இழுத்துச் "
 "சென்றேன்: NumRef: `தாவல்-முறைமைுலாச்`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:32
+#: ../../Ch07/Ch07_Probability_5.rst:28
 msgid "Normal distribution with mean μ = 0 and standard deviation σ = 1"
 msgstr "சராசரி μ = 0 மற்றும் நிலையான விலகல் σ = 1 உடன் இயல்பான வழங்கல்"
 
@@ -1709,7 +1673,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch07/Ch07_Probability_5.rst:72
+#: ../../Ch07/Ch07_Probability_5.rst:68
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
 msgstr "இயல்பான விநியோகம்: σ = 1 மற்றும் µ = 4 (திட) அல்லது µ = 7 (கோடு)"
 
@@ -1753,7 +1717,7 @@ msgstr ""
 "விநியோகத்தின் உச்சம் ஒரே இடத்தில் இருக்கும், ஆனால் வழங்கல் அகலமாகிறது, நீங்கள் "
 "காணக்கூடியது: numref: `Fig-scaleshiftnormal`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:99
+#: ../../Ch07/Ch07_Probability_5.rst:95
 msgid "Normal distribution: µ = 5 and σ = 1 (solid) or σ = 2 (dashed)"
 msgstr "இயல்பான விநியோகம்: µ = 5 மற்றும் σ = 1 (திட) அல்லது π = 2 (கோடு)"
 
@@ -1798,7 +1762,7 @@ msgstr ""
 "நிலையான விலகல்களுக்குள் உள்ளது. இந்த சிந்தனை இதில் விளக்கப்பட்டுள்ளது: NumRef: `Figh-"
 "normareasd`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:127
+#: ../../Ch07/Ch07_Probability_5.rst:123
 msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr "இயல்பான விநியோகம்: 1 மற்றும் 2 எச்டிக்கு வளைவின் கீழ் உள்ள பகுதி"
 
@@ -1821,7 +1785,7 @@ msgstr ""
 "வலது குழுவில், சராசரியின் இரண்டு நிலையான விலகல்களுக்குள் ஒரு கண்காணிப்பு விழும் 95.4 "
 "\\% வாய்ப்பு இருப்பதைக் காண்கிறோம்."
 
-#: ../../Ch07/Ch07_Probability_5.rst:142
+#: ../../Ch07/Ch07_Probability_5.rst:138
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr "சராசரியின் எல்லையிலும் வால்களிலும் 1 எச்டி வளைவின் கீழ் பகுதி"
 
@@ -2068,7 +2032,7 @@ msgstr ""
 "நினைக்கும் சூழ்நிலைகளில் எழுகிறது, ஆனால் சராசரி அல்லது நிலையான விலகல் உங்களுக்குத் "
 "தெரியாது. அத்தியாயம்: `../ ch11/ch11_ttest` இல் இந்த விநியோகத்தில் மீண்டும் ஓடுவோம்."
 
-#: ../../Ch07/Ch07_Probability_6.rst:30
+#: ../../Ch07/Ch07_Probability_6.rst:26
 msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
 msgstr "*t*-ஒரு சாதாரண விநியோகத்துடன் ஒப்பிடுகையில்*df*= 3 உடன் விவரம்"
 
@@ -2105,7 +2069,7 @@ msgstr ""
 "எவ்வளவு அடிக்கடி பயனுள்ளதாக இருக்கும் என்று நீங்கள் ஆச்சரியப்படுவீர்கள். எப்படியிருந்தாலும், "
 "NUMREF: `FIG-CHISQDIST` ஒரு χ²- டிச்ட்ரிபியூசன் எப்படி இருக்கும் என்பதை விளக்குகிறது."
 
-#: ../../Ch07/Ch07_Probability_6.rst:54
+#: ../../Ch07/Ch07_Probability_6.rst:50
 msgid "χ²-distribution with *df* = 3"
 msgstr "* df * = 3 உடன்-விநியோகித்தல்"
 
@@ -2145,7 +2109,7 @@ msgstr ""
 "ch13_anova`. அங்குதான் நாங்கள் *f *-distribution இல் ஓடுவோம். ஓ, மற்றும் ஒரு படம் "
 "உள்ளது: NumRef: `Fig-fdist`."
 
-#: ../../Ch07/Ch07_Probability_6.rst:78
+#: ../../Ch07/Ch07_Probability_6.rst:74
 msgid "*F*-distribution with *df* = 3 and *df* = 5"
 msgstr "*F*-*df*= 3 மற்றும்*df*= 5 உடன் விவாதம்"
 

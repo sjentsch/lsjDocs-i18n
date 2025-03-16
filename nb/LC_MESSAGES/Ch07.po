@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -683,7 +647,7 @@ msgstr ""
 "er tallet den til slutt stabiliserer seg på, den sanne sannsynligheten for "
 "kron."
 
-#: ../../Ch07/Ch07_Probability_2.rst:104
+#: ../../Ch07/Ch07_Probability_2.rst:100
 msgid "Illustration of how frequentist probability works"
 msgstr "Illustrasjon av hvordan frekventistisk sannsynlighetsregning fungerer"
 
@@ -1205,7 +1169,7 @@ msgstr ""
 "måte å lage et diagram som fokuserer helt og holdent på buksene mine. Alle "
 "vinner!"
 
-#: ../../Ch07/Ch07_Probability_3.rst:88
+#: ../../Ch07/Ch07_Probability_3.rst:84
 msgid "“Trousers” probability distribution"
 msgstr "Sannsynlighetsfordeling for «Bukser»"
 
@@ -1523,7 +1487,7 @@ msgstr ""
 "fordi vi ikke trenger formelen i denne boken, skal jeg ikke snakke om den i "
 "detalj. I stedet vil jeg bare vise deg hvordan binomialfordelingen ser ut."
 
-#: ../../Ch07/Ch07_Probability_4.rst:92
+#: ../../Ch07/Ch07_Probability_4.rst:88
 msgid "Binomial distribution for *N* = 20 and θ = 1/6"
 msgstr "Binomialfordeling for *N* = 20 og θ = 1/6"
 
@@ -1596,7 +1560,7 @@ msgstr ""
 "Fordelingen holder seg omtrent i midten, men det er litt mer variasjon i de "
 "mulige utfallene."
 
-#: ../../Ch07/Ch07_Probability_4.rst:132
+#: ../../Ch07/Ch07_Probability_4.rst:128
 msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 msgstr ""
 "Binomisk fordeling: θ = 1/2 og *N* = 20 (til venstre) eller *N* = 100 (til "
@@ -1676,7 +1640,7 @@ msgstr ""
 "siden dette er en innføringstekst, vil jeg ikke fokusere på den, så jeg har "
 "gjemt den bort i :numref:`tab-distformulas`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:32
+#: ../../Ch07/Ch07_Probability_5.rst:28
 msgid "Normal distribution with mean μ = 0 and standard deviation σ = 1"
 msgstr "Normalfordeling med gjennomsnitt μ = 0 og standardavvik σ = 1"
 
@@ -1751,7 +1715,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch07/Ch07_Probability_5.rst:72
+#: ../../Ch07/Ch07_Probability_5.rst:68
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
 msgstr "Normalfordeling: σ = 1 og µ = 4 (heltrukket) eller µ = 7 (stiplet)"
 
@@ -1796,7 +1760,7 @@ msgstr ""
 "toppen av fordelingen på samme sted, men fordelingen blir bredere, som du "
 "kan se i :numref:`fig-scaleShiftNormal`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:99
+#: ../../Ch07/Ch07_Probability_5.rst:95
 msgid "Normal distribution: µ = 5 and σ = 1 (solid) or σ = 2 (dashed)"
 msgstr "Normalfordeling: µ = 5 og σ = 1 (heltrukken) eller σ = 2 (stiplet)"
 
@@ -1841,7 +1805,7 @@ msgstr ""
 "fordelingen ligger innenfor 3 standardavvik. Denne ideen er illustrert i :"
 "numref:`fig-normAreaSD`."
 
-#: ../../Ch07/Ch07_Probability_5.rst:127
+#: ../../Ch07/Ch07_Probability_5.rst:123
 msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr "Normalfordeling: areal under kurven for 1 og 2 SD"
 
@@ -1865,7 +1829,7 @@ msgstr ""
 "høyre panelet ser vi at det er 95,4\\% sjanse for at en observasjon vil "
 "falle innenfor to standardavvik fra gjennomsnittet."
 
-#: ../../Ch07/Ch07_Probability_5.rst:142
+#: ../../Ch07/Ch07_Probability_5.rst:138
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 "Arealet under kurven for 1 SD på grensen til gjennomsnittet og ved halene"
@@ -2121,7 +2085,7 @@ msgstr ""
 "standardavviket. Vi kommer til å støte på denne fordelingen igjen i "
 "kapittel :doc:`../Ch11/Ch11_tTest`."
 
-#: ../../Ch07/Ch07_Probability_6.rst:30
+#: ../../Ch07/Ch07_Probability_6.rst:26
 msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
 msgstr "*t*-fordeling med *df* = 3 sammenlignet med en normalfordeling"
 
@@ -2159,7 +2123,7 @@ msgstr ""
 "bli overrasket over hvor ofte dette faktumet viser seg å være nyttig. "
 "Uansett, :numref:`fig-chiSqDist` illustrerer hvordan en χ²-fordeling ser ut."
 
-#: ../../Ch07/Ch07_Probability_6.rst:54
+#: ../../Ch07/Ch07_Probability_6.rst:50
 msgid "χ²-distribution with *df* = 3"
 msgstr "χ²-fordeling med *df* = 3"
 
@@ -2199,7 +2163,7 @@ msgstr ""
 "det er der vi kommer til å støte på *F*-fordelingen. Åh, og det er et bilde "
 "i :numref:`fig-Fdist`."
 
-#: ../../Ch07/Ch07_Probability_6.rst:78
+#: ../../Ch07/Ch07_Probability_6.rst:74
 msgid "*F*-distribution with *df* = 3 and *df* = 5"
 msgstr "*F*-fordeling med *df* = 3 og *df* = 5"
 

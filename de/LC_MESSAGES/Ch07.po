@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch07/de/"
@@ -716,7 +671,7 @@ msgstr ""
 "schwanken und pendelt sich ein. Die Zahl, bei der sie sich schließlich "
 "einpendelt, ist die „wahre“ Wahrscheinlichkeit für Kopf."
 
-#: ../../Ch07/Ch07_Probability_2.rst:104
+#: ../../Ch07/Ch07_Probability_2.rst:100
 msgid "Illustration of how frequentist probability works"
 msgstr ""
 "Veranschaulichung der Funktionsweise der frequentistischen "
@@ -1271,7 +1226,7 @@ msgstr ""
 "ein Diagramm zu erstellen, das sich ausschließlich auf meine Hose "
 "konzentriert. Alle haben gewonnen!"
 
-#: ../../Ch07/Ch07_Probability_3.rst:88
+#: ../../Ch07/Ch07_Probability_3.rst:84
 msgid "“Trousers” probability distribution"
 msgstr "„Hosen“-Wahrscheinlichkeitsverteilung"
 
@@ -1598,7 +1553,7 @@ msgstr ""
 "diesem Buch nicht brauchen, werde ich nicht im Detail darauf eingehen. "
 "Stattdessen möchte ich Ihnen nur zeigen, wie die Binomialverteilung aussieht."
 
-#: ../../Ch07/Ch07_Probability_4.rst:92
+#: ../../Ch07/Ch07_Probability_4.rst:88
 msgid "Binomial distribution for *N* = 20 and θ = 1/6"
 msgstr "Binomialverteilung für *N* = 20 und θ = 1/6"
 
@@ -1675,7 +1630,7 @@ msgstr ""
 "in der Mitte, aber es gibt etwas mehr Variabilität bei den möglichen "
 "Resultaten."
 
-#: ../../Ch07/Ch07_Probability_4.rst:132
+#: ../../Ch07/Ch07_Probability_4.rst:128
 msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 msgstr ""
 "Binomialverteilung: θ = 1/2 und *N* = 20 (links) oder *N* = 100 (rechts)"
@@ -1757,7 +1712,7 @@ msgstr ""
 "möchte ich mich nicht zu sehr darauf konzentrieren. Deshalb habe ich sie in :"
 "numref:`Tab-distformulas` versteckt."
 
-#: ../../Ch07/Ch07_Probability_5.rst:32
+#: ../../Ch07/Ch07_Probability_5.rst:28
 msgid "Normal distribution with mean μ = 0 and standard deviation σ = 1"
 msgstr ""
 "Normalverteilung mit dem Mittelwert μ = 0 und der Standardabweichung σ = 1"
@@ -1837,7 +1792,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch07/Ch07_Probability_5.rst:72
+#: ../../Ch07/Ch07_Probability_5.rst:68
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
 msgstr ""
 "Normalverteilung: σ = 1 und µ = 4 (durchgezogene Linie) oder µ = 7 "
@@ -1886,7 +1841,7 @@ msgstr ""
 "Scheitelpunkt der Verteilung an der gleichen Stelle, aber die Verteilung "
 "wird breiter, wie Sie in :numref:`fig-scaleShiftNormal` sehen können."
 
-#: ../../Ch07/Ch07_Probability_5.rst:99
+#: ../../Ch07/Ch07_Probability_5.rst:95
 msgid "Normal distribution: µ = 5 and σ = 1 (solid) or σ = 2 (dashed)"
 msgstr ""
 "Normalverteilung: µ = 5 und σ = 1 (durchgezogene Linie) oder σ = 2 "
@@ -1937,7 +1892,7 @@ msgstr ""
 "von 3 Standardabweichungen. Diese Idee wird in :numref:`fig-normAreaSD` "
 "veranschaulicht."
 
-#: ../../Ch07/Ch07_Probability_5.rst:127
+#: ../../Ch07/Ch07_Probability_5.rst:123
 msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr "Normalverteilung: Fläche unter der Kurve für 1 und 2 SD (Standardabw.)"
 
@@ -1962,7 +1917,7 @@ msgstr ""
 "Beobachtung innerhalb von zwei Standardabweichungen um den Mittelwert liegt, "
 "95,4 % beträgt."
 
-#: ../../Ch07/Ch07_Probability_5.rst:142
+#: ../../Ch07/Ch07_Probability_5.rst:138
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 "Fläche unter der Kurve für 1 SD direkt neben dem Mittelwert sowie am "
@@ -2230,7 +2185,7 @@ msgstr ""
 "Mittelwert noch die Standardabweichung (in der Population) kennt. Wir werden "
 "dieser Verteilung in Kapitel :doc:`../Ch11/Ch11_tTest` wieder begegnen."
 
-#: ../../Ch07/Ch07_Probability_6.rst:30
+#: ../../Ch07/Ch07_Probability_6.rst:26
 msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
 msgstr "*t*-Verteilung mit *df* = 3 im Vergleich zu einer Normalverteilung"
 
@@ -2270,7 +2225,7 @@ msgstr ""
 "auch immer, :numref:`fig-chiSqDist` veranschaulicht, wie eine χ²-Verteilung "
 "aussieht."
 
-#: ../../Ch07/Ch07_Probability_6.rst:54
+#: ../../Ch07/Ch07_Probability_6.rst:50
 msgid "χ²-distribution with *df* = 3"
 msgstr "χ²-Verteilung mit *df* = 3"
 
@@ -2311,7 +2266,7 @@ msgstr ""
 "auch wieder auf die *F*-Verteilung stoßen. Oh, und es gibt ein Bild in :"
 "numref:`fig-Fdist`."
 
-#: ../../Ch07/Ch07_Probability_6.rst:78
+#: ../../Ch07/Ch07_Probability_6.rst:74
 msgid "*F*-distribution with *df* = 3 and *df* = 5"
 msgstr "*F*-Verteilung mit *df* = 3 und *df* = 5"
 
