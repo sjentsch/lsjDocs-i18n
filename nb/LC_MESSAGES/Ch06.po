@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -206,7 +170,7 @@ msgstr ""
 "serien. Skjermbildet jamovi ``Descriptives`` har en avmerkingsboks som heter "
 "``Frequency tables`` som gjør nettopp dette, se :numref:`fig-freqtable`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:45
+#: ../../Ch06/Ch06_DataHandling_1.rst:41 ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
 msgstr "Frekvenstabell for variabelen ``speaker``"
 
@@ -246,7 +210,7 @@ msgstr ""
 "``utterance`` til ``Columns``-variableboksen. Du bør da ha en krysstabell "
 "som den som vises i :numref:`fig-contingencytable`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:71
+#: ../../Ch06/Ch06_DataHandling_1.rst:67
 msgid "Contingency table for ``speaker`` and ``utterance``"
 msgstr "Krysstabell for ``speaker`` og ``utterance``"
 
@@ -294,7 +258,7 @@ msgstr ""
 "først på avmerkingsboksen ``Row``, så endres krysstabellen (``Contingency "
 "Table``) i utgavevinduet til den du finner i :numref:`fig-contingencyrow`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:99
+#: ../../Ch06/Ch06_DataHandling_1.rst:95
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr "Krysstabell med radprosenter for ``speaker`` og ``utterance``"
@@ -328,7 +292,7 @@ msgstr ""
 "For eksempel, når ytringen ``ee`` blir sagt (i dette datasettet), er det i "
 "100\\% av tilfellene en Tombliboo som sier det."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:119
+#: ../../Ch06/Ch06_DataHandling_1.rst:115
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
 msgstr "Krysstabell med kolonneprosenter for ``speaker`` og ``utterance``"
@@ -992,7 +956,7 @@ msgstr ""
 "variabelen ``likert.centred`` (skriv det inn), og legg deretter til følgende "
 "i formelboksen, som i :numref:`fig-likertraw`: ``likert.raw - 4``"
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:56
+#: ../../Ch06/Ch06_DataHandling_3.rst:52 ../../Ch06/Ch06_DataHandling_3.rst:56
 msgid "Creating a new computed variable in jamovi"
 msgstr "Opprette en ny beregnet variabel i jamovi"
 
@@ -1029,7 +993,7 @@ msgstr ""
 "ny variabel er opprettet i regnearkvisningen, som i :numref:`fig-"
 "opinionstrength`:"
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:82
+#: ../../Ch06/Ch06_DataHandling_3.rst:78
 msgid "*f*\\ :sub:`x` button to select functions and variables"
 msgstr "*f*\\ :sub:`x`-knapp for å velge funksjoner og variabler"
 
@@ -1157,7 +1121,7 @@ msgstr ""
 "feilmelding. jamovi-skjermbildet for denne manipulasjonen, sammen med en "
 "tilhørende frekvenstabell, vises i :numref:`fig-agecats`:"
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:161
+#: ../../Ch06/Ch06_DataHandling_3.rst:157
 msgid "Using the ``IF`` function"
 msgstr "Bruk av ``IF``-funksjonen"
 
@@ -1229,7 +1193,7 @@ msgstr ""
 "``likert.raw``. Deretter klikker du på ``Transform``-knappen i jamovi "
 "``Data``-fanen, og du vil se noe som :numref:`fig-transform1`."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:202
+#: ../../Ch06/Ch06_DataHandling_3.rst:198
 msgid "Using the jamovi ``Transform`` command"
 msgstr "Bruke ``Transform``-kommandoen i jamovi"
 
@@ -1274,7 +1238,7 @@ msgstr ""
 "brukes på nytt når du vil (forutsatt at du lagrer datasettet som en ``.omv``-"
 "fil, ellers mister du det!)."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:230
+#: ../../Ch06/Ch06_DataHandling_3.rst:226
 msgid "Specifying a transformation in jamovi"
 msgstr "Spesifisere en transformasjon i jamovi"
 
@@ -1335,7 +1299,7 @@ msgstr ""
 "opprette og deretter bruke transformasjonen på nytt for hver variabel som du "
 "vil omkode."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:263
+#: ../../Ch06/Ch06_DataHandling_3.rst:259
 msgid "jamovi transformation into categories"
 msgstr "jamovi transformasjon til kategorier"
 
@@ -1789,7 +1753,7 @@ msgstr ""
 "``Exploration`` → ``Descriptives``, tilordne ``speaker`` til ``Variables``-"
 "boksen og krysse av for ``Frequency tables``. Prøv det, og se hva det viser!"
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:41
+#: ../../Ch06/Ch06_DataHandling_5.rst:37
 msgid "Creating a subset using ``Filters``"
 msgstr "Opprette en delmengde ved hjelp av ``Filters``"
 

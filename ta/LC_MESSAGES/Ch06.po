@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 09:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch06/ta/>\n"
@@ -202,7 +166,7 @@ msgstr ""
 "திரையில் `` அதிர்வெண் அட்டவணைகள்`` எனப்படும் ஒரு தேர்வுப்பெட்டியைக் கொண்டுள்ளது, இது இதைச் "
 "செய்கிறது, காண்க: எண்: `அத்தி-ஃப்ரெக்டபிள்`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:45
+#: ../../Ch06/Ch06_DataHandling_1.rst:41 ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
 msgstr "`` ச்பீக்கர்` `மாறிக்கான அதிர்வெண் அட்டவணை"
 
@@ -242,7 +206,7 @@ msgstr ""
 "`மாறுபாடு. நீங்கள் காட்டப்பட்டுள்ளதைப் போன்ற ஒரு தற்செயல் அட்டவணையை நீங்கள் கொண்டிருக்க "
 "வேண்டும்: numref: `Fig-contingencyTable`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:71
+#: ../../Ch06/Ch06_DataHandling_1.rst:67
 msgid "Contingency table for ``speaker`` and ``utterance``"
 msgstr "`` ச்பீக்கர்`` மற்றும் `` சொல்யூரன்ச்` `க்கான தற்செயல் அட்டவணை"
 
@@ -289,7 +253,7 @@ msgstr ""
 "தேர்வுப்பெட்டிகளை நீங்கள் காணலாம். முதலில், `` வரிசை`` செக் பாக்சைக் சொடுக்கு செய்து, "
 "வெளியீட்டு சாளரத்தில் உள்ள தற்செயல் அட்டவணை இதில் மாறும்: NumRef: `Fig-ContingencyRow`."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:99
+#: ../../Ch06/Ch06_DataHandling_1.rst:95
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr "`` ச்பீக்கர்`` மற்றும் `` உச்சரிப்பு`` க்கான வரிசை சதவீதங்களுடன் தற்செயல் அட்டவணை"
@@ -321,7 +285,7 @@ msgstr ""
 "தொடர்புடைய எழுத்துக்களின் சதவீதமாகும். உதாரணமாக, `` ee`` கூறும் போதெல்லாம் (இந்த தரவு "
 "தொகுப்பில்), 100 \\% நேரம் இது ஒரு டோம்ப்ளிபூ என்று சொல்லும்."
 
-#: ../../Ch06/Ch06_DataHandling_1.rst:119
+#: ../../Ch06/Ch06_DataHandling_1.rst:115
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
 msgstr "`` ச்பீக்கர்`` மற்றும் `` உச்சரிப்பு`` க்கான நெடுவரிசை சதவீதங்களுடன் தற்செயல் அட்டவணை"
@@ -985,7 +949,7 @@ msgstr ""
 "ஃபார்முலா பெட்டியில் பின்வருவனவற்றைச் சேர்க்கவும்: NumRef: `Fig -likertraw`:` `likert."
 "raw - 4``````````````````` லிகர்ட்."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:56
+#: ../../Ch06/Ch06_DataHandling_3.rst:52 ../../Ch06/Ch06_DataHandling_3.rst:56
 msgid "Creating a new computed variable in jamovi"
 msgstr "சாமோவியில் புதிய கணக்கிடப்பட்ட மாறியை உருவாக்குதல்"
 
@@ -1018,7 +982,7 @@ msgstr ""
 "பின்னர் `` லிகர்ட்.சென்ட்ரெட்`` இல் இருமுறை சொடுக்கு செய்யவும் `` ஃபார்முலா`` பெட்டி `` "
 "ஏபிஎச் (லிகர்ட்."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:82
+#: ../../Ch06/Ch06_DataHandling_3.rst:78
 msgid "*f*\\ :sub:`x` button to select functions and variables"
 msgstr "*f*\\: துணை: `x` பொத்தான் செயல்பாடுகள் மற்றும் மாறிகள் தேர்ந்தெடுக்க"
 
@@ -1145,7 +1109,7 @@ msgstr ""
 "காட்சி, அதனுடன் கூடிய அதிர்வெண் அட்டவணையுடன், இதில் காட்டப்பட்டுள்ளது: NumRef: `Fig-"
 "agecats`:"
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:161
+#: ../../Ch06/Ch06_DataHandling_3.rst:157
 msgid "Using the ``IF`` function"
 msgstr "`` If`` செயல்பாட்டைப் பயன்படுத்துதல்"
 
@@ -1213,7 +1177,7 @@ msgstr ""
 "உருமாறும்` பொத்தானைக் சொடுக்கு செய்து, இதுபோன்ற ஒன்றைக் காண்பீர்கள்: NumRef: `Fig-"
 "transform1`."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:202
+#: ../../Ch06/Ch06_DataHandling_3.rst:198
 msgid "Using the jamovi ``Transform`` command"
 msgstr "சாமோவி `` உருமாற்றம்` கட்டளையைப் பயன்படுத்துதல்"
 
@@ -1256,7 +1220,7 @@ msgstr ""
 "மீண்டும் பயன்படுத்தலாம் (தரவுத்தொகுப்பை `` .OMV`` கோப்பாக சேமிக்கிறது, இல்லையெனில் நீங்கள் "
 "அதை இழப்பீர்கள்!)."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:230
+#: ../../Ch06/Ch06_DataHandling_3.rst:226
 msgid "Specifying a transformation in jamovi"
 msgstr "சமோவியில் ஒரு மாற்றத்தைக் குறிப்பிடுகிறது"
 
@@ -1316,7 +1280,7 @@ msgstr ""
 "செய்ய விரும்பும் ஒவ்வொரு மாறிக்கும் உங்கள் மாற்றத்தை உருவாக்கி மீண்டும் பயன்படுத்துவதன் மூலம் "
 "சாமோவியில் இதை எளிதாக செய்யலாம்."
 
-#: ../../Ch06/Ch06_DataHandling_3.rst:263
+#: ../../Ch06/Ch06_DataHandling_3.rst:259
 msgid "jamovi transformation into categories"
 msgstr "சாமோவி வகைகளாக மாற்றம்"
 
@@ -1763,7 +1727,7 @@ msgstr ""
 "ஒதுக்கி `` அதிர்வெண் அட்டவணைகள்`` ஐ சரிபார்ப்பதன் மூலமும் இதைச் சோதிக்கவும். போய், முயற்சி "
 "செய்து, அது என்ன காட்டுகிறது என்று பாருங்கள்!"
 
-#: ../../Ch06/Ch06_DataHandling_5.rst:41
+#: ../../Ch06/Ch06_DataHandling_5.rst:37
 msgid "Creating a subset using ``Filters``"
 msgstr "`` வடிப்பான்கள்`` ஐப் பயன்படுத்தி துணைக்குழுவை உருவாக்குதல்"
 
