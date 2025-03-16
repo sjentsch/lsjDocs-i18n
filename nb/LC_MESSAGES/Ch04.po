@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -78,7 +42,7 @@ msgstr ""
 "dette, la oss åpne datasettet |aflsmall_margins|_ og se hvilke variabler som "
 "er lagret i filen (:numref:`fig-aflsmall_margins`)."
 
-#: ../../Ch04/Ch04_Descriptives.rst:35
+#: ../../Ch04/Ch04_Descriptives.rst:31
 msgid "Variables stored in ``aflsmall margins``"
 msgstr "Variabler lagret i ``aflsmall margins``"
 
@@ -134,7 +98,7 @@ msgstr ""
 "konstatere at det gir en ganske tolkbar representasjon av variabelen ``afl."
 "margins``."
 
-#: ../../Ch04/Ch04_Descriptives.rst:66
+#: ../../Ch04/Ch04_Descriptives.rst:62
 msgid ""
 "Histogram of AFL 2010 winning margin data (the ``afl.margins`` variable)"
 msgstr ""
@@ -437,7 +401,7 @@ msgstr ""
 "standardinformasjon om ``Descriptives``; se :numref:`fig-"
 "descriptives_default`."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:112
+#: ../../Ch04/Ch04_Descriptives_1.rst:108
 msgid "AFL 2010 winning margin data"
 msgstr "AFL 2010 data om vinnermargin"
 
@@ -600,7 +564,7 @@ msgstr ""
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:193
+#: ../../Ch04/Ch04_Descriptives_1.rst:189
 msgid "Comparison of mean and median"
 msgstr "Sammenligning av gjennomsnitt og median"
 
@@ -832,7 +796,7 @@ msgstr ""
 "Denne variabelen inneholder navnene på alle de 400 lagene som spilte i alle "
 "de 200 finalekampene som ble spilt i perioden 1987 til 2010."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:315
+#: ../../Ch04/Ch04_Descriptives_1.rst:311
 msgid "Variables in |aflsmall_finalists|"
 msgstr "Variabler i |aflsmall_finalists|"
 
@@ -844,7 +808,7 @@ msgstr ""
 "Skjermbilde av jamovi som viser variablene som er lagret i datasettet |"
 "aflsmall_finalists|_"
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:324
+#: ../../Ch04/Ch04_Descriptives_1.rst:320
 msgid ""
 "Frequency table for the ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr "Frekvenstabell for variabelen ``afl.margins`` i |aflsmall_finalists|"
@@ -943,7 +907,7 @@ msgstr ""
 "som i :numref:`fig-aflsmall_margins_mode`. Dataene for 2010 tyder altså på "
 "at du bør satse på en margin på 3 poeng."
 
-#: ../../Ch04/Ch04_Descriptives_1.rst:375
+#: ../../Ch04/Ch04_Descriptives_1.rst:371
 msgid "Modal value of the ``afl.margins`` variable in |aflsmall_finalists|"
 msgstr "Modalverdi av variabelen ``afl.margins`` i |aflsmall_finalists|"
 
@@ -1058,7 +1022,7 @@ msgstr ""
 "avmerkingsboksen ``Quartiles`` i analysepanelet for ``Exploration`` → "
 "``Descriptives`` → ``Statistics``."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:55
+#: ../../Ch04/Ch04_Descriptives_2.rst:51
 msgid "Quartiles for the ``afl.margins`` variable"
 msgstr "Kvartiler for variabelen ``afl.margins``"
 
@@ -1491,7 +1455,7 @@ msgstr ""
 "aflsmall_margins_variance1`. Det er bare merkelig. Er jamovi ødelagt? Er "
 "dette en skrivefeil? Er jeg en idiot?"
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:263
+#: ../../Ch04/Ch04_Descriptives_2.rst:259
 msgid "Variance for the first 5 values of the ``afl.margins`` variable"
 msgstr "Varians for de 5 første verdiene av variabelen ``afl.margins``"
 
@@ -1746,7 +1710,7 @@ msgstr ""
 "ett standardavvik fra gjennomsnittet. Dette vises visuelt i :numref:`fig-"
 "aflSD`."
 
-#: ../../Ch04/Ch04_Descriptives_2.rst:386
+#: ../../Ch04/Ch04_Descriptives_2.rst:382
 msgid ""
 "Standard deviation for the first 5 values of the ``afl.margins`` variable"
 msgstr "Standardavvik for de 5 første verdiene av variabelen ``afl.margins``"
@@ -1906,7 +1870,7 @@ msgstr ""
 "en del, men jeg har faktisk aldri sett kurtosis rapportert i en "
 "vitenskapelig artikkel til dags dato."
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:20
+#: ../../Ch04/Ch04_Descriptives_3.rst:16
 msgid "Illustration of skewness"
 msgstr "Illustrasjon av skjevhet"
 
@@ -2018,7 +1982,7 @@ msgstr ""
 "numref:`fig-kurtosis`. Vi pleier å si at «normafordelingen» (svarte linjer) "
 "har null kurtosis, og graden av kurtosis vurderes i forhold til denne kurven."
 
-#: ../../Ch04/Ch04_Descriptives_3.rst:74
+#: ../../Ch04/Ch04_Descriptives_3.rst:70
 msgid "Illustration of kurtosis"
 msgstr "Illustrasjon av kurtosis"
 
@@ -2181,7 +2145,7 @@ msgstr ""
 "doc:`../Ch13/Ch13_ANOVA` (du finner en fullstendig beskrivelse av dataene i "
 "starten av det kapittelet). La oss laste det inn og se hva vi har:"
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:21
+#: ../../Ch04/Ch04_Descriptives_4.rst:17
 msgid "Variables in |clinicaltrial|"
 msgstr "Variabler i |clinicaltrial|"
 
@@ -2228,7 +2192,7 @@ msgstr ""
 "Overfør samtidig variabelen ``therapy`` til ``Split by``-boksen, og du bør "
 "få noe sånt som :numref:`fig-clinicaltrial_grouping`."
 
-#: ../../Ch04/Ch04_Descriptives_4.rst:47
+#: ../../Ch04/Ch04_Descriptives_4.rst:43
 msgid "Variables in |clinicaltrial| split by therapy type"
 msgstr "Variabler i |clinicaltrial| delt inn etter terapitype"
 
