@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -935,7 +899,7 @@ msgstr ""
 "et verktøy for å vurdere hvor godt nullhypotesen stemmer overens med dataene "
 "våre."
 
-#: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
+#: ../../Ch09/Ch09_HypothesisTesting_03.rst:46
 msgid "Sampling distribution when the null hypothesis is true"
 msgstr "Utvalgsfordeling når nullhypotesen er sann"
 
@@ -1094,7 +1058,7 @@ msgstr ""
 "0,05, *tillates* den kritiske regionen bare å dekke 5\\% av "
 "utvalgsfordelingen til teststatistikken vår."
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:51
 msgid "Critical region associated with a two-sided test"
 msgstr "Kritisk område forbundet med en tosidig test"
 
@@ -1313,7 +1277,7 @@ msgstr ""
 "regionen dekker bare den ene halen av utvalgsfordelingen. Dette er "
 "illustrert i :numref:`fig-rejectionRegion2`."
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:166
 msgid "Critical region associated with a one-sided test"
 msgstr "Kritisk område forbundet med en ensidig test"
 
@@ -1979,6 +1943,7 @@ msgstr ""
 "datasettet |binomialtest|_, får vi resultatene vist i :numref:`fig-"
 "binomialtest`."
 
+#: ../../Ch09/Ch09_HypothesisTesting_07.rst:20
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:24
 msgid "Binomial test analysis and results in jamovi"
 msgstr "Binomisk testanalyse og resultater i jamovi"
@@ -2044,7 +2009,7 @@ msgstr ""
 msgid "The power function"
 msgstr "Effektfunksjonen"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:27
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:23
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
 msgstr "Utvalgsfordeling under alternativhypotesen, θ = 0,55"
 
@@ -2117,7 +2082,7 @@ msgstr ""
 "= 0,55 og *θ* = 0,70 begge er en del av alternativhypotesen, er type-II-"
 "feilraten forskjellig."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:68
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:64
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.70"
 msgstr "Utvalgsfordeling under alternativhypotesen θ = 0,70"
 
@@ -2152,8 +2117,8 @@ msgstr ""
 "sanne verdien av *θ* er svært nær 0,5, men når den ligger lenger unna, er "
 "styrken stor."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:87
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:224
 msgid "Probability to reject the null hypothesis as function of θ"
 msgstr "Sannsynligheten for å forkaste nullhypotesen som funksjon av θ"
 

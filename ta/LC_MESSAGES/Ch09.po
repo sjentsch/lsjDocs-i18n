@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 10:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch09/ta/>\n"
@@ -917,7 +881,7 @@ msgstr ""
 "எதிர்பார்க்க வழிவகுக்கும். எனவே, எங்கள் தரவுகளுடன் சுழிய கருதுகோள் எவ்வளவு நெருக்கமாக "
 "உடன்படுகிறது என்பதை மதிப்பிடுவதற்கான ஒரு கருவியாக இந்த விநியோகத்தை நாம் பயன்படுத்தலாம்."
 
-#: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
+#: ../../Ch09/Ch09_HypothesisTesting_03.rst:46
 msgid "Sampling distribution when the null hypothesis is true"
 msgstr "மாதிரி வழங்கல் சுழிய கருதுகோள் உண்மையாக இருக்கும்போது"
 
@@ -1079,7 +1043,7 @@ msgstr ""
 "உருவாக்கியிருப்போம். Α = 0.05 ஐ நாம் விரும்பினால், எங்கள் சோதனை புள்ளிவிவரத்தின் மாதிரி "
 "விநியோகத்தில் 5 \\% ஐ மறைக்க முக்கியமான பகுதி * அனுமதிக்கப்படுகிறது."
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:51
 msgid "Critical region associated with a two-sided test"
 msgstr "இரு பக்க சோதனையுடன் தொடர்புடைய முக்கியமான பகுதி"
 
@@ -1300,7 +1264,7 @@ msgstr ""
 "பகுதி மாதிரி விநியோகத்தின் ஒரு வால் மட்டுமே உள்ளடக்கியது. இது இதில் விளக்கப்பட்டுள்ளது: "
 "NUMREF: `Fig-rugenction Region2`."
 
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
+#: ../../Ch09/Ch09_HypothesisTesting_04.rst:166
 msgid "Critical region associated with a one-sided test"
 msgstr "ஒருதலைப்பட்ச சோதனையுடன் தொடர்புடைய முக்கியமான பகுதி"
 
@@ -1965,6 +1929,7 @@ msgstr ""
 "என்ற சுழிய கருதுகோளை சோதிக்க பதில், | binomialtest | _ தரவு தொகுப்பில் "
 "கிடைக்கிறது, காட்டப்பட்டுள்ள முடிவுகளைப் பெறுகிறோம்: numref: `fig-binomialtest`."
 
+#: ../../Ch09/Ch09_HypothesisTesting_07.rst:20
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:24
 msgid "Binomial test analysis and results in jamovi"
 msgstr "பைனோமியல் சோதனை பகுப்பாய்வு மற்றும் சாமோவியில் முடிவுகள்"
@@ -2030,7 +1995,7 @@ msgstr ""
 msgid "The power function"
 msgstr "ஆற்றல் செயல்பாடு"
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:27
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:23
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
 msgstr "மாற்று கருதுகோளின் கீழ் மாதிரி வழங்கல், θ = 0.55"
 
@@ -2101,7 +2066,7 @@ msgstr ""
 "பெரியது. சுருக்கமாக, * θ * = 0.55 மற்றும் * θ * = 0.70 இரண்டும் மாற்று கருதுகோளின் "
 "ஒரு பகுதியாகும், வகை II பிழை விகிதம் வேறுபட்டது."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:68
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:64
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.70"
 msgstr "மாற்று கருதுகோளின் கீழ் மாதிரி வழங்கல், θ = 0.70"
 
@@ -2136,8 +2101,8 @@ msgstr ""
 "மதிப்பு 0.5 க்கு மிக அருகில் இருக்கும்போது, சோதனையின் ஆற்றல் மிகவும் கூர்மையாக "
 "குறைகிறது, ஆனால் அது மேலும் தொலைவில் இருக்கும்போது, சக்தி பெரியது."
 
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:87
+#: ../../Ch09/Ch09_HypothesisTesting_08.rst:224
 msgid "Probability to reject the null hypothesis as function of θ"
 msgstr "சுழிய கருதுகோளை of இன் செயல்பாடாக நிராகரிப்பதற்கான நிகழ்தகவு"
 

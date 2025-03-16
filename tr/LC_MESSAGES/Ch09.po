@@ -7,51 +7,6 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -626,7 +581,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:46
-#: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
 msgid "Sampling distribution when the null hypothesis is true"
 msgstr ""
 
@@ -736,7 +690,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:51
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
 msgid "Critical region associated with a two-sided test"
 msgstr ""
 
@@ -892,7 +845,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:166
-#: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
 msgid "Critical region associated with a one-sided test"
 msgstr ""
 
@@ -1392,7 +1344,6 @@ msgid "The power function"
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:23
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:27
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
 msgstr ""
 
@@ -1437,7 +1388,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:64
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:68
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.70"
 msgstr ""
 
@@ -1463,8 +1413,6 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:87
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:224
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
-#: ../../Ch09/Ch09_HypothesisTesting_08.rst:228
 msgid "Probability to reject the null hypothesis as function of θ"
 msgstr ""
 
