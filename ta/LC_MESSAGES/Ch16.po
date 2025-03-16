@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 18:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch16/ta/>\n"
@@ -1795,7 +1759,7 @@ msgstr ""
 "பெற்றிருக்கிறீர்களா என்பதைப் பார்க்க உங்கள் தரவுகளில் “எட்டிப் பார்க்கிறது”, எல்லா சவால்களும் "
 "முடக்கப்பட்டுள்ளன."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:305
+#: ../../Ch16/Ch16_Bayes_3.rst:301
 msgid "Effect of re-running your tests every time new data arrive"
 msgstr "புதிய தரவு வரும்போது உங்கள் சோதனைகளை மீண்டும் இயக்குவதன் விளைவு"
 
@@ -2149,7 +2113,7 @@ msgstr ""
 "Bayes1`. 0.05 க்கும் குறைவான *p *-value ஐப் பெறும்போது, பூச்ய கருதுகோளை "
 "நிராகரிக்கிறோம்."
 
-#: ../../Ch16/Ch16_Bayes_5.rst:33
+#: ../../Ch16/Ch16_Bayes_5.rst:29 ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "``Independent Samples T-Test`` result in jamovi"
 msgstr "`` சுயாதீன மாதிரிகள் டி-டெச்ட்`` சாமோவியில் முடிவு"
 
@@ -2170,7 +2134,7 @@ msgstr ""
 "பெறுவது 1.75 இன் பேயச் காரணி புள்ளிவிவரமாகும், அதாவது இந்த தரவுகளால் வழங்கப்பட்ட "
 "சான்றுகள் மாற்று கருதுகோளுக்கு ஆதரவாக 1.8: 1 ஆகும்."
 
-#: ../../Ch16/Ch16_Bayes_5.rst:50
+#: ../../Ch16/Ch16_Bayes_5.rst:46 ../../Ch16/Ch16_Bayes_5.rst:50
 msgid "``Bayes Factor`` analysis alongside ``Independent Samples T-Test``"
 msgstr "`` சுயாதீன மாதிரிகள் டி-டெச்ட்`` உடன் `` பேயச் காரணி`` பகுப்பாய்வு"
 
@@ -2219,7 +2183,7 @@ msgstr ""
 "ஆதாரங்களை மாற்றீட்டிற்கு ஆதரவாக வழங்குகிறது. சில நம்பிக்கையுடன் நாம் பூச்யத்தை "
 "நிராகரிக்கலாம்!"
 
-#: ../../Ch16/Ch16_Bayes_5.rst:82
+#: ../../Ch16/Ch16_Bayes_5.rst:78 ../../Ch16/Ch16_Bayes_5.rst:82
 msgid "``Paired Samples T-Test`` and ``Bayes Factor`` result in jamovi"
 msgstr "`` இணை மாதிரிகள் டி-டெச்ட்`` மற்றும் `` பேயச் காரணி`` சாமோவியில் விளைவாக"
 

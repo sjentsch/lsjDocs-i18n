@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -1834,7 +1798,7 @@ msgstr ""
 "tester gjentatte ganger og «kikker» på dataene dine for å se om du har fått "
 "et signifikant resultat, er alle veddemål satt ut av spill."
 
-#: ../../Ch16/Ch16_Bayes_3.rst:305
+#: ../../Ch16/Ch16_Bayes_3.rst:301
 msgid "Effect of re-running your tests every time new data arrive"
 msgstr "Effekten av å kjøre testene på nytt hver gang det kommer nye data"
 
@@ -2192,7 +2156,7 @@ msgstr ""
 "resultatene i :numref:`fig-bayes1`. Ettersom vi får en *p*-verdi som er "
 "mindre enn 0,05, forkaster vi nullhypotesen."
 
-#: ../../Ch16/Ch16_Bayes_5.rst:33
+#: ../../Ch16/Ch16_Bayes_5.rst:29 ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "``Independent Samples T-Test`` result in jamovi"
 msgstr "Resultat av ``Independent Samples T-Test`` i jamovi"
 
@@ -2213,7 +2177,7 @@ msgstr ""
 "Bayes-faktorstatistikk på 1,75, noe som betyr at bevisene som disse dataene "
 "gir, er omtrent 1,8:1 i favør av den alternative hypotesen."
 
-#: ../../Ch16/Ch16_Bayes_5.rst:50
+#: ../../Ch16/Ch16_Bayes_5.rst:46 ../../Ch16/Ch16_Bayes_5.rst:50
 msgid "``Bayes Factor`` analysis alongside ``Independent Samples T-Test``"
 msgstr "Utgave av ``Bayes Factor`` fra ``Independent Samples T-Test``"
 
@@ -2263,7 +2227,7 @@ msgstr ""
 "Dataene viser til omtrent 6000:1 i favør av alternativhypotesen. Vi kan "
 "sannsynligvis forkaste nullhypotesen med en viss sikkerhet!"
 
-#: ../../Ch16/Ch16_Bayes_5.rst:82
+#: ../../Ch16/Ch16_Bayes_5.rst:78 ../../Ch16/Ch16_Bayes_5.rst:82
 msgid "``Paired Samples T-Test`` and ``Bayes Factor`` result in jamovi"
 msgstr "Utgave av ``Bayes Factor`` fra ``Paired Samples T-Test`` i jamovi"
 
