@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -160,7 +115,7 @@ msgstr ""
 "zugehörigen beobachteten Variable, *V*\\ :sub:`i`, der durch den zugrunde "
 "liegenden latenten Faktor nicht erklärt wird."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:28
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:24
 msgid "Latent factor underlying the relationship between observed variables"
 msgstr ""
 "Latenter Faktor, welcher der Beziehung zwischen beobachteten Variablen "
@@ -780,7 +735,7 @@ msgstr ""
 "in der Regel während der Analyse durch den Forscher angepasst werden, um ein "
 "optimales Ergebnis zu erhalten)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:265
 msgid "jamovi EFA analysis window"
 msgstr "EFA-Analysefenster in jamovi"
 
@@ -805,6 +760,7 @@ msgstr ""
 "(MSA) 0,81 beträgt, was darauf hindeutet, dass die Stichproben angemessen "
 "ist. Hier gibt es also keine Probleme!"
 
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:281
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:285
 msgid "jamovi EFA assumption checks for the personality questionnaire data"
 msgstr ""
@@ -858,7 +814,7 @@ msgstr ""
 "Eigenwerte, die größer sind als die, welche man mit Zufallsdaten erhalten "
 "würde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:309
 msgid "Scree plot of the personality data"
 msgstr "Scree-Plot der Persönlichkeitsdaten"
 
@@ -935,7 +891,7 @@ msgstr ""
 "durchführen (die dann ungefähr die gleiche Lösung wie die schiefwinklige "
 "Rotation ergeben sollte)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:347
 msgid "Factor summary statistics and correlations"
 msgstr "Zusammenfassende Statistiken und Korrelationen der Faktoren"
 
@@ -1004,7 +960,7 @@ msgstr ""
 "haben Ladungen von weniger als 0,3 ausgeblendet (in den Optionen unter :"
 "numref:`fig-efa2` eingestellt)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:381
 msgid "Factor loadings for a five factor solution"
 msgstr "Faktorenladungen für eine Lösung mit fünf Faktoren"
 
@@ -1141,11 +1097,12 @@ msgstr ""
 "berechnen. Verwenden Sie den jamovi-Befehl ``Compute``, um eine neue "
 "Variable zu erstellen (siehe :numref:`fig-efa8`)."
 
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:445
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:449
 msgid "Recode variable using the Transform command in jamovi"
 msgstr "Umkodierung der Variablen mit dem jamovi-Befehl ``Transform Variable``"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:453
 msgid "Compute new scale score variable in jamovi"
 msgstr "Berechnung einer neuen Skalenwert-Variable in jamovi"
 
@@ -1192,7 +1149,7 @@ msgstr ""
 "oder -definitionen (Hinweis: Es ist möglich, dass die Faktoren nicht in der "
 "erwarteten Reihenfolge stehen, überprüfen Sie dies also unbedingt)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:478
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
 "|Rj|_\\ -Editor-Befehle für das Berechnen von optimal gewichteten Faktor-"
@@ -1206,7 +1163,7 @@ msgstr ""
 "|Rj|_\\ -Editor-Befehle für das Berechnen von optimal gewichteten Faktor-"
 "Scores für die Fünf-Faktoren-Lösung"
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:487
 msgid "Newly created data file with new factor score variables"
 msgstr "Neu erstellte Datendatei mit neuen Faktor-Score-Variablen"
 
@@ -1245,7 +1202,7 @@ msgstr ""
 "weniger verträglich sind als Frauen, war der Unterschied nicht signifikant "
 "(Mann-Whitney *U* = 5760.5, *p* = 0.073)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
+#: ../../Ch15/Ch15_FactorAnalysis_1.rst:509
 msgid "Gender differences in Agreeableness factor-based scores"
 msgstr "Geschlechtsspezifische Unterschiede für den Faktor „Verträglichkeit“"
 
@@ -1551,7 +1508,7 @@ msgstr ""
 "angepasst wird, um das beste Ergebnis zu finden; dies wird weiter unten "
 "beschrieben)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:55
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:51
 msgid "jamovi PCA analysis window"
 msgstr "PCA-Analysefenster in jamovi"
 
@@ -1576,7 +1533,7 @@ msgstr ""
 "Angemessenheit der Stichprobe (MSA) 0,81 beträgt, was darauf hindeutet, dass "
 "die Stichprobe angemessen ist. Hier gibt es also keine Probleme!"
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:71
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:67
 msgid "Assumption checks for the personality item data"
 msgstr ""
 "Überprüfen der Voraussetzungen für die Analyse der Persönlichkeits-Items"
@@ -1630,7 +1587,7 @@ msgstr ""
 "der extrahierten Komponenten ist die Anzahl der Eigenwerte, die größer sind "
 "als die, welche man mit Zufallsdaten erhalten würde."
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:98
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:94
 msgid "Scree plot of the personality item data"
 msgstr "Scree-Plot für die Persönlichkeits-Items"
 
@@ -1705,7 +1662,7 @@ msgstr ""
 "wir, dass keine der Korrelationen > 0,3 ist, so dass eine orthogonale "
 "Rotation (``Varimax``) als angemessener erscheint."
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:131
 msgid "Component summary statistics and correlations"
 msgstr "Zusammenfassende Statistiken und Korrelationen der Komponenten"
 
@@ -1767,7 +1724,7 @@ msgstr ""
 "Schwellenwerts auf den höheren Wert von 0,4 auch eine sauberere, klarere "
 "Lösung bot."
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:161
 msgid "Component loadings for a five component solution"
 msgstr "Komponentenladungen für eine Lösung mit fünf Komponenten"
 
@@ -1841,7 +1798,7 @@ msgstr ""
 "gewichteten Komponenten-Score-Index zu erstellen, sind die Befehle und die "
 "Syntax im jamovi |Rj|_-Editor ein wenig anders. Siehe :numref:`fig-pca6`."
 
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
+#: ../../Ch15/Ch15_FactorAnalysis_2.rst:197
 msgid "|Rj| editor commands for creating optimally weighted component scores"
 msgstr ""
 "|Rj|_\\ -Editor-Befehle für das Berechnen von optimal gewichteten "
@@ -1910,7 +1867,7 @@ msgstr ""
 "eine konfirmatorische Analyse durch, um zu sehen, wie gut ein vorab "
 "festgelegtes **Modell** durch die beobachteten Daten bestätigt wird."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:29
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:25
 msgid "Initial pre-specification of latent factor structure"
 msgstr "Ursprüngliche Spezifizierung der latenten Faktorenstruktur"
 
@@ -2101,7 +2058,7 @@ msgstr ""
 "diagram`` unter ``Plots`` setzen, um zu sehen, dass jamovi ein Diagramm "
 "erstellt, das dem in :numref:`fig-cfa1` ähnelt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:112
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:108
 msgid "Settings for conducting a Confirmatory Factor Analysis"
 msgstr "Einstellungen zum Durchführen einer konfirmatorischen Faktorenanalyse"
 
@@ -2129,7 +2086,7 @@ msgstr ""
 "die vorgegebenen Kovarianzen geschätzt werden, einschließlich der "
 "standardmäßigen Faktor-Korrelationen. Alles andere wird auf Null gesetzt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:126
 msgid "``Model Fit`` results for the specified CFA model in jamovi"
 msgstr "``Model Fit``-Ergebnisse für das definierte CFA-Modell in jamovi"
 
@@ -2227,11 +2184,13 @@ msgstr ""
 "werden. Diese Tabellen können sinnvollerweise in einen Bericht oder einen "
 "wissenschaftlichen Artikel aufgenommen werden."
 
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:171
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:175
 msgid "Table with ``Factor Loadings`` for the specified CFA model in jamovi"
 msgstr ""
 "Tabelle mit ``Factor Loadings`` für das definierte CFA-Modell in jamovi"
 
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:179
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:183
 msgid "Table with ``Factor Covariances`` for the specified CFA model in jamovi"
 msgstr ""
@@ -2256,7 +2215,7 @@ msgstr ""
 "die als ``Additional Output`` Option in jamovi angegeben werden (siehe :"
 "numref:`fig-cfa6`)."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:195
 msgid "Table with ``Factor Loadings Modification Indices``"
 msgstr "Tabelle mit den ``Factor Loadings Modification Indices``"
 
@@ -2347,7 +2306,7 @@ msgstr ""
 "dem Modell hinzuzufügen. Und dann können Sie erneut nach dem größten MI in "
 "den neu berechneten Ergebnissen suchen."
 
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
+#: ../../Ch15/Ch15_FactorAnalysis_3.rst:237
 msgid "Table with ``Residual Covariances Modification Indices``"
 msgstr "Tabelle mit den ``Residual Covariances Modification Indices``"
 
@@ -2716,7 +2675,7 @@ msgid "Check other appropriate options, as in :numref:`fig-rel1`."
 msgstr ""
 "Wählen Sie andere geeignete Optionen aus, wie in :numref:`fig-rel1` gezeigt."
 
-#: ../../Ch15/Ch15_FactorAnalysis_4.rst:102
+#: ../../Ch15/Ch15_FactorAnalysis_4.rst:98
 msgid "Settings for conducting a Reliability Analysis"
 msgstr "Einstellungen für das Durchführen einer Reliabilitätsanalyse"
 
@@ -2744,7 +2703,7 @@ msgstr ""
 "ω ist ebenfalls angegeben, und dieser Wert ist 0,74, also nicht viel anders "
 "als α."
 
-#: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
+#: ../../Ch15/Ch15_FactorAnalysis_4.rst:115
 msgid "Results of the Reliability Analysis for Agreeableness"
 msgstr ""
 "Ergebnisse der Reliabilitätsanalyse für Verträglichkeit (*agreeableness*)"

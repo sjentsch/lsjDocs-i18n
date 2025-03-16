@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -110,7 +74,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:24
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:28
 msgid "Latent factor underlying the relationship between observed variables"
 msgstr ""
 
@@ -584,7 +547,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:265
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:269
 msgid "jamovi EFA analysis window"
 msgstr ""
 
@@ -638,7 +600,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:309
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid "Scree plot of the personality data"
 msgstr ""
 
@@ -686,7 +647,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:347
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid "Factor summary statistics and correlations"
 msgstr ""
 
@@ -730,7 +690,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:381
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid "Factor loadings for a five factor solution"
 msgstr ""
 
@@ -820,7 +779,6 @@ msgid "Recode variable using the Transform command in jamovi"
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:453
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable in jamovi"
 msgstr ""
 
@@ -853,7 +811,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:478
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
 
@@ -864,7 +821,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:487
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid "Newly created data file with new factor score variables"
 msgstr ""
 
@@ -890,7 +846,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:509
-#: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid "Gender differences in Agreeableness factor-based scores"
 msgstr ""
 
@@ -1089,7 +1044,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:51
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:55
 msgid "jamovi PCA analysis window"
 msgstr ""
 
@@ -1108,7 +1062,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:67
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:71
 msgid "Assumption checks for the personality item data"
 msgstr ""
 
@@ -1146,7 +1099,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:94
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:98
 msgid "Scree plot of the personality item data"
 msgstr ""
 
@@ -1191,7 +1143,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:131
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid "Component summary statistics and correlations"
 msgstr ""
 
@@ -1229,7 +1180,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:161
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid "Component loadings for a five component solution"
 msgstr ""
 
@@ -1277,7 +1227,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:197
-#: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid "|Rj| editor commands for creating optimally weighted component scores"
 msgstr ""
 
@@ -1321,7 +1270,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:25
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:29
 msgid "Initial pre-specification of latent factor structure"
 msgstr ""
 
@@ -1443,7 +1391,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:108
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:112
 msgid "Settings for conducting a Confirmatory Factor Analysis"
 msgstr ""
 
@@ -1464,7 +1411,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:126
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
 msgid "``Model Fit`` results for the specified CFA model in jamovi"
 msgstr ""
 
@@ -1545,7 +1491,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:195
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid "Table with ``Factor Loadings Modification Indices``"
 msgstr ""
 
@@ -1602,7 +1547,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:237
-#: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
 msgid "Table with ``Residual Covariances Modification Indices``"
 msgstr ""
 
@@ -1836,7 +1780,6 @@ msgid "Check other appropriate options, as in :numref:`fig-rel1`."
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:98
-#: ../../Ch15/Ch15_FactorAnalysis_4.rst:102
 msgid "Settings for conducting a Reliability Analysis"
 msgstr ""
 
@@ -1856,7 +1799,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:115
-#: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
 msgid "Results of the Reliability Analysis for Agreeableness"
 msgstr ""
 
