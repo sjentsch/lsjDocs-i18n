@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -256,7 +220,7 @@ msgstr ""
 "merke til at jeg ikke får nok søvn. Dette er ikke god praksis, men andre "
 "foreldre forteller meg at det er ganske vanlig."
 
-#: ../../Ch12/Ch12_Regression_01.rst:55
+#: ../../Ch12/Ch12_Regression_01.rst:51
 msgid "Histograms for three variables from the |parenthood|_ data set"
 msgstr "Histogrammer for tre variabler fra datasettet |parenthood|_"
 
@@ -300,7 +264,7 @@ msgstr ""
 "sønnen min har sovet, men det vil være mer nyttig å vite hvor mange timer "
 "jeg har sovet."
 
-#: ../../Ch12/Ch12_Regression_01.rst:84
+#: ../../Ch12/Ch12_Regression_01.rst:80
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
@@ -335,7 +299,7 @@ msgstr ""
 "jeg *mer* søvn (positivt forhold, høyre side), men hvis han sover mer, blir "
 "jeg *mindre* gretten (negativt forhold, venstre side)."
 
-#: ../../Ch12/Ch12_Regression_01.rst:105
+#: ../../Ch12/Ch12_Regression_01.rst:101
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
 msgstr "Spredningsdiagrammer mellom baby.sleep til dani.grump og dani.sleep"
 
@@ -377,7 +341,7 @@ msgstr ""
 "du ser på :numref:`fig-corr`, kan du se flere plott som viser hvordan ulike "
 "korrelasjoner ser ut."
 
-#: ../../Ch12/Ch12_Regression_01.rst:130
+#: ../../Ch12/Ch12_Regression_01.rst:126
 msgid "Effect of varying the strength and direction of a correlation"
 msgstr "Effekten av å variere styrken og retningen på en korrelasjon"
 
@@ -518,7 +482,7 @@ msgstr ""
 "continuous| over i boksen til høyre for å få utgaven i :numref:`fig-"
 "correlations`."
 
-#: ../../Ch12/Ch12_Regression_01.rst:197
+#: ../../Ch12/Ch12_Regression_01.rst:193
 msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
 msgstr "jamovi skjermbilde med korrelasjoner i datasettet |parenthood|_"
 
@@ -662,7 +626,7 @@ msgstr "0,7 til 0,9"
 msgid "0.9 to  1.0"
 msgstr "0,9 til 1,0"
 
-#: ../../Ch12/Ch12_Regression_01.rst:259
+#: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
 msgstr "Anscombes kvartett"
 
@@ -806,7 +770,7 @@ msgstr ""
 "enn student 2, så kan vi garantere at student 1 vil få bedre karakter. Det "
 "er ikke det en korrelasjon på *r* = 0,91 sier i det hele tatt."
 
-#: ../../Ch12/Ch12_Regression_01.rst:334
+#: ../../Ch12/Ch12_Regression_01.rst:330
 msgid "relationship between hours worked and grade received"
 msgstr "forholdet mellom arbeidstimer og mottatt karakter"
 
@@ -1082,7 +1046,7 @@ msgstr ""
 "variables``, og dette alternativet legger til en tetthetskurve som viser "
 "hvordan dataene i hver variabel er fordelt."
 
-#: ../../Ch12/Ch12_Regression_02.rst:41
+#: ../../Ch12/Ch12_Regression_02.rst:37 ../../Ch12/Ch12_Regression_02.rst:41
 msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
 msgstr "Spredningsdiagram laget med ``Correlation Matrix``-analysen i jamovi"
 
@@ -1106,7 +1070,7 @@ msgstr ""
 "enn den første måten, se :numref:`fig-scatterplot2`, men den viktige "
 "informasjonen er den samme."
 
-#: ../../Ch12/Ch12_Regression_02.rst:60
+#: ../../Ch12/Ch12_Regression_02.rst:56 ../../Ch12/Ch12_Regression_02.rst:60
 msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
 msgstr "Scatterplot laget med tilleggsmodulen ``scatr`` i jamovi"
 
@@ -1128,7 +1092,7 @@ msgstr ""
 "listen over variabler som skal korreleres, så lager jamovi en scatterplot-"
 "matrise for deg, akkurat som den i :numref:`fig-scatterplot3`."
 
-#: ../../Ch12/Ch12_Regression_02.rst:80
+#: ../../Ch12/Ch12_Regression_02.rst:76
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
 "Matrise av spredningsdiagrammer laget med ``Correlation Matrix``-analysen"
@@ -1190,7 +1154,7 @@ msgstr ""
 "noe lignende det ganske tåpelige plottet som vises i :numref:`fig-"
 "regression1` (høyre panel)."
 
-#: ../../Ch12/Ch12_Regression_03.rst:33
+#: ../../Ch12/Ch12_Regression_03.rst:29
 msgid "Best and poor choice of regression line"
 msgstr "Beste og dårligste valg av regresjonslinje"
 
@@ -1369,7 +1333,7 @@ msgstr ""
 msgid "Estimating a linear regression model"
 msgstr "Estimering av en lineær regresjonsmodell"
 
-#: ../../Ch12/Ch12_Regression_04.rst:12
+#: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr "Residualer forbundet med den beste og den dårligste regresjonslinjen"
 
@@ -1487,7 +1451,7 @@ msgstr ""
 msgid "Linear regression in jamovi"
 msgstr "Lineær regresjon i jamovi"
 
-#: ../../Ch12/Ch12_Regression_04.rst:71
+#: ../../Ch12/Ch12_Regression_04.rst:67 ../../Ch12/Ch12_Regression_04.rst:71
 msgid "jamovi screenshot showing a simple linear regression analysis"
 msgstr "Skjermbilde fra jamovi som viser en enkel lineær regresjonsanalyse"
 
@@ -1739,7 +1703,7 @@ msgstr ""
 "scatter3d_1` et 3D-plott som plotter alle de tre variablene, sammen med "
 "selve regresjonsmodellen."
 
-#: ../../Ch12/Ch12_Regression_05.rst:81
+#: ../../Ch12/Ch12_Regression_05.rst:77
 msgid "3D visualisation of a multiple regression model"
 msgstr "3D-visualisering av en multippel regresjonsmodell"
 
@@ -2449,7 +2413,7 @@ msgstr ""
 "kjøre regresjonen. Hvis vi gjør det, som i :numref:`fig-reg2`, får vi en hel "
 "haug med nyttig output."
 
-#: ../../Ch12/Ch12_Regression_07.rst:149
+#: ../../Ch12/Ch12_Regression_07.rst:145
 msgid "jamovi screenshot showing a multiple linear regression"
 msgstr "jamovi skjermbilde som viser en multippel lineær regresjon"
 
@@ -2755,7 +2719,7 @@ msgstr ""
 "estimate`` i ``Model Coefficients``-alternativene, se resultatene i :numref:"
 "`fig-reg3`."
 
-#: ../../Ch12/Ch12_Regression_09.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:98
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr "Standardiserte koeffisienter med 95\\%-konfidensintervall"
 
@@ -3220,7 +3184,7 @@ msgstr ""
 "det er en outlier, er ofte en god grunn til å se nærmere på det aktuelle "
 "tilfellet og prøve å finne ut hvorfor det er så annerledes."
 
-#: ../../Ch12/Ch12_Regression_11.rst:157
+#: ../../Ch12/Ch12_Regression_11.rst:153
 msgid "Outliers and their effect"
 msgstr "Uteliggere og effekten av dem"
 
@@ -3241,7 +3205,7 @@ msgstr ""
 "men ikke på prediktoren (x-aksens plassering), og ligger langt fra "
 "regresjonslinjen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:173
+#: ../../Ch12/Ch12_Regression_11.rst:169
 msgid "High leverage points and their effect"
 msgstr "Høye innflytelsespunkter og deres effekt"
 
@@ -3303,7 +3267,7 @@ msgstr ""
 "er mye mindre sannsynlig at de gir grunn til bekymring, med mindre de også "
 "er ekstremverdier."
 
-#: ../../Ch12/Ch12_Regression_11.rst:205
+#: ../../Ch12/Ch12_Regression_11.rst:201
 msgid "High influence points and their effect"
 msgstr "Høye innflytelsespunkter og deres effekt"
 
@@ -3392,7 +3356,7 @@ msgstr ""
 "brukt som eksempel i dette kapittelet, får du resultatene som vist i :numref:"
 "`fig-reg4`\\."
 
-#: ../../Ch12/Ch12_Regression_11.rst:247
+#: ../../Ch12/Ch12_Regression_11.rst:243 ../../Ch12/Ch12_Regression_11.rst:247
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr "Utgave fra jamovi som viser tabellen for Cook's avstandsstatistikk"
 
@@ -3463,7 +3427,7 @@ msgstr ""
 "standardiserte residuene som en funksjon av de teoretiske kvantilene i "
 "henhold til regresjonsmodellen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:289
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
 msgstr "Kvantiler i henhold til modellen mot standardiserte residuer"
 
@@ -3499,7 +3463,7 @@ msgstr ""
 "plottet. Det kan være en liten ujevnhet i det høyre panelet, men det er ikke "
 "et stort avvik og sannsynligvis ikke verdt å bekymre seg for."
 
-#: ../../Ch12/Ch12_Regression_11.rst:311
+#: ../../Ch12/Ch12_Regression_11.rst:307 ../../Ch12/Ch12_Regression_11.rst:311
 msgid "Residuals plots produced in jamovi"
 msgstr "Restplott produsert i jamovi"
 
@@ -3640,7 +3604,7 @@ msgstr ""
 "regresjonen, som i :numref:`fig-reg7`, og du kan se fra VIF-verdiene at, "
 "jepp, det er en veldig fin kollinearitet der."
 
-#: ../../Ch12/Ch12_Regression_11.rst:394
+#: ../../Ch12/Ch12_Regression_11.rst:390 ../../Ch12/Ch12_Regression_11.rst:394
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr "Kollinearitetsstatistikk for multippel regresjon, produsert i jamovi"
 
@@ -4133,7 +4097,7 @@ msgstr ""
 "i henhold til modell M\\ :sub:`1`, og *ŷ*\\ :sub:`i`\\ :sup:`(2)` er den "
 "tilpassede verdien for *y*\\ :sub:`i` i henhold til modell M\\ :sub:`2`."
 
-#: ../../Ch12/Ch12_Regression_12.rst:223
+#: ../../Ch12/Ch12_Regression_12.rst:219 ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ``Model Builder`` option"
 msgstr ""
 "Sammenligning av modeller i jamovi ved hjelp av alternativet ``Model "

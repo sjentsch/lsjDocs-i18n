@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
+"POT-Creation-Date: 2025-03-16 17:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -232,7 +187,7 @@ msgid ""
 "parents tell me that it’s pretty standard."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:51 ../../Ch12/Ch12_Regression_01.rst:55
+#: ../../Ch12/Ch12_Regression_01.rst:51
 msgid "Histograms for three variables from the |parenthood|_ data set"
 msgstr ""
 
@@ -262,7 +217,7 @@ msgid ""
 "it’d be more helpful to know how many hours I slept."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:80 ../../Ch12/Ch12_Regression_01.rst:84
+#: ../../Ch12/Ch12_Regression_01.rst:80
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
@@ -285,7 +240,7 @@ msgid ""
 "*less* grumpy (negative relationship, left hand side)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:101 ../../Ch12/Ch12_Regression_01.rst:105
+#: ../../Ch12/Ch12_Regression_01.rst:101
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
 msgstr ""
 
@@ -314,7 +269,7 @@ msgid ""
 "correlations look like."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:126 ../../Ch12/Ch12_Regression_01.rst:130
+#: ../../Ch12/Ch12_Regression_01.rst:126
 msgid "Effect of varying the strength and direction of a correlation"
 msgstr ""
 
@@ -413,7 +368,7 @@ msgid ""
 "in :numref:`fig-correlations`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:193 ../../Ch12/Ch12_Regression_01.rst:197
+#: ../../Ch12/Ch12_Regression_01.rst:193
 msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
 msgstr ""
 
@@ -537,7 +492,7 @@ msgstr ""
 msgid "0.9 to  1.0"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:255 ../../Ch12/Ch12_Regression_01.rst:259
+#: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
 msgstr ""
 
@@ -627,7 +582,7 @@ msgid ""
 "*r* = 0.91 says at all."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_01.rst:330 ../../Ch12/Ch12_Regression_01.rst:334
+#: ../../Ch12/Ch12_Regression_01.rst:330
 msgid "relationship between hours worked and grade received"
 msgstr ""
 
@@ -866,7 +821,7 @@ msgid ""
 "scatterplot matrix for you, just like the one in :numref:`fig-scatterplot3`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_02.rst:76 ../../Ch12/Ch12_Regression_02.rst:80
+#: ../../Ch12/Ch12_Regression_02.rst:76
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
 
@@ -907,7 +862,7 @@ msgid ""
 "regression1` (right panel)."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_03.rst:29 ../../Ch12/Ch12_Regression_03.rst:33
+#: ../../Ch12/Ch12_Regression_03.rst:29
 msgid "Best and poor choice of regression line"
 msgstr ""
 
@@ -1027,7 +982,7 @@ msgstr ""
 msgid "Estimating a linear regression model"
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_04.rst:8 ../../Ch12/Ch12_Regression_04.rst:12
+#: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr ""
 
@@ -1281,7 +1236,7 @@ msgid ""
 "plot that plots all three variables, along with the regression model itself."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_05.rst:77 ../../Ch12/Ch12_Regression_05.rst:81
+#: ../../Ch12/Ch12_Regression_05.rst:77
 msgid "3D visualisation of a multiple regression model"
 msgstr ""
 
@@ -1779,7 +1734,7 @@ msgid ""
 "bunch of useful output."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_07.rst:145 ../../Ch12/Ch12_Regression_07.rst:149
+#: ../../Ch12/Ch12_Regression_07.rst:145
 msgid "jamovi screenshot showing a multiple linear regression"
 msgstr ""
 
@@ -1977,7 +1932,7 @@ msgid ""
 "``Model Coefficients`` options, see results in :numref:`fig-reg3`."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_09.rst:98 ../../Ch12/Ch12_Regression_09.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:98
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr ""
 
@@ -2279,7 +2234,7 @@ msgid ""
 "that case and try to find out why it’s so different."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:153 ../../Ch12/Ch12_Regression_11.rst:157
+#: ../../Ch12/Ch12_Regression_11.rst:153
 msgid "Outliers and their effect"
 msgstr ""
 
@@ -2293,7 +2248,7 @@ msgid ""
 "predictor (x axis location), and lies a long way from the regression line."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:169 ../../Ch12/Ch12_Regression_11.rst:173
+#: ../../Ch12/Ch12_Regression_11.rst:169
 msgid "High leverage points and their effect"
 msgstr ""
 
@@ -2332,7 +2287,7 @@ msgid ""
 "outliers."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:201 ../../Ch12/Ch12_Regression_11.rst:205
+#: ../../Ch12/Ch12_Regression_11.rst:201
 msgid "High influence points and their effect"
 msgstr ""
 
@@ -2439,7 +2394,7 @@ msgid ""
 "the regression model."
 msgstr ""
 
-#: ../../Ch12/Ch12_Regression_11.rst:285 ../../Ch12/Ch12_Regression_11.rst:289
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
 msgstr ""
 

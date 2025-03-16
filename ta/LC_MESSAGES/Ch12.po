@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 13:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch12/ta/>\n"
@@ -251,7 +215,7 @@ msgstr ""
 "வரவில்லை என்பதையும் கவனியுங்கள். இது நல்ல நடைமுறை அல்ல, ஆனால் மற்ற பெற்றோர்கள் இது "
 "மிகவும் தரமானதாக என்னிடம் கூறுகிறார்கள்."
 
-#: ../../Ch12/Ch12_Regression_01.rst:55
+#: ../../Ch12/Ch12_Regression_01.rst:51
 msgid "Histograms for three variables from the |parenthood|_ data set"
 msgstr "| பெற்றோர்உட் | _ தரவு தொகுப்பிலிருந்து மூன்று மாறிகளுக்கான இச்டோகிராம்கள்"
 
@@ -291,7 +255,7 @@ msgstr ""
 "உதவுகிறது, ஆனால் நான் எத்தனை மணிநேரம் தூங்கினேன் என்பதை அறிய இது மிகவும் உதவியாக "
 "இருக்கும்."
 
-#: ../../Ch12/Ch12_Regression_01.rst:84
+#: ../../Ch12/Ch12_Regression_01.rst:80
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
@@ -323,7 +287,7 @@ msgstr ""
 "ஆனால் அவர் அதிகமாக தூங்கினால், நான் * குறைவான * எரிச்சலான (எதிர்மறை உறவு, இடது கை "
 "பக்கமாக) பெறுகிறேன்."
 
-#: ../../Ch12/Ch12_Regression_01.rst:105
+#: ../../Ch12/Ch12_Regression_01.rst:101
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
 msgstr "பேபி"
 
@@ -361,7 +325,7 @@ msgstr ""
 "இல்லை. நீங்கள் பார்த்தால்: NumRef: `Fig-corr`, வெவ்வேறு தொடர்புகள் எப்படி இருக்கும் "
 "என்பதைக் காட்டும் பல அடுக்குகளை நீங்கள் காணலாம்."
 
-#: ../../Ch12/Ch12_Regression_01.rst:130
+#: ../../Ch12/Ch12_Regression_01.rst:126
 msgid "Effect of varying the strength and direction of a correlation"
 msgstr "ஒரு தொடர்பின் வலிமை மற்றும் திசையை மாற்றுவதன் விளைவு"
 
@@ -495,7 +459,7 @@ msgstr ""
 "தொடர்புகளைக் கணக்கிடலாம். நான்கு தொடர்ச்சியான மாறிகள் இடமாற்றம் | தொடர்ச்சியான | "
 "வெளியீட்டைப் பெற வலதுபுறத்தில் உள்ள பெட்டியில்: எண்ரெஃப்: `அத்தி-தொடர்புகள்`."
 
-#: ../../Ch12/Ch12_Regression_01.rst:197
+#: ../../Ch12/Ch12_Regression_01.rst:193
 msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
 msgstr "| பெற்றோர்ஊட் | _ தரவு தொகுப்பில் உள்ள தொடர்புகளுடன் சாமோவி திரை காட்சி"
 
@@ -638,7 +602,7 @@ msgstr "0.7 முதல் 0.9 வரை"
 msgid "0.9 to  1.0"
 msgstr "0.9 முதல் 1.0 வரை"
 
-#: ../../Ch12/Ch12_Regression_01.rst:259
+#: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
 msgstr "அன்ச்காம்பின் குவார்டெட்"
 
@@ -780,7 +744,7 @@ msgstr ""
 "மணிநேரம் வேலை செய்தால், மாணவர் 1 சிறந்த தரத்தைப் பெறுவார் என்று நாங்கள் பொறுப்பு அளிக்க "
 "முடியும். * R * = 0.91 இன் தொடர்பு எதுவும் சொல்லவில்லை."
 
-#: ../../Ch12/Ch12_Regression_01.rst:334
+#: ../../Ch12/Ch12_Regression_01.rst:330
 msgid "relationship between hours worked and grade received"
 msgstr "வேலை செய்த மணிநேரங்களுக்கும் பெறப்பட்ட தரத்திற்கும் இடையிலான உறவு"
 
@@ -1052,7 +1016,7 @@ msgstr ""
 "மாறியிலும் தரவு எவ்வாறு விநியோகிக்கப்படுகிறது என்பதைக் காட்டும் அடர்த்தி வளைவைச் "
 "சேர்க்கிறது."
 
-#: ../../Ch12/Ch12_Regression_02.rst:41
+#: ../../Ch12/Ch12_Regression_02.rst:37 ../../Ch12/Ch12_Regression_02.rst:41
 msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
 msgstr "சமோவியில் `` தொடர்பு மேட்ரிக்ச்` பகுப்பாய்வு மூலம் சிதறல் பிளாட் உருவாக்கப்பட்டது"
 
@@ -1075,7 +1039,7 @@ msgstr ""
 "சூழ்ச்சி முதல் வழியை விட சற்று வித்தியாசமானது, காண்க: NUMREF: `Fig-scaterplot2`, "
 "ஆனால் முக்கியமான தகவல்கள் ஒன்றே."
 
-#: ../../Ch12/Ch12_Regression_02.rst:60
+#: ../../Ch12/Ch12_Regression_02.rst:56 ../../Ch12/Ch12_Regression_02.rst:60
 msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
 msgstr "சமோவியில் `` ச்காட்` `கூடுதல் தொகுதி மூலம் சிதறடிக்கப்பட்டது"
 
@@ -1097,7 +1061,7 @@ msgstr ""
 "தொடர்புபடுத்தப்பட வேண்டிய மாறிகள் பட்டியலில், சமோவி உங்களுக்காக ஒரு சிதறல் மேட்ரிக்சை "
 "உருவாக்குவார், இதைப் போலவே: எண்ரீஃப்: `Fig-scatterplot3`."
 
-#: ../../Ch12/Ch12_Regression_02.rst:80
+#: ../../Ch12/Ch12_Regression_02.rst:76
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr "`` தொடர்பு மேட்ரிக்ச்`` பகுப்பாய்வு மூலம் உருவாக்கப்பட்ட சிதறல்களின் அணி"
 
@@ -1154,7 +1118,7 @@ msgstr ""
 "தரவின் நடுவில் செல்கிறது என்பதைக் கவனியுங்கள். காட்டப்பட்டுள்ள வேடிக்கையான சூழ்ச்சி போன்ற "
 "எதையும் நாம் கற்பனை செய்வதைக் காணவில்லை: NumRef: `Fig-regreaction1` (வலது குழு)."
 
-#: ../../Ch12/Ch12_Regression_03.rst:33
+#: ../../Ch12/Ch12_Regression_03.rst:29
 msgid "Best and poor choice of regression line"
 msgstr "பின்னடைவு வரியின் சிறந்த மற்றும் மோசமான தேர்வு"
 
@@ -1325,7 +1289,7 @@ msgstr ""
 msgid "Estimating a linear regression model"
 msgstr "ஒரு நேரியல் பின்னடைவு மாதிரியை மதிப்பிடுதல்"
 
-#: ../../Ch12/Ch12_Regression_04.rst:12
+#: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr "சிறந்த மற்றும் மோசமான பின்னடைவு வரியுடன் தொடர்புடைய எச்சங்கள்"
 
@@ -1437,7 +1401,7 @@ msgstr ""
 msgid "Linear regression in jamovi"
 msgstr "சமோவியில் நேரியல் பின்னடைவு"
 
-#: ../../Ch12/Ch12_Regression_04.rst:71
+#: ../../Ch12/Ch12_Regression_04.rst:67 ../../Ch12/Ch12_Regression_04.rst:71
 msgid "jamovi screenshot showing a simple linear regression analysis"
 msgstr "எளிய நேரியல் பின்னடைவு பகுப்பாய்வைக் காட்டும் சாமோவி திரைக்காட்சி"
 
@@ -1681,7 +1645,7 @@ msgstr ""
 "புரிந்துகொள்ள, NUMREF: `Fig-scatter3d_1` ஒரு 3D சதித்திட்டத்தைக் காட்டுகிறது, இது "
 "மூன்று மாறிகள் பின்னடைவு மாதிரியுடன்."
 
-#: ../../Ch12/Ch12_Regression_05.rst:81
+#: ../../Ch12/Ch12_Regression_05.rst:77
 msgid "3D visualisation of a multiple regression model"
 msgstr "பல பின்னடைவு மாதிரியின் 3D காட்சிப்படுத்தல்"
 
@@ -2382,7 +2346,7 @@ msgstr ""
 "வேண்டும். நாம் அதைச் செய்தால், உள்ளதைப் போல: NumRef: `Fig-reg2`, பயனுள்ள வெளியீட்டின் "
 "முழுவதையும் நாங்கள் பெறுகிறோம்."
 
-#: ../../Ch12/Ch12_Regression_07.rst:149
+#: ../../Ch12/Ch12_Regression_07.rst:145
 msgid "jamovi screenshot showing a multiple linear regression"
 msgstr "சாமோவி திரைக்காட்சி பல நேரியல் பின்னடைவைக் காட்டுகிறது"
 
@@ -2682,7 +2646,7 @@ msgstr ""
 "மதிப்பீட்டை` தேர்வுப்பெட்டியைப் பயன்படுத்தி உங்களுக்கான β குணகங்களைக் கணக்கிடும் ஒரு "
 "விருப்பத்தை சாமோவிக்கு கொண்டுள்ளது, முடிவுகளைப் பார்க்கவும்: எண்ரெஃப்: `Fig-reg3`."
 
-#: ../../Ch12/Ch12_Regression_09.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:98
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr "95 \\% நம்பிக்கை இடைவெளிகளுடன் தரப்படுத்தப்பட்ட குணகங்கள்"
 
@@ -3135,7 +3099,7 @@ msgstr ""
 "மிகவும் நெருக்கமாகப் பார்த்து, அது ஏன் மிகவும் வித்தியாசமானது என்பதைக் கண்டுபிடிக்க "
 "முயற்சிப்பது பெரும்பாலும் ஒரு குறிப்பாகும்."
 
-#: ../../Ch12/Ch12_Regression_11.rst:157
+#: ../../Ch12/Ch12_Regression_11.rst:153
 msgid "Outliers and their effect"
 msgstr "வெளிநாட்டவர்கள் மற்றும் அவற்றின் விளைவு"
 
@@ -3155,7 +3119,7 @@ msgstr ""
 "மதிப்பைக் கொண்டுள்ளது, ஆனால் முன்கணிப்பு (x அச்சு இருப்பிடம்) அல்ல, மேலும் பின்னடைவு "
 "வரியிலிருந்து நீண்ட தூரம் உள்ளது."
 
-#: ../../Ch12/Ch12_Regression_11.rst:173
+#: ../../Ch12/Ch12_Regression_11.rst:169
 msgid "High leverage points and their effect"
 msgstr "அதிக அந்நிய புள்ளிகள் மற்றும் அவற்றின் விளைவு"
 
@@ -3216,7 +3180,7 @@ msgstr ""
 "ஆனால் அவை வெளிநாட்டவர்களாக இல்லாவிட்டால் அவை கவலைக்கு ஒரு காரணமாக இருப்பதற்கான "
 "வாய்ப்புகள் மிகக் குறைவு."
 
-#: ../../Ch12/Ch12_Regression_11.rst:205
+#: ../../Ch12/Ch12_Regression_11.rst:201
 msgid "High influence points and their effect"
 msgstr "அதிக செல்வாக்கு புள்ளிகள் மற்றும் அவற்றின் விளைவு"
 
@@ -3303,7 +3267,7 @@ msgstr ""
 "எனப் பயன்படுத்திக் கொண்டிருக்கும் பல பின்னடைவு மாதிரிக்கு, காட்டப்பட்டுள்ளபடி முடிவுகளைப் "
 "பெறுவீர்கள்: numref: `fig-reg4` \\."
 
-#: ../../Ch12/Ch12_Regression_11.rst:247
+#: ../../Ch12/Ch12_Regression_11.rst:243 ../../Ch12/Ch12_Regression_11.rst:247
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr "குக்கின் தூர புள்ளிவிவரங்களுக்கான அட்டவணையைக் காட்டும் சாமோவி வெளியீடு"
 
@@ -3372,7 +3336,7 @@ msgstr ""
 "அவற்றின் தத்துவார்த்த அளவுகளின் செயல்பாடாக திட்டமிடப்பட்ட தரப்படுத்தப்பட்ட எச்சங்களை "
 "காட்டுகிறது."
 
-#: ../../Ch12/Ch12_Regression_11.rst:289
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
 msgstr "தரப்படுத்தப்பட்ட எச்சங்களுக்கு எதிரான மாதிரியின் படி அளவுகள்"
 
@@ -3407,7 +3371,7 @@ msgstr ""
 "வலது பேனலில் சீரான தன்மை இல்லாதது கொஞ்சம் இருக்கலாம், ஆனால் இது ஒரு வலுவான விலகல் அல்ல, "
 "அதைப் பற்றி கவலைப்படத் தகுதியற்றது."
 
-#: ../../Ch12/Ch12_Regression_11.rst:311
+#: ../../Ch12/Ch12_Regression_11.rst:307 ../../Ch12/Ch12_Regression_11.rst:311
 msgid "Residuals plots produced in jamovi"
 msgstr "சமோவியில் விளைவாக்கம் செய்யப்படும் எஞ்சிய இடங்கள்"
 
@@ -3546,7 +3510,7 @@ msgstr ""
 "NumRef: `Fig-reg7` மற்றும் VIF மதிப்புகளிலிருந்து நீங்கள் காணலாம், ஆமாம், அது அங்கு "
 "சில சிறந்த கூட்டுறவு."
 
-#: ../../Ch12/Ch12_Regression_11.rst:394
+#: ../../Ch12/Ch12_Regression_11.rst:390 ../../Ch12/Ch12_Regression_11.rst:394
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr "பல பின்னடைவுகளுக்கான கொலினரிட்டி புள்ளிவிவரங்கள், சாமோவியில் தயாரிக்கப்படுகின்றன"
 
@@ -4029,7 +3993,7 @@ msgstr ""
 "மற்றும் *ŷ *ஆகியவற்றின் பொருத்தப்பட்ட மதிப்பு \\: துணை: `i` i: sup:` (2) `என்பது *y "
 "*\\: துணை:` நான் மாதிரி M \\: துணை: `2` என்பதற்கு பொருத்தப்பட்ட மதிப்பு."
 
-#: ../../Ch12/Ch12_Regression_12.rst:223
+#: ../../Ch12/Ch12_Regression_12.rst:219 ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ``Model Builder`` option"
 msgstr "`` மாதிரி பில்டர்`` விருப்பத்தைப் பயன்படுத்தி சாமோவியில் மாதிரி ஒப்பீடு"
 

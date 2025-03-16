@@ -1,54 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 17:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch12/de/"
@@ -267,7 +222,7 @@ msgstr ""
 "Beachten Sie auch, dass ich nicht genug Schlaf bekomme. Das ist nicht "
 "empfehlenswert, aber andere Eltern sagen mir, dass das ziemlich normal ist."
 
-#: ../../Ch12/Ch12_Regression_01.rst:55
+#: ../../Ch12/Ch12_Regression_01.rst:51
 msgid "Histograms for three variables from the |parenthood|_ data set"
 msgstr "Histogramme für drei Variablen aus dem Datensatz |parenthood|"
 
@@ -314,7 +269,7 @@ msgstr ""
 "Stunden mein Sohn geschlafen hat. Es ist stattdessen hilfreicher, wenn Sie "
 "wissen, wie viele Stunden ich geschlafen habe."
 
-#: ../../Ch12/Ch12_Regression_01.rst:84
+#: ../../Ch12/Ch12_Regression_01.rst:80
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
@@ -349,7 +304,7 @@ msgstr ""
 "Gleichzeitig bin ich *weniger* schlecht gelaunt, wenn er mehr schläft "
 "(negative Beziehung, links)."
 
-#: ../../Ch12/Ch12_Regression_01.rst:105
+#: ../../Ch12/Ch12_Regression_01.rst:101
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
 msgstr ""
 "Streudiagramme zwischen ``baby.sleep`` zu ``dani.grump`` bzw. ``dani.sleep``"
@@ -393,7 +348,7 @@ msgstr ""
 "numref:`fig-corr` finden Sie mehrere Diagramme, die zeigen, wie die "
 "verschiedenen Korrelationen aussehen können."
 
-#: ../../Ch12/Ch12_Regression_01.rst:130
+#: ../../Ch12/Ch12_Regression_01.rst:126
 msgid "Effect of varying the strength and direction of a correlation"
 msgstr "Auswirkung der Variation von Stärke und Richtung einer Korrelation"
 
@@ -541,7 +496,7 @@ msgstr ""
 "vier kontinuierlichen Variablen |continuous| in das Feld auf der rechten "
 "Seite, um die Ausgabe in :numref:`fig-correlations` zu erhalten."
 
-#: ../../Ch12/Ch12_Regression_01.rst:197
+#: ../../Ch12/Ch12_Regression_01.rst:193
 msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
 msgstr "jamovi-Screenshot mit Korrelationen aus dem Datensatz |parenthood|"
 
@@ -687,7 +642,7 @@ msgstr "0,7 bis 0,9"
 msgid "0.9 to  1.0"
 msgstr "0,9 bis 1,0"
 
-#: ../../Ch12/Ch12_Regression_01.rst:259
+#: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
 msgstr "Anscombes Quartett"
 
@@ -838,7 +793,7 @@ msgstr ""
 "können wir garantieren, dass Student 1 die bessere Note erhält. Das sagt "
 "eine Korrelation von *r* = 0,91 aber überhaupt nicht aus."
 
-#: ../../Ch12/Ch12_Regression_01.rst:334
+#: ../../Ch12/Ch12_Regression_01.rst:330
 msgid "relationship between hours worked and grade received"
 msgstr ""
 "Verhältnis zwischen dem geleisteten Arbeitseinsatz (in h) und der erhaltenen "
@@ -1124,7 +1079,7 @@ msgstr ""
 "auch ``Densities for variables`` angeben. Diese Option fügt eine Dichtekurve "
 "hinzu, die zeigt, wie die Daten jeder einzelnen Variablen verteilt sind."
 
-#: ../../Ch12/Ch12_Regression_02.rst:41
+#: ../../Ch12/Ch12_Regression_02.rst:37 ../../Ch12/Ch12_Regression_02.rst:41
 msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
 msgstr ""
 "Streudiagramm erstellt mit der Analyse ``Correlation Matrix`` in jamovi"
@@ -1150,7 +1105,7 @@ msgstr ""
 "Darstellung ist etwas anders als die erste, siehe :numref:`fig-"
 "scatterplot2`, aber die zentralen Informationen sind dieselben."
 
-#: ../../Ch12/Ch12_Regression_02.rst:60
+#: ../../Ch12/Ch12_Regression_02.rst:56 ../../Ch12/Ch12_Regression_02.rst:60
 msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
 msgstr "Scatterplot erstellt mit dem ``scatr``-Zusatzmodul in jamovi"
 
@@ -1173,7 +1128,7 @@ msgstr ""
 "Variablen hinzu, und jamovi erstellt für Sie eine Streudiagramm-Matrix, "
 "genau wie die in :numref:`fig-scatterplot3`."
 
-#: ../../Ch12/Ch12_Regression_02.rst:80
+#: ../../Ch12/Ch12_Regression_02.rst:76
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
 "Matrix von Streudiagrammen, die mit der Analyse ``Correlation Matrix`` "
@@ -1238,7 +1193,7 @@ msgstr ""
 "Regressionsgerade durch die Mitte der Daten. Wir stellen uns nicht so etwas "
 "vor wie das ziemlich alberne Diagramm in :numref:`fig-regression1` (rechts)."
 
-#: ../../Ch12/Ch12_Regression_03.rst:33
+#: ../../Ch12/Ch12_Regression_03.rst:29
 msgid "Best and poor choice of regression line"
 msgstr "Beste und schlechte Wahl der Regressionsgeraden"
 
@@ -1422,7 +1377,7 @@ msgstr ""
 msgid "Estimating a linear regression model"
 msgstr "Schätzen eines linearen Regressionsmodells"
 
-#: ../../Ch12/Ch12_Regression_04.rst:12
+#: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
 msgstr ""
 "Residuen in Verbindung mit der besten und der schlechtesten Regressionsgerade"
@@ -1544,7 +1499,7 @@ msgstr ""
 msgid "Linear regression in jamovi"
 msgstr "Lineare Regression in jamovi"
 
-#: ../../Ch12/Ch12_Regression_04.rst:71
+#: ../../Ch12/Ch12_Regression_04.rst:67 ../../Ch12/Ch12_Regression_04.rst:71
 msgid "jamovi screenshot showing a simple linear regression analysis"
 msgstr "jamovi-Screenshot mit einer einfachen linearen Regressionsanalyse"
 
@@ -1807,7 +1762,7 @@ msgstr ""
 "in dem alle drei Variablen sowie das Regressionsmodell selbst dargestellt "
 "sind."
 
-#: ../../Ch12/Ch12_Regression_05.rst:81
+#: ../../Ch12/Ch12_Regression_05.rst:77
 msgid "3D visualisation of a multiple regression model"
 msgstr "3D-Visualisierung eines multiplen Regressionsmodells"
 
@@ -2544,7 +2499,7 @@ msgstr ""
 "gesetzt sind, und dann die Regression ausführen. Wenn wir das tun, wie in :"
 "numref:`fig-reg2` gezeigt, erhalten wir eine ganze Reihe nützlicher Ausgaben."
 
-#: ../../Ch12/Ch12_Regression_07.rst:149
+#: ../../Ch12/Ch12_Regression_07.rst:145
 msgid "jamovi screenshot showing a multiple linear regression"
 msgstr "jamovi-Screenshot mit einer multiplen linearen Regressionsanalyse"
 
@@ -2862,7 +2817,7 @@ msgstr ""
 "estimate``-Checkbox in den Optionen ``Model Coefficients``, und sie erhalten "
 "die Ergebnisausgabe in :numref:`fig-reg3`."
 
-#: ../../Ch12/Ch12_Regression_09.rst:102
+#: ../../Ch12/Ch12_Regression_09.rst:98
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr "Standardisierte Koeffizienten mit 95\\%-Konfidenzintervallen"
 
@@ -3350,7 +3305,7 @@ msgstr ""
 "ein Hinweis, sich diesen Fall genauer anzusehen und herauszufinden, warum er "
 "sich so stark von den übrigen Fällen unterscheidet."
 
-#: ../../Ch12/Ch12_Regression_11.rst:157
+#: ../../Ch12/Ch12_Regression_11.rst:153
 msgid "Outliers and their effect"
 msgstr "Ausreißer und ihre Wirkung"
 
@@ -3371,7 +3326,7 @@ msgstr ""
 "Ergebnis (Position auf der Y-Achse), aber nicht für den Prädiktor (Position "
 "auf der X-Achse) und liegt weit von der Regressionsgerade entfernt."
 
-#: ../../Ch12/Ch12_Regression_11.rst:173
+#: ../../Ch12/Ch12_Regression_11.rst:169
 msgid "High leverage points and their effect"
 msgstr "Hebelpunkte und ihre Wirkung"
 
@@ -3436,7 +3391,7 @@ msgstr ""
 "geben viel weniger Anlass zur Sorge, es sei denn, sie sind zusätzlich "
 "Ausreißer."
 
-#: ../../Ch12/Ch12_Regression_11.rst:205
+#: ../../Ch12/Ch12_Regression_11.rst:201
 msgid "High influence points and their effect"
 msgstr "Punkte mit hohem Einfluss und deren Wirkung"
 
@@ -3527,7 +3482,7 @@ msgstr ""
 "Regressionsmodell, das wir in diesem Kapitel als Beispiel verwendet haben, "
 "die Ergebnisse, die in :numref:`fig-reg4`\\ zu sehen sind."
 
-#: ../../Ch12/Ch12_Regression_11.rst:247
+#: ../../Ch12/Ch12_Regression_11.rst:243 ../../Ch12/Ch12_Regression_11.rst:247
 msgid "jamovi output showing the table for the Cook’s distance statistics"
 msgstr "jamovi-Ausgabe mit einer Tabelle mit der Cook-Distanz-Statistik"
 
@@ -3601,7 +3556,7 @@ msgstr ""
 "Residuen als Funktion ihrer theoretischen Quantile gemäß dem "
 "Regressionsmodell."
 
-#: ../../Ch12/Ch12_Regression_11.rst:289
+#: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
 msgstr "Quantile entsprechend dem Modell vs. die standardisierten Residuen"
 
@@ -3640,7 +3595,7 @@ msgstr ""
 "Seite geben, aber dies ist nicht besonders ausgeprägt und wahrscheinlich "
 "nicht wert, sich Sorgen zu machen."
 
-#: ../../Ch12/Ch12_Regression_11.rst:311
+#: ../../Ch12/Ch12_Regression_11.rst:307 ../../Ch12/Ch12_Regression_11.rst:311
 msgid "Residuals plots produced in jamovi"
 msgstr "Streudiagramme der Residuen, in Jamovi erstellt"
 
@@ -3787,7 +3742,7 @@ msgstr ""
 "aus, wie in :numref:`fig-reg7` gezeigt, und Sie können anhand der VIF-Werte "
 "sehen, dass eine deutliche Kollinearität vorliegt."
 
-#: ../../Ch12/Ch12_Regression_11.rst:394
+#: ../../Ch12/Ch12_Regression_11.rst:390 ../../Ch12/Ch12_Regression_11.rst:394
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
 msgstr ""
 "Kollinearitätsstatistik für die multiple Regression, erstellt in jamovi"
@@ -4303,7 +4258,7 @@ msgstr ""
 "gemäß Modell M\\ :sub:`1` und *ŷ* ist \\ :sub:`i`\\ :sup:`(2)` ist der "
 "vorhergesagte Wert für *y*\\ :sub:`i` gemäß Modell M\\ :sub:`2`."
 
-#: ../../Ch12/Ch12_Regression_12.rst:223
+#: ../../Ch12/Ch12_Regression_12.rst:219 ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ``Model Builder`` option"
 msgstr "Modellvergleich in jamovi mittels der ``Model Builder``-Option"
 
