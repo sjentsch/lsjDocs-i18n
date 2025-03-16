@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2024-08-13 16:56+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
@@ -253,7 +217,7 @@ msgstr ""
 "`fig-zeppo`. Det er ikke helt opplagt hva som er det riktige svaret, er det "
 "vel? Til dette trenger vi litt statistikk."
 
-#: ../../Ch11/Ch11_tTest_01.rst:60
+#: ../../Ch11/Ch11_tTest_01.rst:56
 msgid "Theoretical and empirical distribution of student grades"
 msgstr "Teoretisk og empirisk fordeling av studentkarakterer"
 
@@ -337,7 +301,7 @@ msgstr ""
 "berettigede eller uberettigede, kan det hende vi må sjekke dem. Inntil "
 "videre holder vi det enkelt."
 
-#: ../../Ch11/Ch11_tTest_01.rst:105
+#: ../../Ch11/Ch11_tTest_01.rst:101
 msgid ""
 "One-sample *z*-test: Illustration of the null and alternative hypotheses"
 msgstr ""
@@ -603,7 +567,7 @@ msgstr ""
 "Det betydde i sin tur at forskerne kunne regne ut *z*-statistikken for hånd "
 "og deretter slå opp den kritiske verdien i en lærebok."
 
-#: ../../Ch11/Ch11_tTest_01.rst:213
+#: ../../Ch11/Ch11_tTest_01.rst:209
 msgid "Rejection regions for the two- and one-sided *z*-tests"
 msgstr "Avvisningsregioner for tosidige og ensidige *z*-tester"
 
@@ -850,7 +814,7 @@ msgstr ""
 "forutsetning av σ = 11, ville resultatet ende opp med å bli *ikke-"
 "signifikant*. Det er et problem, og det er noe vi må ta tak i."
 
-#: ../../Ch11/Ch11_tTest_02.rst:40
+#: ../../Ch11/Ch11_tTest_02.rst:36
 msgid ""
 "Illustration: Null and alternative hypotheses by the one-sample *t*-test"
 msgstr ""
@@ -947,7 +911,7 @@ msgstr ""
 "for store *N* ville *t*-testen oppføre seg nøyaktig på samme måte som en *z*-"
 "test. Og det er akkurat det som skjer!"
 
-#: ../../Ch11/Ch11_tTest_02.rst:88
+#: ../../Ch11/Ch11_tTest_02.rst:84
 msgid "*t*-distribution with *df* = 2 and *df* = 10"
 msgstr "*t*-fordeling med *df* = 2 og *df* = 10"
 
@@ -1013,7 +977,7 @@ msgstr ""
 "nok (se :numref:`fig-ttest_one`, som blant annet gir deg en *t*-statistikk = "
 "2,25, med 19 frihetsgrader og en tilhørende *p*-verdi på 0,036."
 
-#: ../../Ch11/Ch11_tTest_02.rst:126
+#: ../../Ch11/Ch11_tTest_02.rst:122 ../../Ch11/Ch11_tTest_02.rst:126
 msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr "Gjennomføring av en *t*-test med ett utvalg i jamovi"
 
@@ -1316,7 +1280,7 @@ msgstr ""
 "plott som viser gjennomsnittet og tilhørende konfidensintervaller for begge "
 "studentgruppene (:numref:`fig-ttestci`)."
 
-#: ../../Ch11/Ch11_tTest_03.rst:59
+#: ../../Ch11/Ch11_tTest_03.rst:55
 msgid "Histogram with grades in Anastasia’s and Bernadette’s classes"
 msgstr "Histogram med karakterer i Anastasias og Bernadettes klasser"
 
@@ -1332,7 +1296,7 @@ msgstr ""
 "disse på at studentene i Anastasias klasse kanskje får litt bedre karakterer "
 "i gjennomsnitt, selv om de også ser ut til å være litt mer varierende."
 
-#: ../../Ch11/Ch11_tTest_03.rst:70
+#: ../../Ch11/Ch11_tTest_03.rst:66
 msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes"
 msgstr ""
 "Gjennomsnittskarakterer (med feilsøyler) i Anastasias og Bernadettes klasser"
@@ -1415,7 +1379,7 @@ msgstr "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
 msgid "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 
-#: ../../Ch11/Ch11_tTest_03.rst:116
+#: ../../Ch11/Ch11_tTest_03.rst:112
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
 msgstr "Illustrasjon: Null- og alternativhypoteser, uavhengig *t*-test"
 
@@ -1776,7 +1740,7 @@ msgstr ""
 "boksen, og ``tutor``-variabelen over til ``Grouping Variable``-boksen, slik "
 "det vises i :numref:`fig-ttest_ind`."
 
-#: ../../Ch11/Ch11_tTest_03.rst:278
+#: ../../Ch11/Ch11_tTest_03.rst:274
 msgid "Conducting an Independent Samples *t*-test in jamovi"
 msgstr "Gjennomføring av en Independent Samples *t*-test i jamovi"
 
@@ -2205,7 +2169,7 @@ msgstr ""
 "kan spesifiseres som et av ``Independent Samples T-Test``-alternativene i "
 "jamovi, så dette er sannsynligvis det beste stedet å diskutere den."
 
-#: ../../Ch11/Ch11_tTest_04.rst:28
+#: ../../Ch11/Ch11_tTest_04.rst:24
 msgid "Illustration: Null and alternative hypotheses for the Welch *t*-test"
 msgstr "Illustrasjon: Null- og alternativhypoteser for Welch *t*-test"
 
@@ -2334,7 +2298,7 @@ msgstr ""
 "Hvis du krysser av i boksen for ``Welch's`` test i analysen vi gjorde "
 "ovenfor, får du dette :numref:`fig-ttest_welch`:"
 
-#: ../../Ch11/Ch11_tTest_04.rst:88
+#: ../../Ch11/Ch11_tTest_04.rst:84
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
 msgstr ""
 "Resultater som viser Welchs *t*-test sammen med standard Student's *t*-test"
@@ -2510,7 +2474,7 @@ msgstr ""
 "fleste karakterene ligger mellom 50\\% og 60\\%), men det ser ut til at det "
 "er en forbedring fra den første til den andre prøven."
 
-#: ../../Ch11/Ch11_tTest_05.rst:51
+#: ../../Ch11/Ch11_tTest_05.rst:47 ../../Ch11/Ch11_tTest_05.rst:51
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 "Deskriptivstatistikk for de to variablene med eksamenskarakterer i "
@@ -2541,7 +2505,7 @@ msgstr ""
 "konfidensintervallene er, ville vi bli fristet til å tro at den "
 "tilsynelatende forbedringen i studentenes prestasjoner er ren tilfeldighet."
 
-#: ../../Ch11/Ch11_tTest_05.rst:73
+#: ../../Ch11/Ch11_tTest_05.rst:69
 msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr "Gjennomsnittskarakter for prøve 1 og prøve 2 i Dr. Chicos klasse"
 
@@ -2762,7 +2726,7 @@ msgstr ""
 "opprettet en slik variabel som heter ``improvement``, la oss gjøre det og se "
 "hva vi får (se :numref:`fig-ttest_paired2`\\)."
 
-#: ../../Ch11/Ch11_tTest_05.rst:180
+#: ../../Ch11/Ch11_tTest_05.rst:176 ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr "Resultater fra en *t*-test på parvise forskjeller i poengsum"
 
@@ -2794,7 +2758,7 @@ msgstr ""
 "``Paired Samples T-Test``-analysen, og få resultatene som vises i :numref:"
 "`fig-ttest_paired3`."
 
-#: ../../Ch11/Ch11_tTest_05.rst:202
+#: ../../Ch11/Ch11_tTest_05.rst:198
 msgid "Results showing a paired sample *t*-test"
 msgstr "Resultater fra en parvis *t*-test"
 
@@ -2880,7 +2844,7 @@ msgstr ""
 "Test Value`` under ``Hypothesis``. Når du har gjort dette, vil du få "
 "resultatene som vist i :numref:`fig-ttest_onesided1`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:28
+#: ../../Ch11/Ch11_tTest_06.rst:24
 msgid "jamovi results showing a ``One Sample T-Test``"
 msgstr "jamovi-resultater som viser en ``One Sample T-Test``"
 
@@ -2952,7 +2916,7 @@ msgstr ""
 "For denne analysen angir du i ``Hypothesis``-opsjonene at ``Group 1 > Group "
 "2``. Du bør få resultatene som vises i :numref:`fig-ttest_onesided2`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:67
+#: ../../Ch11/Ch11_tTest_06.rst:63
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
 msgstr "Ensidig hypotese i en ``Independent Samples T-Test``"
 
@@ -2994,7 +2958,7 @@ msgstr ""
 "boksen for parede variabler) > ``grade_test1`` (``Measure 2`` i jamovi). Du "
 "bør få resultatene som vises i :numref:`fig-ttest_onesided3`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:93
+#: ../../Ch11/Ch11_tTest_06.rst:89
 msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
 msgstr "Ensidig hypotese i en ``Paired Samples T-Test``"
 
@@ -3418,7 +3382,7 @@ msgstr ""
 msgid "QQ plots"
 msgstr "QQ-plott"
 
-#: ../../Ch11/Ch11_tTest_08.rst:35
+#: ../../Ch11/Ch11_tTest_08.rst:31
 msgid "Histogram and QQ plot for normally-distributed data"
 msgstr "Histogram og QQ-plott for normalfordelte data"
 
@@ -3436,7 +3400,7 @@ msgstr ""
 "0,992, noe som indikerer at det ikke ble oppdaget noen signifikante avvik "
 "fra normalfordeling (*p* = 0,361)."
 
-#: ../../Ch11/Ch11_tTest_08.rst:47
+#: ../../Ch11/Ch11_tTest_08.rst:43
 msgid "Histogram and QQ plot for skewed and tailed data"
 msgstr "Histogram og QQ-plott for skjeve og haleformede data"
 
@@ -3592,7 +3556,7 @@ msgstr ""
 "1, og som en konsekvens av dette trenger ikke *W* for større utvalg å være "
 "veldig mye mindre enn 1 for at testen skal være signifikant."
 
-#: ../../Ch11/Ch11_tTest_08.rst:124
+#: ../../Ch11/Ch11_tTest_08.rst:120
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
 msgstr "Utvalgsfordeling av Shapiro-Wilk W-statistikken"
 
@@ -3649,7 +3613,7 @@ msgstr ""
 "til kapittelet om :doc:`../Ch04/Ch04_Descriptives`, ikke så ut som om de kom "
 "fra en normalfordeling i det hele tatt. Her er hva som skjer med QQ-plottet:"
 
-#: ../../Ch11/Ch11_tTest_08.rst:157
+#: ../../Ch11/Ch11_tTest_08.rst:152
 msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
@@ -3978,7 +3942,7 @@ msgstr ""
 "utvalg, får vi selvfølgelig ikke et annet svar; se :numref:`fig-"
 "ttest_nonparametric`."
 
-#: ../../Ch11/Ch11_tTest_09.rst:116
+#: ../../Ch11/Ch11_tTest_09.rst:112
 msgid "Results for one sample and paired sample Wilcoxon non-parametric tests"
 msgstr ""
 "Resultater for ikke-parametriske Wilcoxon-tester med ett utvalg og parvise "

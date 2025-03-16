@@ -1,45 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 17:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:57+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2024-08-12 22:11+0200\n"
 "PO-Revision-Date: 2025-01-13 13:00+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch11/ta/>\n"
@@ -245,7 +209,7 @@ msgstr ""
 "முற்றிலும் தெளிவாகத் தெரியவில்லை, இல்லையா? இதற்காக, எங்களுக்கு சில புள்ளிவிவரங்கள் "
 "தேவைப்படும்."
 
-#: ../../Ch11/Ch11_tTest_01.rst:60
+#: ../../Ch11/Ch11_tTest_01.rst:56
 msgid "Theoretical and empirical distribution of student grades"
 msgstr "மாணவர் தரங்களின் தத்துவார்த்த மற்றும் அனுபவ வழங்கல்"
 
@@ -326,7 +290,7 @@ msgstr ""
 "இந்த அனுமானங்கள் பொறுப்பு அளிக்கப்படலாம் அல்லது இல்லாமல் இருக்கலாம் என்பதால், அவற்றை நாம் "
 "சரிபார்க்க வேண்டியிருக்கலாம். இப்போதைக்கு, நாங்கள் விசயங்களை எளிமையாக வைத்திருப்போம்."
 
-#: ../../Ch11/Ch11_tTest_01.rst:105
+#: ../../Ch11/Ch11_tTest_01.rst:101
 msgid ""
 "One-sample *z*-test: Illustration of the null and alternative hypotheses"
 msgstr "ஒரு மாதிரி *z *-test: சுழிய மற்றும் மாற்று கருதுகோள்களின் விளக்கம்"
@@ -587,7 +551,7 @@ msgstr ""
 "இதையொட்டி, ஆராய்ச்சியாளர்கள் தங்கள் *z *-புள்ளிவிவரத்தை கையால் கணக்கிட்டு, பின்னர் ஒரு உரை "
 "புத்தகத்தில் முக்கியமான மதிப்பைப் பார்க்க முடியும்."
 
-#: ../../Ch11/Ch11_tTest_01.rst:213
+#: ../../Ch11/Ch11_tTest_01.rst:209
 msgid "Rejection regions for the two- and one-sided *z*-tests"
 msgstr "இரண்டு மற்றும் ஒருதலைப்பட்ச *z *-Tests க்கான நிராகரிப்பு பகுதிகள்"
 
@@ -829,7 +793,7 @@ msgstr ""
 "= 11 என்று கருதி ஓடினோம், இதன் விளைவாக *குறிப்பிடத்தக்கவை அல்ல *. இது ஒரு சிக்கல், "
 "இது நாம் கவனிக்க வேண்டிய ஒன்றாகும்."
 
-#: ../../Ch11/Ch11_tTest_02.rst:40
+#: ../../Ch11/Ch11_tTest_02.rst:36
 msgid ""
 "Illustration: Null and alternative hypotheses by the one-sample *t*-test"
 msgstr "விளக்கம்: ஒரு மாதிரி *t *-test ஆல் சுழிய மற்றும் மாற்று கருதுகோள்கள்"
@@ -922,7 +886,7 @@ msgstr ""
 "“மதிப்பீடு” மிகவும் சரியானதாக இருக்கும், இல்லையா? எனவே, பெரிய *n *க்கு, *t *-test "
 "ஒரு *z *-test ஐப் போலவே செயல்படும் என்று நீங்கள் எதிர்பார்க்க வேண்டும். அதுதான் நடக்கும்!"
 
-#: ../../Ch11/Ch11_tTest_02.rst:88
+#: ../../Ch11/Ch11_tTest_02.rst:84
 msgid "*t*-distribution with *df* = 2 and *df* = 10"
 msgstr "*t*-*df*= 2 மற்றும்*df*= 10 உடன் விநியோகித்தல்"
 
@@ -986,7 +950,7 @@ msgstr ""
 "உங்களுக்கு ஒரு *t *புள்ளிவிவர = 2.25, 19 டிகிரி விடுதலை மற்றும் அதனுடன் தொடர்புடைய "
 "*p *-மதிப்பு 0.036."
 
-#: ../../Ch11/Ch11_tTest_02.rst:126
+#: ../../Ch11/Ch11_tTest_02.rst:122 ../../Ch11/Ch11_tTest_02.rst:126
 msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr "சாமோவியில் ஒரு மாதிரி *t *-test ஐ நடத்துகிறது"
 
@@ -1280,7 +1244,7 @@ msgstr ""
 "குழுக்களுக்கான வழிமுறைகள் மற்றும் தொடர்புடைய நம்பிக்கை இடைவெளிகளைக் காட்டும் எளிமையான "
 "சூழ்ச்சி (: NumRef: `Fig-ttestci`)."
 
-#: ../../Ch11/Ch11_tTest_03.rst:59
+#: ../../Ch11/Ch11_tTest_03.rst:55
 msgid "Histogram with grades in Anastasia’s and Bernadette’s classes"
 msgstr "அனச்தேசியா மற்றும் பெர்னாடெட்டின் வகுப்புகளில் தரங்களுடன் இச்டோகிராம்"
 
@@ -1296,7 +1260,7 @@ msgstr ""
 "வகுப்பில் உள்ள மாணவர்கள் சராசரியாக சற்று சிறந்த தரங்களைப் பெறலாம் என்று இவை கூறுகின்றன, "
 "இருப்பினும் அவை இன்னும் கொஞ்சம் மாறுபடும்."
 
-#: ../../Ch11/Ch11_tTest_03.rst:70
+#: ../../Ch11/Ch11_tTest_03.rst:66
 msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes"
 msgstr "அனச்தேசியா மற்றும் பெர்னாடெட்டின் வகுப்புகளில் சராசரி தரங்கள் (பிழைப் பட்டிகளுடன்)"
 
@@ -1376,7 +1340,7 @@ msgstr "H\\ :sub:`0`: µ\\ :sub:`1` = µ\\ :sub:`2`"
 msgid "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 
-#: ../../Ch11/Ch11_tTest_03.rst:116
+#: ../../Ch11/Ch11_tTest_03.rst:112
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
 msgstr "விளக்கம்: சுழிய மற்றும் மாற்று கருதுகோள்கள், இன்ட். மாதிரிகள் *t *-test"
 
@@ -1733,7 +1697,7 @@ msgstr ""
 "மாறிகள்` பெட்டியில், மற்றும் `` ஆசிரியர்`` மாறுபடும் `` குழுமம் மாறி`` பெட்டியில், "
 "இதில் காட்டப்பட்டுள்ளபடி: NumRef: `Fig-ttest_ind`."
 
-#: ../../Ch11/Ch11_tTest_03.rst:278
+#: ../../Ch11/Ch11_tTest_03.rst:274
 msgid "Conducting an Independent Samples *t*-test in jamovi"
 msgstr "சாமோவியில் ஒரு சுயாதீனமான மாதிரிகள் *t *-test ஐ நடத்துதல்"
 
@@ -2157,7 +2121,7 @@ msgstr ""
 "சமோவியில் உள்ள `` சுயாதீன மாதிரிகள் டி-டெச்ட்`` விருப்பங்களில் ஒன்றாகக் குறிப்பிடலாம், "
 "எனவே இதைப் பற்றி விவாதிக்க இது சிறந்த இடம்."
 
-#: ../../Ch11/Ch11_tTest_04.rst:28
+#: ../../Ch11/Ch11_tTest_04.rst:24
 msgid "Illustration: Null and alternative hypotheses for the Welch *t*-test"
 msgstr "விளக்கம்: வெல்ச் *டி *-டெச்டுக்கான சுழிய மற்றும் மாற்று கருதுகோள்கள்"
 
@@ -2284,7 +2248,7 @@ msgstr ""
 "நாங்கள் மேலே செய்த பகுப்பாய்வில் `` வெல்ச்'ச்`` சோதனைக்கான தேர்வுப்பெட்டியை நீங்கள் டிக் "
 "செய்தால், இதுதான் உங்களுக்குக் கொடுக்கிறது: numref: `Fig-ttest_welch`:"
 
-#: ../../Ch11/Ch11_tTest_04.rst:88
+#: ../../Ch11/Ch11_tTest_04.rst:84
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
 msgstr "இயல்புநிலை மாணவரின் *t *-test உடன் வெல்ச் சோதனையைக் காட்டும் முடிவுகள்"
 
@@ -2455,7 +2419,7 @@ msgstr ""
 "தரங்கள் 50 \\% முதல் 60 \\% வரை இருக்கும்), ஆனால் முதல் சோதனையிலிருந்து இரண்டாவது "
 "இடத்திற்கு முன்னேற்றம் இருப்பது போல் தெரிகிறது."
 
-#: ../../Ch11/Ch11_tTest_05.rst:51
+#: ../../Ch11/Ch11_tTest_05.rst:47 ../../Ch11/Ch11_tTest_05.rst:51
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr "| சிகோ | _ தரவு தொகுப்பில் உள்ள இரண்டு தர சோதனை மாறிகளுக்கான விளக்கங்கள்"
 
@@ -2482,7 +2446,7 @@ msgstr ""
 "அந்த நம்பிக்கை இடைவெளிகள் எவ்வளவு பரந்த அளவில் உள்ளன என்பதைப் பார்த்தால், மாணவர்களின் "
 "செயல்திறனில் வெளிப்படையான முன்னேற்றம் தூய வாய்ப்பு என்று நினைக்க ஆசைப்படுவோம்."
 
-#: ../../Ch11/Ch11_tTest_05.rst:73
+#: ../../Ch11/Ch11_tTest_05.rst:69
 msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr "டெச்ட் 1 க்கான சராசரி தகுதி மற்றும் டாக்டர் சிகோவின் வகுப்பில் சோதனை 2"
 
@@ -2697,7 +2661,7 @@ msgstr ""
 "நாங்கள் ஏற்கனவே உருவாக்கியுள்ளதால், அதைச் செய்வோம், நமக்குப் பெறுவதைப் பார்ப்போம் (பார்க்க: "
 "எண்: `Fig-ttest_paired2` \\)."
 
-#: ../../Ch11/Ch11_tTest_05.rst:180
+#: ../../Ch11/Ch11_tTest_05.rst:176 ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr "இணை வேறுபாடு மதிப்பெண்களில் ஒரு மாதிரியைக் காட்டும் முடிவுகள் *t *-test"
 
@@ -2729,7 +2693,7 @@ msgstr ""
 "அப்படியானால், நீங்கள் சாமோவி `` இணை மாதிரிகள் டி-டெச்ட்`` பகுப்பாய்வைப் பயன்படுத்தலாம், "
 "முடிவுகளைப் பெறலாம்: numref: `Fig-ttest_paired3`."
 
-#: ../../Ch11/Ch11_tTest_05.rst:202
+#: ../../Ch11/Ch11_tTest_05.rst:198
 msgid "Results showing a paired sample *t*-test"
 msgstr "ஒரு இணை மாதிரியைக் காட்டும் முடிவுகள் *t *-test"
 
@@ -2815,7 +2779,7 @@ msgstr ""
 "நீங்கள் இதைச் செய்தவுடன், காட்டப்பட்டுள்ளபடி முடிவுகளைப் பெறுவீர்கள்: NumRef: `Fig-"
 "ttest_onedided1`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:28
+#: ../../Ch11/Ch11_tTest_06.rst:24
 msgid "jamovi results showing a ``One Sample T-Test``"
 msgstr "`` ஒரு மாதிரி டி-டெச்ட்`` காட்டும் சாமோவி முடிவுகள்"
 
@@ -2886,7 +2850,7 @@ msgstr ""
 "குறிப்பிடவும். காட்டப்பட்டுள்ள முடிவுகளை நீங்கள் பெற வேண்டும்: NumRef: `Fig-"
 "ttest_onesided2`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:67
+#: ../../Ch11/Ch11_tTest_06.rst:63
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
 msgstr "ஒரு `` சுயாதீன மாதிரிகள் டி-டெச்ட்`` இல் ஒருதலைப்பட்ச கருதுகோள்"
 
@@ -2928,7 +2892,7 @@ msgstr ""
 "சமோவியில் 2` `அளவிடவும்). காட்டப்பட்டுள்ள முடிவுகளை நீங்கள் பெற வேண்டும்: NumRef: `Fig-"
 "ttest_onesided3`."
 
-#: ../../Ch11/Ch11_tTest_06.rst:93
+#: ../../Ch11/Ch11_tTest_06.rst:89
 msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
 msgstr "`` இணை மாதிரிகள் டி-டெச்ட்`` இல் ஒருதலைப்பட்ச கருதுகோள்"
 
@@ -3341,7 +3305,7 @@ msgstr ""
 msgid "QQ plots"
 msgstr "QQ அடுக்கு"
 
-#: ../../Ch11/Ch11_tTest_08.rst:35
+#: ../../Ch11/Ch11_tTest_08.rst:31
 msgid "Histogram and QQ plot for normally-distributed data"
 msgstr "பொதுவாக விநியோகிக்கப்பட்ட தரவுகளுக்கான இச்டோகிராம் மற்றும் QQ சூழ்ச்சி"
 
@@ -3357,7 +3321,7 @@ msgstr ""
 "இயல்புநிலையிலிருந்து குறிப்பிடத்தக்க புறப்பாடுகள் எதுவும் கண்டறியப்படவில்லை என்பதைக் "
 "குறிக்கிறது (* ப* = 0.361)."
 
-#: ../../Ch11/Ch11_tTest_08.rst:47
+#: ../../Ch11/Ch11_tTest_08.rst:43
 msgid "Histogram and QQ plot for skewed and tailed data"
 msgstr "வளைந்த மற்றும் வால் தரவுகளுக்கான இச்டோகிராம் மற்றும் கியூக் சூழ்ச்சி"
 
@@ -3513,7 +3477,7 @@ msgstr ""
 "ஒட்டிக்கொண்டிருக்கும் என்பதைக் கவனியுங்கள், இதன் விளைவாக, பெரிய மாதிரிகள் * W * 1 க்கு "
 "விட மிகச் சிறியதாக இருக்க வேண்டியதில்லை சோதனை குறிப்பிடத்தக்கதாக இருக்க கட்டளை."
 
-#: ../../Ch11/Ch11_tTest_08.rst:124
+#: ../../Ch11/Ch11_tTest_08.rst:120
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
 msgstr "சாபிரோ-வில்க் டபிள்யூ புள்ளிவிவரத்தின் மாதிரி வழங்கல்"
 
@@ -3569,7 +3533,7 @@ msgstr ""
 "CH04_Descrictives` அவை ஒரு சாதாரண விநியோகத்திலிருந்து வந்ததாகத் தெரியவில்லை. QQ "
 "சதிக்கு என்ன நடக்கும் என்பது இங்கே:"
 
-#: ../../Ch11/Ch11_tTest_08.rst:157
+#: ../../Ch11/Ch11_tTest_08.rst:152
 msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
@@ -3896,7 +3860,7 @@ msgstr ""
 "ஏற்படுத்தும். சோதனையின் இணை மாதிரிகள் பதிப்பிற்கு மாறுவது எங்களுக்கு வேறு பதிலைக் "
 "கொடுக்காது; காண்க: NumRef: `Figh-ttest_nonnonparametric`."
 
-#: ../../Ch11/Ch11_tTest_09.rst:116
+#: ../../Ch11/Ch11_tTest_09.rst:112
 msgid "Results for one sample and paired sample Wilcoxon non-parametric tests"
 msgstr "ஒரு மாதிரி மற்றும் இணை மாதிரிக்கான முடிவுகள் வில்காக்சன் அளவுரு அல்லாத சோதனைகள்"
 
