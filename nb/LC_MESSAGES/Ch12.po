@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-03-17 17:35+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-03-17 16:58+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/lsjdocs/"
+"ch12/nb_NO/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
@@ -3023,7 +3025,7 @@ msgid ""
 msgstr ""
 "Måten vi beregner disse på, er å dividere det ordinære residuumet med et "
 "estimat av (populasjons-)standardavviket til disse residuene. Av tekniske "
-"grunner, mumle mumle, er formelen for dette"
+"grunner, mumle mumle, er formelen for dette:"
 
 #: ../../Ch12/Ch12_Regression_11.rst:79
 msgid ""
