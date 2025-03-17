@@ -1,20 +1,25 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 17:22+0100\n"
-"PO-Revision-Date: 2025-03-17 16:05+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch14/de/"
-">\n"
-"Language: de\n"
+"POT-Creation-Date: 2025-03-17 17:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-17 17:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
-"Generated-By: Babel 2.15.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:4
 msgid "Factorial ANOVA"
@@ -979,6 +984,7 @@ msgstr ""
 "Gruppe gibt"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:412
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A} = (N \\times C)  \\sum_{r=1}^R  \\left( \\bar{Y}_{r.} - "
 "\\bar{Y}_{..} \\right)^2\n"
@@ -1022,6 +1028,7 @@ msgstr ""
 "mit *N* × *C* multiplizieren."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:429
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{B} = (N \\times R) \\sum_{c=1}^C \\left( \\bar{Y}_{.c} - \\bar{Y}"
 "_{..} \\right)^2\n"
@@ -1132,6 +1139,7 @@ msgstr ""
 "zusammen"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:472
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_T = \\sum_{r=1}^R \\sum_{c=1}^C \\sum_{i=1}^N \\left( Y_{rci} - "
 "\\bar{Y}_{..}\\right)^2\n"
@@ -1185,28 +1193,28 @@ msgstr "SS\\ :sub:`R` = SS\\ :sub:`T` - (SS\\ :sub:`A` + SS\\ :sub:`B`)"
 #: ../../Ch14/Ch14_ANOVA2_01.rst:491
 msgid ""
 "Of course, there is a formula that you can use to calculate the residual SS "
-"directly, but I think that it makes more conceptual sense to think of it "
-"like this. The whole point of calling it a residual is that it’s the "
-"leftover variation, and the formula above makes that clear. I should also "
-"note that, in keeping with the terminology used in the regression chapter, "
-"it is commonplace to refer to SS\\ :sub:`A` + SS\\ :sub:`B` as the variance "
-"attributable to the “ANOVA model”, denoted SS\\ :sub:`M`, and so we often "
-"say that the total sum of squares is equal to the model sum of squares plus "
-"the residual sum of squares. Later on in this chapter we’ll see that this "
-"isn’t just a surface similarity: ANOVA and regression are actually the same "
-"thing under the hood."
+"(SS\\ :sub:`R`) directly, but I think that it makes more conceptual sense to "
+"think of it like this. The whole point of calling it a residual is that it’s "
+"the leftover variation, and the formula above makes that clear. I should "
+"also note that, in keeping with the terminology used in the regression "
+"chapter, it is commonplace to refer to SS\\ :sub:`A` + SS\\ :sub:`B` as the "
+"variance attributable to the “ANOVA model”, denoted SS\\ :sub:`M`, and so we "
+"often say that the total sum of squares is equal to the model sum of squares "
+"plus the residual sum of squares. Later on in this chapter we’ll see that "
+"this isn’t just a surface similarity: ANOVA and regression are actually the "
+"same thing under the hood."
 msgstr ""
-"Natürlich gibt es auch eine Formel, mit der Sie die SS der Residuen direkt "
-"berechnen können, aber ich denke, dass es konzeptionell sinnvoller ist, wie "
-"beschrieben vorzugehen. Die Bezeichnung „Residuum“ (bzw. „Residuen“) "
-"verdeutlicht, dass es sich um die verbleibende Variation handelt, und die "
-"obige Formel macht dies deutlich. Ich sollte auch anmerken, dass es in "
-"Übereinstimmung mit der im Kapitel über Regression verwendeten Terminologie "
-"üblich ist, sich auf SS\\ :sub:`A` + SS\\ :sub:`B` als die dem „ANOVA-"
-"Modell“ zuzuschreibende Varianz zu beziehen. Diese wird mit SS\\ :sub:`M` "
-"bezeichnet, und so sagen wir oft, dass die Gesamt-Quadratsumme gleich der "
-"Modell-Quadratsumme plus der Quadratsumme der Residuen ist. Im weiteren "
-"Verlauf dieses Kapitels werden wir sehen, dass dies nicht nur eine "
+"Natürlich gibt es auch eine Formel, mit der Sie die SS der Residuen (SS\\ "
+":sub:`R`) direkt berechnen können, aber ich denke, dass es konzeptionell "
+"sinnvoller ist, wie beschrieben vorzugehen. Die Bezeichnung „Residuum“ (bzw."
+" „Residuen“) verdeutlicht, dass es sich um die verbleibende Variation "
+"handelt, und die obige Formel macht dies deutlich. Ich sollte auch anmerken, "
+"dass es in Übereinstimmung mit der im Kapitel über Regression verwendeten "
+"Terminologie üblich ist, sich auf SS\\ :sub:`A` + SS\\ :sub:`B` als die dem "
+"„ANOVA-Modell“ zuzuschreibende Varianz zu beziehen. Diese wird mit SS\\ "
+":sub:`M` bezeichnet, und so sagen wir oft, dass die Gesamt-Quadratsumme "
+"gleich der Modell-Quadratsumme plus der Quadratsumme der Residuen ist. Im "
+"weiteren Verlauf dieses Kapitels werden wir sehen, dass dies nicht nur eine "
 "oberflächliche Ähnlichkeit ist: ANOVA und Regression sind mathematisch "
 "eigentlich dasselbe."
 
@@ -1838,6 +1846,7 @@ msgstr ""
 "verwenden"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:144
+#, python-brace-format
 msgid ""
 "\\hat{\\alpha}_r = \\bar{Y}_{r.} - \\bar{Y}_{..}\n"
 "\n"
@@ -1854,6 +1863,7 @@ msgstr ""
 "Ebene *c* wie folgt definiert werden"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:149
+#, python-brace-format
 msgid ""
 "\\hat{\\beta}_c = \\bar{Y}_{.c} - \\bar{Y}_{..}\n"
 "\n"
@@ -1913,6 +1923,7 @@ msgstr ""
 "Interaktionseffekts für die Gruppe rc folgendes Ergebnis"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:166
+#, python-brace-format
 msgid ""
 "\\hat{(\\alpha\\beta)}_{rc} = \\bar{Y}_{rc} - \\bar{Y}_{r.} - \\bar{Y}_{.c} "
 "+ \\bar{Y}_{..}\n"
@@ -1933,6 +1944,7 @@ msgstr ""
 "folgende Formel für die Quadratsumme, die mit der Interaktion verbunden sind"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:173
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A:B} = N \\sum_{r=1}^R \\sum_{c=1}^C \\left( \\bar{Y}_{rc} - "
 "\\bar{Y}_{r.} - \\bar{Y}_{.c} + \\bar{Y}_{..} \\right)^2\n"
@@ -2384,6 +2396,7 @@ msgstr ""
 "ANOVA ohne den Interaktionsterm aus :numref:`fig-factorialanova3` an:"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
+#, python-format
 msgid ""
 "Looking at the η² values first, we see that ``drug`` accounts for 71\\% of "
 "the variance (i.e. η² = 0.71) in ``mood.gain``, whereas ``therapy`` only "
@@ -2392,8 +2405,8 @@ msgid ""
 "the outcome). Overall, this implies that we have a very large effect\\ [#]_ "
 "of ``drug`` and a modest effect of ``therapy``."
 msgstr ""
-"Betrachtet man zunächst die η²-Werte, so stellt man fest, dass ``drug`` 71 % "
-"der Varianz (d. h. η² = 0,71) in ``mood.gain`` erklärt, ``therapy`` jedoch "
+"Betrachtet man zunächst die η²-Werte, so stellt man fest, dass ``drug`` 71 "
+"% der Varianz (d. h. η² = 0,71) in ``mood.gain`` erklärt, ``therapy`` jedoch "
 "nur 10 %. Damit verbleiben insgesamt 19 % der Varianz unaufgeklärt (d. h. "
 "die Residuen machen 19 % der Varianz des Ergebnisses aus). Insgesamt "
 "bedeutet dies, dass wir einen sehr großen Effekt\\ [#]_ von ``drug`` und "
@@ -2493,6 +2506,7 @@ msgstr ""
 "clinicaltrial|_"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
+#, python-format
 msgid ""
 "In the output we see that the estimated mean mood gain for the placebo group "
 "with no therapy was 0.300, with a 95\\% confidence interval from 0.006 to "
@@ -2847,6 +2861,7 @@ msgid "Estimated Marginal means within the ANCOVA"
 msgstr "Geschätzte Randmittel innerhalb der ANCOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#, python-format
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
@@ -3592,6 +3607,7 @@ msgstr ""
 "beiden Faktoren"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:267
+#, python-format
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -4587,6 +4603,7 @@ msgstr ""
 "wurden, und Personen, die ``no.therapy`` erhielten."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
+#, python-format
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "
