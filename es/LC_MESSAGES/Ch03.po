@@ -1,39 +1,13 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 16:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:19+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-03-17 16:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +17,7 @@ msgstr ""
 msgid "Getting started with jamovi"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0 ../../Ch03/Ch03_jamoviIntro.rst
+#: ../../Ch03/Ch03_jamoviIntro.rst:0
 msgid "*Robots are nice to work with.*"
 msgstr ""
 
@@ -166,7 +140,7 @@ msgid ""
 "online instructions are pretty self-explanatory.\\ [#]_"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:28 ../../Ch03/Ch03_jamoviIntro_1.rst:27
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:28
 msgid ""
 "Whereas this text book was one of the first resources available to support "
 "jamovi, there is now an abundance of them: Have a look under “resources” → "
@@ -174,11 +148,11 @@ msgid ""
 "jamovi homepage."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:34 ../../Ch03/Ch03_jamoviIntro_1.rst:33
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:34
 msgid "The jamovi window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:36 ../../Ch03/Ch03_jamoviIntro_1.rst:35
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:36
 msgid ""
 "One way or another, regardless of what operating system you’re using, it’s "
 "time to open jamovi and get started. When first starting jamovi you will be "
@@ -186,15 +160,15 @@ msgid ""
 "startjamovi`."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:43 ../../Ch03/Ch03_jamoviIntro_1.rst:42
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:43
 msgid "jamovi start window"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:47 ../../Ch03/Ch03_jamoviIntro_1.rst:46
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:47
 msgid "jamovi looks like this when you start it."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:51 ../../Ch03/Ch03_jamoviIntro_1.rst:50
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:51
 msgid ""
 "To the left is the :doc:`spreadsheet view <Ch03_jamoviIntro_2>`, and to the "
 "right is where the results of your :doc:`statistical analyses "
@@ -203,7 +177,7 @@ msgid ""
 "sizes."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:56 ../../Ch03/Ch03_jamoviIntro_1.rst:55
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:56
 msgid ""
 "The first time you open jamovi, you may want to change some of the default "
 "settings. These can be accessed from the settings menu (``⋮``, at the top-"
@@ -214,7 +188,7 @@ msgid ""
 "to the language you have set for your OS.\\ [#]_"
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:64 ../../Ch03/Ch03_jamoviIntro_1.rst:63
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:64
 msgid ""
 "To quit jamovi, just close the program the same way you would any other "
 "program. However, what you might want to do before you quit is save your "
@@ -232,7 +206,7 @@ msgid ""
 "your analyses as PDF, HTML or as LaTeX-document."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:82 ../../Ch03/Ch03_jamoviIntro_1.rst:81
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:82
 msgid ""
 "Although jamovi is updated frequently it doesn’t usually make much of a "
 "difference for the sort of work we’ll do in this book. In fact, during the "
@@ -240,7 +214,7 @@ msgid ""
 "difference at all to what is in this book."
 msgstr ""
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:88 ../../Ch03/Ch03_jamoviIntro_1.rst:87
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:88
 msgid ""
 "Please note that the figures (screenshots, etc.) within this book are using "
 "the English user interface."
@@ -751,7 +725,6 @@ msgid "Installing add-on modules into jamovi"
 msgstr ""
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
-#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "
