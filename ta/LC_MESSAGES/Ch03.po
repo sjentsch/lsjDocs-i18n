@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 11:54+0100\n"
+"POT-Creation-Date: 2025-03-17 16:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"POT-Creation-Date: 2025-03-17 16:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-17 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,14 +29,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-17 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ta\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
@@ -35,7 +43,7 @@ msgstr ""
 msgid "Getting started with jamovi"
 msgstr "சாமோவியுடன் தொடங்குதல்"
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0
+#: ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
 msgstr "*ரோபோக்கள் வேலை செய்வது நல்லது.*"
 
@@ -215,12 +223,14 @@ msgid ""
 "At the top of the page, under the heading `“Download” <https://www.jamovi."
 "org/download.html>`__, you’ll see separate links for Windows users, Mac "
 "users, and Linux users. If you follow the relevant link you’ll see that the "
-"online instructions are pretty self-explanatory. At the time of writing, the "
-"current version of jamovi is 2.6, but they usually issue updates every few "
-"months, so you’ll probably have a newer version.\\ [#]_"
+"online instructions are pretty self-explanatory.\\ [#]_"
 msgstr ""
+"பக்கத்தின் மேலே, `“Download” <https://www.jamovi.org/download.html>__, சாளரங்கள் "
+"பயனர்கள், மேக் பயனர்கள் மற்றும் லினக்ச் பயனர்களுக்கான தனி இணைப்புகளைக் காண்பீர்கள். தொடர்புடைய "
+"இணைப்பை நீங்கள் பின்பற்றினால், நிகழ்நிலை வழிமுறைகள் மிகவும் தன்வய விளக்கமளிக்கும் என்பதை "
+"நீங்கள் காண்பீர்கள்.\\ [#]_"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:24
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:27
 msgid ""
 "Whereas this text book was one of the first resources available to support "
 "jamovi, there is now an abundance of them: Have a look under “resources” → "
@@ -231,11 +241,11 @@ msgstr ""
 "ஏராளமாக உள்ளது: “வளங்கள்” `சமூக வளங்கள் <https://www.jamovi.org/community.html>` "
 "__ சாமோவி முகப்புப்பக்கத்தில்."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:30
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:33
 msgid "The jamovi window"
 msgstr "சாமோவி சாளரம்"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:32
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:35
 msgid ""
 "One way or another, regardless of what operating system you’re using, it’s "
 "time to open jamovi and get started. When first starting jamovi you will be "
@@ -246,15 +256,15 @@ msgstr ""
 "திறந்து தொடங்குவதற்கான நேரம் இது. முதலில் சாமோவியைத் தொடங்கும் போது உங்களுக்கு ஒரு "
 "பயனர் இடைமுகம் வழங்கப்படும், இது இதுபோன்றதாகத் தெரிகிறது: எண்ரெஃப்: `அத்தி-ச்டார்ட்சமோவி`."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:39
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:42
 msgid "jamovi start window"
 msgstr "சாமோவி தொடக்க சாளரம்"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:43
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:46
 msgid "jamovi looks like this when you start it."
 msgstr "நீங்கள் அதைத் தொடங்கும்போது சாமோவி இப்படி தெரிகிறது."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:47
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:50
 msgid ""
 "To the left is the :doc:`spreadsheet view <Ch03_jamoviIntro_2>`, and to the "
 "right is where the results of your :doc:`statistical analyses "
@@ -267,7 +277,7 @@ msgstr ""
 "இரண்டு பகுதிகளையும் பிரிக்கும் ஒரு பட்டியில் நடுத்தரத்திற்கு கீழே உள்ளது, இது அவற்றின் "
 "அளவுகளை மாற்ற இடது அல்லது வலதுபுறமாக இழுக்கப்படலாம்."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:52
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:55
 msgid ""
 "The first time you open jamovi, you may want to change some of the default "
 "settings. These can be accessed from the settings menu (``⋮``, at the top-"
@@ -277,8 +287,14 @@ msgid ""
 "jamovi user interface. On most operating systems (OS), the language defaults "
 "to the language you have set for your OS.\\ [#]_"
 msgstr ""
+"நீங்கள் முதல் முறையாக சாமோவியைத் திறக்கும்போது, இயல்புநிலை அமைப்புகளில் சிலவற்றை மாற்ற "
+"விரும்பலாம். அமைப்புகள் மெனுவிலிருந்து இவற்றை அணுகலாம் (``⋮``, மேல் இடது மூலையில்). "
+"உங்கள் பகுப்பாய்வுகளின் வெளியீடு, உங்கள் புள்ளிவிவரங்களுக்கான சூழ்ச்சி மற்றும் வண்ணத் திட்டங்கள் "
+"மற்றும் (சாமோவியின் பதிப்பு 2.3 முதல்) உங்கள் சாமோவி பயனர் இடைமுகத்தின் மொழியில் நீங்கள் "
+"எத்தனை தசமங்களைக் காட்ட விரும்புகிறீர்கள் என்பதை நீங்கள் அங்கு மாற்றலாம். பெரும்பாலான இயக்க "
+"முறைமைகளில் (OS), மொழி உங்கள் OS க்காக நீங்கள் அமைத்த மொழிக்கு இயல்புநிலையாகிறது.\\ [#]"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:60
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:63
 msgid ""
 "To quit jamovi, just close the program the same way you would any other "
 "program. However, what you might want to do before you quit is save your "
@@ -310,7 +326,7 @@ msgstr ""
 "உங்கள் பகுப்பாய்வுகளின் ** வெளியீடு ** ஐ PDF, உஉகுமொ அல்லது Latex- ஆவணமாக நீங்கள் "
 "ஏற்றுமதி செய்யலாம்."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:78
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:81
 msgid ""
 "Although jamovi is updated frequently it doesn’t usually make much of a "
 "difference for the sort of work we’ll do in this book. In fact, during the "
@@ -322,7 +338,7 @@ msgstr ""
 "முறை மேம்படுத்தினேன், இந்த புத்தகத்தில் உள்ளவற்றிற்கு இது அதிக வித்தியாசத்தை "
 "ஏற்படுத்தவில்லை."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:84
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:87
 msgid ""
 "Please note that the figures (screenshots, etc.) within this book are using "
 "the English user interface."
@@ -875,17 +891,6 @@ msgid ""
 "change the missing value for each variable as an option in the ``Data`` → "
 "``Setup`` view."
 msgstr ""
-"`` காணாமல் போன மதிப்புகள்``. காணாமல் போன மதிப்புகளைக் கொண்ட தரவுகளை நீங்கள் அடிக்கடி "
-"பெறுவீர்கள். ஒரு காரணத்திற்காக அல்லது இன்னொரு காரணத்திற்காக, அட்டவணையில் சில உள்ளீடுகள் "
-"காணவில்லை. நுழைவு காணவில்லை என்பதைக் குறிக்க தரவுக் கோப்பில் “சிறப்பு” மதிப்பை சேர்க்க "
-"வேண்டும். முன்னிருப்பாக சமோவி இந்த மதிப்பு எண் மற்றும் உரை தரவு இரண்டிற்கும் `` நா``, \\ "
-"[#] _ என்று கருதுகிறார், எனவே தேவைப்படும் இடங்களில், சி.எச்.வி கோப்பில் காணாமல் போன "
-"அனைத்து மதிப்புகளும் `` 99` உடன் மாற்றப்படுகின்றன என்பதை உறுதிப்படுத்த வேண்டும் `(அல்லது` "
-"`-9999``; நீங்கள் எதை தேர்வு செய்தாலும்) சாமோவியில் கோப்பைத் திறப்பதற்கு / இறக்குமதி "
-"செய்வதற்கு முன். நீங்கள் சாமோவியில் கோப்பைத் திறந்த / இறக்குமதி செய்தவுடன், காணாமல் போன "
-"மதிப்புகள் அனைத்தும் சாமோவி விரிதாள் பார்வையில் வெற்று அல்லது சாம்பல் நிறங்களுக்கு "
-"மாற்றப்படுகின்றன. ஒவ்வொரு மாறிக்கும் காணாமல் போன மதிப்பை `` தரவு`` → `` அமைவு`` "
-"பார்வையில் மாற்றலாம்."
 
 #: ../../Ch03/Ch03_jamoviIntro_2.rst:285
 msgid "Importing data from other statistics packages"
@@ -1064,6 +1069,7 @@ msgid "Installing add-on modules into jamovi"
 msgstr "சமோவியில் கூடுதல் தொகுதிகளை நிறுவுதல்"
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
+#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "
@@ -1132,31 +1138,3 @@ msgstr ""
 "திறந்தவுடன், ஒரு பட்டியல் தோன்றும், உங்கள் எல்லா தொகுதிக்கூறுகளையும் பட்டியலிட்டு, நீங்கள் "
 "சுற்றினால் தொகுதிக்குள் உள்ள பகுப்பாய்வுகளை அணுகலாம் (பின்னர் பகுப்பாய்வுகள் காட்டப்படும்) "
 "அல்லது அதைக் சொடுக்கு செய்க (பின்னர் நீங்கள் பகுப்பாய்வுகளை அணுகலாம்)."
-
-#~ msgid ""
-#~ "At the top of the page, under the heading `“Download” <https://www.jamovi."
-#~ "org/download.html>`__, you’ll see separate links for Windows users, Mac "
-#~ "users, and Linux users. If you follow the relevant link you’ll see that "
-#~ "the online instructions are pretty self-explanatory.\\ [#]_"
-#~ msgstr ""
-#~ "பக்கத்தின் மேலே, `“ பதிவிறக்கம் ”<https://www.jamovi.org/download.html> __ __, "
-#~ "சாளரங்கள் பயனர்கள், மேக் பயனர்கள் மற்றும் லினக்ச் பயனர்களுக்கான தனி இணைப்புகளைக் "
-#~ "காண்பீர்கள். தொடர்புடைய இணைப்பை நீங்கள் பின்பற்றினால், நிகழ்நிலை வழிமுறைகள் மிகவும் தன்வய "
-#~ "விளக்கமளிக்கும் என்பதை நீங்கள் காண்பீர்கள். \\ [#] _"
-
-#~ msgid ""
-#~ "The first time you open jamovi, you may want to change some of the "
-#~ "default settings. These can be accessed from the settings menu (``⋮``, at "
-#~ "the top-left corner). You can for example change there how many decimals "
-#~ "you would like to be displayed in your analyses’ output, the plot and "
-#~ "color schemes for your figures and (since version 2.3 of jamovi) also the "
-#~ "language of your jamovi user interface. On most operating systems (OS), "
-#~ "the language defaults to the language you have set for your OS.\\ [#]"
-#~ msgstr ""
-#~ "நீங்கள் முதல் முறையாக சாமோவியைத் திறக்கும்போது, இயல்புநிலை அமைப்புகளில் சிலவற்றை "
-#~ "மாற்ற விரும்பலாம். அமைப்புகள் மெனுவிலிருந்து இவற்றை அணுகலாம் (`` ⋮ ``, மேல் இடது "
-#~ "மூலையில்). உங்கள் பகுப்பாய்வுகளின் வெளியீடு, உங்கள் புள்ளிவிவரங்களுக்கான சூழ்ச்சி மற்றும் "
-#~ "வண்ணத் திட்டங்கள் மற்றும் (சாமோவியின் பதிப்பு 2.3 முதல்) உங்கள் சாமோவி பயனர் "
-#~ "இடைமுகத்தின் மொழியில் நீங்கள் எத்தனை தசமங்களைக் காட்ட விரும்புகிறீர்கள் என்பதை நீங்கள் அங்கு "
-#~ "மாற்றலாம். பெரும்பாலான இயக்க முறைமைகளில் (OS), மொழி உங்கள் OS க்காக நீங்கள் அமைத்த "
-#~ "மொழிக்கு இயல்புநிலையாகிறது. \\ [#]"

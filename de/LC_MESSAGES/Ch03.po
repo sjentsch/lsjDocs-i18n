@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 11:54+0100\n"
+"POT-Creation-Date: 2025-03-17 16:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"POT-Creation-Date: 2025-03-17 16:19+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,14 +20,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 17:11+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-17 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
@@ -35,7 +34,7 @@ msgstr ""
 msgid "Getting started with jamovi"
 msgstr "Die ersten Schritte mit jamovi"
 
-#: ../../Ch03/Ch03_jamoviIntro.rst:0
+#: ../../Ch03/Ch03_jamoviIntro.rst
 msgid "*Robots are nice to work with.*"
 msgstr "*Mit Robotern lässt es sich gut zusammen arbeiten.*"
 
@@ -221,12 +220,14 @@ msgid ""
 "At the top of the page, under the heading `“Download” <https://www.jamovi."
 "org/download.html>`__, you’ll see separate links for Windows users, Mac "
 "users, and Linux users. If you follow the relevant link you’ll see that the "
-"online instructions are pretty self-explanatory. At the time of writing, the "
-"current version of jamovi is 2.6, but they usually issue updates every few "
-"months, so you’ll probably have a newer version.\\ [#]_"
+"online instructions are pretty self-explanatory.\\ [#]_"
 msgstr ""
+"Oben auf der Seite, unter der Überschrift „Download“ <https://www.jamovi.org/"
+"download.html>`__, finden Sie separate Links für Windows-, Mac- und Linux-"
+"Benutzer. Wenn Sie dem entsprechenden Link folgen, werden Sie feststellen, "
+"dass die Online-Anweisungen ziemlich selbsterklärend sind.\\ [#]_"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:24
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:27
 msgid ""
 "Whereas this text book was one of the first resources available to support "
 "jamovi, there is now an abundance of them: Have a look under “resources” → "
@@ -238,11 +239,11 @@ msgstr ""
 "sich ruhig ein wenig unter „Ressources“ → `community resources <https://www."
 "jamovi.org/community.html>`__ auf der jamovi-Homepage um."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:30
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:33
 msgid "The jamovi window"
 msgstr "Die jamovi-Benutzeroberfläche"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:32
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:35
 msgid ""
 "One way or another, regardless of what operating system you’re using, it’s "
 "time to open jamovi and get started. When first starting jamovi you will be "
@@ -254,15 +255,15 @@ msgstr ""
 "wird Ihnen eine Benutzeroberfläche präsentiert, die ungefähr so aussieht "
 "wie :numref:`fig-startjamovi`."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:39
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:42
 msgid "jamovi start window"
 msgstr "jamovi Startfenster"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:43
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:46
 msgid "jamovi looks like this when you start it."
 msgstr "Wenn Sie es starten, sieht jamovi so aus."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:47
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:50
 msgid ""
 "To the left is the :doc:`spreadsheet view <Ch03_jamoviIntro_2>`, and to the "
 "right is where the results of your :doc:`statistical analyses "
@@ -276,7 +277,7 @@ msgstr ""
 "kann nach links oder rechts verschoben werden, um die relative Größe der "
 "beiden Teile zu ändern."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:52
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:55
 msgid ""
 "The first time you open jamovi, you may want to change some of the default "
 "settings. These can be accessed from the settings menu (``⋮``, at the top-"
@@ -286,8 +287,17 @@ msgid ""
 "jamovi user interface. On most operating systems (OS), the language defaults "
 "to the language you have set for your OS.\\ [#]_"
 msgstr ""
+"Wenn Sie jamovi zum ersten Mal öffnen, möchten Sie vielleicht einige der "
+"Standardeinstellungen ändern. Über das Einstellungsmenü können Sie auf diese "
+"Einstellungen zugreifen (``⋮``, in der oberen linken Ecke). Sie können dort "
+"beispielsweise ändern, wie viele Dezimalstellen in der Ausgabe Ihrer "
+"Analysen angezeigt werden sollen, welche Formatierung und welches Farbschema "
+"für Ihre Diagramme verwendet werden soll sowie (seit Version 2.3 von jamovi) "
+"auch die Sprache Ihrer jamovi-Benutzeroberfläche. Als Voreinstellung gewählt "
+"ist meistens die Sprache, die Sie für Ihr Betriebssystem eingestellt haben."
+"\\ [#]"
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:60
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:63
 msgid ""
 "To quit jamovi, just close the program the same way you would any other "
 "program. However, what you might want to do before you quit is save your "
@@ -320,7 +330,7 @@ msgstr ""
 "Statistikprogrammen öffnen können. Zusätzlich können Sie die **Ausgabe** "
 "Ihrer Analysen als PDF, HTML oder als LaTeX-Dokument exportieren."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:78
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:81
 msgid ""
 "Although jamovi is updated frequently it doesn’t usually make much of a "
 "difference for the sort of work we’ll do in this book. In fact, during the "
@@ -332,7 +342,7 @@ msgstr ""
 "Schreibens dieses Buches mehrere Upgrades durchgeführt, und es hat an "
 "nichts, was in diesem Buch steht etwas geändert."
 
-#: ../../Ch03/Ch03_jamoviIntro_1.rst:84
+#: ../../Ch03/Ch03_jamoviIntro_1.rst:87
 msgid ""
 "Please note that the figures (screenshots, etc.) within this book are using "
 "the English user interface."
@@ -1112,6 +1122,7 @@ msgid "Installing add-on modules into jamovi"
 msgstr "Installation von Zusatzmodulen in jamovi"
 
 #: ../../Ch03/Ch03_jamoviIntro_3.rst:66
+#, python-format
 msgid ""
 "A really great feature of jamovi is the ability to install add-on modules "
 "from the jamovi library. These add-on modules have been developed by the "
@@ -1185,34 +1196,3 @@ msgstr ""
 "Analysen innerhalb des Moduls gibt, wenn Sie mit der Maus darüber fahren "
 "(dann werden die Analysen angezeigt) oder darauf klicken (dann greifen Sie "
 "auf die Analysen zu)."
-
-#~ msgid ""
-#~ "At the top of the page, under the heading `“Download” <https://www.jamovi."
-#~ "org/download.html>`__, you’ll see separate links for Windows users, Mac "
-#~ "users, and Linux users. If you follow the relevant link you’ll see that "
-#~ "the online instructions are pretty self-explanatory.\\ [#]_"
-#~ msgstr ""
-#~ "Oben auf der Seite, unter der Überschrift „Download“ <https://www.jamovi."
-#~ "org/download.html>`__, finden Sie separate Links für Windows-, Mac- und "
-#~ "Linux-Benutzer. Wenn Sie dem entsprechenden Link folgen, werden Sie "
-#~ "feststellen, dass die Online-Anweisungen ziemlich selbsterklärend sind.\\ "
-#~ "[#]_"
-
-#~ msgid ""
-#~ "The first time you open jamovi, you may want to change some of the "
-#~ "default settings. These can be accessed from the settings menu (``⋮``, at "
-#~ "the top-left corner). You can for example change there how many decimals "
-#~ "you would like to be displayed in your analyses’ output, the plot and "
-#~ "color schemes for your figures and (since version 2.3 of jamovi) also the "
-#~ "language of your jamovi user interface. On most operating systems (OS), "
-#~ "the language defaults to the language you have set for your OS.\\ [#]"
-#~ msgstr ""
-#~ "Wenn Sie jamovi zum ersten Mal öffnen, möchten Sie vielleicht einige der "
-#~ "Standardeinstellungen ändern. Über das Einstellungsmenü können Sie auf "
-#~ "diese Einstellungen zugreifen (``⋮``, in der oberen linken Ecke). Sie "
-#~ "können dort beispielsweise ändern, wie viele Dezimalstellen in der "
-#~ "Ausgabe Ihrer Analysen angezeigt werden sollen, welche Formatierung und "
-#~ "welches Farbschema für Ihre Diagramme verwendet werden soll sowie (seit "
-#~ "Version 2.3 von jamovi) auch die Sprache Ihrer jamovi-Benutzeroberfläche. "
-#~ "Als Voreinstellung gewählt ist meistens die Sprache, die Sie für Ihr "
-#~ "Betriebssystem eingestellt haben.\\ [#]"
