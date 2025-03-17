@@ -1,75 +1,13 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 16:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:19+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:14+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:11+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:48+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-03-17 15:20+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -401,7 +339,6 @@ msgstr ""
 "folgt definiert:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:72
-#, python-brace-format
 msgid ""
 "\\mbox{Var}(Y) = \\frac{1}{N} \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left(Y_{ik} "
 "- \\bar{Y} \\right)^2\n"
@@ -614,7 +551,6 @@ msgstr ""
 "würde"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:123
-#, python-brace-format
 msgid ""
 "\\mbox{Var}(Y) = \\frac{1}{N} \\sum_{p=1}^N  \\left(Y_{p} - \\bar{Y} "
 "\\right)^2\n"
@@ -665,7 +601,6 @@ msgstr ""
 "für die Varianz"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:144
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_{tot} = \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left(Y_{ik} - \\bar{Y} "
 "\\right)^2\n"
@@ -698,7 +633,6 @@ msgstr ""
 "unterscheidet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:155
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_w = \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left( Y_{ik} - \\bar{Y}_k "
 "\\right)^2\n"
@@ -747,7 +681,6 @@ msgstr ""
 "zwischen** den Gruppen (**between-group sum of squares**)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:172
-#, python-brace-format
 msgid ""
 "\\begin{aligned}\n"
 "\\mbox{SS}_{b} &=& \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left( \\bar{Y}_k - "
@@ -1859,7 +1792,6 @@ msgstr ""
 "sub:`Fehler` bezeichnet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:629
-#, python-brace-format
 msgid ""
 "If you read ahead to chapter :doc:`../Ch14/Ch14_ANOVA2` and look at how the "
 "“treatment effect” at level *k* of a factor is defined in terms of the α\\ :"
@@ -1875,7 +1807,6 @@ msgstr ""
 "N_k \\alpha_k^2)/(G-1)`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:636
-#, python-brace-format
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
@@ -2914,7 +2845,6 @@ msgid "Running the Levene-test in jamovi"
 msgstr "Durchführen des Levene-Tests in jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:129
-#, python-brace-format
 msgid ""
 "Okay, so how do we run the Levene test? Simple really - under the ``ANOVA`` "
 "→ ``Assumption Checks`` option, just click on the ``Homogeneity tests`` "
@@ -3137,7 +3067,6 @@ msgstr ""
 "gegeben wird:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:254
-#, python-brace-format
 msgid ""
 "\\bar{R}_k = \\frac{1}{N_K} \\sum_{i} R_{ik}\n"
 "\n"
@@ -3150,7 +3079,6 @@ msgid "and let’s also calculate R̄, the grand mean rank"
 msgstr "und berechnen wir außerdem R̄, den mittleren Rang über alle Messungen"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:258
-#, python-brace-format
 msgid ""
 "\\bar{R} = \\frac{1}{N} \\sum_{i} \\sum_{k} R_{ik}\n"
 "\n"
@@ -3185,7 +3113,6 @@ msgstr ""
 "haben wir unsere „Gesamtquadratsumme der Ränge“"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:271
-#, python-brace-format
 msgid ""
 "\\mbox{RSS}_{tot} = \\sum_k \\sum_i ( R_{ik} - \\bar{R} )^2\n"
 "\n"
@@ -3201,7 +3128,6 @@ msgstr ""
 "als:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275
-#, python-brace-format
 msgid ""
 "\\begin{array}{rcl}\n"
 "\\mbox{RSS}_{b} &=& \\sum_k \\sum_i ( \\bar{R}_k  - \\bar{R} )^2 \\\\\n"
