@@ -3,15 +3,32 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 16:23+0100\n"
+"POT-Creation-Date: 2025-03-17 17:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-17 17:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-17 17:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch12/Ch12_Regression.rst:4
 msgid "Correlation and linear regression"
@@ -294,6 +311,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:145
+#, python-brace-format
 msgid ""
 "\\mbox{Cov}(X,Y) = \\frac{1}{N-1} \\sum_{i=1}^N \\left(X_i - \\bar{X} "
 "\\right) \\left(Y_i - \\bar{Y} \\right)\n"
@@ -997,6 +1015,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:20
+#, python-brace-format
 msgid ""
 "Okay, now let’s redraw our pictures but this time I’ll add some lines to "
 "show the size of the residual for all observations. When the regression line "
@@ -1014,6 +1033,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:34
+#, python-brace-format
 msgid ""
 "\\sum_i (Y_i - \\hat{Y}_i)^2\n"
 "\n"
@@ -1026,6 +1046,7 @@ msgid "or as"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:38
+#, python-brace-format
 msgid ""
 "\\sum_i \\epsilon_{i}^2\n"
 "\n"
@@ -1034,6 +1055,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_04.rst:40
+#, python-brace-format
 msgid ""
 "Yes, yes that sounds even better. And since I’ve indented it like that, it "
 "probably means that this is the right answer. And since this is the right "
@@ -1047,6 +1069,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:51
+#, python-brace-format
 msgid ""
 "At this point, we now have a concrete definition for what counts as our "
 "“best” choice of regression coefficients, :math:`\\hat{b}_0` and :math:"
@@ -1069,6 +1092,7 @@ msgid "jamovi screenshot showing a simple linear regression analysis"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:75
+#, python-brace-format
 msgid ""
 "To run my linear regression, open up the ``Regression`` - ``Linear "
 "Regression`` analysis in jamovi, using the |parenthood|_ data set. Then "
@@ -1088,6 +1112,7 @@ msgid "Interpreting the estimated model"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:88
+#, python-brace-format
 msgid ""
 "The most important thing to be able to understand is how to interpret these "
 "coefficients. Let’s start with :math:`\\hat{b}_1`, the slope. If we remember "
@@ -1103,6 +1128,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:103
+#, python-brace-format
 msgid ""
 "Or at least, I’m assuming that it doesn’t help most people. But on the off-"
 "chance that someone reading this is a proper kung fu master of linear "
@@ -1161,6 +1187,7 @@ msgstr ""
 "sub:`2` *X*\\ :sub:`i2` + ε\\ :sub:`i`"
 
 #: ../../Ch12/Ch12_Regression_05.rst:31
+#, python-brace-format
 msgid ""
 "As before, ε\\ :sub:`i` is the residual associated with the i-th "
 "observation, :math:`{\\epsilon}_i = {Y}_i - \\hat{Y}_i`. In this model, we "
@@ -1267,6 +1294,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:102
+#, python-brace-format
 msgid ""
 "Y_i = b_0 + \\left( \\sum_{k=1}^K b_{k} X_{ik} \\right) + \\epsilon_i\n"
 "\n"
@@ -1301,6 +1329,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:21
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{res} = \\sum_i (Y_i - \\hat{Y}_i)^2\n"
 "\n"
@@ -1316,6 +1345,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:27
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{tot} = \\sum_i (Y_i - \\bar{Y})^2\n"
 "\n"
@@ -1406,6 +1436,7 @@ msgid "*R*\\² = 1 - 0.184"
 msgstr "*R*\\² = 1 - 0.184"
 
 #: ../../Ch12/Ch12_Regression_06.rst:82
+#, python-format
 msgid ""
 "This gives a value for *R*\\² of **0.816**. The *R*\\² value, sometimes "
 "called the **coefficient of determination**\\ [#]_ has a simple "
@@ -1567,6 +1598,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:35
+#, python-brace-format
 msgid ""
 "H\\ :sub:`1`: *Y*\\ :sub:`i` = b\\ :sub:`0` + math:`\\left( \\sum_{k=1}^K "
 "b_{k} X_{ik} \\right)` + ε\\ :sub:`i`"
@@ -1678,6 +1710,7 @@ msgid "H\\ :sub:`1`: *b* ≠ 0"
 msgstr "H\\ :sub:`1`: *b* ≠ 0"
 
 #: ../../Ch12/Ch12_Regression_07.rst:103
+#, python-brace-format
 msgid ""
 "How can we test this? Well, if the central limit theorem is kind to us we "
 "might be able to guess that the sampling distribution of :math:`\\hat{b}`, "
@@ -1700,6 +1733,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_07.rst:116
+#, python-brace-format
 msgid ""
 "I’ll skip over the reasons why, but our degrees of freedom in this case are "
 "*df* = *N* - *K* - 1. Irritatingly, the estimate of the standard error of "
@@ -1746,6 +1780,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:154
+#, python-format, python-brace-format
 msgid ""
 "The ``Model Coefficients`` at the bottom of the jamovi analysis results "
 "shown in :numref:`fig-reg2` provides the coefficients of the regression "
@@ -1758,11 +1793,12 @@ msgid ""
 "fourth columns provide the lower and upper values for the 95\\% confidence "
 "interval around the *b* estimate (more on this later). The fifth column "
 "gives you the *t*-statistic, and it’s worth noticing that in this table :"
-"math:`t= \\hat{b}/ SE(\\hat{b})` every time. Finally, the last column gives "
+"math:`t= \\hat{b} / SE(\\hat{b})` every time. Finally, the last column gives "
 "you the actual *p*-value for each of these tests.\\ [#]_"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:168
+#, python-format
 msgid ""
 "The only thing that the coefficients table itself doesn’t list is the "
 "degrees of freedom used in the *t*-test, which is always *N* - *K* - 1 and "
@@ -1782,6 +1818,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:188
+#, python-brace-format
 msgid ""
 "For advanced readers only. The vector of residuals is :math:`\\epsilon = y - "
 "X \\hat{b}`. For *K* predictors plus the intercept, the estimated residual "
@@ -1836,6 +1873,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:29
+#, python-brace-format
 msgid ""
 "\\mbox{CI}(b) = \\hat{b} \\pm \\left( t_{crit} \\times SE(\\hat{b})  "
 "\\right)\n"
@@ -1846,6 +1884,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_09.rst:31
+#, python-format, python-brace-format
 msgid ""
 "where :math:`SE(\\hat{b})` is the standard error of the regression "
 "coefficient, and *t*\\ :sub:`crit` is the relevant critical value of the "
@@ -1934,10 +1973,12 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:98
+#, python-format
 msgid "Standardised coefficients with 95\\% confidence intervals"
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
+#, python-format
 msgid ""
 "Standardised coefficients, with 95\\% confidence intervals, for multiple "
 "linear regression"
@@ -2165,6 +2206,7 @@ msgstr ""
 "\n"
 
 #: ../../Ch12/Ch12_Regression_11.rst:98
+#, python-brace-format
 msgid ""
 "Notice that our estimate of the standard deviation here is written :math:"
 "`\\hat{\\sigma}_{(-i)}`. What this corresponds to is the estimate of the "
@@ -2438,6 +2480,7 @@ msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:326
+#, python-brace-format
 msgid ""
 "f(x,\\lambda) = \\frac{x^\\lambda - 1}{\\lambda}\n"
 "\n"
@@ -2827,6 +2870,7 @@ msgid ""
 msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:211
+#, python-brace-format
 msgid ""
 "SS\\ :sub:`Δ` = :math:`\\sum_{i} \\left(\\hat{y}_i^{(2)} - \\hat{y}_i^{(1)} "
 "\\right)^2`"
