@@ -1,13 +1,21 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 17:35+0100\n"
+"POT-Creation-Date: 2025-03-17 18:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-17 18:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -914,6 +922,7 @@ msgstr ""
 "இருந்தால், நாங்கள் இதைக் கணக்கிடுகிறோம்"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:412
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A} = (N \\times C)  \\sum_{r=1}^R  \\left( \\bar{Y}_{r.} - "
 "\\bar{Y}_{..} \\right)^2\n"
@@ -954,6 +963,7 @@ msgstr ""
 "சேதி"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:429
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{B} = (N \\times R) \\sum_{c=1}^C \\left( \\bar{Y}_{.c} - \\bar{Y}"
 "_{..} \\right)^2\n"
@@ -1055,6 +1065,7 @@ msgstr ""
 "சதுரப்படுத்தி, அனைத்தையும் சேர்க்கவும்"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:472
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_T = \\sum_{r=1}^R \\sum_{c=1}^C \\sum_{i=1}^N \\left( Y_{rci} - "
 "\\bar{Y}_{..}\\right)^2\n"
@@ -1699,6 +1710,7 @@ msgstr ""
 "சராசரி ȳ \\: துணை:` .. `\\. அதாவது, இதை விளைவின் மதிப்பீடாக பயன்படுத்துவோம்"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:144
+#, python-brace-format
 msgid ""
 "\\hat{\\alpha}_r = \\bar{Y}_{r.} - \\bar{Y}_{..}\n"
 "\n"
@@ -1715,6 +1727,7 @@ msgstr ""
 "வரையறுக்கலாம்"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:149
+#, python-brace-format
 msgid ""
 "\\hat{\\beta}_c = \\bar{Y}_{.c} - \\bar{Y}_{..}\n"
 "\n"
@@ -1771,6 +1784,7 @@ msgstr ""
 "க்கான தொடர்பு விளைவு குறித்த எங்கள் மதிப்பீடாக பின்வருவனவற்றைப் பெறுகிறோம், அதாவது"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:166
+#, python-brace-format
 msgid ""
 "\\hat{(\\alpha\\beta)}_{rc} = \\bar{Y}_{rc} - \\bar{Y}_{r.} - \\bar{Y}_{.c} "
 "+ \\bar{Y}_{..}\n"
@@ -1791,6 +1805,7 @@ msgstr ""
 "தொடர்புடைய சதுரங்களின் தொகைக்கு பின்வரும் சூத்திரத்தைப் பெறுகிறோம்"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:173
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A:B} = N \\sum_{r=1}^R \\sum_{c=1}^C \\left( \\bar{Y}_{rc} - "
 "\\bar{Y}_{r.} - \\bar{Y}_{.c} + \\bar{Y}_{..} \\right)^2\n"
@@ -2217,6 +2232,7 @@ msgstr ""
 "பார்ப்போம், இதிலிருந்து: NumRef: `Fig-factoriananova3`:"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
+#, python-format
 msgid ""
 "Looking at the η² values first, we see that ``drug`` accounts for 71\\% of "
 "the variance (i.e. η² = 0.71) in ``mood.gain``, whereas ``therapy`` only "
@@ -2320,6 +2336,7 @@ msgstr ""
 "திரைக்காட்சி, அதாவது தொடர்பு கூறு உட்பட, | மருத்துவமினை | _ தரவுத்தொகுப்புடன்"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
+#, python-format
 msgid ""
 "In the output we see that the estimated mean mood gain for the placebo group "
 "with no therapy was 0.300, with a 95\\% confidence interval from 0.006 to "
@@ -2648,6 +2665,7 @@ msgid "Estimated Marginal means within the ANCOVA"
 msgstr "அன்கோவாவுக்குள் மதிப்பிடப்பட்ட விளிம்பு வழிமுறைகள்"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:96
+#, python-format
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
@@ -3309,21 +3327,15 @@ msgstr "*b*\\ :sub:`0` + *b*\\ :sub:`1` + *b*\\ :sub:`2`"
 #: ../../Ch14/Ch14_ANOVA2_07.rst:240
 msgid ""
 "As you can see, the intercept term *b*\\ :sub:`0` acts like a kind of "
-"“baseline” grade that you would expect from those students who don’t take "
-"the time to attend class or read the textbook. Similarly, *b*\\ :sub:`1` "
-"represents the boost that you’re expected to get if you come to class, and "
-"*b*\\ :sub:`2` represents the boost that comes from reading the textbook. In "
-"fact, if this were an ANOVA you might very well want to characterise *b*\\ :"
-"sub:`1` as the main effect of attendance, and *b*\\ :sub:`2` as the main "
-"effect of reading! In fact, for a simple 2 × 2 ANOVA that’s *exactly* how it "
-"plays out."
+"“baseline” ``grade`` that you would expect from those students who don’t "
+"take the time to attend class or read the textbook. Similarly, *b*\\ :sub:"
+"`1` represents the boost that you’re expected to get if you come to class, "
+"and *b*\\ :sub:`2` represents the boost that comes from reading the "
+"textbook. In fact, if this were an ANOVA you might very well want to "
+"characterise *b*\\ :sub:`1` as the main effect of attendance, and *b*\\ :sub:"
+"`2` as the main effect of reading! In fact, for a simple 2 × 2 ANOVA that’s "
+"*exactly* how it plays out."
 msgstr ""
-"நீங்கள் பார்க்க முடியும் என, இடைமறிப்பு சொல் *பி *\\: துணை: `0` வகுப்பில் கலந்து கொள்ள "
-"அல்லது பாடப்புத்தகத்தைப் படிக்க நேரம் எடுக்காத அந்த மாணவர்களிடமிருந்து நீங்கள் எதிர்பார்க்கும் "
-"ஒரு வகையான“ அடிப்படை ”தரத்தைப் போல செயல்படுகிறது. இதேபோல், *பி *\\: துணை: `1` "
-"நீங்கள் வகுப்பிற்கு வந்தால் நீங்கள் எதிர்பார்க்கும் ஊக்கத்தை குறிக்கிறது, மேலும் *பி *\\: துணை:"
-"` 2` பாடப்புத்தகத்தைப் படிப்பதில் இருந்து வரும் ஊக்கத்தை குறிக்கிறது. உண்மையில். உண்மையில், "
-"ஒரு எளிய 2 × 2 ANOVA க்கு * சரியாக * அது எவ்வாறு இயங்குகிறது."
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:249
 msgid ""
@@ -3351,6 +3363,7 @@ msgid ""
 msgstr "|"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:267
+#, python-format
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -4278,6 +4291,7 @@ msgid ""
 msgstr "`` சிபிடி`` உடன் சிகிச்சையளிக்கப்பட்டவர்களுக்கு `` மனநிலை."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
+#, python-format
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "
