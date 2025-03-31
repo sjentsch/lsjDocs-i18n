@@ -1961,7 +1961,7 @@ msgstr ""
 "squared.html>`__ av Daniel Lakens som antyder at eta-kvadrat kanskje ikke er "
 "det beste effektstørrelsesmålet i dataanalyse i den virkelige verden, fordi "
 "det kan være en skjev estimator. Det er nyttig å merke seg at det også "
-"finnes et alternativ i jamovi for å spesifisere omega-kvadrat (ω²), som er "
+"finnes en opsjon i jamovi for å spesifisere omega-kvadrat (ω²), som er "
 "mindre skjevt, i tillegg til eta-kvadrat."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:4

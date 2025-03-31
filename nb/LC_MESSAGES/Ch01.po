@@ -188,7 +188,7 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:4
 msgid "The curse of belief bias"
-msgstr "Forbannelsen av trosskjevhet"
+msgstr "Forbannelsen av belief bias-effekten"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:6
 msgid ""
