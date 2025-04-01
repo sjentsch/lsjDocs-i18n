@@ -6,55 +6,19 @@ msgstr ""
 "POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: vi\n"
 "Language-Team: vi <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch07/Ch07_Probability.rst:4
 msgid "Introduction to probability"
 msgstr ""
 
-#: ../../Ch07/Ch07_Probability.rst:0 ../../Ch07/Ch07_Probability.rst
+#: ../../Ch07/Ch07_Probability.rst:0
 msgid "*[God] has afforded us only the twilight … of Probability.*"
 msgstr ""
 
@@ -91,7 +55,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability.rst:45
-#, python-format
 msgid ""
 "This kind of remark is entirely unremarkable in the papers or in everyday "
 "life, but let’s have a think about what it entails. A polling company has "
@@ -110,7 +73,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability.rst:61
-#, python-format
 msgid ""
 "The answer to the question is pretty obvious. If I call 1000 people at "
 "random, and 230 of them say they intend to vote for the ALP, then it seems "
@@ -175,7 +137,6 @@ msgid "What are the chances that I’ll win the lottery?"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_1.rst:25
-#, python-format
 msgid ""
 "Notice that all of these questions have something in common. In each case "
 "the “truth of the world” is known and my question relates to the “what kind "
@@ -541,7 +502,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:124
-#, python-format
 msgid ""
 "However, it also has undesirable characteristics. First, infinite sequences "
 "don’t exist in the physical world. Suppose you picked up a coin from your "
@@ -1093,7 +1053,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:100
-#, python-format
 msgid ""
 "To that end, :numref:`fig-binomSkulls20` plots the binomial probabilities "
 "for all possible values of *X* for our dice rolling experiment, from *X* = 0 "
@@ -1270,7 +1229,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:109
-#, python-format
 msgid ""
 "Notice, though, that when we widen the distribution the height of the peak "
 "shrinks. This has to happen, in the same way that the heights of the bars "
@@ -1289,15 +1247,14 @@ msgid "Normal distribution: area under the curve for 1 and 2 SD"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:127
-#, python-format
 msgid ""
 "The area under the curve tells you the probability that an observation falls "
 "within a particular range. The solid lines plot normal distributions with "
 "mean μ = 0 and standard deviation σ = 1. The shaded areas illustrate “areas "
 "under the curve” for two important cases. In the left panel, we can see that "
 "there is a 68.3\\% chance that an observation will fall within one standard "
-"deviation of the mean. In the right panel, we see that there is a 95.4\\"
-"% chance that an observation will fall within two standard deviations of the "
+"deviation of the mean. In the right panel, we see that there is a 95.4\\% "
+"chance that an observation will fall within two standard deviations of the "
 "mean."
 msgstr ""
 
@@ -1306,10 +1263,9 @@ msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
-#, python-format
 msgid ""
-"Two more examples of the “area under the curve” idea. There is a 15.9\\"
-"% chance that an observation is one standard deviation below the mean or "
+"Two more examples of the “area under the curve” idea. There is a 15.9\\% "
+"chance that an observation is one standard deviation below the mean or "
 "smaller (left panel), and a 34.1\\% chance that the observation is somewhere "
 "between one standard deviation below the mean and the mean (right panel). "
 "Notice that if you add these two numbers together you get 15.9\\% + 34.1\\% "
