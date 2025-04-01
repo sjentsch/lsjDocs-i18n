@@ -6,48 +6,12 @@ msgstr ""
 "POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: vi\n"
 "Language-Team: vi <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch10/Ch10_ChiSquare.rst:4
@@ -294,7 +258,6 @@ msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:105
-#, python-format
 msgid ""
 "Now, because this is statistics, we have to be able to say the same thing in "
 "a mathematical way. To do this, let’s use the notation *P*\\ :sub:`j`\\ to "
@@ -460,7 +423,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:205
-#, python-brace-format
 msgid ""
 "Now we’re making progress. What we’ve got now is a collection of numbers "
 "that are big whenever the null hypothesis makes a bad prediction (clubs and "
@@ -493,7 +455,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:236
-#, python-brace-format
 msgid ""
 "\\chi^2 = \\sum_{i=1}^k \\frac{(O_i - E_i)^2}{E_i}\n"
 "\n"
@@ -559,7 +520,6 @@ msgid "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 msgstr "*O*\\ :sub:`i` ~ Binomial(*P*\\ :sub:`i`\\, N)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:280
-#, python-brace-format
 msgid ""
 "Now, if you remember from our discussion of :ref:`the central limit theorem "
 "<central_limit_theorem>` the binomial distribution starts to look pretty "
@@ -658,7 +618,6 @@ msgid "Testing the null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:362
-#, python-format
 msgid ""
 "The final step in the process of constructing our hypothesis test is to "
 "figure out what the rejection region is. That is, what values of χ² would "
@@ -1184,7 +1143,6 @@ msgid "Specifying a different null hypothesis"
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:467
-#, python-format
 msgid ""
 "At this point you might be wondering what to do if you want to run a "
 "goodness-of-fit test but your null hypothesis is *not* that all categories "
@@ -1350,11 +1308,11 @@ msgstr ""
 msgid "A comment on statistical notation"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:0 ../../Ch10/Ch10_ChiSquare_1.rst
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "*Satan delights equally in statistics and in quoting scripture*"
 msgstr ""
 
-#: ../../Ch10/Ch10_ChiSquare_1.rst:0 ../../Ch10/Ch10_ChiSquare_1.rst
+#: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "– H.G. Wells"
 msgstr ""
 
@@ -1820,7 +1778,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:151
-#, python-brace-format
 msgid ""
 "\\hat{P}_i = \\frac{R_i}{N}\n"
 "\n"
@@ -1911,7 +1868,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:205
-#, python-brace-format
 msgid ""
 "\\begin{array}{rcl}\n"
 "df &=& \\mbox{(number of observations)} - \\mbox{(number of constraints)} \\"
@@ -1938,7 +1894,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:228
-#, python-brace-format
 msgid ""
 "\\begin{array}{rcl}\n"
 "df &=& \\mbox{(number of observations)} - \\mbox{(number of constraints)} \\"
@@ -2085,7 +2040,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:28
-#, python-brace-format
 msgid ""
 "\\chi^2 = \\sum_{i} \\frac{(|E_i - O_i| - 0.5)^2}{E_i}\n"
 "\n"
@@ -2192,7 +2146,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:10
-#, python-format
 msgid ""
 "*Expected frequencies are sufficiently large*. Remember how in the previous "
 "section we saw that the χ² sampling distribution emerges because the "
@@ -2536,7 +2489,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:87
-#, python-brace-format
 msgid ""
 "\\chi^2 = \\frac{(|b-c| - 0.5)^2}{b+c}\n"
 "\n"
