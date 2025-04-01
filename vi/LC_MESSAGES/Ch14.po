@@ -6,48 +6,12 @@ msgstr ""
 "POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: vi\n"
 "Language-Team: vi <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch14/Ch14_ANOVA2.rst:4
@@ -691,7 +655,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:412
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A} = (N \\times C)  \\sum_{r=1}^R  \\left( \\bar{Y}_{r.} - "
 "\\bar{Y}_{..} \\right)^2\n"
@@ -720,7 +683,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:429
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_{B} = (N \\times R) \\sum_{c=1}^C \\left( \\bar{Y}_{.c} - \\bar{Y}"
 "_{..} \\right)^2\n"
@@ -789,7 +751,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:472
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_T = \\sum_{r=1}^R \\sum_{c=1}^C \\sum_{i=1}^N \\left( Y_{rci} - "
 "\\bar{Y}_{..}\\right)^2\n"
@@ -1241,7 +1202,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:144
-#, python-brace-format
 msgid ""
 "\\hat{\\alpha}_r = \\bar{Y}_{r.} - \\bar{Y}_{..}\n"
 "\n"
@@ -1256,7 +1216,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:149
-#, python-brace-format
 msgid ""
 "\\hat{\\beta}_c = \\bar{Y}_{.c} - \\bar{Y}_{..}\n"
 "\n"
@@ -1306,7 +1265,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:166
-#, python-brace-format
 msgid ""
 "\\hat{(\\alpha\\beta)}_{rc} = \\bar{Y}_{rc} - \\bar{Y}_{r.} - \\bar{Y}_{.c} "
 "+ \\bar{Y}_{..}\n"
@@ -1324,7 +1282,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:173
-#, python-brace-format
 msgid ""
 "\\mbox{SS}_{A:B} = N \\sum_{r=1}^R \\sum_{c=1}^C \\left( \\bar{Y}_{rc} - "
 "\\bar{Y}_{r.} - \\bar{Y}_{.c} + \\bar{Y}_{..} \\right)^2\n"
@@ -1611,7 +1568,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
-#, python-format
 msgid ""
 "Looking at the η² values first, we see that ``drug`` accounts for 71\\% of "
 "the variance (i.e. η² = 0.71) in ``mood.gain``, whereas ``therapy`` only "
@@ -1679,7 +1635,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
-#, python-format
 msgid ""
 "In the output we see that the estimated mean mood gain for the placebo group "
 "with no therapy was 0.300, with a 95\\% confidence interval from 0.006 to "
@@ -1902,7 +1857,6 @@ msgid "Estimated Marginal means within the ANCOVA"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:96
-#, python-format
 msgid ""
 "Table with the Estimated Marginal means within the ANCOVA: Shown are the "
 "mean happiness level as a function of stress and commuting method (adjusted "
@@ -2434,7 +2388,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:267
-#, python-format
 msgid ""
 "There’s a few interesting things to note here. First, notice that the "
 "intercept term is 43.5 which is close to the “group” mean of 42.5 observed "
@@ -3062,7 +3015,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
-#, python-format
 msgid ""
 "For any one of these comparisons, we’re interested in the true difference "
 "between (population) group means. Tukey’s HSD constructs **simultaneous "
