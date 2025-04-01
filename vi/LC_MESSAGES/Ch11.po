@@ -6,48 +6,12 @@ msgstr ""
 "POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Learning statistics with jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: vi\n"
 "Language-Team: vi <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch11/Ch11_tTest.rst:4
@@ -371,7 +335,6 @@ msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 msgstr "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:180
-#, python-format
 msgid ""
 "(again, see section :doc:`../Ch04/Ch04_Descriptives_5` if you’ve forgotten "
 "why this is true). In other words, regardless of what scale the original "
@@ -627,7 +590,6 @@ msgid "Introducing the *t*-test"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:53
-#, python-brace-format
 msgid ""
 "This ambiguity is annoying, and it was resolved in 1908 by a guy called "
 "William Sealy Gosset (:ref:`Student, 1908 <Student_1908>`), who was working "
@@ -654,7 +616,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch11/Ch11_tTest_02.rst:69
-#, python-brace-format
 msgid ""
 "The only thing that has changed in the equation is that instead of using the "
 "known true value σ, we use the estimate :math:`\\hat{\\sigma}`. And if this "
@@ -718,10 +679,9 @@ msgid "Conducting an One-sample *t*-test in jamovi"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:130
-#, python-format
 msgid ""
-"Also reported are two other things you might care about: the 95\\"
-"% confidence interval and a measure of effect size (we’ll talk more about "
+"Also reported are two other things you might care about: the 95\\% "
+"confidence interval and a measure of effect size (we’ll talk more about "
 "effect sizes later). So that seems straightforward enough. Now what do we "
 "*do* with this output? Well, since we’re pretending that we actually care "
 "about my toy example, we’re overjoyed to discover that the result is "
@@ -730,7 +690,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:138
-#, python-format
 msgid ""
 "With a mean grade of 72.3, the psychology students scored slightly higher "
 "than the average grade of 67.5 (*t*\\(19) = 2.25, *p* < 0.05); the mean "
@@ -813,7 +772,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:200
-#, python-brace-format
 msgid ""
 "A technical comment. In the same way that we can weaken the assumptions of "
 "the *z*-test so that we’re only talking about the sampling distribution, we "
@@ -945,7 +903,6 @@ msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
-#, python-format
 msgid ""
 "The plots show the mean grade for students in Anastasia’s and Bernadette’s "
 "tutorials. Error bars depict 95\\% confidence intervals around the mean. "
@@ -1072,7 +1029,6 @@ msgid "w\\ :sub:`2` = *N*\\ :sub:`2` - 1"
 msgstr "w\\ :sub:`2` = *N*\\ :sub:`2` - 1"
 
 #: ../../Ch11/Ch11_tTest_03.rst:166
-#, python-brace-format
 msgid ""
 "Now that we’ve assigned weights to each sample we calculate the pooled "
 "estimate of the variance by taking the weighted average of the two variance "
@@ -1172,7 +1128,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch11/Ch11_tTest_03.rst:218
-#, python-brace-format
 msgid ""
 "Oh, and if you take the square root of this then you get :math:"
 "`\\hat{\\sigma}_p`, the pooled standard deviation estimate. In other words, "
@@ -1185,7 +1140,6 @@ msgid "Completing the test"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:227
-#, python-brace-format
 msgid ""
 "Regardless of which way you want to think about it, we now have our pooled "
 "estimate of the standard deviation. From now on, I’ll drop the silly *p* "
@@ -1276,7 +1230,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:291
-#, python-format
 msgid ""
 "It’s pretty important to be clear on what this confidence interval actually "
 "refers to. It is a confidence interval for the *difference* between the "
@@ -1298,7 +1251,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:306
-#, python-format
 msgid ""
 "The mean grade in Anastasia’s class was 74.5\\% (std dev = 9.0), whereas the "
 "mean in Bernadette’s class was 69.1\\% (std dev = 5.8). A Student’s "
@@ -1738,7 +1690,6 @@ msgid "Descriptives for the two grade test variables in the |chico|_ data set"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:55
-#, python-format
 msgid ""
 "If we take a quick look at the descriptive statistics, in :numref:`fig-"
 "ttest_paired1`, we see that this impression seems to be supported. Across "
@@ -1757,7 +1708,6 @@ msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
-#, python-format
 msgid ""
 "Mean grade for test 1 and test 2, with associated 95\\% confidence intervals "
 "(left panel). Scatterplot showing the individual grades for test 1 and test "
@@ -1906,7 +1856,6 @@ msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:184
-#, python-format
 msgid ""
 "The output shown in :numref:`fig-ttest_paired2` is (obviously) formatted "
 "exactly the same was as it was the last time we used the ``One Sample T-"
@@ -1962,7 +1911,6 @@ msgid "One-sided tests"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
-#, python-format
 msgid ""
 "When introducing the theory of null hypothesis tests, I mentioned that there "
 "are some situations when it’s appropriate to specify a *one-sided* test (see "
@@ -1993,7 +1941,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
-#, python-format
 msgid ""
 "Notice that there are a few changes from the output that we saw last time. "
 "Most important is the fact that the actual hypothesis has changed, to "
@@ -2166,7 +2113,6 @@ msgid "Cohen’s *d* from one sample"
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:57
-#, python-brace-format
 msgid ""
 "The simplest situation to consider is the one corresponding to a one-sample "
 "*t*-test. In this case, this is the one sample mean *X̄* and one "
@@ -2287,7 +2233,6 @@ msgstr ""
 "\n"
 
 #: ../../Ch11/Ch11_tTest_07.rst:135
-#, python-brace-format
 msgid ""
 "where :math:`\\hat{\\sigma}_D` is the estimate of the standard deviation of "
 "the differences. In :numref:`fig-ttest_paired3` Cohen’s *d* = 1.45, "
@@ -2296,7 +2241,6 @@ msgid ""
 msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:140
-#, python-format
 msgid ""
 "This is the version of Cohen’s *d* that gets reported by the jamovi ``Paired "
 "Samples T-Test`` analysis. The only wrinkle is figuring out whether this is "
