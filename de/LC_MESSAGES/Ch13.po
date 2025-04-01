@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
+"POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,14 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: 2025-03-31 16:02+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language: de\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch13/de/"
-">\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-01 22:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -406,9 +403,9 @@ msgstr "Name"
 msgid "person"
 msgstr "Person"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:398
-#: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
-#: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:397
+#: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
+#: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "group"
 msgstr "Gruppe"
 
@@ -428,9 +425,9 @@ msgstr "schlechte Laune"
 msgid "*p*"
 msgstr "*p*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:400
-#: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
-#: ../../Ch13/Ch13_ANOVA_02.rst:493 ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:399
+#: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
+#: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "*k*"
 msgstr "*k*"
 
@@ -467,7 +464,7 @@ msgid "Ben"
 msgstr "Ben"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
-#: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:596
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:204
 #: ../../Ch13/Ch13_ANOVA_06.rst:333 ../../Ch13/Ch13_ANOVA_07.rst:68
 #: ../../Ch13/Ch13_ANOVA_07.rst:74
@@ -711,32 +708,29 @@ msgstr ""
 "\\right)^2\\end{aligned}"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:178
-#, fuzzy
 msgid ""
 "It’s not too difficult to show that the total variation among people in the "
 "experiment |SS_t| is actually the sum of the differences between the groups |"
-"SS_b| and the variation inside the groups S\\ :sub:`w`\\. That is,"
+"SS_b| and the variation inside the groups |SS_w|. That is,"
 msgstr ""
 "Es ist nicht allzu schwierig zu zeigen, dass die Gesamtvariation zwischen "
 "den Personen im Experiment |SS_t| eigentlich die Summe der Unterschiede "
 "zwischen den Gruppen |SS_b| und der Variation innerhalb der Gruppen |SS_w| "
 "ist. Das bedeutet,"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:183
+#: ../../Ch13/Ch13_ANOVA_02.rst:182
 msgid "|SS_w| + |SS_b| = |SS_t|"
 msgstr "|SS_w| + |SS_b| = |SS_t|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:185
+#: ../../Ch13/Ch13_ANOVA_02.rst:184
 msgid "Yay."
 msgstr "Hurra!"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:189
-#, fuzzy
-msgid "illustration of between and within groups variation"
-msgstr ""
-"Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
+#: ../../Ch13/Ch13_ANOVA_02.rst:188
+msgid "Illustration of between and within groups variation"
+msgstr "Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:192
 msgid ""
 "Graphical illustration of “between groups” variation (left panel) and "
 "“within groups” variation (right panel). In the left panel, the arrows show "
@@ -748,7 +742,7 @@ msgstr ""
 "die Unterschiede zwischen den Gruppenmittelwerten an. Die Pfeile in der "
 "rechten Abbildung heben die Variabilität innerhalb jeder Gruppe hervor."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:200
+#: ../../Ch13/Ch13_ANOVA_02.rst:199
 msgid ""
 "Okay, so what have we found out? We’ve discovered that the total variability "
 "associated with the outcome variable (|SS_t|\\) can be mathematically carved "
@@ -762,7 +756,7 @@ msgstr ""
 "zwischen den Stichprobenmittelwerten der Gruppen“ (|SS_b|\\) plus „der "
 "gesamten restlichen Variation“ (|SS_w|\\) zerlegt werden kann.\\ [#]_"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:207
+#: ../../Ch13/Ch13_ANOVA_02.rst:206
 msgid ""
 "How does that help me find out whether the groups have different population "
 "means? Um. Wait. Hold on a second. Now that I think about it, this is "
@@ -782,11 +776,11 @@ msgstr ""
 "allem anderen verbundene Variation“, |SS_w|\\. Hmm. Ich spüre, dass da ein "
 "Hypothesentest im Anmarsch ist."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:216
+#: ../../Ch13/Ch13_ANOVA_02.rst:215
 msgid "From sums of squares to the *F*-test"
 msgstr "Von den Quadratsummen zum *F*-Test"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:218
+#: ../../Ch13/Ch13_ANOVA_02.rst:217
 msgid ""
 "As we saw in the last section, the *qualitative* idea behind ANOVA is to "
 "compare the two sums of squares values |SS_b| and |SS_w| to each other. If "
@@ -810,7 +804,7 @@ msgstr ""
 "dann versuchen, Ihnen ein Gefühl dafür zu vermitteln, *warum* wir es auf "
 "diese Weise tun."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:229
+#: ../../Ch13/Ch13_ANOVA_02.rst:228
 msgid ""
 "In order to convert our SS values into an *F*-ratio the first thing we need "
 "to calculate is the **degrees of freedom** associated with the |SS_b| and |"
@@ -835,15 +829,15 @@ msgstr ""
 "(*G* Datenpunkte) um den Gesamtmittelwert (1 Einschränlung) interessiert. "
 "Daher sind die Freiheitsgrade hier:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:241 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|df_b| = *G* - 1"
 msgstr "|df_b| = *G* - 1"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:243 ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|df_w| = *N* - *G*"
 msgstr "|df_w| = *N* - *G*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:245
+#: ../../Ch13/Ch13_ANOVA_02.rst:244
 msgid ""
 "Okay, that seems simple enough. What we do next is convert our summed "
 "squares value into a “mean squares” value, which we do by dividing by the "
@@ -854,15 +848,15 @@ msgstr ""
 "Abweichungen“ (*mean squares*, MS) um, indem wir ihn durch die "
 "Freiheitsgrade teilen:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:249 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:248 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|MS_b| = |SS_b| / |df_b|"
 msgstr "|MS_b| = |SS_b| / |df_b|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:250 ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:249 ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|MS_w| = |SS_w| / |df_w|"
 msgstr "|MS_w| = |SS_w| / |df_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:252
+#: ../../Ch13/Ch13_ANOVA_02.rst:251
 msgid ""
 "Finally, we calculate the *F*-ratio by dividing the between-groups MS by the "
 "within-groups MS:"
@@ -870,11 +864,11 @@ msgstr ""
 "Schließlich berechnen wir den *F*-Bruch, indem wir die MS zwischen den "
 "Gruppen durch die MS innerhalb der Gruppen dividieren:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:255 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:254 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "F = |MS_b| / |MS_w|"
 msgstr "F = |MS_b| / |MS_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:257
+#: ../../Ch13/Ch13_ANOVA_02.rst:256
 msgid ""
 "At a very general level, the intuition behind the *F*-statistic is "
 "straightforward. Bigger values of *F* means that the between-groups "
@@ -893,7 +887,7 @@ msgstr ""
 "dies zu verstehen, müssen Sie etwas genauer wissen, was eine ANOVA ist und "
 "was die Werte der mittleren quadrierten Abweichungen eigentlich bedeuten."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:266
+#: ../../Ch13/Ch13_ANOVA_02.rst:265
 msgid ""
 "The next section discusses that in a bit of detail, but for readers that "
 "aren’t interested in the details of what the test is actually measuring I’ll "
@@ -920,7 +914,7 @@ msgstr ""
 "Gruppen |df_b|, und der zweite Parameter *df*\\ :sub:`2` entspricht den "
 "Freiheitsgraden innerhalb der Gruppen |df_w|\\."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:277
+#: ../../Ch13/Ch13_ANOVA_02.rst:276
 msgid ""
 "A summary of all the key quantities involved in a one-way ANOVA, including "
 "the formulas showing how they are calculated, is shown in :numref:`tab-"
@@ -930,7 +924,7 @@ msgstr ""
 "ANOVA (*one-way ANOVA*) beteiligt sind, einschließlich der Formeln, die "
 "zeigen, wie sie berechnet werden, ist zu finden in :numref:`tab-anovatable`."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:280
+#: ../../Ch13/Ch13_ANOVA_02.rst:279
 msgid ""
 "All of the key quantities involved in an ANOVA organised into a “standard” "
 "ANOVA table. The formulas for all quantities (except the *p*-value which has "
@@ -942,51 +936,51 @@ msgstr ""
 "Größen (mit Ausnahme des *p*-Wertes, der eine sehr hässliche Formel hat und "
 "ohne Computer nur sehr schwer zu berechnen wäre) sind angegeben."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*df*"
 msgstr "*df*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "sum of squares"
 msgstr "Quadratsummen"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "mean squares"
 msgstr "Mittlere quadrierte Abweichungen"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*F*-statistic"
 msgstr "*F*-Statistik"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*p*-value"
 msgstr "*p*-Wert"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289 ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "**between groups**"
 msgstr "**zwischen Gruppen**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|SS_b| = |f_SS_b|"
 msgstr "|SS_b| = |f_SS_b|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "[complicated]"
 msgstr "[kompliziert]"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:291 ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:290 ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "**within groups**"
 msgstr "**innerhalb von Gruppen**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|SS_w| = |f_SS_w|"
 msgstr "|SS_w| = |f_SS_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:297
+#: ../../Ch13/Ch13_ANOVA_02.rst:296
 msgid "The model for the data and the meaning of *F*"
 msgstr "Ein Modell für die Daten und die Bedeutung von *F*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:299
+#: ../../Ch13/Ch13_ANOVA_02.rst:298
 msgid ""
 "At a fundamental level ANOVA is a competition between two different "
 "statistical models, H\\ :sub:`0` and H\\ :sub:`1`. When I described the null "
@@ -1027,7 +1021,7 @@ msgstr ""
 "„Fehler“. In der Statistik bedeuten beide Wörter „Restvariabilität“, d. h. "
 "„Dinge“, die das Modell nicht erklären kann."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:319
+#: ../../Ch13/Ch13_ANOVA_02.rst:318
 msgid ""
 "In any case, here’s what the null hypothesis looks like when we write it as "
 "a statistical model"
@@ -1035,11 +1029,11 @@ msgstr ""
 "In jeden Fall sieht die Nullhypothese so aus, wenn wir sie als statistisches "
 "Modell schreiben"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:322
+#: ../../Ch13/Ch13_ANOVA_02.rst:321
 msgid "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 msgstr "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:324
+#: ../../Ch13/Ch13_ANOVA_02.rst:323
 msgid ""
 "where we make the *assumption* (discussed later) that the residual values "
 "ϵ\\ :sub:`ik` are normally distributed, with mean 0 and a standard deviation "
@@ -1053,11 +1047,11 @@ msgstr ""
 "Notation zu verwenden, die wir in Kapitel :doc:`../Ch07/Ch07_Probability` "
 "eingeführt haben, würden wir diese Annahme wie folgt schreiben:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:330 ../../Ch13/Ch13_ANOVA_06.rst:29
+#: ../../Ch13/Ch13_ANOVA_02.rst:329 ../../Ch13/Ch13_ANOVA_06.rst:29
 msgid "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
 msgstr "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:332
+#: ../../Ch13/Ch13_ANOVA_02.rst:331
 msgid ""
 "What about the alternative hypothesis, H\\ :sub:`1`? The only difference "
 "between the null hypothesis and the alternative hypothesis is that we allow "
@@ -1073,11 +1067,11 @@ msgstr ""
 "bezeichnen, dann lautet das entsprechende statistische Modell, das H\\ :sub:"
 "`1`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:339
+#: ../../Ch13/Ch13_ANOVA_02.rst:338
 msgid "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 msgstr "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:341
+#: ../../Ch13/Ch13_ANOVA_02.rst:340
 msgid ""
 "where, once again, we assume that the error terms are normally distributed "
 "with mean 0 and standard deviation σ. That is, the alternative hypothesis "
@@ -1087,7 +1081,7 @@ msgstr ""
 "dem Mittelwert 0 und der Standardabweichung σ. Das heißt, die "
 "Alternativhypothese geht ebenfalls davon aus, dass ϵ ~ Normal(0, σ²)"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:346
+#: ../../Ch13/Ch13_ANOVA_02.rst:345
 msgid ""
 "Okay, now that we’ve described the statistical models underpinning H\\ :sub:"
 "`0` and H\\ :sub:`1` in more detail, it’s now pretty straightforward to say "
@@ -1113,7 +1107,7 @@ msgstr ""
 "den Gruppenmitteln abhängt. Wenn wir diese Größe *Q* nennen, dann können wir "
 "sehen, dass die *F*-Statistik im Grunde genommen ist:\\ [#]_"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:357
+#: ../../Ch13/Ch13_ANOVA_02.rst:356
 msgid ""
 "F = \\frac{\\hat{Q} + \\hat\\sigma^2}{\\hat\\sigma^2}\n"
 "\n"
@@ -1121,7 +1115,7 @@ msgstr ""
 "F = \\frac{\\hat{Q} + \\hat\\sigma^2}{\\hat\\sigma^2}\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:359
+#: ../../Ch13/Ch13_ANOVA_02.rst:358
 msgid ""
 "where the true value *Q* = 0 if the null hypothesis is true, and *Q* > 0 if "
 "the alternative hypothesis is true (:ref:`Hays, 1994 <Hays_1994>`, Ch. 10). "
@@ -1141,7 +1135,7 @@ msgstr ""
 "des *F*-Bruchs einen Mittelwert von 1 hat,\\ [#]_ und wir daher *F*-Werte "
 "größer als 1 sehen müssen, um die Nullhypothese sicher zurückzuweisen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:368
+#: ../../Ch13/Ch13_ANOVA_02.rst:367
 msgid ""
 "To be a bit more precise about the sampling distribution, notice that if the "
 "null hypothesis is true, both |MS_b| and |MS_w| are estimators of the "
@@ -1168,11 +1162,11 @@ msgstr ""
 "Natürlich beschönige ich eine ganze Menge, wenn ich das sage, aber im Großen "
 "und Ganzen ist das der Ursprung unserer Stichprobenverteilung."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:383
+#: ../../Ch13/Ch13_ANOVA_02.rst:382
 msgid "A worked example"
 msgstr "Ein praktisches Beispiel"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:385
+#: ../../Ch13/Ch13_ANOVA_02.rst:384
 msgid ""
 "The previous discussion was fairly abstract and a little on the technical "
 "side, so I think that at this point it might be useful to see a worked "
@@ -1200,58 +1194,58 @@ msgstr ""
 "SS_w|, den Quadratsummen innerhalb der Gruppe. Zunächst erstellen wir eine "
 "schöne Tabelle, die uns bei unseren Berechnungen hilft:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:398 ../../Ch13/Ch13_ANOVA_02.rst:424
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:397 ../../Ch13/Ch13_ANOVA_02.rst:423
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "outcome"
 msgstr "Kriterium"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:400 ../../Ch13/Ch13_ANOVA_02.rst:426
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:399 ../../Ch13/Ch13_ANOVA_02.rst:425
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "|Y_ik|"
 msgstr "|Y_ik|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:402 ../../Ch13/Ch13_ANOVA_02.rst:404
-#: ../../Ch13/Ch13_ANOVA_02.rst:406 ../../Ch13/Ch13_ANOVA_02.rst:428
-#: ../../Ch13/Ch13_ANOVA_02.rst:430 ../../Ch13/Ch13_ANOVA_02.rst:432
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_02.rst:451
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_02.rst:495
-#: ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:403
+#: ../../Ch13/Ch13_ANOVA_02.rst:405 ../../Ch13/Ch13_ANOVA_02.rst:427
+#: ../../Ch13/Ch13_ANOVA_02.rst:429 ../../Ch13/Ch13_ANOVA_02.rst:431
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_02.rst:450
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
+#: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "placebo"
 msgstr "Placebo"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:402 ../../Ch13/Ch13_ANOVA_02.rst:428
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:427
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.5"
 msgstr "0.5"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:404 ../../Ch13/Ch13_ANOVA_02.rst:430
-#: ../../Ch13/Ch13_ANOVA_02.rst:451 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:403 ../../Ch13/Ch13_ANOVA_02.rst:429
+#: ../../Ch13/Ch13_ANOVA_02.rst:450 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.3"
 msgstr "0.3"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:406 ../../Ch13/Ch13_ANOVA_02.rst:432
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:405 ../../Ch13/Ch13_ANOVA_02.rst:431
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.1"
 msgstr "0.1"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:408 ../../Ch13/Ch13_ANOVA_02.rst:410
-#: ../../Ch13/Ch13_ANOVA_02.rst:434 ../../Ch13/Ch13_ANOVA_02.rst:436
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_02.rst:457
-#: ../../Ch13/Ch13_ANOVA_02.rst:497 ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:409
+#: ../../Ch13/Ch13_ANOVA_02.rst:433 ../../Ch13/Ch13_ANOVA_02.rst:435
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
+#: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "anxifree"
 msgstr "Anxifree"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:408 ../../Ch13/Ch13_ANOVA_02.rst:434
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:433
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.6"
 msgstr "0.6"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:410 ../../Ch13/Ch13_ANOVA_02.rst:436
-#: ../../Ch13/Ch13_ANOVA_02.rst:457 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:409 ../../Ch13/Ch13_ANOVA_02.rst:435
+#: ../../Ch13/Ch13_ANOVA_02.rst:456 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.4"
 msgstr "0.4"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:413
+#: ../../Ch13/Ch13_ANOVA_02.rst:412
 msgid ""
 "At this stage, the only thing I’ve included in the table is the raw data "
 "itself. That is, the grouping variable (i.e., ``drug``) and outcome variable "
@@ -1272,26 +1266,26 @@ msgstr ""
 "schwierig, da wir diese Gruppenmittelwerte bereits beim Erstellen unserer "
 "deskriptiven Statistik berechnet haben:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "group mean"
 msgstr "Gruppenmittelwert"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb_k|"
 msgstr "|Yb_k|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:428 ../../Ch13/Ch13_ANOVA_02.rst:430
-#: ../../Ch13/Ch13_ANOVA_02.rst:432
+#: ../../Ch13/Ch13_ANOVA_02.rst:427 ../../Ch13/Ch13_ANOVA_02.rst:429
+#: ../../Ch13/Ch13_ANOVA_02.rst:431
 msgid "**0.45**"
 msgstr "**0.45**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:434 ../../Ch13/Ch13_ANOVA_02.rst:436
+#: ../../Ch13/Ch13_ANOVA_02.rst:433 ../../Ch13/Ch13_ANOVA_02.rst:435
 msgid "**0.72**"
 msgstr "**0.72**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:439
+#: ../../Ch13/Ch13_ANOVA_02.rst:438
 msgid ""
 "Now that we’ve written those down, we need to calculate, again for every "
 "person, the deviation from the corresponding group mean. That is, we want to "
@@ -1304,73 +1298,73 @@ msgstr ""
 "müssen wir alles quadrieren. Wenn wir das tun, erhalten wir das folgende "
 "Ergebnis:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "dev. from group mean"
 msgstr "Abweichung vom Gruppenmittelwert"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "squared deviation"
 msgstr "quadrierte Abweichung"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "(|Y_ik| - |Yb_k|)"
 msgstr "(|Y_ik| - |Yb_k|)"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "(|Y_ik| - |Yb_k|\\)²"
 msgstr "(|Y_ik| - |Yb_k|\\)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_02.rst:451
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_02.rst:495
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_02.rst:450
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
 msgid "0.45"
 msgstr "0.45"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449
+#: ../../Ch13/Ch13_ANOVA_02.rst:448
 msgid "**0.05**"
 msgstr "**0.05**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449
+#: ../../Ch13/Ch13_ANOVA_02.rst:448
 msgid "**0.0025**"
 msgstr "**0.0025**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:451
+#: ../../Ch13/Ch13_ANOVA_02.rst:450
 msgid "**-0.15**"
 msgstr "**-0.15**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:451
+#: ../../Ch13/Ch13_ANOVA_02.rst:450
 msgid "**0.0225**"
 msgstr "**0.0225**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:453
+#: ../../Ch13/Ch13_ANOVA_02.rst:452
 msgid "**-0.35**"
 msgstr "**-0.35**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:453
+#: ../../Ch13/Ch13_ANOVA_02.rst:452
 msgid "**0.1225**"
 msgstr "**0.1225**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_02.rst:457
-#: ../../Ch13/Ch13_ANOVA_02.rst:497
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
+#: ../../Ch13/Ch13_ANOVA_02.rst:496
 msgid "0.72"
 msgstr "0.72"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455
+#: ../../Ch13/Ch13_ANOVA_02.rst:454
 msgid "**-0.12**"
 msgstr "**-0.12**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455
+#: ../../Ch13/Ch13_ANOVA_02.rst:454
 msgid "**0.0136**"
 msgstr "**0.0136**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:457
+#: ../../Ch13/Ch13_ANOVA_02.rst:456
 msgid "**-0.32**"
 msgstr "**-0.32**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:457
+#: ../../Ch13/Ch13_ANOVA_02.rst:456
 msgid "**0.1003**"
 msgstr "**0.1003**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:460
+#: ../../Ch13/Ch13_ANOVA_02.rst:459
 msgid ""
 "The last step is equally straightforward. In order to calculate the within-"
 "group sum of squares we just add up the squared deviations across all "
@@ -1380,11 +1374,11 @@ msgstr ""
 "Gruppen zu berechnen, addieren wir einfach die quadrierten Abweichungen über "
 "alle Beobachtungen:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:464
+#: ../../Ch13/Ch13_ANOVA_02.rst:463
 msgid "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
 msgstr "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:466
+#: ../../Ch13/Ch13_ANOVA_02.rst:465
 msgid ""
 "Of course, if we actually wanted to get the *right* answer we’d need to do "
 "this for all 18 observations in the data set, not just the first five. We "
@@ -1397,7 +1391,7 @@ msgstr ""
 "weitermachen, wenn wir wollten, aber das ist ziemlich mühsam. Alternativ "
 "dazu ist es nicht allzu schwer, dies in Jamovi zu tun."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:472
+#: ../../Ch13/Ch13_ANOVA_02.rst:471
 msgid ""
 "Go to an empty column (at the end of the data set) and double click on the "
 "column header, choose ``New computed variable`` and enter ``sq_res_wth`` in "
@@ -1419,7 +1413,7 @@ msgstr ""
 "nicht sehr überraschend, dass die Werte (abgesehen von Rundungsfehlern) mit "
 "denen in der letzten Spalte der obigen Tabelle identisch sind."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:482
+#: ../../Ch13/Ch13_ANOVA_02.rst:481
 msgid ""
 "Okay. Now that we’ve calculated the within groups variation, |SS_w|, it’s "
 "time to turn our attention to the between-group sum of squares, |SS_b|. The "
@@ -1438,68 +1432,68 @@ msgstr ""
 "den Gruppenmittelwerten |Yb_k| und dem Gesamtmittelwert |Yb| (in diesem Fall "
 "0,88) für alle Gruppen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "grand mean"
 msgstr "Gesamtmittelwert"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "deviation"
 msgstr "Abweichung"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "squared deviations"
 msgstr "quadrierte Abweichungen"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb|"
 msgstr "|Yb|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb_k| - |YB|"
 msgstr "|Yb_k| - |YB|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493 ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "(|Yb_k| - |Yb|)²"
 msgstr "(|Yb_k| - |Yb|)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495 ../../Ch13/Ch13_ANOVA_02.rst:497
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:494 ../../Ch13/Ch13_ANOVA_02.rst:496
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "0.88"
 msgstr "0.88"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495
+#: ../../Ch13/Ch13_ANOVA_02.rst:494
 msgid "-0.43"
 msgstr "-0.43"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495 ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:494 ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "0.19"
 msgstr "0.19"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:497
+#: ../../Ch13/Ch13_ANOVA_02.rst:496
 msgid "-0.16"
 msgstr "-0.16"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:497 ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "0.03"
 msgstr "0.03"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499 ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:498 ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "joyzepam"
 msgstr "Joyzepam"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "1.48"
 msgstr "1.48"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "0.60"
 msgstr "0.60"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499 ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:498 ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "0.36"
 msgstr "0.36"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:502
+#: ../../Ch13/Ch13_ANOVA_02.rst:501
 msgid ""
 "We create another computed variable with the name ``sq_res_btw`` and "
 "``(VMEAN(mood.gain, group_by = drug) - VMEAN(mood.gain) - ) ^ 2`` as "
@@ -1520,7 +1514,7 @@ msgstr ""
 "mit „Joyzepam“; die nächsten neun Zeilen sind eine Wiederholung der ersten "
 "neun Zeilen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:511
+#: ../../Ch13/Ch13_ANOVA_02.rst:510
 msgid ""
 "However, for the between group calculations we need to multiply each of "
 "these squared deviations by |N_k|, the number of observations in the group. "
@@ -1541,48 +1535,48 @@ msgstr ""
 "0,19 = 1,14. Wir müssen also unsere kleine Tabelle mit den Berechnungen "
 "erweitern:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521 ../../Ch13/Ch13_ANOVA_02.rst:523
-#: ../../Ch13/Ch13_ANOVA_02.rst:525 ../../Ch13/Ch13_ANOVA_02.rst:527
-#: ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:520 ../../Ch13/Ch13_ANOVA_02.rst:522
+#: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
+#: ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "…"
 msgstr "…"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "sample size"
 msgstr "Stichprobengröße"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "weighted squared deviat."
 msgstr "gewichtete quadrierte Abweichung."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "|N_k|"
 msgstr "|N_k|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "|N_k| · (|Yb_k| - |Yb|)²"
 msgstr "|N_k| · (|Yb_k| - |Yb|)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:525 ../../Ch13/Ch13_ANOVA_02.rst:527
-#: ../../Ch13/Ch13_ANOVA_02.rst:529 ../../Ch13/Ch13_ANOVA_05.rst:53
+#: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
+#: ../../Ch13/Ch13_ANOVA_02.rst:528 ../../Ch13/Ch13_ANOVA_05.rst:53
 #: ../../Ch13/Ch13_ANOVA_07.rst:66 ../../Ch13/Ch13_ANOVA_07.rst:68
 #: ../../Ch13/Ch13_ANOVA_07.rst:74 ../../Ch13/Ch13_ANOVA_07.rst:76
 msgid "6"
 msgstr "6"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "1.14"
 msgstr "1.14"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "0.18"
 msgstr "0.18"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "2.16"
 msgstr "2.16"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:532
+#: ../../Ch13/Ch13_ANOVA_02.rst:531
 msgid ""
 "And so now our between group sum of squares is obtained by summing these "
 "“weighted squared deviations” over all three groups in the study:"
@@ -1590,11 +1584,11 @@ msgstr ""
 "Die Quadratsumme zwischen den Gruppen ergibt sich also aus der Summe dieser "
 "„gewichteten quadratischen Abweichungen“ über alle drei Gruppen der Studie:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:535
+#: ../../Ch13/Ch13_ANOVA_02.rst:534
 msgid "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
 msgstr "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:537
+#: ../../Ch13/Ch13_ANOVA_02.rst:536
 msgid ""
 "As you can see, the between group calculations are a lot shorter (when "
 "calculated b hand)."
@@ -1602,7 +1596,7 @@ msgstr ""
 "Wie Sie sehen können, sind die Berechnungen zwischen den Gruppen viel kürzer "
 "(wenn sie von Hand berechnet werden)."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:540
+#: ../../Ch13/Ch13_ANOVA_02.rst:539
 msgid ""
 "In jamovi, we can calculate these sums, i.e., the values for |SS_b| and |"
 "SS_w|, by clicking ``Descriptives`` →  ``Descriptive Statistics``, then "
@@ -1620,7 +1614,7 @@ msgstr ""
 "**1.392** und ``sq_res_wth`` (|SS_b|) einen Wert von **3.453** (nur um "
 "Rundungsfehler abweichend von den 3.48, die wir oben berechnet haben)."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:548
+#: ../../Ch13/Ch13_ANOVA_02.rst:547
 msgid ""
 "Now that we’ve calculated our sums of squares values, |SS_b| and |SS_w|, the "
 "rest of the ANOVA is pretty painless. The next step is to calculate the "
@@ -1633,11 +1627,11 @@ msgstr ""
 "gesamte Beobachtungen haben, können unsere Freiheitsgrade durch einfache "
 "Subtraktion berechnet werden:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:553
+#: ../../Ch13/Ch13_ANOVA_02.rst:552
 msgid "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
 msgstr "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:556
+#: ../../Ch13/Ch13_ANOVA_02.rst:555
 msgid ""
 "Next, since we’ve now calculated the values for the sums of squares and the "
 "degrees of freedom, for both the within-groups variability and the between-"
@@ -1650,7 +1644,7 @@ msgstr ""
 "quadrierten Abweichungen, indem wir den einen Wert durch den anderen "
 "dividieren:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:561
+#: ../../Ch13/Ch13_ANOVA_02.rst:560
 msgid ""
 "\\begin{array}{lclclcl}\n"
 "\\mbox{MS}_b &=& \\displaystyle\\frac{\\mbox{SS}_b }{  \\mbox{df}_b } &=& "
@@ -1666,7 +1660,7 @@ msgstr ""
 "\\displaystyle\\frac{1.392}{15} &=& 0.093\n"
 "\\end{array}"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:568
+#: ../../Ch13/Ch13_ANOVA_02.rst:567
 msgid ""
 "We’re almost done. The mean square values can be used to calculate the *F*-"
 "value, which is the test statistic that we’re interested in. We do this by "
@@ -1677,7 +1671,7 @@ msgstr ""
 "an der wir interessiert sind. Dazu wird der MS-Wert zwischen den Gruppen "
 "durch den MS-Wert innerhalb der Gruppen geteilt.\\ [#]_"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:573
+#: ../../Ch13/Ch13_ANOVA_02.rst:572
 msgid ""
 "F = \\frac{\\mbox{MS}_b }{\\mbox{MS}_w} = \\frac{1.727}{0.093} = 18.611\n"
 "\n"
@@ -1685,7 +1679,7 @@ msgstr ""
 "F = \\frac{\\mbox{MS}_b }{\\mbox{MS}_w} = \\frac{1.727}{0.093} = 18.611\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:575
+#: ../../Ch13/Ch13_ANOVA_02.rst:574
 msgid ""
 "Woohooo! This is terribly exciting, yes? Now that we have our test "
 "statistic, the last step is to find out whether the test itself gives us a "
@@ -1718,7 +1712,7 @@ msgstr ""
 "konservativ sind, was unsere Typ-I-Fehlerrate angeht, ist es so gut wie "
 "sicher, dass wir die Nullhypothese zurückweisen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:589
+#: ../../Ch13/Ch13_ANOVA_02.rst:588
 msgid ""
 "At this point, we’re basically done. Having completed our calculations, it’s "
 "traditional to organise all these numbers into an ANOVA table like the one "
@@ -1730,35 +1724,35 @@ msgstr ""
 "wie der in :numref:`tab-anovatable` zu präsentieren. Für unseren |"
 "clinicaltrial|_-Datensatz würde die ANOVA-Tabelle wie folgt aussehen:\\ [#]_"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "3.453"
 msgstr "3.453"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "1.727"
 msgstr "1.727"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "18.611"
 msgstr "18.611"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "0.000086"
 msgstr "0.000086"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "15"
 msgstr "15"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "1.392"
 msgstr "1.392"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "0.093"
 msgstr "0.093"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:602
+#: ../../Ch13/Ch13_ANOVA_02.rst:601
 msgid ""
 "These days, you’ll probably never have much reason to want to construct one "
 "of these tables yourself, but you will find that almost all statistical "
@@ -1777,7 +1771,7 @@ msgstr ""
 "gesamte Tabelle in Ihr Paper aufzunehmen. Um das Ergebnis einer ANOVA zu "
 "berichten, würde man standardmäßig etwas in dieser Art schreiben:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:611
+#: ../../Ch13/Ch13_ANOVA_02.rst:610
 msgid ""
 "One-way ANOVA showed a significant effect of drug on mood gain: *F*\\(2,15) "
 "= 18.61, *p* < 0.001."
@@ -1786,11 +1780,11 @@ msgstr ""
 "der Medikation auf die Stimmungsverbesserung: *F*\\(2,15) = 18,61, *p* < "
 "0,001."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:614
+#: ../../Ch13/Ch13_ANOVA_02.rst:613
 msgid "Sigh. So much work for one short sentence."
 msgstr "Seufz. So viel Arbeit für einen so kurzen Satz."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:619
+#: ../../Ch13/Ch13_ANOVA_02.rst:618
 msgid ""
 "When all groups have the same number of observations, the experimental "
 "design is said to be “balanced”. Balance isn’t such a big deal for one-way "
@@ -1802,7 +1796,7 @@ msgstr ""
 "einfaktoriellen ANOVA, um die es in diesem Kapitel geht, keine große Sache. "
 "Es wird wichtiger, wenn Sie anfangen, kompliziertere ANOVAs durchzuführen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:625
+#: ../../Ch13/Ch13_ANOVA_02.rst:624
 msgid ""
 "|SS_w| is also referred to in an independent ANOVA as the error variance, or "
 "SS\\ :sub:`error`"
@@ -1810,7 +1804,7 @@ msgstr ""
 "|SS_w| wird bei einer unabhängigen ANOVA auch als Fehlervarianz oder SS\\ :"
 "sub:`Fehler` bezeichnet"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:629
+#: ../../Ch13/Ch13_ANOVA_02.rst:628
 #, python-brace-format
 msgid ""
 "If you read ahead to chapter :doc:`../Ch14/Ch14_ANOVA2` and look at how the "
@@ -1826,14 +1820,14 @@ msgstr ""
 "Mittel der quadrierten Behandlungseffekte bezieht, :math:`Q = (\\sum_{k=1}^G "
 "N_k \\alpha_k^2)/(G-1)`."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:636
+#: ../../Ch13/Ch13_ANOVA_02.rst:635
 #, python-brace-format
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
 "Oder, wenn wir es ganz genau nehmen wollen, :math:`1 + \\frac{2}{df_2 - 2}`."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:640
+#: ../../Ch13/Ch13_ANOVA_02.rst:639
 msgid ""
 "Or, to be precise, party like “it’s 1899 and we’ve got no friends and "
 "nothing better to do with our time than do some calculations that wouldn’t "
@@ -1845,7 +1839,7 @@ msgstr ""
 "Berechnungen anzustellen, die 1899 keinen Sinn gemacht hätten, weil es die "
 "ANOVA erst seit den 1920er Jahren gab“."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:646
+#: ../../Ch13/Ch13_ANOVA_02.rst:645
 msgid ""
 "We could as well do this with creating yet another computed variable, named "
 "``F`` using the formula ``(VSUM(sq_res_btw) / 2) / (VSUM(sq_res_wth) / 15)`` "
@@ -1858,7 +1852,7 @@ msgstr ""
 "Sie die obigen Berechnungsschritte nicht nachvollziehen konnten, können Sie "
 "den Datensatz |clinicaltrial_anova|_ herunterladen und öffnen."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:653
+#: ../../Ch13/Ch13_ANOVA_02.rst:652
 msgid ""
 "In order to see the *p*-value with a high number of decimal places, click on "
 "the settings menu (``⋮``, top-right corner) and set the ``p-value format`` "

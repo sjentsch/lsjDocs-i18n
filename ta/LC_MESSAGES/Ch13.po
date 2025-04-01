@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
+"POT-Creation-Date: 2025-04-01 22:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,17 +11,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2025-03-17 18:06+0100\n"
-"PO-Revision-Date: 2025-03-31 16:06+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch13/ta/>\n"
-"Language: ta\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-01 22:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch13/Ch13_ANOVA.rst:4
@@ -326,6 +323,7 @@ msgstr ""
 "பயன்படுத்தினோம். * ஒய் * இன் மாதிரி மாறுபாடு பின்வருமாறு வரையறுக்கப்படுகிறது:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:72
+#, python-brace-format
 msgid ""
 "\\mbox{Var}(Y) = \\frac{1}{N} \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left(Y_{ik} "
 "- \\bar{Y} \\right)^2\n"
@@ -379,9 +377,9 @@ msgstr "பெயர்"
 msgid "person"
 msgstr "ஆள்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:398
-#: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
-#: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:397
+#: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
+#: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "group"
 msgstr "குழு"
 
@@ -401,9 +399,9 @@ msgstr "எரிச்சல்"
 msgid "*p*"
 msgstr "*பி*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:400
-#: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
-#: ../../Ch13/Ch13_ANOVA_02.rst:493 ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:399
+#: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
+#: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "*k*"
 msgstr "*கே*"
 
@@ -440,7 +438,7 @@ msgid "Ben"
 msgstr "பென்"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
-#: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:596
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:204
 #: ../../Ch13/Ch13_ANOVA_06.rst:333 ../../Ch13/Ch13_ANOVA_07.rst:68
 #: ../../Ch13/Ch13_ANOVA_07.rst:74
@@ -533,6 +531,7 @@ msgstr ""
 "சூத்திரத்திற்கு ஒத்ததாகும், இது இருக்கும்"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:123
+#, python-brace-format
 msgid ""
 "\\mbox{Var}(Y) = \\frac{1}{N} \\sum_{p=1}^N  \\left(Y_{p} - \\bar{Y} "
 "\\right)^2\n"
@@ -583,6 +582,7 @@ msgstr ""
 "ஒத்ததாகும்"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:144
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_{tot} = \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left(Y_{ik} - \\bar{Y} "
 "\\right)^2\n"
@@ -613,6 +613,7 @@ msgstr ""
 "தங்கள் சொந்த குழுவிலிருந்து எவ்வளவு வித்தியாசமாக இருக்கிறார்கள் என்பதைப் பார்க்கிறோம்"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:155
+#, python-brace-format
 msgid ""
 "\\mbox{SS}_w = \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left( Y_{ik} - \\bar{Y}_k "
 "\\right)^2\n"
@@ -659,6 +660,7 @@ msgstr ""
 "உள்ள ** ஐக் கணக்கிடுவது **"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:172
+#, python-brace-format
 msgid ""
 "\\begin{aligned}\n"
 "\\mbox{SS}_{b} &=& \\sum_{k=1}^G \\sum_{i=1}^{N_k} \\left( \\bar{Y}_k - "
@@ -676,25 +678,25 @@ msgstr ""
 msgid ""
 "It’s not too difficult to show that the total variation among people in the "
 "experiment |SS_t| is actually the sum of the differences between the groups |"
-"SS_b| and the variation inside the groups S\\ :sub:`w`\\. That is,"
+"SS_b| and the variation inside the groups |SS_w|. That is,"
 msgstr ""
-"பரிசோதனையில் உள்ளவர்களிடையே மொத்த மாறுபாடு | SS_T | என்பதைக் காண்பிப்பது மிகவும் "
-"கடினம் அல்ல உண்மையில் குழுக்களுக்கு இடையிலான வேறுபாடுகளின் கூட்டுத்தொகை | SS_B | "
-"மற்றும் குழுக்களுக்குள் உள்ள மாறுபாடு S \\: துணை: `w` \\. அதாவது,"
+"பரிசோதனையில் உள்ளவர்களிடையே மொத்த மாறுபாடு |SS_t| என்பதைக் காண்பிப்பது மிகவும் "
+"கடினம் அல்ல உண்மையில் குழுக்களுக்கு இடையிலான வேறுபாடுகளின் கூட்டுத்தொகை |SS_b| "
+"மற்றும் குழுக்களுக்குள் உள்ள மாறுபாடு |SS_w|. அதாவது,"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:183
+#: ../../Ch13/Ch13_ANOVA_02.rst:182
 msgid "|SS_w| + |SS_b| = |SS_t|"
 msgstr "|SS_w| + |SS_b| = |SS_t|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:185
+#: ../../Ch13/Ch13_ANOVA_02.rst:184
 msgid "Yay."
 msgstr "ஆம்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:189
-msgid "illustration of between and within groups variation"
+#: ../../Ch13/Ch13_ANOVA_02.rst:188
+msgid "Illustration of between and within groups variation"
 msgstr "குழுக்களுக்கு இடையில் மற்றும் உள்ளே மாறுபாடு மாறுபாடு"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:193
+#: ../../Ch13/Ch13_ANOVA_02.rst:192
 msgid ""
 "Graphical illustration of “between groups” variation (left panel) and "
 "“within groups” variation (right panel). In the left panel, the arrows show "
@@ -706,7 +708,7 @@ msgstr ""
 "வேறுபாடுகளைக் காட்டுகின்றன. வலது பேனலில், அம்புகள் ஒவ்வொரு குழுவிலும் உள்ள மாறுபாட்டை "
 "எடுத்துக்காட்டுகின்றன."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:200
+#: ../../Ch13/Ch13_ANOVA_02.rst:199
 msgid ""
 "Okay, so what have we found out? We’ve discovered that the total variability "
 "associated with the outcome variable (|SS_t|\\) can be mathematically carved "
@@ -719,7 +721,7 @@ msgstr ""
 "வேறுபாடுகள் காரணமாக மாறுபாடு” (|SS_B|\\) பிளச் “மீதமுள்ள மாறுபாடு” (|SS_W|\\).\\ "
 "[#]_"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:207
+#: ../../Ch13/Ch13_ANOVA_02.rst:206
 msgid ""
 "How does that help me find out whether the groups have different population "
 "means? Um. Wait. Hold on a second. Now that I think about it, this is "
@@ -738,11 +740,11 @@ msgstr ""
 "சிறியதாக இருக்கும் என்று நீங்கள் எதிர்பார்க்கிறீர்கள், |ss_w|\\. அ்ம். ஒரு கருதுகோள் "
 "சோதனையை நான் கண்டறிந்தேன்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:216
+#: ../../Ch13/Ch13_ANOVA_02.rst:215
 msgid "From sums of squares to the *F*-test"
 msgstr "சதுரங்களின் தொகையிலிருந்து *F*-test வரை"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:218
+#: ../../Ch13/Ch13_ANOVA_02.rst:217
 msgid ""
 "As we saw in the last section, the *qualitative* idea behind ANOVA is to "
 "compare the two sums of squares values |SS_b| and |SS_w| to each other. If "
@@ -763,7 +765,7 @@ msgstr ""
 "காண்பிப்பதாகும்*எங்கள் சோதனை புள்ளிவிவர, ** f-Ratio ** ஐக் கணக்கிட நாங்கள் என்ன "
 "செய்கிறோம், பின்னர்*ஏன்*இதைச் செய்கிறோம் என்பதற்கான உணர்வை உங்களுக்கு வழங்க முயற்சிக்கவும்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:229
+#: ../../Ch13/Ch13_ANOVA_02.rst:228
 msgid ""
 "In order to convert our SS values into an *F*-ratio the first thing we need "
 "to calculate is the **degrees of freedom** associated with the |SS_b| and |"
@@ -786,15 +788,15 @@ msgstr ""
 "மாறுபாட்டில் ஆர்வமாக உள்ளோம் (* g* தரவு புள்ளிகள்) பெரிய சராசரி (1 கட்டுப்பாடு). "
 "எனவே, இங்கே சுதந்திரத்தின் அளவுகள்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:241 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|df_b| = *G* - 1"
 msgstr "|df_b| = *G* - 1"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:243 ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:242 ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|df_w| = *N* - *G*"
 msgstr "|df_w| = *N* - *G*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:245
+#: ../../Ch13/Ch13_ANOVA_02.rst:244
 msgid ""
 "Okay, that seems simple enough. What we do next is convert our summed "
 "squares value into a “mean squares” value, which we do by dividing by the "
@@ -804,25 +806,25 @@ msgstr ""
 "சுருக்கமான சதுர மதிப்புகளை “சராசரி சதுரங்கள்” மதிப்பாக மாற்றுவதாகும், இது "
 "சுதந்திரத்தின் அளவைக் காண்பிப்பதன் மூலம் நாம் செய்கிறோம்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:249 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:248 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|MS_b| = |SS_b| / |df_b|"
 msgstr "|MS_b| = |SS_b| / |df_b|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:250 ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:249 ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|MS_w| = |SS_w| / |df_w|"
 msgstr "|MS_w| = |SS_w| / |df_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:252
+#: ../../Ch13/Ch13_ANOVA_02.rst:251
 msgid ""
 "Finally, we calculate the *F*-ratio by dividing the between-groups MS by the "
 "within-groups MS:"
 msgstr "இறுதியாக, குழுக்களுக்கு இடையில் உள்ள குழுக்களுக்குள் எம்.எச்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:255 ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:254 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "F = |MS_b| / |MS_w|"
 msgstr "F = |MS_b| / |MS_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:257
+#: ../../Ch13/Ch13_ANOVA_02.rst:256
 msgid ""
 "At a very general level, the intuition behind the *F*-statistic is "
 "straightforward. Bigger values of *F* means that the between-groups "
@@ -840,7 +842,7 @@ msgstr ""
 "பெரியதாக இருக்க வேண்டும்? இதைப் புரிந்து கொள்ள, ANOVA என்றால் என்ன, சராசரி சதுர "
 "மதிப்புகள் உண்மையில் என்ன என்பதைப் பற்றி சற்று ஆழமான புரிதல் உங்களுக்குத் தேவை."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:266
+#: ../../Ch13/Ch13_ANOVA_02.rst:265
 msgid ""
 "The next section discusses that in a bit of detail, but for readers that "
 "aren’t interested in the details of what the test is actually measuring I’ll "
@@ -865,7 +867,7 @@ msgstr ""
 "குழுக்களுக்கு இடையில் | df_b |, மற்றும் இரண்டாவது ஒன்று *df *\\: துணை:` 2` என்பது "
 "குழுக்களுக்குள் சுதந்திரத்தின் பட்டம் | df_w | \\."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:277
+#: ../../Ch13/Ch13_ANOVA_02.rst:276
 msgid ""
 "A summary of all the key quantities involved in a one-way ANOVA, including "
 "the formulas showing how they are calculated, is shown in :numref:`tab-"
@@ -875,7 +877,7 @@ msgstr ""
 "கணக்கிடப்படுகின்றன என்பதைக் காட்டும் சூத்திரங்கள் உட்பட, இதில் காட்டப்பட்டுள்ளது: NUMREF: "
 "`TAB-ANOVATABLE`."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:280
+#: ../../Ch13/Ch13_ANOVA_02.rst:279
 msgid ""
 "All of the key quantities involved in an ANOVA organised into a “standard” "
 "ANOVA table. The formulas for all quantities (except the *p*-value which has "
@@ -887,51 +889,51 @@ msgstr ""
 "மிகவும் அசிங்கமான சூத்திரத்தைக் கொண்டுள்ளது மற்றும் கணினி இல்லாமல் கணக்கிடுவது கனவாக "
 "கடினமாக இருக்கும்) காட்டப்பட்டுள்ளது."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*df*"
 msgstr "*df*"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "sum of squares"
 msgstr "சதுரங்களின் தொகை"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "mean squares"
 msgstr "சராசரி சதுரங்கள்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*F*-statistic"
 msgstr "*F*-ச்டாடிச்டிக்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:287 ../../Ch13/Ch13_ANOVA_02.rst:595
+#: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*p*-value"
 msgstr "*பி*-மதிப்பு"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289 ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "**between groups**"
 msgstr "** குழுக்களுக்கு இடையில் **"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|SS_b| = |f_SS_b|"
 msgstr "|SS_b| = |f_SS_b|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:289
+#: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "[complicated]"
 msgstr "[சிக்கலானது]"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:291 ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:290 ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "**within groups**"
 msgstr "** குழுக்களுக்குள் **"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:291
+#: ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|SS_w| = |f_SS_w|"
 msgstr "|SS_w| = |f_SS_w|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:297
+#: ../../Ch13/Ch13_ANOVA_02.rst:296
 msgid "The model for the data and the meaning of *F*"
 msgstr "தரவுகளுக்கான மாதிரி மற்றும் *f *இன் பொருள்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:299
+#: ../../Ch13/Ch13_ANOVA_02.rst:298
 msgid ""
 "At a fundamental level ANOVA is a competition between two different "
 "statistical models, H\\ :sub:`0` and H\\ :sub:`1`. When I described the null "
@@ -969,7 +971,7 @@ msgstr ""
 "சிறந்த சொல். புள்ளிவிவரங்களில் இரண்டு சொற்களும் “மீதமுள்ள மாறுபாடு” என்று பொருள், அதாவது "
 "மாதிரியால் விளக்க முடியாத “பொருள்”."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:319
+#: ../../Ch13/Ch13_ANOVA_02.rst:318
 msgid ""
 "In any case, here’s what the null hypothesis looks like when we write it as "
 "a statistical model"
@@ -977,11 +979,11 @@ msgstr ""
 "எப்படியிருந்தாலும், நாம் அதை ஒரு புள்ளிவிவர மாதிரியாக எழுதும்போது சுழிய கருதுகோள் "
 "எப்படி இருக்கும் என்பது இங்கே"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:322
+#: ../../Ch13/Ch13_ANOVA_02.rst:321
 msgid "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 msgstr "|Y_ik| = µ + ϵ\\ :sub:`ik`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:324
+#: ../../Ch13/Ch13_ANOVA_02.rst:323
 msgid ""
 "where we make the *assumption* (discussed later) that the residual values "
 "ϵ\\ :sub:`ik` are normally distributed, with mean 0 and a standard deviation "
@@ -994,11 +996,11 @@ msgstr ""
 "(பின்னர் விவாதிக்க) செய்கிறோம். அத்தியாயத்தில் நாம் அறிமுகப்படுத்திய குறியீட்டைப் "
 "பயன்படுத்த: doc: `../ ch07/ch07_probability` இந்த அனுமானத்தை இதுபோன்ற எழுதுவோம்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:330 ../../Ch13/Ch13_ANOVA_06.rst:29
+#: ../../Ch13/Ch13_ANOVA_02.rst:329 ../../Ch13/Ch13_ANOVA_06.rst:29
 msgid "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
 msgstr "ϵ\\ :sub:`ik` ~ Normal(0, σ²)"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:332
+#: ../../Ch13/Ch13_ANOVA_02.rst:331
 msgid ""
 "What about the alternative hypothesis, H\\ :sub:`1`? The only difference "
 "between the null hypothesis and the alternative hypothesis is that we allow "
@@ -1012,11 +1014,11 @@ msgstr ""
 "மக்கள்தொகை சராசரியைக் குறிக்கும் µ \\: sub: `k` அனுமதித்தால், h \\: துணை:` 1` உடன் "
 "தொடர்புடைய புள்ளிவிவர மாதிரி"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:339
+#: ../../Ch13/Ch13_ANOVA_02.rst:338
 msgid "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 msgstr "|Y_ik| = µ\\ :sub:`k` + ϵ\\ :sub:`ik`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:341
+#: ../../Ch13/Ch13_ANOVA_02.rst:340
 msgid ""
 "where, once again, we assume that the error terms are normally distributed "
 "with mean 0 and standard deviation σ. That is, the alternative hypothesis "
@@ -1026,7 +1028,7 @@ msgstr ""
 "விநியோகிக்கப்படுகின்றன என்று மீண்டும் கருதுகிறோம். அதாவது, மாற்று கருதுகோள் ϵ ~ "
 "இயல்பானது (0, σ²) என்றும் கருதுகிறது"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:346
+#: ../../Ch13/Ch13_ANOVA_02.rst:345
 msgid ""
 "Okay, now that we’ve described the statistical models underpinning H\\ :sub:"
 "`0` and H\\ :sub:`1` in more detail, it’s now pretty straightforward to say "
@@ -1048,7 +1050,7 @@ msgstr ""
 "மதிப்பிடுவது பிழை மாறுபாடு * பிளச் * குழு வழிமுறைகளில் உண்மையான வேறுபாடுகளைப் "
 "பொறுத்தது. இந்த அளவை *Q *என்று அழைத்தால், *f *-statistict அடிப்படையில்: \\ [#] _"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:357
+#: ../../Ch13/Ch13_ANOVA_02.rst:356
 msgid ""
 "F = \\frac{\\hat{Q} + \\hat\\sigma^2}{\\hat\\sigma^2}\n"
 "\n"
@@ -1056,7 +1058,7 @@ msgstr ""
 "F = \\frac{\\hat{Q} + \\hat\\sigma^2}{\\hat\\sigma^2}\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:359
+#: ../../Ch13/Ch13_ANOVA_02.rst:358
 msgid ""
 "where the true value *Q* = 0 if the null hypothesis is true, and *Q* > 0 if "
 "the alternative hypothesis is true (:ref:`Hays, 1994 <Hays_1994>`, Ch. 10). "
@@ -1075,7 +1077,7 @@ msgstr ""
 "உண்மையாக இருந்தால் *f *-aratio இன் மாதிரி வழங்கல் 1 இன் சராசரி உள்ளது , \\ [#] _ "
 "எனவே பூச்யத்தை பாதுகாப்பாக நிராகரிக்க 1 ஐ விட பெரிய *f *மதிப்புகளைக் காண வேண்டும்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:368
+#: ../../Ch13/Ch13_ANOVA_02.rst:367
 msgid ""
 "To be a bit more precise about the sampling distribution, notice that if the "
 "null hypothesis is true, both |MS_b| and |MS_w| are estimators of the "
@@ -1102,11 +1104,11 @@ msgstr ""
 "பற்றி பளபளக்கிறேன், ஆனால் பரந்த வகையில், எங்கள் மாதிரி வழங்கல் எங்கிருந்து வருகிறது "
 "என்பதுதான் இதுதான்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:383
+#: ../../Ch13/Ch13_ANOVA_02.rst:382
 msgid "A worked example"
 msgstr "ஒரு வேலை சான்று"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:385
+#: ../../Ch13/Ch13_ANOVA_02.rst:384
 msgid ""
 "The previous discussion was fairly abstract and a little on the technical "
 "side, so I think that at this point it might be useful to see a worked "
@@ -1131,58 +1133,58 @@ msgstr ""
 "SS_W |, சதுரங்களின் குழுவிற்குள் கணக்கிடுவதன் மூலம் ஆரம்பிக்கலாம். முதலில், எங்கள் "
 "கணக்கீடுகளுக்கு எங்களுக்கு உதவ ஒரு நல்ல அட்டவணையை வரையலாம்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:398 ../../Ch13/Ch13_ANOVA_02.rst:424
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:397 ../../Ch13/Ch13_ANOVA_02.rst:423
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "outcome"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:400 ../../Ch13/Ch13_ANOVA_02.rst:426
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:399 ../../Ch13/Ch13_ANOVA_02.rst:425
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "|Y_ik|"
 msgstr "|Y_ik|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:402 ../../Ch13/Ch13_ANOVA_02.rst:404
-#: ../../Ch13/Ch13_ANOVA_02.rst:406 ../../Ch13/Ch13_ANOVA_02.rst:428
-#: ../../Ch13/Ch13_ANOVA_02.rst:430 ../../Ch13/Ch13_ANOVA_02.rst:432
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_02.rst:451
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_02.rst:495
-#: ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:403
+#: ../../Ch13/Ch13_ANOVA_02.rst:405 ../../Ch13/Ch13_ANOVA_02.rst:427
+#: ../../Ch13/Ch13_ANOVA_02.rst:429 ../../Ch13/Ch13_ANOVA_02.rst:431
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_02.rst:450
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
+#: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "placebo"
 msgstr "மருந்துப்போலி"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:402 ../../Ch13/Ch13_ANOVA_02.rst:428
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:427
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.5"
 msgstr "0.5"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:404 ../../Ch13/Ch13_ANOVA_02.rst:430
-#: ../../Ch13/Ch13_ANOVA_02.rst:451 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:403 ../../Ch13/Ch13_ANOVA_02.rst:429
+#: ../../Ch13/Ch13_ANOVA_02.rst:450 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.3"
 msgstr "0.3"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:406 ../../Ch13/Ch13_ANOVA_02.rst:432
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:405 ../../Ch13/Ch13_ANOVA_02.rst:431
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.1"
 msgstr "0.1"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:408 ../../Ch13/Ch13_ANOVA_02.rst:410
-#: ../../Ch13/Ch13_ANOVA_02.rst:434 ../../Ch13/Ch13_ANOVA_02.rst:436
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_02.rst:457
-#: ../../Ch13/Ch13_ANOVA_02.rst:497 ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:409
+#: ../../Ch13/Ch13_ANOVA_02.rst:433 ../../Ch13/Ch13_ANOVA_02.rst:435
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
+#: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "anxifree"
 msgstr "கவலை"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:408 ../../Ch13/Ch13_ANOVA_02.rst:434
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:433
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.6"
 msgstr "0.6"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:410 ../../Ch13/Ch13_ANOVA_02.rst:436
-#: ../../Ch13/Ch13_ANOVA_02.rst:457 ../../Ch13/Ch13_ANOVA_06.rst:331
+#: ../../Ch13/Ch13_ANOVA_02.rst:409 ../../Ch13/Ch13_ANOVA_02.rst:435
+#: ../../Ch13/Ch13_ANOVA_02.rst:456 ../../Ch13/Ch13_ANOVA_06.rst:331
 msgid "0.4"
 msgstr "0.4"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:413
+#: ../../Ch13/Ch13_ANOVA_02.rst:412
 msgid ""
 "At this stage, the only thing I’ve included in the table is the raw data "
 "itself. That is, the grouping variable (i.e., ``drug``) and outcome variable "
@@ -1201,26 +1203,26 @@ msgstr ""
 "புள்ளிவிவரங்களைச் செய்யும்போது அந்தக் குழு வழிமுறையை நாங்கள் ஏற்கனவே கணக்கிட்டதால் "
 "குறிப்பாக கடினம் அல்ல:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:424 ../../Ch13/Ch13_ANOVA_02.rst:445
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "group mean"
 msgstr "குழு சராசரி"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:426 ../../Ch13/Ch13_ANOVA_02.rst:447
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb_k|"
 msgstr "|Yb_k|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:428 ../../Ch13/Ch13_ANOVA_02.rst:430
-#: ../../Ch13/Ch13_ANOVA_02.rst:432
+#: ../../Ch13/Ch13_ANOVA_02.rst:427 ../../Ch13/Ch13_ANOVA_02.rst:429
+#: ../../Ch13/Ch13_ANOVA_02.rst:431
 msgid "**0.45**"
 msgstr "**0.45**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:434 ../../Ch13/Ch13_ANOVA_02.rst:436
+#: ../../Ch13/Ch13_ANOVA_02.rst:433 ../../Ch13/Ch13_ANOVA_02.rst:435
 msgid "**0.72**"
 msgstr "**0.72**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:439
+#: ../../Ch13/Ch13_ANOVA_02.rst:438
 msgid ""
 "Now that we’ve written those down, we need to calculate, again for every "
 "person, the deviation from the corresponding group mean. That is, we want to "
@@ -1232,73 +1234,73 @@ msgstr ""
 "விரும்புகிறோம் - | yb_k |. நாங்கள் அதைச் செய்த பிறகு, எல்லாவற்றையும் சதுரப்படுத்த "
 "வேண்டும். நாங்கள் அதைச் செய்யும்போது, இங்கே நமக்கு கிடைக்கிறது:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "dev. from group mean"
 msgstr "தேவ். குழு சராசரியிலிருந்து"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:445
+#: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "squared deviation"
 msgstr ""
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "(|Y_ik| - |Yb_k|)"
 msgstr "(|Y_ik| - |Yb_k|)"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:447
+#: ../../Ch13/Ch13_ANOVA_02.rst:446
 msgid "(|Y_ik| - |Yb_k|\\)²"
 msgstr "(|Y_ik| - |Yb_k|\\)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449 ../../Ch13/Ch13_ANOVA_02.rst:451
-#: ../../Ch13/Ch13_ANOVA_02.rst:453 ../../Ch13/Ch13_ANOVA_02.rst:495
+#: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_02.rst:450
+#: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
 msgid "0.45"
 msgstr "0.45"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449
+#: ../../Ch13/Ch13_ANOVA_02.rst:448
 msgid "**0.05**"
 msgstr "**0.05**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:449
+#: ../../Ch13/Ch13_ANOVA_02.rst:448
 msgid "**0.0025**"
 msgstr "**0.0025**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:451
+#: ../../Ch13/Ch13_ANOVA_02.rst:450
 msgid "**-0.15**"
 msgstr "**-0.15**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:451
+#: ../../Ch13/Ch13_ANOVA_02.rst:450
 msgid "**0.0225**"
 msgstr "**0.0225**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:453
+#: ../../Ch13/Ch13_ANOVA_02.rst:452
 msgid "**-0.35**"
 msgstr "**-0.35**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:453
+#: ../../Ch13/Ch13_ANOVA_02.rst:452
 msgid "**0.1225**"
 msgstr "**0.1225**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455 ../../Ch13/Ch13_ANOVA_02.rst:457
-#: ../../Ch13/Ch13_ANOVA_02.rst:497
+#: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
+#: ../../Ch13/Ch13_ANOVA_02.rst:496
 msgid "0.72"
 msgstr "0.72"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455
+#: ../../Ch13/Ch13_ANOVA_02.rst:454
 msgid "**-0.12**"
 msgstr "**-0.12**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:455
+#: ../../Ch13/Ch13_ANOVA_02.rst:454
 msgid "**0.0136**"
 msgstr "**0.0136**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:457
+#: ../../Ch13/Ch13_ANOVA_02.rst:456
 msgid "**-0.32**"
 msgstr "**-0.32**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:457
+#: ../../Ch13/Ch13_ANOVA_02.rst:456
 msgid "**0.1003**"
 msgstr "**0.1003**"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:460
+#: ../../Ch13/Ch13_ANOVA_02.rst:459
 msgid ""
 "The last step is equally straightforward. In order to calculate the within-"
 "group sum of squares we just add up the squared deviations across all "
@@ -1307,11 +1309,11 @@ msgstr ""
 "கடைசி படி சமமாக நேரடியானது. சதுரங்களின் குழுவிற்குள் கணக்கிடுவதற்காக, அனைத்து "
 "அவதானிப்புகளிலும் ச்கொயர் விலகல்களைச் சேர்க்கிறோம்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:464
+#: ../../Ch13/Ch13_ANOVA_02.rst:463
 msgid "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
 msgstr "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:466
+#: ../../Ch13/Ch13_ANOVA_02.rst:465
 msgid ""
 "Of course, if we actually wanted to get the *right* answer we’d need to do "
 "this for all 18 observations in the data set, not just the first five. We "
@@ -1323,7 +1325,7 @@ msgstr ""
 "விரும்பினால் பென்சில் மற்றும் காகித கணக்கீடுகளுடன் தொடரலாம், ஆனால் அது மிகவும் "
 "கடினமானது. மாற்றாக, சாமோவியில் இதைச் செய்வது மிகவும் கடினம் அல்ல."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:472
+#: ../../Ch13/Ch13_ANOVA_02.rst:471
 msgid ""
 "Go to an empty column (at the end of the data set) and double click on the "
 "column header, choose ``New computed variable`` and enter ``sq_res_wth`` in "
@@ -1342,7 +1344,7 @@ msgstr ""
 "செய்யப்படுகிறது, எனவே மேலே உள்ள அட்டவணையின் கடைசி நெடுவரிசையில் உள்ளவர்களுக்கு "
 "மதிப்புகள் (ரவுண்டிங் பிழைகள் தவிர) ஒத்தவை என்பதைக் கண்டு அதிக வியப்பு இல்லை."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:482
+#: ../../Ch13/Ch13_ANOVA_02.rst:481
 msgid ""
 "Okay. Now that we’ve calculated the within groups variation, |SS_w|, it’s "
 "time to turn our attention to the between-group sum of squares, |SS_b|. The "
@@ -1360,68 +1362,68 @@ msgstr ""
 "கணக்கிடுகிறோம் | yb_k | மற்றும் பெரிய சராசரி | yb | (இந்த விசயத்தில் 0.88) அனைத்து "
 "குழுக்களுக்கும்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "grand mean"
 msgstr "கிராண்ட் சராசரி"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491
+#: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "deviation"
 msgstr "விலகல்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:491 ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "squared deviations"
 msgstr "ச்கொயர் விலகல்கள்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb|"
 msgstr "|Yb|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493
+#: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb_k| - |YB|"
 msgstr "|Yb_k| - |YB|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:493 ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "(|Yb_k| - |Yb|)²"
 msgstr "(|Yb_k| - |Yb|)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495 ../../Ch13/Ch13_ANOVA_02.rst:497
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:494 ../../Ch13/Ch13_ANOVA_02.rst:496
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "0.88"
 msgstr "0.88"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495
+#: ../../Ch13/Ch13_ANOVA_02.rst:494
 msgid "-0.43"
 msgstr "-0.43"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:495 ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:494 ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "0.19"
 msgstr "0.19"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:497
+#: ../../Ch13/Ch13_ANOVA_02.rst:496
 msgid "-0.16"
 msgstr "-0.16"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:497 ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "0.03"
 msgstr "0.03"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499 ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:498 ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "joyzepam"
 msgstr "சாய்செபம்"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "1.48"
 msgstr "1.48"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499
+#: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "0.60"
 msgstr "0.60"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:499 ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:498 ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "0.36"
 msgstr "0.36"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:502
+#: ../../Ch13/Ch13_ANOVA_02.rst:501
 msgid ""
 "We create another computed variable with the name ``sq_res_btw`` and "
 "``(VMEAN(mood.gain, group_by = drug) - VMEAN(mood.gain) - ) ^ 2`` as "
@@ -1440,7 +1442,7 @@ msgstr ""
 "தொடர்ந்து `` கவலை'` உடன் மூன்று வரிகளும், `` உடன் மூன்று வரிகளும் உள்ளன சாய்செபம்``; "
 "அடுத்த ஒன்பது வரிகள் முதல் ஒன்பது மறுபடியும் மறுபடியும் ஆகும்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:511
+#: ../../Ch13/Ch13_ANOVA_02.rst:510
 msgid ""
 "However, for the between group calculations we need to multiply each of "
 "these squared deviations by |N_k|, the number of observations in the group. "
@@ -1459,48 +1461,48 @@ msgstr ""
 "என்றால், இந்த ஆறு நபர்களுடன் தொடர்புடைய குழு மாறுபாட்டிற்கு இடையிலான * மொத்தம் 6 · "
 "0.19 = 1.14 ஆகும். எனவே எங்கள் சிறிய கணக்கீடுகளின் அட்டவணையை நீட்டிக்க வேண்டும்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521 ../../Ch13/Ch13_ANOVA_02.rst:523
-#: ../../Ch13/Ch13_ANOVA_02.rst:525 ../../Ch13/Ch13_ANOVA_02.rst:527
-#: ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:520 ../../Ch13/Ch13_ANOVA_02.rst:522
+#: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
+#: ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "…"
 msgstr "…"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "sample size"
 msgstr "மாதிரி அளவு"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:521
+#: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "weighted squared deviat."
 msgstr "வெயிட்டட் ச்கொயர் டெவியாட்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "|N_k|"
 msgstr "|N_k|"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:523
+#: ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "|N_k| · (|Yb_k| - |Yb|)²"
 msgstr "|N_k| · (|Yb_k| - |Yb|)²"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:525 ../../Ch13/Ch13_ANOVA_02.rst:527
-#: ../../Ch13/Ch13_ANOVA_02.rst:529 ../../Ch13/Ch13_ANOVA_05.rst:53
+#: ../../Ch13/Ch13_ANOVA_02.rst:524 ../../Ch13/Ch13_ANOVA_02.rst:526
+#: ../../Ch13/Ch13_ANOVA_02.rst:528 ../../Ch13/Ch13_ANOVA_05.rst:53
 #: ../../Ch13/Ch13_ANOVA_07.rst:66 ../../Ch13/Ch13_ANOVA_07.rst:68
 #: ../../Ch13/Ch13_ANOVA_07.rst:74 ../../Ch13/Ch13_ANOVA_07.rst:76
 msgid "6"
 msgstr "6"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:525
+#: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "1.14"
 msgstr "1.14"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:527
+#: ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "0.18"
 msgstr "0.18"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:529
+#: ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "2.16"
 msgstr "2.16"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:532
+#: ../../Ch13/Ch13_ANOVA_02.rst:531
 msgid ""
 "And so now our between group sum of squares is obtained by summing these "
 "“weighted squared deviations” over all three groups in the study:"
@@ -1508,11 +1510,11 @@ msgstr ""
 "எனவே இப்போது எங்கள் “எடையுள்ள சதுர விலகல்களை” ஆய்வில் உள்ள மூன்று குழுக்களிலும் "
 "சுருக்கமாகக் கூறி குழு சதுரங்களுக்கு இடையில் பெறப்படுகிறது:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:535
+#: ../../Ch13/Ch13_ANOVA_02.rst:534
 msgid "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
 msgstr "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:537
+#: ../../Ch13/Ch13_ANOVA_02.rst:536
 msgid ""
 "As you can see, the between group calculations are a lot shorter (when "
 "calculated b hand)."
@@ -1520,7 +1522,7 @@ msgstr ""
 "நீங்கள் பார்க்க முடியும் என, குழு கணக்கீடுகளுக்கு இடையில் மிகக் குறைவு (பி கையை "
 "கணக்கிடும்போது)."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:540
+#: ../../Ch13/Ch13_ANOVA_02.rst:539
 msgid ""
 "In jamovi, we can calculate these sums, i.e., the values for |SS_b| and |"
 "SS_w|, by clicking ``Descriptives`` →  ``Descriptive Statistics``, then "
@@ -1537,7 +1539,7 @@ msgstr ""
 "SS_W |) தொகை ** 1.392 **, `` sq_res_wth`` (| SS_B |) ** 3.453 ** (3.48 "
 "இலிருந்து பிழைகளைச் சுற்றிலும் தொலைவில் உள்ளது மேலே கணக்கிடப்பட்டது)."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:548
+#: ../../Ch13/Ch13_ANOVA_02.rst:547
 msgid ""
 "Now that we’ve calculated our sums of squares values, |SS_b| and |SS_w|, the "
 "rest of the ANOVA is pretty painless. The next step is to calculate the "
@@ -1549,11 +1551,11 @@ msgstr ""
 "நம்மிடம் * g * = 3 குழுக்கள் மற்றும் * n * = 18 அவதானிப்புகள் மொத்தமாக நம் சுதந்திரத்தின் "
 "அளவைக் கணக்கிட முடியும்: எளிய கழித்தல் மூலம் கணக்கிட முடியும்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:553
+#: ../../Ch13/Ch13_ANOVA_02.rst:552
 msgid "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
 msgstr "|df_b| = *G* - 1 = 2 |df_w| = *N* - *G* = 15"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:556
+#: ../../Ch13/Ch13_ANOVA_02.rst:555
 msgid ""
 "Next, since we’ve now calculated the values for the sums of squares and the "
 "degrees of freedom, for both the within-groups variability and the between-"
@@ -1564,7 +1566,7 @@ msgstr ""
 "கணக்கிட்டுள்ளதால், குழுக்களுக்குள் உள்ள மாறுபாடு மற்றும் குழுக்களுக்கு இடையிலான மாறுபாடு "
 "ஆகிய இரண்டிற்கும், ஒன்றை மற்றொன்றைப் பிரிப்பதன் மூலம் சராசரி சதுர மதிப்புகளைப் பெறலாம்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:561
+#: ../../Ch13/Ch13_ANOVA_02.rst:560
 msgid ""
 "\\begin{array}{lclclcl}\n"
 "\\mbox{MS}_b &=& \\displaystyle\\frac{\\mbox{SS}_b }{  \\mbox{df}_b } &=& "
@@ -1580,7 +1582,7 @@ msgstr ""
 "\\displaystyle\\frac{1.392}{15} &=& 0.093\n"
 "\\end{array}"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:568
+#: ../../Ch13/Ch13_ANOVA_02.rst:567
 msgid ""
 "We’re almost done. The mean square values can be used to calculate the *F*-"
 "value, which is the test statistic that we’re interested in. We do this by "
@@ -1590,7 +1592,7 @@ msgstr ""
 "பயன்படுத்தப்படலாம், இது நாங்கள் ஆர்வமுள்ள சோதனை புள்ளிவிவரமாகும். குழுக்களுக்கு இடையில் "
 "MS மதிப்பை குழுக்களுக்குள் MS மதிப்பால் பிரிப்பதன் மூலம் இதைச் செய்கிறோம். \\ [# ] _"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:573
+#: ../../Ch13/Ch13_ANOVA_02.rst:572
 msgid ""
 "F = \\frac{\\mbox{MS}_b }{\\mbox{MS}_w} = \\frac{1.727}{0.093} = 18.611\n"
 "\n"
@@ -1598,7 +1600,7 @@ msgstr ""
 "F = \\frac{\\mbox{MS}_b }{\\mbox{MS}_w} = \\frac{1.727}{0.093} = 18.611\n"
 "\n"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:575
+#: ../../Ch13/Ch13_ANOVA_02.rst:574
 msgid ""
 "Woohooo! This is terribly exciting, yes? Now that we have our test "
 "statistic, the last step is to find out whether the test itself gives us a "
@@ -1629,7 +1631,7 @@ msgstr ""
 "எனவே, எங்கள் வகை I பிழை வீதத்தைப் பற்றி நாங்கள் * மிகவும் * பழமைவாதமாக இல்லாவிட்டால், "
 "சுழிய கருதுகோளை நிராகரிக்க நாங்கள் மிகவும் பொறுப்பு அளிக்கிறோம்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:589
+#: ../../Ch13/Ch13_ANOVA_02.rst:588
 msgid ""
 "At this point, we’re basically done. Having completed our calculations, it’s "
 "traditional to organise all these numbers into an ANOVA table like the one "
@@ -1641,35 +1643,35 @@ msgstr ""
 "ANOVATABLE`. எங்கள் | கிளினிக்கல் ட்ரீல் | _ தரவுகளுக்கு, ANOVA அட்டவணை இப்படி "
 "இருக்கும்: \\ [#] _"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "3.453"
 msgstr "3.453"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "1.727"
 msgstr "1.727"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "18.611"
 msgstr "18.611"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:597
+#: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "0.000086"
 msgstr "0.000086"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "15"
 msgstr "15"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "1.392"
 msgstr "1.392"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:599
+#: ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "0.093"
 msgstr "0.093"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:602
+#: ../../Ch13/Ch13_ANOVA_02.rst:601
 msgid ""
 "These days, you’ll probably never have much reason to want to construct one "
 "of these tables yourself, but you will find that almost all statistical "
@@ -1687,7 +1689,7 @@ msgstr ""
 "உங்கள் எழுத்தில் முழு அட்டவணையையும் சேர்க்க ஒருபோதும் நல்ல காரணம் இல்லை. இந்த முடிவைப் "
 "புகாரளிப்பதற்கான ஒரு அழகான நிலையான வழி இதுபோன்ற ஒன்றை எழுதுவதாகும்:"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:611
+#: ../../Ch13/Ch13_ANOVA_02.rst:610
 msgid ""
 "One-way ANOVA showed a significant effect of drug on mood gain: *F*\\(2,15) "
 "= 18.61, *p* < 0.001."
@@ -1695,11 +1697,11 @@ msgstr ""
 "ஒரு வழி ANOVA மனநிலை ஆதாயத்தில் மருந்தின் குறிப்பிடத்தக்க விளைவைக் காட்டியது: *f *\\ "
 "(2,15) = 18.61, *ப *<0.001."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:614
+#: ../../Ch13/Ch13_ANOVA_02.rst:613
 msgid "Sigh. So much work for one short sentence."
 msgstr "பெருமூச்சு. ஒரு குறுகிய வாக்கியத்திற்கு இவ்வளவு வேலை."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:619
+#: ../../Ch13/Ch13_ANOVA_02.rst:618
 msgid ""
 "When all groups have the same number of observations, the experimental "
 "design is said to be “balanced”. Balance isn’t such a big deal for one-way "
@@ -1711,13 +1713,14 @@ msgstr ""
 "அவ்வளவு பெரிய விசயமல்ல. நீங்கள் மிகவும் சிக்கலான ANOVA களைச் செய்யத் தொடங்கும் போது இது "
 "மிகவும் முக்கியமானது."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:625
+#: ../../Ch13/Ch13_ANOVA_02.rst:624
 msgid ""
 "|SS_w| is also referred to in an independent ANOVA as the error variance, or "
 "SS\\ :sub:`error`"
 msgstr "| SS_W | ஒரு சுயாதீன ANOVA இல் பிழை மாறுபாடு அல்லது SS \\: துணை: `பிழை`"
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:629
+#: ../../Ch13/Ch13_ANOVA_02.rst:628
+#, python-brace-format
 msgid ""
 "If you read ahead to chapter :doc:`../Ch14/Ch14_ANOVA2` and look at how the "
 "“treatment effect” at level *k* of a factor is defined in terms of the α\\ :"
@@ -1732,14 +1735,15 @@ msgstr ""
 "குறிக்கிறது என்று மாறிவிடும், கணிதம்:` q = (\\ sum_ {k = 1}^g n_k \\ ஆல்பா_.கே^2)/"
 "(சி -1) `."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:636
+#: ../../Ch13/Ch13_ANOVA_02.rst:635
+#, python-brace-format
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
 "Or, if we want பெறுநர் be sticklers க்கு accuracy, :math:`1 + \\frac{2}{df_2 - "
 "2}`."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:640
+#: ../../Ch13/Ch13_ANOVA_02.rst:639
 msgid ""
 "Or, to be precise, party like “it’s 1899 and we’ve got no friends and "
 "nothing better to do with our time than do some calculations that wouldn’t "
@@ -1750,7 +1754,7 @@ msgstr ""
 "கிடைக்கவில்லை, 1899 ஆம் ஆண்டில் எந்த அர்த்தமும் இல்லாத சில கணக்கீடுகளை விட எங்கள் நேரத்துடன் "
 "சிறப்பாக எதுவும் செய்ய முடியாது, ஏனெனில் 1920 கள் வரை ANOVA இல்லை ”."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:646
+#: ../../Ch13/Ch13_ANOVA_02.rst:645
 msgid ""
 "We could as well do this with creating yet another computed variable, named "
 "``F`` using the formula ``(VSUM(sq_res_btw) / 2) / (VSUM(sq_res_wth) / 15)`` "
@@ -1762,7 +1766,7 @@ msgstr ""
 "முடியாவிட்டால், நீங்கள் | கிளினிக்கல் ட்ரையல்_ஆனோவா | _ தரவு தொகுப்பு பதிவிறக்கம் செய்து "
 "திறக்கலாம்."
 
-#: ../../Ch13/Ch13_ANOVA_02.rst:653
+#: ../../Ch13/Ch13_ANOVA_02.rst:652
 msgid ""
 "In order to see the *p*-value with a high number of decimal places, click on "
 "the settings menu (``⋮``, top-right corner) and set the ``p-value format`` "
@@ -2721,6 +2725,7 @@ msgid "Running the Levene-test in jamovi"
 msgstr "சாமோவியில் லெவென்-சோதனையை இயக்குகிறது"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:129
+#, python-brace-format
 msgid ""
 "Okay, so how do we run the Levene test? Simple really - under the ``ANOVA`` "
 "→ ``Assumption Checks`` option, just click on the ``Homogeneity tests`` "
@@ -2928,6 +2933,7 @@ msgstr ""
 "வழங்கப்பட்ட சராசரி தரவரிசை:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:254
+#, python-brace-format
 msgid ""
 "\\bar{R}_k = \\frac{1}{N_K} \\sum_{i} R_{ik}\n"
 "\n"
@@ -2940,6 +2946,7 @@ msgid "and let’s also calculate R̄, the grand mean rank"
 msgstr "கிராண்ட் சராசரி தரவரிசை R̄ ஐயும் கணக்கிடுவோம்"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:258
+#, python-brace-format
 msgid ""
 "\\bar{R} = \\frac{1}{N} \\sum_{i} \\sum_{k} R_{ik}\n"
 "\n"
@@ -2972,6 +2979,7 @@ msgstr ""
 "முதலாவதாக, எங்கள் “மொத்த தரவரிசை சதுரங்கள்” உள்ளன"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:271
+#, python-brace-format
 msgid ""
 "\\mbox{RSS}_{tot} = \\sum_k \\sum_i ( R_{ik} - \\bar{R} )^2\n"
 "\n"
@@ -2986,6 +2994,7 @@ msgstr ""
 "மேலும் இது போன்ற \"குழுக்களுக்கு இடையிலான சதுரங்களின் தொகையை\" நாம் வரையறுக்கலாம்:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275
+#, python-brace-format
 msgid ""
 "\\begin{array}{rcl}\n"
 "\\mbox{RSS}_{b} &=& \\sum_k \\sum_i ( \\bar{R}_k  - \\bar{R} )^2 \\\\\n"
@@ -3778,3 +3787,4 @@ msgstr ""
 "மற்றும் அகவை (2000 ) <Sahai_2000> `. இது ஆரம்பநிலைக்கு ஒரு நல்ல நூல் அல்ல, ஆனால் இது "
 "ANOVA க்குப் பின்னால் உள்ள கணிதத்தைப் புரிந்து கொள்ள ஆர்வமுள்ள மேம்பட்ட வாசகர்களுக்கான "
 "சிறந்த நூல்."
+
