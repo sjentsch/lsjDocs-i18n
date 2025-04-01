@@ -165,7 +165,7 @@ msgid ""
 msgstr ""
 "Når man ser på dette, blir det veldig tydelig hva som skjedde med forstanden "
 "min! Med disse dataene som datagrunnlag, kan det hende jeg får behov for å "
-"konstruere en frekvenstelling av antall ord hver karakter sier i løpet av "
+"lage en frekvenstelling av antall ord hver karakter sier i løpet av "
 "serien. Skjermbildet jamovi ``Descriptives`` har en avmerkingsboks som heter "
 "``Frequency tables`` som gjør nettopp dette, se :numref:`fig-freqtable`."
 
