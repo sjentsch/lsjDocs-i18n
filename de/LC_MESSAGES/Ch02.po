@@ -1,26 +1,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: 2025-03-31 16:04+0000\n"
-"Last-Translator: Jakob Naumann <Jakobonaumann@gmail.com>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/lsjdocs/ch02/de/"
-">\n"
-"Language: de\n"
+"POT-Creation-Date: 2025-04-02 22:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
-"Generated-By: Babel 2.10.3\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-02 22:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
 msgid "A brief introduction to research design"
 msgstr "Eine kurze Einführung in Forschungsdesigns"
 
-#: ../../Ch02/Ch02_StudyDesign.rst:0
+#: ../../Ch02/Ch02_StudyDesign.rst
 msgid ""
 "*To consult the statistician after an experiment is finished is often merely "
 "to ask him to conduct a post mortem examination. He can perhaps say what the "
@@ -638,21 +643,21 @@ msgstr ""
 "aufgelisteten Aussagen diejenige auszuwählen, die ihren Überzeugungen am "
 "ehesten entspricht:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr "\\(1\\) Die Temperaturen steigen aufgrund menschlicher Aktivitäten"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr "\\(2\\) Die Temperaturen steigen, aber wir wissen nicht warum"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr ""
 "\\(3\\) Die Temperaturen steigen, aber nicht aufgrund menschlicher "
 "Einflussnahme"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Temperatures are not rising"
 msgstr "\\(4\\) Die Temperaturen steigen nicht"
 
@@ -1057,23 +1062,23 @@ msgstr ""
 msgid "and then the options presented to the participant are these:"
 msgstr "und dann werden den Teilnehmern folgende Optionen angeboten:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Strongly disagree"
 msgstr "\\(1\\) Stimme überhaupt nicht zu"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Disagree"
 msgstr "\\(2\\) Stimme nicht zu"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Neither agree nor disagree"
 msgstr "\\(3\\) Stimme weder zu noch nicht zu"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Agree"
 msgstr "\\(4\\) Stimme zu"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(5\\) Strongly agree"
 msgstr "\\(5\\) Stimme voll und ganz zu"
 
@@ -1092,15 +1097,15 @@ msgstr ""
 "dass alle Items explizit beschrieben werden. Auch dies ist ein sehr gutes "
 "Beispiel für eine 5-Punkte-Likert-Skala:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
 msgstr "\\(2\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
 msgstr "\\(3\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
 msgstr "\\(4\\)"
 
@@ -2459,15 +2464,16 @@ msgid "Selection bias"
 msgstr "Selektionsverzerrung"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:360
+#, python-format
 msgid ""
 "**Selection bias** is a pretty broad term. Suppose that you’re running an "
 "experiment with two groups of participants where each group gets a different "
 "“treatment”, and you want to see if the different treatments lead to "
 "different outcomes. However, suppose that, despite your best efforts, you’ve "
-"ended up with a gender imbalance across groups (say, group A has 80\\% "
-"females and group B has 50\\% females). It might sound like this could never "
-"happen but, trust me, it can. This is an example of a selection bias, in "
-"which the people “selected into” the two groups have different "
+"ended up with a gender imbalance across groups (say, group A has 80\\"
+"% females and group B has 50\\% females). It might sound like this could "
+"never happen but, trust me, it can. This is an example of a selection bias, "
+"in which the people “selected into” the two groups have different "
 "characteristics. If any of those characteristics turns out to be relevant "
 "(say, your treatment works better on females than males) then you’re in a "
 "lot of trouble."
@@ -2886,33 +2892,34 @@ msgid ""
 "happening, it’s almost impossible to stop people from knowing that they’re "
 "part of a psychological study. And the mere fact of knowing that someone is "
 "watching or studying you can have a pretty big effect on behaviour. This is "
-"generally referred to as **reactivity** or **demand characteristics**. The basic "
-"idea is captured by the Hawthorne effect: people alter their performance "
-"because of the attention that the study focuses on them. The effect takes "
-"its name from a study that took place in the “Hawthorne Works” factory "
-"outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This study, from "
-"the 1920s, looked at the effects of factory lighting on worker productivity. "
-"But, importantly, change in worker behaviour occurred because the workers "
-"*knew* they were being studied, rather than any effect of factory lighting."
+"generally referred to as **reactivity** or **demand characteristics**. The "
+"basic idea is captured by the Hawthorne effect: people alter their "
+"performance because of the attention that the study focuses on them. The "
+"effect takes its name from a study that took place in the “Hawthorne Works” "
+"factory outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This "
+"study, from the 1920s, looked at the effects of factory lighting on worker "
+"productivity. But, importantly, change in worker behaviour occurred because "
+"the workers *knew* they were being studied, rather than any effect of "
+"factory lighting."
 msgstr ""
 "Bei der Voreingenommenheit des Versuchsleiters besteht die Sorge, dass das "
 "Wissen oder die Wünsche des Versuchsleiters für das Experiment an die "
 "Teilnehmer weitergegeben werden und dass dies das Verhalten der Menschen "
 "verändern kann (:ref:`Rosenthal, 1966 <Rosenthal_1966>`). Doch selbst wenn "
-"es gelingt, dies zu verhindern, ist es fast unmöglich, zu verhindern, dass "
-"Menschen wissen, dass sie Teil einer psychologischen Studie sind. Und allein "
-"die Tatsache, dass man weiß, dass man von jemandem beobachtet oder studiert "
-"wird, kann einen ziemlich großen Einfluss auf das Verhalten haben. Dies wird "
-"allgemein als **Reaktivität** oder *demand characteristics* bezeichnet. Der "
-"Grundgedanke wird durch den Hawthorne-Effekt beschrieben: Menschen ändern "
-"ihre Leistung aufgrund der Aufmerksamkeit, welche die Studie auf sie "
-"richtet. Der Effekt hat seinen Namen von einer Studie, die in der Fabrik "
-"„Hawthorne Works“ außerhalb von Chicago stattfand (siehe :ref:`Adair, 1984 "
-"<Adair_1984>`). In dieser Studie aus den 1920er Jahren wurden die "
+"es gelingt, dies zu verhindern, ist es fast unmöglich, zu  verhindern, dass "
+"Menschen wissen, dass sie Teil einer psychologischen  Studie sind. Und "
+"allein die Tatsache, dass man weiß, dass man von jemandem beobachtet oder "
+"studiert wird, kann einen ziemlich großen  Einfluss auf das Verhalten haben. "
+"Dies wird allgemein als **Reaktivität** oder *demand characteristics* "
+"bezeichnet. Der Grundgedanke wird durch den Hawthorne-Effekt beschrieben: "
+"Menschen ändern ihre Leistung aufgrund der Aufmerksamkeit, welche die Studie "
+"auf sie richtet. Der Effekt hat seinen Namen von einer Studie, die in der "
+"Fabrik „Hawthorne Works“ außerhalb von Chicago stattfand (siehe :ref:`Adair, "
+"1984 <Adair_1984>`). In dieser Studie aus den 1920er Jahren wurden die "
 "Auswirkungen der Fabrikbeleuchtung auf die Produktivität der Arbeiter "
-"untersucht. Wichtig ist jedoch, dass sich das Verhalten der Arbeiter "
-"änderte, weil die Arbeiter **wussten**, dass sie untersucht wurden, und "
-"nicht, weil die Fabrikbeleuchtung irgendeine Wirkung hatte."
+"untersucht. Wichtig ist jedoch, dass sich das Verhalten der Arbeiter änderte,"
+" weil die Arbeiter **wussten**, dass sie untersucht wurden, und nicht, weil "
+"die Fabrikbeleuchtung irgendeine Wirkung hatte."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:576
 msgid ""
@@ -2973,15 +2980,16 @@ msgstr "Placebo-Effekte"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:601
 msgid ""
-"The **placebo effect** is a specific type of demand characteristic that we worry a "
-"lot about. It refers to the situation where the mere fact of being treated "
-"causes an improvement in outcomes. The classic example comes from clinical "
-"trials. If you give people a completely chemically inert drug and tell them "
-"that it’s a cure for a disease, they will tend to get better faster than "
-"people who aren’t treated at all. In other words, it is people’s belief that "
-"they are being treated that causes the improved outcomes, not the drug."
+"The **placebo effect** is a specific type of demand characteristic that we "
+"worry a lot about. It refers to the situation where the mere fact of being "
+"treated causes an improvement in outcomes. The classic example comes from "
+"clinical trials. If you give people a completely chemically inert drug and "
+"tell them that it’s a cure for a disease, they will tend to get better "
+"faster than people who aren’t treated at all. In other words, it is people’s "
+"belief that they are being treated that causes the improved outcomes, not "
+"the drug."
 msgstr ""
-"Der **Placebo-Effekt** ist eine besondere Form von *demand characteristics*, "
+"Der **Placebo-Effekt** ist eine besondere Form von *demand characteristic*, "
 "über den wir uns viele Gedanken machen. Er bezieht sich auf eine Situation, "
 "in der die bloße Tatsache, behandelt zu werden, eine Verbesserung der "
 "Ergebnisse bewirkt. Das klassische Beispiel stammt aus klinischen Studien. "
@@ -3040,11 +3048,11 @@ msgstr ""
 msgid "Fraud, deception and self-deception"
 msgstr "Betrug, Täuschung und Selbstbetrug"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*It is difficult to get a man to understand something,*"
 msgstr "*Es ist schwierig, einen Mann dazu zu bringen, etwas zu verstehen,*"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*when his salary depends on his not understanding it.*"
 msgstr "*wenn sein Gehalt davon abhängt, dass er es nicht versteht*."
 

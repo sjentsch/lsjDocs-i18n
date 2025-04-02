@@ -1,24 +1,31 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 22:32+0200\n"
-"PO-Revision-Date: 2025-03-31 16:06+0000\n"
-"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch02/ta/>\n"
-"Language: ta\n"
+"POT-Creation-Date: 2025-04-02 22:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-02 22:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:4
 msgid "A brief introduction to research design"
 msgstr "ஆராய்ச்சி வடிவமைப்பிற்கு ஒரு சுருக்கமான அறிமுகம்"
 
-#: ../../Ch02/Ch02_StudyDesign.rst:0
+#: ../../Ch02/Ch02_StudyDesign.rst
 msgid ""
 "*To consult the statistician after an experiment is finished is often merely "
 "to ask him to conduct a post mortem examination. He can perhaps say what the "
@@ -29,7 +36,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign.rst:25
 msgid "Sir Ronald Fisher\\ [#]_"
-msgstr "சர் ரொனால்ட் ஃபிசர் \\ [#] _"
+msgstr "Sir Ronald Fisher \\ [#] _"
 
 #: ../../Ch02/Ch02_StudyDesign.rst:27
 msgid ""
@@ -593,19 +600,19 @@ msgstr ""
 "நம்பிக்கைகளுடன் மிக நெருக்கமாக பொருந்தக்கூடிய அறிக்கையை (பட்டியலிடப்பட்ட நான்கு "
 "அறிக்கைகளிலிருந்து) தேர்வு செய்யச் சொல்கிறேன்:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr "\\ (1 \\) மனித செயல்பாடு காரணமாக வெப்பநிலை அதிகரித்து வருகிறது"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr "\\ (2 \\) வெப்பநிலை அதிகரித்து வருகிறது, ஆனால் ஏன் என்று எங்களுக்குத் தெரியாது"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr "\\ (3 \\) வெப்பநிலை அதிகரித்து வருகிறது, ஆனால் மனிதர்கள் காரணமாக அல்ல"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Temperatures are not rising"
 msgstr "\\ (4 \\) வெப்பநிலை உயரவில்லை"
 
@@ -989,23 +996,23 @@ msgstr ""
 msgid "and then the options presented to the participant are these:"
 msgstr "பின்னர் பங்கேற்பாளருக்கு வழங்கப்பட்ட விருப்பங்கள் இவை:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Strongly disagree"
 msgstr "\\ (1 \\) கடுமையாக உடன்படவில்லை"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Disagree"
 msgstr "\\ (2 \\) உடன்படவில்லை"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Neither agree nor disagree"
 msgstr "\\ (3 \\) உடன்படவில்லை அல்லது உடன்படவில்லை"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Agree"
 msgstr "\\ (4 \\) ஒப்புக்கொள்கிறேன்"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(5\\) Strongly agree"
 msgstr "\\ (5 \\) கடுமையாக ஒப்புக்கொள்கிறேன்"
 
@@ -1023,15 +1030,15 @@ msgstr ""
 "விவரிப்பாளருடன். இருப்பினும், எல்லா பொருட்களும் வெளிப்படையாக விவரிக்கப்பட வேண்டிய "
 "அவசியமில்லை. 5-புள்ளி லிகர்ட் அளவிற்கும் இது ஒரு நல்ல எடுத்துக்காட்டு:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
 msgstr "\\(2\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
 msgstr "\\(3\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
 msgstr "\\(4\\)"
 
@@ -2287,15 +2294,16 @@ msgid "Selection bias"
 msgstr "தேர்வு சார்பு"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:360
+#, python-format
 msgid ""
 "**Selection bias** is a pretty broad term. Suppose that you’re running an "
 "experiment with two groups of participants where each group gets a different "
 "“treatment”, and you want to see if the different treatments lead to "
 "different outcomes. However, suppose that, despite your best efforts, you’ve "
-"ended up with a gender imbalance across groups (say, group A has 80\\% "
-"females and group B has 50\\% females). It might sound like this could never "
-"happen but, trust me, it can. This is an example of a selection bias, in "
-"which the people “selected into” the two groups have different "
+"ended up with a gender imbalance across groups (say, group A has 80\\"
+"% females and group B has 50\\% females). It might sound like this could "
+"never happen but, trust me, it can. This is an example of a selection bias, "
+"in which the people “selected into” the two groups have different "
 "characteristics. If any of those characteristics turns out to be relevant "
 "(say, your treatment works better on females than males) then you’re in a "
 "lot of trouble."
@@ -2671,8 +2679,8 @@ msgstr ""
 "வேறு வார்த்தைகளில் கூறுவதானால், எதிர்பார்ப்புகள் ஒரு சுயநிறைவான தீர்க்கதரிசனமாக மாறும்."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:558
-msgid "Demand effects and reactivity"
-msgstr "தேவை விளைவுகள் மற்றும் வினைத்திறன்"
+msgid "Demand characteristics and reactivity"
+msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:560
 msgid ""
@@ -2683,30 +2691,16 @@ msgid ""
 "happening, it’s almost impossible to stop people from knowing that they’re "
 "part of a psychological study. And the mere fact of knowing that someone is "
 "watching or studying you can have a pretty big effect on behaviour. This is "
-"generally referred to as **reactivity** or **demand effects**. The basic "
-"idea is captured by the Hawthorne effect: people alter their performance "
-"because of the attention that the study focuses on them. The effect takes "
-"its name from a study that took place in the “Hawthorne Works” factory "
-"outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This study, from "
-"the 1920s, looked at the effects of factory lighting on worker productivity. "
-"But, importantly, change in worker behaviour occurred because the workers "
-"*knew* they were being studied, rather than any effect of factory lighting."
+"generally referred to as **reactivity** or **demand characteristics**. The "
+"basic idea is captured by the Hawthorne effect: people alter their "
+"performance because of the attention that the study focuses on them. The "
+"effect takes its name from a study that took place in the “Hawthorne Works” "
+"factory outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This "
+"study, from the 1920s, looked at the effects of factory lighting on worker "
+"productivity. But, importantly, change in worker behaviour occurred because "
+"the workers *knew* they were being studied, rather than any effect of "
+"factory lighting."
 msgstr ""
-"பரிசோதனையாளர் சார்பைப் பற்றி பேசும்போது, பரிசோதனைக்கான பரிசோதனையாளரின் அறிவு அல்லது "
-"ஆசைகள் பங்கேற்பாளர்களுக்குத் தெரிவிக்கப்படுகின்றன, மேலும் இவை மக்களின் நடத்தையை "
-"மாற்றக்கூடும் என்பதும் (: `ரோசென்டல், 1966 <ரோசென்டால்_1966>`). இருப்பினும், இது "
-"நடப்பதைத் தடுக்க நீங்கள் நிர்வகித்தாலும், மக்கள் ஒரு உளவியல் ஆய்வின் ஒரு பகுதி என்பதை "
-"அறிந்து கொள்வதைத் தடுப்பது கிட்டத்தட்ட சாத்தியமற்றது. யாரோ ஒருவர் பார்த்துக் "
-"கொண்டிருக்கிறார் அல்லது படிக்கிறீர்கள் என்பதை அறிந்து கொள்வது வெறும் உண்மை, நீங்கள் நடத்தையில் "
-"ஒரு பெரிய விளைவை ஏற்படுத்தும். இது பொதுவாக ** வினைத்திறன் ** அல்லது ** தேவை "
-"விளைவுகள் ** என குறிப்பிடப்படுகிறது. அடிப்படை சிந்தனை ஆவ்தோர்ன் விளைவால் "
-"கைப்பற்றப்படுகிறது: ஆய்வு அவர்கள் மீது கவனம் செலுத்தும் கவனத்தின் காரணமாக மக்கள் தங்கள் "
-"செயல்திறனை மாற்றுகிறார்கள். சிகாகோவிற்கு வெளியே உள்ள “ஆவ்தோர்ன் ஒர்க்ச்” தொழிற்சாலையில் "
-"நடந்த ஒரு ஆய்வில் இருந்து அதன் பெயரை எடுக்கிறது (பார்க்க: குறிப்பு: `அடேர், 1984 "
-"<அடேர்_1984>`). இந்த ஆய்வு, 1920 களில் இருந்து, தொழிலாளர் உற்பத்தித்திறனில் தொழிற்சாலை "
-"விளக்குகளின் விளைவுகளைப் பார்த்தது. ஆனால், முக்கியமாக, தொழிலாளர் நடத்தையில் மாற்றம் "
-"ஏற்பட்டது, ஏனென்றால் தொழிற்சாலை விளக்குகளின் எந்தவொரு விளைவையும் விட, தொழிலாளர்கள் * "
-"அறிந்திருந்தனர் * அவர்கள் ஆய்வு செய்யப்படுகிறார்கள்."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:576
 msgid ""
@@ -2764,22 +2758,15 @@ msgstr "மருந்துப்போலி விளைவுகள்"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:601
 msgid ""
-"The **placebo effect** is a specific type of demand effect that we worry a "
-"lot about. It refers to the situation where the mere fact of being treated "
-"causes an improvement in outcomes. The classic example comes from clinical "
-"trials. If you give people a completely chemically inert drug and tell them "
-"that it’s a cure for a disease, they will tend to get better faster than "
-"people who aren’t treated at all. In other words, it is people’s belief that "
-"they are being treated that causes the improved outcomes, not the drug."
+"The **placebo effect** is a specific type of demand characteristic that we "
+"worry a lot about. It refers to the situation where the mere fact of being "
+"treated causes an improvement in outcomes. The classic example comes from "
+"clinical trials. If you give people a completely chemically inert drug and "
+"tell them that it’s a cure for a disease, they will tend to get better "
+"faster than people who aren’t treated at all. In other words, it is people’s "
+"belief that they are being treated that causes the improved outcomes, not "
+"the drug."
 msgstr ""
-"** மருந்துப்போலி விளைவு ** என்பது ஒரு குறிப்பிட்ட வகை கோரிக்கை விளைவு, நாம் அதிகம் "
-"கவலைப்படுகிறோம். சிகிச்சையளிக்கப்படுவதன் வெறும் உண்மை விளைவுகளில் முன்னேற்றத்தை "
-"ஏற்படுத்தும் சூழ்நிலையை இது குறிக்கிறது. உன்னதமான சான்று மருத்துவ பரிசோதனைகளிலிருந்து "
-"வருகிறது. நீங்கள் மக்களுக்கு முற்றிலும் வேதியியல் ரீதியாக மந்தமான மருந்தைக் கொடுத்து, இது "
-"ஒரு நோய்க்கான மருத்தீடு என்று அவர்களிடம் சொன்னால், அவர்கள் சிகிச்சையளிக்கப்படாத நபர்களைக் "
-"காட்டிலும் வேகமாகப் பெறுவார்கள். வேறு வார்த்தைகளில் கூறுவதானால், அவர்கள் "
-"நடத்தப்படுகிறார்கள் என்பது மக்களின் நம்பிக்கை, இது மேம்பட்ட விளைவுகளை ஏற்படுத்துகிறது, "
-"மருந்து அல்ல."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:610
 msgid ""
@@ -2826,11 +2813,11 @@ msgstr ""
 msgid "Fraud, deception and self-deception"
 msgstr "மோசடி, ஏமாற்றுதல் மற்றும் தன்வய ஏமாற்றுதல்"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*It is difficult to get a man to understand something,*"
 msgstr "*ஒரு மனிதன் எதையாவது புரிந்து கொள்ள கடினமாக உள்ளது,*"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*when his salary depends on his not understanding it.*"
 msgstr "*அவருடைய சம்பளம் அதைப் புரிந்து கொள்ளாததைப் பொறுத்தது.*"
 
