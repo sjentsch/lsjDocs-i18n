@@ -713,11 +713,7 @@ msgstr "Jippi!"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:188
 msgid "Illustration of between and within groups variation"
-<<<<<<< HEAD
 msgstr "Illustrasjon av variasjon mellom og innenfor gruppene"
-=======
-msgstr ""
->>>>>>> e81e1374 (Updated using .crtLng)
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:192
 msgid ""
@@ -3943,39 +3939,3 @@ msgstr ""
 ":ref:`Sahai og Ageel (2000) <Sahai_2000>`. Det er ikke en god bok for "
 "nybegynnere, men det er en utmerket bok for mer avanserte lesere som er "
 "interessert i å forstå matematikken bak ANOVA."
-<<<<<<< HEAD
-=======
-
-#~ msgid ""
-#~ "It’s not too difficult to show "
-#~ "that the total variation among people"
-#~ " in the experiment |SS_t| is actually"
-#~ " the sum of the differences between"
-#~ " the groups |SS_b| and the variation"
-#~ " inside the groups |SS_w|. That is,"
-#~ msgstr ""
-#~ "Det er ikke så vanskelig å vise"
-#~ " at den totale variasjonen blant "
-#~ "personene i eksperimentet |SS_t| faktisk "
-#~ "er summen av forskjellene mellom "
-#~ "gruppene |SS_b| og variasjonen innenfor "
-#~ "hver av gruppene |SS_w|. Det vil "
-#~ "si at,"
-
-#~ msgid "Illustration of between and within groups variation"
-#~ msgstr "Illustrasjon av variasjon mellom og innenfor gruppene"
-
-#~ msgid ""
-#~ "It’s not too difficult to show "
-#~ "that the total variation among people"
-#~ " in the experiment |SS_t| is actually"
-#~ " the sum of the differences between"
-#~ " the groups |SS_b| and the variation"
-#~ " inside the groups S\\ :sub:`w`\\. "
-#~ "That is,"
-#~ msgstr ""
-
-#~ msgid "illustration of between and within groups variation"
-#~ msgstr ""
-
->>>>>>> e81e1374 (Updated using .crtLng)

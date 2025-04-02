@@ -1792,10 +1792,6 @@ msgstr ""
 "sub:`Fehler` bezeichnet"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:628
-<<<<<<< HEAD
-=======
-#, python-brace-format
->>>>>>> e81e1374 (Updated using .crtLng)
 msgid ""
 "If you read ahead to chapter :doc:`../Ch14/Ch14_ANOVA2` and look at how the "
 "“treatment effect” at level *k* of a factor is defined in terms of the α\\ :"
@@ -1811,10 +1807,6 @@ msgstr ""
 "N_k \\alpha_k^2)/(G-1)`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:635
-<<<<<<< HEAD
-=======
-#, python-brace-format
->>>>>>> e81e1374 (Updated using .crtLng)
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
@@ -3992,9 +3984,3 @@ msgstr ""
 "kein gutes Buch für Anfänger, aber es ist ein ausgezeichnetes Buch für "
 "fortgeschrittene Leser, die daran interessiert sind, die Mathematik hinter "
 "der ANOVA zu verstehen."
-
-#~ msgid "illustration of between and within groups variation"
-#~ msgstr ""
-#~ "#-#-#-#-#  Ch13.pot (Learning statistics with jamovi )  #-#-#-#-#\n"
-#~ "#-#-#-#-#  Ch13.po (PROJECT VERSION)  #-#-#-#-#\n"
-#~ "Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
