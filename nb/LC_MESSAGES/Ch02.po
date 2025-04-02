@@ -1,13 +1,21 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-02 22:02+0200\n"
+"POT-Creation-Date: 2025-04-02 22:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-04-02 22:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +25,7 @@ msgstr ""
 msgid "A brief introduction to research design"
 msgstr "En kort innføring i forskningsdesign"
 
-#: ../../Ch02/Ch02_StudyDesign.rst:0
+#: ../../Ch02/Ch02_StudyDesign.rst
 msgid ""
 "*To consult the statistician after an experiment is finished is often merely "
 "to ask him to conduct a post mortem examination. He can perhaps say what the "
@@ -596,19 +604,19 @@ msgstr ""
 "utsagnet (blant fire opplistede utsagn) som stemmer best overens med deres "
 "holdninger:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr "\\(1\\) Temperaturen stiger på grunn av menneskelig aktivitet"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr "\\(2\\) Temperaturene stiger, men vi vet ikke hvorfor"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr "\\(3\\) Temperaturen stiger, men ikke på grunn av mennesker"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Temperatures are not rising"
 msgstr "\\(4\\) Temperaturene stiger ikke"
 
@@ -997,23 +1005,23 @@ msgstr ""
 msgid "and then the options presented to the participant are these:"
 msgstr "og deretter får deltakeren følgende alternativer:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(1\\) Strongly disagree"
 msgstr "\\(1\\) Helt uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\) Disagree"
 msgstr "\\(2\\) Uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\) Neither agree nor disagree"
 msgstr "\\(3\\) Verken enig eller uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\) Agree"
 msgstr "\\(4\\) Enig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(5\\) Strongly agree"
 msgstr "\\(5\\) Helt enig"
 
@@ -1031,15 +1039,15 @@ msgstr ""
 "Det er imidlertid ikke nødvendig at alle elementene er eksplisitt beskrevet. "
 "Dette er også et godt eksempel på en 5-punkts Likert-skala:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(2\\)"
 msgstr "\\(2\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(3\\)"
 msgstr "\\(3\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
 msgid "\\(4\\)"
 msgstr "\\(4\\)"
 
@@ -2315,15 +2323,16 @@ msgid "Selection bias"
 msgstr "Seleksjonsskevhet"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:360
+#, python-format
 msgid ""
 "**Selection bias** is a pretty broad term. Suppose that you’re running an "
 "experiment with two groups of participants where each group gets a different "
 "“treatment”, and you want to see if the different treatments lead to "
 "different outcomes. However, suppose that, despite your best efforts, you’ve "
-"ended up with a gender imbalance across groups (say, group A has 80\\% "
-"females and group B has 50\\% females). It might sound like this could never "
-"happen but, trust me, it can. This is an example of a selection bias, in "
-"which the people “selected into” the two groups have different "
+"ended up with a gender imbalance across groups (say, group A has 80\\"
+"% females and group B has 50\\% females). It might sound like this could "
+"never happen but, trust me, it can. This is an example of a selection bias, "
+"in which the people “selected into” the two groups have different "
 "characteristics. If any of those characteristics turns out to be relevant "
 "(say, your treatment works better on females than males) then you’re in a "
 "lot of trouble."
@@ -2714,8 +2723,8 @@ msgstr ""
 "med andre ord en selvoppfyllende profeti."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:558
-msgid "Demand characteristics and reactivity"
-msgstr "*Demand characteristics* og reaktivitet"
+msgid "Demand effects and reactivity"
+msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:560
 msgid ""
@@ -2726,32 +2735,15 @@ msgid ""
 "happening, it’s almost impossible to stop people from knowing that they’re "
 "part of a psychological study. And the mere fact of knowing that someone is "
 "watching or studying you can have a pretty big effect on behaviour. This is "
-"generally referred to as **reactivity** or **demand characteristics**. The "
-"basic idea is captured by the Hawthorne effect: people alter their "
-"performance because of the attention that the study focuses on them. The "
-"effect takes its name from a study that took place in the “Hawthorne Works” "
-"factory outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This "
-"study, from the 1920s, looked at the effects of factory lighting on worker "
-"productivity. But, importantly, change in worker behaviour occurred because "
-"the workers *knew* they were being studied, rather than any effect of "
-"factory lighting."
+"generally referred to as **reactivity** or **demand effects**. The basic "
+"idea is captured by the Hawthorne effect: people alter their performance "
+"because of the attention that the study focuses on them. The effect takes "
+"its name from a study that took place in the “Hawthorne Works” factory "
+"outside of Chicago (see :ref:`Adair, 1984 <Adair_1984>`). This study, from "
+"the 1920s, looked at the effects of factory lighting on worker productivity. "
+"But, importantly, change in worker behaviour occurred because the workers "
+"*knew* they were being studied, rather than any effect of factory lighting."
 msgstr ""
-"Når man snakker om eksperimentatoreffekter, er bekymringen at "
-"eksperimentatorens kunnskap eller ønsker for eksperimentet blir kommunisert "
-"til deltakerne, og at disse kan endre folks atferd (:ref:`Rosenthal, 1966 "
-"<Rosenthal_1966>`). Men selv om man klarer å hindre at dette skjer, er det "
-"nesten umulig å hindre at folk vet at de er en del av en psykologisk studie. "
-"Og bare det å vite at noen følger med på eller studerer deg, kan ha en "
-"ganske stor effekt på atferden din. Dette kalles gjerne **reaktivitet** "
-"eller **demand characteristics**. Den grunnleggende ideen er beskrevet i "
-"Hawthorne-effekten: Folk endrer prestasjonene sine på grunn av "
-"oppmerksomheten som studien retter mot dem. Effekten har fått navnet sitt "
-"fra en studie som fant sted i fabrikken «Hawthorne Works» utenfor Chicago "
-"(se :ref:`Adair, 1984 <Adair_1984>`). Denne studien fra 1920-tallet så på "
-"effekten av fabrikkbelysning på arbeidernes produktivitet. Men, og det er "
-"viktig å merke seg, endringen i arbeidernes atferd skyldtes at arbeiderne "
-"*visste* at de ble studert, snarere enn at fabrikkbelysningen hadde noen "
-"effekt."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:576
 msgid ""
@@ -2810,23 +2802,14 @@ msgstr "Placeboeffekter"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:601
 msgid ""
-"The **placebo effect** is a specific type of demand characteristic that we "
-"worry a lot about. It refers to the situation where the mere fact of being "
-"treated causes an improvement in outcomes. The classic example comes from "
-"clinical trials. If you give people a completely chemically inert drug and "
-"tell them that it’s a cure for a disease, they will tend to get better "
-"faster than people who aren’t treated at all. In other words, it is people’s "
-"belief that they are being treated that causes the improved outcomes, not "
-"the drug."
+"The **placebo effect** is a specific type of demand effect that we worry a "
+"lot about. It refers to the situation where the mere fact of being treated "
+"causes an improvement in outcomes. The classic example comes from clinical "
+"trials. If you give people a completely chemically inert drug and tell them "
+"that it’s a cure for a disease, they will tend to get better faster than "
+"people who aren’t treated at all. In other words, it is people’s belief that "
+"they are being treated that causes the improved outcomes, not the drug."
 msgstr ""
-"**Placeboeffekten** er en spesifikk type *demand characteristic* som vi "
-"bekymrer oss mye for. Den refererer til en situasjon der bare det å bli "
-"behandlet fører til en forbedring av resultatene. Det klassiske eksempelet "
-"kommer fra kliniske studier. Hvis du gir folk et helt kjemisk inert "
-"legemiddel og forteller dem at det er en kur mot en sykdom, vil de ha en "
-"tendens til å bli raskere friske enn folk som ikke får behandling i det hele "
-"tatt. Det er med andre ord folks tro på at de blir behandlet som gir bedre "
-"resultater, ikke legemiddelet."
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:610
 msgid ""
@@ -2875,11 +2858,11 @@ msgstr ""
 msgid "Fraud, deception and self-deception"
 msgstr "Bedrageri, bedrag og selvbedrag"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*It is difficult to get a man to understand something,*"
 msgstr "*Det er vanskelig å få en mann til å forstå noe.*"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst:0
+#: ../../Ch02/Ch02_StudyDesign_6.rst
 msgid "*when his salary depends on his not understanding it.*"
 msgstr "*når lønnen hans avhenger av at han ikke forstår det*."
 
@@ -3297,3 +3280,60 @@ msgstr ""
 "boken til :ref:`Campbell og Stanley (1963) <Campbell_1963>`, men det finnes "
 "selvsagt et stort antall lærebøker der ute om forskningsdesign. Bruk noen "
 "minutter med din favorittsøkemotor, og du vil finne dusinvis."
+
+#~ msgid "Demand characteristics and reactivity"
+#~ msgstr "*Demand characteristics* og reaktivitet"
+
+#~ msgid ""
+#~ "When talking about experimenter bias, the worry is that the "
+#~ "experimenter’s knowledge or desires for the experiment are communicated "
+#~ "to the participants, and that these can change people’s behaviour (:ref:"
+#~ "`Rosenthal, 1966 <Rosenthal_1966>`). However, even if you manage to stop "
+#~ "this from happening, it’s almost impossible to stop people from knowing "
+#~ "that they’re part of a psychological study. And the mere fact of knowing "
+#~ "that someone is watching or studying you can have a pretty big effect on "
+#~ "behaviour. This is generally referred to as **reactivity** or **demand "
+#~ "characteristics**. The basic idea is captured by the Hawthorne effect: "
+#~ "people alter their performance because of the attention that the study "
+#~ "focuses on them. The effect takes its name from a study that took place "
+#~ "in the “Hawthorne Works” factory outside of Chicago (see :ref:`Adair, "
+#~ "1984 <Adair_1984>`). This study, from the 1920s, looked at the effects of "
+#~ "factory lighting on worker productivity. But, importantly, change in "
+#~ "worker behaviour occurred because the workers *knew* they were being "
+#~ "studied, rather than any effect of factory lighting."
+#~ msgstr ""
+#~ "Når man snakker om eksperimentatoreffekter, er bekymringen at "
+#~ "eksperimentatorens kunnskap eller ønsker for eksperimentet blir "
+#~ "kommunisert til deltakerne, og at disse kan endre folks atferd (:ref:"
+#~ "`Rosenthal, 1966 <Rosenthal_1966>`). Men selv om man klarer å hindre at "
+#~ "dette skjer, er det nesten umulig å hindre at folk vet at de er en del av "
+#~ "en psykologisk studie. Og bare det å vite at noen følger med på eller "
+#~ "studerer deg, kan ha en ganske stor effekt på atferden din. Dette kalles "
+#~ "gjerne **reaktivitet** eller **demand characteristics**. Den "
+#~ "grunnleggende ideen er beskrevet i Hawthorne-effekten: Folk endrer "
+#~ "prestasjonene sine på grunn av oppmerksomheten som studien retter mot "
+#~ "dem. Effekten har fått navnet sitt fra en studie som fant sted i "
+#~ "fabrikken «Hawthorne Works» utenfor Chicago (se :ref:`Adair, 1984 "
+#~ "<Adair_1984>`). Denne studien fra 1920-tallet så på effekten av "
+#~ "fabrikkbelysning på arbeidernes produktivitet. Men, og det er viktig å "
+#~ "merke seg, endringen i arbeidernes atferd skyldtes at arbeiderne *visste* "
+#~ "at de ble studert, snarere enn at fabrikkbelysningen hadde noen effekt."
+
+#~ msgid ""
+#~ "The **placebo effect** is a specific type of demand characteristic that "
+#~ "we worry a lot about. It refers to the situation where the mere fact of "
+#~ "being treated causes an improvement in outcomes. The classic example "
+#~ "comes from clinical trials. If you give people a completely chemically "
+#~ "inert drug and tell them that it’s a cure for a disease, they will tend "
+#~ "to get better faster than people who aren’t treated at all. In other "
+#~ "words, it is people’s belief that they are being treated that causes the "
+#~ "improved outcomes, not the drug."
+#~ msgstr ""
+#~ "**Placeboeffekten** er en spesifikk type *demand characteristic* som vi "
+#~ "bekymrer oss mye for. Den refererer til en situasjon der bare det å bli "
+#~ "behandlet fører til en forbedring av resultatene. Det klassiske "
+#~ "eksempelet kommer fra kliniske studier. Hvis du gir folk et helt kjemisk "
+#~ "inert legemiddel og forteller dem at det er en kur mot en sykdom, vil de "
+#~ "ha en tendens til å bli raskere friske enn folk som ikke får behandling i "
+#~ "det hele tatt. Det er med andre ord folks tro på at de blir behandlet som "
+#~ "gir bedre resultater, ikke legemiddelet."
