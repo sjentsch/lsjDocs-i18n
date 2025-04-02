@@ -1782,10 +1782,7 @@ msgstr ""
 "SS\\ :sub:`error`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:628
-<<<<<<< HEAD
-=======
 #, python-brace-format
->>>>>>> e81e1374 (Updated using .crtLng)
 msgid ""
 "If you read ahead to chapter :doc:`../Ch14/Ch14_ANOVA2` and look at how "
 "the “treatment effect” at level *k* of a factor is defined in terms of "
@@ -1801,10 +1798,7 @@ msgstr ""
 "(\\sum_{k=1}^G N_k \\alpha_k^2)/(G-1)`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:635
-<<<<<<< HEAD
-=======
 #, python-brace-format
->>>>>>> e81e1374 (Updated using .crtLng)
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - "
 "2}`."
