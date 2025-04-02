@@ -1,21 +1,13 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Learning statistics with jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-02 22:02+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-04-02 22:00+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +17,7 @@ msgstr ""
 msgid "A brief introduction to research design"
 msgstr "En kort innføring i forskningsdesign"
 
-#: ../../Ch02/Ch02_StudyDesign.rst
+#: ../../Ch02/Ch02_StudyDesign.rst:0
 msgid ""
 "*To consult the statistician after an experiment is finished is often merely "
 "to ask him to conduct a post mortem examination. He can perhaps say what the "
@@ -604,19 +596,19 @@ msgstr ""
 "utsagnet (blant fire opplistede utsagn) som stemmer best overens med deres "
 "holdninger:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(1\\) Temperatures are rising because of human activity"
 msgstr "\\(1\\) Temperaturen stiger på grunn av menneskelig aktivitet"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(2\\) Temperatures are rising but we don’t know why"
 msgstr "\\(2\\) Temperaturene stiger, men vi vet ikke hvorfor"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(3\\) Temperatures are rising but not because of humans"
 msgstr "\\(3\\) Temperaturen stiger, men ikke på grunn av mennesker"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(4\\) Temperatures are not rising"
 msgstr "\\(4\\) Temperaturene stiger ikke"
 
@@ -1005,23 +997,23 @@ msgstr ""
 msgid "and then the options presented to the participant are these:"
 msgstr "og deretter får deltakeren følgende alternativer:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(1\\) Strongly disagree"
 msgstr "\\(1\\) Helt uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(2\\) Disagree"
 msgstr "\\(2\\) Uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(3\\) Neither agree nor disagree"
 msgstr "\\(3\\) Verken enig eller uenig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(4\\) Agree"
 msgstr "\\(4\\) Enig"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(5\\) Strongly agree"
 msgstr "\\(5\\) Helt enig"
 
@@ -1039,15 +1031,15 @@ msgstr ""
 "Det er imidlertid ikke nødvendig at alle elementene er eksplisitt beskrevet. "
 "Dette er også et godt eksempel på en 5-punkts Likert-skala:"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(2\\)"
 msgstr "\\(2\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(3\\)"
 msgstr "\\(3\\)"
 
-#: ../../Ch02/Ch02_StudyDesign_2.rst:0 ../../Ch02/Ch02_StudyDesign_2.rst
+#: ../../Ch02/Ch02_StudyDesign_2.rst:0
 msgid "\\(4\\)"
 msgstr "\\(4\\)"
 
@@ -2323,16 +2315,15 @@ msgid "Selection bias"
 msgstr "Seleksjonsskevhet"
 
 #: ../../Ch02/Ch02_StudyDesign_6.rst:360
-#, python-format
 msgid ""
 "**Selection bias** is a pretty broad term. Suppose that you’re running an "
 "experiment with two groups of participants where each group gets a different "
 "“treatment”, and you want to see if the different treatments lead to "
 "different outcomes. However, suppose that, despite your best efforts, you’ve "
-"ended up with a gender imbalance across groups (say, group A has 80\\"
-"% females and group B has 50\\% females). It might sound like this could "
-"never happen but, trust me, it can. This is an example of a selection bias, "
-"in which the people “selected into” the two groups have different "
+"ended up with a gender imbalance across groups (say, group A has 80\\% "
+"females and group B has 50\\% females). It might sound like this could never "
+"happen but, trust me, it can. This is an example of a selection bias, in "
+"which the people “selected into” the two groups have different "
 "characteristics. If any of those characteristics turns out to be relevant "
 "(say, your treatment works better on females than males) then you’re in a "
 "lot of trouble."
@@ -2884,11 +2875,11 @@ msgstr ""
 msgid "Fraud, deception and self-deception"
 msgstr "Bedrageri, bedrag og selvbedrag"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst
+#: ../../Ch02/Ch02_StudyDesign_6.rst:0
 msgid "*It is difficult to get a man to understand something,*"
 msgstr "*Det er vanskelig å få en mann til å forstå noe.*"
 
-#: ../../Ch02/Ch02_StudyDesign_6.rst
+#: ../../Ch02/Ch02_StudyDesign_6.rst:0
 msgid "*when his salary depends on his not understanding it.*"
 msgstr "*når lønnen hans avhenger av at han ikke forstår det*."
 
