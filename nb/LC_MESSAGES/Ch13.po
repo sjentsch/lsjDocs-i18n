@@ -695,15 +695,9 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:178
 msgid ""
-<<<<<<< HEAD
-"It’s not too difficult to show that the total variation among people in the "
-"experiment |SS_t| is actually the sum of the differences between the groups |"
-"SS_b| and the variation inside the groups |SS_w|. That is,"
-=======
 "It’s not too difficult to show that the total variation among people in "
 "the experiment |SS_t| is actually the sum of the differences between the "
 "groups |SS_b| and the variation inside the groups |SS_w|. That is,"
->>>>>>> e81e1374 (Updated using .crtLng)
 msgstr ""
 "Det er ikke så vanskelig å vise at den totale variasjonen blant personene i "
 "eksperimentet |SS_t| faktisk er summen av forskjellene mellom gruppene |"

@@ -715,11 +715,7 @@ msgstr "Hurra!"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:188
 msgid "Illustration of between and within groups variation"
-<<<<<<< HEAD
 msgstr "Veranschaulichung der Variation zwischen und innerhalb der Gruppen"
-=======
-msgstr ""
->>>>>>> e81e1374 (Updated using .crtLng)
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:192
 msgid ""
