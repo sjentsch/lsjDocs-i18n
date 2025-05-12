@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-02 22:44+0200\n"
+"POT-Creation-Date: 2025-05-12 13:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3511,8 +3511,8 @@ msgid ""
 "The basic idea generalises to higher order ANOVAs. For instance, suppose "
 "that we were trying to run an ANOVA with three factors, ``A``, ``B`` and "
 "``C``, and we wanted to consider all possible main effects and all possible "
-"interactions, including the three way interaction ``A*B*C``. The table below "
-"shows you what the Type 3 tests look like for this situation:"
+"interactions, including the three way interaction ``A * B * C``. The table "
+"below shows you what the Type 3 tests look like for this situation:"
 msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:438
@@ -3710,8 +3710,8 @@ msgid "``outcome ~ B + C + A * B + A * C + B * C + A * B * C``"
 msgstr "``outcome ~ B + C + A * B + A * C + B * C + A * B * C``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:412
-msgid "``outcome ~ A + B + C + A * B + A * C + B*C + A * B * C``"
-msgstr "``outcome ~ A + B + C + A * B + A * C + B*C + A * B * C``"
+msgid "``outcome ~ A + B + C + A * B + A * C + B * C + A * B * C``"
+msgstr "``outcome ~ A + B + C + A * B + A * C + B * C + A * B * C``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:415
 msgid ""
