@@ -1,11 +1,11 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-05-12 13:21+0200\n"
-"PO-Revision-Date: 2025-03-31 16:00+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-20 22:01+0000\n"
+"Last-Translator: Takahiro Namatame "
+"<taka0007@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/lsjdocs/ch04/ja/"
 ">\n"
 "Language: ja\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../Ch04/Ch04_Descriptives.rst:4
 msgid "Descriptive statistics"
-msgstr ""
+msgstr "記述統計学"
 
 #: ../../Ch04/Ch04_Descriptives.rst:18
 msgid ""
