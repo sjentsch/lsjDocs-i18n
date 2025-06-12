@@ -22,14 +22,13 @@ msgstr "Hvorfor lærer vi statistik?"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr "*\"Du må ikke besvare spørgeskemaer*"
+msgstr "*»Du må ikke besvare spørgeskemaer*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
 msgstr "*Eller quizzer om verdensanliggender,*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
-#, fuzzy
 msgid "*Nor with compliance*"
 msgstr "*heller ikke med overholdelse*"
 
@@ -47,7 +46,7 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats.rst:25
 msgid "W.H. Auden\\ [#]_"
-msgstr ""
+msgstr "W.H. Auden\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats.rst:30
 msgid ""
