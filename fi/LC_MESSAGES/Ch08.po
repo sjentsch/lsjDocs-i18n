@@ -1,10 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-12 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-12 13:21+0200\n"
@@ -710,27 +715,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "90"
-msgstr ""
+msgstr "90"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "82"
-msgstr ""
+msgstr "82"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "94"
-msgstr ""
+msgstr "94"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65 ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "99"
-msgstr ""
+msgstr "99"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "110"
-msgstr ""
+msgstr "110"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "95.0"
-msgstr ""
+msgstr "95.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "Replication 2"
@@ -738,23 +743,23 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "78"
-msgstr ""
+msgstr "78"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "88"
-msgstr ""
+msgstr "88"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "111"
-msgstr ""
+msgstr "111"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "117"
-msgstr ""
+msgstr "117"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "101.0"
-msgstr ""
+msgstr "101.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "Replication 3"
@@ -762,24 +767,24 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "122"
-msgstr ""
+msgstr "122"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "91"
-msgstr ""
+msgstr "91"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:71
 #: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "98"
-msgstr ""
+msgstr "98"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "86"
-msgstr ""
+msgstr "86"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "101.6"
-msgstr ""
+msgstr "101.6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "Replication 4"
@@ -787,19 +792,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "96"
-msgstr ""
+msgstr "96"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "119"
-msgstr ""
+msgstr "119"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "107"
-msgstr ""
+msgstr "107"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "103.8"
-msgstr ""
+msgstr "103.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "Replication 5"
@@ -807,19 +812,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "105"
-msgstr ""
+msgstr "105"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "113"
-msgstr ""
+msgstr "113"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "103"
-msgstr ""
+msgstr "103"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "104.4"
-msgstr ""
+msgstr "104.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "Replication 6"
@@ -827,27 +832,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "81"
-msgstr ""
+msgstr "81"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "89"
-msgstr ""
+msgstr "89"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "93"
-msgstr ""
+msgstr "93"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "85"
-msgstr ""
+msgstr "85"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "114"
-msgstr ""
+msgstr "114"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "92.4"
-msgstr ""
+msgstr "92.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "Replication 7"
@@ -855,19 +860,19 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77 ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "108"
-msgstr ""
+msgstr "108"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "133"
-msgstr ""
+msgstr "133"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "106.4"
-msgstr ""
+msgstr "106.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "Replication 8"
@@ -875,7 +880,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "102.8"
-msgstr ""
+msgstr "102.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "Replication 9"
@@ -883,15 +888,15 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "73"
-msgstr ""
+msgstr "73"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "116"
-msgstr ""
+msgstr "116"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "100.4"
-msgstr ""
+msgstr "100.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "Replication 10"
@@ -899,27 +904,27 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "95"
-msgstr ""
+msgstr "95"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "126"
-msgstr ""
+msgstr "126"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "112"
-msgstr ""
+msgstr "112"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "120"
-msgstr ""
+msgstr "120"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "76"
-msgstr ""
+msgstr "76"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "105.8"
-msgstr ""
+msgstr "105.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:86
 msgid ""
@@ -1136,6 +1141,8 @@ msgid ""
 "\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
 "\n"
 msgstr ""
+"\\mbox{SEM} = \\frac{\\sigma}{ \\sqrt{N} }\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:278
 msgid ""
@@ -1274,7 +1281,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:73
 msgid "µ"
-msgstr ""
+msgstr "µ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:74
 msgid "True population mean"
@@ -1287,7 +1294,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:76
 msgid ":math:`\\hat{\\mu}`"
-msgstr ""
+msgstr ":math:`\\hat{\\mu}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:77
 msgid "Estimate of the population mean"
@@ -1328,7 +1335,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:102
 msgid "``20``"
-msgstr ""
+msgstr "``20``"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:104
 msgid ""
@@ -1365,7 +1372,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:129
 msgid "``20, 22``"
-msgstr ""
+msgstr "``20, 22``"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:131
 msgid ""
@@ -1473,6 +1480,8 @@ msgid ""
 "s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 msgstr ""
+"s^2 = \\frac{1}{N} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:223
 msgid ""
@@ -1487,6 +1496,8 @@ msgid ""
 "\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
 "\n"
 msgstr ""
+"\\hat\\sigma^2 = \\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:230
 msgid ""
@@ -1504,6 +1515,8 @@ msgid ""
 "\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
 "\n"
 msgstr ""
+"\\hat\\sigma = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (X_i - \\bar{X})^2}\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:239
 msgid ""
@@ -1541,7 +1554,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "*s*"
-msgstr ""
+msgstr "*s*"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "Sample standard deviation"
@@ -1549,7 +1562,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "σ"
-msgstr ""
+msgstr "σ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "Population standard deviation"
@@ -1557,7 +1570,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid ":math:`\\hat{\\sigma}`"
-msgstr ""
+msgstr ":math:`\\hat{\\sigma}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Estimate of the population standard deviation"
@@ -1569,7 +1582,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "*s*\\²"
-msgstr ""
+msgstr "*s*\\²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Sample variance"
@@ -1577,7 +1590,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "σ²"
-msgstr ""
+msgstr "σ²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Population variance"
@@ -1585,7 +1598,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid ":math:`\\hat{\\sigma}^2`"
-msgstr ""
+msgstr ":math:`\\hat{\\sigma}^2`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Estimate of the population variance"
@@ -1709,7 +1722,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:47
 msgid "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
-msgstr ""
+msgstr "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:49
 msgid ""
@@ -1744,6 +1757,9 @@ msgid ""
 "{\\sqrt{N}} \\right)\n"
 "\n"
 msgstr ""
+"\\mbox{CI}_{95} = \\bar{X} \\pm \\left( 1.96 \\times \\frac{\\sigma}"
+"{\\sqrt{N}} \\right)\n"
+"\n"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:69
 msgid ""
@@ -1937,15 +1953,15 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_6.rst:17
 msgid ":doc:`Ch08_Estimation_3`"
-msgstr ""
+msgstr ":doc:`Ch08_Estimation_3`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:19
 msgid ":doc:`Ch08_Estimation_4`"
-msgstr ""
+msgstr ":doc:`Ch08_Estimation_4`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:21
 msgid ":doc:`Ch08_Estimation_5`"
-msgstr ""
+msgstr ":doc:`Ch08_Estimation_5`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:23
 msgid ""

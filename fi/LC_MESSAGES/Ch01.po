@@ -1,10 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-12 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-12 13:21+0200\n"
@@ -341,11 +346,11 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "8442"
-msgstr ""
+msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "44\\%"
-msgstr ""
+msgstr "44\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
@@ -353,11 +358,11 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "4321"
-msgstr ""
+msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "35\\%"
-msgstr ""
+msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
@@ -398,119 +403,119 @@ msgstr ""
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "**A**"
-msgstr ""
+msgstr "**A**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "825"
-msgstr ""
+msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "62\\%"
-msgstr ""
+msgstr "62\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
-msgstr ""
+msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "82\\%"
-msgstr ""
+msgstr "82\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
-msgstr ""
+msgstr "**B**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "560"
-msgstr ""
+msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "63\\%"
-msgstr ""
+msgstr "63\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "68\\%"
-msgstr ""
+msgstr "68\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
-msgstr ""
+msgstr "**C**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "325"
-msgstr ""
+msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "37\\%"
-msgstr ""
+msgstr "37\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
-msgstr ""
+msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "34\\%"
-msgstr ""
+msgstr "34\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
-msgstr ""
+msgstr "**D**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "417"
-msgstr ""
+msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "33\\%"
-msgstr ""
+msgstr "33\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
-msgstr ""
+msgstr "375"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "**E**"
-msgstr ""
+msgstr "**E**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "191"
-msgstr ""
+msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "28\\%"
-msgstr ""
+msgstr "28\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
-msgstr ""
+msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "24\\%"
-msgstr ""
+msgstr "24\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
-msgstr ""
+msgstr "**F**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "272"
-msgstr ""
+msgstr "272"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "6\\%"
-msgstr ""
+msgstr "6\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "341"
-msgstr ""
+msgstr "341"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "7\\%"
-msgstr ""
+msgstr "7\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:58
 msgid ""

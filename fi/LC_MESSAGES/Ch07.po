@@ -1,10 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020-2022, Danielle J. Navarro & David R. Foxcroft. This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License.
-# This file is distributed under the same license as the Learning statistics with jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: Learning statistics with jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-12 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-12 13:21+0200\n"
@@ -305,43 +310,43 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ../../Ch07/Ch07_Probability_2.rst:65 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "**number of heads**"
@@ -349,7 +354,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:65
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67 ../../Ch07/Ch07_Probability_2.rst:75
 msgid "**proportion**"
@@ -357,103 +362,103 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.00"
-msgstr ""
+msgstr "0.00"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.50"
-msgstr ""
+msgstr "0.50"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67 ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.67"
-msgstr ""
+msgstr "0.67"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.75"
-msgstr ""
+msgstr "0.75"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.80"
-msgstr ""
+msgstr "0.80"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.57"
-msgstr ""
+msgstr "0.57"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67 ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.63"
-msgstr ""
+msgstr "0.63"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.70"
-msgstr ""
+msgstr "0.70"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #: ../../Ch07/Ch07_Probability_2.rst:71
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.73"
-msgstr ""
+msgstr "0.73"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.69"
-msgstr ""
+msgstr "0.69"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.71"
-msgstr ""
+msgstr "0.71"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.59"
-msgstr ""
+msgstr "0.59"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.56"
-msgstr ""
+msgstr "0.56"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.53"
-msgstr ""
+msgstr "0.53"
 
 #: ../../Ch07/Ch07_Probability_2.rst:75
 msgid "0.55"
-msgstr ""
+msgstr "0.55"
 
 #: ../../Ch07/Ch07_Probability_2.rst:78
 msgid ""
@@ -749,11 +754,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "*X*\\ :sub:`1`"
-msgstr ""
+msgstr "*X*\\ :sub:`1`"
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "*P*\\ (X\\ :sub:`1`\\ ) = 0.5"
-msgstr ""
+msgstr "*P*\\ (X\\ :sub:`1`\\ ) = 0.5"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "Grey jeans"
@@ -761,11 +766,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "*X*\\ :sub:`2`"
-msgstr ""
+msgstr "*X*\\ :sub:`2`"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "*P*\\ (X\\ :sub:`2`\\ ) = 0.3"
-msgstr ""
+msgstr "*P*\\ (X\\ :sub:`2`\\ ) = 0.3"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "Black jeans"
@@ -773,11 +778,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "*X*\\ :sub:`3`"
-msgstr ""
+msgstr "*X*\\ :sub:`3`"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "*P*\\ (X\\ :sub:`3`\\ ) = 0.1"
-msgstr ""
+msgstr "*P*\\ (X\\ :sub:`3`\\ ) = 0.1"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "Black suit"
@@ -785,11 +790,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "*X*\\ :sub:`4`"
-msgstr ""
+msgstr "*X*\\ :sub:`4`"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "*P*\\ (X\\ :sub:`4`\\ ) = 0"
-msgstr ""
+msgstr "*P*\\ (X\\ :sub:`4`\\ ) = 0"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "Blue tracksuit"
@@ -797,11 +802,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "*X*\\ :sub:`5`"
-msgstr ""
+msgstr "*X*\\ :sub:`5`"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "*P*\\ (X\\ :sub:`5`\\ ) = 0.1"
-msgstr ""
+msgstr "*P*\\ (X\\ :sub:`5`\\ ) = 0.1"
 
 #: ../../Ch07/Ch07_Probability_3.rst:74
 msgid ""
@@ -848,6 +853,8 @@ msgid ""
 "*P*\\ (E) = *P*\\ (X\\ :sub:`1`\\ ) + *P*\\ (X\\ :sub:`2`\\ ) + *P*\\ (X\\ :"
 "sub:`3`\\ )"
 msgstr ""
+"*P*\\ (E) = *P*\\ (X\\ :sub:`1`\\ ) + *P*\\ (X\\ :sub:`2`\\ ) + *P*\\ (X\\ :"
+"sub:`3`\\ )"
 
 #: ../../Ch07/Ch07_Probability_3.rst:112
 msgid ""
@@ -894,16 +901,16 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "*P*\\ (¬ A)"
-msgstr ""
+msgstr "*P*\\ (¬ A)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:136 ../../Ch07/Ch07_Probability_3.rst:138
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "="
-msgstr ""
+msgstr "="
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "1 - *P*\\ (A)"
-msgstr ""
+msgstr "1 - *P*\\ (A)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*A* or *B*"
@@ -911,11 +918,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*P*\\ (A ∪ B)"
-msgstr ""
+msgstr "*P*\\ (A ∪ B)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*P*\\ (A) + *P*\\ (B) - *P*\\ (A ∩ B)"
-msgstr ""
+msgstr "*P*\\ (A) + *P*\\ (B) - *P*\\ (A ∩ B)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*A* and *B*"
@@ -923,11 +930,11 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*P*\\ (A ∩ B)"
-msgstr ""
+msgstr "*P*\\ (A ∩ B)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*P*\\ (A|B) *P*\\ (B)"
-msgstr ""
+msgstr "*P*\\ (A|B) *P*\\ (B)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:4
 msgid "The binomial distribution"
@@ -980,19 +987,19 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:44
 msgid "Binomial"
-msgstr ""
+msgstr "Binomial"
 
 #: ../../Ch07/Ch07_Probability_4.rst:44
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: ../../Ch07/Ch07_Probability_4.rst:46
 msgid "|binomial|"
-msgstr ""
+msgstr "|binomial|"
 
 #: ../../Ch07/Ch07_Probability_4.rst:46
 msgid "|normal|"
-msgstr ""
+msgstr "|normal|"
 
 #: ../../Ch07/Ch07_Probability_4.rst:49
 msgid ""
@@ -1013,7 +1020,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:65
 msgid "*P*\\ (X | θ, N)"
-msgstr ""
+msgstr "*P*\\ (X | θ, N)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:67
 msgid ""
@@ -1026,7 +1033,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:74
 msgid "*X* ~ Binomial(θ, N)"
-msgstr ""
+msgstr "*X* ~ Binomial(θ, N)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:76
 msgid ""
@@ -1127,7 +1134,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:16
 msgid "X ~ Normal(µ, σ)"
-msgstr ""
+msgstr "X ~ Normal(µ, σ)"
 
 #: ../../Ch07/Ch07_Probability_5.rst:18
 msgid ""
@@ -1183,7 +1190,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:252
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../Ch07/Ch07_Probability_5.rst:68
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
