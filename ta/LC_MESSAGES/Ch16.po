@@ -1,10 +1,9 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-03-31 16:06+0000\n"
+"PO-Revision-Date: 2025-06-23 17:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/lsjdocs/ch16/ta/>\n"
 "Language: ta\n"
@@ -12,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: ../../Ch16/Ch16_Bayes.rst:4
 msgid "Bayesian statistics"
@@ -79,12 +78,12 @@ msgid ""
 "I provide a brief overview of how you can do :doc:`Bayesian versions of *t*-"
 "tests <Ch16_Bayes_5>`."
 msgstr ""
-"இந்த அத்தியாயம் இரண்டு பகுதிகளாக வருகிறது: பிரிவுகளில்: DOC: `CH16_BAYES_1` மூலம்: "
-"டாக்:` CH16_BAYES_3` பேய்சியன் புள்ளிவிவரங்கள் எதைப் பற்றியது என்பதைப் பற்றி நான் "
+"இந்த அத்தியாயம் இரண்டு பகுதிகளாக வருகிறது: பிரிவுகளில் :doc:`Ch16_Bayes_1` மூலம் "
+":doc:`Ch16_Bayes_3` பேய்சியன் புள்ளிவிவரங்கள் எதைப் பற்றியது என்பதைப் பற்றி நான் "
 "பேசுகிறேன், இது எவ்வாறு செயல்படுகிறது என்பதற்கான அடிப்படை கணித விதிகளை உள்ளடக்கியது, "
 "மேலும் நான் ஏன் நினைக்கிறேன் என்பதற்கான விளக்கமும் பேய்சியன் அணுகுமுறை மிகவும் பயனுள்ளதாக "
 "இருக்கும். பின்னர், நீங்கள் எப்படி செய்ய முடியும் என்பதற்கான சுருக்கமான கண்ணோட்டத்தை நான் "
-"வழங்குகிறேன்: டாக்: `பேய்சியன் பதிப்புகள் *t *-tests <ch16_bayes_5>`."
+"வழங்குகிறேன்git@github.com:sjentsch/lsjDocs-i18n.git`."
 
 #: ../../Ch16/Ch16_Bayes_1.rst:4
 msgid "Probabilistic reasoning by rational agents"
@@ -396,12 +395,12 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:142
 msgid "Total"
-msgstr ""
+msgstr "மொத்தம்"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148 ../../Ch16/Ch16_Bayes_1.rst:225
 #: ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "**Total**"
-msgstr ""
+msgstr "** மொத்தம் **"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "0.0875"
@@ -2189,7 +2188,7 @@ msgstr "`` இணை மாதிரிகள் டி-டெச்ட்`` ம
 
 #: ../../Ch16/Ch16_Bayes_8.rst:4
 msgid "Summary"
-msgstr ""
+msgstr "சுருக்கம்"
 
 #: ../../Ch16/Ch16_Bayes_8.rst:6
 msgid ""
