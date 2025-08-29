@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 18:02+0000\n"
+"PO-Revision-Date: 2025-08-29 19:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:4
 msgid "Exploratory Factor Analysis"
-msgstr ""
+msgstr "Дослідницький факторний аналіз"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:6
 msgid ""
@@ -88,6 +88,13 @@ msgid ""
 "one observed variable but instead is manifested in the relationships it "
 "causes in a set of observed variables."
 msgstr ""
+"**Експлораторний факторний аналіз (ЕФА)** — це статистичний метод, що "
+"дозволяє виявити приховані латентні фактори, які можна вивести з наших "
+"спостережуваних даних. Цей метод обчислює, наскільки набір виміряних "
+"змінних, наприклад V1, V2, V3, V4 і V5, може бути представлений як міра "
+"базового латентного фактора. Цей прихований фактор не можна виміряти за "
+"допомогою лише однієї спостережуваної змінної, але він проявляється у "
+"взаємозв'язках, які він викликає в наборі спостережуваних змінних."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:15
 msgid ""
@@ -98,15 +105,24 @@ msgid ""
 "observed variable, *V*\\ :sub:`i`, that is unexplained by the underlying "
 "latent factor."
 msgstr ""
+"У :numref:`fig-efa1` кожна спостережувана змінна V певною мірою «зумовлена» "
+"базовим латентним фактором (F), що зображено коефіцієнтами b1 до b5 (також "
+"званими факторними навантаженнями). Кожна спостережувана змінна також має "
+"пов'язаний з нею член похибки, e1 до e5. Кожен член похибки є дисперсією у "
+"пов'язаній спостережуваній змінній, *V*\\ :sub:`i`, яка не пояснюється "
+"прихованим фактором."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:24
 msgid "Latent factor underlying the relationship between observed variables"
 msgstr ""
+"Латентний фактор, що лежить в основі зв'язку між спостережуваними змінними"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:28
 msgid ""
 "Latent factor underlying the relationship between several observed variables"
 msgstr ""
+"Латентний фактор, що лежить в основі зв'язку між кількома спостережуваними "
+"змінними"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:32
 msgid ""
