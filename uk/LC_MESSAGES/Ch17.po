@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 16:56+0000\n"
+"PO-Revision-Date: 2025-08-29 18:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch17/"
 "uk/>\n"
@@ -26,7 +26,7 @@ msgstr "*“Почніть з початку”*, — сказав Король 
 
 #: ../../Ch17/Ch17_Epilogue.rst:0
 msgid "*“and go on till you come to the end: then stop”*"
-msgstr ""
+msgstr "*“і продовжуй, доки не дійдеш до кінця: тоді зупинись”*"
 
 #: ../../Ch17/Ch17_Epilogue.rst:21
 msgid "Lewis Carroll"
