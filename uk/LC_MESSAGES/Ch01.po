@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-07-02 12:44+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-29 07:01+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch01/"
 "uk/>\n"
 "Language: uk\n"
@@ -13,40 +13,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.13.1-dev\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:4
 msgid "Why do we learn statistics?"
-msgstr ""
+msgstr "Чому ми вивчаємо статистику?"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr ""
+msgstr "*“Ти не будеш відповідати на анкети*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
-msgstr ""
+msgstr "*Або вікторини з питань світової політики,*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Nor with compliance*"
-msgstr ""
+msgstr "*Ані з дотриманням вимог*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Take any test. Thou shalt not sit*"
-msgstr ""
+msgstr "*Пройди будь-який тест. Не сядь*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*With statisticians nor commit*"
-msgstr ""
+msgstr "*Зі статистиками, ані зобов'язаннями*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*A social science”*"
-msgstr ""
+msgstr "*Соціальна наука”*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:25
 msgid "W.H. Auden\\ [#]_"
-msgstr ""
+msgstr "В. Г. Оден\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats.rst:30
 msgid ""
@@ -55,10 +55,14 @@ msgid ""
 "University. The `history of the poem <https://harvardmagazine.com/2007/11/a-"
 "poets-warning.html>`__ is kind of interesting."
 msgstr ""
+"Цитата взята з вірша Одена 1946 року *Під якою лірою: реакційний трактат для "
+"сучасності*, виголошеного в рамках випускної промови в Гарвардському "
+"університеті. `Історія вірша <https://harvardmagazine.com/2007/11/a-poets-"
+"warning.html>`__ досить цікава."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:4
 msgid "On the psychology of statistics"
-msgstr ""
+msgstr "Про психологію статистики"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:6
 msgid ""
@@ -72,6 +76,13 @@ msgid ""
 "thought that the right place to start might be to answer some of the more "
 "common questions that people have about stats."
 msgstr ""
+"На подив багатьох студентів, статистика є досить важливою частиною "
+"психологічної освіти. На подив нікого, статистика дуже рідко є *улюбленою* "
+"частиною психологічної освіти. Адже, якби ви дійсно любили статистику, ви б, "
+"мабуть, зараз навчалися на курсі статистики, а не психології. Тож не дивно, "
+"що значна частина студентів незадоволена тим, що психологія містить так "
+"багато статистики. З огляду на це, я вирішив, що найкраще почати з "
+"відповідей на найпоширеніші запитання про статистику."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:17
 msgid ""
@@ -87,10 +98,22 @@ msgid ""
 "completely mad, because no-one takes the time to answer one very simple "
 "question:"
 msgstr ""
+"Значна частина цього питання стосується самої ідеї статистики. Що це таке? "
+"Для чого вона потрібна? І чому вчені так одержимі нею? Якщо задуматися, то "
+"це все хороші питання. Почнемо з останнього. Вчені, як група, здаються дивно "
+"зацикленими на проведенні статистичних тестів для всього. Насправді ми "
+"використовуємо статистику так часто, що іноді забуваємо пояснювати людям, "
+"навіщо ми це робимо. Серед вчених, а особливо соціальних науковців, існує "
+"своєрідна віра в те, що вашим висновкам не можна довіряти, поки ви не "
+"провели статистичний аналіз. Студентам-бакалаврам можна пробачити, що вони "
+"вважають нас усіх абсолютно божевільними, адже ніхто не витрачає час на "
+"відповідь на одне дуже просте запитання:"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:29
 msgid "*Why do you do statistics? Why don’t scientists just use common sense?*"
 msgstr ""
+"*Чому ви займаєтесь статистикою? Чому вчені просто не користуються здоровим "
+"глуздом?*"
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:32
 msgid ""
@@ -104,6 +127,15 @@ msgid ""
 "the right answer. Most scientists don’t think this approach is likely to "
 "work."
 msgstr ""
+"В деякому сенсі це наївне питання, але більшість хороших питань є такими. На "
+"нього є багато хороших відповідей,\\ [#]_ але, на мою думку, найкраща "
+"відповідь є дуже простою: ми недостатньо довіряємо собі. Ми турбуємося, що "
+"ми люди і схильні до всіх упереджень, спокус і слабкостей, від яких "
+"страждають люди. Більша частина статистики є, по суті, запобіжним заходом. "
+"Використання «здорового глузду» для оцінки доказів означає довіряти "
+"інтуїції, покладатися на словесні аргументи та використовувати силу "
+"людського розуму для знаходження правильної відповіді. Більшість вчених не "
+"вважають, що такий підхід може бути ефективним."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:42
 msgid ""
@@ -127,16 +159,34 @@ msgid ""
 "(ones where no guessing is required) without being influenced by our pre-"
 "existing biases."
 msgstr ""
+"Насправді, якщо подумати, це дуже нагадує мені психологічне питання, і "
+"оскільки я працюю на кафедрі психології, здається, що варто заглибитися в цю "
+"тему трохи далі. Чи дійсно можна вважати, що цей «здоровий глузд» є дуже "
+"надійним? Вербальні аргументи мають бути сформульовані мовою, а всі мови "
+"мають упередження — деякі речі важче висловити, ніж інші, і не обов'язково "
+"тому, що вони є хибними (наприклад, квантова електродинаміка є хорошою "
+"теорією, але її важко пояснити словами). Інстинкти нашого «шлунка» не "
+"призначені для вирішення наукових проблем, вони призначені для повсякденних "
+"висновків — і з огляду на те, що біологічна еволюція відбувається "
+"повільніше, ніж культурні зміни, ми повинні сказати, що вони призначені для "
+"вирішення повсякденних проблем для *іншого світу*, ніж той, в якому ми "
+"живемо. Найголовніше, що для розумного міркування люди повинні займатися "
+"«індукцією», робити мудрі припущення і виходити за межі безпосередніх "
+"свідчень органів чуття, щоб робити узагальнення про світ. Якщо ви думаєте, "
+"що можете це робити, не піддаючись впливу різних відволікаючих факторів, то "
+"я маю для вас міст у Лондоні, який хотів би вам продати. Як показує "
+"наступний розділ, ми навіть не можемо вирішувати «дедуктивні» проблеми (ті, "
+"що не вимагають припущень) без впливу наших існуючих упереджень."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:65
 msgid ""
 "Including the suggestion that common sense is in short supply among "
 "scientists."
-msgstr ""
+msgstr "Включно з припущенням, що серед науковців не вистачає здорового глузду."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:4
 msgid "The curse of belief bias"
-msgstr ""
+msgstr "Прокляття упередженості віри"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:6
 msgid ""
@@ -153,34 +203,46 @@ msgid ""
 "influenced by the believability of the conclusion, even when we shouldn’t. "
 "For instance, here’s a valid argument where the conclusion is believable:"
 msgstr ""
+"Люди в основному досить розумні. Ми, безумовно, розумніші за інші види, з "
+"якими ділимо планету (хоча багато хто може з цим не погодитися). Наш розум — "
+"це дивовижна річ, і ми здаємося здатними на найнеймовірніші подвиги мислення "
+"та розуму. Однак це не робить нас досконалими. Серед багатьох речей, які "
+"психологи довели за останні роки, є те, що нам дійсно важко бути "
+"нейтральними, оцінювати докази неупереджено і не піддаватися впливу існуючих "
+"упереджень. Хорошим прикладом цього є **ефект упередженості переконань** у "
+"логічному міркуванні: якщо попросити людей вирішити, чи є певний аргумент "
+"логічно обґрунтованим (тобто, чи висновок буде правдивим, якщо передумови є "
+"правдивими), ми, як правило, піддаємося впливу правдоподібності висновку, "
+"навіть якщо не повинні цього робити. Наприклад, ось обґрунтований аргумент, "
+"висновок якого є правдоподібним:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All cigarettes are expensive (Premise 1)"
-msgstr ""
+msgstr "Усі сигарети дорогі (Примітка 1)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some addictive things are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Деякі речі, що викликають залежність, недорогі (передумова 2)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
-msgstr ""
+msgstr "Отже, деякі речі, що викликають залежність, не є сигаретами (Висновок)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:24
 msgid "And here’s a valid argument where the conclusion is not believable:"
-msgstr ""
+msgstr "А ось обґрунтований аргумент, висновок якого не є переконливим:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All addictive things are expensive (Premise 1)"
-msgstr ""
+msgstr "Усі речі, що викликають залежність, дорогі (Передпосилка 1)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some cigarettes are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Деякі сигарети недорогі (Примітка 2)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
-msgstr ""
+msgstr "Отже, деякі сигарети не викликають залежності (Висновок)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:30
 msgid ""
@@ -192,16 +254,24 @@ msgid ""
 "conclusion is a logical consequence of the premises. That is, a valid "
 "argument doesn’t have to involve true statements."
 msgstr ""
+"Логічна *структура* аргументу № 2 ідентична структурі аргументу № 1, і "
+"обидва вони є правильними. Однак у другому аргументі є вагомі підстави "
+"вважати, що передумова 1 є неправильною, і, як наслідок, ймовірно, що "
+"висновок також є неправильним. Але це абсолютно не має відношення до даної "
+"теми; аргумент є дедуктивно дійсним, якщо висновок є логічним наслідком "
+"передумов. Тобто дійсний аргумент не обов'язково має містити правдиві "
+"твердження."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:39
 msgid ""
 "On the other hand, here’s an invalid argument that has a believable "
 "conclusion:"
 msgstr ""
+"З іншого боку, ось недійсний аргумент, який має правдоподібний висновок:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:46
 msgid "And finally, an invalid argument with an unbelievable conclusion:"
-msgstr ""
+msgstr "І нарешті, недійсний аргумент із неймовірним висновком:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
 msgid ""
@@ -212,34 +282,40 @@ msgid ""
 "arguments are valid. So if you ran an experiment looking at this, you’d "
 "expect to see data like this:"
 msgstr ""
+"Тепер припустимо, що люди дійсно здатні відкинути свої упередження щодо "
+"того, що є правдою, а що ні, і оцінювати аргументи виключно на основі їх "
+"логічної обґрунтованості. Ми очікували б, що 100 % людей скажуть, що "
+"обґрунтовані аргументи є обґрунтованими, а 0 % людей скажуть, що "
+"необґрунтовані аргументи є обґрунтованими. Отже, якщо провести експеримент з "
+"метою вивчення цього питання, можна очікувати отримати такі дані:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels true"
-msgstr ""
+msgstr "висновок здається правдивим"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels false"
-msgstr ""
+msgstr "висновок здається хибним"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62 ../../Ch01/Ch01_WhyStats_2.rst:82
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "**argument is valid**"
-msgstr ""
+msgstr "**аргумент дійсний**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
 msgid "100\\% say “valid”"
-msgstr ""
+msgstr "100% кажуть “дійсно\""
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64 ../../Ch01/Ch01_WhyStats_2.rst:84
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "**argument is invalid**"
-msgstr ""
+msgstr "**аргумент недійсний**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
 msgid "0\\% say “valid”"
-msgstr ""
+msgstr "0\\% кажуть “дійсний”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:67
 msgid ""
@@ -250,6 +326,11 @@ msgid ""
 "guys have taken psych classes, and by now you probably know where this is "
 "going."
 msgstr ""
+"Якби психологічні дані виглядали саме так (або хоча б наближалися до цього), "
+"ми могли б спокійно довіряти своїм інстинктам. Тобто, було б цілком "
+"нормально дозволити вченим оцінювати дані на основі їхнього здорового глузду "
+"і не перейматися всією цією заплутаною статистикою. Однак ви всі відвідували "
+"заняття з психології і, мабуть, вже здогадуєтеся, до чого це веде."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:74
 msgid ""
@@ -258,14 +339,18 @@ msgid ""
 "existing biases (i.e., beliefs) were in agreement with the structure of the "
 "data, everything went the way you’d hope:"
 msgstr ""
+"У класичному дослідженні, :ref:`Evans et al. (1983) <Evans_1983>` провели "
+"експеримент, досліджуючи саме це. Вони виявили, що коли вже існуючі "
+"упередження (тобто переконання) узгоджувалися зі структурою даних, все йшло "
+"так, як ви сподівалися:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "92\\% say “valid”"
-msgstr ""
+msgstr "92\\% кажуть “дійсний”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "8\\% say “valid”"
-msgstr ""
+msgstr "8\\% кажуть “дійсний”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:87
 msgid ""
@@ -273,14 +358,17 @@ msgid ""
 "intuitive feelings about the truth of the conclusion run against the logical "
 "structure of the argument:"
 msgstr ""
+"Не ідеально, але це досить добре. Але подивіться, що відбувається, коли наші "
+"інтуїтивні відчуття щодо істинності висновку суперечать логічній структурі "
+"аргументу:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "*46\\% say “valid”*"
-msgstr ""
+msgstr "*46\\% кажуть “дійсний”*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "*92\\% say “valid”*"
-msgstr ""
+msgstr "*92\\% кажуть “дійсний”*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
 msgid ""
@@ -291,6 +379,12 @@ msgid ""
 "that agrees with our pre-existing biases, almost no-one can see that the "
 "argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
+"Ой, це не дуже добре. Виявляється, коли людям подають сильний аргумент, який "
+"суперечить нашим існуючим переконанням, нам досить важко навіть сприйняти "
+"його як сильний аргумент (люди робили це лише в 46 % випадків). Ще гірше, "
+"коли людям подають слабкий аргумент, який узгоджується з нашими попередніми "
+"упередженнями, майже ніхто не може побачити, що аргумент є слабким (люди "
+"помилялися в цьому випадку в 92 % випадків!).\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
 msgid ""
@@ -307,16 +401,31 @@ msgid ""
 "data”, we’re going to need a bit of help to keep our personal biases under "
 "control. That’s what statistics does, it helps keep us honest."
 msgstr ""
+"Якщо подумати, ці дані не є настільки жахливими. Загалом, люди все ж таки "
+"краще, ніж випадково, компенсували свої попередні упередження, оскільки "
+"близько 60 % суджень людей були правильними (випадково можна було б "
+"очікувати 50 %). Проте, якби ви були професійним «оцінювачем доказів» і "
+"хтось запропонував вам чарівний інструмент, який підвищує ваші шанси "
+"прийняти правильне рішення з 60 % до (скажімо) 95 %, ви б, мабуть, "
+"скористалися цією пропозицією, чи не так? Звичайно, скористалися б. На "
+"щастя, у нас дійсно є інструмент, який може це зробити. Але це не магія, а "
+"статистика. Ось причина № 1, чому вчені люблять статистику. Нам просто *"
+"занадто легко* «вірити в те, у що ми хочемо вірити». Тому, якщо ми хочемо «"
+"вірити в дані», нам знадобиться трохи допомоги, щоб тримати під контролем "
+"наші особисті упередження. Саме це і робить статистика — вона допомагає нам "
+"залишатися чесними."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95\\% of "
 "what I read on the internet."
 msgstr ""
+"У мої більш цинічні моменти мені здається, що один лише цей факт пояснює 95% "
+"того, що я читаю в інтернеті."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:4
 msgid "The cautionary tale of Simpson’s paradox"
-msgstr ""
+msgstr "Повчальна історія парадоксу Сімпсона"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:6
 msgid ""
@@ -325,18 +434,22 @@ msgid ""
 "their postgraduate courses. Specifically, the thing that caused the problem "
 "was that the gender breakdown of their admissions, which looked like this:"
 msgstr ""
+"Це справжня історія (я так думаю!). У 1973 році Каліфорнійський університет "
+"у Берклі мав певні занепокоєння щодо прийому студентів на аспірантуру. "
+"Зокрема, проблемою було те, що гендерний розподіл прийнятих студентів "
+"виглядав так:"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15
 msgid "Number of applicants"
-msgstr ""
+msgstr "Кількість заявників"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15 ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Percent admitted"
-msgstr ""
+msgstr "Відсоток прийнятих"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "**Males**"
-msgstr ""
+msgstr "**Чоловіки**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "8442"
@@ -348,7 +461,7 @@ msgstr "44\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
-msgstr ""
+msgstr "**Жінки**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "4321"
@@ -367,6 +480,12 @@ msgid ""
 "a weak bias in favour of women (sort of!), you’d probably think that I was "
 "either crazy or sexist."
 msgstr ""
+"З огляду на це, вони побоювалися судових позовів! [#]_ З огляду на те, що "
+"було майже 13 000 заявників, різниця в 9 % у відсотках прийнятих чоловіків і "
+"жінок є надто великою, щоб бути випадковою. Досить переконливі дані, чи не "
+"так? І якщо я скажу вам, що ці дані *насправді* відображають слабку "
+"упередженість на користь жінок (своєрідну!), ви, мабуть, подумаєте, що я або "
+"божевільний, або сексист."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:29
 msgid ""
@@ -378,22 +497,29 @@ msgid ""
 "applicants. The table below shows the admission figures for the six largest "
 "departments (with the names of the departments removed for privacy reasons):"
 msgstr ""
+"Як не дивно, це насправді частково правда. Коли люди почали більш уважно "
+"придивлятися до цього питання, вони виявили дещо іншу картину (:ref:`Bickel "
+"et al., 1975 <Bickel_1975>`). Зокрема, коли вони розглянули це по відділах, "
+"виявилося, що більшість відділів насправді мали дещо *вищий* рівень "
+"успішності для жінок-абітурієнток, ніж для чоловіків-абітурієнтів. У таблиці "
+"нижче наведено дані про прийом до шести найбільших відділів (назви відділів "
+"видалено з міркувань конфіденційності):"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Males"
-msgstr ""
+msgstr "Чоловіки"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Females"
-msgstr ""
+msgstr "Жінки"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Department"
-msgstr ""
+msgstr "Відділ"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Applicants"
-msgstr ""
+msgstr "Кандидати"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "**A**"
@@ -518,6 +644,10 @@ msgid ""
 "females was *lower* than for males. How can this be? How can both of these "
 "statements be true at the same time?"
 msgstr ""
+"Примітно, що в більшості факультетів рівень зарахування жінок був *вищим*, "
+"ніж чоловіків! Проте загальний рівень зарахування жінок в університеті був "
+"*нижчим*, ніж чоловіків. Як це можливо? Як ці два твердження можуть бути "
+"правдивими одночасно?"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:63
 msgid ""
