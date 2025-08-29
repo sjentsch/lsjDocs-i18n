@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 16:56+0000\n"
+"PO-Revision-Date: 2025-08-29 18:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes.rst:24
 msgid "`David Hume <https://en.wikiquote.org/wiki/David_Hume>`__"
-msgstr ""
+msgstr "`Девід Х'юм <https://en.wikiquote.org/wiki/David_Hume>`__"
 
 #: ../../Ch16/Ch16_Bayes.rst:26
 msgid ""
