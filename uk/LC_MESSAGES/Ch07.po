@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 16:56+0000\n"
+"PO-Revision-Date: 2025-08-29 18:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -26,7 +26,7 @@ msgstr "*[Бог] дарував нам лише сутінки … Ймовір
 
 #: ../../Ch07/Ch07_Probability.rst:23
 msgid "John Locke"
-msgstr ""
+msgstr "Джон Локк"
 
 #: ../../Ch07/Ch07_Probability.rst:25
 msgid ""
@@ -40,6 +40,14 @@ msgid ""
 "powerful. The bigger and more useful part of statistics is that it provides "
 "information that lets you make inferences about data."
 msgstr ""
+"До цього моменту в книзі ми обговорили деякі ключові ідеї експериментального "
+"дизайну та трохи поговорили про те, як можна узагальнити набір даних. Для "
+"багатьох людей це все, що стосується статистики: збір усіх чисел, обчислення "
+"середніх значень, малювання графіків і розміщення їх у звіті. Щось на зразок "
+"колекціонування марок, але з цифрами. Однак статистика охоплює набагато "
+"більше. Насправді, описова статистика є однією з найменших частин статистики "
+"і однією з найменш потужних. Більша і корисніша частина статистики полягає в "
+"тому, що вона надає інформацію, яка дозволяє робити висновки про дані."
 
 #: ../../Ch07/Ch07_Probability.rst:36
 msgid ""
