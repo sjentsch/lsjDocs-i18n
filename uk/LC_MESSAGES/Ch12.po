@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 16:56+0000\n"
+"PO-Revision-Date: 2025-08-29 19:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -38,7 +38,7 @@ msgstr "continuous"
 
 #: ../../Ch12/Ch12_Regression_01.rst:4
 msgid "Correlations"
-msgstr ""
+msgstr "Кореляції"
 
 #: ../../Ch12/Ch12_Regression_01.rst:6
 msgid ""
@@ -46,18 +46,21 @@ msgid ""
 "variables in the data. To do that, we want to talk mostly about the "
 "**correlation** between variables. But first, we need some data."
 msgstr ""
+"У цьому розділі ми поговоримо про те, як описати взаємозв'язки *між* "
+"змінними в даних. Для цього ми хочемо поговорити переважно про **кореляцію** "
+"між змінними. Але спочатку нам потрібні деякі дані."
 
 #: ../../Ch12/Ch12_Regression_01.rst:12
 msgid "The data"
-msgstr ""
+msgstr "Дані"
 
 #: ../../Ch12/Ch12_Regression_01.rst:14
 msgid "Descriptive statistics for the |parenthood|_ data set."
-msgstr ""
+msgstr "Описова статистика для набору даних |parenthood|_."
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "Variable"
-msgstr ""
+msgstr "Змінна"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "min"
