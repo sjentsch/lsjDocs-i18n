@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:02+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -292,21 +292,21 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "name"
-msgstr ""
+msgstr "ім'я"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "person"
-msgstr ""
+msgstr "людина"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91 ../../Ch13/Ch13_ANOVA_02.rst:397
 #: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
 #: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "group"
-msgstr ""
+msgstr "група"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "group num."
-msgstr ""
+msgstr "номер групи."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "index in group"
@@ -314,21 +314,21 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "grumpiness"
-msgstr ""
+msgstr "сварливість"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*p*"
-msgstr ""
+msgstr "*p*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93 ../../Ch13/Ch13_ANOVA_02.rst:399
 #: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
 #: ../../Ch13/Ch13_ANOVA_02.rst:492 ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "*k*"
-msgstr ""
+msgstr "*k*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "*i*"
-msgstr ""
+msgstr "*i*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "|Y_ik| or |Y_p|"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "Ann"
-msgstr ""
+msgstr "Енн"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_02.rst:101
@@ -348,7 +348,7 @@ msgstr "1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:95 ../../Ch13/Ch13_ANOVA_02.rst:97
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "cool"
-msgstr ""
+msgstr "круто"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "20"
@@ -356,7 +356,7 @@ msgstr "20"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97
 msgid "Ben"
-msgstr ""
+msgstr "Бен"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:97 ../../Ch13/Ch13_ANOVA_02.rst:101
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_02.rst:596
@@ -372,7 +372,7 @@ msgstr "55"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99
 msgid "Cat"
-msgstr ""
+msgstr "Кіт"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:99 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:202 ../../Ch13/Ch13_ANOVA_07.rst:70
@@ -385,7 +385,7 @@ msgstr "21"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "Tim"
-msgstr ""
+msgstr "Тім"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_05.rst:49
 #: ../../Ch13/Ch13_ANOVA_05.rst:200 ../../Ch13/Ch13_ANOVA_07.rst:72
@@ -395,7 +395,7 @@ msgstr "4"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101 ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "uncool"
-msgstr ""
+msgstr "некрутий"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:101
 msgid "91"
@@ -403,7 +403,7 @@ msgstr "91"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103
 msgid "Egg"
-msgstr ""
+msgstr "Яйце"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:103 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:198 ../../Ch13/Ch13_ANOVA_07.rst:70
@@ -559,7 +559,7 @@ msgstr "|SS_w| + |SS_b| = |SS_t|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:184
 msgid "Yay."
-msgstr ""
+msgstr "Ура."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:188
 msgid "Illustration of between and within groups variation"
@@ -701,7 +701,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*df*"
-msgstr ""
+msgstr "*df*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "sum of squares"
@@ -709,19 +709,19 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "mean squares"
-msgstr ""
+msgstr "середньоквадратичні"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*F*-statistic"
-msgstr ""
+msgstr "*F*-статистика"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "*p*-value"
-msgstr ""
+msgstr "*p*-значення"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288 ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "**between groups**"
-msgstr ""
+msgstr "**між групами**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|SS_b| = |f_SS_b|"
@@ -729,11 +729,11 @@ msgstr "|SS_b| = |f_SS_b|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "[complicated]"
-msgstr ""
+msgstr "[складний]"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:290 ../../Ch13/Ch13_ANOVA_02.rst:598
 msgid "**within groups**"
-msgstr ""
+msgstr "**у групах**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:290
 msgid "|SS_w| = |f_SS_w|"
@@ -879,7 +879,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:397 ../../Ch13/Ch13_ANOVA_02.rst:423
 #: ../../Ch13/Ch13_ANOVA_02.rst:444
 msgid "outcome"
-msgstr ""
+msgstr "результат'"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:399 ../../Ch13/Ch13_ANOVA_02.rst:425
 #: ../../Ch13/Ch13_ANOVA_02.rst:446
@@ -893,7 +893,7 @@ msgstr "|Y_ik|"
 #: ../../Ch13/Ch13_ANOVA_02.rst:452 ../../Ch13/Ch13_ANOVA_02.rst:494
 #: ../../Ch13/Ch13_ANOVA_02.rst:524
 msgid "placebo"
-msgstr ""
+msgstr "плацебо"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:401 ../../Ch13/Ch13_ANOVA_02.rst:427
 #: ../../Ch13/Ch13_ANOVA_02.rst:448 ../../Ch13/Ch13_ANOVA_06.rst:331
@@ -915,7 +915,7 @@ msgstr "0.1"
 #: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_02.rst:456
 #: ../../Ch13/Ch13_ANOVA_02.rst:496 ../../Ch13/Ch13_ANOVA_02.rst:526
 msgid "anxifree"
-msgstr ""
+msgstr "безтурботний"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:407 ../../Ch13/Ch13_ANOVA_02.rst:433
 #: ../../Ch13/Ch13_ANOVA_02.rst:454 ../../Ch13/Ch13_ANOVA_06.rst:331
@@ -942,7 +942,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:423 ../../Ch13/Ch13_ANOVA_02.rst:444
 #: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "group mean"
-msgstr ""
+msgstr "середнє значення групи"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:425 ../../Ch13/Ch13_ANOVA_02.rst:446
 #: ../../Ch13/Ch13_ANOVA_02.rst:492
@@ -1077,15 +1077,15 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "grand mean"
-msgstr ""
+msgstr "великий середній"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:490
 msgid "deviation"
-msgstr ""
+msgstr "відхилення"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:490 ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "squared deviations"
-msgstr ""
+msgstr "квадратичні відхилення"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:492
 msgid "|Yb|"
@@ -1122,7 +1122,7 @@ msgstr "0.03"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:498 ../../Ch13/Ch13_ANOVA_02.rst:528
 msgid "joyzepam"
-msgstr ""
+msgstr "Джойзепам"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:498
 msgid "1.48"
@@ -1168,7 +1168,7 @@ msgstr "…"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "sample size"
-msgstr ""
+msgstr "розмір вибірки"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "weighted squared deviat."
@@ -1471,7 +1471,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Розмір ефекту"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:6
 msgid ""
@@ -1576,7 +1576,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "possibility:"
-msgstr ""
+msgstr "можливість:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`A`"
@@ -1592,7 +1592,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "which hypothesis?"
-msgstr ""
+msgstr "яка гіпотеза?"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43 ../../Ch13/Ch13_ANOVA_05.rst:45
 #: ../../Ch13/Ch13_ANOVA_05.rst:47 ../../Ch13/Ch13_ANOVA_05.rst:49
@@ -1603,14 +1603,14 @@ msgstr "✓"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:43
 msgid "null"
-msgstr ""
+msgstr "нульовий"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:45 ../../Ch13/Ch13_ANOVA_05.rst:47
 #: ../../Ch13/Ch13_ANOVA_05.rst:49 ../../Ch13/Ch13_ANOVA_05.rst:51
 #: ../../Ch13/Ch13_ANOVA_05.rst:53 ../../Ch13/Ch13_ANOVA_05.rst:55
 #: ../../Ch13/Ch13_ANOVA_05.rst:57
 msgid "alternative"
-msgstr ""
+msgstr "альтернатива"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:55 ../../Ch13/Ch13_ANOVA_07.rst:66
 #: ../../Ch13/Ch13_ANOVA_07.rst:68 ../../Ch13/Ch13_ANOVA_07.rst:76
@@ -1703,7 +1703,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:129
 msgid "Bonferroni corrections"
-msgstr ""
+msgstr "Поправки Бонферроні"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:131
 msgid ""
@@ -1752,7 +1752,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:165
 msgid "Holm corrections"
-msgstr ""
+msgstr "Поправки Холма"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:167
 msgid ""
@@ -1807,7 +1807,7 @@ msgstr "*p* × *j*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "Holm *p*"
-msgstr ""
+msgstr "Холм *p*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:198
 msgid ".001"
@@ -2524,19 +2524,19 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Participant"
-msgstr ""
+msgstr "Учасник"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Speech"
-msgstr ""
+msgstr "Промова"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Conceptual"
-msgstr ""
+msgstr "Концептуальний"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Syntax"
-msgstr ""
+msgstr "Синтаксис"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:70
 msgid "9"
