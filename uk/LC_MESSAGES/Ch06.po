@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:01+0000\n"
+"PO-Revision-Date: 2025-09-01 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch06/"
 "uk/>\n"
@@ -1420,7 +1420,7 @@ msgstr "2"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:47
 msgid "Logarithms and exponentials"
-msgstr ""
+msgstr "Логарифми та експоненти"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:49
 msgid ""
