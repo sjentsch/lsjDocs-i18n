@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:02+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -378,11 +378,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Umbrella, Rainy)"
-msgstr ""
+msgstr "*P*\\ (Парасолька, Дощовий)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (No-umbrella, Rainy)"
-msgstr ""
+msgstr "*P*\\ (Без парасольки, дощ)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Rainy)"
@@ -390,11 +390,11 @@ msgstr "*P*\\ (Дощовий)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Umbrella, Dry)"
-msgstr ""
+msgstr "*P*\\ (Парасолька, суха)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (No-umbrella, Dry)"
-msgstr ""
+msgstr "*P*\\ (Без парасольки, сухий)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Dry)"
@@ -641,7 +641,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:4
 msgid "Bayesian hypothesis tests"
-msgstr ""
+msgstr "Перевірки баєсівських гіпотез"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:6
 msgid ""
@@ -693,7 +693,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:34
 msgid "The Bayes factor"
-msgstr ""
+msgstr "Байєсівський Фактор"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:36
 msgid ""
@@ -776,7 +776,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:87
 msgid "Interpreting Bayes factors"
-msgstr ""
+msgstr "Інтерпретація байєсівських факторів"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:89
 msgid ""
@@ -829,7 +829,7 @@ msgstr "> 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:108
 msgid "Very strong evidence"
-msgstr ""
+msgstr "Дуже вагомі докази"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:111
 msgid ""
@@ -900,7 +900,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:4
 msgid "Why be a Bayesian?"
-msgstr ""
+msgstr "Чому варто бути баєсівцем?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:6
 msgid ""
@@ -1210,19 +1210,19 @@ msgstr "Дія"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:243 ../../Ch16/Ch16_Bayes_3.rst:257
 msgid "*p* less than 0.05"
-msgstr ""
+msgstr "*p* менше ніж 0.05"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:243
 msgid "Reject the null"
-msgstr ""
+msgstr "Відхилити нуль"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:245
 msgid "*p* greater than 0.05"
-msgstr ""
+msgstr "*p* більше ніж 0.05"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:245
 msgid "Retain the null"
-msgstr ""
+msgstr "Зберегти нульове значення"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:248
 msgid ""
@@ -1242,11 +1242,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "Continue the experiment"
-msgstr ""
+msgstr "Продовжити експеримент"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:261
 msgid "*p* greater than 0.1"
-msgstr ""
+msgstr "*p* більше ніж 0.1"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:261
 msgid "Stop the experiment and retain the null"
@@ -1416,7 +1416,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:405
 msgid "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
-msgstr ""
+msgstr "`Амвросій Макробій <https://www.quotes.net/quote/20857>`__"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:408
 msgid ""
@@ -1493,7 +1493,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:14
 msgid "Independent samples *t*-test"
-msgstr ""
+msgstr "Незалежні зразки *t*-test"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:16
 msgid ""
@@ -1542,7 +1542,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:64
 msgid "Paired samples *t*-test"
-msgstr ""
+msgstr "Парні зразки *t*-test"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:66
 msgid ""
