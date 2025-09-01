@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:01+0000\n"
+"PO-Revision-Date: 2025-09-01 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -174,7 +174,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:60
 msgid "Australians currently living?"
-msgstr ""
+msgstr "Австралійці, які зараз проживають?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:62
 msgid "Australians of similar ages to my sample?"
@@ -182,7 +182,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:64
 msgid "Anyone currently alive?"
-msgstr ""
+msgstr "Є хтось зараз живий?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:66
 msgid "Any human being, past, present or future?"
@@ -196,7 +196,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:71
 msgid "Any intelligent being?"
-msgstr ""
+msgstr "Якась розумна істота?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:73
 msgid ""
@@ -236,7 +236,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:95
 msgid "Simple random samples"
-msgstr ""
+msgstr "Прості випадкові вибірки"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:97
 msgid ""
@@ -1231,7 +1231,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:4
 msgid "Estimating population parameters"
-msgstr ""
+msgstr "Оцінка параметрів популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:6
 msgid ""
@@ -1310,7 +1310,7 @@ msgstr "Символ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "What is it?"
-msgstr ""
+msgstr "Що це?"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "Do we know what it is?"
@@ -1335,7 +1335,7 @@ msgstr "µ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:74
 msgid "True population mean"
-msgstr ""
+msgstr "Справжнє середнє значення населення"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:270
 #: ../../Ch08/Ch08_Estimation_4.rst:281
@@ -1608,7 +1608,7 @@ msgstr "*s*"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "Sample standard deviation"
-msgstr ""
+msgstr "Стандартне відхилення вибірки"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "σ"
@@ -1616,7 +1616,7 @@ msgstr "σ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:270
 msgid "Population standard deviation"
-msgstr ""
+msgstr "Стандартне відхилення популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid ":math:`\\hat{\\sigma}`"
@@ -1721,7 +1721,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:10
 msgid "Unknown origin\\ [#]_"
-msgstr ""
+msgstr "Невідоме походження\\ [#]_"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:12
 msgid ""
