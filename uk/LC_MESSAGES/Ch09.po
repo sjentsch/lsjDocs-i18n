@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:01+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -303,7 +303,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:160
 msgid "Dani’s **research** hypothesis:"
-msgstr ""
+msgstr "Гіпотеза **дослідження** Дані:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:160
 msgid "“ESP exists”"
@@ -311,11 +311,11 @@ msgstr "“ESP існує”"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:162
 msgid "Dani’s **statistical** hypothesis:"
-msgstr ""
+msgstr "**Статистична** гіпотеза Дані:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:162
 msgid "*θ* ≠ 0.5"
-msgstr ""
+msgstr "*θ* ≠ 0.5"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:165
 msgid ""
@@ -428,12 +428,12 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:29
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:69
 msgid "retain H\\ :sub:`0`"
-msgstr ""
+msgstr "утримувати H\\ :sub:`0`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:29
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:69
 msgid "reject H\\ :sub:`0`"
-msgstr ""
+msgstr "відхилити H\\ :sub:`0`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:71
@@ -447,7 +447,7 @@ msgstr "правильне рішення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 msgid "error (type I)"
-msgstr ""
+msgstr "помилка (type I)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:74
@@ -456,7 +456,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 msgid "error (type II)"
-msgstr ""
+msgstr "помилка (type II)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:36
 msgid ""
@@ -982,7 +982,7 @@ msgstr "0.01"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:45
 msgid "Reject the null?"
-msgstr ""
+msgstr "Відхилити нуль?"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:45
 msgid "Yes"
@@ -1057,7 +1057,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:101
 msgid "A common mistake"
-msgstr ""
+msgstr "Поширена помилка"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:103
 msgid ""
@@ -1181,7 +1181,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:83
 msgid "Two proposed solutions"
-msgstr ""
+msgstr "Два запропонованих рішення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:85
 msgid ""
@@ -1375,7 +1375,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:19
 msgid "The power function"
-msgstr ""
+msgstr "Функція степеня"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:23
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
@@ -1517,11 +1517,11 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "big effect size"
-msgstr ""
+msgstr "великий розмір ефекту"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:144
 msgid "small effect size"
-msgstr ""
+msgstr "малий розмір ефекту"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "significant result"
@@ -1541,7 +1541,7 @@ msgstr "незначний результат"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "no effect observed"
-msgstr ""
+msgstr "жодного ефекту не спостерігалося"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:152
 msgid ""
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:20
 msgid "Neyman versus Fisher"
-msgstr ""
+msgstr "Нейман проти Фішера"
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:22
 msgid ""
@@ -1774,7 +1774,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:70
 msgid "Bayesians versus frequentists"
-msgstr ""
+msgstr "Баєсівці проти частотних"
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:72
 msgid ""
