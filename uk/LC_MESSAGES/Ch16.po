@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -159,7 +159,7 @@ msgstr "Гіпотеза"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:50
 msgid "Degree of Belief"
-msgstr ""
+msgstr "Ступінь віри"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "**Rainy day**"
