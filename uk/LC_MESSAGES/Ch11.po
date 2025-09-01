@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:02+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:66
 msgid "Constructing the hypothesis test"
-msgstr ""
+msgstr "Побудова перевірки гіпотези"
 
 #: ../../Ch11/Ch11_tTest_01.rst:68
 msgid ""
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:128
 msgid "*X̄* - µ\\ :sub:`0`"
-msgstr ""
+msgstr "*X̄* - µ\\ :sub:`0`"
 
 #: ../../Ch11/Ch11_tTest_01.rst:130
 msgid ""
@@ -395,7 +395,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "desired α level"
-msgstr ""
+msgstr "бажаний рівень α"
 
 #: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "two-sided test"
@@ -516,7 +516,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:268
 msgid "Assumptions of the *z*-test"
-msgstr ""
+msgstr "Припущення щодо *z*-test"
 
 #: ../../Ch11/Ch11_tTest_01.rst:270
 msgid ""
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:332
 msgid "Positive and negative *t*-values"
-msgstr ""
+msgstr "Позитивні та негативні *t*-values"
 
 #: ../../Ch11/Ch11_tTest_03.rst:334
 msgid ""
@@ -1663,7 +1663,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:120
 msgid "Assumptions of the test"
-msgstr ""
+msgstr "Припущення тесту"
 
 #: ../../Ch11/Ch11_tTest_04.rst:122
 msgid ""
@@ -2652,7 +2652,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:74
 msgid "One sample Wilcoxon test"
-msgstr ""
+msgstr "Один зразок тесту Вілкоксона"
 
 #: ../../Ch11/Ch11_tTest_09.rst:76
 msgid ""
