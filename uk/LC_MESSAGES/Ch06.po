@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 09:02+0000\n"
+"PO-Revision-Date: 2025-09-01 15:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch06/"
 "uk/>\n"
@@ -974,14 +974,27 @@ msgid ""
 "is populated with ``ABS(likert.centred)`` and a new variable has been "
 "created in the spreadsheet view, as in :numref:`fig-opinionstrength`:"
 msgstr ""
+"Однією з причин, чому може бути корисно мати дані в цьому форматі, є те, що "
+"існує багато ситуацій, коли ви можете вважати за краще аналізувати *силу* "
+"думки окремо від *напрямку* думки. Ми можемо виконати два різних "
+"перетворення цієї змінної ``likert.centred``, щоб розрізнити ці два різних "
+"поняття. По-перше, щоб обчислити змінну ``opinion.strength``, ми хочемо "
+"взяти абсолютне значення центрованих даних (використовуючи функцію ``ABS``)."
+"\\ [#]_ У jamovi створіть ще одну нову змінну за допомогою кнопки ``Compute``"
+". Назвіть змінну ``opinion.strength`` і цього разу натисніть кнопку *f*\\ "
+":sub:`x` поруч із полем ``Formula``. Це покаже різні ``Функції`` та "
+"``Змінні``, які ви можете додати до поля ``Формула``, тому двічі клацніть на "
+"``ABS``, а потім двічі клацніть на ``likert.centred``, і ви побачите, що "
+"поле ``Формула`` заповнюється ``ABS(likert.centred)``, а в таблиці буде "
+"створено нову змінну, як показано на :numref:`fig-opinionstrength`:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:78
 msgid "*f*\\ :sub:`x` button to select functions and variables"
-msgstr ""
+msgstr "*f*\\ :sub:`x` кнопка для вибору функцій та змінних"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:82
 msgid "Using the *f*\\ :sub:`x` button to select functions and variables"
-msgstr ""
+msgstr "Використання кнопки *f*\\ :sub:`x` для вибору функцій та змінних"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:86
 msgid ""
@@ -991,6 +1004,11 @@ msgid ""
 "another new variable using the ``Compute`` button, name this one ``opinion."
 "sign``, and then type the following into the function box:"
 msgstr ""
+"По-друге, щоб обчислити змінну, яка містить тільки напрямок думки та ігнорує "
+"її силу, ми хочемо обчислити «знак» змінної. У jamovi для цього можна "
+"використати функцію ``IF``. Створіть ще одну нову змінну за допомогою кнопки "
+"``Compute``, назвіть її ``opinion.sign``, а потім введіть у поле функції "
+"наступне:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:96
 msgid ""
@@ -998,6 +1016,9 @@ msgid ""
 "variable are converted to **-1**, all positive numbers are converted to "
 "**1** and zero stays as **0**, like so:"
 msgstr ""
+"Після завершення ви побачите, що всі від'ємні числа зі змінної "
+"``likert.centred`` перетворюються на **-1**, всі додатні числа "
+"перетворюються на **1**, а нуль залишається як **0**, ось так:"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:104
 msgid ""
@@ -1014,12 +1035,27 @@ msgid ""
 "divided ``likert.centred`` by opinion.strength to give ``-1`` or ``+1`` "
 "depending of the sign of the original value in ``likert.centred``.\\ [#]_"
 msgstr ""
+"Давайте розберемо, що це ``IF`` команда виконується. У jamovi є три частини "
+"``IF`` твердження, записане як ``IF(expression, value, else)``. Перший "
+"частина, ``expression`` може бути логічним або математичним твердженням. У "
+"нашому прикладі ми вказали ``likert.centred == 0``, який є ``TRUE`` для "
+"значень, де ``likert.centred`` дорівнює нулю. Наступна частина, ``value``, – "
+"це нове значення, де вираз у першій частині має вигляд ``TRUE``. У нашому "
+"прикладі ми сказали, що для всіх тих значень, де ``likert.centred`` дорівнює "
+"нулю, залиште їх нульовими. У наступній частині, ``else``, ми можемо ввести "
+"інше логічне або математичне твердження, яке буде використано, якщо перша "
+"частина обчислюється як ``FALSE``, тобто де ``likert.centred`` не дорівнює "
+"нулю. У нашому прикладі ми поділили ``likert.centred`` за думкою.сила давати "
+"``-1`` або ``+1`` залежно від знака початкового значення в "
+"``likert.centred``.\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:117
 msgid ""
 "And we’re done. We now have three shiny new variables, all of which are "
 "useful transformations of the original ``likert.raw`` variable."
 msgstr ""
+"І ми закінчили. Тепер у нас є три нові блискучі змінні, всі з яких є "
+"корисними перетвореннями оригінальної змінної ``likert.raw``."
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:121
 msgid ""
@@ -1232,19 +1268,19 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Function"
-msgstr ""
+msgstr "Функція"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "Example input"
-msgstr ""
+msgstr "Приклад введення"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:21
 msgid "result"
-msgstr ""
+msgstr "результат"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "Square root"
-msgstr ""
+msgstr "Квадратний корінь"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:23
 msgid "``SQRT(x)``"
@@ -1260,7 +1296,7 @@ msgstr "5"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "Absolute value"
-msgstr ""
+msgstr "Абсолютне значення"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:25
 msgid "``ABS(x)``"
@@ -1276,7 +1312,7 @@ msgstr "23"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "Logarithm (base 10)"
-msgstr ""
+msgstr "Логарифм (за основою 10)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:27
 msgid "``LOG10(x)``"
@@ -1292,7 +1328,7 @@ msgstr "3"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "Logarithm (base *e*)"
-msgstr ""
+msgstr "Логарифм (з основою *e*)"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:30
 msgid "``LN(x)``"
@@ -1308,7 +1344,7 @@ msgstr "6.908"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "Exponentiation"
-msgstr ""
+msgstr "Піднесення до степеня"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:33
 msgid "``EXP(x)``"
@@ -1324,7 +1360,7 @@ msgstr "1000.245"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "Box-Cox"
-msgstr ""
+msgstr "Бокс-Кокс"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:35
 msgid "``BOXCOX(x, lamda)``"
@@ -1340,7 +1376,7 @@ msgstr "109.551"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "Rounding to nearest"
-msgstr ""
+msgstr "Округлення до найближчого"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:37
 msgid "``ROUND()``"
@@ -1356,7 +1392,7 @@ msgstr "1"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "Rounding down"
-msgstr ""
+msgstr "Округлення вниз"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:40
 msgid "``FLOOR()``"
@@ -1368,7 +1404,7 @@ msgstr "``FLOOR(1.32)``"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "Rounding up"
-msgstr ""
+msgstr "Округлення в більшу сторону"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:42
 msgid "``CEILING()``"
