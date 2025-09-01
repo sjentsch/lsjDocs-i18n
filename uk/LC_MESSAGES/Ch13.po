@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:4
 msgid "How ANOVA works"
-msgstr ""
+msgstr "Як працює дисперсійний аналіз (ANOVA)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:6
 msgid ""
@@ -310,7 +310,7 @@ msgstr "номер групи."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "index in group"
-msgstr ""
+msgstr "індекс у групі"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:91
 msgid "grumpiness"
@@ -332,7 +332,7 @@ msgstr "*i*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:93
 msgid "|Y_ik| or |Y_p|"
-msgstr ""
+msgstr "|Y_ik| або |Y_p|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:95
 msgid "Ann"
@@ -705,7 +705,7 @@ msgstr "*df*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "sum of squares"
-msgstr ""
+msgstr "сума квадратів"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:286 ../../Ch13/Ch13_ANOVA_02.rst:594
 msgid "mean squares"
@@ -859,7 +859,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:382
 msgid "A worked example"
-msgstr ""
+msgstr "Працюючий приклад"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:384
 msgid ""
@@ -1172,7 +1172,7 @@ msgstr "розмір вибірки"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:520
 msgid "weighted squared deviat."
-msgstr ""
+msgstr "зважене квадратичне відхилення."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:522
 msgid "|N_k|"
@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:71
 msgid "Running “pairwise” *t*-tests"
-msgstr ""
+msgstr "Проведення «парних» *t*-тестів"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:73
 msgid ""
@@ -1795,7 +1795,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "raw *p* rank"
-msgstr ""
+msgstr "сирий *p* ранг"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:196
 msgid "*j*"
@@ -2436,7 +2436,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:380
 msgid "A technical term."
-msgstr ""
+msgstr "Технічний термін."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:4
 msgid "Repeated measures one-way ANOVA"
