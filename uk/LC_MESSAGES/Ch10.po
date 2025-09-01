@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:02+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch10/"
 "uk/>\n"
@@ -369,7 +369,7 @@ msgstr "H\\ :sub:`1`: *P* ≠ (0.25, 0.25, 0.25, 0.25)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:145
 msgid "The “goodness-of-fit” test statistic"
-msgstr ""
+msgstr "Статистика тесту «goodness-of-fit»"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:147
 msgid ""
@@ -670,7 +670,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:360
 msgid "Testing the null hypothesis"
-msgstr ""
+msgstr "Перевірка нульової гіпотези"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:362
 msgid ""
@@ -1547,7 +1547,7 @@ msgstr "ЛІЛА:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "Robot… we be."
-msgstr ""
+msgstr "Робот… будьмо."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "FRY:"
@@ -1694,7 +1694,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:74
 msgid "Constructing our hypothesis test"
-msgstr ""
+msgstr "Побудова перевірки нашої гіпотези"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:76
 msgid ""
@@ -2191,7 +2191,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:4
 msgid "Assumptions of the test(s)"
-msgstr ""
+msgstr "Припущення тесту(ів)"
 
 #: ../../Ch10/Ch10_ChiSquare_5.rst:6
 msgid ""
@@ -2257,7 +2257,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:4
 msgid "The Fisher exact test"
-msgstr ""
+msgstr "Точний тест Фішера"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:6
 msgid ""
@@ -2310,7 +2310,7 @@ msgstr "**Підпалити**"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "**Not set on fire**"
-msgstr ""
+msgstr "**Не підпалено**"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:51
 msgid ""
