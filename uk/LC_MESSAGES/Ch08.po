@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:01+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:321
 msgid "Population parameters and sample statistics"
-msgstr ""
+msgstr "Параметри популяції та статистика вибірки"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:323
 msgid ""
@@ -570,7 +570,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_2.rst:4
 msgid "The law of large numbers"
-msgstr ""
+msgstr "Закон великих чисел"
 
 #: ../../Ch08/Ch08_Estimation_2.rst:6
 msgid ""
@@ -700,7 +700,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:31
 msgid "Sampling distribution of the mean"
-msgstr ""
+msgstr "Розподіл вибірки середнього значення"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:33
 msgid ""
@@ -1059,7 +1059,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:166
 msgid "The central limit theorem"
-msgstr ""
+msgstr "Центральна гранична теорема"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:168
 msgid ""
@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:37
 msgid "Estimating the population mean"
-msgstr ""
+msgstr "Оцінка середнього значення популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:39
 msgid ""
@@ -1713,7 +1713,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:4
 msgid "Estimating a confidence interval"
-msgstr ""
+msgstr "Оцінка довірчого інтервалу"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:0
 msgid "*Statistics means never having to say you’re certain*"
@@ -1857,7 +1857,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:103
 msgid "Interpreting a confidence interval"
-msgstr ""
+msgstr "Інтерпретація довірчого інтервалу"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:105
 msgid ""
