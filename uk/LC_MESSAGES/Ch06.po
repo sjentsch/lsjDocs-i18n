@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 18:01+0000\n"
+"PO-Revision-Date: 2025-09-01 08:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch06/"
 "uk/>\n"
@@ -102,10 +102,19 @@ msgid ""
 "probably find is that later on you’ll need to flick back to this chapter in "
 "order to understand some of the concepts that I refer to here."
 msgstr ""
+"Як бачите, перелік тем, які охоплює ця глава, є досить широким, і там є "
+"*багато* змісту. Хоча це одна з найдовших і найскладніших глав у книзі, я "
+"лише поверхнево торкаюся кількох досить різних і важливих тем. Моя порада, "
+"як завжди, — прочитати главу один раз і спробувати зрозуміти якомога більше. "
+"Не переймайтеся, якщо не зможете одразу все зрозуміти, особливо в останніх "
+"розділах. Решта книги лише частково спирається на цей розділ, тож ви можете "
+"обійтися лише розумінням основ. Однак, ймовірно, ви зрозумієте, що пізніше "
+"вам доведеться повернутися до цього розділу, щоб зрозуміти деякі поняття, на "
+"які я тут посилаюся."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:4
 msgid "Tabulating and cross-tabulating data"
-msgstr ""
+msgstr "Табулювання та перехресне табулювання даних"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:6
 msgid ""
@@ -113,10 +122,13 @@ msgid ""
 "tables, or cross-tabulation of one variable against another. These tasks can "
 "be achieved in jamovi and I’ll show you how in this section."
 msgstr ""
+"Дуже поширеним завданням при аналізі даних є побудова таблиць частот або "
+"перехресна табуляція однієї змінної відносно іншої. Ці завдання можна "
+"виконати в jamovi, і в цьому розділі я покажу вам, як це зробити."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:11
 msgid "Creating tables for single variables"
-msgstr ""
+msgstr "Створення таблиць для окремих змінних"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:13
 msgid ""
@@ -127,14 +139,20 @@ msgid ""
 "Open up this data set in jamovi and take a look at the data in the ``Data`` "
 "view. You will see that the data looks something like this:"
 msgstr ""
+"Почнемо з простого прикладу. Як батько маленької дитини, я, природно, "
+"проводжу багато часу, дивлячись телевізійні програми, такі як *In the Night "
+"Garden*. У наборі даних |nightgarden|_ я переписав невеликий фрагмент "
+"діалогу. Файл містить дві цікаві змінні: ``speaker`` і ``utterance``. "
+"Відкрийте цей набір даних у jamovi і подивіться на дані у вікні ``Data``. Ви "
+"побачите, що дані виглядають приблизно так:"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:20
 msgid "``speaker`` variable"
-msgstr ""
+msgstr "Змінна ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:26
 msgid "``utterance`` variable"
-msgstr ""
+msgstr "Змінна ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:33
 msgid ""
@@ -144,10 +162,15 @@ msgid ""
 "show. The jamovi ``Descriptives`` screen has a check box called ``Frequency "
 "tables`` which does just this, see :numref:`fig-freqtable`."
 msgstr ""
+"Дивлячись на це, стає дуже зрозуміло, що сталося з моїм розумом! Маючи ці "
+"дані, одне із завдань, яке мені, можливо, доведеться виконати, — це скласти "
+"таблицю частотності слів, які кожен персонаж вимовляє протягом серіалу. На "
+"екрані jamovi ``Descriptives`` є прапорець ``Frequency tables``, який саме "
+"це і робить, див. :numref:`fig-freqtable`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:41 ../../Ch06/Ch06_DataHandling_1.rst:45
 msgid "Frequency table for the ``speaker`` variable"
-msgstr ""
+msgstr "Таблиця частот для змінної ``speaker``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:49
 msgid ""
@@ -157,6 +180,10 @@ msgid ""
 "column it tells you how many times that speaker appears in the data. In "
 "other words, it’s a frequency table."
 msgstr ""
+"У першому рядку результату ми бачимо, що перед нами таблиця змінної "
+"``speaker``. У стовпці ``Levels`` перелічені всі різні мовці, які є в даних, "
+"а в стовпці ``Counts`` вказано, скільки разів цей мовець з'являється в "
+"даних. Іншими словами, це таблиця частотності."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:55
 msgid ""
@@ -170,14 +197,23 @@ msgid ""
 "into the ``Columns`` box. You then should have a contingency table like the "
 "one shown in :numref:`fig-contingencytable`."
 msgstr ""
+"У jamovi прапорець ``Таблиці частот`` створює таблицю тільки для одиночних "
+"змінних. Для таблиці з двома змінними, наприклад, поєднання ``оратор`` і "
+"``висловлювання``, щоб ми могли побачити, скільки разів кожен оратор вимовив "
+"певне висловлювання, нам потрібна перехресна таблиця або таблиця "
+"співвідношень. У jamovi це можна зробити, вибравши аналіз ``Частоти`` → ``"
+"Таблиці співвідношень`` → ``Незалежні вибірки`` і перемістивши змінну "
+"``оратор`` у поле ``Рядки``, а змінну ``висловлювання`` — у поле ``Стовпці``"
+". Після цього ви отримаєте таблицю співвідношень, як показано на :numref"
+":`fig-contingencytable`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:67
 msgid "Contingency table for ``speaker`` and ``utterance``"
-msgstr ""
+msgstr "Таблиця непередбачених обставин для ``speaker`` і ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:71
 msgid "Contingency table for the ``speaker`` and ``utterance`` variables"
-msgstr ""
+msgstr "Таблиця спряженості для змінних ``speaker`` та ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:75
 msgid ""
@@ -188,10 +224,15 @@ msgid ""
 "of 2 indicates that ``makka-pakka`` (row 1) says ``onk`` (column 2) twice in "
 "this data set."
 msgstr ""
+"Не турбуйтеся про таблицю ``χ² Tests``, яка буде сформована. Ми розглянемо "
+"це пізніше в розділі :doc:`../Ch10/Ch10_ChiSquare`. Інтерпретуючи таблицю "
+"співвідношень, пам'ятайте, що це підрахунки, тому той факт, що перший рядок "
+"і другий стовпець чисел відповідають значенню 2, означає, що ``makka-pakka`` "
+"(рядок 1) двічі повторюється в ``onk`` (стовпець 2) у цьому наборі даних."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:82
 msgid "Adding percentages to a contingency table"
-msgstr ""
+msgstr "Додавання відсотків до таблиці спряженості"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:84
 msgid ""
@@ -204,17 +245,27 @@ msgid ""
 "``Row`` check box and the Contingency Table in the output window will change "
 "to the one in :numref:`fig-contingencyrow`."
 msgstr ""
+"Таблиця співвідношень, показана в :numref:`fig-contingencytable`, відображає "
+"таблицю необроблених частот. Тобто, підрахунок загальної кількості випадків "
+"для різних комбінацій рівнів зазначених змінних. Однак часто ви хочете, щоб "
+"ваші дані були організовані як у відсотках, так і в кількості. Ви можете "
+"знайти прапорці для різних відсотків в опції ``Cells`` у вікні ``Contingency "
+"Tables``. Спочатку натисніть на прапорець ``Row``, і таблиця співвідношень у "
+"вікні виводу зміниться на таку, як у :numref:`fig-contingencyrow`."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:95
 msgid ""
 "Contingency table with row percentages for ``speaker`` and ``utterance``"
 msgstr ""
+"Таблиця непередбачених обставин з відсотками в рядках для ``speaker`` і "
+"``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:99
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with row "
 "percentages"
 msgstr ""
+"Таблиця зв'язків для змінних ``speaker`` та ``utterance`` з відсотками рядків"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:104
 msgid ""
@@ -228,21 +279,31 @@ msgid ""
 "utterance ``ee`` is made (in this data set), 100\\% of the time it’s a "
 "Tombliboo saying it."
 msgstr ""
+"Тут ми бачимо відсоток висловлювань кожного персонажа. Іншими словами, 50 % "
+"висловлювань ``makka-pakka`` — це ``pip``, а інші 50 % — ``onk``. Порівняймо "
+"це з таблицею, яку ми отримуємо, коли обчислюємо відсотки стовпців (зніміть "
+"галочку ``Row`` і поставте галочку ``Column`` у вікні опцій ``Cells``), див. "
+":numref:`fig-contingencycol`. У цій версії ми бачимо відсоток персонажів, "
+"пов'язаних з кожним висловлюванням. Наприклад, коли висловлювання ``ee`` (у "
+"цьому наборі даних) робиться, 100 % випадків це говорить Tombliboo."
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:115
 msgid ""
 "Contingency table with column percentages for ``speaker`` and ``utterance``"
 msgstr ""
+"Таблиця спряженості з відсотками у стовпцях для ``speaker`` та ``utterance``"
 
 #: ../../Ch06/Ch06_DataHandling_1.rst:119
 msgid ""
 "Contingency table for the ``speaker`` and ``utterance`` variables, with "
 "column percentages"
 msgstr ""
+"Таблиця зв'язків для змінних ``speaker`` та ``utterance`` з відсотками у "
+"стовпцях"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:4
 msgid "Logical expressions in jamovi"
-msgstr ""
+msgstr "Логічні вирази в jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:6
 msgid ""
@@ -253,10 +314,16 @@ msgid ""
 "``FALSE``. Despite the simplicity, logical values are very useful things. "
 "Let’s see how they work."
 msgstr ""
+"Ключовим поняттям, на якому базується багато перетворень даних у jamovi, є "
+"ідея **логічного значення**. Логічне значення — це твердження про те, чи є "
+"щось істинним чи хибним. У jamovi це реалізовано досить простим способом. "
+"Існує два логічних значення, а саме ``TRUE`` та ``FALSE``. Незважаючи на "
+"простоту, логічні значення є дуже корисними. Давайте подивимося, як вони "
+"працюють."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:14
 msgid "Assessing mathematical truths"
-msgstr ""
+msgstr "Оцінювання математичних істин"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:16
 msgid ""
@@ -272,6 +339,17 @@ msgid ""
 "regards basic mathematics. If I ask it to calculate ``2 + 2``,\\ [#]_ it "
 "always gives the same answer, and it’s not bloody 5!"
 msgstr ""
+"У класичній книзі Джорджа Орвелла *1984* одним із гасел, які використовувала "
+"тоталітарна партія, було «два плюс два дорівнює п'ять». Ідея полягала в "
+"тому, що політичне панування над свободою людини стає повним, коли можна "
+"підірвати навіть найосновніші істини. Це жахлива думка, особливо коли "
+"головний герой Вінстон Сміт нарешті ламається під тортурами і погоджується з "
+"цією тезою. «Людина нескінченно пластична», — йдеться в книзі. Я впевнений, "
+"що це неправда щодо людей\\ [#]_ і це точно неправда щодо jamovi. jamovi не "
+"є нескінченно пластичним, він має досить тверді думки щодо того, що є "
+"правдою, а що ні, принаймні стосовно базової математики. Якщо я попрошу його "
+"обчислити ``2 + 2``,\\ [#]_ він завжди дасть однакову відповідь, і це не "
+"буде кляте 5!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:29
 msgid ""
@@ -280,6 +358,9 @@ msgid ""
 "jamovi to make an explicit judgement, I can use a command like this: ``2 + 2 "
 "== 4``"
 msgstr ""
+"Звичайно, поки що jamovi лише виконує обчислення. Я не просив його чітко "
+"стверджувати, що ``2 + 2 = 4`` є істинним твердженням. Якщо я хочу, щоб "
+"jamovi виніс чітке судження, я можу використати таку команду: ``2 + 2 == 4``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:34
 msgid ""
@@ -288,6 +369,10 @@ msgid ""
 "what jamovi thinks of the Party slogan, so type this into the compute new "
 "variable ``Formula`` box:"
 msgstr ""
+"Тут я використав **оператор рівності** ``==``, щоб змусити jamovi зробити "
+"висновок «``TRUE`` або ``FALSE``». [#]_ Гаразд, давайте подивимося, що "
+"jamovi думає про слоган партії, тому введіть це в поле обчислення нової "
+"змінної ``Formula``:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:43
 msgid ""
@@ -303,10 +388,21 @@ msgid ""
 "regardless of whether you use the correct **equality operator**, ``==``, or "
 "the equals sign ``=``."
 msgstr ""
+"І що ви отримаєте? Це має бути цілий набір значень ``FALSE`` у стовпці "
+"електронної таблиці для вашої новообчисленої змінної. Ура! Свобода і поні "
+"для всіх! Або щось на зразок того. У будь-якому разі, варто було подивитися, "
+"що станеться, якщо я спробую *примусити* jamovi повірити, що два плюс два "
+"дорівнює п'ять, зробивши заяву на кшталт ``2 + 2 = 5``. Я знаю, що якщо я "
+"зроблю це в іншій програмі, скажімо, ``R``, то вона видасть повідомлення про "
+"помилку. Але зачекайте, якщо ви зробите це в jamovi, ви отримаєте цілий "
+"набір значень ``FALSE``. То що ж відбувається? Схоже, jamovi досить розумний "
+"і розуміє, що ви перевіряєте, чи ``TRUE`` або ``FALSE`` ``2 + 2 = 5``, "
+"незалежно від того, чи використовуєте ви правильний **оператор рівності** "
+"``==`` або знак рівності ``=``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:56
 msgid "Logical operations"
-msgstr ""
+msgstr "Логічні операції"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:58
 msgid ""
@@ -315,10 +411,14 @@ msgid ""
 "we can combine logical operations with other operations and functions in a "
 "more complicated way, like this:"
 msgstr ""
+"Отже, ми побачили, як працюють логічні операції. Але поки що ми розглянули "
+"лише найпростіший приклад. Вас, мабуть, не здивує, що логічні операції можна "
+"поєднувати з іншими операціями та функціями у більш складному вигляді, "
+"наприклад так:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:67
 msgid "or this"
-msgstr ""
+msgstr "або це"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:73
 msgid ""
@@ -330,6 +430,13 @@ msgid ""
 "an answer of ``TRUE``, but if the two numbers are equal, or if the one on "
 "the right is larger, then jamovi returns an answer of ``FALSE``."
 msgstr ""
+"Не тільки це, але, як показує :numref:`tab-logicals`, існує кілька інших "
+"логічних операторів, які ви можете використовувати відповідно до деяких "
+"основних математичних понять. Сподіваємося, що всі вони досить зрозумілі. "
+"Наприклад, оператор **менше за** ``<`` перевіряє, чи число ліворуч менше за "
+"число праворуч. Якщо воно менше, то jamovi повертає відповідь ``TRUE``, але "
+"якщо два числа рівні або число праворуч більше, то jamovi повертає відповідь "
+"``FALSE``."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:81
 msgid ""
@@ -337,106 +444,109 @@ msgid ""
 "relational operators”, but quite frankly I don’t want to. It’s my book so no-"
 "one can make me."
 msgstr ""
+"Деякі логічні оператори. Технічно я мав би називати їх «бінарними "
+"реляційними операторами», але, чесно кажучи, я не хочу цього робити. Це моя "
+"книга, тому ніхто не може мене змусити."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "operation"
-msgstr ""
+msgstr "операція"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "operator"
-msgstr ""
+msgstr "оператор"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "example input"
-msgstr ""
+msgstr "приклад введення"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:87 ../../Ch06/Ch06_DataHandling_2.rst:137
 msgid "answer"
-msgstr ""
+msgstr "відповідь"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "less than"
-msgstr ""
+msgstr "менше ніж"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "``<``"
-msgstr ""
+msgstr "``<``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89
 msgid "``2 < 3``"
-msgstr ""
+msgstr "``2 < 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:89 ../../Ch06/Ch06_DataHandling_2.rst:91
 #: ../../Ch06/Ch06_DataHandling_2.rst:95 ../../Ch06/Ch06_DataHandling_2.rst:99
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``TRUE``"
-msgstr ""
+msgstr "``TRUE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "less than or equal to"
-msgstr ""
+msgstr "менше або дорівнює"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "``<=``"
-msgstr ""
+msgstr "``<=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:91
 msgid "``2 <= 2``"
-msgstr ""
+msgstr "``2 <= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "greater than"
-msgstr ""
+msgstr "більше ніж"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "``>``"
-msgstr ""
+msgstr "``>``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93
 msgid "``2 > 3``"
-msgstr ""
+msgstr "``2 > 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:93 ../../Ch06/Ch06_DataHandling_2.rst:97
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``FALSE``"
-msgstr ""
+msgstr "``FALSE``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "greater than or equal to"
-msgstr ""
+msgstr "більше або дорівнює"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "``>=``"
-msgstr ""
+msgstr "``>=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:95
 msgid "``2 >= 2``"
-msgstr ""
+msgstr "``2 >= 2``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "equal to"
-msgstr ""
+msgstr "дорівнює"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "``==``"
-msgstr ""
+msgstr "``==``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:97
 msgid "``2 == 3``"
-msgstr ""
+msgstr "``2 == 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "not equal to"
-msgstr ""
+msgstr "не дорівнює"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "``!=``"
-msgstr ""
+msgstr "``!=``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:99
 msgid "``2 != 3``"
-msgstr ""
+msgstr "``2 != 3``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:103
 msgid ""
@@ -446,6 +556,11 @@ msgid ""
 "point I hope it’s pretty obvious what the **greater than** operator ``>`` "
 "and the **greater than or equal to** operator ``>=`` do!"
 msgstr ""
+"На відміну від цього, оператор **менше або дорівнює** ``<=`` робить саме те, "
+"що й означає його назва. Він повертає значення ``TRUE``, якщо число зліва "
+"менше або дорівнює числу справа. На цьому етапі, сподіваюся, вже цілком "
+"зрозуміло, що роблять оператор **більше, ніж** ``>`` та оператор **більше "
+"або дорівнює** ``>=``!"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:109
 msgid ""
@@ -455,6 +570,11 @@ msgid ""
 "other. Therefore, since ``2 + 2`` isn’t equal to *5* we would get ``TRUE`` "
 "as the value for our newly computed variable. Try it and see:"
 msgstr ""
+"Наступним у списку логічних операторів є оператор **не дорівнює** ``!=``, "
+"який, як і всі інші, виконує те, що вказано в його назві. Він повертає "
+"значення ``TRUE``, коли елементи по обидва боки не є ідентичними один "
+"одному. Отже, оскільки ``2 + 2`` не дорівнює *5*, ми отримаємо ``TRUE`` як "
+"значення для нашої новообчисленої змінної. Спробуйте і переконайтеся:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:119
 msgid ""
@@ -467,14 +587,22 @@ msgid ""
 "say that it’s true. Since it’s an “either-or” statement, all we need is for "
 "one of the two parts to be true. That’s what the ``or`` operator does:\\ [#]_"
 msgstr ""
+"Ми ще не закінчили. Є ще три логічні оператори, про які варто знати, вони "
+"перелічені в :numref:`tab-logicals2`. Це оператор **не** ``!``, оператор "
+"**і** ``and`` та оператор **або** ``or``. Як і інші логічні оператори, їхня "
+"поведінка більш-менш відповідає тому, чого можна очікувати, зважаючи на їхні "
+"назви. Наприклад, якщо я попрошу вас оцінити твердження «або ``2 + 2 = 4`` "
+"*або* ``2 + 2 = 5``», ви скажете, що воно є істинним. Оскільки це твердження "
+"типу «або-або», нам потрібно, щоб істинною була лише одна з двох частин. "
+"Саме це і робить оператор ``or``:\\ [#]_"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:133
 msgid "Some more logical operators."
-msgstr ""
+msgstr "Ще кілька логічних операторів."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "not"
-msgstr ""
+msgstr "не"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:139
 msgid "``NOT``"
@@ -486,7 +614,7 @@ msgstr "``NOT(1==1)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "or"
-msgstr ""
+msgstr "або"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:141
 msgid "``or``"
@@ -498,7 +626,7 @@ msgstr "``(1==1) or (2==3)``"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "and"
-msgstr ""
+msgstr "і"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:143
 msgid "``and``"
@@ -514,6 +642,9 @@ msgid ""
 "*and* 2 + 2 = 5” you’d say that it’s false. Since this is an *and* statement "
 "we need both parts to be true. And that’s what the ``and`` operator does:"
 msgstr ""
+"З іншого боку, якщо я попрошу вас оцінити твердження «2 + 2 = 4 *і* 2 + 2 = "
+"5», ви скажете, що воно неправдиве. Оскільки це твердження з оператором *і*, "
+"обидві частини повинні бути правдивими. І саме це робить оператор ``і``:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:154
 msgid ""
@@ -523,6 +654,11 @@ msgid ""
 "actually my claim is that “``2 + 2 = 5`` is false”. And I’m right. If we "
 "write this in jamovi we use this:"
 msgstr ""
+"Нарешті, є оператор *not*, який є простим, але його важко описати "
+"англійською мовою. Якщо я попрошу вас оцінити моє твердження, що «неправда, "
+"що ``2 + 2 = 5``», ви скажете, що моє твердження є правдивим, тому що "
+"насправді я стверджую, що «``2 + 2 = 5`` є неправдою». І я маю рацію. Якщо "
+"ми запишемо це в jamovi, ми використаємо таке:"
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:164
 msgid ""
@@ -533,6 +669,11 @@ msgid ""
 "much more black or white world. For jamovi everything is either ``TRUE`` or "
 "``FALSE``. No shades of grey are allowed."
 msgstr ""
+"Іншими словами, оскільки ``2 + 2 == 5`` є ``FALSE`` твердження, має бути "
+"так, що ``NOT(2 + 2 == 5)`` є ``TRUE`` 1. По суті, ми стверджуємо, що «не "
+"хибно» те саме, що й «істина». Звісно, у реальному житті це не зовсім так. "
+"Але jamovi живе у набагато більш чорно-білому світі. Для jamovi все або "
+"``TRUE`` або ``FALSE``. Відтінки сірого не допускаються."
 
 #: ../../Ch06/Ch06_DataHandling_2.rst:171
 msgid ""
