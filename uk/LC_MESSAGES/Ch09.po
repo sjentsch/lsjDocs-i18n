@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:01+0000\n"
+"PO-Revision-Date: 2025-09-01 15:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:160
 msgid "“ESP exists”"
-msgstr ""
+msgstr "“ESP існує”"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:162
 msgid "Dani’s **statistical** hypothesis:"
@@ -443,7 +443,7 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 msgid "correct decision"
-msgstr ""
+msgstr "правильне рішення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 msgid "error (type I)"
@@ -506,7 +506,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "α"
-msgstr ""
+msgstr "α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "(type I error rate)"
@@ -662,7 +662,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:4
 msgid "Making decisions"
-msgstr ""
+msgstr "Прийняття рішень"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:6
 msgid ""
@@ -986,11 +986,11 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:45
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:45
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:48
 msgid ""
@@ -1118,7 +1118,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:26
 msgid "The issue"
-msgstr ""
+msgstr "Проблема"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:28
 msgid ""
@@ -1209,15 +1209,15 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
 msgid "Usual notation"
-msgstr ""
+msgstr "Звичайні позначення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
 msgid "Signif. stars"
-msgstr ""
+msgstr "Значні зірки"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
 msgid "English translation"
-msgstr ""
+msgstr "Англійський переклад"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
 msgid "The null is…"
@@ -1233,7 +1233,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:110
 msgid "Retained"
-msgstr ""
+msgstr "Збережено"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:112
 msgid "*p* < 0.05"
@@ -1251,7 +1251,7 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:116
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:120
 msgid "Rejected"
-msgstr ""
+msgstr "Відхилено"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:116
 msgid "*p* < 0.01"
@@ -1463,7 +1463,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:102
 msgid "Effect size"
-msgstr ""
+msgstr "Розмір ефекту"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:0
 msgid ""
@@ -1525,7 +1525,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "significant result"
-msgstr ""
+msgstr "значний результат"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, and of practical importance"
@@ -1537,7 +1537,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "non-significant result"
-msgstr ""
+msgstr "незначний результат"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "no effect observed"
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:100
 msgid "Traps"
-msgstr ""
+msgstr "Пастки"
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:102
 msgid ""
@@ -1910,7 +1910,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
 msgid ":doc:`Ch09_HypothesisTesting_03`"
-msgstr ""
+msgstr ":doc:`Ch09_HypothesisTesting_03`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:21
 msgid ""
@@ -1930,11 +1930,11 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:29
 msgid ":doc:`Ch09_HypothesisTesting_07`"
-msgstr ""
+msgstr ":doc:`Ch09_HypothesisTesting_07`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:31
 msgid ":doc:`Ch09_HypothesisTesting_08`"
-msgstr ""
+msgstr ":doc:`Ch09_HypothesisTesting_08`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:33
 msgid ""
