@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:02+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -144,7 +144,7 @@ msgstr "1.45"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "**Dani’s son’s hours slept**"
-msgstr ""
+msgstr "**Години, які спав син Дані**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:24
 msgid "3.25"
@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:184
 msgid "Calculating correlations in jamovi"
-msgstr ""
+msgstr "Обчислення кореляцій в jamovi"
 
 #: ../../Ch12/Ch12_Regression_01.rst:186
 msgid ""
@@ -1072,7 +1072,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:63
 msgid "Linear regression in jamovi"
-msgstr ""
+msgstr "Лінійна регресія в jamovi"
 
 #: ../../Ch12/Ch12_Regression_04.rst:67 ../../Ch12/Ch12_Regression_04.rst:71
 msgid "jamovi screenshot showing a simple linear regression analysis"
@@ -1095,7 +1095,7 @@ msgstr "*Ŷ*\\ :sub:`i` = 125.96 + (-8.94 \\ *X*\\ :sub:`i`)"
 
 #: ../../Ch12/Ch12_Regression_04.rst:86
 msgid "Interpreting the estimated model"
-msgstr ""
+msgstr "Інтерпретація оціночної моделі"
 
 #: ../../Ch12/Ch12_Regression_04.rst:88
 msgid ""
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:42
 msgid "Doing it in jamovi"
-msgstr ""
+msgstr "Роблю це в jamovi"
 
 #: ../../Ch12/Ch12_Regression_05.rst:44
 msgid ""
@@ -1302,7 +1302,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:16
 msgid "The *R*\\² (R-squared) value"
-msgstr ""
+msgstr "Значення *R*\\² (R-квадрат)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:18
 msgid ""
@@ -1647,7 +1647,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:74
 msgid "Tests for individual coefficients"
-msgstr ""
+msgstr "Тести для окремих коефіцієнтів"
 
 #: ../../Ch12/Ch12_Regression_07.rst:76
 msgid ""
@@ -1875,7 +1875,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:43
 msgid "Calculating standardised regression coefficients"
-msgstr ""
+msgstr "Обчислення стандартизованих коефіцієнтів регресії"
 
 #: ../../Ch12/Ch12_Regression_09.rst:45
 msgid ""
@@ -2088,7 +2088,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:38
 msgid "Three kinds of residuals"
-msgstr ""
+msgstr "Три види залишків"
 
 #: ../../Ch12/Ch12_Regression_11.rst:40
 msgid ""
@@ -2199,7 +2199,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:111
 msgid "Isn’t that a pip?"
-msgstr ""
+msgstr "Хіба це не дрібниця?"
 
 #: ../../Ch12/Ch12_Regression_11.rst:113
 msgid ""
@@ -2247,7 +2247,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:153
 msgid "Outliers and their effect"
-msgstr ""
+msgstr "Викиди та їхній вплив"
 
 #: ../../Ch12/Ch12_Regression_11.rst:157
 msgid ""
@@ -2752,7 +2752,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:149
 msgid "Comparing two regression models"
-msgstr ""
+msgstr "Порівняння двох регресійних моделей"
 
 #: ../../Ch12/Ch12_Regression_12.rst:151
 msgid ""
@@ -2913,7 +2913,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:9
 msgid "Drawing :doc:`scatterplots <Ch12_Regression_02>`"
-msgstr ""
+msgstr "Малювання :doc:`scatterplots <Ch12_Regression_02>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:11
 msgid ""
