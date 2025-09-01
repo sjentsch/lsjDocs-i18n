@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:01+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -358,7 +358,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:170
 msgid "or, equivalently:"
-msgstr ""
+msgstr "або, що еквівалентно:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:172
 msgid ""
@@ -399,11 +399,11 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "two-sided test"
-msgstr ""
+msgstr "двосторонній тест"
 
 #: ../../Ch11/Ch11_tTest_01.rst:192
 msgid "one-sided test"
-msgstr ""
+msgstr "односторонній тест"
 
 #: ../../Ch11/Ch11_tTest_01.rst:194
 msgid "0.1"
@@ -880,19 +880,19 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "mean"
-msgstr ""
+msgstr "середній"
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "std. dev."
-msgstr ""
+msgstr "'std. dev."
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "**Anastasia’s students**"
-msgstr ""
+msgstr "**Учні Анастасії**"
 
 #: ../../Ch11/Ch11_tTest_03.rst:42
 msgid "74.53"
@@ -908,7 +908,7 @@ msgstr "15"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "**Bernadette’s students**"
-msgstr ""
+msgstr "**Учні Бернадетти**"
 
 #: ../../Ch11/Ch11_tTest_03.rst:44
 msgid "69.06"
@@ -1864,7 +1864,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:151
 msgid "which is"
-msgstr ""
+msgstr "який є"
 
 #: ../../Ch11/Ch11_tTest_05.rst:153
 msgid ""
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:4
 msgid "One-sided tests"
-msgstr ""
+msgstr "Односторонні тести"
 
 #: ../../Ch11/Ch11_tTest_06.rst:6
 msgid ""
@@ -2069,7 +2069,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Розмір ефекту"
 
 #: ../../Ch11/Ch11_tTest_07.rst:6
 msgid ""
@@ -2123,35 +2123,35 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:45
 msgid "*d*-value"
-msgstr ""
+msgstr "*d*-значення"
 
 #: ../../Ch11/Ch11_tTest_07.rst:45
 msgid "rough interpretation"
-msgstr ""
+msgstr "приблизне тлумачення"
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
 msgid "about 0.2"
-msgstr ""
+msgstr "про 0.2"
 
 #: ../../Ch11/Ch11_tTest_07.rst:47
 msgid "“small” effect"
-msgstr ""
+msgstr "«малий» ефект"
 
 #: ../../Ch11/Ch11_tTest_07.rst:49
 msgid "about 0.5"
-msgstr ""
+msgstr "про 0.5"
 
 #: ../../Ch11/Ch11_tTest_07.rst:49
 msgid "“moderate” effect"
-msgstr ""
+msgstr "«помірний» ефект"
 
 #: ../../Ch11/Ch11_tTest_07.rst:51
 msgid "about 0.8"
-msgstr ""
+msgstr "про 0.8"
 
 #: ../../Ch11/Ch11_tTest_07.rst:51
 msgid "“large” effect"
-msgstr ""
+msgstr "«великий» ефект"
 
 #: ../../Ch11/Ch11_tTest_07.rst:55
 msgid "Cohen’s *d* from one sample"
@@ -2338,7 +2338,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:27
 msgid "QQ plots"
-msgstr ""
+msgstr "QQ ділянки"
 
 #: ../../Ch11/Ch11_tTest_08.rst:31
 msgid "Histogram and QQ plot for normally-distributed data"
@@ -2396,7 +2396,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:82
 msgid "Shapiro-Wilk tests"
-msgstr ""
+msgstr "Тести Шапіро-Вілка"
 
 #: ../../Ch11/Ch11_tTest_08.rst:84
 msgid ""
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:141
 msgid "Example"
-msgstr ""
+msgstr "Приклад"
 
 #: ../../Ch11/Ch11_tTest_08.rst:143
 msgid ""
@@ -2579,7 +2579,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:44
 msgid "**Group B**"
-msgstr ""
+msgstr "**Група B**"
 
 #: ../../Ch11/Ch11_tTest_09.rst:46
 msgid "14.5"
@@ -2603,7 +2603,7 @@ msgstr "13.0"
 
 #: ../../Ch11/Ch11_tTest_09.rst:52
 msgid "**Group A**"
-msgstr ""
+msgstr "**Група A**"
 
 #: ../../Ch11/Ch11_tTest_09.rst:48
 msgid "6.4"
@@ -2677,7 +2677,7 @@ msgstr "ordinal"
 
 #: ../../Ch11/Ch11_tTest_09.rst:90
 msgid "all differences"
-msgstr ""
+msgstr "всі відмінності"
 
 #: ../../Ch11/Ch11_tTest_09.rst:92
 msgid "-24"
@@ -2721,7 +2721,7 @@ msgstr "5"
 
 #: ../../Ch11/Ch11_tTest_09.rst:95
 msgid "positive differences"
-msgstr ""
+msgstr "позитивні відмінності"
 
 #: ../../Ch11/Ch11_tTest_09.rst:94
 msgid "7 2 5"
