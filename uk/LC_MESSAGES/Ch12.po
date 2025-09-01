@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:02+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -64,31 +64,31 @@ msgstr "Змінна"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "min"
-msgstr ""
+msgstr "мін"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "max"
-msgstr ""
+msgstr "макс"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "mean"
-msgstr ""
+msgstr "середній"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "median"
-msgstr ""
+msgstr "медіана"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "std. dev"
-msgstr ""
+msgstr "std. dev'"
 
 #: ../../Ch12/Ch12_Regression_01.rst:18
 msgid "IQR"
-msgstr ""
+msgstr "IQR"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "**Dani’s grumpiness**"
-msgstr ""
+msgstr "**Сварливість Дані.**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:20
 msgid "41"
@@ -421,15 +421,15 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:229
 msgid "Correlation"
-msgstr ""
+msgstr "Кореляція"
 
 #: ../../Ch12/Ch12_Regression_01.rst:229
 msgid "Strength"
-msgstr ""
+msgstr "Сила"
 
 #: ../../Ch12/Ch12_Regression_01.rst:229
 msgid "Direction"
-msgstr ""
+msgstr "Напрямок"
 
 #: ../../Ch12/Ch12_Regression_01.rst:231
 msgid "-1.0 to -0.9"
@@ -437,13 +437,13 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:231 ../../Ch12/Ch12_Regression_01.rst:249
 msgid "Very strong"
-msgstr ""
+msgstr "Дуже сильний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:231 ../../Ch12/Ch12_Regression_01.rst:233
 #: ../../Ch12/Ch12_Regression_01.rst:235 ../../Ch12/Ch12_Regression_01.rst:237
 #: ../../Ch12/Ch12_Regression_01.rst:239
 msgid "Negative"
-msgstr ""
+msgstr "Негативний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:233
 msgid "-0.9 to -0.7"
@@ -451,7 +451,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:233 ../../Ch12/Ch12_Regression_01.rst:247
 msgid "Strong"
-msgstr ""
+msgstr "Сильний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:235
 msgid "-0.7 to -0.4"
@@ -459,7 +459,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:235 ../../Ch12/Ch12_Regression_01.rst:245
 msgid "Moderate"
-msgstr ""
+msgstr "Помірний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:237
 msgid "-0.4 to -0.2"
@@ -467,7 +467,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:237 ../../Ch12/Ch12_Regression_01.rst:243
 msgid "Weak"
-msgstr ""
+msgstr "Слабкий"
 
 #: ../../Ch12/Ch12_Regression_01.rst:239
 msgid "-0.2 to  0.0"
@@ -475,7 +475,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:239 ../../Ch12/Ch12_Regression_01.rst:241
 msgid "Negligible"
-msgstr ""
+msgstr "Незначний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:241
 msgid "0.0 to  0.2"
@@ -485,7 +485,7 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_01.rst:245 ../../Ch12/Ch12_Regression_01.rst:247
 #: ../../Ch12/Ch12_Regression_01.rst:249
 msgid "Positive"
-msgstr ""
+msgstr "Позитивний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:243
 msgid "0.2 to  0.4"
@@ -505,7 +505,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
-msgstr ""
+msgstr "Квартет Анскомба"
 
 #: ../../Ch12/Ch12_Regression_01.rst:259
 msgid ""
@@ -649,7 +649,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:369
 msgid "**student 1**"
-msgstr ""
+msgstr "**студент 1**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:369
 msgid "1"
@@ -657,7 +657,7 @@ msgstr "1"
 
 #: ../../Ch12/Ch12_Regression_01.rst:371
 msgid "**student 2**"
-msgstr ""
+msgstr "**студент 2**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:371
 msgid "10"
@@ -665,7 +665,7 @@ msgstr "10"
 
 #: ../../Ch12/Ch12_Regression_01.rst:373
 msgid "**student 3**"
-msgstr ""
+msgstr "**студент 3**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:373
 msgid "6"
@@ -673,7 +673,7 @@ msgstr "6"
 
 #: ../../Ch12/Ch12_Regression_01.rst:375
 msgid "**student 4**"
-msgstr ""
+msgstr "**студент 4**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:375
 msgid "2"
@@ -681,7 +681,7 @@ msgstr "2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:377
 msgid "**student 5**"
-msgstr ""
+msgstr "**студент 5**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:377
 msgid "3"
@@ -689,7 +689,7 @@ msgstr "3"
 
 #: ../../Ch12/Ch12_Regression_01.rst:379
 msgid "**student 6**"
-msgstr ""
+msgstr "**студент 6**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:379
 msgid "5"
@@ -697,7 +697,7 @@ msgstr "5"
 
 #: ../../Ch12/Ch12_Regression_01.rst:381
 msgid "**student 7**"
-msgstr ""
+msgstr "**студент 7**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:381
 msgid "4"
@@ -705,7 +705,7 @@ msgstr "4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:383
 msgid "**student 8**"
-msgstr ""
+msgstr "**студент 8**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:383
 msgid "8"
@@ -713,7 +713,7 @@ msgstr "8"
 
 #: ../../Ch12/Ch12_Regression_01.rst:385
 msgid "**student 9**"
-msgstr ""
+msgstr "**студент 9**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:385
 msgid "7"
@@ -721,7 +721,7 @@ msgstr "7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:387
 msgid "**student 10**"
-msgstr ""
+msgstr "**студент 10**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:387
 msgid "9"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:4
 msgid "Scatterplots"
-msgstr ""
+msgstr "Діаграми розсіювання"
 
 #: ../../Ch12/Ch12_Regression_02.rst:6
 msgid ""
@@ -1033,7 +1033,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:36
 msgid "or as"
-msgstr ""
+msgstr "або як"
 
 #: ../../Ch12/Ch12_Regression_04.rst:38
 msgid ""
@@ -1206,15 +1206,15 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Predictor"
-msgstr ""
+msgstr "Предиктор"
 
 #: ../../Ch12/Ch12_Regression_05.rst:57
 msgid "Estimate"
-msgstr ""
+msgstr "Оцінка"
 
 #: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "Intercept"
-msgstr ""
+msgstr "Перехоплення"
 
 #: ../../Ch12/Ch12_Regression_05.rst:59
 msgid "125.966"
@@ -2048,7 +2048,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:4
 msgid "Model checking"
-msgstr ""
+msgstr "Перевірка моделі"
 
 #: ../../Ch12/Ch12_Regression_11.rst:6
 msgid ""
@@ -2562,7 +2562,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:4
 msgid "Model selection"
-msgstr ""
+msgstr "Вибір моделі"
 
 #: ../../Ch12/Ch12_Regression_12.rst:6
 msgid ""
@@ -2662,7 +2662,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:77
 msgid "Backward elimination"
-msgstr ""
+msgstr "Зворотне виключення"
 
 #: ../../Ch12/Ch12_Regression_12.rst:79
 msgid ""
@@ -2678,7 +2678,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:90
 msgid "Forward selection"
-msgstr ""
+msgstr "Вибір уперед"
 
 #: ../../Ch12/Ch12_Regression_12.rst:92
 msgid ""
@@ -2697,7 +2697,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:102
 msgid "A caveat"
-msgstr ""
+msgstr "Застереження"
 
 #: ../../Ch12/Ch12_Regression_12.rst:104
 msgid ""
