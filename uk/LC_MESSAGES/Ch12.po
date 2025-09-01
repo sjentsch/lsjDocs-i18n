@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -116,7 +116,7 @@ msgstr "14"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "**Dani’s hours slept**"
-msgstr ""
+msgstr "**Години, які Дані спав**"
 
 #: ../../Ch12/Ch12_Regression_01.rst:22
 msgid "4.84"
@@ -264,7 +264,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:112
 msgid "The correlation coefficient"
-msgstr ""
+msgstr "Коефіцієнт кореляції"
 
 #: ../../Ch12/Ch12_Regression_01.rst:114
 msgid ""
@@ -391,7 +391,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:205
 msgid "Interpreting a correlation"
-msgstr ""
+msgstr "Інтерпретація кореляції"
 
 #: ../../Ch12/Ch12_Regression_01.rst:207
 msgid ""
@@ -433,7 +433,7 @@ msgstr "Напрямок"
 
 #: ../../Ch12/Ch12_Regression_01.rst:231
 msgid "-1.0 to -0.9"
-msgstr ""
+msgstr "-1.0 до -0.9"
 
 #: ../../Ch12/Ch12_Regression_01.rst:231 ../../Ch12/Ch12_Regression_01.rst:249
 msgid "Very strong"
@@ -447,7 +447,7 @@ msgstr "Негативний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:233
 msgid "-0.9 to -0.7"
-msgstr ""
+msgstr "-0,9 до -0,7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:233 ../../Ch12/Ch12_Regression_01.rst:247
 msgid "Strong"
@@ -455,7 +455,7 @@ msgstr "Сильний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:235
 msgid "-0.7 to -0.4"
-msgstr ""
+msgstr "-0.7 до -0.4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:235 ../../Ch12/Ch12_Regression_01.rst:245
 msgid "Moderate"
@@ -463,7 +463,7 @@ msgstr "Помірний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:237
 msgid "-0.4 to -0.2"
-msgstr ""
+msgstr "-0.4 до -0.2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:237 ../../Ch12/Ch12_Regression_01.rst:243
 msgid "Weak"
@@ -471,7 +471,7 @@ msgstr "Слабкий"
 
 #: ../../Ch12/Ch12_Regression_01.rst:239
 msgid "-0.2 to  0.0"
-msgstr ""
+msgstr "-0.2 до  0.0"
 
 #: ../../Ch12/Ch12_Regression_01.rst:239 ../../Ch12/Ch12_Regression_01.rst:241
 msgid "Negligible"
@@ -479,7 +479,7 @@ msgstr "Незначний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:241
 msgid "0.0 to  0.2"
-msgstr ""
+msgstr "0.0 до  0.2"
 
 #: ../../Ch12/Ch12_Regression_01.rst:241 ../../Ch12/Ch12_Regression_01.rst:243
 #: ../../Ch12/Ch12_Regression_01.rst:245 ../../Ch12/Ch12_Regression_01.rst:247
@@ -489,19 +489,19 @@ msgstr "Позитивний"
 
 #: ../../Ch12/Ch12_Regression_01.rst:243
 msgid "0.2 to  0.4"
-msgstr ""
+msgstr "0.2 до  0.4"
 
 #: ../../Ch12/Ch12_Regression_01.rst:245
 msgid "0.4 to  0.7"
-msgstr ""
+msgstr "0.4 до  0.7"
 
 #: ../../Ch12/Ch12_Regression_01.rst:247
 msgid "0.7 to  0.9"
-msgstr ""
+msgstr "0.7 до  0.9"
 
 #: ../../Ch12/Ch12_Regression_01.rst:249
 msgid "0.9 to  1.0"
-msgstr ""
+msgstr "0.9 до  1.0"
 
 #: ../../Ch12/Ch12_Regression_01.rst:255
 msgid "Anscombe’s quartet"
@@ -540,7 +540,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:283
 msgid "Spearman’s rank correlations"
-msgstr ""
+msgstr "Рангові кореляції Спірмена"
 
 #: ../../Ch12/Ch12_Regression_01.rst:285
 msgid ""
@@ -641,11 +641,11 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:367
 msgid "rank (hours worked)"
-msgstr ""
+msgstr "ранг (відпрацьовані години)"
 
 #: ../../Ch12/Ch12_Regression_01.rst:367
 msgid "rank (grade received)"
-msgstr ""
+msgstr "ранг (отримана оцінка)"
 
 #: ../../Ch12/Ch12_Regression_01.rst:369
 msgid "**student 1**"
@@ -821,7 +821,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_02.rst:65
 msgid "More elaborate options"
-msgstr ""
+msgstr "Більш складні варіанти"
 
 #: ../../Ch12/Ch12_Regression_02.rst:67
 msgid ""
@@ -1133,7 +1133,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:4
 msgid "Multiple linear regression"
-msgstr ""
+msgstr "Множинна лінійна регресія"
 
 #: ../../Ch12/Ch12_Regression_05.rst:6
 msgid ""
@@ -1811,7 +1811,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:4
 msgid "Regarding regression coefficients"
-msgstr ""
+msgstr "Щодо коефіцієнтів регресії"
 
 #: ../../Ch12/Ch12_Regression_09.rst:6
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_10.rst:4
 msgid "Assumptions of regression"
-msgstr ""
+msgstr "Припущення регресії"
 
 #: ../../Ch12/Ch12_Regression_10.rst:6
 msgid ""
@@ -2469,7 +2469,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:337
 msgid "Checking for collinearity"
-msgstr ""
+msgstr "Перевірка на колінеарність"
 
 #: ../../Ch12/Ch12_Regression_11.rst:339
 msgid ""
