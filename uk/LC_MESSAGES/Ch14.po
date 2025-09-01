@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:02+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -190,17 +190,17 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:83 ../../Ch14/Ch14_ANOVA2_01.rst:118
 #: ../../Ch14/Ch14_ANOVA2_01.rst:146 ../../Ch14/Ch14_ANOVA2_01.rst:383
 msgid "no therapy"
-msgstr ""
+msgstr "без терапії"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:83 ../../Ch14/Ch14_ANOVA2_01.rst:118
 #: ../../Ch14/Ch14_ANOVA2_01.rst:146 ../../Ch14/Ch14_ANOVA2_01.rst:383
 msgid "CBT"
-msgstr ""
+msgstr "CBT"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:83 ../../Ch14/Ch14_ANOVA2_01.rst:118
 #: ../../Ch14/Ch14_ANOVA2_01.rst:146 ../../Ch14/Ch14_ANOVA2_01.rst:383
 msgid "total"
-msgstr ""
+msgstr "загальна сума"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:85 ../../Ch14/Ch14_ANOVA2_01.rst:120
 #: ../../Ch14/Ch14_ANOVA2_01.rst:148 ../../Ch14/Ch14_ANOVA2_01.rst:385
@@ -256,7 +256,7 @@ msgstr "1.48"
 #: ../../Ch14/Ch14_ANOVA2_01.rst:91 ../../Ch14/Ch14_ANOVA2_01.rst:126
 #: ../../Ch14/Ch14_ANOVA2_01.rst:154 ../../Ch14/Ch14_ANOVA2_01.rst:391
 msgid "**total**"
-msgstr ""
+msgstr "**загальна сума**"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:91
 msgid "1.04"
@@ -1543,7 +1543,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Розмір ефекту"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:6
 msgid ""
@@ -1737,7 +1737,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:4
 msgid "Assumption checking"
-msgstr ""
+msgstr "Перевірка припущень"
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:6
 msgid ""
@@ -2027,7 +2027,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:46
 msgid "Some data"
-msgstr ""
+msgstr "Деякі дані"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:48
 msgid ""
@@ -2071,7 +2071,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
 msgid "person, p"
-msgstr ""
+msgstr "особа, с"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:84
 msgid "``grade``, *Y*\\ :sub:`p`"
@@ -2368,19 +2368,19 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:233
 msgid "no"
-msgstr ""
+msgstr "ні"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:233
 msgid "yes"
-msgstr ""
+msgstr "так"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:235
 msgid "**attended?**"
-msgstr ""
+msgstr "**відвідав?**"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:235
 msgid "**no**"
-msgstr ""
+msgstr "**ні**"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:235
 msgid "*b*\\ :sub:`0`"
@@ -2392,7 +2392,7 @@ msgstr "*b*\\ :sub:`0` + *b*\\ :sub:`2`"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:237
 msgid "**yes**"
-msgstr ""
+msgstr "**так**"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:237
 msgid "*b*\\ :sub:`0` + *b*\\ :sub:`1`"
@@ -2524,27 +2524,27 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drug``"
-msgstr ""
+msgstr "``drug``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``druganxifree``"
-msgstr ""
+msgstr "``druganxifree``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:339 ../../Ch14/Ch14_ANOVA2_08.rst:11
 msgid "``drugjoyzepam``"
-msgstr ""
+msgstr "``drugjoyzepam``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:341 ../../Ch14/Ch14_ANOVA2_08.rst:13
 msgid "``placebo``"
-msgstr ""
+msgstr "``placebo``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:343 ../../Ch14/Ch14_ANOVA2_08.rst:15
 msgid "``anxifree``"
-msgstr ""
+msgstr "``anxifree``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:345 ../../Ch14/Ch14_ANOVA2_08.rst:17
 msgid "``joyzepam``"
-msgstr ""
+msgstr "``joyzepam``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:348
 msgid ""
@@ -2798,7 +2798,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:31
 msgid "Treatment contrasts"
-msgstr ""
+msgstr "Контрасти лікування"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:33
 msgid ""
@@ -2845,7 +2845,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:74
 msgid "Helmert contrasts"
-msgstr ""
+msgstr "Гельмерт протиставляє"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:76
 msgid ""
@@ -2916,7 +2916,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:145
 msgid "Contrast type"
-msgstr ""
+msgstr "Тип контрасту"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:145
 msgid "What does the contrast compare?"
@@ -2924,7 +2924,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:147
 msgid "**Deviation**"
-msgstr ""
+msgstr "**Відхилення**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:147
 msgid ""
@@ -2934,7 +2934,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:151
 msgid "**Simple**"
-msgstr ""
+msgstr "**Простий**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:151
 msgid ""
@@ -2947,7 +2947,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:159
 msgid "**Difference**"
-msgstr ""
+msgstr "**Різниця**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:159
 msgid ""
@@ -2957,7 +2957,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:163
 msgid "**Helmert**"
-msgstr ""
+msgstr "**Гельмерт**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:163
 msgid ""
@@ -2967,7 +2967,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:166
 msgid "**Repeated**"
-msgstr ""
+msgstr "**Повторюється**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:166
 msgid ""
@@ -2977,7 +2977,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:169
 msgid "**Polynomial**"
-msgstr ""
+msgstr "**Поліном**"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:169
 msgid ""
@@ -3000,7 +3000,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:4
 msgid "Post-hoc tests"
-msgstr ""
+msgstr "Постфактумні тести"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:6
 msgid ""
@@ -3141,7 +3141,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:108
 msgid "etc."
-msgstr ""
+msgstr "тощо."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:110
 msgid ""
@@ -3382,7 +3382,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_11.rst:465 ../../Ch14/Ch14_ANOVA2_11.rst:473
 #: ../../Ch14/Ch14_ANOVA2_11.rst:481
 msgid "Null model:"
-msgstr ""
+msgstr "Нульова модель:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:144
 msgid "``babble ~ 1``"
@@ -3395,7 +3395,7 @@ msgstr "``babble ~ 1``"
 #: ../../Ch14/Ch14_ANOVA2_11.rst:467 ../../Ch14/Ch14_ANOVA2_11.rst:475
 #: ../../Ch14/Ch14_ANOVA2_11.rst:483
 msgid "Alternative model:"
-msgstr ""
+msgstr "Альтернативна модель:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:146 ../../Ch14/Ch14_ANOVA2_11.rst:156
 #: ../../Ch14/Ch14_ANOVA2_11.rst:473
@@ -3913,15 +3913,15 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:541 ../../Ch14/Ch14_ANOVA2_11.rst:560
 msgid "sugar"
-msgstr ""
+msgstr "цукор"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:541 ../../Ch14/Ch14_ANOVA2_11.rst:560
 msgid "no sugar"
-msgstr ""
+msgstr "без цукру"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:543 ../../Ch14/Ch14_ANOVA2_11.rst:562
 msgid "**milk**"
-msgstr ""
+msgstr "**молоко**"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:543 ../../Ch14/Ch14_ANOVA2_11.rst:545
 #: ../../Ch14/Ch14_ANOVA2_11.rst:562 ../../Ch14/Ch14_ANOVA2_11.rst:564
@@ -3930,7 +3930,7 @@ msgstr "100"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:545 ../../Ch14/Ch14_ANOVA2_11.rst:564
 msgid "**no milk**"
-msgstr ""
+msgstr "**без молока**"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:548
 msgid ""
