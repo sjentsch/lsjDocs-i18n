@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:01+0000\n"
+"PO-Revision-Date: 2025-09-01 17:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch06/"
 "uk/>\n"
@@ -1097,7 +1097,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:157
 msgid "Using the ``IF`` function"
-msgstr ""
+msgstr "Використання функції ``IF``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:161
 msgid ""
@@ -1143,7 +1143,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:198
 msgid "Using the jamovi ``Transform`` command"
-msgstr ""
+msgstr "Використання команди jamovi ``Transform``"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:202
 msgid ""
@@ -1171,7 +1171,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:226
 msgid "Specifying a transformation in jamovi"
-msgstr ""
+msgstr "Визначення перетворення в jamovi"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:230
 msgid ""
@@ -1207,7 +1207,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:259
 msgid "jamovi transformation into categories"
-msgstr ""
+msgstr "перетворення jamovi на категорії"
 
 #: ../../Ch06/Ch06_DataHandling_3.rst:263
 msgid ""
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:4
 msgid "Mathematical functions and operations"
-msgstr ""
+msgstr "Математичні функції та операції"
 
 #: ../../Ch06/Ch06_DataHandling_4.rst:6
 msgid ""
@@ -1557,7 +1557,7 @@ msgstr ""
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:37
 msgid "Creating a subset using ``Filters``"
-msgstr ""
+msgstr "Створення підмножини за допомогою ``Filters``"
 
 #: ../../Ch06/Ch06_DataHandling_5.rst:41
 msgid ""
