@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 16:02+0000\n"
+"PO-Revision-Date: 2025-09-01 17:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -396,7 +396,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:4
 msgid "Two types of errors"
-msgstr ""
+msgstr "Два типи помилок"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:6
 msgid ""
@@ -438,7 +438,7 @@ msgstr "відхилити H\\ :sub:`0`"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:71
 msgid "**H\\ :sub:`0` is true**"
-msgstr ""
+msgstr "**H\\ :sub:`0` є істинним**"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:31
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
@@ -452,7 +452,7 @@ msgstr "помилка (type I)"
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:74
 msgid "**H\\ :sub:`0` is false**"
-msgstr ""
+msgstr "**H\\ :sub:`0` є false**"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:33
 msgid "error (type II)"
@@ -502,7 +502,7 @@ msgstr "1 - α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "(probability of correct retention)"
-msgstr ""
+msgstr "(ймовірність правильного запам'ятовування)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "α"
@@ -510,7 +510,7 @@ msgstr "α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "(type I error rate)"
-msgstr ""
+msgstr "(коефіцієнт помилок I типу)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "β"
@@ -518,7 +518,7 @@ msgstr "β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "(type II error rate)"
-msgstr ""
+msgstr "(коефіцієнт помилок II типу)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "1 - β"
@@ -526,7 +526,7 @@ msgstr "1 - β"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:0
 msgid "(power of the test)"
-msgstr ""
+msgstr "(потужність тесту)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:78
 msgid ""
@@ -648,7 +648,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:73
 msgid "*X* ~ Binomial(θ, N)"
-msgstr ""
+msgstr "*X* ~ Binomial(θ, N)"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:75
 msgid ""
@@ -958,7 +958,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:43
 msgid "Value of α"
-msgstr ""
+msgstr "Значення α"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:43
 msgid "0.05"
@@ -1221,7 +1221,7 @@ msgstr "Англійський переклад"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:107
 msgid "The null is…"
-msgstr ""
+msgstr "Нуль – це…"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:110
 msgid "*p* > 0.05"
@@ -1229,7 +1229,7 @@ msgstr "*p* > 0.05"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:110
 msgid "The test wasn’t significant."
-msgstr ""
+msgstr "Тест не був суттєвим."
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:110
 msgid "Retained"
@@ -1474,7 +1474,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:110
 msgid ":ref:`George Box (1976) <Box_1976>`"
-msgstr ""
+msgstr ":ref:`George Box (1976) <Box_1976>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:112
 msgid ""
@@ -1695,7 +1695,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:4
 msgid "Some issues to consider"
-msgstr ""
+msgstr "Деякі питання, які слід врахувати"
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:6
 msgid ""
