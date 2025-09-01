@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:02+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:50 ../../Ch16/Ch16_Bayes_1.rst:71
 msgid "Hypothesis"
-msgstr ""
+msgstr "Гіпотеза"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:50
 msgid "Degree of Belief"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "**Rainy day**"
-msgstr ""
+msgstr "**Дощовий день**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:52 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.15"
@@ -171,7 +171,7 @@ msgstr "0.15"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:75
 msgid "**Dry day**"
-msgstr ""
+msgstr "**Сухий день**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:54 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.85"
@@ -197,11 +197,11 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:142 ../../Ch16/Ch16_Bayes_1.rst:173
 #: ../../Ch16/Ch16_Bayes_1.rst:219 ../../Ch16/Ch16_Bayes_1.rst:252
 msgid "Umbrella"
-msgstr ""
+msgstr "Парасолька"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:71
 msgid "No umbrella"
-msgstr ""
+msgstr "Без парасольки"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:73
 msgid "0.30"
@@ -292,13 +292,13 @@ msgstr ""
 #: ../../Ch16/Ch16_Bayes_1.rst:173 ../../Ch16/Ch16_Bayes_1.rst:219
 #: ../../Ch16/Ch16_Bayes_1.rst:252
 msgid "No-umbrella"
-msgstr ""
+msgstr "Без парасольки"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 #: ../../Ch16/Ch16_Bayes_1.rst:175 ../../Ch16/Ch16_Bayes_1.rst:221
 #: ../../Ch16/Ch16_Bayes_1.rst:254
 msgid "**Rainy**"
-msgstr ""
+msgstr "**Дощовий**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:132 ../../Ch16/Ch16_Bayes_1.rst:144
 msgid "0.0450"
@@ -312,7 +312,7 @@ msgstr "0.1050"
 #: ../../Ch16/Ch16_Bayes_1.rst:177 ../../Ch16/Ch16_Bayes_1.rst:223
 #: ../../Ch16/Ch16_Bayes_1.rst:256
 msgid "**Dry**"
-msgstr ""
+msgstr "**Сухий**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:134 ../../Ch16/Ch16_Bayes_1.rst:146
 msgid "0.0425"
@@ -331,12 +331,12 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:142
 msgid "Total"
-msgstr ""
+msgstr "Всього"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148 ../../Ch16/Ch16_Bayes_1.rst:225
 #: ../../Ch16/Ch16_Bayes_1.rst:258
 msgid "**Total**"
-msgstr ""
+msgstr "**Всього**"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:148
 msgid "0.0875"
@@ -386,7 +386,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:175
 msgid "*P*\\ (Rainy)"
-msgstr ""
+msgstr "*P*\\ (Дощовий)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Umbrella, Dry)"
@@ -398,15 +398,15 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:177
 msgid "*P*\\ (Dry)"
-msgstr ""
+msgstr "*P*\\ (Сухий)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (Umbrella)"
-msgstr ""
+msgstr "*P*\\ (Парасолька)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:179
 msgid "*P*\\ (No-umbrella)"
-msgstr ""
+msgstr "*P*\\ (Без парасольки)"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:182
 msgid ""
@@ -793,11 +793,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:100
 msgid "Bayes factor"
-msgstr ""
+msgstr "Байєсівський фактор"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:100
 msgid "Interpretation"
-msgstr ""
+msgstr "Інтерпретація"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:102
 msgid "1 –   3"
@@ -805,7 +805,7 @@ msgstr "1 –   3"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:102
 msgid "Negligible evidence"
-msgstr ""
+msgstr "Незначні докази"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:104
 msgid "3 –  20"
@@ -813,7 +813,7 @@ msgstr "3 –  20"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:104
 msgid "Positive evidence"
-msgstr ""
+msgstr "Позитивні докази"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:106
 msgid "20 – 150"
@@ -821,7 +821,7 @@ msgstr "20 – 150"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:106
 msgid "Strong evidence"
-msgstr ""
+msgstr "Переконливі докази"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:108
 msgid "> 150"
@@ -1079,7 +1079,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:154
 msgid "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
-msgstr ""
+msgstr "`Портал <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:157
 msgid ""
@@ -1202,11 +1202,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:241 ../../Ch16/Ch16_Bayes_3.rst:255
 msgid "Outcome"
-msgstr ""
+msgstr "Результат"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:241 ../../Ch16/Ch16_Bayes_3.rst:255
 msgid "Action"
-msgstr ""
+msgstr "Дія"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:243 ../../Ch16/Ch16_Bayes_3.rst:257
 msgid "*p* less than 0.05"
@@ -1479,7 +1479,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:4
 msgid "Bayesian *t*-tests"
-msgstr ""
+msgstr "Баєсівські *t*-тести"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:6
 msgid ""
