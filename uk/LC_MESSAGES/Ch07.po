@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:01+0000\n"
+"PO-Revision-Date: 2025-09-01 15:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -395,7 +395,7 @@ msgstr "0"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67 ../../Ch07/Ch07_Probability_2.rst:75
 msgid "**proportion**"
-msgstr ""
+msgstr "**пропорція**"
 
 #: ../../Ch07/Ch07_Probability_2.rst:67
 msgid "0.00"
@@ -775,19 +775,19 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Which trousers?"
-msgstr ""
+msgstr "Які штани?"
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Label"
-msgstr ""
+msgstr "Мітка"
 
 #: ../../Ch07/Ch07_Probability_3.rst:61
 msgid "Probability"
-msgstr ""
+msgstr "Ймовірність"
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "Blue jeans"
-msgstr ""
+msgstr "Сині джинси"
 
 #: ../../Ch07/Ch07_Probability_3.rst:63
 msgid "*X*\\ :sub:`1`"
@@ -799,7 +799,7 @@ msgstr "*P*\\ (X\\ :sub:`1`\\ ) = 0.5"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "Grey jeans"
-msgstr ""
+msgstr "Сірі джинси"
 
 #: ../../Ch07/Ch07_Probability_3.rst:65
 msgid "*X*\\ :sub:`2`"
@@ -811,7 +811,7 @@ msgstr "*P*\\ (X\\ :sub:`2`\\ ) = 0.3"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "Black jeans"
-msgstr ""
+msgstr "Чорні джинси"
 
 #: ../../Ch07/Ch07_Probability_3.rst:67
 msgid "*X*\\ :sub:`3`"
@@ -823,7 +823,7 @@ msgstr "*P*\\ (X\\ :sub:`3`\\ ) = 0.1"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "Black suit"
-msgstr ""
+msgstr "Чорний костюм"
 
 #: ../../Ch07/Ch07_Probability_3.rst:69
 msgid "*X*\\ :sub:`4`"
@@ -835,7 +835,7 @@ msgstr "*P*\\ (X\\ :sub:`4`\\ ) = 0"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "Blue tracksuit"
-msgstr ""
+msgstr "Синій спортивний костюм"
 
 #: ../../Ch07/Ch07_Probability_3.rst:71
 msgid "*X*\\ :sub:`5`"
@@ -922,19 +922,19 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "English"
-msgstr ""
+msgstr "Англійська"
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "Notation"
-msgstr ""
+msgstr "Нотація"
 
 #: ../../Ch07/Ch07_Probability_3.rst:134
 msgid "Formula"
-msgstr ""
+msgstr "Формула"
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "not *A*"
-msgstr ""
+msgstr "не *A*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:136
 msgid "*P*\\ (¬ A)"
@@ -1321,7 +1321,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:156
 msgid "Probability density"
-msgstr ""
+msgstr "Щільність ймовірності"
 
 #: ../../Ch07/Ch07_Probability_5.rst:158
 msgid ""
