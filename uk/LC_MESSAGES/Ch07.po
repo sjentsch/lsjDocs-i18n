@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:01+0000\n"
+"PO-Revision-Date: 2025-09-01 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -320,7 +320,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:43
 msgid "The frequentist view"
-msgstr ""
+msgstr "Частотний погляд"
 
 #: ../../Ch07/Ch07_Probability_2.rst:45
 msgid ""
@@ -343,7 +343,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:71
 msgid "number of flips"
-msgstr ""
+msgstr "кількість перекидів"
 
 #: ../../Ch07/Ch07_Probability_2.rst:63 ../../Ch07/Ch07_Probability_2.rst:65
 msgid "1"
@@ -387,7 +387,7 @@ msgstr "10"
 
 #: ../../Ch07/Ch07_Probability_2.rst:65 ../../Ch07/Ch07_Probability_2.rst:73
 msgid "**number of heads**"
-msgstr ""
+msgstr "**кількість голів**"
 
 #: ../../Ch07/Ch07_Probability_2.rst:65
 msgid "0"
@@ -580,7 +580,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:155
 msgid "The Bayesian view"
-msgstr ""
+msgstr "Байєсівський погляд"
 
 #: ../../Ch07/Ch07_Probability_2.rst:157
 msgid ""
@@ -707,7 +707,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:4
 msgid "Basic probability theory"
-msgstr ""
+msgstr "Основна теорія ймовірностей"
 
 #: ../../Ch07/Ch07_Probability_3.rst:6
 msgid ""
@@ -722,7 +722,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:16
 msgid "Introducing probability distributions"
-msgstr ""
+msgstr "Введення розподілів ймовірностей"
 
 #: ../../Ch07/Ch07_Probability_3.rst:18
 msgid ""
@@ -858,7 +858,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_3.rst:84
 msgid "“Trousers” probability distribution"
-msgstr ""
+msgstr "Розподіл ймовірностей «штанів»"
 
 #: ../../Ch07/Ch07_Probability_3.rst:88
 msgid ""
@@ -951,7 +951,7 @@ msgstr "1 - *P*\\ (A)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*A* or *B*"
-msgstr ""
+msgstr "*A* або *B*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:138
 msgid "*P*\\ (A ∪ B)"
@@ -963,7 +963,7 @@ msgstr "*P*\\ (A) + *P*\\ (B) - *P*\\ (A ∩ B)"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*A* and *B*"
-msgstr ""
+msgstr "*A* і *B*"
 
 #: ../../Ch07/Ch07_Probability_3.rst:140
 msgid "*P*\\ (A ∩ B)"
@@ -975,7 +975,7 @@ msgstr "*P*\\ (A|B) *P*\\ (B)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:4
 msgid "The binomial distribution"
-msgstr ""
+msgstr "Біноміальний розподіл"
 
 #: ../../Ch07/Ch07_Probability_4.rst:6
 msgid ""
@@ -992,7 +992,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:17
 msgid "Introducing the binomial"
-msgstr ""
+msgstr "Введення бінома"
 
 #: ../../Ch07/Ch07_Probability_4.rst:19
 msgid ""
@@ -1151,7 +1151,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:4
 msgid "The normal distribution"
-msgstr ""
+msgstr "Нормальний розподіл"
 
 #: ../../Ch07/Ch07_Probability_5.rst:6
 msgid ""
@@ -1432,7 +1432,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:4
 msgid "Other useful distributions"
-msgstr ""
+msgstr "Інші корисні дистрибутиви"
 
 #: ../../Ch07/Ch07_Probability_6.rst:6
 msgid ""
