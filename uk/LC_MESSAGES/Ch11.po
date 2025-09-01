@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:4
 msgid "The one-sample *t*-test"
-msgstr ""
+msgstr "Одновибірковий *t*-тест"
 
 #: ../../Ch11/Ch11_tTest_02.rst:6
 msgid ""
@@ -632,7 +632,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:51
 msgid "Introducing the *t*-test"
-msgstr ""
+msgstr "Представляємо *t*-тест"
 
 #: ../../Ch11/Ch11_tTest_02.rst:53
 msgid ""
@@ -957,7 +957,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:78
 msgid "Introducing the test"
-msgstr ""
+msgstr "Знайомство з тестом"
 
 #: ../../Ch11/Ch11_tTest_03.rst:80
 msgid ""
@@ -1182,7 +1182,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:225
 msgid "Completing the test"
-msgstr ""
+msgstr "Завершення тесту"
 
 #: ../../Ch11/Ch11_tTest_03.rst:227
 msgid ""
@@ -1684,7 +1684,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:4
 msgid "The paired-samples *t*-test"
-msgstr ""
+msgstr "*t*-тест для парних вибірок"
 
 #: ../../Ch11/Ch11_tTest_05.rst:6
 msgid ""
