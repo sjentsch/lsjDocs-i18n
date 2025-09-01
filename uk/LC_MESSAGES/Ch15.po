@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:149
 msgid "EFA in jamovi"
-msgstr ""
+msgstr "EFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:151
 msgid ""
@@ -294,7 +294,7 @@ msgstr "Ім'я"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Question / Item"
-msgstr ""
+msgstr "Запитання / Елемент"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "A1"
@@ -384,7 +384,7 @@ msgstr "C5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "Waste my time."
-msgstr ""
+msgstr "Марную мій час."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:189
 msgid "E1"
@@ -416,7 +416,7 @@ msgstr "E4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "Make friends easily."
-msgstr ""
+msgstr "Легко заводити друзів."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:197
 msgid "E5"
@@ -432,7 +432,7 @@ msgstr "N1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:199
 msgid "Get angry easily."
-msgstr ""
+msgstr "Легко розсердитися."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "N2"
@@ -440,7 +440,7 @@ msgstr "N2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:201
 msgid "Get irritated easily."
-msgstr ""
+msgstr "Легко дратуватися."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:203
 msgid "N3"
@@ -456,7 +456,7 @@ msgstr "N4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:205
 msgid "Often feel blue."
-msgstr ""
+msgstr "Часто відчуваю себе пригніченим."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:207
 msgid "N5"
@@ -1024,7 +1024,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:4
 msgid "Principal Component Analysis"
-msgstr ""
+msgstr "Аналіз головних компонент"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:6
 msgid ""
@@ -1287,7 +1287,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:4
 msgid "Confirmatory Factor Analysis"
-msgstr ""
+msgstr "Підтверджувальний факторний аналіз"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:6
 msgid ""
@@ -1374,7 +1374,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:72
 msgid "CFA in jamovi"
-msgstr ""
+msgstr "CFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:74
 msgid ""
@@ -1627,7 +1627,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:264
 msgid "Reporting a CFA"
-msgstr ""
+msgstr "Повідомлення про CFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:266
 msgid ""
