@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -1455,7 +1455,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:253
 msgid "Interpreting the results"
-msgstr ""
+msgstr "Інтерпретація результатів"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:255
 msgid ""
@@ -1656,7 +1656,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:103
 msgid "Estimated group means"
-msgstr ""
+msgstr "Очікувані середні значення групи"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:105
 msgid ""
@@ -1760,7 +1760,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:24
 msgid "Homogeneity of variance"
-msgstr ""
+msgstr "Однорідність дисперсії"
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:26
 msgid ""
@@ -1787,7 +1787,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:53
 msgid "Normality of residuals"
-msgstr ""
+msgstr "Нормальність залишків"
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:55
 msgid ""
@@ -1892,7 +1892,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:83
 msgid "jamovi ANCOVA output"
-msgstr ""
+msgstr "jamovi ANCOVA вихід"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:87
 msgid ""
@@ -2480,7 +2480,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:302
 msgid "Omnibus ANOVA Test"
-msgstr ""
+msgstr "Омнібусний ANOVA тест"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:306
 msgid ""
@@ -3251,7 +3251,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:36
 msgid "The coffee data"
-msgstr ""
+msgstr "Дані про каву"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:38
 msgid ""
