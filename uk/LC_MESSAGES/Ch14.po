@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-08-29 19:02+0000\n"
+"PO-Revision-Date: 2025-09-01 07:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -4038,7 +4038,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:4
 msgid "Summary"
-msgstr ""
+msgstr "Короткий зміст"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:6
 msgid ""
