@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:01+0000\n"
+"PO-Revision-Date: 2025-09-01 15:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch10/"
 "uk/>\n"
@@ -188,23 +188,23 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "label"
-msgstr ""
+msgstr "мітка"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "index, *i*"
-msgstr ""
+msgstr "індекс, *i*"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "math. symbol"
-msgstr ""
+msgstr "математичний символ"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:67
 msgid "the value"
-msgstr ""
+msgstr "значення"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:69
 msgid "clubs (♣)"
-msgstr ""
+msgstr "клуби (♣)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:69 ../../Ch10/Ch10_ChiSquare_1.rst:185
 #: ../../Ch10/Ch10_ChiSquare_1.rst:409
@@ -221,7 +221,7 @@ msgstr "35"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:71
 msgid "diamonds (♢)"
-msgstr ""
+msgstr "діаманти (♢)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:71 ../../Ch10/Ch10_ChiSquare_1.rst:411
 msgid "2"
@@ -433,7 +433,7 @@ msgstr "♠"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:181 ../../Ch10/Ch10_ChiSquare_1.rst:490
 msgid "expected frequency"
-msgstr ""
+msgstr "очікувана частота"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:181 ../../Ch10/Ch10_ChiSquare_1.rst:490
 msgid "*E*\\ :sub:`i`"
@@ -441,11 +441,11 @@ msgstr "*E*\\ :sub:`i`"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:183
 msgid "observed frequency"
-msgstr ""
+msgstr "спостережувана частота"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:185
 msgid "difference score"
-msgstr ""
+msgstr "різниця балів"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:185
 msgid "*E*\\ :sub:`i` - *O*\\ :sub:`1`"
@@ -722,15 +722,15 @@ msgstr "df"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:403
 msgid "Probability"
-msgstr ""
+msgstr "Ймовірність"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:405
 msgid "non-significant"
-msgstr ""
+msgstr "незначний"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:405
 msgid "significant"
-msgstr ""
+msgstr "значний"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:407
 msgid "0.95"
@@ -1527,15 +1527,15 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_2.rst:9 ../../Ch10/Ch10_ChiSquare_2.rst:17
 #: ../../Ch10/Ch10_ChiSquare_2.rst:23
 msgid "GUARDBOT 1:"
-msgstr ""
+msgstr "ГАРДБОТ 1:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:9
 msgid "Halt!"
-msgstr ""
+msgstr "Зупинитися!"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:11 ../../Ch10/Ch10_ChiSquare_2.rst:19
 msgid "GUARDBOT 2:"
-msgstr ""
+msgstr "ГАРДБОТ 2:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:11
 msgid "Be you robot or human?"
@@ -1543,7 +1543,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "LEELA:"
-msgstr ""
+msgstr "ЛІЛА:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:13
 msgid "Robot… we be."
@@ -1551,7 +1551,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "FRY:"
-msgstr ""
+msgstr "FRY:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "Uh, yup! Just two robots out roboting it up! Eh?"
@@ -1569,7 +1569,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:23
 msgid "Choose!"
-msgstr ""
+msgstr "Виберіть!"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:26
 msgid "Futurama, “Fear of a Bot Planet”"
@@ -1606,21 +1606,21 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:54 ../../Ch10/Ch10_ChiSquare_2.rst:83
 msgid "Robot"
-msgstr ""
+msgstr "Робот"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:54 ../../Ch10/Ch10_ChiSquare_2.rst:83
 msgid "Human"
-msgstr ""
+msgstr "Людина"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:54 ../../Ch10/Ch10_ChiSquare_2.rst:83
 #: ../../Ch10/Ch10_ChiSquare_6.rst:42 ../../Ch10/Ch10_ChiSquare_7.rst:18
 #: ../../Ch10/Ch10_ChiSquare_7.rst:46 ../../Ch10/Ch10_ChiSquare_7.rst:63
 msgid "Total"
-msgstr ""
+msgstr "Всього"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:56 ../../Ch10/Ch10_ChiSquare_2.rst:85
 msgid "**Puppy**"
-msgstr ""
+msgstr "**Цуценя**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:56 ../../Ch10/Ch10_ChiSquare_2.rst:58
 msgid "13"
@@ -1636,7 +1636,7 @@ msgstr "28"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:58 ../../Ch10/Ch10_ChiSquare_2.rst:87
 msgid "**Flower**"
-msgstr ""
+msgstr "**Квітка**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:58 ../../Ch10/Ch10_ChiSquare_7.rst:20
 #: ../../Ch10/Ch10_ChiSquare_7.rst:52
@@ -1649,7 +1649,7 @@ msgstr "43"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:60 ../../Ch10/Ch10_ChiSquare_2.rst:89
 msgid "**Data**"
-msgstr ""
+msgstr "**Дані**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:60
 msgid "44"
@@ -1667,7 +1667,7 @@ msgstr "109"
 #: ../../Ch10/Ch10_ChiSquare_6.rst:48 ../../Ch10/Ch10_ChiSquare_7.rst:24
 #: ../../Ch10/Ch10_ChiSquare_7.rst:52 ../../Ch10/Ch10_ChiSquare_7.rst:69
 msgid "**Total**"
-msgstr ""
+msgstr "**Всього**"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:62
 msgid "87"
@@ -1961,7 +1961,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:237
 msgid "Amazing."
-msgstr ""
+msgstr "Дивовижно."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:242
 msgid ""
@@ -2033,7 +2033,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:296
 msgid "Postscript"
-msgstr ""
+msgstr "Постскриптум"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:298
 msgid ""
@@ -2118,7 +2118,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:4
 msgid "Effect size"
-msgstr ""
+msgstr "Розмір ефекту"
 
 #: ../../Ch10/Ch10_ChiSquare_4.rst:6
 msgid ""
@@ -2298,11 +2298,11 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:42
 msgid "Happy"
-msgstr ""
+msgstr "Щасливий"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:42
 msgid "Sad"
-msgstr ""
+msgstr "Сумний"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:44
 msgid "**Set on fire**"
@@ -2399,19 +2399,19 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:18
 msgid "Before"
-msgstr ""
+msgstr "Раніше"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:18
 msgid "After"
-msgstr ""
+msgstr "Після"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:20
 msgid "**Yes**"
-msgstr ""
+msgstr "**Так**"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:22
 msgid "**No**"
-msgstr ""
+msgstr "**Ні**"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:22 ../../Ch10/Ch10_ChiSquare_7.rst:52
 msgid "70"
@@ -2459,19 +2459,19 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:46 ../../Ch10/Ch10_ChiSquare_7.rst:63
 msgid "Before: Yes"
-msgstr ""
+msgstr "Раніше: Так"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:46 ../../Ch10/Ch10_ChiSquare_7.rst:63
 msgid "Before: No"
-msgstr ""
+msgstr "Раніше: Ні"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:48 ../../Ch10/Ch10_ChiSquare_7.rst:65
 msgid "**After: Yes**"
-msgstr ""
+msgstr "**Після: Так**"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:50 ../../Ch10/Ch10_ChiSquare_7.rst:67
 msgid "**After: No**"
-msgstr ""
+msgstr "**Після: Ні**"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:50
 msgid "25"
