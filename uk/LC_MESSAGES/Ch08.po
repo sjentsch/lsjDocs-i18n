@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 07:01+0000\n"
+"PO-Revision-Date: 2025-09-01 15:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -737,31 +737,31 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 1"
-msgstr ""
+msgstr "Людина 1"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 2"
-msgstr ""
+msgstr "Людина 2"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 3"
-msgstr ""
+msgstr "Людина 3"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 4"
-msgstr ""
+msgstr "Людина 4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 5"
-msgstr ""
+msgstr "Людина 5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Sample Mean"
-msgstr ""
+msgstr "Середнє значення вибірки"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "Replication 1"
-msgstr ""
+msgstr "Реплікація 1"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:65
 msgid "90"
@@ -789,7 +789,7 @@ msgstr "95.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "Replication 2"
-msgstr ""
+msgstr "Реплікація 2"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:67
 msgid "78"
@@ -813,7 +813,7 @@ msgstr "101.0"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "Replication 3"
-msgstr ""
+msgstr "Реплікація 3"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:69
 msgid "122"
@@ -838,7 +838,7 @@ msgstr "101.6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "Replication 4"
-msgstr ""
+msgstr "Реплікація 4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:71
 msgid "96"
@@ -858,7 +858,7 @@ msgstr "103.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73
 msgid "Replication 5"
-msgstr ""
+msgstr "Реплікація 5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:73 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "105"
@@ -878,7 +878,7 @@ msgstr "104.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "Replication 6"
-msgstr ""
+msgstr "Реплікація 6"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:75
 msgid "81"
@@ -906,7 +906,7 @@ msgstr "92.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77
 msgid "Replication 7"
-msgstr ""
+msgstr "Реплікація 7"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:77 ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "100"
@@ -926,7 +926,7 @@ msgstr "106.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "Replication 8"
-msgstr ""
+msgstr "Реплікація 8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:79
 msgid "102.8"
@@ -934,7 +934,7 @@ msgstr "102.8"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "Replication 9"
-msgstr ""
+msgstr "Реплікація 9"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:81
 msgid "73"
@@ -950,7 +950,7 @@ msgstr "100.4"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "Replication 10"
-msgstr ""
+msgstr "Реплікація 10"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:83
 msgid "95"
@@ -1306,7 +1306,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:67 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "Symbol"
-msgstr ""
+msgstr "Символ"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:68 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "What is it?"
@@ -1318,11 +1318,11 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:70
 msgid "*X̄*"
-msgstr ""
+msgstr "*X̄*"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:71
 msgid "Sample mean"
-msgstr ""
+msgstr "Середнє значення вибірки"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:267
 #: ../../Ch08/Ch08_Estimation_4.rst:278
@@ -1636,7 +1636,7 @@ msgstr "*s*\\²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Sample variance"
-msgstr ""
+msgstr "Дисперсія вибірки"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "σ²"
@@ -1644,7 +1644,7 @@ msgstr "σ²"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Population variance"
-msgstr ""
+msgstr "Дисперсія популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid ":math:`\\hat{\\sigma}^2`"
