@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-01 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch10/"
 "uk/>\n"
@@ -615,7 +615,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:313
 msgid "Degrees of freedom"
-msgstr ""
+msgstr "Ступені свободи"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:315
 msgid ""
@@ -1369,7 +1369,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "– H.G. Wells"
-msgstr ""
+msgstr "– H.G. Колодязі"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:603
 msgid ""
@@ -1559,7 +1559,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:17
 msgid "Administer the test."
-msgstr ""
+msgstr "Проведіть тест."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:19
 msgid ""
@@ -2067,7 +2067,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:4
 msgid "The continuity correction"
-msgstr ""
+msgstr "Корекція безперервності"
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:6
 msgid ""
@@ -2306,7 +2306,7 @@ msgstr "Сумний"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:44
 msgid "**Set on fire**"
-msgstr ""
+msgstr "**Підпалити**"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:46
 msgid "**Not set on fire**"
@@ -2382,7 +2382,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:4
 msgid "The McNemar test"
-msgstr ""
+msgstr "Тест McNemar"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:6
 msgid ""
