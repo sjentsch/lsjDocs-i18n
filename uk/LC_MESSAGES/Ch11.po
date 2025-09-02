@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:14
 msgid "The inference problem that the test addresses"
-msgstr ""
+msgstr "Проблема висновку, яку вирішує тест"
 
 #: ../../Ch11/Ch11_tTest_01.rst:16
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:56
 msgid "Theoretical and empirical distribution of student grades"
-msgstr ""
+msgstr "Теоретичний та емпіричний розподіл оцінок студентів"
 
 #: ../../Ch11/Ch11_tTest_01.rst:60
 msgid ""
@@ -253,7 +253,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_01.rst:101
 msgid ""
 "One-sample *z*-test: Illustration of the null and alternative hypotheses"
-msgstr ""
+msgstr "Одновибірковий *z*-тест: ілюстрація нульової та альтернативної гіпотез"
 
 #: ../../Ch11/Ch11_tTest_01.rst:105
 msgid ""
@@ -457,7 +457,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:209
 msgid "Rejection regions for the two- and one-sided *z*-tests"
-msgstr ""
+msgstr "Області відхилення для дво- та одностороннього *z*-tests"
 
 #: ../../Ch11/Ch11_tTest_01.rst:213
 msgid ""
@@ -618,6 +618,7 @@ msgstr ""
 msgid ""
 "Illustration: Null and alternative hypotheses by the one-sample *t*-test"
 msgstr ""
+"Ілюстрація: Нульова та альтернативна гіпотези за одновибірковим *t*-критерієм"
 
 #: ../../Ch11/Ch11_tTest_02.rst:40
 msgid ""
@@ -679,7 +680,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:84
 msgid "*t*-distribution with *df* = 2 and *df* = 10"
-msgstr ""
+msgstr "*t*-розподіл з *df* = 2 та *df* = 10"
 
 #: ../../Ch11/Ch11_tTest_02.rst:88
 msgid ""
@@ -933,7 +934,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:55
 msgid "Histogram with grades in Anastasia’s and Bernadette’s classes"
-msgstr ""
+msgstr "Гістограма з оцінками в класах Анастасії та Бернадетти"
 
 #: ../../Ch11/Ch11_tTest_03.rst:59
 msgid ""
@@ -945,7 +946,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:66
 msgid "Mean grades (with error bars) in Anastasia’s and Bernadette’s classes"
-msgstr ""
+msgstr "Середні оцінки (з похибками) у класах Анастасії та Бернадетти"
 
 #: ../../Ch11/Ch11_tTest_03.rst:70
 msgid ""
@@ -1001,6 +1002,8 @@ msgstr "H\\ :sub:`1`: µ\\ :sub:`1` ≠ µ\\ :sub:`2`"
 #: ../../Ch11/Ch11_tTest_03.rst:112
 msgid "Illustration: Null and alternative hypotheses, indep. samples *t*-test"
 msgstr ""
+"Ілюстрація: Нульова та альтернативна гіпотези, *t*-тест для незалежних "
+"вибірок"
 
 #: ../../Ch11/Ch11_tTest_03.rst:116
 msgid ""
@@ -1043,7 +1046,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:147
 msgid "A “pooled estimate” of the standard deviation"
-msgstr ""
+msgstr "«Об’єднана оцінка» стандартного відхилення"
 
 #: ../../Ch11/Ch11_tTest_03.rst:149
 msgid ""
@@ -1255,7 +1258,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:274
 msgid "Conducting an Independent Samples *t*-test in jamovi"
-msgstr ""
+msgstr "Проведення *t*-тесту для незалежних вибірок в jamovi"
 
 #: ../../Ch11/Ch11_tTest_03.rst:278
 msgid ""
@@ -1349,7 +1352,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:353
 msgid "*t* = (mean 1 - mean 2) / SE"
-msgstr ""
+msgstr "*t* = (середнє значення 1 - середнє значення 2) / SE"
 
 #: ../../Ch11/Ch11_tTest_03.rst:355
 msgid ""
@@ -1498,6 +1501,7 @@ msgid ""
 "A more correct notation will be introduced in chapter :doc:`../Ch13/"
 "Ch13_ANOVA`."
 msgstr ""
+"Більш коректне позначення буде введено в розділі :doc:`../Ch13/Ch13_ANOVA`."
 
 #: ../../Ch11/Ch11_tTest_04.rst:4
 msgid "The independent samples *t*-test (Welch test)"
@@ -1524,7 +1528,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:24
 msgid "Illustration: Null and alternative hypotheses for the Welch *t*-test"
-msgstr ""
+msgstr "Ілюстрація: Нульова та альтернативна гіпотези для *t*-критерію Велча"
 
 #: ../../Ch11/Ch11_tTest_04.rst:28
 msgid ""
@@ -1587,7 +1591,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:66
 msgid "The degrees of freedom are, in fact"
-msgstr ""
+msgstr "Ступені свободи, фактично, є"
 
 #: ../../Ch11/Ch11_tTest_04.rst:68
 msgid ""
@@ -1623,6 +1627,8 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_04.rst:84
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
 msgstr ""
+"Результати, що показують тест Велча разом зі стандартним *t*-критерієм "
+"Стьюдента"
 
 #: ../../Ch11/Ch11_tTest_04.rst:88
 msgid ""
@@ -1899,6 +1905,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_05.rst:176 ../../Ch11/Ch11_tTest_05.rst:180
 msgid "Results showing a one sample *t*-test on paired difference scores"
 msgstr ""
+"Результати, що показують одновибірковий *t*-тест на парні різницеві бали"
 
 #: ../../Ch11/Ch11_tTest_05.rst:184
 msgid ""
@@ -1927,6 +1934,8 @@ msgid ""
 "Results showing a paired sample *t*-test. Compare it with :numref:`fig-"
 "ttest_paired2`."
 msgstr ""
+"Результати, що показують *t*-тест для парних вибірок. Порівняйте його з "
+":numref:`fig-ttest_paired2`."
 
 #: ../../Ch11/Ch11_tTest_05.rst:207
 msgid ""
@@ -1977,7 +1986,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:24
 msgid "jamovi results showing a ``One Sample T-Test``"
-msgstr ""
+msgstr "результати jamovi показують a ``One Sample T-Test``"
 
 #: ../../Ch11/Ch11_tTest_06.rst:28
 msgid ""
@@ -2022,7 +2031,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:63
 msgid "One-sided hypothesis in an ``Independent Samples T-Test``"
-msgstr ""
+msgstr "Одностороння гіпотеза в ``Independent Samples T-Test``"
 
 #: ../../Ch11/Ch11_tTest_06.rst:67
 msgid ""
@@ -2051,7 +2060,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_06.rst:89
 msgid "One-sided hypothesis in an ``Paired Samples T-Test``"
-msgstr ""
+msgstr "Одностороння гіпотеза в ``Paired Samples T-Test``"
 
 #: ../../Ch11/Ch11_tTest_06.rst:93
 msgid ""
@@ -2085,7 +2094,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:15
 msgid "d = (mean 1 - mean 2) / std. dev."
-msgstr ""
+msgstr "d = (середнє значення 1 - середнє значення 2) / стандартне відхилення."
 
 #: ../../Ch11/Ch11_tTest_07.rst:17
 msgid ""
@@ -2342,7 +2351,7 @@ msgstr "QQ ділянки"
 
 #: ../../Ch11/Ch11_tTest_08.rst:31
 msgid "Histogram and QQ plot for normally-distributed data"
-msgstr ""
+msgstr "Гістограма та QQ-графік для даних з нормальним розподілом"
 
 #: ../../Ch11/Ch11_tTest_08.rst:35
 msgid ""
@@ -2355,7 +2364,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:43
 msgid "Histogram and QQ plot for skewed and tailed data"
-msgstr ""
+msgstr "Гістограма та QQ-графік для асиметричних та хвостатих даних"
 
 #: ../../Ch11/Ch11_tTest_08.rst:47
 msgid ""
@@ -2455,7 +2464,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:120
 msgid "Sampling distribution of the Shapiro-Wilk W statistic"
-msgstr ""
+msgstr "Розподіл вибірки W-статистики Шапіро-Вілка"
 
 #: ../../Ch11/Ch11_tTest_08.rst:124
 msgid ""
@@ -2748,6 +2757,8 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_09.rst:112
 msgid "Results for one sample and paired sample Wilcoxon non-parametric tests"
 msgstr ""
+"Результати для одновибіркових та парних вибіркових непараметричних тестів "
+"Вілкоксона"
 
 #: ../../Ch11/Ch11_tTest_09.rst:116
 msgid ""
@@ -2794,7 +2805,7 @@ msgstr ""
 msgid ""
 ":doc:`Ch11_tTest_06` are perfectly legitimate as long as they are pre-"
 "planned."
-msgstr ""
+msgstr ":doc:`Ch11_tTest_06` цілком законні, якщо вони сплановані заздалегідь."
 
 #: ../../Ch11/Ch11_tTest_10.rst:24
 msgid ""
