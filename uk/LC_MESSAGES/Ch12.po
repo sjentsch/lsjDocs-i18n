@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:51
 msgid "Histograms for three variables from the |parenthood|_ data set"
-msgstr ""
+msgstr "Гістограми для трьох змінних з набору даних |parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:55
 msgid ""
@@ -209,7 +209,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:61
 msgid "The strength and direction of a relationship"
-msgstr ""
+msgstr "Сила та напрямок стосунків"
 
 #: ../../Ch12/Ch12_Regression_01.rst:63
 msgid ""
@@ -232,6 +232,7 @@ msgstr ""
 msgid ""
 "Scatterplots between ``dani.sleep`` and ``baby.sleep`` to ``dani.grump``"
 msgstr ""
+"Діаграми розсіювання між ``dani.sleep`` та ``baby.sleep`` до ``dani.grump``"
 
 #: ../../Ch12/Ch12_Regression_01.rst:84
 msgid ""
@@ -253,7 +254,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:101
 msgid "Scatterplots between baby.sleep to dani.grump and dani.sleep"
-msgstr ""
+msgstr "Діаграми розсіювання між baby.sleep та dani.grump, а також dani.sleep"
 
 #: ../../Ch12/Ch12_Regression_01.rst:105
 msgid ""
@@ -282,7 +283,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:126
 msgid "Effect of varying the strength and direction of a correlation"
-msgstr ""
+msgstr "Вплив зміни сили та напрямку кореляції"
 
 #: ../../Ch12/Ch12_Regression_01.rst:130
 msgid ""
@@ -381,7 +382,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:193
 msgid "jamovi screenshot with correlations in the |parenthood|_ data set"
-msgstr ""
+msgstr "Знімок екрана jamovi з кореляціями в наборі даних |parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:197
 msgid ""
@@ -595,7 +596,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:330
 msgid "relationship between hours worked and grade received"
-msgstr ""
+msgstr "зв'язок між відпрацьованими годинами та отриманою оцінкою"
 
 #: ../../Ch12/Ch12_Regression_01.rst:334
 msgid ""
@@ -758,7 +759,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_01.rst:413
 msgid "This is an oversimplification, but it’ll do for our purposes."
-msgstr ""
+msgstr "Це надмірне спрощення, але для наших цілей воно підійде."
 
 #: ../../Ch12/Ch12_Regression_02.rst:4
 msgid "Scatterplots"
@@ -802,6 +803,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:37 ../../Ch12/Ch12_Regression_02.rst:41
 msgid "Scatterplot created with the ``Correlation Matrix`` analysis in jamovi"
 msgstr ""
+"Діаграма розсіювання, створена за допомогою аналізу ``Correlation Matrix`` в "
+"jamovi"
 
 #: ../../Ch12/Ch12_Regression_02.rst:45
 msgid ""
@@ -818,6 +821,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:56 ../../Ch12/Ch12_Regression_02.rst:60
 msgid "Scatterplot cretaed with the ``scatr`` add-on module in jamovi"
 msgstr ""
+"Діаграма розсіювання, створена за допомогою додаткового модуля ``scatr`` в "
+"jamovi"
 
 #: ../../Ch12/Ch12_Regression_02.rst:65
 msgid "More elaborate options"
@@ -835,6 +840,8 @@ msgstr ""
 #: ../../Ch12/Ch12_Regression_02.rst:76
 msgid "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis"
 msgstr ""
+"Матриця діаграм розсіювання, створена за допомогою аналізу ``Correlation "
+"Matrix``"
 
 #: ../../Ch12/Ch12_Regression_02.rst:80
 msgid ""
@@ -875,7 +882,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:29
 msgid "Best and poor choice of regression line"
-msgstr ""
+msgstr "Найкращий та найгірший вибір лінії регресії"
 
 #: ../../Ch12/Ch12_Regression_03.rst:33
 msgid ""
@@ -1076,7 +1083,7 @@ msgstr "Лінійна регресія в jamovi"
 
 #: ../../Ch12/Ch12_Regression_04.rst:67 ../../Ch12/Ch12_Regression_04.rst:71
 msgid "jamovi screenshot showing a simple linear regression analysis"
-msgstr ""
+msgstr "Знімок екрана jamovi, що показує простий лінійний регресійний аналіз"
 
 #: ../../Ch12/Ch12_Regression_04.rst:75
 msgid ""
@@ -1249,7 +1256,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:77
 msgid "3D visualisation of a multiple regression model"
-msgstr ""
+msgstr "3D-візуалізація моделі множинної регресії"
 
 #: ../../Ch12/Ch12_Regression_05.rst:81
 msgid ""
@@ -1286,7 +1293,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:4
 msgid "Quantifying the fit of the regression model"
-msgstr ""
+msgstr "Кількісна оцінка відповідності регресійної моделі"
 
 #: ../../Ch12/Ch12_Regression_06.rst:6
 msgid ""
@@ -1747,7 +1754,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:145
 msgid "jamovi screenshot showing a multiple linear regression"
-msgstr ""
+msgstr "Знімок екрана jamovi, що показує множинну лінійну регресію"
 
 #: ../../Ch12/Ch12_Regression_07.rst:149
 msgid ""
@@ -1952,6 +1959,8 @@ msgid ""
 "Standardised coefficients, with 95\\% confidence intervals, for multiple "
 "linear regression"
 msgstr ""
+"Стандартизовані коефіцієнти з 95% довірчими інтервалами для множинної "
+"лінійної регресії"
 
 #: ../../Ch12/Ch12_Regression_09.rst:107
 msgid ""
@@ -2360,7 +2369,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:243 ../../Ch12/Ch12_Regression_11.rst:247
 msgid "jamovi output showing the table for the Cook’s distance statistics"
-msgstr ""
+msgstr "Вивід jamovi, що показує таблицю для статистики відстані Кука"
 
 #: ../../Ch12/Ch12_Regression_11.rst:251
 msgid ""
@@ -2407,7 +2416,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:285
 msgid "Quantiles according to the model against standardised residuals"
-msgstr ""
+msgstr "Квантилі згідно з моделлю відносно стандартизованих залишків"
 
 #: ../../Ch12/Ch12_Regression_11.rst:289
 msgid ""
@@ -2482,7 +2491,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:346
 msgid "The formula for the k-th VIF is:"
-msgstr ""
+msgstr "Формула для k-го VIF:"
 
 #: ../../Ch12/Ch12_Regression_11.rst:348
 msgid "VIF\\ :sub:`k` = 1 / (1 - *R*\\²\\ :sub:`(-k)`\\)"
@@ -2532,11 +2541,11 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:390 ../../Ch12/Ch12_Regression_11.rst:394
 msgid "Collinearity statistics for multiple regression, produced in jamovi"
-msgstr ""
+msgstr "Статистика колінеарності для множинної регресії, створена в jamovi"
 
 #: ../../Ch12/Ch12_Regression_11.rst:401
 msgid "Or have no hope, as the case may be."
-msgstr ""
+msgstr "Або не мати жодної надії, як би там не було."
 
 #: ../../Ch12/Ch12_Regression_11.rst:404
 msgid ""
@@ -2853,7 +2862,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_12.rst:219 ../../Ch12/Ch12_Regression_12.rst:223
 msgid "Model comparison in jamovi using the ``Model Builder`` option"
-msgstr ""
+msgstr "Порівняння моделей в jamovi за допомогою опції ``Model Builder``"
 
 #: ../../Ch12/Ch12_Regression_12.rst:227
 msgid ""
@@ -2940,6 +2949,8 @@ msgid ""
 ":doc:`Calculating confidence intervals for regression coefficients and "
 "standardised coefficients <Ch12_Regression_09>`"
 msgstr ""
+":doc:`Calculating confidence intervals for regression coefficients and "
+"standardised coefficients <Ch12_Regression_09>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:24
 msgid ""
