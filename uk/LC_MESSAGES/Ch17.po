@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 15:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch17/"
 "uk/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:4
 msgid "Statistical models missing from the book"
-msgstr ""
+msgstr "Статистичні моделі, відсутні в книзі"
 
 #: ../../Ch17/Ch17_Epilogue_2.rst:6
 msgid ""
@@ -376,7 +376,7 @@ msgstr ""
 
 #: ../../Ch17/Ch17_Epilogue_3.rst:4
 msgid "Other ways of doing inference"
-msgstr ""
+msgstr "Інші способи логічного висновку"
 
 #: ../../Ch17/Ch17_Epilogue_3.rst:6
 msgid ""
