@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -166,7 +166,7 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_1.rst:55
 msgid ""
 "All of the undergraduate psychology students at the University of Adelaide?"
-msgstr ""
+msgstr "Усі студенти-психологи в Університеті Аделаїди?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:58
 msgid "Undergraduate psychology students in general, anywhere in the world?"
@@ -193,6 +193,8 @@ msgid ""
 "Any biological organism with a sufficient degree of intelligence operating "
 "in a terrestrial environment?"
 msgstr ""
+"Будь-який біологічний організм з достатнім ступенем інтелекту, що діє в "
+"земному середовищі?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:71
 msgid "Any intelligent being?"
@@ -216,7 +218,7 @@ msgstr "Усі результати, поки Веллслі та Крокер �
 msgid ""
 "All outcomes if Wellesley and Croker had played the game for the rest of "
 "their lives?"
-msgstr ""
+msgstr "Якби Веллслі та Крокер грали в цю гру до кінця свого життя?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:85
 msgid ""
@@ -409,7 +411,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:261
 msgid "How much does it matter if you don’t have a simple random sample?"
-msgstr ""
+msgstr "Яке це має значення, якщо у вас немає простої випадкової вибірки?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:263
 msgid ""
@@ -514,7 +516,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:354
 msgid "Population distribution of IQ and two samples with N=100 and N=10,000"
-msgstr ""
+msgstr "Розподіл IQ у популяції та дві вибірки з N=100 та N=10 000"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:358
 msgid ""
@@ -733,7 +735,7 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_3.rst:59
 msgid ""
 "Ten replications of the IQ experiment, each with a sample size of *N* =5"
-msgstr ""
+msgstr "Десять повторень експерименту IQ, кожна з розміром вибірки *N* = 5"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:63
 msgid "Person 1"
@@ -1086,7 +1088,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:190
 msgid "Shape of the sampling distribution in dependence of the sample size"
-msgstr ""
+msgstr "Форма розподілу вибірки залежно від розміру вибірки"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:194
 msgid ""
@@ -1164,6 +1166,8 @@ msgid ""
 "The mean of the sampling distribution is the same as the mean of the "
 "population"
 msgstr ""
+"Середнє значення розподілу вибірки таке ж, як середнє значення генеральної "
+"сукупності"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:262
 msgid ""
@@ -1175,7 +1179,7 @@ msgstr ""
 msgid ""
 "The shape of the sampling distribution becomes normal as the sample size "
 "increases"
-msgstr ""
+msgstr "Форма розподілу вибірки стає нормальною зі збільшенням розміру вибірки"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:268
 msgid ""
@@ -1469,6 +1473,7 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_4.rst:166
 msgid "Sampling distrib. of the std. dev. for a “two IQ scores” experiment"
 msgstr ""
+"Розподіл вибірки стандартного відхилення для експерименту «два показники IQ»"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:170
 msgid ""
@@ -1604,7 +1609,7 @@ msgstr ""
 msgid ""
 "To finish this section off, here’s another couple of tables to help keep "
 "things clear."
-msgstr ""
+msgstr "На завершення цього розділу, ось ще кілька таблиць для наочності."
 
 #: ../../Ch08/Ch08_Estimation_4.rst:267
 msgid "*s*"
@@ -1793,7 +1798,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:58
 msgid "*X̄* − (1.96 × SEM) ≤ µ ≤ *X̄* + (1.96 × SEM)"
-msgstr ""
+msgstr "*X̄* − (1.96 × SEM) ≤ µ ≤ *X̄* + (1.96 × SEM)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:60
 msgid ""
