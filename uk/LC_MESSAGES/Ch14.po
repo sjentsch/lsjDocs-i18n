@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -751,6 +751,8 @@ msgid ""
 "Now that we have these formulas we can check them against the jamovi output "
 "from the earlier section."
 msgstr ""
+"Тепер, коли у нас є ці формули, ми можемо перевірити їх з виводом jamovi з "
+"попереднього розділу."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:434
 msgid ""
@@ -890,6 +892,8 @@ msgid ""
 "``SS_R`` and the formula ``VSUM(sq_res_T) - (VSUM(sq_res_A) + "
 "VSUM(sq_res_B))``."
 msgstr ""
+"Або ж ми можемо створити іншу обчислювану змінну з назвою ``SS_R`` та "
+"формулою ``VSUM(sq_res_T) - (VSUM(sq_res_A) + VSUM(sq_res_B))``."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:528
 msgid "What are our degrees of freedom?"
@@ -922,6 +926,8 @@ msgid ""
 "Using the degrees of freedom and the square sums we calculated above, we can "
 "calculate the following *F*-values for the factors A and B."
 msgstr ""
+"Використовуючи ступені свободи та квадратичні суми, які ми обчислили вище, "
+"ми можемо обчислити наступні *F*-значення для факторів A та B."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:552
 msgid ""
@@ -977,6 +983,9 @@ msgid ""
 "calculations described in the previous paragraphs can download and open the |"
 "clinicaltrial_factorialanova|_ data set and look at the calculations there."
 msgstr ""
+"Ті, хто не хоче пробувати самостійно або не може відтворити розрахунки, "
+"описані в попередніх параграфах, можуть завантажити та відкрити набір даних "
+"|clinicaltrial_factorialanova|_ і переглянути розрахунки там."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:571
 msgid "Factorial ANOVA versus one-way ANOVAs"
@@ -1131,6 +1140,9 @@ msgid ""
 "within the ANOVA (using ``Estimated Marginal Means``) for the |clinicaltrial|"
 "_ data set"
 msgstr ""
+"Знімок екрана jamovi, що показує, як створити описовий графік взаємодії в "
+"рамках дисперсійного аналізу (ANOVA) (використовуючи ``Estimated Marginal "
+"Means``) для набору даних |clinicaltrial|_"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:59
 msgid "What exactly is an interaction effect?"
@@ -1211,6 +1223,9 @@ msgid ""
 "predict perfectly by knowing all the marginal means. And that’s our null "
 "hypothesis, right there. The alternative hypothesis is that"
 msgstr ""
+"Тобто, немає нічого *особливого* в групі, що означає, що ви не могли б "
+"зробити точний прогноз, знаючи всі граничні середні значення. І це наша "
+"нульова гіпотеза. Альтернативна гіпотеза полягає в тому, що"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:116
 msgid "µ\\ :sub:`rc` ≠ µ\\ :sub:`..` + α\\ :sub:`r` + β\\ :sub:`c`"
@@ -1270,6 +1285,8 @@ msgid ""
 "Similarly, our estimate of the main effect of Factor B at level *c* can be "
 "defined as follows"
 msgstr ""
+"Аналогічно, нашу оцінку основного ефекту Фактора B на рівні *c* можна "
+"визначити наступним чином"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:149
 msgid ""
@@ -1319,6 +1336,9 @@ msgid ""
 "population means, we get the following as our estimate of the interaction "
 "effect for group rc, which is"
 msgstr ""
+"Отже, якщо ми знову підставимо наші вибіркові статистичні дані замість "
+"середніх значень генеральної сукупності, ми отримаємо наступну оцінку ефекту "
+"взаємодії для групи rc, яка буде"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:166
 msgid ""
@@ -1354,6 +1374,9 @@ msgid ""
 "*observations* accounted for by the interaction, not the variation among "
 "groups."
 msgstr ""
+"де ми множимо на *N*, оскільки в кожній з груп є *N* спостережень, і ми "
+"хочемо, щоб наші значення SS відображали варіацію між *спостереженнями*, що "
+"пояснюється взаємодією, а не варіацію між групами."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:179
 msgid ""
@@ -1379,6 +1402,8 @@ msgid ""
 "As a consequence, the residual sum of squares SS\\ :sub:`R` will be smaller "
 "than in our original ANOVA that didn’t include interactions."
 msgstr ""
+"Як наслідок, сума квадратів залишків SS\\ :sub:`R` буде меншою, ніж у нашому "
+"початковому дисперсійному аналізі (ANOVA), який не враховував взаємодії."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:193
 msgid "Degrees of freedom for the interaction"
@@ -1416,6 +1441,8 @@ msgid ""
 "which is just the product of the degrees of freedom associated with the row "
 "factor and the column factor."
 msgstr ""
+"що є просто добутком ступенів свободи, пов'язаних з коефіцієнтом рядка та "
+"коефіцієнтом стовпця."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:216
 msgid ""
@@ -1623,6 +1650,9 @@ msgid ""
 "let’s have a look at the effect sizes for the original ANOVA without the "
 "interaction term, from :numref:`fig-factorialanova3`:"
 msgstr ""
+"Щоб зрозуміти, що я маю на увазі, корисно побачити конкретний приклад. "
+"Спочатку давайте розглянемо розміри ефектів для оригінального дисперсійного "
+"аналізу (ANOVA) без члена взаємодії, з :numref:`fig-factorialanova3`:"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:65
 msgid ""
@@ -1690,6 +1720,9 @@ msgid ""
 "model, i.e. including the interaction component, with the |clinicaltrial|_ "
 "dataset"
 msgstr ""
+"Знімок екрана jamovi, що показує оцінені граничні середні значення для "
+"насиченої моделі, тобто включаючи компонент взаємодії, з набором даних "
+"|clinicaltrial|_"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:127
 msgid ""
@@ -1727,6 +1760,9 @@ msgid ""
 "model, i.e. without the interaction component, with the |clinicaltrial|_ "
 "dataset"
 msgstr ""
+"Знімок екрана jamovi, що показує оцінені граничні середні значення для "
+"ненасиченої моделі, тобто без компонента взаємодії, з набором даних "
+"|clinicaltrial|_"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:161
 msgid ""
@@ -1858,6 +1894,9 @@ msgid ""
 "distinct groups. This applies to both one-way and factorial designs, as "
 "ANCOVA can be used with both."
 msgstr ""
+"Зрозуміло, що необхідно ретельно продумати аналіз коваріації з різними "
+"групами. Це стосується як однофакторного, так і факторного планів, оскільки "
+"ANCOVA можна використовувати з обома."
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:47
 msgid "Running ANCOVA in jamovi"
@@ -1887,6 +1926,8 @@ msgid ""
 "Options panel showing the variable boxes to assign the ``Dependent "
 "Variable``, ``Fixed Factors`` and the ``Covariates`` for the ANCOVA in jamovi"
 msgstr ""
+"Панель параметрів, що показує поля змінних для призначення ``Dependent "
+"Variable``, ``Fixed Factors`` і ``Covariates`` для ANCOVA в jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:72
 msgid ""
@@ -1910,6 +1951,8 @@ msgid ""
 "jamovi ANCOVA output for happiness as a function of stress and commuting "
 "method, with age as a covariate"
 msgstr ""
+"Вихідний показник jamovi ANCOVA для щастя як функції стресу та способу "
+"доїзду на роботу, з віком як коваріатою"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:92
 msgid "Estimated Marginal means within the ANCOVA"
@@ -1921,6 +1964,9 @@ msgid ""
 "mean happiness level as a function of stress and commuting method (adjusted "
 "for the covariate age) with 95\\% confidence intervals"
 msgstr ""
+"Таблиця з оціненими граничними середніми значеннями в рамках ANCOVA: "
+"Показано середній рівень щастя як функцію стресу та способу добирання до "
+"роботи (з поправкою на коваріату віку) з 95 % довірчим інтервалом"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:102
 msgid ""
@@ -1958,6 +2004,8 @@ msgid ""
 "Plot with the Estimated Marginal means within the ANCOVA: Shown are the mean "
 "happiness level as a function of stress and commuting method"
 msgstr ""
+"Графік з оціненими граничними середніми значеннями в рамках ANCOVA: показано "
+"середній рівень щастя як функцію стресу та способу пересування на роботу"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:132
 msgid ""
@@ -2237,6 +2285,8 @@ msgid ""
 "ANOVA of the |rtfm|_ data set in jamovi: Model with two factors ``attend`` "
 "and ``reading`` but without the interaction term for these two factors"
 msgstr ""
+"ANOVA набору даних |rtfm|_ в jamovi: Модель з двома факторами ``attend`` та "
+"``reading``, але без члена взаємодії для цих двох факторів"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:160
 msgid ""
@@ -2447,6 +2497,9 @@ msgid ""
 "factors ``attend`` and ``reading`` but without the interaction term for "
 "these two factors"
 msgstr ""
+"Регресійний аналіз для набору даних |rtfm|_ в jamovi: Модель з двома "
+"факторами ``attend`` та ``reading``, але без члена взаємодії для цих двох "
+"факторів"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:267
 msgid ""
@@ -2616,6 +2669,9 @@ msgid ""
 "with the two main effects for ``drug`` and ``therapy`` but without an "
 "interaction component for these two factors"
 msgstr ""
+"Результати jamovi ANOVA для набору даних |clinicaltrial|_: Ненасичена модель "
+"з двома основними ефектами для ``ліків`` та ``терапії``, але без компонента "
+"взаємодії для цих двох факторів"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:391
 msgid ""
@@ -2624,6 +2680,10 @@ msgid ""
 "``drugjoyzepam`` and ``therapyCBT`` as the predictors. The results are shown "
 "in :numref:`fig-factorialanova10`."
 msgstr ""
+"Звісно, тут немає жодних сюрпризів. Це той самий дисперсійний аналіз (ANOVA)"
+", який ми проводили раніше. Далі давайте проведемо регресію, використовуючи "
+"``druganxifree``, ``drugjoyzepam`` і ``therapyCBT`` як предиктори. "
+"Результати показані в :numref:`fig-factorialanova10`."
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:398
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
@@ -2635,6 +2695,8 @@ msgid ""
 "jamovi regression results for the |clinicaltrial|_ data set: Model with the "
 "generated contrast variables ``druganxifree`` and ``drugjoyzepam``"
 msgstr ""
+"Результати регресії Jamovi для набору даних |clinicaltrial|_: Модель зі "
+"згенерованими контрастними змінними ``druganxifree`` і ``drugjoyzepam``"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:407
 msgid ""
@@ -2672,6 +2734,8 @@ msgid ""
 "Model comparison in jamovi regression: Null model (Model 1) vs. model using "
 "the generated contrast variables (Model 2)"
 msgstr ""
+"Порівняння моделей у регресії Джамові: нульова модель (Модель 1) проти "
+"моделі з використанням згенерованих змінних контрасту (Модель 2)"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:441
 msgid ""
@@ -2931,6 +2995,9 @@ msgid ""
 "in the main ANOVA analysis window, where the following contrast types are "
 "listed:"
 msgstr ""
+"jamovi також має різноманітні опції, які можуть генерувати різні види "
+"контрастів в ANOVA. Їх можна знайти в опції ``Contrasts`` (Контрасти) в "
+"головному вікні аналізу ANOVA, де перелічені такі типи контрастів:"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:145
 msgid "Contrast type"
@@ -2949,6 +3016,8 @@ msgid ""
 "Compares the mean of each level (except a reference category) to the mean of "
 "all of the levels (grand mean)."
 msgstr ""
+"Порівнює середнє значення кожного рівня (крім еталонної категорії) із "
+"середнім значенням усіх рівнів (загальне середнє)."
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:151
 msgid "**Simple**"
@@ -2972,6 +3041,8 @@ msgid ""
 "Compares the mean of each level (except the first) to the mean of previous "
 "levels. (Sometimes called reverse Helmert contrasts)."
 msgstr ""
+"Порівнює середнє значення кожного рівня (крім першого) із середнім значенням "
+"попередніх рівнів. (Іноді називається зворотним контрастом Гельмерта)."
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:163
 msgid "**Helmert**"
@@ -2982,6 +3053,8 @@ msgid ""
 "Compares the mean of each level of the factor (except the last) to the mean "
 "of subsequent levels."
 msgstr ""
+"Порівнює середнє значення кожного рівня фактора (крім останнього) із "
+"середнім значенням наступних рівнів."
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:166
 msgid "**Repeated**"
@@ -3006,6 +3079,10 @@ msgid ""
 "freedom, the quadratic effect. These contrasts are often used to estimate "
 "polynomial trends."
 msgstr ""
+"Порівнює лінійний ефект і квадратичний ефект. Перший ступінь свободи містить "
+"лінійний ефект у всіх категоріях; другий ступінь свободи — квадратичний "
+"ефект. Ці контрасти часто використовуються для оцінки поліноміальних "
+"тенденцій."
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:179
 msgid ""
@@ -3126,6 +3203,10 @@ msgid ""
 "model with the factors ``drug`` and ``therapy`` but without an interaction "
 "term (using the |clinicaltrial|_ data set)"
 msgstr ""
+"Панель опцій для налаштування пост-фактум тесту в рамках процедури "
+"факторного ANOVA jamovi (поточні налаштування вимагають статистики Tukey "
+"HSD): Ненасичена модель з факторами ``drug`` та ``therapy``, але без терміна "
+"взаємодії (з використанням набору даних |clinicaltrial|_)"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:80
 msgid ""
@@ -3160,12 +3241,18 @@ msgid ""
 "The difference in ``mood.gain`` for people given ``anxifree`` and treated "
 "with ``CBT``, versus people given the ``placebo`` and treated with ``CBT``"
 msgstr ""
+"Різниця в ``mood.gain`` для людей, даних ``anxifree`` та лікували за "
+"допомогою ``CBT``, порівняно з людьми, яким враховано ``placebo`` та "
+"лікували за допомогою ``CBT``"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:104
 msgid ""
 "The difference in ``mood.gain`` for people given ``anxifree`` and given ``no."
 "therapy``, versus people given the ``placebo`` and given ``no.therapy``."
 msgstr ""
+"Різниця в ``mood.gain`` для людей, даних ``anxifree`` і враховуючи "
+"``no.therapy``, порівняно з людьми, яким враховано ``placebo`` і враховуючи "
+"``no.therapy``."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:108
 msgid "etc."
@@ -3190,6 +3277,10 @@ msgid ""
 "procedure: Unsaturated model with the factors ``drug`` and ``therapy`` but "
 "without an interaction term (using the |clinicaltrial|_ data set)"
 msgstr ""
+"Таблиця результатів для post-hoc тесту Tukey HSD в рамках факторної "
+"процедури ANOVA за Jamovi: Ненасичена модель з факторами ``drug`` і "
+"``therapy`` але без члена взаємодії (використовуючи набір даних "
+"|clinicaltrial|_)"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:131
 msgid ""
@@ -3311,6 +3402,8 @@ msgid ""
 "The |coffee|_ data set in jamovi, showing descriptive statistics aggregated "
 "by the different levels of the factors ``sugar`` and ``milk``"
 msgstr ""
+"Набір даних |coffee|_ в jamovi, що показує описову статистику, агреговану за "
+"різними рівнями факторів ``sugar`` і ``milk``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:66
 msgid ""
@@ -3488,6 +3581,10 @@ msgid ""
 "_ data set and a saturated model with the factors ``sugar``, ``milk``, and "
 "their interaction; factor ``sugar`` is entered first)."
 msgstr ""
+"Таблиця результатів дисперсійного аналізу (ANOVA) з використанням суми "
+"квадратів типу 1 в jamovi (з набором даних |coffee|_ та насиченою моделлю з "
+"факторами ``sugar``, ``milk``, та їхня взаємодія; фактор ``sugar`` вводиться "
+"першим)."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:197
 msgid ""
@@ -3514,6 +3611,10 @@ msgid ""
 "_ data set and a saturated model with the factors ``milk``, ``sugar``, and "
 "their interaction; factor ``milk`` is entered first)."
 msgstr ""
+"Таблиця результатів дисперсійного аналізу (ANOVA) з використанням суми "
+"квадратів типу 1 в jamovi (з набором даних |coffee|_ та насиченою моделлю з "
+"факторами ``milk``, ``sugar``, та їхня взаємодія; фактор ``milk`` вводиться "
+"першим)."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:219
 msgid ""
@@ -3542,6 +3643,8 @@ msgid ""
 "The consequence of all this is that Type 1 tests are very rarely of much "
 "interest, and so we should move on to discuss Type 2 tests and Type 3 tests."
 msgstr ""
+"Наслідком усього цього є те, що тести типу 1 дуже рідко викликають великий "
+"інтерес, тому нам слід перейти до обговорення тестів типу 2 та типу 3."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:241
 msgid "Type 3 sum of squares"
@@ -3572,6 +3675,8 @@ msgid ""
 "Similarly the main effect of ``milk`` is evaluated by testing the full model "
 "against a null model that removes the ``milk`` term, like so:"
 msgstr ""
+"Аналогічно, основний ефект ``milk`` оцінюється шляхом тестування повної "
+"моделі на нульовій моделі, яка видаляє термін ``milk``, ось так:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:267
 msgid "``babble ~ sugar + sugar * milk``"
@@ -3583,6 +3688,9 @@ msgid ""
 "same way. Once again, we test the full model against a null model that "
 "removes the ``sugar * milk`` interaction term, like so:"
 msgstr ""
+"Зрештою, член взаємодії ``sugar * milk`` оцінюється точно так само. Знову ж "
+"таки, ми тестуємо повну модель на нульовій моделі, яка видаляє член "
+"взаємодії ``sugar * milk``, ось так:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:282
 msgid ""
@@ -3715,6 +3823,10 @@ msgid ""
 "first let’s take a look at the ANOVA results table using Type 3 sum of "
 "squares, see :numref:`fig-factorialanova18`."
 msgstr ""
+"Пізніше ми побачимо, що тести типу 3 можна використовувати в деяких "
+"контекстах, але спочатку давайте розглянемо таблицю результатів "
+"дисперсійного аналізу (ANOVA) з використанням суми квадратів типу 3, див. "
+":numref:`fig-factorialanova18`."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:355
 msgid "Results table using Type 3 sum of squares"
@@ -3726,6 +3838,9 @@ msgid ""
 "_ data set and a saturated model with the factors ``sugar``, ``milk``, and "
 "their interaction)."
 msgstr ""
+"Таблиця результатів дисперсійного аналізу (ANOVA) з використанням суми "
+"квадратів типу 3 в jamovi (з набором даних |coffee|_ та насиченою моделлю з "
+"факторами ``sugar``, ``milk``, та їхня взаємодія)."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:365
 msgid ""
@@ -3818,6 +3933,9 @@ msgid ""
 "Anyway, just to give you a sense of how the Type 2 tests play out, here’s "
 "the full table of tests that would be applied in a three-way factorial ANOVA:"
 msgstr ""
+"У будь-якому разі, щоб ви мали уявлення про те, як працюють тести 2-го типу, "
+"ось повна таблиця тестів, які можна застосувати в трифакторному факторному "
+"дисперсійному аналізі:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:441
 msgid "``B + C + B * C``"
@@ -3861,6 +3979,9 @@ msgid ""
 "data, the hypothesis tests are even simpler. The main effect of ``sugar`` "
 "corresponds to an *F*-test comparing these two models:"
 msgstr ""
+"У контексті двофакторного дисперсійного аналізу (ANOVA), який ми "
+"використовували для даних |coffee|_, перевірки гіпотез ще простіші. Основний "
+"ефект ``sugar`` відповідає *F*-тесту, що порівнює ці дві моделі:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:465
 msgid "``babble ~ milk``"
@@ -3881,6 +4002,9 @@ msgid ""
 "options, This gives us the ANOVA table shown in :numref:`fig-"
 "factorialanova19`."
 msgstr ""
+"Виконання тестів знову ж таки просте. Просто виберіть ``Type 2`` у ``Sum of "
+"squares`` поле вибору в jamovi ``ANOVA`` → ``Model`` варіанти, це дає нам "
+"таблицю ANOVA, показану на :numref:`fig-factorialanova19`."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:492
 msgid "Results table using Type 2 sum of squares"
@@ -3892,6 +4016,9 @@ msgid ""
 "_ data set and a saturated model with the factors ``sugar``, ``milk``, and "
 "their interaction)."
 msgstr ""
+"Таблиця результатів дисперсійного аналізу (ANOVA) з використанням суми "
+"квадратів типу 2 в jamovi (з набором даних |coffee|_ та насиченою моделлю з "
+"факторами ``sugar``, ``milk``, та їхня взаємодія)."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:502
 msgid ""
@@ -3920,6 +4047,9 @@ msgid ""
 "these options, as in :numref:`fig-factorialanova19`. However, when you’ve "
 "got an unbalanced design there’s a bit of extra complexity involved."
 msgstr ""
+"jamovi також надає розміри ефекту η² та часткові η², коли ви вибираєте ці "
+"опції, як у :numref:`fig-factorialanova19`. Однак, коли ви маєте "
+"незбалансований дизайн, це трохи ускладнює ситуацію."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:523
 msgid ""
@@ -4039,6 +4169,9 @@ msgid ""
 "regardless of the contrast selected, so jamovi is obviously doing something "
 "different!"
 msgstr ""
+"Однак, у jamovi результати дисперсійного аналізу суми квадратів типу 3 "
+"однакові незалежно від вибраного контрасту, тому jamovi, очевидно, робить "
+"щось інше!"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:622
 msgid ""
