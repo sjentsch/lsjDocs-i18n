@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -199,6 +199,8 @@ msgid ""
 "The theoretical distribution (solid line) from which the psychology student "
 "grades (bars) are supposed to have been generated."
 msgstr ""
+"Теоретичний розподіл (суцільна лінія), на основі якого нібито були "
+"сформовані оцінки студентів-психологів (стовпчики)."
 
 #: ../../Ch11/Ch11_tTest_01.rst:66
 msgid "Constructing the hypothesis test"
@@ -335,6 +337,8 @@ msgid ""
 "In other words, if the null hypothesis is true then the sampling "
 "distribution of the mean can be written as follows:"
 msgstr ""
+"Іншими словами, якщо нульова гіпотеза істинна, то розподіл вибірки "
+"середнього значення можна записати так:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:158
 msgid "*X̄* ~ Normal(µ\\ :sub:`0`, *SE(X̄)*)"
@@ -377,6 +381,9 @@ msgid ""
 "test statistic is that like all *z*-scores, it has a standard normal "
 "distribution:"
 msgstr ""
+"Цей *z*-оцінка є нашою тестовою статистикою. Перевага використання її як "
+"тестової статистики полягає в тому, що, як і всі *z*-оцінки, вона має "
+"стандартний нормальний розподіл:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:178
 msgid "*z*\\ :sub:`*X̄*` ~ Normal(0, 1)"
@@ -457,6 +464,8 @@ msgid ""
 "This, in turn, meant that researchers could calculate their *z*-statistic by "
 "hand and then look up the critical value in a text book."
 msgstr ""
+"Це, у свою чергу, означало, що дослідники могли розрахувати свою *z*-"
+"статистику вручну, а потім знайти критичне значення в підручнику."
 
 #: ../../Ch11/Ch11_tTest_01.rst:209
 msgid "Rejection regions for the two- and one-sided *z*-tests"
@@ -531,6 +540,9 @@ msgid ""
 "reasonable assumptions, while other tests do not. The test I’ve just "
 "described, the one sample *z*-test, makes three basic assumptions. These are:"
 msgstr ""
+"Як я вже говорив раніше, всі статистичні тести базуються на припущеннях. "
+"Деякі тести роблять обґрунтовані припущення, а інші — ні. Тест, який я щойно "
+"описав, одновибірковий *z*-тест, базується на трьох основних припущеннях. Це:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:274
 msgid ""
@@ -768,6 +780,8 @@ msgid ""
 "With that much jargon crammed into half a line, you know it must be really "
 "smart.\\ [#]_"
 msgstr ""
+"З такою кількістю жаргону, втиснутого в піврядка, знаєш, це має бути справді "
+"розумно.\\ [#]_"
 
 #: ../../Ch11/Ch11_tTest_02.rst:158
 msgid "Assumptions of the one sample *t*-test"
@@ -798,6 +812,10 @@ msgid ""
 "discussion about the *z*-test for specifics (section :ref:`Assumptions of "
 "the *z*-test <assumptions_z_test>`)."
 msgstr ""
+"*Незалежність*. Знову ж таки, ми маємо припустити, що спостереження в нашій "
+"вибірці генеруються незалежно одне від одного. Детальніше про це див. "
+"попереднє обговорення *z*-тесту (розділ :ref:`Припущення *z*-тесту "
+"<assumptions_z_test>`)."
 
 #: ../../Ch11/Ch11_tTest_02.rst:178
 msgid ""
@@ -805,6 +823,10 @@ msgid ""
 "consequence the one-sample *t*-test is pretty widely used in practice as a "
 "way of comparing a sample mean against a hypothesised population mean."
 msgstr ""
+"В цілому, ці два припущення не є надто необґрунтованими, і, як наслідок, "
+"одновибірковий *t*-тест досить широко використовується на практиці як спосіб "
+"порівняння середнього значення вибірки з гіпотетичним середнім значенням "
+"генеральної сукупності."
 
 #: ../../Ch11/Ch11_tTest_02.rst:186
 msgid ""
@@ -812,6 +834,9 @@ msgid ""
 "solution; the general solution to the problem was provided by Sir Ronald "
 "Fisher."
 msgstr ""
+"Ну, щось на кшталт того. Наскільки я розумію історію, Госсет запропонував "
+"лише часткове рішення; загальне рішення проблеми запропонував сер Рональд "
+"Фішер."
 
 #: ../../Ch11/Ch11_tTest_02.rst:191
 msgid ""
@@ -885,6 +910,9 @@ msgid ""
 "We can calculate means and standard deviations, using the ``Exploration`` → "
 "``Descriptives`` analysis, and here’s a nice little summary table:"
 msgstr ""
+"Ми можемо обчислити середні значення та стандартні відхилення, "
+"використовуючи ``Exploration`` → ``Descriptives`` аналіз, і ось гарна "
+"невелика зведена таблиця:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:40
 msgid "mean"
@@ -1089,6 +1117,9 @@ msgid ""
 "estimate of the variance by taking the weighted average of the two variance "
 "estimates, :math:`{\\hat\\sigma_1}^2` and :math:`{\\hat\\sigma_2}^2`"
 msgstr ""
+"Тепер, коли ми призначили ваги кожній вибірці, ми обчислюємо об'єднану "
+"оцінку дисперсії, взявши середньозважене значення двох оцінок дисперсії., "
+":math:`{\\hat\\sigma_1}^2` і :math:`{\\hat\\sigma_2}^2`"
 
 #: ../../Ch11/Ch11_tTest_03.rst:171
 msgid ""
@@ -1105,6 +1136,8 @@ msgid ""
 "Finally, we convert the pooled variance estimate to a pooled standard "
 "deviation estimate, by taking the square root."
 msgstr ""
+"Нарешті, ми перетворюємо об'єднану оцінку дисперсії на об'єднану оцінку "
+"стандартного відхилення, беручи квадратний корінь."
 
 #: ../../Ch11/Ch11_tTest_03.rst:176
 msgid ""
@@ -1216,6 +1249,8 @@ msgid ""
 "As long as the two variables really do have the same standard deviation, "
 "then our estimate for the standard error is"
 msgstr ""
+"Поки дві змінні дійсно мають однакове стандартне відхилення, наша оцінка "
+"стандартної помилки буде"
 
 #: ../../Ch11/Ch11_tTest_03.rst:244
 msgid ""
@@ -1306,6 +1341,8 @@ msgid ""
 "In any case, the difference between the two groups is significant (just "
 "barely), so we might write up the result using text like this:"
 msgstr ""
+"У будь-якому разі, різниця між двома групами є суттєвою (ледь-ледь), тому ми "
+"можемо записати результат, використовуючи такий текст:"
 
 #: ../../Ch11/Ch11_tTest_03.rst:306
 msgid ""
@@ -1431,6 +1468,9 @@ msgid ""
 "it is more sensible to use the negative form of the *t*-statistic. It just "
 "makes it read more cleanly."
 msgstr ""
+"Оскільки цього разу я говорю про одну групу, яка має «нижчі» бали, розумніше "
+"використовувати негативну форму *t*-статистики. Це просто робить її "
+"зрозумілішою."
 
 #: ../../Ch11/Ch11_tTest_03.rst:400
 msgid ""
@@ -1574,6 +1614,8 @@ msgid ""
 "But you can still estimate the standard error of the difference between "
 "sample means, it just ends up looking different"
 msgstr ""
+"Але ви все ще можете оцінити стандартну похибку різниці між середніми "
+"значеннями вибірки, просто вона виглядає по-іншому"
 
 #: ../../Ch11/Ch11_tTest_04.rst:52
 msgid ""
@@ -1636,6 +1678,8 @@ msgid ""
 "If you tick the check box for the ``Welch's`` test in the analysis we did "
 "above, then this is what it gives you :numref:`fig-ttest_welch`:"
 msgstr ""
+"Якщо ви поставите прапорець біля пункту «тест Велча» в аналізі, який ми "
+"виконали вище, то ось що він вам видасть: numref:`fig-ttest_welch`:"
 
 #: ../../Ch11/Ch11_tTest_04.rst:84
 msgid "Results showing the Welch test alongside the default Student’s *t*-test"
@@ -1958,6 +2002,9 @@ msgid ""
 "of course they have to be given that the paired samples *t*-test is just a "
 "one sample test under the hood."
 msgstr ""
+"Цифри ідентичні тим, що отримані з тесту однієї вибірки, що, звичайно, "
+"потрібно враховувати, враховуючи, що *t*-тест парних вибірок — це лише тест "
+"однієї вибірки «під капотом»."
 
 #: ../../Ch11/Ch11_tTest_05.rst:214
 msgid ""
@@ -1974,6 +2021,8 @@ msgid ""
 "At this point we have Drs Harpo, Chico and Zeppo. No prizes for guessing who "
 "Dr Groucho is."
 msgstr ""
+"На цьому етапі у нас є доктори Харпо, Чіко та Зеппо. Немає нічого складного "
+"в тому, хто такий доктор Граучо."
 
 #: ../../Ch11/Ch11_tTest_06.rst:4
 msgid "One-sided tests"
@@ -2008,6 +2057,8 @@ msgid ""
 "jamovi results showing a ``One Sample T-Test`` where the actual hypothesis "
 "is one-sided, i.e. that the true mean is greater than 67.5\\%."
 msgstr ""
+"Результати jamovi показують «T-тест для однієї вибірки», де фактична "
+"гіпотеза є односторонньою, тобто справжнє середнє значення перевищує 67,5%."
 
 #: ../../Ch11/Ch11_tTest_06.rst:33
 msgid ""
@@ -2054,6 +2105,9 @@ msgid ""
 "hypothesis is one-sided, i.e. that Anastasia’s students had higher grades "
 "than Bernadette’s."
 msgstr ""
+"Результати jamovi показують ``Independent Samples T-Test``, де фактична "
+"гіпотеза є односторонньою, тобто, що учні Анастасії мали вищі оцінки, ніж "
+"учні Бернадетт."
 
 #: ../../Ch11/Ch11_tTest_06.rst:73
 msgid ""
@@ -2061,6 +2115,9 @@ msgid ""
 "alternative hypothesis has changed, the *p*-value has changed, and it now "
 "reports a one-sided confidence interval rather than a two-sided one."
 msgstr ""
+"Знову ж таки, результат змінюється передбачуваним чином. Визначення "
+"альтернативної гіпотези змінилося, значення *p* змінилося, і тепер воно "
+"відображає односторонній довірчий інтервал, а не двосторонній."
 
 #: ../../Ch11/Ch11_tTest_06.rst:78
 msgid ""
@@ -2083,6 +2140,9 @@ msgid ""
 "hypothesis is one-sided, i.e. that ``grade_test2`` (``Measure 1``) is larger "
 "than ``grade_test1`` (``Measure 2``)."
 msgstr ""
+"Результати jamovi показують ``T-тест парних вибірок``, де фактична гіпотеза "
+"є односторонньою, тобто ``grade_test2`` (``Вимір 1``) більше, ніж "
+"``grade_test1`` (``Вимір 2``)."
 
 #: ../../Ch11/Ch11_tTest_06.rst:99
 msgid ""
@@ -2090,6 +2150,8 @@ msgid ""
 "changed, the *p*-value has changed, and the confidence interval is now one-"
 "sided."
 msgstr ""
+"Знову ж таки, результат змінюється передбачуваним чином. Гіпотеза змінилася, "
+"значення *p* змінилося, а довірчий інтервал тепер односторонній."
 
 #: ../../Ch11/Ch11_tTest_07.rst:4
 msgid "Effect size"
@@ -2133,6 +2195,9 @@ msgid ""
 "you’re running a *t*-test, and jamovi has an option to calculate the effect "
 "size for all the different flavours of *t*-test it provides."
 msgstr ""
+"Я підозрюю, що єдиний випадок, коли вам може знадобитися *d* Коена, — це "
+"коли ви проводите *t*-тест, а jamovi має опцію для обчислення розміру ефекту "
+"для всіх різних варіантів *t*-тесту, які він пропонує."
 
 #: ../../Ch11/Ch11_tTest_07.rst:34
 msgid ""
@@ -2308,6 +2373,10 @@ msgid ""
 "indicating that the time 2 grade scores are, on average, 1.45 standard "
 "deviations higher than the time 1 grade scores."
 msgstr ""
+"де :math:`\\hat{\\sigma}_D` є оцінкою стандартного відхилення різниць. У "
+":numref:`fig-ttest_paired3` *d* Коена = 1,45, що вказує на те, що оцінки за "
+"2-й період в середньому на 1,45 стандартних відхилення вищі за оцінки за 1-й "
+"період."
 
 #: ../../Ch11/Ch11_tTest_07.rst:140
 msgid ""
@@ -2331,6 +2400,8 @@ msgid ""
 "If you are interested, you can look at how this was done in the |chico2|_ "
 "dataset"
 msgstr ""
+"Якщо вам цікаво, ви можете подивитися, як це було зроблено, у наборі даних "
+"|chico2|_"
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
 msgid "Checking the normality of a sample"
@@ -2456,6 +2527,8 @@ msgid ""
 "where *X̄* is the mean of the observations, and the *a*\\ :sub:`i` values are "
 "an introductory text."
 msgstr ""
+"де *X̄* – це середнє значення спостережень, а значення *a*\\ :sub:`i` – це "
+"вступний текст."
 
 #: ../../Ch11/Ch11_tTest_08.rst:102
 msgid ""
@@ -2487,6 +2560,9 @@ msgid ""
 "hypothesis that the data are normally-distributed, for samples of size 10, "
 "20 and 50. Note that small values of W indicate departure from normality."
 msgstr ""
+"Розподіл вибірки статистики Шапіро-Уілка W, за нульовою гіпотезою, що дані "
+"мають нормальний розподіл, для вибірок розміром 10, 20 і 50. Зверніть увагу, "
+"що малі значення W вказують на відхилення від нормальності."
 
 #: ../../Ch11/Ch11_tTest_08.rst:130
 msgid ""
@@ -2538,6 +2614,9 @@ msgid ""
 "for the Shapiro-Wilk normality test statistic of W = 0.94, and *p*-value = "
 "9.481e-07. Clearly a significant effect!"
 msgstr ""
+"А коли ми запускаємо тест Шапіро-Уілка з ``afl.margins``, ми отримуємо "
+"значення для статистики нормальності тесту Шапіро-Уілка W = 0,94 та *p*-"
+"значення = 9,481e-07. Очевидно, що це значний ефект!"
 
 #: ../../Ch11/Ch11_tTest_08.rst:169
 msgid "This is a massive oversimplification."
@@ -2793,6 +2872,9 @@ msgid ""
 "from each other by a constant value. The version that I’ve described is the "
 "one that jamovi calculates."
 msgstr ""
+"Насправді, існують дві різні версії тестової статистики, які відрізняються "
+"одна від одної постійним значенням. Версія, яку я описав, — це та, яку "
+"обчислює jamovi."
 
 #: ../../Ch11/Ch11_tTest_10.rst:4
 msgid "Summary"
@@ -2803,6 +2885,9 @@ msgid ""
 "A :doc:`one sample *t*-test <Ch11_tTest_02>` is used to compare a single "
 "sample mean against a hypothesised value for the population mean."
 msgstr ""
+"Для порівняння середнього значення однієї вибірки з гіпотетичним значенням "
+"середнього значення генеральної сукупності використовується :doc:`t*-"
+"критерій <Ch11_tTest_02>`."
 
 #: ../../Ch11/Ch11_tTest_10.rst:9
 msgid ""
@@ -2841,9 +2926,13 @@ msgid ""
 "You can :doc:`check the normality of a sample <Ch11_tTest_08>` using QQ "
 "plots and the Shapiro-Wilk test."
 msgstr ""
+"Ви можете :doc:`перевірити нормальність вибірки <Ch11_tTest_08>` за "
+"допомогою QQ-діаграм та тесту Шапіро-Уілка."
 
 #: ../../Ch11/Ch11_tTest_10.rst:30
 msgid ""
 "If your data are non-normal, you can use :doc:`Mann-Whitney or Wilcoxon "
 "tests <Ch11_tTest_09>` instead of *t*-tests."
 msgstr ""
+"Якщо ваші дані не є нормальними, ви можете використовувати :doc:`тести Манна-"
+"Вітні або Вілкоксона <Ch11_tTest_09>` замість *t*-тестів."
