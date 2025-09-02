@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:02+0000\n"
+"PO-Revision-Date: 2025-09-02 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -596,7 +596,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:300
 msgid "It’s a leap of faith, I know, but let’s run with it okay?"
-msgstr ""
+msgstr "Це стрибок віри, я знаю, але давайте почнемо, гаразд?"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:303
 msgid ""
@@ -718,7 +718,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_2.rst:48
 msgid "Or, to write the same thing in terms of the equations above"
-msgstr ""
+msgstr "Або, якщо записати те саме через наведені вище рівняння"
 
 #: ../../Ch16/Ch16_Bayes_2.rst:50
 msgid ""
@@ -925,6 +925,8 @@ msgstr "Статистика, яка означає саме те, що ви д�
 msgid ""
 "*You keep using that word. I do not think it means what you think it means*"
 msgstr ""
+"*Ти продовжуєш використовувати це слово. Я не думаю, що воно означає те, що "
+"ти думаєш*"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:27
 msgid ""
