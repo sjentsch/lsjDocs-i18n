@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -153,6 +153,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_01.rst:33 ../../Ch13/Ch13_ANOVA_01.rst:37
 msgid "Descriptives for ``mood.gain``, and box plots by ``drug`` administered"
 msgstr ""
+"Описи для ``mood.gain``, та коробкові діаграми за допомогою ``drug`` введено"
 
 #: ../../Ch13/Ch13_ANOVA_01.rst:41
 msgid ""
@@ -231,7 +232,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:49
 msgid "Two formulas for the variance of *Y*"
-msgstr ""
+msgstr "Дві формули для дисперсії *Y*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:51
 msgid ""
@@ -563,7 +564,7 @@ msgstr "Ура."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:188
 msgid "Illustration of between and within groups variation"
-msgstr ""
+msgstr "Ілюстрація варіацій між групами та всередині груп"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:192
 msgid ""
@@ -595,7 +596,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:215
 msgid "From sums of squares to the *F*-test"
-msgstr ""
+msgstr "Від сум квадратів до *F*-тесту"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:217
 msgid ""
@@ -741,7 +742,7 @@ msgstr "|SS_w| = |f_SS_w|"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:296
 msgid "The model for the data and the meaning of *F*"
-msgstr ""
+msgstr "Модель для даних та значення *F*"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:298
 msgid ""
@@ -1352,7 +1353,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:613
 msgid "Sigh. So much work for one short sentence."
-msgstr ""
+msgstr "Зітхає. Стільки роботи для одного короткого речення."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:618
 msgid ""
@@ -1437,12 +1438,13 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:27
 msgid "``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
-msgstr ""
+msgstr "``ANOVA`` таблиця результатів для ``mood.gain`` від ``drug`` введено"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:31
 msgid ""
 "jamovi ``ANOVA`` results table for ``mood.gain`` by ``drug`` administered"
 msgstr ""
+"jamovi ``ANOVA`` таблиця результатів для ``mood.gain`` від ``drug`` введено"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:35
 msgid ""
@@ -1653,7 +1655,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:85 ../../Ch13/Ch13_ANOVA_05.rst:89
 msgid "Uncorrected pairwise *t*-tests as post-hoc comparisons in jamovi"
-msgstr ""
+msgstr "Нескориговані попарні *t*-тести як постфактумні порівняння в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:94
 msgid "Corrections for multiple testing"
@@ -2072,7 +2074,7 @@ msgstr "Z\\ :sub:`ik` = Y\\ :sub:`ik` - median\\ :sub:`k(Y)`"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:124
 msgid "where median\\ :sub:`k(Y)` is the median for group *k*."
-msgstr ""
+msgstr "де median\\ :sub:`k(Y)` — це медіана для групи *k*."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:127
 msgid "Running the Levene-test in jamovi"
@@ -2100,7 +2102,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:148 ../../Ch13/Ch13_ANOVA_06.rst:152
 msgid "``Levene test`` output for ``One-Way ANOVA`` in jamovi"
-msgstr ""
+msgstr "``Levene test`` вихід для ``One-Way ANOVA`` в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:157
 msgid "Removing the homogeneity of variance assumption"
@@ -2176,7 +2178,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:222 ../../Ch13/Ch13_ANOVA_06.rst:226
 msgid "QQ-plot produced from jamovi One-Way ANOVA options"
-msgstr ""
+msgstr "QQ-діаграма, отримана з варіантів однофакторного ANOVA аналізу jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:231
 msgid "Removing the normality assumption"
@@ -2222,7 +2224,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:256
 msgid "and let’s also calculate R̄, the grand mean rank"
-msgstr ""
+msgstr "а також обчислимо R̄, загальний середній ранг"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:258
 msgid ""
@@ -2411,7 +2413,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:355
 msgid "How to run the Kruskal-Wallis test in jamovi"
-msgstr ""
+msgstr "Як виконати тест Краскела-Уолліса в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:357
 msgid ""
@@ -2486,7 +2488,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:40
 msgid "Independent ANOVA:       SS\\ :sub:`error` = SS\\ :sub:`w`"
-msgstr ""
+msgstr "Незалежний ANOVA:       SS\\ :sub:`error` = SS\\ :sub:`w`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:41
 msgid ""
@@ -2520,7 +2522,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:60
 msgid "Number of attempts successfully completed on three experimental tasks."
-msgstr ""
+msgstr "Кількість успішно виконаних спроб у трьох експериментальних завданнях."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:64
 msgid "Participant"
@@ -2596,7 +2598,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
-msgstr ""
+msgstr "Діалогове вікно ANOVA з повторними вимірюваннями в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:124
 msgid ""
@@ -2615,6 +2617,8 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_07.rst:138 ../../Ch13/Ch13_ANOVA_07.rst:142
 msgid "One-way repeated measures ANOVA output: Mauchly’s Test of Sphericity"
 msgstr ""
+"Результат однофакторного повторного вимірювання ANOVA: тест Моклі на "
+"сферичність"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:146
 msgid ""
@@ -2648,11 +2652,15 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Вихідний результат ANOVA з повторними вимірюваннями: тести "
+"внутрішньосуб'єктних ефектів"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:170
 msgid ""
 "One-way repeated measures ANOVA output: Tests of Within-Subjects Effects"
 msgstr ""
+"Результат однофакторного повторного вимірювання ANOVA: тести "
+"внутрішньосуб'єктних ефектів"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:175
 msgid ""
@@ -2669,7 +2677,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:187 ../../Ch13/Ch13_ANOVA_07.rst:191
 msgid "Post-hoc tests in repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "Post-hoc тести з повторними вимірюваннями ANOVA в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:195
 msgid ""
@@ -2693,15 +2701,15 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:212 ../../Ch13/Ch13_ANOVA_07.rst:216
 msgid "One-way repeated measures ANOVA output: Descriptive Statistics"
-msgstr ""
+msgstr "Вихід однофакторного повторного вимірювання ANOVA: описова статистика"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:223
 msgid "(n - k): (number of subjects - number of groups)"
-msgstr ""
+msgstr "(n - k): (кількість суб'єктів - кількість груп)"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:4
 msgid "The Friedman non-parametric repeated measures ANOVA test"
-msgstr ""
+msgstr "Непараметричний тест Фрідмана з повторними вимірюваннями ANOVA"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:6
 msgid ""
@@ -2720,7 +2728,7 @@ msgstr "ordinal"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:15 ../../Ch13/Ch13_ANOVA_08.rst:19
 msgid "``Repeated Measures ANOVA (Non-parametric)`` dialogue box in jamovi"
-msgstr ""
+msgstr "``Repeated Measures ANOVA (Non-parametric)`` діалогове вікно в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_08.rst:23
 msgid ""
@@ -2756,7 +2764,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:4
 msgid "On the relationship between ANOVA and the Student *t*-test"
-msgstr ""
+msgstr "Про зв'язок між (ANOVA) та тестом Стьюдента *t*-test"
 
 #: ../../Ch13/Ch13_ANOVA_09.rst:6
 msgid ""
@@ -2800,13 +2808,15 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:15
 msgid "How to compute an :doc:`effect size <Ch13_ANOVA_04>` for an ANOVA."
-msgstr ""
+msgstr "Як обчислити :doc:`effect size <Ch13_ANOVA_04>` для ANOVA."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:17
 msgid ""
 ":doc:`Post-hoc analysis and corrections for multiple testing "
 "<Ch13_ANOVA_05>`."
 msgstr ""
+":doc:`Post-hoc analysis and corrections for multiple testing "
+"<Ch13_ANOVA_05>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:19
 msgid ""
