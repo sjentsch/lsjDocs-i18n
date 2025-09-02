@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:33 ../../Ch14/Ch14_ANOVA2_01.rst:37
 msgid "jamovi contingency table for ``drug`` by ``therapy``"
-msgstr ""
+msgstr "таблиця непередбачуваності jamovi для ``drug`` від ``therapy``"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:41
 msgid ""
@@ -390,7 +390,7 @@ msgstr "Альтернативна гіпотеза, H\\ :sub:`1`:"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:174
 msgid "at least one row mean is different."
-msgstr ""
+msgstr "принаймні одне середнє значення рядка відрізняється."
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:178
 msgid ""
@@ -423,7 +423,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:202
 msgid "column means are different, i.e., µ\\ :sub:`.1` ≠ µ\\ :sub:`.2`"
-msgstr ""
+msgstr "середні значення у стовпцях різні, тобто µ\\ :sub:`.1` ≠ µ\\ :sub:`.2`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:207
 msgid "Running the analysis in jamovi"
@@ -464,7 +464,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:237 ../../Ch14/Ch14_ANOVA2_01.rst:241
 msgid "jamovi One-way ANOVA of ``mood.gain`` by ``drug``"
-msgstr ""
+msgstr "Однофакторний ANOVA jamovi ``mood.gain`` від ``drug``"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:245
 msgid ""
@@ -591,7 +591,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:344
 msgid "How are the sum of squares calculated?"
-msgstr ""
+msgstr "Як обчислюються суми квадратів?"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:346
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:612
 msgid "Four different outcomes for a 2 × 2 ANOVA"
-msgstr ""
+msgstr "Чотири різні результати для 2 × 2 ANOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:616
 msgid ""
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:626
 msgid "What kinds of outcomes does this analysis capture?"
-msgstr ""
+msgstr "Які результати фіксує цей аналіз?"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:628
 msgid ""
@@ -1076,11 +1076,11 @@ msgstr "Якщо говорити прямо: «найменш нудний»."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:4
 msgid "Factorial ANOVA 2: balanced designs, interactions allowed"
-msgstr ""
+msgstr "Факторіальний ANOVA 2: збалансовані плани, дозволені взаємодії"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:8 ../../Ch14/Ch14_ANOVA2_02.rst:12
 msgid "Qualitatively different interactions for a 2 × 2 ANOVA"
-msgstr ""
+msgstr "Якісно різні взаємодії для 2 × 2 ANOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:16
 msgid ""
@@ -1235,7 +1235,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:131
 msgid "Calculating sums of squares for the interaction"
-msgstr ""
+msgstr "Обчислення сум квадратів для взаємодії"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:133
 msgid ""
@@ -1675,7 +1675,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:117
 msgid "Estimated marginal means for the saturated model"
-msgstr ""
+msgstr "Оцінені граничні середні значення для насиченої моделі"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:121
 msgid ""
@@ -1712,7 +1712,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:148
 msgid "Estimated marginal means for the unsaturated model"
-msgstr ""
+msgstr "Оцінені граничні середні значення для ненасиченої моделі"
 
 #: ../../Ch14/Ch14_ANOVA2_03.rst:152
 msgid ""
@@ -1841,7 +1841,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:34 ../../Ch14/Ch14_ANOVA2_06.rst:38
 msgid "Plot of Statistics anxiety against age for two distinct groups"
-msgstr ""
+msgstr "Графік статистичної тривожності залежно від віку для двох різних груп"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:42
 msgid ""
@@ -1941,6 +1941,8 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_06.rst:123
 msgid "Plot with the Estimated Marginal means within the ANCOVA"
 msgstr ""
+"Побудуйте графік з розрахунковими граничними середніми значеннями в межах "
+"ANCOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:127
 msgid ""
@@ -2180,7 +2182,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:115
 msgid "jamovi descriptives for the |rtfm|_ data set"
-msgstr ""
+msgstr "Описи jamovi для набору даних |rtfm|_"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
 msgid "jamovi descriptives for the |rtfm|_ dataset"
@@ -2188,7 +2190,7 @@ msgstr "Описи jamovi для набору даних |rtfm|_"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:124
 msgid "ANOVA with binary factors as a regression model"
-msgstr ""
+msgstr "ANOVA з бінарними факторами як регресійною моделлю"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:126
 msgid ""
@@ -2219,7 +2221,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:151
 msgid "ANOVA with two factors (only main effects, without their interaction)"
-msgstr ""
+msgstr "ANOVA з двома факторами (лише основні ефекти, без їхньої взаємодії)"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:155
 msgid ""
@@ -2428,7 +2430,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:257
 msgid "Regression analysis for the rtfm dataset, unsaturated"
-msgstr ""
+msgstr "Регресійний аналіз для набору даних rtfm, ненасичений"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:261
 msgid ""
@@ -2492,7 +2494,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:312
 msgid "How to encode non binary factors as contrasts"
-msgstr ""
+msgstr "Як кодувати небінарні фактори як контрасти"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:314
 msgid ""
@@ -2579,7 +2581,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:369
 msgid "The equivalence between ANOVA and regression for non-binary factors"
-msgstr ""
+msgstr "Еквівалентність між (ANOVA) та регресією для небінарних факторів"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:371
 msgid ""
@@ -2595,7 +2597,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:381
 msgid "ANOVA results for the |clinicaltrial| dataset: Unsaturated model"
-msgstr ""
+msgstr "Результати ANOVA для набору даних |clinicaltrial|: Ненасичена модель"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:385
 msgid ""
@@ -2652,7 +2654,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:432
 msgid "Model comparison: Null model 1 vs. contrasts model 2"
-msgstr ""
+msgstr "Порівняння моделей: Нульова модель 1 проти моделі контрастів 2"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:436
 msgid ""
@@ -3092,7 +3094,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:69
 msgid "Options panel to set up post hoc tests"
-msgstr ""
+msgstr "Панель параметрів для налаштування постфактумних тестів"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:73
 msgid ""
@@ -3157,7 +3159,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:118
 msgid "Results table for a Tukey HSD post-hoc test"
-msgstr ""
+msgstr "Таблиця результатів постфактумного тесту Tukey HSD"
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:122
 msgid ""
@@ -3279,7 +3281,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:57
 msgid "Descriptive statistics for the different levels of sugar and milk"
-msgstr ""
+msgstr "Описова статистика для різних рівнів цукру та молока"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:61
 msgid ""
@@ -3304,7 +3306,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:79
 msgid "“Standard ANOVA” does not exist for unbalanced designs"
-msgstr ""
+msgstr "“Стандартний ANOVA” не існує для незбалансованих конструкцій"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:81
 msgid ""
@@ -3689,7 +3691,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:355
 msgid "Results table using Type 3 sum of squares"
-msgstr ""
+msgstr "Таблиця результатів з використанням суми квадратів типу 3"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:359
 msgid ""
@@ -3839,11 +3841,11 @@ msgstr "``babble ~ milk``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:470
 msgid "The test for the main effect of ``milk`` is"
-msgstr ""
+msgstr "Тест на основний ефект ``milk`` полягає в"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:478
 msgid "Finally, the test for the interaction ``sugar * milk`` is:"
-msgstr ""
+msgstr "Зрештою, тест на взаємодію ``sugar * milk`` такий:"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:486
 msgid ""
@@ -3855,7 +3857,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:492
 msgid "Results table using Type 2 sum of squares"
-msgstr ""
+msgstr "Таблиця результатів з використанням суми типу 2"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:496
 msgid ""
@@ -3883,7 +3885,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:517
 msgid "Effect sizes (and non-additive sums of squares)"
-msgstr ""
+msgstr "Розміри ефектів (та неадитивні суми квадратів)"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:519
 msgid ""
@@ -4002,7 +4004,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:614
 msgid "Or, at the very least, rarely of interest."
-msgstr ""
+msgstr "Або, принаймні, рідко викликають інтерес."
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:617
 msgid ""
