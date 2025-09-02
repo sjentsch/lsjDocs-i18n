@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -157,6 +157,8 @@ msgid ""
 "and then calculate the mean in ``Exploration`` → ``Descriptives``. The mean "
 "value is 72.3."
 msgstr ""
+"а потім обчисліть середнє значення в ``Exploration`` → ``Descriptives``. "
+"Середнє значення становить 72,3."
 
 #: ../../Ch11/Ch11_tTest_01.rst:33
 msgid ""
@@ -239,6 +241,7 @@ msgstr "Оцінки з психології розподіляються за �
 #: ../../Ch11/Ch11_tTest_01.rst:89
 msgid "The true standard deviation of these scores σ is known to be 9.5."
 msgstr ""
+"Відомо, що справжнє стандартне відхилення цих показників σ становить 9,5."
 
 #: ../../Ch11/Ch11_tTest_01.rst:92
 msgid ""
@@ -464,6 +467,8 @@ msgid ""
 "Rejection regions for the two-sided *z*-test (left panel) and the one-sided "
 "*z*-test (right panel)"
 msgstr ""
+"Області відхилення для двостороннього *z*-тесту (ліва панель) та "
+"одностороннього *z*-тесту (права панель)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:219
 msgid "A worked example, by hand"
@@ -487,6 +492,8 @@ msgid ""
 "Next, let’s calculate the (true) standard error of the mean (easily done "
 "with a calculator):"
 msgstr ""
+"Далі, давайте обчислимо (справжню) стандартну похибку середнього значення ("
+"легко зробити за допомогою калькулятора):"
 
 #: ../../Ch11/Ch11_tTest_01.rst:240
 msgid "And finally, we calculate our *z*-score:"
@@ -1265,6 +1272,8 @@ msgid ""
 "Conducting an Independent Samples *t*-test in jamovi, with options for "
 "recommended outputs checked."
 msgstr ""
+"Проведення *t*-тесту незалежних вибірок в jamovi з перевіркою опцій "
+"рекомендованих виходів."
 
 #: ../../Ch11/Ch11_tTest_03.rst:283
 msgid ""
@@ -1396,6 +1405,8 @@ msgid ""
 "Anastasia’s class had higher grades than Bernadette’s class: *t*\\(31) = "
 "2.1, *p* = 0.04."
 msgstr ""
+"Клас Анастасії мав вищі оцінки, ніж клас Бернадетт.: *t*\\(31) = 2.1, *p* = "
+"0.04."
 
 #: ../../Ch11/Ch11_tTest_03.rst:387
 msgid ""
@@ -1411,6 +1422,8 @@ msgid ""
 "Bernadette’s class had lower grades than Anastasia’s class: *t*\\(31) = "
 "-2.1, *p* = 0.04."
 msgstr ""
+"Клас Бернадетт мав нижчі оцінки, ніж клас Анастасії: *t*\\(31) = -2.1, *p* = "
+"0.04."
 
 #: ../../Ch11/Ch11_tTest_03.rst:396
 msgid ""
@@ -1475,7 +1488,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:445
 msgid "Although it is the simplest, which is why I started with it."
-msgstr ""
+msgstr "Хоча він найпростіший, тому я з нього й почав."
 
 #: ../../Ch11/Ch11_tTest_03.rst:448
 msgid ""
@@ -1635,6 +1648,8 @@ msgid ""
 "Results showing the Welch test alongside the default Student’s *t*-test in "
 "jamovi"
 msgstr ""
+"Результати, що показують тест Велча разом зі стандартним *t* -тестом "
+"Стьюдента в jamovi"
 
 #: ../../Ch11/Ch11_tTest_04.rst:93
 msgid ""
@@ -1738,7 +1753,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:47 ../../Ch11/Ch11_tTest_05.rst:51
 msgid "Descriptives for the two grade test variables in the |chico|_ data set"
-msgstr ""
+msgstr "Описи двох змінних тесту для оцінювання в наборі даних |chico|_"
 
 #: ../../Ch11/Ch11_tTest_05.rst:55
 msgid ""
@@ -1756,7 +1771,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:69
 msgid "Mean grade for test 1 and test 2 in Dr Chico's class"
-msgstr ""
+msgstr "Середня оцінка за тест 1 та тест 2 у класі доктора Чіко"
 
 #: ../../Ch11/Ch11_tTest_05.rst:73
 msgid ""
@@ -2506,12 +2521,16 @@ msgid ""
 "QQ plot for the data (skewed) data in the ``afl.margins`` variable\n"
 "of the |aflsmall_margins| dataset"
 msgstr ""
+"Графік QQ для даних (скошених) у змінній ``afl.margins`` набору даних "
+"|aflsmall_margins|"
 
 #: ../../Ch11/Ch11_tTest_08.rst:157
 msgid ""
 "QQ plot for the (skewed) data in the ``afl.margins`` variable of the |"
 "aflsmall_margins|_ data set"
 msgstr ""
+"Графік QQ для (асимметричних) даних у змінній ``afl.margins`` набору даних "
+"|aflsmall_margins|_"
 
 #: ../../Ch11/Ch11_tTest_08.rst:162
 msgid ""
@@ -2765,6 +2784,8 @@ msgid ""
 "jamovi screen showing results for one sample and paired sample Wilcoxon non-"
 "parametric tests"
 msgstr ""
+"екран jamovi, що показує результати для одного зразка та парних зразків "
+"непараметричних тестів Вілкоксона"
 
 #: ../../Ch11/Ch11_tTest_09.rst:124
 msgid ""
@@ -2812,6 +2833,8 @@ msgid ""
 ":doc:`Ch11_tTest_07` calculations for the difference between means can be "
 "calculated via the Cohen’s *d*-statistic."
 msgstr ""
+":doc:`Ch11_tTest_07` обчислення різниці між середніми значеннями можна "
+"виконати за допомогою *d*-статистики Коена."
 
 #: ../../Ch11/Ch11_tTest_10.rst:27
 msgid ""
