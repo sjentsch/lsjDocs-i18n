@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_1.rst:14
 msgid "What are the chances of a fair coin coming up heads 10 times in a row?"
-msgstr ""
+msgstr "Яка ймовірність того, що чесний джекпот випаде орлом 10 разів поспіль?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:17
 msgid ""
@@ -1130,7 +1130,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_4.rst:128
 msgid "Binomial distribution: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
-msgstr ""
+msgstr "Біноміальний розподіл: θ = 1/2 and *N* = 20 (left) or *N* = 100 (right)"
 
 #: ../../Ch07/Ch07_Probability_4.rst:132
 msgid ""
@@ -1187,6 +1187,8 @@ msgstr ""
 #: ../../Ch07/Ch07_Probability_5.rst:28
 msgid "Normal distribution with mean μ = 0 and standard deviation σ = 1"
 msgstr ""
+"Нормальний розподіл із середнім значенням μ = 0 та стандартним відхиленням σ "
+"= 1"
 
 #: ../../Ch07/Ch07_Probability_5.rst:32
 msgid ""
@@ -1231,7 +1233,7 @@ msgstr "continuous"
 
 #: ../../Ch07/Ch07_Probability_5.rst:68
 msgid "Normal distribution: σ = 1 and µ = 4 (solid) or µ = 7 (dashed)"
-msgstr ""
+msgstr "Нормальний розподіл: σ = 1 і µ = 4 (суцільний) або µ = 7 (штриховий)"
 
 #: ../../Ch07/Ch07_Probability_5.rst:72
 msgid ""
@@ -1260,7 +1262,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_5.rst:95
 msgid "Normal distribution: µ = 5 and σ = 1 (solid) or σ = 2 (dashed)"
-msgstr ""
+msgstr "Нормальний розподіл: µ = 5 і σ = 1 (суцільний) або σ = 2 (штриховий)"
 
 #: ../../Ch07/Ch07_Probability_5.rst:99
 msgid ""
@@ -1306,6 +1308,8 @@ msgstr ""
 #: ../../Ch07/Ch07_Probability_5.rst:138
 msgid "Area under the curve for 1 SD bordering the mean and at the tails"
 msgstr ""
+"Площа під кривою для 1 стандартного відхилення на межі середнього значення "
+"та на хвостах"
 
 #: ../../Ch07/Ch07_Probability_5.rst:142
 msgid ""
@@ -1460,7 +1464,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:26
 msgid "*t*-distribution with *df* = 3 in comparison to a normal distribution"
-msgstr ""
+msgstr "*t*-розподіл з *df* = 3 у порівнянні з нормальним розподілом"
 
 #: ../../Ch07/Ch07_Probability_6.rst:30
 msgid ""
@@ -1568,6 +1572,9 @@ msgid ""
 "<Ch07_Probability_5>`, and :doc:`other useful distributions "
 "<Ch07_Probability_6>`"
 msgstr ""
+":doc:`Binomial distribution <Ch07_Probability_4>`, :doc:`normal distribution "
+"<Ch07_Probability_5>`, і :doc:`other useful distributions "
+"<Ch07_Probability_6>`"
 
 #: ../../Ch07/Ch07_Probability_7.rst:24
 msgid ""
