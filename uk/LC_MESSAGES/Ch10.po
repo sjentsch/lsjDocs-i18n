@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch10/"
 "uk/>\n"
@@ -358,6 +358,7 @@ msgstr ""
 msgid ""
 "H\\ :sub:`1`: At least one of the suit-choice probabilities *isn’t* 0.25"
 msgstr ""
+"H\\ :sub:`1`: Принаймні одна з ймовірностей вибору масті *не дорівнює* 0,25"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:139
 msgid "and the “mathematician friendly” version is:"
@@ -640,7 +641,7 @@ msgstr "Розподіл χ² з різними ступенями свобод�
 msgid ""
 "χ² (chi-square) distributions with different values for the “degrees of "
 "freedom”"
-msgstr ""
+msgstr "Розподіл χ² (хі-квадрат) з різними значеннями «ступенів свободи»"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:337
 msgid ""
@@ -701,6 +702,8 @@ msgid ""
 "Illustration of how the hypothesis testing works for the χ² (chi-square) "
 "goodness-of-fit test"
 msgstr ""
+"Ілюстрація того, як працює перевірка гіпотез для тесту на відповідність χ² "
+"(хі-квадрат)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:390
 msgid ""
@@ -1252,6 +1255,7 @@ msgid ""
 "Changing the expected proportions in the χ² One Sample Proportion Test in "
 "jamovi"
 msgstr ""
+"Зміна очікуваних пропорцій у тесті χ² One Sample Proportion Test в jamovi"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:516
 msgid "How to report the results of the test"
@@ -1452,7 +1456,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:671
 msgid "A vector is a sequence of data elements of the same basic type"
-msgstr ""
+msgstr "Вектор — це послідовність елементів даних одного базового типу"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:674
 msgid ""
@@ -1792,6 +1796,7 @@ msgstr ""
 msgid ""
 "*P*\\ :sub:`21` = *P*\\ :sub:`22` (same probability of saying “flower”), and"
 msgstr ""
+"*P*\\ :sub:`21` = *P*\\ :sub:`22` (однакова ймовірність сказати «квітка»), та"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:120
 msgid "*P*\\ :sub:`31` = *P*\\ :sub:`32` (same probability of saying “data”)."
@@ -1994,7 +1999,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:264
 msgid "This output gives us enough information to write up the result:"
-msgstr ""
+msgstr "Цей вивід дає нам достатньо інформації, щоб записати результат:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:266
 msgid ""
@@ -2096,6 +2101,8 @@ msgid ""
 ":ref:`Yates (1934) <Yates_1934>` suggested a simple fix, in which you "
 "redefine the goodness-of-fit statistic as:"
 msgstr ""
+":ref:`Yates (1934) <Yates_1934>` запропонував просте виправлення, в якому ви "
+"перевизначаєте статистику відповідності як:"
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:28
 msgid ""
@@ -2369,12 +2376,16 @@ msgid ""
 "``Fisher's exact test`` output in jamovi. Ignore the ``Value`` and just "
 "refer to the *p*-value"
 msgstr ""
+"``Fisher's exact test`` вивід у jamovi. Ігноруйте ``Value`` та просто "
+"звертайтеся до *p*-значення"
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:97
 msgid ""
 "This example is based on a joke article published in the *Journal of "
 "Irreproducible Results*."
 msgstr ""
+"Цей приклад базується на жартівливій статті, опублікованій у *Журналі "
+"невідтворюваних результатів*."
 
 #: ../../Ch10/Ch10_ChiSquare_6.rst:101
 msgid ""
@@ -2557,6 +2568,8 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_7.rst:89
 msgid "or, to revert to the notation that we used earlier in this chapter:"
 msgstr ""
+"або, повертаючись до позначень, які ми використовували раніше в цьому "
+"розділі:"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:91
 msgid ""
