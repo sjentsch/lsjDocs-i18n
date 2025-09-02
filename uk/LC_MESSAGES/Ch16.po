@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:02+0000\n"
+"PO-Revision-Date: 2025-09-02 10:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -231,7 +231,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:87
 msgid "The joint probability of data and hypothesis"
-msgstr ""
+msgstr "Спільна ймовірність даних та гіпотези"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:89
 msgid ""
@@ -919,7 +919,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:20
 msgid "Statistics that mean what you think they mean"
-msgstr ""
+msgstr "Статистика, яка означає саме те, що ви думаєте"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
@@ -931,6 +931,8 @@ msgid ""
 "`Inigo Montoya, The Princess Bride <https://www.imdb.com/title/tt0093779/"
 "quotes>`__\\ [#]_"
 msgstr ""
+"`Ініго Монтойя, «Принцеса-наречена» <https://www.imdb.com/title/tt0093779/"
+"quotes>`__\\ [#]_"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:30
 msgid ""
@@ -1107,7 +1109,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:175
 msgid "What should you do? Here are some possibilities:"
-msgstr ""
+msgstr "Що вам слід зробити? Ось кілька можливостей:"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:177
 msgid ""
@@ -1122,7 +1124,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:183
 msgid "You give up and try a new study"
-msgstr ""
+msgstr "Ви здаєтеся та пробуєте нове навчання"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:185
 msgid ""
@@ -1234,7 +1236,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:257
 msgid "Stop the experiment and reject the null"
-msgstr ""
+msgstr "Зупинити експеримент та відхилити нульове значення"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "*p* between 0.05 and 0.1"
@@ -1250,7 +1252,7 @@ msgstr "*p* більше ніж 0.1"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:261
 msgid "Stop the experiment and retain the null"
-msgstr ""
+msgstr "Зупинити експеримент та зберегти нульове значення"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:264
 msgid ""
@@ -1293,7 +1295,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:301
 msgid "Effect of re-running your tests every time new data arrive"
-msgstr ""
+msgstr "Вплив повторного запуску тестів щоразу, коли надходять нові дані"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:305
 msgid ""
@@ -1412,7 +1414,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*Good laws have their origins in bad morals.*"
-msgstr ""
+msgstr "*Добрі закони беруть свій початок у поганій моралі.*"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:405
 msgid "`Ambrosius Macrobius <https://www.quotes.net/quote/20857>`__"
@@ -1526,7 +1528,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:46 ../../Ch16/Ch16_Bayes_5.rst:50
 msgid "``Bayes Factor`` analysis alongside ``Independent Samples T-Test``"
-msgstr ""
+msgstr "``Bayes Factor`` аналіз поряд ``Independent Samples T-Test``"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:54
 msgid ""
@@ -1559,7 +1561,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:78 ../../Ch16/Ch16_Bayes_5.rst:82
 msgid "``Paired Samples T-Test`` and ``Bayes Factor`` result in jamovi"
-msgstr ""
+msgstr "``Paired Samples T-Test`` і ``Bayes Factor`` призводити до jamovi"
 
 #: ../../Ch16/Ch16_Bayes_8.rst:4
 msgid "Summary"
