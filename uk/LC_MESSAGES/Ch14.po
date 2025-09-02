@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -162,7 +162,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:52
 msgid "What hypotheses are we testing?"
-msgstr ""
+msgstr "Які гіпотези ми перевіряємо?"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:54
 msgid ""
@@ -427,7 +427,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:207
 msgid "Running the analysis in jamovi"
-msgstr ""
+msgstr "Виконання аналізу в jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:209
 msgid ""
@@ -888,7 +888,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:528
 msgid "What are our degrees of freedom?"
-msgstr ""
+msgstr "Які наші ступені свободи?"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:530
 msgid ""
@@ -976,6 +976,8 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:571
 msgid "Factorial ANOVA versus one-way ANOVAs"
 msgstr ""
+"Факторіальний дисперсійний аналіз (ANOVA) проти однофакторного дисперсійного "
+"аналізу (ANOVA)"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:573
 msgid ""
@@ -1070,7 +1072,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:655
 msgid "To put it bluntly: “least tedious”."
-msgstr ""
+msgstr "Якщо говорити прямо: «найменш нудний»."
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:4
 msgid "Factorial ANOVA 2: balanced designs, interactions allowed"
@@ -1116,7 +1118,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:48
 msgid "Descriptive interaction plot in jamovi"
-msgstr ""
+msgstr "Описовий сюжет взаємодії в jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:52
 msgid ""
@@ -1127,7 +1129,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:59
 msgid "What exactly is an interaction effect?"
-msgstr ""
+msgstr "Що ж саме являє собою ефект взаємодії?"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:61
 msgid ""
@@ -1375,7 +1377,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:193
 msgid "Degrees of freedom for the interaction"
-msgstr ""
+msgstr "Ступені свободи для взаємодії"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:195
 msgid ""
@@ -1422,7 +1424,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:225
 msgid "Running the ANOVA in jamovi"
-msgstr ""
+msgstr "Запуск дисперсійного аналізу (ANOVA) в jamovi"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:227
 msgid ""
@@ -1437,7 +1439,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:238
 msgid "Results for the full factorial model"
-msgstr ""
+msgstr "Результати для повної факторіальної моделі"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:242
 msgid ""
@@ -1783,7 +1785,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:44 ../../Ch14/Ch14_ANOVA2_04.rst:48
 msgid "Checking assumptions in an ANOVA model"
-msgstr ""
+msgstr "Перевірка припущень у моделі ANOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:53
 msgid "Normality of residuals"
@@ -1869,7 +1871,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:62
 msgid "The jamovi ANCOVA options panel"
-msgstr ""
+msgstr "Панель опцій jamovi ANCOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:66
 msgid ""
@@ -1902,7 +1904,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:92
 msgid "Estimated Marginal means within the ANCOVA"
-msgstr ""
+msgstr "Очікувані граничні значення в межах ANCOVA"
 
 #: ../../Ch14/Ch14_ANOVA2_06.rst:96
 msgid ""
@@ -1961,7 +1963,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:4
 msgid "ANOVA as a linear model"
-msgstr ""
+msgstr "ANOVA як лінійна модель"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:6
 msgid ""
@@ -2182,7 +2184,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:119
 msgid "jamovi descriptives for the |rtfm|_ dataset"
-msgstr ""
+msgstr "Описи jamovi для набору даних |rtfm|_"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:124
 msgid "ANOVA with binary factors as a regression model"
@@ -2613,6 +2615,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_07.rst:398
 msgid "Regression: clinicaltrial dataset, generated contrast-variables"
 msgstr ""
+"Регресія: набір даних клінічних випробувань, згенеровані контрастні змінні"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:402
 msgid ""
@@ -2684,7 +2687,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:462
 msgid "Regression analysis with factors and contrasts"
-msgstr ""
+msgstr "Регресійний аналіз з факторами та контрастами"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:466
 msgid ""
@@ -2706,7 +2709,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:481
 msgid "Degrees of freedom as parameter counting!"
-msgstr ""
+msgstr "Ступені свободи як підрахунок параметрів!"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:483
 msgid ""
@@ -2773,7 +2776,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:4
 msgid "Different ways to specify contrasts"
-msgstr ""
+msgstr "Різні способи позначення контрастів"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:6
 msgid ""
@@ -2920,7 +2923,7 @@ msgstr "Тип контрасту"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:145
 msgid "What does the contrast compare?"
-msgstr ""
+msgstr "Що порівнює контраст?"
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:147
 msgid "**Deviation**"
@@ -3175,7 +3178,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_10.rst:4
 msgid "The method of planned comparisons"
-msgstr ""
+msgstr "Метод планових порівнянь"
 
 #: ../../Ch14/Ch14_ANOVA2_10.rst:6
 msgid ""
@@ -3214,7 +3217,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:4
 msgid "Factorial ANOVA 3: unbalanced designs"
-msgstr ""
+msgstr "Факторіальний ANOVA аналіз 3: незбалансовані плани"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:6
 msgid ""
@@ -3345,7 +3348,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:117
 msgid "Type 1 sum of squares"
-msgstr ""
+msgstr "Сума квадратів типу 1"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:119
 msgid ""
@@ -3513,7 +3516,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:241
 msgid "Type 3 sum of squares"
-msgstr ""
+msgstr "Сума квадратів типу 3"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:243
 msgid ""
@@ -3567,11 +3570,11 @@ msgstr "Термін, що тестується, це"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:438
 msgid "Null model is ``outcome ~ …``"
-msgstr ""
+msgstr "Нульова модель — це ``outcome ~ …``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:290 ../../Ch14/Ch14_ANOVA2_11.rst:438
 msgid "Alternative model is ``outcome ~ …``"
-msgstr ""
+msgstr "Альтернативна модель — ``outcome ~ …``"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:293 ../../Ch14/Ch14_ANOVA2_11.rst:441
 msgid "``A``"
@@ -3719,7 +3722,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:382
 msgid "Type 2 sum of squares"
-msgstr ""
+msgstr "Сума квадратів типу 2"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:384
 msgid ""
@@ -4054,7 +4057,7 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:12
 msgid ":doc:`Checking assumptions in the ANOVA <Ch14_ANOVA2_04>`"
-msgstr ""
+msgstr ":doc:`Checking assumptions in the ANOVA <Ch14_ANOVA2_04>`"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:14
 msgid ":doc:`Ch14_ANOVA2_06`"
@@ -4074,4 +4077,4 @@ msgstr ""
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <Ch14_ANOVA2_11>`"
-msgstr ""
+msgstr ":doc:`Factorial ANOVA with unbalanced designs <Ch14_ANOVA2_11>`"
