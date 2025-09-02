@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:58
 msgid "Undergraduate psychology students in general, anywhere in the world?"
-msgstr ""
+msgstr "Студенти-психологи загалом, де завгодно у світі?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:60
 msgid "Australians currently living?"
@@ -210,7 +210,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:80
 msgid "All outcomes until Wellesley and Croker arrived at their destination?"
-msgstr ""
+msgstr "Усі результати, поки Веллслі та Крокер не прибули до місця призначення?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:82
 msgid ""
@@ -232,7 +232,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:92
 msgid "Again, it’s not obvious what the population is."
-msgstr ""
+msgstr "Знову ж таки, незрозуміло, яка чисельність населення."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:95
 msgid "Simple random samples"
@@ -276,7 +276,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:129 ../../Ch08/Ch08_Estimation_1.rst:133
 msgid "Simple random sampling WITHOUT replacement from a finite population"
-msgstr ""
+msgstr "Проста випадкова вибірка БЕЗ заміни з кінцевої генеральної сукупності"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:137
 msgid ""
@@ -295,7 +295,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:151 ../../Ch08/Ch08_Estimation_1.rst:155
 msgid "Biased sampling WITHOUT replacement from a finite population"
-msgstr ""
+msgstr "Упереджена вибірка БЕЗ заміни з обмеженої сукупності"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:159
 msgid ""
@@ -313,7 +313,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:171 ../../Ch08/Ch08_Estimation_1.rst:175
 msgid "Simple random sampling WITH replacement from a finite population"
-msgstr ""
+msgstr "Проста випадкова вибірка з заміною зі скінченної генеральної сукупності"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:179
 msgid ""
@@ -601,7 +601,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_2.rst:30 ../../Ch08/Ch08_Estimation_2.rst:34
 msgid "Random sample drawn from a normal distribution using jamovi"
-msgstr ""
+msgstr "Випадкова вибірка, отримана з нормального розподілу за допомогою jamovi"
 
 #: ../../Ch08/Ch08_Estimation_2.rst:38
 msgid ""
@@ -1001,6 +1001,7 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_3.rst:109
 msgid "Sampling distribution: Mean for the “five IQ scores experiment”"
 msgstr ""
+"Розподіл вибірки: середнє значення для «експерименту з п'ятьма балами IQ»"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:113
 msgid ""
@@ -1048,7 +1049,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:153
 msgid "Sampling distribution: Maximum for the “five IQ scores experiment”"
-msgstr ""
+msgstr "Розподіл вибірки: Максимальний для «експерименту з п'ятьма балами IQ»"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:157
 msgid ""
@@ -1353,6 +1354,7 @@ msgstr "Оцінка до середнього значення популяці
 #: ../../Ch08/Ch08_Estimation_4.rst:78
 msgid "Yes, identical to the sample mean in simple random samples"
 msgstr ""
+"Так, ідентично вибірковому середньому значенню у простих випадкових вибірках"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:82
 msgid "Estimating the population standard deviation"
@@ -1501,6 +1503,8 @@ msgstr ""
 #: ../../Ch08/Ch08_Estimation_4.rst:198
 msgid "Sample size: Mean (un-biased) and standard deviation (biased)"
 msgstr ""
+"Розмір вибірки: середнє значення (неупереджене) та стандартне відхилення "
+"(упереджене)"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:202
 msgid ""
@@ -1628,7 +1632,7 @@ msgstr "Оцінка до стандартного відхилення гене
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Yes, but not the same as the sample standard deviation"
-msgstr ""
+msgstr "Так, але не те саме, що стандартне відхилення вибірки"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "*s*\\²"
@@ -1656,7 +1660,7 @@ msgstr "Оцінка дисперсії популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Yes, but not the same as the sample variance"
-msgstr ""
+msgstr "Так, але не те саме, що й дисперсія вибірки"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:291
 msgid ""
@@ -1717,7 +1721,7 @@ msgstr "Оцінка довірчого інтервалу"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:0
 msgid "*Statistics means never having to say you’re certain*"
-msgstr ""
+msgstr "*Статистика означає, що ніколи не потрібно казати, що ти впевнений*"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:10
 msgid "Unknown origin\\ [#]_"
@@ -1900,7 +1904,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:138
 msgid "Confidence intervals for IQ-samples with N=10 (top) and N=25 (bottom)"
-msgstr ""
+msgstr "Довірчі інтервали для IQ-вибірок з N=10 (зверху) та N=25 (знизу)"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:142
 msgid ""
@@ -1994,12 +1998,16 @@ msgid ""
 ":doc:`Basic ideas about samples, sampling and populations "
 "<Ch08_Estimation_1>`"
 msgstr ""
+":doc:`Basic ideas about samples, sampling and populations "
+"<Ch08_Estimation_1>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:14
 msgid ""
 ":doc:`Statistical theory of sampling: the law of large numbers "
 "<Ch08_Estimation_2>`"
 msgstr ""
+":doc:`Statistical theory of sampling: the law of large numbers "
+"<Ch08_Estimation_2>`"
 
 #: ../../Ch08/Ch08_Estimation_6.rst:17
 msgid ":doc:`Ch08_Estimation_3`"
