@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -695,18 +695,22 @@ msgstr ""
 msgid ""
 "*X* should be very big or very small in order to reject the null hypothesis."
 msgstr ""
+"*X* має бути дуже великим або дуже малим, щоб відхилити нульову гіпотезу."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:30
 msgid ""
 "If the null hypothesis is true, the sampling distribution of *X* is "
 "Binomial(0.5, N)."
 msgstr ""
+"Якщо нульова гіпотеза істинна, розподіл вибірки *X* є біноміальним (0,5, N)."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:33
 msgid ""
 "If α = 0.05, the critical region must cover 5\\% of this sampling "
 "distribution."
 msgstr ""
+"Якщо α = 0,05, критична область повинна охоплювати 5% цього розподілу "
+"вибірки."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:36
 msgid ""
@@ -780,6 +784,8 @@ msgid ""
 "(4) calculate the critical region that produces an appropriate α level (0-40 "
 "and 60-100)."
 msgstr ""
+"(4) обчислити критичну область, яка створює відповідний рівень α (0-40 та "
+"60-100)."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:93
 msgid ""
@@ -1086,6 +1092,8 @@ msgid ""
 "That’s *p* = 0.000000000000000000000000136 for folks that don’t like "
 "scientific notation!"
 msgstr ""
+"Це *p* = 0.0000000000000000000000000136 для тих, хто не любить наукову "
+"нотацію!"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:4
 msgid "Reporting the results of a hypothesis test"
