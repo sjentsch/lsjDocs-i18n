@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:01+0000\n"
+"PO-Revision-Date: 2025-09-02 10:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:46
 msgid "Sampling distribution when the null hypothesis is true"
-msgstr ""
+msgstr "Розподіл вибірки, коли нульова гіпотеза істинна"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:50
 msgid ""
@@ -756,11 +756,11 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:78
 msgid "At this point, our hypothesis test is essentially complete:"
-msgstr ""
+msgstr "На цьому етапі перевірка нашої гіпотези фактично завершена:"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:80
 msgid "we choose an α level (e.g., α = 0.05;"
-msgstr ""
+msgstr "ми вибираємо рівень α (наприклад, α = 0.05;"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:82
 msgid ""
@@ -1379,7 +1379,7 @@ msgstr "Функція степеня"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:23
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.55"
-msgstr ""
+msgstr "Розподіл вибірки за альтернативної гіпотези, θ = 0.55"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:27
 msgid ""
@@ -1423,7 +1423,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:64
 msgid "Sampling distribution under the alternative hypothesis, θ = 0.70"
-msgstr ""
+msgstr "Розподіл вибірки за альтернативної гіпотези, θ = 0.70"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:68
 msgid ""
@@ -1448,7 +1448,7 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:87
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:224
 msgid "Probability to reject the null hypothesis as function of θ"
-msgstr ""
+msgstr "Ймовірність відхилення нульової гіпотези як функція θ"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:91
 msgid ""
@@ -1533,7 +1533,7 @@ msgstr "різниця реальна та має практичне значе�
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, but might not be interesting"
-msgstr ""
+msgstr "Різниця реальна, але може бути нецікавою"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:149
 msgid "non-significant result"
@@ -1882,6 +1882,8 @@ msgid ""
 "In this case, the Pearson :doc:`χ²-test of independence <../Ch10/"
 "Ch10_ChiSquare_2>`"
 msgstr ""
+"У цьому випадку Пірсон :doc:`χ²-test of independence <../Ch10/"
+"Ch10_ChiSquare_2>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:4
 msgid "Summary"
@@ -1903,10 +1905,12 @@ msgid ""
 ":doc:`Research hypotheses and statistical hypotheses, Null and alternative "
 "hypotheses <Ch09_HypothesisTesting_01>`"
 msgstr ""
+":doc:`Research hypotheses and statistical hypotheses, Null and alternative "
+"hypotheses <Ch09_HypothesisTesting_01>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:17
 msgid ":doc:`Type I and Type II errors <Ch09_HypothesisTesting_02>`"
-msgstr ""
+msgstr ":doc:`Type I and Type II errors <Ch09_HypothesisTesting_02>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:19
 msgid ":doc:`Ch09_HypothesisTesting_03`"
@@ -1917,6 +1921,8 @@ msgid ""
 ":doc:`Hypothesis testing as a decision making process "
 "<Ch09_HypothesisTesting_04>`"
 msgstr ""
+":doc:`Hypothesis testing as a decision making process "
+"<Ch09_HypothesisTesting_04>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:24
 msgid ":doc:`*p*-values as “soft” decisions <Ch09_HypothesisTesting_05>`"
@@ -1927,6 +1933,8 @@ msgid ""
 ":doc:`Writing up the results of a hypothesis test "
 "<Ch09_HypothesisTesting_06>`"
 msgstr ""
+":doc:`Writing up the results of a hypothesis test "
+"<Ch09_HypothesisTesting_06>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:29
 msgid ":doc:`Ch09_HypothesisTesting_07`"
@@ -1941,6 +1949,8 @@ msgid ""
 ":doc:`Some issues to consider regarding hypothesis testing "
 "<Ch09_HypothesisTesting_09>`"
 msgstr ""
+":doc:`Some issues to consider regarding hypothesis testing "
+"<Ch09_HypothesisTesting_09>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:36
 msgid ""
