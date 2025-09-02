@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -205,7 +205,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:101
 msgid "What is EFA good for?"
-msgstr ""
+msgstr "Для чого корисні ОДВ?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:103
 msgid ""
@@ -328,7 +328,7 @@ msgstr "A3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:173
 msgid "Know how to comfort others."
-msgstr ""
+msgstr "Знайте, як втішати інших."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:175
 msgid "A4"
@@ -344,7 +344,7 @@ msgstr "A5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:177
 msgid "Make people feel at ease."
-msgstr ""
+msgstr "Зробіть так, щоб люди почувалися комфортно."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "C1"
@@ -352,7 +352,7 @@ msgstr "C1"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:179
 msgid "Am exacting in my work."
-msgstr ""
+msgstr "Я вимогливий у своїй роботі."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "C2"
@@ -360,7 +360,7 @@ msgstr "C2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:181
 msgid "Continue until everything is perfect."
-msgstr ""
+msgstr "Продовжуйте, доки все не стане ідеальним."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "C3"
@@ -368,7 +368,7 @@ msgstr "C3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:183
 msgid "Do things according to a plan."
-msgstr ""
+msgstr "Виконуйте справи за планом."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "C4"
@@ -376,7 +376,7 @@ msgstr "C4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:185
 msgid "Do things in a half-way manner."
-msgstr ""
+msgstr "Робіть справи наполовину."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:187
 msgid "C5"
@@ -400,7 +400,7 @@ msgstr "E2"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:191
 msgid "Find it difficult to approach others."
-msgstr ""
+msgstr "Важко підійти до інших."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "E3"
@@ -408,7 +408,7 @@ msgstr "E3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:193
 msgid "Know how to captivate people."
-msgstr ""
+msgstr "Знайте, як захопити людей."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:195
 msgid "E4"
@@ -496,7 +496,7 @@ msgstr "O4"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "Spend time reflecting on things."
-msgstr ""
+msgstr "Приділіть час роздумам над речами."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "O5"
@@ -643,7 +643,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:309
 msgid "Scree plot of the personality data"
-msgstr ""
+msgstr "Діаграма даних про особистість"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:313
 msgid ""
@@ -690,7 +690,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:347
 msgid "Factor summary statistics and correlations"
-msgstr ""
+msgstr "Статистика зведення факторів та кореляції"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:351
 msgid ""
@@ -889,7 +889,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:509
 msgid "Gender differences in Agreeableness factor-based scores"
-msgstr ""
+msgstr "Гендерні відмінності в оцінках на основі фактора приємності"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:513
 msgid ""
@@ -1186,7 +1186,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:131
 msgid "Component summary statistics and correlations"
-msgstr ""
+msgstr "Зведена статистика компонентів та кореляції"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:135
 msgid ""
@@ -1313,7 +1313,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:25
 msgid "Initial pre-specification of latent factor structure"
-msgstr ""
+msgstr "Початкова попередня специфікація структури латентних факторів"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:29
 msgid ""
@@ -1534,7 +1534,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:195
 msgid "Table with ``Factor Loadings Modification Indices``"
-msgstr ""
+msgstr "Стіл з ``Factor Loadings Modification Indices``"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:199
 msgid ""
@@ -1590,7 +1590,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:237
 msgid "Table with ``Residual Covariances Modification Indices``"
-msgstr ""
+msgstr "Стіл з ``Residual Covariances Modification Indices``"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:241
 msgid ""
@@ -1823,7 +1823,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:98
 msgid "Settings for conducting a Reliability Analysis"
-msgstr ""
+msgstr "Налаштування для проведення аналізу надійності"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:102
 msgid ""
