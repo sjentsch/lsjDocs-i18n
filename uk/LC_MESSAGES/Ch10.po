@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:02+0000\n"
+"PO-Revision-Date: 2025-09-02 10:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch10/"
 "uk/>\n"
@@ -310,7 +310,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:103 ../../Ch10/Ch10_ChiSquare_1.rst:136
 msgid "H\\ :sub:`0`: All four suits are chosen with equal probability"
-msgstr ""
+msgstr "H\\ :sub:`0`: Усі чотири масті вибрані з однаковою ймовірністю"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:105
 msgid ""
@@ -634,7 +634,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:328
 msgid "χ² distributions with different degrees of freedom"
-msgstr ""
+msgstr "Розподіл χ² з різними ступенями свободи"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:332
 msgid ""
@@ -694,7 +694,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:381
 msgid "Hypothesis testing works for the χ² GOF test"
-msgstr ""
+msgstr "Перевірка гіпотез працює для тесту χ² GOF"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:385
 msgid ""
@@ -714,7 +714,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:399
 msgid "Table of critical values for the χ² (chi-square) distribution"
-msgstr ""
+msgstr "Таблиця критичних значень для розподілу χ² (хі-квадрат)"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:407
 msgid "df"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:455
 msgid "χ² One Sample Proportion Test in jamovi"
-msgstr ""
+msgstr "χ² Тест на пропорцію одного зразка в jamovi"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:459
 msgid ""
@@ -1245,7 +1245,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:504
 msgid "Changing expected proportions in the χ² One Sample Proportion Test"
-msgstr ""
+msgstr "Зміна очікуваних пропорцій у тесті χ² для одновимірної пропорції"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:508
 msgid ""
@@ -1255,7 +1255,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:516
 msgid "How to report the results of the test"
-msgstr ""
+msgstr "Як повідомити про результати тесту"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:518
 msgid ""
@@ -1366,6 +1366,7 @@ msgstr "Коментар щодо статистичної нотації"
 #: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "*Satan delights equally in statistics and in quoting scripture*"
 msgstr ""
+"*Сатана однаково насолоджується статистикою та цитуванням Святого Письма*"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:0
 msgid "– H.G. Wells"
@@ -1522,7 +1523,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:4
 msgid "The χ² (chi-square) test of independence (or association)"
-msgstr ""
+msgstr "χ² (хі-квадрат) тест незалежності (або асоціації)"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:9 ../../Ch10/Ch10_ChiSquare_2.rst:17
 #: ../../Ch10/Ch10_ChiSquare_2.rst:23
@@ -1555,7 +1556,7 @@ msgstr "FRY:"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:15
 msgid "Uh, yup! Just two robots out roboting it up! Eh?"
-msgstr ""
+msgstr "Ага! Просто два роботи цим займаються! Еге ж?"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:17
 msgid "Administer the test."
@@ -1785,6 +1786,7 @@ msgstr "Усі наступні твердження є правдивими:"
 #: ../../Ch10/Ch10_ChiSquare_2.rst:114
 msgid "*P*\\ :sub:`11` = *P*\\ :sub:`12` (same probability of saying “puppy”),"
 msgstr ""
+"*P*\\ :sub:`11` = *P*\\ :sub:`12` (однакова ймовірність сказати «цуценя»),"
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:117
 msgid ""
@@ -1794,6 +1796,7 @@ msgstr ""
 #: ../../Ch10/Ch10_ChiSquare_2.rst:120
 msgid "*P*\\ :sub:`31` = *P*\\ :sub:`32` (same probability of saying “data”)."
 msgstr ""
+"*P*\\ :sub:`31` = *P*\\ :sub:`32` (однакова ймовірність сказати «дані»)."
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:124
 msgid ""
@@ -2063,7 +2066,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_2.rst:320
 msgid "A problem many of us worry about in real life."
-msgstr ""
+msgstr "Проблема, яка багатьох із нас турбує в реальному житті."
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:4
 msgid "The continuity correction"
@@ -2104,7 +2107,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:30
 msgid "Basically, he just subtracts off 0.5 everywhere."
-msgstr ""
+msgstr "По суті, він просто віднімає 0,5 всюди."
 
 #: ../../Ch10/Ch10_ChiSquare_3.rst:32
 msgid ""
@@ -2608,7 +2611,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:132
 msgid "What’s the difference between McNemar and independence?"
-msgstr ""
+msgstr "Яка різниця між МакНемаром та незалежністю?"
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:134
 msgid ""
@@ -2645,7 +2648,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_7.rst:166 ../../Ch10/Ch10_ChiSquare_7.rst:170
 msgid "Independent vs. Paired (McNemar) test output in jamovi"
-msgstr ""
+msgstr "Вихідні дані тесту McNemar (незалежний та парний) в jamovi"
 
 #: ../../Ch10/Ch10_ChiSquare_8.rst:4
 msgid "Summary"
@@ -2653,7 +2656,7 @@ msgstr "Короткий зміст"
 
 #: ../../Ch10/Ch10_ChiSquare_8.rst:6
 msgid "The key ideas discussed in this chapter are:"
-msgstr ""
+msgstr "Ключові ідеї, що обговорюються в цьому розділі:"
 
 #: ../../Ch10/Ch10_ChiSquare_8.rst:8
 msgid ""
