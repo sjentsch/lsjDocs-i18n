@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -225,12 +225,17 @@ msgid ""
 "All outcomes if Wellseley and Croker lived forever and played the game until "
 "the world ran out of hills?"
 msgstr ""
+"Якби Веллслі та Крокер жили вічно та грали в гру, поки у світі не "
+"закінчилися пагорби?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:88
 msgid ""
 "All outcomes if we created an infinite set of parallel universes and the "
 "Wellesely/Croker pair made guesses about the same 12 hills in each universe?"
 msgstr ""
+"Які б були результати, якби ми створили нескінченну множину паралельних "
+"всесвітів, і пара Веллслі/Крокера зробила б припущення щодо тих самих 12 "
+"пагорбів у кожному всесвіті?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:92
 msgid "Again, it’s not obvious what the population is."
@@ -524,6 +529,9 @@ msgid ""
 "randomly from it: In the middle panel, we have a sample of 100 observations, "
 "and in the right panel, we have a sample of 10,000 observations."
 msgstr ""
+"Розподіл населення за показниками IQ (ліва панель) і дві вибірки, взяті з "
+"нього випадковим чином: на середній панелі ми маємо вибірку зі 100 "
+"спостережень, а на правій панелі — вибірку з 10 000 спостережень."
 
 #: ../../Ch08/Ch08_Estimation_1.rst:364
 msgid ""
@@ -531,6 +539,9 @@ msgid ""
 "administer an IQ test, giving me a simple random sample from the population. "
 "My sample would consist of a collection of numbers like this:"
 msgstr ""
+"Тепер припустимо, що я проводжу експеримент. Я випадково вибираю 100 осіб і "
+"проводжу тест на IQ, отримуючи просту випадкову вибірку з населення. Моя "
+"вибірка складатиметься з набору таких чисел:"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:373
 msgid ""
@@ -569,6 +580,9 @@ msgid ""
 "this isn’t a clinical psychology text so please forgive me a few "
 "simplifications here and there."
 msgstr ""
+"У житті немає нічого такого простого. Не існує чіткого поділу людей на дві "
+"категорії: «шизофреніки» та «не шизофреніки». Але це не підручник з "
+"клінічної психології, тому прошу вибачити мені деякі спрощення тут і там."
 
 #: ../../Ch08/Ch08_Estimation_2.rst:4
 msgid "The law of large numbers"
@@ -1160,6 +1174,8 @@ msgid ""
 "On the basis of these figures, it seems like we have evidence for all of the "
 "following claims about the sampling distribution of the mean."
 msgstr ""
+"На основі цих цифр, схоже, ми маємо докази для всіх наступних тверджень щодо "
+"розподілу середнього значення за вибіркою."
 
 #: ../../Ch08/Ch08_Estimation_3.rst:259
 msgid ""
@@ -1174,6 +1190,8 @@ msgid ""
 "The standard deviation of the sampling distribution (i.e., the standard "
 "error) gets smaller as the sample size increases"
 msgstr ""
+"Стандартне відхилення розподілу вибірки (тобто стандартна помилка) "
+"зменшується зі збільшенням розміру вибірки"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:265
 msgid ""
@@ -1425,6 +1443,9 @@ msgid ""
 "My data set now has *N* = 2 observations of the cromulence of shoes, and the "
 "complete sample now looks like this:"
 msgstr ""
+"Давайте трохи розширимо цей приклад. Припустимо, що я тепер зроблю друге "
+"спостереження. Мій набір даних тепер містить *N* = 2 спостереження щодо "
+"кромулентності взуття, і повна вибірка тепер виглядає так:"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:129
 msgid "``20, 22``"
@@ -1582,6 +1603,8 @@ msgid ""
 "and when we use jamovi’s built in standard deviation function, what it’s "
 "doing is calculating :math:`\\hat\\sigma`, not *s*.\\ [#]_"
 msgstr ""
+"і коли ми використовуємо вбудовану функцію стандартного відхилення jamovi, "
+"вона обчислює :math:`\\hat\\sigma`, а не *s*.\\ [#]_"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:242
 msgid ""
@@ -1958,6 +1981,9 @@ msgid ""
 "as part of the functionality of ``Descriptives``. Just set the check box "
 "``Confidence interval for Mean``."
 msgstr ""
+"jamovi надає простий спосіб обчислення довірчих інтервалів для середнього "
+"значення як частину функціональності ``Descriptives``. Просто встановіть "
+"прапорець ``Confidence interval for Mean``."
 
 #: ../../Ch08/Ch08_Estimation_5.rst:178
 msgid ""
@@ -1985,6 +2011,9 @@ msgid ""
 "org/10.1080/10691898.2002.11910681), but I’ve never found the original "
 "source."
 msgstr ""
+"Ця цитата з'являється на багатьох футболках та вебсайтах, і навіть "
+"згадується в кількох академічних статтях (наприклад, https://doi.org/10.1080/"
+"10691898.2002.11910681), але я так і не знайшов першоджерела."
 
 #: ../../Ch08/Ch08_Estimation_6.rst:4
 msgid "Summary"
