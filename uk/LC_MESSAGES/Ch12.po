@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_03.rst:4
 msgid "What is a linear regression model?"
-msgstr ""
+msgstr "Що таке модель лінійної регресії?"
 
 #: ../../Ch12/Ch12_Regression_03.rst:6
 msgid ""
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_04.rst:4
 msgid "Estimating a linear regression model"
-msgstr ""
+msgstr "Оцінювання моделі лінійної регресії"
 
 #: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
@@ -1265,7 +1265,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_05.rst:93
 msgid "Formula for the general case"
-msgstr ""
+msgstr "Формула для загального випадку"
 
 #: ../../Ch12/Ch12_Regression_05.rst:95
 msgid ""
@@ -1438,7 +1438,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:97
 msgid "The relationship between regression and correlation"
-msgstr ""
+msgstr "Зв'язок між регресією та кореляцією"
 
 #: ../../Ch12/Ch12_Regression_06.rst:99
 msgid ""
@@ -1455,7 +1455,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_06.rst:110
 msgid "The adjusted *R*\\² (R-squared) value"
-msgstr ""
+msgstr "Скориговане значення *R*\\² (R-квадрат)"
 
 #: ../../Ch12/Ch12_Regression_06.rst:112
 msgid ""
@@ -1531,7 +1531,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:4
 msgid "Hypothesis tests for regression models"
-msgstr ""
+msgstr "Перевірка гіпотез для регресійних моделей"
 
 #: ../../Ch12/Ch12_Regression_07.rst:6
 msgid ""
@@ -1548,7 +1548,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:17
 msgid "Testing the model as a whole"
-msgstr ""
+msgstr "Тестування моделі в цілому"
 
 #: ../../Ch12/Ch12_Regression_07.rst:19
 msgid ""
@@ -1735,7 +1735,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_07.rst:136
 msgid "Running the hypothesis tests in jamovi"
-msgstr ""
+msgstr "Проведення перевірки гіпотез в jamovi"
 
 #: ../../Ch12/Ch12_Regression_07.rst:138
 msgid ""
@@ -1825,7 +1825,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:14
 msgid "Confidence intervals for the coefficients"
-msgstr ""
+msgstr "Довірчі інтервали для коефіцієнтів"
 
 #: ../../Ch12/Ch12_Regression_09.rst:16
 msgid ""
@@ -1945,7 +1945,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_09.rst:98
 msgid "Standardised coefficients with 95\\% confidence intervals"
-msgstr ""
+msgstr "Стандартизовані коефіцієнти з 95% довірчими інтервалами"
 
 #: ../../Ch12/Ch12_Regression_09.rst:102
 msgid ""
@@ -2213,7 +2213,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:124
 msgid "Three kinds of anomalous data"
-msgstr ""
+msgstr "Три види аномальних даних"
 
 #: ../../Ch12/Ch12_Regression_11.rst:126
 msgid ""
@@ -2261,7 +2261,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:169
 msgid "High leverage points and their effect"
-msgstr ""
+msgstr "Точки високого кредитного плеча та їх вплив"
 
 #: ../../Ch12/Ch12_Regression_11.rst:173
 msgid ""
@@ -2300,7 +2300,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:201
 msgid "High influence points and their effect"
-msgstr ""
+msgstr "Високі очки впливу та їх ефект"
 
 #: ../../Ch12/Ch12_Regression_11.rst:205
 msgid ""
@@ -2388,7 +2388,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:272
 msgid "Checking the normality of the residuals"
-msgstr ""
+msgstr "Перевірка нормальності залишків"
 
 #: ../../Ch12/Ch12_Regression_11.rst:274
 msgid ""
@@ -2431,7 +2431,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:307 ../../Ch12/Ch12_Regression_11.rst:311
 msgid "Residuals plots produced in jamovi"
-msgstr ""
+msgstr "Залишкові ділянки, вироблені в Ямові"
 
 #: ../../Ch12/Ch12_Regression_11.rst:315
 msgid ""
@@ -2949,4 +2949,4 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <Ch12_Regression_12>`"
-msgstr ""
+msgstr ":doc:`Selecting a regression model <Ch12_Regression_12>`"
