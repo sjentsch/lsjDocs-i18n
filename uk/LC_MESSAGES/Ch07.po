@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -170,12 +170,16 @@ msgstr "Яка ймовірність того, що чесний джекпот
 msgid ""
 "If I roll a six sided dice twice, how likely is it that I’ll roll two sixes?"
 msgstr ""
+"Якщо я двічі кину шестигранний кубик, яка ймовірність того, що випаде дві "
+"шістки?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:20
 msgid ""
 "How likely is it that five cards drawn from a perfectly shuffled deck will "
 "all be hearts?"
 msgstr ""
+"Яка ймовірність того, що всі п'ять карт, витягнутих з ідеально перетасованої "
+"колоди, будуть червами?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:23
 msgid "What are the chances that I’ll win the lottery?"
@@ -224,18 +228,24 @@ msgid ""
 "If my friend flips a coin 10 times and gets 10 heads are they playing a "
 "trick on me?"
 msgstr ""
+"Якщо мій друг підкидає монету 10 разів і отримує 10 орлів, чи він мене "
+"обманює?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:58
 msgid ""
 "If five cards off the top of the deck are all hearts how likely is it that "
 "the deck was shuffled?"
 msgstr ""
+"Якщо п'ять карт зверху колоди — це всі черви, яка ймовірність того, що "
+"колоду перетасували?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:61
 msgid ""
 "If the lottery commissioner’s spouse wins the lottery how likely is it that "
 "the lottery was rigged?"
 msgstr ""
+"Якщо дружина комісара лотереї виграє в лотерею, наскільки ймовірно, що "
+"лотерея була підтасована?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:64
 msgid ""
@@ -292,6 +302,8 @@ msgid ""
 "They’re robot teams so I can make them play over and over again, and if I "
 "did that *Arduino Arsenal* would win 8 out of every 10 games on average."
 msgstr ""
+"Це команди-роботи, тому я можу змушувати їх грати знову і знову, і якби я це "
+"робив, *Arduino Arsenal* вигравав би в середньому 8 з кожних 10 ігор."
 
 #: ../../Ch07/Ch07_Probability_2.rst:26
 msgid ""
@@ -306,6 +318,8 @@ msgid ""
 "My subjective “belief” or “confidence” in an *Arduino Arsenal* victory is "
 "four times as strong as my belief in a *C Milan* victory."
 msgstr ""
+"Моя суб'єктивна «віра» або «впевненість» у перемозі *Arduino Arsenal* у "
+"чотири рази сильніша, ніж моя віра у перемогу *C Milan*."
 
 #: ../../Ch07/Ch07_Probability_2.rst:34
 msgid ""
@@ -898,6 +912,8 @@ msgid ""
 "and, since the probabilities of blue, grey and black jeans respectively are "
 "0.5, 0.3 and 0.1, the probability that I wear jeans is equal to 0.9."
 msgstr ""
+"а оскільки ймовірності синіх, сірих та чорних джинсів відповідно становлять "
+"0,5, 0,3 та 0,1, ймовірність того, що я ношу джинси, дорівнює 0,9."
 
 #: ../../Ch07/Ch07_Probability_3.rst:115
 msgid ""
@@ -1168,6 +1184,8 @@ msgid ""
 "The notation that we sometimes use to say that a variable *X* is normally "
 "distributed is as follows:"
 msgstr ""
+"Позначення, яке ми іноді використовуємо для того, щоб сказати, що змінна *X* "
+"розподілена нормально, виглядає так:"
 
 #: ../../Ch07/Ch07_Probability_5.rst:16
 msgid "X ~ Normal(µ, σ)"
@@ -1472,6 +1490,9 @@ msgid ""
 "a normal distribution, but it’s not quite the same. For comparison purposes "
 "I’ve plotted a standard normal distribution as the dashed line."
 msgstr ""
+"*t*-розподіл з 3 ступенями свободи (суцільна лінія). Він схожий на "
+"нормальний розподіл, але не зовсім такий самий. Для порівняння я зобразив "
+"стандартний нормальний розподіл у вигляді пунктирної лінії."
 
 #: ../../Ch07/Ch07_Probability_6.rst:36
 msgid ""
@@ -1497,6 +1518,9 @@ msgid ""
 "must always be greater than zero, and that the distribution is pretty "
 "skewed. These are the key features of a χ²-distribution."
 msgstr ""
+"χ²-розподіл з 3 ступенями свободи. Зверніть увагу, що спостережувані "
+"значення завжди повинні бути більшими за нуль, і що розподіл досить "
+"асиметричний. Це ключові характеристики χ²-розподілу."
 
 #: ../../Ch07/Ch07_Probability_6.rst:60
 msgid ""
@@ -1523,6 +1547,8 @@ msgid ""
 "looks pretty similar to a χ²-distribution, but they’re not quite the same in "
 "general."
 msgstr ""
+"*F*-розподіл з 3 та 5 ступенями свободи. Якісно кажучи, він досить схожий на "
+"χ²-розподіл, але загалом вони не зовсім однакові."
 
 #: ../../Ch07/Ch07_Probability_6.rst:84
 msgid ""
