@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:02+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -231,12 +231,16 @@ msgid ""
 "Create a new variable with a score weighted by the factor loadings for each "
 "item that contributes to the factor."
 msgstr ""
+"Створіть нову змінну з оцінкою, зваженою за факторними навантаженнями для "
+"кожного елемента, що робить внесок у цей фактор."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:120
 msgid ""
 "Create a new variable based on each item that contributes to the factor, but "
 "weighting them equally."
 msgstr ""
+"Створіть нову змінну на основі кожного елемента, який впливає на фактор, але "
+"з однаковою вагою для них."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:123
 msgid ""
@@ -287,6 +291,9 @@ msgid ""
 "factors in the |bfi_sample|_ data set. If there is an R in the second "
 "column, the item is reversed."
 msgstr ""
+"Двадцять п'ять спостережуваних змінних пунктів, організованих за п'ятьма "
+"передбачуваними особистісними факторами в наборі даних |bfi_sample|_. Якщо у "
+"другому стовпці є R, пункт відображається у зворотному порядку."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:167
 msgid "Name"
@@ -571,6 +578,9 @@ msgid ""
 "tab to open the options panel where you can determine the settings for the "
 "EFA (:numref:`fig-efa2`)."
 msgstr ""
+"Виберіть ``Factor`` → ``Exploratory Factor Analysis`` з ``Analyses`` "
+"вкладку, щоб відкрити панель параметрів, де можна визначити налаштування для "
+"EFA (:numref:`fig-efa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:252
 msgid ""
@@ -619,12 +629,17 @@ msgid ""
 "The next thing to check is how many factors to use (or “extract” from the "
 "data). Three different approaches are available:"
 msgstr ""
+"Наступне, що потрібно перевірити, це скільки факторів використовувати (або "
+"«витягувати» з даних). Доступні три різні підходи:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:292
 msgid ""
 "One convention is to choose all components with Eigen values greater than 1."
 "\\ [#]_ This would give us four factors with our data (try it and see)."
 msgstr ""
+"Одна з домовленостей полягає в тому, щоб вибирати всі компоненти з власними "
+"значеннями більше 1.\\ [#]_ Це дасть нам чотири коефіцієнти з нашими даними ("
+"спробуйте та переконайтеся)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:295
 msgid ""
@@ -653,6 +668,8 @@ msgid ""
 "Scree plot of the personality data in the EFA in jamovi, showing a "
 "noticeable inflection and levelling off after point 5 (the “elbow”)"
 msgstr ""
+"Графік даних особистості в EFA в jamovi, що демонструє помітний перегин та "
+"вирівнювання після точки 5 («ліктя»)"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:318
 msgid ""
@@ -735,6 +752,10 @@ msgid ""
 "hidden loadings less than 0.3 (set in the options shown in :numref:`fig-"
 "efa2`)."
 msgstr ""
+":numref:`fig-efa6` показує факторні навантаження. Тобто, як 25 різних "
+"елементів особистості впливають на кожен із п'яти вибраних факторів. У нас є "
+"приховані навантаження менше 0,3 (встановлені в опціях, показаних на :numref"
+":`fig-efa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:381
 msgid "Factor loadings for a five factor solution"
@@ -820,6 +841,10 @@ msgid ""
 "``A1R``, ``A2``, ``A3``, ``A4`` and ``A5``. Do this using the jamovi "
 "``Compute`` command to create a new variable (see :numref:`fig-efa8`)."
 msgstr ""
+"Обчисліть нову змінну з назвою ``Agreeableness``, від обчислення середнього "
+"значення ``A1R``, ``A2``, ``A3``, ``A4`` і ``A5``. Зробіть це за допомогою "
+"jamovi ``Compute`` команда для створення нової змінної (див. :numref:`fig-"
+"efa8`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:445
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:449
@@ -842,6 +867,9 @@ msgid ""
 "use the jamovi |Rj|_ editor to do this in ``R``.\\ [#]_ Again, there are two "
 "steps:"
 msgstr ""
+"Інший варіант — створити оптимально зважений індекс факторної оцінки. Ми "
+"можемо скористатися редактором jamovi |Rj|_ для цього в ``R``.\\ [#]_ Знову "
+"ж таки, є два кроки:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:465
 msgid ""
@@ -929,6 +957,8 @@ msgid ""
 "specifically for the constructs that you are interested in uncovering "
 "through EFA?"
 msgstr ""
+"Які теоретичні основи для галузі, яку ви вивчаєте, і зокрема для "
+"конструктів, які ви зацікавлені розкрити за допомогою EFA?"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:531
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:277
@@ -945,6 +975,8 @@ msgid ""
 "A description of the type of data used (e.g., nominal |nominal|, continuous |"
 "continuous|) and descriptive statistics."
 msgstr ""
+"Опис типу використаних даних (наприклад, номінальні |nominal|, безперервні "
+"|continuous|) та описова статистика."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:609
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:319
@@ -957,6 +989,8 @@ msgid ""
 "regarding sphericity checks and measures of sampling adequacy should be "
 "reported."
 msgstr ""
+"Опишіть, як ви перевіряли припущення щодо EFA. Слід повідомити деталі щодо "
+"перевірок сферичності та заходів щодо адекватності вибірки."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
@@ -970,6 +1004,9 @@ msgid ""
 "extracted in the final solution, and which items were selected. Clearly "
 "explain the rationale for key decisions during the EFA process."
 msgstr ""
+"Поясніть критерії та процес, що використовувалися для визначення кількості "
+"факторів, виокремлених у кінцевому рішенні, та які елементи були обрані. "
+"Чітко поясніть обґрунтування ключових рішень, прийнятих під час процесу EFA."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:547
 msgid ""
@@ -993,6 +1030,9 @@ msgid ""
 "to use previously selected factor names, but on examining the actual items "
 "and factors you may think a different name is more appropriate."
 msgstr ""
+"Слід надати змістовні назви для виокремлених факторів. Ви можете "
+"використовувати раніше обрані назви факторів, але після вивчення фактичних "
+"елементів і факторів ви можете вирішити, що інша назва є більш доречною."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:563
 msgid ""
@@ -1008,6 +1048,9 @@ msgid ""
 "a factor accounts for. A factor with an Eigen value > 1 accounts for more "
 "variance than a single observed variable"
 msgstr ""
+"Власне значення показує, яку частину дисперсії спостережуваних змінних "
+"пояснює фактор. Фактор із власним значенням > 1 пояснює більшу дисперсію, "
+"ніж одна спостережувана змінна"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:572
 msgid ""
@@ -1030,6 +1073,9 @@ msgid ""
 "of variance in a variable that is accounted for by the factor solution. "
 "Uniqueness is equal to (1 - *communality*)"
 msgstr ""
+"Іноді у факторному аналізі позначають «спільноту», яка являє собою величину "
+"дисперсії змінної, що враховується факторним рішенням. Унікальність дорівнює "
+"(1 - *спільнота*)"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:591
 msgid "Remembering to first reverse score some variables if necessary."
@@ -1043,6 +1089,9 @@ msgid ""
 "from within jamovi - it's an option. But this explanation is helpful as it's "
 "a good insight into using R directly from jamovi."
 msgstr ""
+"В останніх версіях jamovi тепер можна зберігати факторні оцінки "
+"безпосередньо з jamovi — це опція. Але це пояснення корисне, оскільки воно "
+"дає гарне уявлення про використання R безпосередньо з jamovi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:4
 msgid "Principal Component Analysis"
@@ -1142,12 +1191,16 @@ msgid ""
 "The next thing to check is how many components to use (or “extract” from the "
 "data). As with EFA, three different approaches are available:"
 msgstr ""
+"Наступне, що потрібно перевірити, це скільки компонентів використовувати ("
+"або «витягувати» з даних). Як і у випадку з EFA, доступні три різні підходи:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:78
 msgid ""
 "One convention is to choose all components with Eigen values greater than 1. "
 "This would give us two components with our data."
 msgstr ""
+"Одна з домовленостей полягає в тому, щоб вибирати всі компоненти з власними "
+"значеннями більше 1. Це дасть нам два компоненти з нашими даними."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:81
 msgid ""
@@ -1174,6 +1227,8 @@ msgid ""
 "Scree plot of the personality item data when conducting a PCA in jamovi, "
 "showing the levelling off point, the “elbow”, after component 5"
 msgstr ""
+"Графік осипу даних особистісних елементів під час проведення PCA в jamovi, "
+"що показує точку вирівнювання, «лікоть», після компонента 5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:103
 msgid ""
@@ -1218,6 +1273,8 @@ msgid ""
 "Component summary statistics and correlations for a five component solution "
 "when conducting a PCA with the personality item data in jamovi"
 msgstr ""
+"Зведена статистика компонентів та кореляції для п'ятикомпонентного рішення "
+"під час проведення PCA з даними особистості в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:140
 msgid ""
@@ -1255,6 +1312,8 @@ msgid ""
 "Component loadings for a five component solution when conducting a PCA with "
 "the personality item data in jamovi"
 msgstr ""
+"Компонентні навантаження для п'ятикомпонентного рішення під час проведення "
+"PCA з даними особистості в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:170
 msgid ""
@@ -1284,6 +1343,9 @@ msgid ""
 "in jamovi, and how it is conceptually different but practically fairly "
 "similar (given the right data) to EFA."
 msgstr ""
+"Сподіваюся, це дало вам гарне перше уявлення про те, як проводити PCA в "
+"jamovi, і чим він концептуально відрізняється, але практично досить схожий ("
+"за наявності правильних даних) на EFA."
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:190
 msgid ""
@@ -1304,12 +1366,17 @@ msgid ""
 "the five component solution  when conducting a PCA with the personality item "
 "data in jamovi"
 msgstr ""
+"Команди редактора |Rj|_ для створення оптимально зважених оцінок компонентів "
+"для п'ятикомпонентного рішення під час проведення PCA з даними особистості в "
+"jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:210
 msgid ""
 "…and that means there is a fair bit of repetition in the PCA steps set out "
 "in the next section. Sorry about that, but hopefully it is not too bad!"
 msgstr ""
+"…а це означає, що в кроках PCA, викладених у наступному розділі, є чимало "
+"повторень. Вибачте за це, але, сподіваюся, це не так вже й погано!"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:4
 msgid "Confirmatory Factor Analysis"
@@ -1410,6 +1477,9 @@ msgid ""
 "as ordinal |ordinal| (or continuous |continuous|; it won’t make any "
 "difference for this analysis). To perform CFA in jamovi:"
 msgstr ""
+"Відкрийте набір даних |bfi_sample2|_, перевірте, чи 25 змінних закодовано як "
+"порядкові |ordinal| (або безперервні |continuous|; це не матиме значення для "
+"цього аналізу). Щоб виконати CFA в jamovi:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:78
 msgid ""
@@ -1417,12 +1487,17 @@ msgid ""
 "tab to open the options panel where you can determine the settings for the "
 "CFA (:numref:`fig-cfa2`)."
 msgstr ""
+"Виберіть ``Factor`` → ``Confirmatory Factor Analysis`` з ``Analyses`` "
+"вкладку, щоб відкрити панель параметрів, де можна визначити налаштування для "
+"CFA (:numref:`fig-cfa2`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:82
 msgid ""
 "Select the 5 ``A`` variables and transfer them into the ``Factors`` box and "
 "give them the label “Agreeableness”."
 msgstr ""
+"Виберіть 5 змінних ``А`` та перенесіть їх у поле «Фактори» з позначкою "
+"``Зручність``."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:85
 msgid ""
@@ -1430,6 +1505,9 @@ msgid ""
 "Select the 5 ``C`` variables and transfer them into the ``Factors`` box "
 "under the “Conscientiousness” label."
 msgstr ""
+"Створіть новий фактор у ``Factors`` коробку та позначте її як «Совість». "
+"Виберіть 5 ``C`` змінні та перенести їх у ``Factors`` поле під міткою "
+"«Совість»."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:89
 msgid ""
@@ -1437,6 +1515,9 @@ msgid ""
 "“Extraversion”. Select the 5 ``E`` variables and transfer them into the "
 "``Factors`` box under the “Extraversion” label."
 msgstr ""
+"Створіть ще один новий Фактор у ``Factors`` клітинку та позначте її як "
+"«Екстраверсія». Виберіть 5 ``E`` змінні та перенести їх у ``Factors`` поле "
+"під позначкою «Екстраверсія»."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:93
 msgid ""
@@ -1444,6 +1525,9 @@ msgid ""
 "Select the 5 ``N`` variables and transfer them into the ``Factors`` box "
 "under the “Neuroticism” label."
 msgstr ""
+"Створіть ще один новий Фактор у ``Factors`` коробку та позначте її як "
+"«Невротизм». Виберіть 5 ``N`` змінні та перенести їх у ``Factors`` поле під "
+"позначкою «Невротизм»."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:97
 msgid ""
@@ -1451,6 +1535,9 @@ msgid ""
 "Select the 5 ``O`` variables and transfer them into the ``Factors`` box "
 "under the “Openness” label."
 msgstr ""
+"Створіть ще один новий Фактор у ``Factors`` поле та позначте його як "
+"«Відкритість». Виберіть 5 ``O`` змінні та перенести їх у ``Factors`` поле "
+"під позначкою «Відкритість»."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:101
 msgid ""
@@ -1459,6 +1546,10 @@ msgid ""
 "``Plots`` to see jamovi produce a (fairly) similar diagram to our :numref:"
 "`fig-cfa1`."
 msgstr ""
+"Перевірте інші відповідні параметри, значення за замовчуванням підходять для "
+"цієї початкової роботи, хоча ви можете перевірити ``Path diagram`` варіант у "
+"розділі ``Plots`` побачити, як jamovi створює (досить) схожу діаграму на "
+"нашу :numref:`fig-cfa1`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:108
 msgid "Settings for conducting a Confirmatory Factor Analysis"
@@ -1607,6 +1698,9 @@ msgid ""
 "then always re-check the MI tables after each new addition, as the MIs are "
 "refreshed each time."
 msgstr ""
+"Якщо ви все ж таки додаєте нові параметри до моделі, використовуючи значення "
+"MI, завжди перевіряйте таблиці MI після кожного нового додавання, оскільки "
+"MI оновлюються щоразу."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:227
 msgid ""
@@ -1669,6 +1763,9 @@ msgid ""
 "vary by discipline and researcher. That said, there are some fairly standard "
 "pieces of information to include in your write-up:"
 msgstr ""
+"Не існує офіційного стандартного способу написання CFA, і приклади, як "
+"правило, різняться залежно від дисципліни та дослідника. Проте, є деякі "
+"досить стандартні елементи інформації, які слід включити до вашого звіту:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
@@ -1714,6 +1811,8 @@ msgid ""
 "All parameter estimates (i.e., loadings, error variances, latent "
 "(co)variances) and their standard errors, probably in a table."
 msgstr ""
+"Усі оцінки параметрів (тобто навантажень, дисперсій помилок, латентних "
+"(коваріацій)) та їх стандартних помилок, ймовірно, у таблиці."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:300
 msgid ""
@@ -1844,6 +1943,9 @@ msgid ""
 "jamovi to open the options panel where you can determine the settings for "
 "the reliability analysis (:numref:`fig-rel1`)."
 msgstr ""
+"Виберіть ``Factor`` → ``Reliability Analysis`` з ``Analyses`` Натисніть "
+"вкладку в jamovi, щоб відкрити панель параметрів, де можна визначити "
+"налаштування для аналізу надійності (:numref:`fig-rel1`)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:88
 msgid "Select the 5 ``A``-variables and transfer them into the ``Items`` box."
@@ -1855,6 +1957,8 @@ msgid ""
 "``Normal Scaled Items`` box and move it across to the ``Reverse Scaled "
 "Items`` variable box."
 msgstr ""
+"Під ``Reverse Scaled Items`` опція, виберіть змінну ``A1`` у ``Normal Scaled "
+"Items`` коробку та перемістіть її до ``Reverse Scaled Items`` змінна коробка."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:94
 msgid "Check other appropriate options, as in :numref:`fig-rel1`."
@@ -1889,6 +1993,8 @@ msgid ""
 "Tables with the results of the Reliability Analysis for the Agreeableness "
 "factor from the |bfi_sample3|_ data set"
 msgstr ""
+"Таблиці з результатами аналізу надійності для коефіцієнта зручності з набору "
+"даних |bfi_sample3|_"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:124
 msgid ""
@@ -1917,6 +2023,9 @@ msgid ""
 "and demonstrated statistical analyses that assess the pattern of "
 "relationships in a data set. Specifically, we have covered:"
 msgstr ""
+"У цьому розділі, присвяченому факторному аналізу та пов'язаним з ним "
+"методам, ми представили та продемонстрували статистичний аналіз, який оцінює "
+"закономірності взаємозв'язків у наборі даних. Зокрема, ми розглянули:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:10
 msgid ""
@@ -1934,6 +2043,9 @@ msgid ""
 "strictly speaking, does not identify underlying latent factors. Instead, PCA "
 "simply produces a linear combination of observed variables."
 msgstr ""
+":doc:`Ch15_FactorAnalysis_2` (PCA) – це метод обробки даних, який, строго "
+"кажучи, не виявляє основних прихованих факторів. Натомість PCA просто "
+"створює лінійну комбінацію спостережуваних змінних."
 
 #: ../../Ch15/Ch15_FactorAnalysis_5.rst:21
 msgid ""
@@ -1948,3 +2060,5 @@ msgid ""
 ":doc:`Ch15_FactorAnalysis_4`. This form of reliability analysis tests how "
 "consistently a scale measures a measurement (psychological) construct."
 msgstr ""
+":doc:`Ch15_FactorAnalysis_4`. Ця форма аналізу надійності перевіряє, "
+"наскільки послідовно шкала вимірює вимірювальний (психологічний) конструкт."
