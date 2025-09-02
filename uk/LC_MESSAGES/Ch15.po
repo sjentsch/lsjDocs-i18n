@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:02+0000\n"
+"PO-Revision-Date: 2025-09-02 16:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -577,6 +577,7 @@ msgid ""
 "Select the 25 personality questions and transfer them into the ``Variables`` "
 "box."
 msgstr ""
+"Виберіть 25 питань щодо особистості та перенесіть їх у поле ``Variables``."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:255
 msgid ""
@@ -597,6 +598,8 @@ msgid ""
 "Options panel with the settings for conducting an Exploratory Factor "
 "Analysis (EFA) in jamovi"
 msgstr ""
+"Панель параметрів з налаштуваннями для проведення дослідницького факторного "
+"аналізу (EFA) в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:274
 msgid ""
@@ -697,6 +700,8 @@ msgid ""
 "Factor summary statistics and correlations for a five factor solution in the "
 "EFA conducted in jamovi"
 msgstr ""
+"Факторна зведена статистика та кореляції для п'ятифакторного рішення в EFA, "
+"проведеному в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:356
 msgid ""
@@ -739,6 +744,7 @@ msgstr "Факторні навантаження для п'ятифакторн
 msgid ""
 "Factor loadings for a five factor solution in the EFA conducted in jamovi"
 msgstr ""
+"Факторні навантаження для п'ятифакторного рішення в EFA, проведеному в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:389
 msgid ""
@@ -827,6 +833,8 @@ msgstr "Обчисліть нову змінну шкали оцінок у jamo
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable using a Computed variable in jamovi"
 msgstr ""
+"Обчисліть нову змінну шкали оцінки, використовуючи обчислювану змінну в "
+"jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:461
 msgid ""
@@ -862,6 +870,8 @@ msgid ""
 "|Rj|_ editor commands for creating optimally weighted factor scores for the "
 "five factor solution"
 msgstr ""
+"Команди редактора |Rj|_ для створення оптимально зважених факторних балів "
+"для п'ятифакторного рішення"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:487
 msgid "Newly created data file with new factor score variables"
@@ -926,6 +936,8 @@ msgid ""
 "A description of the sample (e.g. demographic information, sample size, "
 "sampling method)."
 msgstr ""
+"Опис вибірки (наприклад, демографічна інформація, розмір вибірки, метод "
+"вибірки)."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:534
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:280
@@ -964,6 +976,7 @@ msgid ""
 "Explain what rotation methods were attempted, the reasons why, and the "
 "results."
 msgstr ""
+"Поясніть, які методи ротації були спробовані, причини чому та результати."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:550
 msgid ""
@@ -986,6 +999,8 @@ msgid ""
 "Quite helpfully, factor loadings can be interpreted like standardized "
 "regression coefficients"
 msgstr ""
+"Досить корисно, що факторні навантаження можна інтерпретувати як "
+"стандартизовані коефіцієнти регресії"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:567
 msgid ""
@@ -1101,6 +1116,8 @@ msgid ""
 "Options panel with the settings for conducting a Principal Component "
 "Analysis (PCA) in jamovi"
 msgstr ""
+"Панель параметрів з налаштуваннями для проведення аналізу головних "
+"компонентів (PCA) в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:60
 msgid ""
@@ -1118,6 +1135,7 @@ msgstr "Перевірки припущень для даних про особ�
 msgid ""
 "Assumption checks for the personality item data when using a PCA in jamovi"
 msgstr ""
+"Перевірка припущень для даних особистості під час використання PCA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:75
 msgid ""
@@ -1328,6 +1346,8 @@ msgid ""
 "Initial pre-specification of latent factor structure for the five factor "
 "personality scales, for use in CFA"
 msgstr ""
+"Початкова попередня специфікація латентної факторної структури для "
+"п'ятифакторних шкал особистості для використання в CFA"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:34
 msgid ""
@@ -1378,7 +1398,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:69
 msgid "Right, let’s take a look at how we set this CFA analysis up in jamovi."
-msgstr ""
+msgstr "Добре, давайте розглянемо, як ми налаштували цей CFA-аналіз в jamovi."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:72
 msgid "CFA in jamovi"
@@ -1449,6 +1469,8 @@ msgid ""
 "Options panel with the settings for conducting a Confirmatory Factor "
 "Analysis (CFA) in jamovi"
 msgstr ""
+"Панель параметрів з налаштуваннями для проведення підтверджувального "
+"факторного аналізу (CFA) в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:117
 msgid ""
@@ -1466,7 +1488,7 @@ msgstr "``Model Fit`` результати для зазначеної моде�
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
 msgid "Table with ``Model Fit`` results for the specified CFA model in jamovi"
-msgstr ""
+msgstr "Таблиця з результатами ``Model Fit`` для зазначеної CFA-моделі в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:134
 msgid ""
@@ -1523,12 +1545,12 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:171
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:175
 msgid "Table with ``Factor Loadings`` for the specified CFA model in jamovi"
-msgstr ""
+msgstr "Таблиця з ``Factor Loadings`` для зазначеної моделі CFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:179
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:183
 msgid "Table with ``Factor Covariances`` for the specified CFA model in jamovi"
-msgstr ""
+msgstr "Таблиця з ``Factor Covariances`` для зазначеної моделі CFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:187
 msgid ""
@@ -1549,6 +1571,8 @@ msgid ""
 "Table with ``Factor Loadings Modification Indices`` for the specified CFA "
 "model in jamovi"
 msgstr ""
+"Таблиця з ``Factor Loadings Modification Indices`` для зазначеної моделі CFA "
+"в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:204
 msgid ""
@@ -1605,6 +1629,8 @@ msgid ""
 "Table with ``Residual Covariances Modification Indices`` for the specified "
 "CFA model in jamovi"
 msgstr ""
+"Таблиця з ``Residual Covariances Modification Indices`` для зазначеної "
+"моделі CFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:246
 msgid ""
@@ -1662,7 +1688,7 @@ msgstr "Перевірка припущень та використаний ме
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
-msgstr ""
+msgstr "Опис відсутніх даних та того, як з ними було оброблено."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
@@ -1680,6 +1706,8 @@ msgid ""
 "Any alterations made to the original model based on model fit or "
 "modification indices."
 msgstr ""
+"Будь-які зміни, внесені до оригінальної моделі на основі індексів "
+"відповідності моделі або модифікації."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:294
 msgid ""
@@ -1819,7 +1847,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:88
 msgid "Select the 5 ``A``-variables and transfer them into the ``Items`` box."
-msgstr ""
+msgstr "Виберіть 5 ``A``-змінних та перенесіть їх у поле ``Items``."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:90
 msgid ""
@@ -1841,6 +1869,7 @@ msgid ""
 "Options panel with the settings for conducting a Reliability Analysis in "
 "jamovi"
 msgstr ""
+"Панель параметрів з налаштуваннями для проведення аналізу надійності в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:107
 msgid ""
