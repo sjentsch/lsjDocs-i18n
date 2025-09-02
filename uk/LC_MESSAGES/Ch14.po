@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:02+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch14/"
 "uk/>\n"
@@ -383,6 +383,7 @@ msgstr "Нульова гіпотеза, H\\ :sub:`0`:"
 msgid ""
 "row means are the same, i.e., µ\\ :sub:`1.` = µ\\ :sub:`2.` = µ\\ :sub:`3.`"
 msgstr ""
+"засоби рядка однакові, i.e., µ\\ :sub:`1.` = µ\\ :sub:`2.` = µ\\ :sub:`3.`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:174 ../../Ch14/Ch14_ANOVA2_01.rst:202
 msgid "Alternative hypothesis, H\\ :sub:`1`:"
@@ -420,6 +421,7 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_01.rst:199
 msgid "column means are the same, i.e., µ\\ :sub:`.1` = µ\\ :sub:`.2`"
 msgstr ""
+"середні значення у стовпцях однакові, тобто µ\\ :sub:`.1` = µ\\ :sub:`.2`"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:202
 msgid "column means are different, i.e., µ\\ :sub:`.1` ≠ µ\\ :sub:`.2`"
@@ -480,12 +482,15 @@ msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the factors ``drug`` and "
 "``therapy``"
 msgstr ""
+"jamovi факторіали ANOVA для ``mood.gain`` з факторами ``drug`` та ``therapy``"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:257
 msgid ""
 "jamovi factorial ANOVA for ``mood.gain`` with the two factors ``drug`` and "
 "``therapy``"
 msgstr ""
+"jamovi факторіал ANOVA для ``mood.gain`` з двома факторами ``drug`` і "
+"``therapy``"
 
 #: ../../Ch14/Ch14_ANOVA2_01.rst:262
 msgid ""
@@ -1446,6 +1451,8 @@ msgid ""
 "Results for the full factorial model, including the interaction component "
 "``drug`` × ``therapy``"
 msgstr ""
+"Результати для повної факторної моделі, включаючи компонент взаємодії "
+"``drug`` × ``therapy``"
 
 #: ../../Ch14/Ch14_ANOVA2_02.rst:247
 msgid ""
@@ -1736,6 +1743,8 @@ msgid ""
 "Implausibly large, I would think. The artificiality of this data set is "
 "really starting to show!"
 msgstr ""
+"Неймовірно великий, я б подумав. Штучність цього набору даних справді "
+"починає проявлятися!"
 
 #: ../../Ch14/Ch14_ANOVA2_04.rst:4
 msgid "Assumption checking"
@@ -2491,6 +2500,8 @@ msgid ""
 "Results table showing the Omnibus ANOVA Test from the jamovi regression "
 "analysis using the |rtfm|_ dataset"
 msgstr ""
+"Таблиця результатів, що показує Omnibus ANOVA тест з регресійного аналізу "
+"jamovi з використанням набору даних |rtfm|_"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:312
 msgid "How to encode non binary factors as contrasts"
@@ -2696,6 +2707,8 @@ msgid ""
 "Regression analysis with factors and contrasts in jamovi, including omnibus "
 "ANOVA test results"
 msgstr ""
+"Регресійний аналіз з факторами та контрастами в jamovi, включаючи результати "
+"омнібусного дисперсійного аналізу (ANOVA)"
 
 #: ../../Ch14/Ch14_ANOVA2_07.rst:471
 msgid ""
@@ -2979,6 +2992,8 @@ msgid ""
 "Compares the mean of each level (except the last) to the mean of the "
 "subsequent level."
 msgstr ""
+"Порівнює середнє значення кожного рівня (крім останнього) із середнім "
+"значенням наступного рівня."
 
 #: ../../Ch14/Ch14_ANOVA2_08.rst:169
 msgid "**Polynomial**"
@@ -3048,24 +3063,32 @@ msgid ""
 "The difference in ``mood.gain`` for people given ``anxifree`` versus people "
 "given the ``placebo``."
 msgstr ""
+"Різниця в ``mood.gain`` для людей, даних ``anxifree`` порівняно з людьми, "
+"яким враховано ``placebo``."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:39
 msgid ""
 "The difference in ``mood.gain`` for people given ``joyzepam`` versus people "
 "given the ``placebo``."
 msgstr ""
+"Різниця в ``mood.gain`` для людей, даних ``joyzepam`` порівняно з людьми, "
+"яким враховано ``placebo``."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:42
 msgid ""
 "The difference in ``mood.gain`` for people given ``anxifree`` versus people "
 "given ``joyzepam``."
 msgstr ""
+"Різниця в ``mood.gain`` для людей, даних ``anxifree`` порівняно з людьми, "
+"дані ``joyzepam``."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:45
 msgid ""
 "The difference in ``mood.gain`` for people treated with ``CBT`` and people "
 "given ``no.therapy``."
 msgstr ""
+"Різниця в ``mood.gain`` для людей, які лікуються ``CBT`` і людям, даним "
+"``no.therapy``."
 
 #: ../../Ch14/Ch14_ANOVA2_09.rst:48
 msgid ""
@@ -3456,6 +3479,8 @@ msgstr ""
 msgid ""
 "Results table using Type 1 sum of squares, factor ``sugar`` entered first"
 msgstr ""
+"Таблиця результатів з використанням суми квадратів типу 1, фактор ``sugar`` "
+"введено першим"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:191
 msgid ""
@@ -3480,6 +3505,8 @@ msgstr ""
 #: ../../Ch14/Ch14_ANOVA2_11.rst:209
 msgid "Results table using Type 1 sum of squares, factor milk entered first"
 msgstr ""
+"Таблиця результатів з використанням суми квадратів типу 1, фактор молоко "
+"введено першим"
 
 #: ../../Ch14/Ch14_ANOVA2_11.rst:213
 msgid ""
@@ -4050,12 +4077,17 @@ msgid ""
 "Factorial ANOVA with balanced designs, :doc:`without interactions "
 "<Ch14_ANOVA2_01>` and :doc:`with interactions included <Ch14_ANOVA2_02>`"
 msgstr ""
+"Факторіальний дисперсійний аналіз (ANOVA) зі збалансованими планами, :doc:`"
+"without interactions <Ch14_ANOVA2_01>` і :doc:`with interactions included "
+"<Ch14_ANOVA2_02>`"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:9
 msgid ""
 ":doc:`Effect size, estimated means, and confidence intervals in a factorial "
 "ANOVA <Ch14_ANOVA2_03>`"
 msgstr ""
+":doc:`Effect size, estimated means, and confidence intervals in a factorial "
+"ANOVA <Ch14_ANOVA2_03>`"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:12
 msgid ":doc:`Checking assumptions in the ANOVA <Ch14_ANOVA2_04>`"
@@ -4070,12 +4102,16 @@ msgid ""
 ":doc:`Understanding the linear model underlying ANOVA <Ch14_ANOVA2_07>`, "
 "including :doc:`different contrasts <Ch14_ANOVA2_08>`"
 msgstr ""
+":doc:`Understanding the linear model underlying ANOVA <Ch14_ANOVA2_07>`, "
+"включаючи :doc:`different contrasts <Ch14_ANOVA2_08>`"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:19
 msgid ""
 ":doc:`Post-hoc testing <Ch14_ANOVA2_09>` (using Tukey’s HSD) and a brief "
 "commentary on :doc:`planned comparisons <Ch14_ANOVA2_10>`"
 msgstr ""
+":doc:`Post-hoc testing <Ch14_ANOVA2_09>` ((з використанням HSD Тьюкі) та "
+"короткий коментар до :doc:`planned comparisons <Ch14_ANOVA2_10>`"
 
 #: ../../Ch14/Ch14_ANOVA2_12.rst:22
 msgid ":doc:`Factorial ANOVA with unbalanced designs <Ch14_ANOVA2_11>`"
