@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch16/"
 "uk/>\n"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_1.rst:28
 msgid "Priors: what you believed before"
-msgstr ""
+msgstr "Попередні події: у що ви вірили раніше"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:30
 msgid ""
@@ -179,7 +179,7 @@ msgstr "0.85"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:58
 msgid "Likelihoods: theories about the data"
-msgstr ""
+msgstr "Ймовірності: теорії про дані"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:60
 msgid ""
@@ -469,7 +469,7 @@ msgstr "*P*\\ (d\\ :sub:`2`\\ )"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:201
 msgid "Updating beliefs using Bayes’ rule"
-msgstr ""
+msgstr "Оновлення переконань за допомогою правила Байєса"
 
 #: ../../Ch16/Ch16_Bayes_1.rst:203
 msgid ""
@@ -1017,7 +1017,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:99
 msgid "Evidentiary standards you can believe"
-msgstr ""
+msgstr "Стандарти доказів, яким ви можете довіряти"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid ""
@@ -1029,7 +1029,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:109
 msgid ":ref:`Sir Ronald Fisher (1925) <Fisher_1925>`"
-msgstr ""
+msgstr ":ref:`Sir Ronald Fisher (1925) <Fisher_1925>`"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:111
 msgid ""
@@ -1071,11 +1071,11 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:145
 msgid "The *p*-value is a lie."
-msgstr ""
+msgstr "Значення *p* — це брехня."
 
 #: ../../Ch16/Ch16_Bayes_3.rst:0
 msgid "*The cake is a lie.*"
-msgstr ""
+msgstr "*Торт — брехня.*"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:154
 msgid "`Portal <https://knowyourmeme.com/memes/the-cake-is-a-lie>`__"
@@ -1238,7 +1238,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "*p* between 0.05 and 0.1"
-msgstr ""
+msgstr "*p* між 0,05 та 0,1"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:259
 msgid "Continue the experiment"
@@ -1336,7 +1336,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_3.rst:338
 msgid "Is it really this bad?"
-msgstr ""
+msgstr "Невже це справді так погано?"
 
 #: ../../Ch16/Ch16_Bayes_3.rst:340
 msgid ""
@@ -1511,7 +1511,7 @@ msgstr ""
 
 #: ../../Ch16/Ch16_Bayes_5.rst:29 ../../Ch16/Ch16_Bayes_5.rst:33
 msgid "``Independent Samples T-Test`` result in jamovi"
-msgstr ""
+msgstr "``Independent Samples T-Test`` призводити до jamovi"
 
 #: ../../Ch16/Ch16_Bayes_5.rst:37
 msgid ""
