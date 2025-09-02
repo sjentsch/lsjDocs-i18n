@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:02+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -199,7 +199,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_02.rst:26
 msgid ""
 "H\\ :sub:`0`: it is true that µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "H\\ :sub:`0`: це правда, що µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:28
 msgid ""
@@ -214,6 +214,7 @@ msgstr ""
 msgid ""
 "H\\ :sub:`1`: it is NOT true that µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 msgstr ""
+"H\\ :sub:`1`: це НЕ правда, що µ\\ :sub:`P` = µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:36
 msgid ""
@@ -653,6 +654,8 @@ msgid ""
 "Finally, we calculate the *F*-ratio by dividing the between-groups MS by the "
 "within-groups MS:"
 msgstr ""
+"Нарешті, ми обчислюємо *F*-співвідношення, ділячи міжгрупову MS на "
+"внутрішньогрупову MS:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:254 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "F = |MS_b| / |MS_w|"
@@ -1217,6 +1220,8 @@ msgid ""
 "As you can see, the between group calculations are a lot shorter (when "
 "calculated b hand)."
 msgstr ""
+"Як бачите, міжгрупові розрахунки набагато коротші (якщо розраховувати "
+"вручну)."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:539
 msgid ""
@@ -1368,6 +1373,8 @@ msgid ""
 "|SS_w| is also referred to in an independent ANOVA as the error variance, or "
 "SS\\ :sub:`error`"
 msgstr ""
+"|SS_w| також називається в незалежному дисперсійному аналізі (ANOVA) "
+"дисперсією помилки, або SS\\ :sub:`error`"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:628
 msgid ""
@@ -1382,6 +1389,8 @@ msgstr ""
 msgid ""
 "Or, if we want to be sticklers for accuracy, :math:`1 + \\frac{2}{df_2 - 2}`."
 msgstr ""
+"Або, якщо ми хочемо бути прискіпливими до точності, :math:`1 + \\frac{2}{"
+"df_2 - 2}`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:639
 msgid ""
@@ -1542,18 +1551,23 @@ msgid ""
 "Your competitor’s drug (Anxifree) is no better than a placebo (i.e., µ\\ :"
 "sub:`A` = µ\\ :sub:`P`)"
 msgstr ""
+"Препарат вашого конкурента (Anxifree) нічим не кращий за плацебо (тобто µ\\ "
+":sub:`A` = µ\\ :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:17
 msgid ""
 "Your drug (Joyzepam) is no better than a placebo (i.e., µ\\ :sub:`J` = µ\\ :"
 "sub:`P`)"
 msgstr ""
+"Ваш препарат (Джойзепам) нічим не кращий за плацебо (тобто µ\\ :sub:`J` = µ\\"
+" :sub:`P`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:20
 msgid ""
 "Anxifree and Joyzepam are equally effective (i.e., µ\\ :sub:`J` = µ\\ :sub:"
 "`A`)"
 msgstr ""
+"Анксіфрі та Джойзепам однаково ефективні (i.e., µ\\ :sub:`J` = µ\\ :sub:`A`)"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:23
 msgid ""
@@ -2129,7 +2143,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:176 ../../Ch13/Ch13_ANOVA_06.rst:180
 msgid "Welch’s test as part of the One-Way ANOVA analysis in jamovi"
-msgstr ""
+msgstr "Критерій Велча як частина однофакторного дисперсійного аналізу в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:184
 msgid ""
@@ -2259,7 +2273,7 @@ msgstr ""
 #: ../../Ch13/Ch13_ANOVA_06.rst:273
 msgid ""
 "and we can define the “between groups ranked sums of squares” like this:"
-msgstr ""
+msgstr "і ми можемо визначити «міжгрупові ранжовані суми квадратів» так:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:275
 msgid ""
@@ -2495,6 +2509,8 @@ msgid ""
 "Repeated Measures ANOVA: SS\\ :sub:`error` = SS\\ :sub:`w` - SS\\ :sub:"
 "`subjects`"
 msgstr ""
+"Повторні вимірювання ANOVA: SS\\ :sub:`error` = SS\\ :sub:`w` - SS\\ "
+":sub:`subjects`"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:43
 msgid ""
@@ -2589,12 +2605,16 @@ msgid ""
 "Then move each of the levels variables across to the ``Repeated Measures "
 "Cells`` text box."
 msgstr ""
+"Потім перемістіть кожну зі змінних рівнів до текстового поля ``Repeated "
+"Measures Cells`` ."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:111
 msgid ""
 "Finally, under the ``Assumption Checks`` option, tick the ``Sphericity "
 "checks`` check box."
 msgstr ""
+"Зрештою, під ``Assumption Checks`` опцію, поставте позначку ``Sphericity "
+"checks`` прапорець."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:116 ../../Ch13/Ch13_ANOVA_07.rst:120
 msgid "Repeated measures ANOVA dialogue box in jamovi"
@@ -2640,6 +2660,8 @@ msgid ""
 "But if the ``Greenhouse-Geisser`` value is < 0.75, then you should use the "
 "Greenhouse-Geisser correction."
 msgstr ""
+"Але якщо значення ``Greenhouse-Geisser`` < 0,75, тоді слід використовувати "
+"поправку Greenhouse-Geisser."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:159
 msgid ""
@@ -2830,6 +2852,8 @@ msgid ""
 ":doc:`Repeated measures ANOVA <Ch13_ANOVA_07>` and its non-parametric "
 "equivalent, the :doc:`Friedman test <Ch13_ANOVA_08>`."
 msgstr ""
+":doc:`Repeated measures ANOVA <Ch13_ANOVA_07>` та його непараметричний "
+"еквівалент, :doc:`Friedman test <Ch13_ANOVA_08>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:26
 msgid ""
