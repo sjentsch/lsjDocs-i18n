@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -458,7 +458,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:133
 msgid "From variances to sums of squares"
-msgstr ""
+msgstr "Від дисперсій до сум квадратів"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:135
 msgid ""
@@ -1407,7 +1407,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:4
 msgid "Running an ANOVA in jamovi"
-msgstr ""
+msgstr "Проведення дисперсійного аналізу (ANOVA) в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:6
 msgid ""
@@ -1421,7 +1421,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:14
 msgid "Using jamovi to specify your ANOVA"
-msgstr ""
+msgstr "Використання jamovi для визначення вашого ANOVA"
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:16
 msgid ""
@@ -1522,7 +1522,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:4
 msgid "Multiple comparisons and post-hoc tests"
-msgstr ""
+msgstr "Багаторазові порівняння та постфактумні тести"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:6
 msgid ""
@@ -1580,15 +1580,15 @@ msgstr "можливість:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`A`"
-msgstr ""
+msgstr "є µ\\ :sub:`P` = µ\\ :sub:`A`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`P` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "є µ\\ :sub:`P` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "is µ\\ :sub:`A` = µ\\ :sub:`J`"
-msgstr ""
+msgstr "є µ\\ :sub:`A` = µ\\ :sub:`J`"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "which hypothesis?"
@@ -1851,7 +1851,7 @@ msgstr "0.103"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:209
 msgid "Hopefully that makes things clear."
-msgstr ""
+msgstr "Сподіваюся, це все прояснює."
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:211
 msgid ""
@@ -1872,7 +1872,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:226
 msgid "Writing up the post-hoc test"
-msgstr ""
+msgstr "Написання постфактумного тесту"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:228
 msgid ""
@@ -1919,7 +1919,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:4
 msgid "Assumptions of the one-way ANOVA"
-msgstr ""
+msgstr "Припущення однофакторного ANOVA"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:6
 msgid ""
@@ -2010,7 +2010,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:72
 msgid "Checking the homogeneity of variance assumption"
-msgstr ""
+msgstr "Перевірка припущення про однорідність дисперсії"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:82
 msgid ""
@@ -2076,7 +2076,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:127
 msgid "Running the Levene-test in jamovi"
-msgstr ""
+msgstr "Виконання тесту Левена в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:129
 msgid ""
@@ -2104,7 +2104,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:157
 msgid "Removing the homogeneity of variance assumption"
-msgstr ""
+msgstr "Вилучення припущення про однорідність дисперсії"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:159
 msgid ""
@@ -2428,11 +2428,11 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:369
 msgid "non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
-msgstr ""
+msgstr "непараметричний ``One-Way ANOVA (Kruskal-Wallis)`` в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:373
 msgid "Non-parametric ``One-Way ANOVA (Kruskal-Wallis)`` in jamovi"
-msgstr ""
+msgstr "Непараметричний ``One-Way ANOVA (Kruskal-Wallis)`` в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:380
 msgid "A technical term."
@@ -2506,7 +2506,7 @@ msgstr ""
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:51
 msgid "Repeated measures ANOVA in jamovi"
-msgstr ""
+msgstr "Повторні вимірювання ANOVA в jamovi"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:53
 msgid ""
