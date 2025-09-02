@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch11/"
 "uk/>\n"
@@ -234,7 +234,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:87
 msgid "The psychology grades are normally distributed."
-msgstr ""
+msgstr "Оцінки з психології розподіляються за звичайним правилом."
 
 #: ../../Ch11/Ch11_tTest_01.rst:89
 msgid "The true standard deviation of these scores σ is known to be 9.5."
@@ -308,7 +308,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:145
 msgid "X ~ Normal(µ\\ :sub:`0`, σ²)"
-msgstr ""
+msgstr "X ~ Normal(µ\\ :sub:`0`, σ²)"
 
 #: ../../Ch11/Ch11_tTest_01.rst:147
 msgid ""
@@ -467,7 +467,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:219
 msgid "A worked example, by hand"
-msgstr ""
+msgstr "Зроблений вручну приклад"
 
 #: ../../Ch11/Ch11_tTest_01.rst:221
 msgid ""
@@ -490,7 +490,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_01.rst:240
 msgid "And finally, we calculate our *z*-score:"
-msgstr ""
+msgstr "І нарешті, ми обчислюємо наш *z*-оцінку:"
 
 #: ../../Ch11/Ch11_tTest_01.rst:248
 msgid ""
@@ -696,7 +696,7 @@ msgstr ""
 #: ../../Ch11/Ch11_tTest_02.rst:100 ../../Ch11/Ch11_tTest_03.rst:261
 #: ../../Ch11/Ch11_tTest_05.rst:166
 msgid "Doing the test in jamovi"
-msgstr ""
+msgstr "Проходження тесту в jamovi"
 
 #: ../../Ch11/Ch11_tTest_02.rst:102
 msgid ""
@@ -721,7 +721,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:122 ../../Ch11/Ch11_tTest_02.rst:126
 msgid "Conducting an One-sample *t*-test in jamovi"
-msgstr ""
+msgstr "Проведення одновибіркового *t*-тесту в jamovi"
 
 #: ../../Ch11/Ch11_tTest_02.rst:130
 msgid ""
@@ -763,7 +763,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_02.rst:158
 msgid "Assumptions of the one sample *t*-test"
-msgstr ""
+msgstr "Припущення одновибіркового *t*-тесту"
 
 #: ../../Ch11/Ch11_tTest_02.rst:160
 msgid ""
@@ -833,7 +833,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:4
 msgid "The independent samples *t*-test (Student test)"
-msgstr ""
+msgstr "*t*-критерій незалежних вибірок (критерій Стьюдента)"
 
 #: ../../Ch11/Ch11_tTest_03.rst:6
 msgid ""
@@ -1063,7 +1063,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:161
 msgid "Mathematically, we can write this as"
-msgstr ""
+msgstr "Математично ми можемо записати це як"
 
 #: ../../Ch11/Ch11_tTest_03.rst:163
 msgid "w\\ :sub:`1` = *N*\\ :sub:`1` - 1"
@@ -1219,7 +1219,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:246
 msgid "and our *t*-statistic is therefore"
-msgstr ""
+msgstr "і тому наша *t*-статистика є"
 
 #: ../../Ch11/Ch11_tTest_03.rst:248 ../../Ch11/Ch11_tTest_04.rst:42
 msgid ""
@@ -1427,7 +1427,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_03.rst:410
 msgid "Assumptions of the Student *t*-test"
-msgstr ""
+msgstr "Припущення студента *t*-test"
 
 #: ../../Ch11/Ch11_tTest_03.rst:412
 msgid ""
@@ -1501,7 +1501,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:4
 msgid "The independent samples *t*-test (Welch test)"
-msgstr ""
+msgstr "*t* -критерій незалежних вибірок (критерій Велча)"
 
 #: ../../Ch11/Ch11_tTest_04.rst:6
 msgid ""
@@ -1612,7 +1612,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_04.rst:77
 msgid "Doing the Welch test in jamovi"
-msgstr ""
+msgstr "Проведення тесту Велча в jamovi"
 
 #: ../../Ch11/Ch11_tTest_04.rst:79
 msgid ""
@@ -1792,7 +1792,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:106
 msgid "What is the paired samples *t*-test?"
-msgstr ""
+msgstr "Що таке парні зразки *t*-test?"
 
 #: ../../Ch11/Ch11_tTest_05.rst:108
 msgid ""
@@ -1920,7 +1920,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_05.rst:198
 msgid "Results showing a paired sample *t*-test"
-msgstr ""
+msgstr "Результати, що показують *t*-тест для парних вибірок"
 
 #: ../../Ch11/Ch11_tTest_05.rst:202
 msgid ""
@@ -2155,7 +2155,7 @@ msgstr "«великий» ефект"
 
 #: ../../Ch11/Ch11_tTest_07.rst:55
 msgid "Cohen’s *d* from one sample"
-msgstr ""
+msgstr "*d* Коена з одного семпла"
 
 #: ../../Ch11/Ch11_tTest_07.rst:57
 msgid ""
@@ -2187,7 +2187,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:74
 msgid "Cohen’s *d* from a Student’s *t*-test"
-msgstr ""
+msgstr "Коенів *d* зі студентського блогу *t*-test"
 
 #: ../../Ch11/Ch11_tTest_07.rst:76
 msgid ""
@@ -2259,7 +2259,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_07.rst:125
 msgid "Cohen’s *d* from a paired-samples test"
-msgstr ""
+msgstr "Коенів *d* з тесту парних зразків"
 
 #: ../../Ch11/Ch11_tTest_07.rst:127
 msgid ""
@@ -2310,7 +2310,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:4
 msgid "Checking the normality of a sample"
-msgstr ""
+msgstr "Перевірка нормальності вибірки"
 
 #: ../../Ch11/Ch11_tTest_08.rst:6
 msgid ""
@@ -2513,7 +2513,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_08.rst:169
 msgid "This is a massive oversimplification."
-msgstr ""
+msgstr "Це величезне спрощення."
 
 #: ../../Ch11/Ch11_tTest_08.rst:172
 msgid ""
@@ -2527,7 +2527,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:4
 msgid "Testing non-normal data with Wilcoxon tests"
-msgstr ""
+msgstr "Тестування ненормальних даних за допомогою тестів Вілкоксона"
 
 #: ../../Ch11/Ch11_tTest_09.rst:6
 msgid ""
@@ -2554,7 +2554,7 @@ msgstr ""
 
 #: ../../Ch11/Ch11_tTest_09.rst:26
 msgid "Two sample Mann-Whitney U test"
-msgstr ""
+msgstr "Двовибірковий U-критерій Манна-Вітні"
 
 #: ../../Ch11/Ch11_tTest_09.rst:28
 msgid ""
