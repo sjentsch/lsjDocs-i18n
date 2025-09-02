@@ -534,7 +534,7 @@ msgstr ""
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:248
 msgid "The sampling distribution of the GOF statistic"
-msgstr ""
+msgstr "Розподіл вибірки статистики GOF"
 
 #: ../../Ch10/Ch10_ChiSquare_1.rst:250
 msgid ""
