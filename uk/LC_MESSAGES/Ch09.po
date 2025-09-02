@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:35
 msgid "Research hypotheses versus statistical hypotheses"
-msgstr ""
+msgstr "Дослідницькі гіпотези проти статистичних гіпотез"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:37
 msgid ""
@@ -331,7 +331,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:175
 msgid "Null hypotheses and alternative hypotheses"
-msgstr ""
+msgstr "Нульові гіпотези та альтернативні гіпотези"
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:177
 msgid ""
@@ -570,7 +570,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:4
 msgid "Test statistics and sampling distributions"
-msgstr ""
+msgstr "Тестова статистика та розподіл вибірки"
 
 #: ../../Ch09/Ch09_HypothesisTesting_03.rst:6
 msgid ""
@@ -679,7 +679,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:18
 msgid "Critical regions and critical values"
-msgstr ""
+msgstr "Критичні регіони та критичні значення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:20
 msgid ""
@@ -725,7 +725,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:51
 msgid "Critical region associated with a two-sided test"
-msgstr ""
+msgstr "Критична область, пов'язана з двостороннім тестом"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:55
 msgid ""
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:101
 msgid "A note on statistical “significance”"
-msgstr ""
+msgstr "Примітка щодо статистичної «значущості»"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:0
 msgid ""
@@ -803,7 +803,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:109
 msgid "Attributed to G. O. Ashley\\ [#]_"
-msgstr ""
+msgstr "Приписується Г. О. Ешлі\\ [#]_"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:111
 msgid ""
@@ -825,7 +825,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:129
 msgid "The difference between one-sided and two-sided tests"
-msgstr ""
+msgstr "Різниця між односторонніми та двосторонніми тестами"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:131
 msgid ""
@@ -880,7 +880,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:166
 msgid "Critical region associated with a one-sided test"
-msgstr ""
+msgstr "Критична область, пов'язана з одностороннім тестом"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:170
 msgid ""
@@ -910,7 +910,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:4
 msgid "The *p*-value of a test"
-msgstr ""
+msgstr "*p*-значення тесту"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:6
 msgid ""
@@ -930,7 +930,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:21
 msgid "A softer view of decision making"
-msgstr ""
+msgstr "М'якший погляд на прийняття рішень"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:23
 msgid ""
@@ -1036,7 +1036,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:83
 msgid "The probability of extreme data"
-msgstr ""
+msgstr "Ймовірність екстремальних даних"
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:85
 msgid ""
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:4
 msgid "Reporting the results of a hypothesis test"
-msgstr ""
+msgstr "Звітування про результати перевірки гіпотез"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:6
 msgid ""
@@ -1276,7 +1276,7 @@ msgstr "\\*\\*\\*"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:120
 msgid "The test was significant at all levels"
-msgstr ""
+msgstr "Тест був значущим на всіх рівнях"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:124
 msgid ""
@@ -1314,7 +1314,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:4
 msgid "Running the hypothesis test in practice"
-msgstr ""
+msgstr "Проведення перевірки гіпотези на практиці"
 
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:6
 msgid ""
@@ -1334,7 +1334,7 @@ msgstr ""
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:20
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:24
 msgid "Binomial test analysis and results in jamovi"
-msgstr ""
+msgstr "Аналіз біноміального тесту та результати в jamovi"
 
 #: ../../Ch09/Ch09_HypothesisTesting_07.rst:28
 msgid ""
@@ -1356,7 +1356,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:4
 msgid "Effect size, sample size and power"
-msgstr ""
+msgstr "Розмір ефекту, розмір вибірки та потужність"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:6
 msgid ""
@@ -1529,7 +1529,7 @@ msgstr "значний результат"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, and of practical importance"
-msgstr ""
+msgstr "різниця реальна та має практичне значення"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:146
 msgid "difference is real, but might not be interesting"
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:188
 msgid "Increasing the power of your study"
-msgstr ""
+msgstr "Збільшення ефективності вашого навчання"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:190
 msgid ""
@@ -1920,7 +1920,7 @@ msgstr ""
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:24
 msgid ":doc:`*p*-values as “soft” decisions <Ch09_HypothesisTesting_05>`"
-msgstr ""
+msgstr ":doc:`*p*-values as “soft” decisions <Ch09_HypothesisTesting_05>`"
 
 #: ../../Ch09/Ch09_HypothesisTesting_10.rst:26
 msgid ""
