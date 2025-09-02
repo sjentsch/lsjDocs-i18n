@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch09/"
 "uk/>\n"
@@ -171,6 +171,9 @@ msgid ""
 "relational claim about two psychological constructs (intelligence and "
 "personality), but the claim is weaker: correlational not causal."
 msgstr ""
+"*Інтелект пов'язаний з особистістю*. Як і попереднє твердження, це відносне "
+"твердження про два психологічні конструкти (інтелект і особистість), але "
+"воно є слабшим: кореляційним, а не причинно-наслідковим."
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:60
 msgid ""
@@ -266,6 +269,9 @@ msgid ""
 "that’s true people will perform better than chance and the statistical "
 "hypothesis is that *θ* > 0.5\\ ."
 msgstr ""
+"Або ж припустимо, що екстрасенсорне сприйняття (ЕСП) існує, і учасники "
+"можуть бачити картку. Якщо це правда, люди показуватимуть кращі результати, "
+"ніж випадково, і статистична гіпотеза полягає в тому, що *θ* > 0,5\\."
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:136
 msgid ""
@@ -290,6 +296,9 @@ msgid ""
 "they are statements about a population parameter and are meaningfully "
 "related to my experiment."
 msgstr ""
+"Усі ці приклади є законними прикладами статистичної гіпотези, оскільки вони "
+"є твердженнями про параметр популяції та мають змістовне відношення до мого "
+"експерименту."
 
 #: ../../Ch09/Ch09_HypothesisTesting_01.rst:152
 msgid ""
@@ -393,6 +402,9 @@ msgid ""
 "US/Australia. As I understand these things, the French inquisitorial system "
 "is quite different."
 msgstr ""
+"Ця аналогія працює лише для тих, хто перебуває у змагальній правовій "
+"системі, як-от Велика Британія/США/Австралія. Наскільки я розумію ці речі, "
+"французька інквізиційна система зовсім інша."
 
 #: ../../Ch09/Ch09_HypothesisTesting_02.rst:4
 msgid "Two types of errors"
@@ -771,6 +783,8 @@ msgid ""
 "(2) come up with some test statistic (e.g., *X*) that does a good job (in "
 "some meaningful sense) of comparing H\\ :sub:`0` to H\\ :sub:`1`;"
 msgstr ""
+"(2) придумати певну тестову статистику (наприклад, *X*), яка добре (у "
+"певному сенсі) порівнює H\\ :sub:`0` з H\\ :sub:`1`;"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:86
 msgid ""
@@ -778,6 +792,8 @@ msgid ""
 "assumption that the null hypothesis is true (in this case, binomial); and "
 "then"
 msgstr ""
+"(3) визначити розподіл вибірки тестової статистики, припускаючи, що нульова "
+"гіпотеза істинна (у цьому випадку біноміальна); а потім"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:90
 msgid ""
@@ -806,6 +822,9 @@ msgid ""
 "private jargon deliberately contrived to obscure its methods from non-"
 "practitioners*."
 msgstr ""
+"*Як і інші окультні техніки ворожіння, статистичний метод має особистий "
+"жаргон, навмисно вигаданий, щоб приховати його методи від тих, хто його не "
+"практикує*."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:109
 msgid "Attributed to G. O. Ashley\\ [#]_"
@@ -839,6 +858,9 @@ msgid ""
 "I’ve just constructed. If we take a moment to think about the statistical "
 "hypotheses I’ve been using,"
 msgstr ""
+"Є ще одна річ, яку я хочу зазначити щодо перевірки гіпотез, яку я щойно "
+"сформулював. Якщо ми на хвилинку подумаємо про статистичні гіпотези, які я "
+"використовував,"
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:135
 msgid "H\\ :sub:`0`: *θ* = 0.5"
@@ -883,6 +905,9 @@ msgid ""
 "critical region only covers one tail of the sampling distribution. This is "
 "illustrated in :numref:`fig-rejectionRegion2`."
 msgstr ""
+"Коли це трапляється, ми маємо так званий **односторонній тест**, і критична "
+"область охоплює лише один хвіст розподілу вибірки. Це проілюстровано на "
+"малюнку :numref:`fig-rejectionRegion2`."
 
 #: ../../Ch09/Ch09_HypothesisTesting_04.rst:166
 msgid "Critical region associated with a one-sided test"
@@ -913,6 +938,8 @@ msgid ""
 "The internet seems fairly convinced that Ashley said this, though I can’t "
 "for the life of me find anyone willing to give a source for the claim."
 msgstr ""
+"Інтернет, здається, цілком переконаний, що Ешлі сказала це, хоча я ніяк не "
+"можу знайти нікого, хто б погодився надати джерело цього твердження."
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:4
 msgid "The *p*-value of a test"
@@ -1014,6 +1041,8 @@ msgid ""
 "*p* is defined to be the smallest Type I error rate (α) that you have to be "
 "willing to tolerate if you want to reject the null hypothesis."
 msgstr ""
+"*p* визначається як найменший коефіцієнт помилок I типу (α), який ви повинні "
+"бути готові терпіти, якщо хочете відхилити нульову гіпотезу."
 
 #: ../../Ch09/Ch09_HypothesisTesting_05.rst:61
 msgid ""
@@ -1253,7 +1282,7 @@ msgstr "\\*"
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:112
 msgid "The test was significant at α = 0.05; but not at α =.01 or α = 0.001."
-msgstr ""
+msgstr "Тест був значущим при α = 0,05; але не при α = 0,01 або α = 0,001."
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:112
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:116
@@ -1272,7 +1301,7 @@ msgstr "\\*\\*"
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:116
 msgid ""
 "The test was significant at α = 0.05 and α = 0.01; but not at α = 0.001."
-msgstr ""
+msgstr "Тест був значущим при α = 0,05 та α = 0,01; але не при α = 0,001."
 
 #: ../../Ch09/Ch09_HypothesisTesting_06.rst:120
 msgid "*p* < 0.001"
@@ -1395,6 +1424,9 @@ msgid ""
 "parameter value of θ = 0.55. A reasonable proportion of the distribution "
 "lies in the rejection region."
 msgstr ""
+"Розподіл вибірки за альтернативної гіпотези для значення параметра "
+"сукупності θ = 0,55. Достатня частина розподілу знаходиться в області "
+"відхилення."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:33
 msgid ""
@@ -1439,6 +1471,8 @@ msgid ""
 "parameter value of θ = 0.70. Almost all of the distribution lies in the "
 "rejection region."
 msgstr ""
+"Розподіл вибірки за альтернативної гіпотези для значення параметра "
+"сукупності θ = 0,70. Майже весь розподіл лежить в області відхилення."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:74
 msgid ""
@@ -1479,6 +1513,9 @@ msgid ""
 "importantly wrong. It is inappropriate to be concerned with mice when there "
 "are tigers abroad*"
 msgstr ""
+"*Оскільки всі моделі помилкові, вчений повинен бути уважним до того, що "
+"насправді неправильно. Недоречно турбуватися про мишей, коли на вулицях є "
+"тигри.*"
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:110
 msgid ":ref:`George Box (1976) <Box_1976>`"
@@ -1682,6 +1719,10 @@ msgid ""
 "practice no experiment is perfect so there are always methodological issues "
 "to worry about."
 msgstr ""
+"Хоча на практиці дуже невеликий розмір ефекту викликає занепокоєння, "
+"оскільки навіть незначні методологічні недоліки можуть бути причиною цього "
+"ефекту, а на практиці жоден експеримент не є ідеальним, тому завжди є "
+"методологічні питання, про які слід турбуватися."
 
 #: ../../Ch09/Ch09_HypothesisTesting_08.rst:283
 msgid ""
@@ -1884,6 +1925,9 @@ msgid ""
 "*p*-value, most don’t. Most introductory textbooks will only give you the "
 "Fisher version."
 msgstr ""
+"Хоча в цій книзі описано визначення *p*-значення як за Нейманом, так і за "
+"Фішером, у більшості з них цього не відбувається. Більшість вступних "
+"підручників нададуть вам лише версію Фішера."
 
 #: ../../Ch09/Ch09_HypothesisTesting_09.rst:159
 msgid ""
