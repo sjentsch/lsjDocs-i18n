@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 10:01+0000\n"
+"PO-Revision-Date: 2025-09-02 16:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch12/"
 "uk/>\n"
@@ -205,7 +205,7 @@ msgstr "Гістограми для трьох змінних з набору д
 #: ../../Ch12/Ch12_Regression_01.rst:55
 msgid ""
 "Histograms for the three interesting variables in the |parenthood|_ data set"
-msgstr ""
+msgstr "Гістограми для трьох цікавих змінних у наборі даних |parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:61
 msgid "The strength and direction of a relationship"
@@ -389,6 +389,8 @@ msgid ""
 "jamovi screenshot showing correlations between variables in the |parenthood|"
 "_ data set"
 msgstr ""
+"Знімок екрана jamovi, що показує кореляції між змінними в наборі даних "
+"|parenthood|_"
 
 #: ../../Ch12/Ch12_Regression_01.rst:205
 msgid "Interpreting a correlation"
@@ -848,6 +850,8 @@ msgid ""
 "Matrix of scatterplots cretaed with the ``Correlation Matrix`` analysis in "
 "jamovi."
 msgstr ""
+"Матриця діаграм розсіювання, створена за допомогою аналізу ``Correlation "
+"Matrix`` в jamovi."
 
 #: ../../Ch12/Ch12_Regression_03.rst:4
 msgid "What is a linear regression model?"
@@ -975,6 +979,8 @@ msgid ""
 "which in turn means that we can write down the complete linear regression "
 "model as"
 msgstr ""
+"що, у свою чергу, означає, що ми можемо записати повну модель лінійної "
+"регресії як"
 
 #: ../../Ch12/Ch12_Regression_03.rst:104
 msgid ""
@@ -1002,7 +1008,7 @@ msgstr "Оцінювання моделі лінійної регресії"
 
 #: ../../Ch12/Ch12_Regression_04.rst:8
 msgid "Residuals associated with the best and with a poor regression line"
-msgstr ""
+msgstr "Залишки, пов'язані з найкращою та поганою лінією регресії"
 
 #: ../../Ch12/Ch12_Regression_04.rst:12
 msgid ""
@@ -1529,6 +1535,8 @@ msgid ""
 "And by “sometimes” I mean “almost never”. In practice everyone just calls it "
 "“*R*-squared”."
 msgstr ""
+"А під «іноді» я маю на увазі «майже ніколи». На практиці всі просто "
+"називають це «*R*-квадрат»."
 
 #: ../../Ch12/Ch12_Regression_06.rst:160
 msgid ""
@@ -1632,6 +1640,8 @@ msgid ""
 "Now that we’ve got our mean square values we can calculate an *F*-statistic "
 "like this:"
 msgstr ""
+"Тепер, коли ми отримали наші середньоквадратичні значення, ми можемо "
+"обчислити *F*-статистику ось так:"
 
 #: ../../Ch12/Ch12_Regression_07.rst:61
 msgid "F = MS\\ :sub:`mod` / SS\\ :sub:`res`"
@@ -1761,6 +1771,8 @@ msgid ""
 "jamovi screenshot showing a multiple linear regression analysis, with some "
 "useful options checked."
 msgstr ""
+"Знімок екрана jamovi, що показує множинний лінійний регресійний аналіз з "
+"деякими вибраними корисними опціями."
 
 #: ../../Ch12/Ch12_Regression_07.rst:154
 msgid ""
@@ -1851,6 +1863,8 @@ msgid ""
 "Fortunately, confidence intervals for the regression weights can be "
 "constructed in the usual fashion"
 msgstr ""
+"На щастя, довірчі інтервали для ваг регресії можна побудувати звичайним "
+"способом."
 
 #: ../../Ch12/Ch12_Regression_09.rst:29
 msgid ""
@@ -2173,7 +2187,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:94
 msgid "The formula for doing the calculations this time is subtly different"
-msgstr ""
+msgstr "Формула для розрахунків цього разу дещо відрізняється"
 
 #: ../../Ch12/Ch12_Regression_11.rst:96
 msgid ""
@@ -2454,7 +2468,7 @@ msgstr ""
 
 #: ../../Ch12/Ch12_Regression_11.rst:324
 msgid "The Box-Cox function is a fairly simple one and it’s very widely used."
-msgstr ""
+msgstr "Функція Бокса-Кокса є досить простою і дуже широко використовується."
 
 #: ../../Ch12/Ch12_Regression_11.rst:326
 msgid ""
@@ -2475,6 +2489,8 @@ msgid ""
 "You can calculate it using the ``BOXCOX`` function in the ``Compute`` "
 "variables screen in jamovi."
 msgstr ""
+"Ви можете обчислити це за допомогою функції ``BOXCOX`` на екрані ``"
+"Обчислення змінних`` в jamovi."
 
 #: ../../Ch12/Ch12_Regression_11.rst:337
 msgid "Checking for collinearity"
@@ -2703,6 +2719,8 @@ msgid ""
 "Although backward and forward selection can lead to the same conclusion, "
 "they don’t always."
 msgstr ""
+"Хоча зворотний та прямий відбір можуть призвести до одного й того ж "
+"висновку, вони не завжди це роблять."
 
 #: ../../Ch12/Ch12_Regression_12.rst:102
 msgid "A caveat"
@@ -2919,6 +2937,8 @@ msgid ""
 "Want to know how strong the relationship is between two variables? Calculate "
 "a :doc:`correlation <Ch12_Regression_01>`"
 msgstr ""
+"Хочете знати, наскільки сильний зв'язок між двома змінними? Обчисліть :doc:`"
+"correlation <Ch12_Regression_01>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:9
 msgid "Drawing :doc:`scatterplots <Ch12_Regression_02>`"
@@ -2929,6 +2949,8 @@ msgid ""
 ":doc:`Basic ideas in linear regression <Ch12_Regression_03>` and :doc:`how "
 "regression models are estimated <Ch12_Regression_04>`"
 msgstr ""
+":doc:`Basic ideas in linear regression <Ch12_Regression_03>` і :doc:`how "
+"regression models are estimated <Ch12_Regression_04>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:14
 msgid ":doc:`Ch12_Regression_05`"
@@ -2939,6 +2961,8 @@ msgid ""
 "Measuring the :doc:`overall performance of a regression model using *R*\\² "
 "<Ch12_Regression_06>`"
 msgstr ""
+"Вимірювання :doc:`overall performance of a regression model using *R*\\² "
+"<Ch12_Regression_06>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:19
 msgid ":doc:`Ch12_Regression_07`"
@@ -2957,6 +2981,8 @@ msgid ""
 "The :doc:`assumptions of regression <Ch12_Regression_10>` and :doc:`how to "
 "check them <Ch12_Regression_11>`"
 msgstr ""
+":doc:`assumptions of regression <Ch12_Regression_10>` і :doc:`how to check "
+"them <Ch12_Regression_11>`"
 
 #: ../../Ch12/Ch12_Regression_13.rst:27
 msgid ":doc:`Selecting a regression model <Ch12_Regression_12>`"
