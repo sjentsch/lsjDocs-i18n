@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:01+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch07/"
 "uk/>\n"
@@ -149,7 +149,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_1.rst:4
 msgid "How are probability and statistics different?"
-msgstr ""
+msgstr "Чим відрізняються ймовірність та статистика?"
 
 #: ../../Ch07/Ch07_Probability_1.rst:6
 msgid ""
@@ -521,7 +521,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:100
 msgid "Illustration of how frequentist probability works"
-msgstr ""
+msgstr "Ілюстрація того, як працює частотна ймовірність"
 
 #: ../../Ch07/Ch07_Probability_2.rst:104
 msgid ""
@@ -635,7 +635,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_2.rst:202
 msgid "What’s the difference? And who is right?"
-msgstr ""
+msgstr "Яка різниця? І хто правий?"
 
 #: ../../Ch07/Ch07_Probability_2.rst:204
 msgid ""
@@ -1485,7 +1485,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_6.rst:50
 msgid "χ²-distribution with *df* = 3"
-msgstr ""
+msgstr "χ²-розподіл з *df* = 3"
 
 #: ../../Ch07/Ch07_Probability_6.rst:54
 msgid ""
@@ -1550,7 +1550,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_7.rst:14
 msgid ":doc:`Probability theory versus statistics <Ch07_Probability_1>`"
-msgstr ""
+msgstr ":doc:`Probability theory versus statistics <Ch07_Probability_1>`"
 
 #: ../../Ch07/Ch07_Probability_7.rst:16
 msgid ""
@@ -1559,7 +1559,7 @@ msgstr ""
 
 #: ../../Ch07/Ch07_Probability_7.rst:18
 msgid ":doc:`Basics of probability theory <Ch07_Probability_3>`"
-msgstr ""
+msgstr ":doc:`Basics of probability theory <Ch07_Probability_3>`"
 
 #: ../../Ch07/Ch07_Probability_7.rst:20
 msgid ""
