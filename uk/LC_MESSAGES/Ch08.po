@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-01 17:02+0000\n"
+"PO-Revision-Date: 2025-09-02 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch08/"
 "uk/>\n"
@@ -178,7 +178,7 @@ msgstr "Австралійці, які зараз проживають?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:62
 msgid "Australians of similar ages to my sample?"
-msgstr ""
+msgstr "Австралійці того ж віку, що й моя вибірка?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:64
 msgid "Anyone currently alive?"
@@ -186,7 +186,7 @@ msgstr "Є хтось зараз живий?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:66
 msgid "Any human being, past, present or future?"
-msgstr ""
+msgstr "Будь-яка людина, минула, теперішня чи майбутня?"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:68
 msgid ""
@@ -330,7 +330,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_1.rst:190
 msgid "Most samples are not simple random samples"
-msgstr ""
+msgstr "Більшість вибірок не є простими випадковими вибірками"
 
 #: ../../Ch08/Ch08_Estimation_1.rst:192
 msgid ""
@@ -666,7 +666,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:4
 msgid "Sampling distributions and the central limit theorem"
-msgstr ""
+msgstr "Розподіл вибірки та центральна гранична теорема"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:6
 msgid ""
@@ -1024,7 +1024,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:131
 msgid "Sampling distributions exist for any sample statistic!"
-msgstr ""
+msgstr "Розподіл вибірки існує для будь-якої вибіркової статистики!"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:133
 msgid ""
@@ -1139,7 +1139,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_3.rst:242
 msgid "Demonstration of the central limit theorem"
-msgstr ""
+msgstr "Демонстрація центральної граничної теореми"
 
 #: ../../Ch08/Ch08_Estimation_3.rst:246
 msgid ""
@@ -1314,7 +1314,7 @@ msgstr "Що це?"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:69 ../../Ch08/Ch08_Estimation_4.rst:265
 msgid "Do we know what it is?"
-msgstr ""
+msgstr "Чи знаємо ми, що це таке?"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:70
 msgid "*X̄*"
@@ -1327,7 +1327,7 @@ msgstr "Середнє значення вибірки"
 #: ../../Ch08/Ch08_Estimation_4.rst:72 ../../Ch08/Ch08_Estimation_4.rst:267
 #: ../../Ch08/Ch08_Estimation_4.rst:278
 msgid "Yes, calculated from the raw data"
-msgstr ""
+msgstr "Так, розраховано на основі необроблених даних"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:73
 msgid "µ"
@@ -1340,7 +1340,7 @@ msgstr "Справжнє середнє значення населення"
 #: ../../Ch08/Ch08_Estimation_4.rst:75 ../../Ch08/Ch08_Estimation_4.rst:270
 #: ../../Ch08/Ch08_Estimation_4.rst:281
 msgid "Almost never known for sure"
-msgstr ""
+msgstr "Майже ніколи не відомо напевно"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:76
 msgid ":math:`\\hat{\\mu}`"
@@ -1348,7 +1348,7 @@ msgstr ":math:`\\hat{\\mu}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:77
 msgid "Estimate of the population mean"
-msgstr ""
+msgstr "Оцінка до середнього значення популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:78
 msgid "Yes, identical to the sample mean in simple random samples"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_4.rst:82
 msgid "Estimating the population standard deviation"
-msgstr ""
+msgstr "Оцінка стандартного відхилення генеральної сукупності"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:84
 msgid ""
@@ -1624,7 +1624,7 @@ msgstr ":math:`\\hat{\\sigma}`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Estimate of the population standard deviation"
-msgstr ""
+msgstr "Оцінка до стандартного відхилення генеральної сукупності"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:273
 msgid "Yes, but not the same as the sample standard deviation"
@@ -1652,7 +1652,7 @@ msgstr ":math:`\\hat{\\sigma}^2`"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Estimate of the population variance"
-msgstr ""
+msgstr "Оцінка дисперсії популяції"
 
 #: ../../Ch08/Ch08_Estimation_4.rst:284
 msgid "Yes, but not the same as the sample variance"
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:45
 msgid "Mathematically, we write this as:"
-msgstr ""
+msgstr "Математично ми записуємо це так:"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:47
 msgid "µ – 1.96 × SEM ≤ *X̄* ≤ µ + (1.96 × SEM)"
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:75
 msgid "A slight mistake in the formula"
-msgstr ""
+msgstr "Невелика помилка у формулі"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:77
 msgid ""
@@ -1941,7 +1941,7 @@ msgstr ""
 
 #: ../../Ch08/Ch08_Estimation_5.rst:172
 msgid "Calculating confidence intervals in jamovi"
-msgstr ""
+msgstr "Обчислення довірчих інтервалів у jamovi"
 
 #: ../../Ch08/Ch08_Estimation_5.rst:174
 msgid ""
