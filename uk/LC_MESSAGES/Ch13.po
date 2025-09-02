@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 16:01+0000\n"
+"PO-Revision-Date: 2025-09-02 17:03+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch13/"
 "uk/>\n"
@@ -438,6 +438,9 @@ msgid ""
 "and so the formula that I gave above is actually identical to our original "
 "formula for the variance, which would be"
 msgstr ""
+"Іншими словами, кожній особі *p* відповідає унікальна комбінація *ik*, тому "
+"формула, яку я навів вище, фактично ідентична нашій початковій формулі для "
+"дисперсії, яка була б"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:123
 msgid ""
@@ -475,6 +478,8 @@ msgid ""
 "So the formula for the total sum of squares is almost identical to the "
 "formula for the variance"
 msgstr ""
+"Отже, формула для загальної суми квадратів майже ідентична формулі для "
+"дисперсії"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:144
 msgid ""
@@ -499,6 +504,9 @@ msgid ""
 "First, we can talk about the **within-group sum of squares**, in which we "
 "look to see how different each individual person is from their own group mean"
 msgstr ""
+"Спочатку ми можемо поговорити про **суму квадратів всередині групи**, за "
+"допомогою якої ми дивимося, наскільки кожна окрема людина відрізняється від "
+"середнього значення для її власної групи"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:155
 msgid ""
@@ -527,12 +535,17 @@ msgid ""
 "differences between groups. We do this by looking at the differences between "
 "the group means |Yb_k| and grand mean |Yb|."
 msgstr ""
+"Далі ми можемо визначити третє поняття варіації, яке охоплює *лише* "
+"відмінності між групами. Ми робимо це, розглядаючи відмінності між середніми "
+"значеннями групи |Yb_k| та загальним середнім значенням |Yb|."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:169
 msgid ""
 "In order to quantify the extent of this variation, what we do is calculate "
 "the **between-group sum of squares**"
 msgstr ""
+"Щоб кількісно оцінити ступінь цієї варіації, ми обчислюємо **міжгрупову суму "
+"квадратів**"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:172
 msgid ""
@@ -554,6 +567,9 @@ msgid ""
 "experiment |SS_t| is actually the sum of the differences between the groups |"
 "SS_b| and the variation inside the groups |SS_w|. That is,"
 msgstr ""
+"Неважко показати, що загальна варіація між людьми в експерименті |SS_t| "
+"насправді є сумою різниць між групами |SS_b| та варіацією всередині груп "
+"|SS_w|. Тобто,"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:182
 msgid "|SS_w| + |SS_b| = |SS_t|"
@@ -640,6 +656,9 @@ msgid ""
 "squares value into a “mean squares” value, which we do by dividing by the "
 "degrees of freedom:"
 msgstr ""
+"Гаразд, це здається досить простим. Далі ми перетворюємо значення "
+"підсумованих квадратів на значення «середніх квадратів», ділячи його на "
+"кількість ступенів свободи:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:248 ../../Ch13/Ch13_ANOVA_02.rst:288
 msgid "|MS_b| = |SS_b| / |df_b|"
@@ -694,6 +713,9 @@ msgid ""
 "the formulas showing how they are calculated, is shown in :numref:`tab-"
 "anovatable`."
 msgstr ""
+"Зведений огляд усіх ключових величин, що беруть участь в однофакторному "
+"дисперсійному аналізі (ANOVA), включаючи формули, що показують, як вони "
+"розраховуються, наведено на рисунку. :numref:`tab-anovatable`."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:279
 msgid ""
@@ -773,6 +795,8 @@ msgid ""
 "In any case, here’s what the null hypothesis looks like when we write it as "
 "a statistical model"
 msgstr ""
+"У будь-якому разі, ось як виглядає нульова гіпотеза, якщо записати її як "
+"статистичну модель"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:321
 msgid "|Y_ik| = µ + ϵ\\ :sub:`ik`"
@@ -810,6 +834,9 @@ msgid ""
 "with mean 0 and standard deviation σ. That is, the alternative hypothesis "
 "also assumes that ϵ ~ Normal(0, σ²)"
 msgstr ""
+"де, знову ж таки, ми припускаємо, що члени помилки розподілені нормально із "
+"середнім значенням 0 та стандартним відхиленням σ. Тобто, альтернативна "
+"гіпотеза також припускає, що ϵ ~ Normal(0, σ²)"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:345
 msgid ""
@@ -1042,6 +1069,8 @@ msgid ""
 "group sum of squares we just add up the squared deviations across all "
 "observations:"
 msgstr ""
+"Останній крок так само простий. Щоб обчислити суму квадратів всередині "
+"групи, ми просто додаємо квадрати відхилень для всіх спостережень:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:463
 msgid "|SS_w| = 0.0025 + 0.0225 + 0.1225 + 0.0136 + 0.1003 = 0.2614"
@@ -1210,6 +1239,8 @@ msgid ""
 "And so now our between group sum of squares is obtained by summing these "
 "“weighted squared deviations” over all three groups in the study:"
 msgstr ""
+"І тепер наша міжгрупова сума квадратів отримується шляхом підсумовування цих "
+"«зважених квадратів відхилень» по всіх трьох групах у дослідженні:"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:534
 msgid "|SS_b| = 1.14 + 0.18 + 2.16 = 3.48"
@@ -1276,6 +1307,9 @@ msgid ""
 "value, which is the test statistic that we’re interested in. We do this by "
 "dividing the between-groups MS value by the within-groups MS value.\\ [#]_"
 msgstr ""
+"Ми майже закінчили. Середні квадратичні значення можна використовувати для "
+"обчислення значення *F*, яке є тестовою статистикою, що нас цікавить. Для "
+"цього ми ділимо значення MS між групами на значення MS всередині груп.\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:572
 msgid ""
@@ -1310,6 +1344,9 @@ msgid ""
 "in :numref:`tab-anovatable`. For our |clinicaltrial|_ data, the ANOVA table "
 "would look like this:\\ [#]_"
 msgstr ""
+"На цьому ми в основному закінчили. Завершивши розрахунки, зазвичай всі ці "
+"цифри організовують у таблицю ANOVA, як у :numref:`tab-anovatable`. Для "
+"наших даних |clinicaltrial|_ таблиця ANOVA буде виглядати так:\\ [#]_"
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:596
 msgid "3.453"
@@ -1355,6 +1392,8 @@ msgid ""
 "One-way ANOVA showed a significant effect of drug on mood gain: *F*\\(2,15) "
 "= 18.61, *p* < 0.001."
 msgstr ""
+"Однофакторний дисперсійний аналіз показав значний вплив препарату на "
+"покращення настрою.: *F*\\(2,15) = 18.61, *p* < 0.001."
 
 #: ../../Ch13/Ch13_ANOVA_02.rst:613
 msgid "Sigh. So much work for one short sentence."
@@ -1414,6 +1453,9 @@ msgid ""
 "the settings menu (``⋮``, top-right corner) and set the ``p-value format`` "
 "to ``16 dp``."
 msgstr ""
+"Щоб побачити значення *p* з великою кількістю знаків після коми, натисніть "
+"на меню налаштувань (``⋮``, у верхньому правому куті) та встановіть ``p-"
+"value format`` до ``16 dp``."
 
 #: ../../Ch13/Ch13_ANOVA_03.rst:4
 msgid "Running an ANOVA in jamovi"
@@ -1479,6 +1521,8 @@ msgid ""
 "The jamovi results are more accurate than the ones in the text above, due to "
 "rounding errors."
 msgstr ""
+"Результати jamovi точніші, ніж ті, що наведені в тексті вище, через помилки "
+"округлення."
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:4
 msgid "Effect size"
@@ -1503,6 +1547,9 @@ msgid ""
 "I see that SS\\ :sub:`b`   = 3.45 and SS\\ :sub:`tot` = 3.45 + 1.39 = 4.84. "
 "Thus we get an η² value of"
 msgstr ""
+"Ось і все. Отже, коли я дивлюся на таблицю ANOVA у :numref:`fig-anova2`, я "
+"бачу, що SS\\ :sub:`b` = 3,45 та SS\\ :sub:`tot` = 3,45 + 1,39 = 4,84. Таким "
+"чином, ми отримуємо значення η²"
 
 #: ../../Ch13/Ch13_ANOVA_04.rst:20
 msgid "η² = 3.45 / 4.84 = 0.71"
@@ -1589,6 +1636,9 @@ msgid ""
 "propositions, it becomes clear that there are eight possible “states of the "
 "world” that we need to distinguish between:"
 msgstr ""
+"Коли ми характеризуємо нульову гіпотезу з точки зору цих трьох різних "
+"тверджень, стає зрозуміло, що існує вісім можливих «станів світу», які нам "
+"потрібно розрізняти:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:40
 msgid "possibility:"
@@ -1789,6 +1839,9 @@ msgid ""
 "(i.e., the biggest *p*-value remains unchanged, the second biggest *p*-value "
 "is doubled, the third biggest *p*-value is tripled, and so on), *or*"
 msgstr ""
+"(тобто, найбільше значення *p* залишається незмінним, друге за величиною "
+"значення *p* подвоюється, третє за величиною значення *p* потроюється тощо), "
+"*або*"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:180
 msgid "*p*'\\ :sub:`j` = *p*'\\ :sub:`j + 1`"
@@ -1896,6 +1949,8 @@ msgid ""
 "significantly different to one another, you might write up the result like "
 "this:"
 msgstr ""
+"Зрештою, виконавши постфактумний аналіз, щоб визначити, які групи суттєво "
+"відрізняються одна від одної, ви можете записати результат так:"
 
 #: ../../Ch13/Ch13_ANOVA_05.rst:232
 msgid ""
@@ -1944,6 +1999,10 @@ msgid ""
 "that you need to be aware of: *normality*, *homogeneity of variance* and "
 "*independence*."
 msgstr ""
+"Як і будь-який статистичний тест, аналіз дисперсії базується на деяких "
+"припущеннях щодо даних, зокрема щодо залишків. Існує три основні припущення, "
+"про які потрібно знати: *нормальність*, *однорідність дисперсії* та "
+"*незалежність*."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:11
 msgid ""
@@ -1988,6 +2047,9 @@ msgid ""
 "Well, as I indicated above, there are three distinct claims buried in this "
 "one statement, and we’ll consider them separately."
 msgstr ""
+"Отже, як нам перевірити, чи є припущення щодо залишків точним? Ну, як я "
+"зазначав вище, в цьому одному твердженні приховані три окремі твердження, і "
+"ми розглянемо їх окремо."
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:42
 msgid ""
@@ -2054,6 +2116,10 @@ msgid ""
 "Y\\ :sub:`ik`. All we do is define a new variable, which I’ll call Z\\ :sub:"
 "`ik`, corresponding to the absolute deviation from the group mean"
 msgstr ""
+"Тест Левена надзвичайно простий. Припустимо, що ми маємо нашу змінну "
+"результату Y\\ :sub:`ik`. Все, що ми робимо, це визначаємо нову змінну, яку "
+"я назву Z\\ :sub:`ik`, що відповідає абсолютному відхиленню від середнього "
+"значення групи"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:102
 msgid "Z\\ :sub:`ik` = Y\\ :sub:`ik` - Ȳ\\ :sub:`k`"
@@ -2227,6 +2293,9 @@ msgid ""
 "of the *k*-th group. Now, let’s calculate R̄\\ :sub:`k`, the average rank "
 "given to observations in the *k*-th group:"
 msgstr ""
+"Отже, нехай R\\ :sub:`ik` буде рейтингом, наданим *i*-му члену *k*-ї групи. "
+"Тепер обчислимо R̄\\ :sub:`k`, середній рейтинг, наданий спостереженням у *k*-"
+"й групі:"
 
 #: ../../Ch13/Ch13_ANOVA_06.rst:254
 msgid ""
@@ -2582,6 +2651,10 @@ msgid ""
 "measures ANOVA dialogue box, as in :numref:`fig-RManova1`, via ``ANOVA - "
 "Repeated Measures ANOVA``. Then:"
 msgstr ""
+"Щоб виконати однофакторний пов'язаний дисперсійний аналіз (ANOVA) в jamovi, "
+"відкрийте діалогове вікно однофакторного повторюваного дисперсійного аналізу "
+"(ANOVA), як показано на малюнку. :numref:`fig-RManova1`, через ``ANOVA - "
+"Repeated Measures ANOVA``. Тоді:"
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:97
 msgid ""
@@ -2599,6 +2672,9 @@ msgid ""
 "there are three levels representing the three tasks: ``Speech``, "
 "``Conceptual`` and ``Syntax``. Change the labels of the levels accordingly."
 msgstr ""
+"Додайте третій рівень у ``Repeated Measures Factors`` змінна коробка, "
+"оскільки є три рівні, що представляють три завдання: ``Speech``, "
+"``Conceptual`` і ``Syntax``. Відповідно змініть мітки рівнів."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:108
 msgid ""
@@ -2654,6 +2730,8 @@ msgid ""
 "If the ``Greenhouse-Geisser`` value in the ``Tests of Sphericity`` table is "
 "> 0.75 then you should use the Huynh-Feldt correction."
 msgstr ""
+"Якщо ``Greenhouse-Geisser`` значення в ``Tests of Sphericity`` таблиці > "
+"0,75, тоді слід використовувати поправку Гюйня-Фельдта."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:156
 msgid ""
@@ -2670,6 +2748,9 @@ msgid ""
 "corrected *F*-values are then shown in the results table, as in :numref:`fig-"
 "RManova3`."
 msgstr ""
+"Обидва ці скориговані значення *F* можна вказати в ``Sphericity Corrections``"
+" прапорці під ``Assumption Checks`` опції, а виправлені значення *F* потім "
+"відображаються в таблиці результатів, як у :numref:`fig-RManova3`."
 
 #: ../../Ch13/Ch13_ANOVA_07.rst:166
 msgid "Repeated measures ANOVA output: Tests of Within-Subjects Effects"
@@ -2827,6 +2908,8 @@ msgid ""
 "The basic logic behind :doc:`how ANOVA works <Ch13_ANOVA_02>` and :doc:`how "
 "to run one in jamovi <Ch13_ANOVA_03>`."
 msgstr ""
+"Основна логіка :doc:`how ANOVA works <Ch13_ANOVA_02>` і :doc:`how to run one "
+"in jamovi <Ch13_ANOVA_03>`."
 
 #: ../../Ch13/Ch13_ANOVA_10.rst:15
 msgid "How to compute an :doc:`effect size <Ch13_ANOVA_04>` for an ANOVA."
