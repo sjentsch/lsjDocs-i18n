@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-09-02 09:02+0000\n"
+"PO-Revision-Date: 2025-09-02 10:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/lsjdocs/ch15/"
 "uk/>\n"
@@ -312,7 +312,7 @@ msgstr "R"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:169
 msgid "Am indifferent to the feelings of others."
-msgstr ""
+msgstr "Я байдужий до почуттів інших."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:171
 msgid "A2"
@@ -488,7 +488,7 @@ msgstr "O3"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:213
 msgid "Carry the conversation to a higher level."
-msgstr ""
+msgstr "Переведіть розмову на вищий рівень."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:215
 msgid "O4"
@@ -504,11 +504,11 @@ msgstr "O5"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:217
 msgid "Will not probe deeply into a subject."
-msgstr ""
+msgstr "Не буде глибоко заглиблюватися в тему."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:221
 msgid "The item data were collected using a 6-point response scale:"
-msgstr ""
+msgstr "Дані щодо пунктів були зібрані за допомогою 6-бальної шкали відповідей:"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:223
 msgid "Very Inaccurate"
@@ -609,7 +609,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:281
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:285
 msgid "jamovi EFA assumption checks for the personality questionnaire data"
-msgstr ""
+msgstr "Перевірки припущень jamovi EFA для даних особистісного опитувальника"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:289
 msgid ""
@@ -733,7 +733,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:381
 msgid "Factor loadings for a five factor solution"
-msgstr ""
+msgstr "Факторні навантаження для п'ятифакторного методу"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:385
 msgid ""
@@ -818,11 +818,11 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:445
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:449
 msgid "Recode variable using the Transform command in jamovi"
-msgstr ""
+msgstr "Перекодування змінної за допомогою команди Transform в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:453
 msgid "Compute new scale score variable in jamovi"
-msgstr ""
+msgstr "Обчисліть нову змінну шкали оцінок у jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:457
 msgid "Compute new scale score variable using a Computed variable in jamovi"
@@ -855,6 +855,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:478
 msgid "|Rj|_ editor commands for creating optimally weighted factor scores"
 msgstr ""
+"Команди редактора |Rj|_ для створення оптимально зважених факторних балів"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:482
 msgid ""
@@ -864,7 +865,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:487
 msgid "Newly created data file with new factor score variables"
-msgstr ""
+msgstr "Новостворений файл даних з новими змінними факторної оцінки"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:491
 msgid ""
@@ -896,6 +897,8 @@ msgid ""
 "Comparing differences in Agreeableness factor-based scores between males and "
 "females"
 msgstr ""
+"Порівняння відмінностей у показниках фактора приємності між чоловіками та "
+"жінками"
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:519
 msgid "Writing up an EFA"
@@ -946,6 +949,8 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:541
 msgid "Explain what FA extraction method (e.g. maximum likelihood) was used."
 msgstr ""
+"Поясніть, який метод вилучення FA (наприклад, метод максимальної "
+"правдоподібності) було використано."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:543
 msgid ""
@@ -1014,6 +1019,8 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:591
 msgid "Remembering to first reverse score some variables if necessary."
 msgstr ""
+"Не забувайте спочатку провести зворотну оцінку деяких змінних, якщо це "
+"необхідно."
 
 #: ../../Ch15/Ch15_FactorAnalysis_1.rst:594
 msgid ""
@@ -1105,7 +1112,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:67
 msgid "Assumption checks for the personality item data"
-msgstr ""
+msgstr "Перевірки припущень для даних про особистість"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:71
 msgid ""
@@ -1142,7 +1149,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:94
 msgid "Scree plot of the personality item data"
-msgstr ""
+msgstr "Діаграма осипу даних про особистість"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:98
 msgid ""
@@ -1223,7 +1230,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:161
 msgid "Component loadings for a five component solution"
-msgstr ""
+msgstr "Завантаження компонентів для п'ятикомпонентного розчину"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:165
 msgid ""
@@ -1271,6 +1278,7 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:197
 msgid "|Rj| editor commands for creating optimally weighted component scores"
 msgstr ""
+"Команди редактора |Rj| для створення оптимально зважених оцінок компонентів"
 
 #: ../../Ch15/Ch15_FactorAnalysis_2.rst:201
 msgid ""
@@ -1434,7 +1442,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:108
 msgid "Settings for conducting a Confirmatory Factor Analysis"
-msgstr ""
+msgstr "Налаштування для проведення підтверджувального факторного аналізу"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:112
 msgid ""
@@ -1454,7 +1462,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:126
 msgid "``Model Fit`` results for the specified CFA model in jamovi"
-msgstr ""
+msgstr "``Model Fit`` результати для зазначеної моделі CFA в jamovi"
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:130
 msgid "Table with ``Model Fit`` results for the specified CFA model in jamovi"
@@ -1638,7 +1646,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:270
 msgid "A theoretical and empirical justification for the hypothesized model."
-msgstr ""
+msgstr "Теоретичне та емпіричне обґрунтування гіпотетичної моделі."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:272
 msgid ""
@@ -1650,7 +1658,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:283
 msgid "Tests of assumptions and estimation method used."
-msgstr ""
+msgstr "Перевірка припущень та використаний метод оцінки."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:285
 msgid "A description of missing data and how the missing data were handled."
@@ -1659,10 +1667,13 @@ msgstr ""
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:287
 msgid "The software and version used to fit the model."
 msgstr ""
+"Програмне забезпечення та його версія, що використовуються для відповідності "
+"моделі."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:289
 msgid "Measures, and the criteria used, to judge model fit."
 msgstr ""
+"Заходи та критерії, що використовуються для оцінки відповідності моделі."
 
 #: ../../Ch15/Ch15_FactorAnalysis_3.rst:291
 msgid ""
@@ -1819,7 +1830,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:94
 msgid "Check other appropriate options, as in :numref:`fig-rel1`."
-msgstr ""
+msgstr "Перевірте інші відповідні опції, як-от :numref:`fig-rel1`."
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:98
 msgid "Settings for conducting a Reliability Analysis"
@@ -1842,7 +1853,7 @@ msgstr ""
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:115
 msgid "Results of the Reliability Analysis for Agreeableness"
-msgstr ""
+msgstr "Результати аналізу надійності на предмет зручності"
 
 #: ../../Ch15/Ch15_FactorAnalysis_4.rst:119
 msgid ""
