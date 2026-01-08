@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2025-07-02 12:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-01-08 17:01+0000\n"
+"Last-Translator: metah <hahupung@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/lsjdocs/start/"
 "vi/>\n"
 "Language: vi\n"
@@ -12,32 +12,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../index.rst:26
 msgid "Background"
-msgstr ""
+msgstr "Phông nền"
 
 #: ../../index.rst:35
 msgid "An introduction to jamovi"
-msgstr ""
+msgstr "Một hướng dẫn từ jamovi"
 
 #: ../../index.rst:46
 msgid "Statistical theory"
-msgstr ""
+msgstr "Lý thuyết thống kê"
 
 #: ../../index.rst:57
 msgid "Statistical tools"
-msgstr ""
+msgstr "Công cụ thống kê"
 
 #: ../../index.rst:70
 msgid "Endings, alternatives, prospects"
-msgstr ""
+msgstr "Kết thúc, lựa chọn thay thế , triển vọng"
 
 #: ../../index.rst:5
 msgid "Learning statistics with jamovi"
-msgstr ""
+msgstr "Học thống kê với jamovi"
 
 #: ../../index.rst:7
 msgid ""
@@ -46,6 +46,10 @@ msgid ""
 "beginners with the first steps into jamovi. jamovi is a free and open "
 "statistical software to bridge the gap between researcher and statistician."
 msgstr ""
+"Chào mừng đến với học thống kê cùng `jamovi <https://www.jamovi.org>`__, đây "
+"là một hướng dẫn nhằm giúp các sinh viên ngành tâm lý học và những người mới "
+"bắt đầu với jamovi. jamovi là một phần mềm miễn phí và mã nguồn mở để thu "
+"hẹp khoảng cách giữa nhà nghiên cứu và nhà thống kê."
 
 #: ../../index.rst:12
 msgid ""
@@ -58,3 +62,10 @@ msgid ""
 "`translation into your language <https://hosted.weblate.org/projects/lsjdocs/"
 ">`__."
 msgstr ""
+"Trước khi chúng ta bắt đầu, một nhận xét ngắn về cách sử dụng trang web này. "
+"Nội dung là có sẵn nhiều ngôn ngữ khác nhau,Nếu muốn đổi ngôn ngữ , vui lòng "
+"tìm đến menu “Học thống kê với jamovi” ở (ở góc dưới bên trái) và nhấn vào "
+"nó. Một menu lớn sẽ mở ra , đây là nơi bạn có thể chọn ngôn ngữ mình muốn để "
+"đọc tài liệu này .Cho đến nay có rất ít ngôn ngữ được dịch đầy đủ ,nhưng bạn "
+"rất hoan nghênh cho việc dịch ngôn ngữ của bạn <https://hosted.weblate.org/"
+"projects/lsjdocs/>`__."
