@@ -6,48 +6,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-08-21 11:53+0000\n"
+"Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/lsjdocs/ch01/nl/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #: ../../Ch01/Ch01_WhyStats.rst:4
 msgid "Why do we learn statistics?"
-msgstr ""
+msgstr "Waarom leren we statistiek?"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*“Thou shalt not answer questionnaires*"
-msgstr ""
+msgstr "*“Thou shalt not answer questionnaires*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Or quizzes upon World Affairs,*"
-msgstr ""
+msgstr "*Or quizzes upon World Affairs,*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Nor with compliance*"
-msgstr ""
+msgstr "*Nor with compliance*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*Take any test. Thou shalt not sit*"
-msgstr ""
+msgstr "*Take any test. Thou shalt not sit*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*With statisticians nor commit*"
-msgstr ""
+msgstr "*With statisticians nor commit*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:0
 msgid "*A social science”*"
-msgstr ""
+msgstr "*A social science”*"
 
 #: ../../Ch01/Ch01_WhyStats.rst:25
 msgid "W.H. Auden\\ [#]_"
-msgstr ""
+msgstr "W.H. Auden\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats.rst:30
 msgid ""
