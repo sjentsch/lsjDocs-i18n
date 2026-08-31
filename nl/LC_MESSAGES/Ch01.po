@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2026-08-31 12:51+0000\n"
+"PO-Revision-Date: 2026-08-31 13:52+0000\n"
 "Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/lsjdocs/ch01/nl/>\n"
 "MIME-Version: 1.0\n"
@@ -357,14 +357,18 @@ msgid ""
 "existing biases (i.e., beliefs) were in agreement with the structure of the "
 "data, everything went the way you’d hope:"
 msgstr ""
+"In een klassieke studie, :ref:`Evans et al. (1983) <Evans_1983>` voerde een "
+"experiment uit dat er precies zo uit zag. Wat ze vonden is dat als "
+"vooroordelen (b.v.b. geloof) in overeenkomst zijn met de structuur van de "
+"gegevens, dat alles gebeurt op de manier waarop wij hopen:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:82 ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "92\\% say “valid”"
-msgstr ""
+msgstr "92\\% zeggen “geldig”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:84 ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "8\\% say “valid”"
-msgstr ""
+msgstr "8\\% zeggen “geldig”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:87
 msgid ""
@@ -372,14 +376,17 @@ msgid ""
 "intuitive feelings about the truth of the conclusion run against the logical "
 "structure of the argument:"
 msgstr ""
+"Niet perfect maar best goed. Maar kijk eens naar wat er gebeurt als onze "
+"intuitieve gevoelens over de waarheid van de conclusie tegen de logische "
+"structuur van het argument in gaan:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "*46\\% say “valid”*"
-msgstr ""
+msgstr "*46\\% zeggen “geldig”*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "*92\\% say “valid”*"
-msgstr ""
+msgstr "*92\\% zeggen “geldig”*"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:99
 msgid ""
