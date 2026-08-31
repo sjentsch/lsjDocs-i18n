@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2026-08-31 11:51+0000\n"
+"PO-Revision-Date: 2026-08-31 12:51+0000\n"
 "Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/lsjdocs/ch01/nl/>\n"
 "MIME-Version: 1.0\n"
@@ -133,6 +133,16 @@ msgid ""
 "the right answer. Most scientists don’t think this approach is likely to "
 "work."
 msgstr ""
+"Het is op een bepaalde manier een naïeve vraag maar de meeste goede vragen "
+"zijn dat. Er zijn veel goede antwoorden voor die vraag,\\ [#]_ maar naar "
+"mijn mening is het beste antwoord ook eenvoudig: we vertrouwen onszelf niet "
+"genoeg. We maken ons zorgen dat we menselijk zijn en dat wij ook vatbaar "
+"zijn voor vooroordelen, verleidingen en kwetsbaarheden waar mensen aan "
+"leiden. Veel statistiek is een waarborging. Gebruik van “gezond verstand” om "
+"bewijs te evalueren betekent dat instincten vertrouwd worden, er gerekend "
+"wordt op verbale argumenten en dat de ruwe kracht van menselijke rede wordt "
+"gebruikt om het juiste antwoord te bereiken. De meeste wetenschappers denken "
+"dat deze aanpak waarschijnlijk niet werkt."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:42
 msgid ""
@@ -156,16 +166,38 @@ msgid ""
 "(ones where no guessing is required) without being influenced by our pre-"
 "existing biases."
 msgstr ""
+"Als ik erover nadenk klinkt het mij als een psychologische vraag en "
+"aangezien ik niet werk in een afdeling voor psychologie, lijkt het mij goed "
+"om hier iets dieper te graven. Is het plausibel om te denken date de aanpak "
+"van “gezond verstand” heel betrouwbaar is? Verbale argumenten moeten "
+"opgebouwd worden uit taal en alle talen bevatten vooroordelen – sommige "
+"dingen zijn moeilijker te zeggen dan anderen en dat is niet per se omdat ze "
+"fout zijn (b.v.b. quantum electrodynamica is een goede theorie maar is ook "
+"moeilijk in woorden uit te leggen). Ons instinct en ons “onderbuikgevoel” "
+"zijn niet ontwikkeld om wetenschappelijke problemen op te lossen maar om "
+"gaan goed om met dagelijkse gevolgtrekkkingen – en wetende dat biologische "
+"evolutie langzamer is dan culturele veranderingen kunnen we zeggen dat ze "
+"zijn ontwikkeld dagelijkse problemen in een *andere wereld* dan die waar we "
+"nu in leven. Het meest fundamenteel is dat verstandig redeneren vereist dat "
+"mensen deelnemen aan een proces van “inductie” door wijs te raden en verder "
+"te gaan dan het aanwezige bewijs om generalizaties over de wereld te maken. "
+"Als u denkt dat u dat kan zonder beïnvloed of afgeleid te raken zal ik u "
+"iets vertellen: ik heb een brug in Londen die ik nog wel aan u wil verkopen. "
+"Zoals het volgende deel aantoont kunnen wij niet eens “deductieve” problemen "
+"oplossen (waarvoor geen raden aan te pas komt) zonder beïnvloed te worden "
+"door onze bestaande vooroordelen."
 
 #: ../../Ch01/Ch01_WhyStats_1.rst:65
 msgid ""
 "Including the suggestion that common sense is in short supply among "
 "scientists."
 msgstr ""
+"Daarbij hoort ook het voorstel dat gezond verstand schaars is onder "
+"wetenschappers."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:4
 msgid "The curse of belief bias"
-msgstr ""
+msgstr "De vloek van vooringenomenheid"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:6
 msgid ""
@@ -182,34 +214,48 @@ msgid ""
 "influenced by the believability of the conclusion, even when we shouldn’t. "
 "For instance, here’s a valid argument where the conclusion is believable:"
 msgstr ""
+"Mensen zijn over het algemeen best slim. We zijn zeker slimmer dan de andere "
+"soorten waarmee wij de planeet delen (alhoewel veel mensen daar over kunnen "
+"twisten). Onze geest is een geweldig ding en we lijken de meest "
+"ongelovelijke prestaties van gedachte en rede uit te kunnen voeren. Dat "
+"maakt ons nog niet perfect en onder de vele dingen die psychologen over de "
+"jaren hebben aangetoond is dat wij het heel moeilijk vinden om neutraal te "
+"zijn, om bewijs onpartijdig en zonder bestaande vooroordelen te beoordelen. "
+"Een goed voorbeeld hiervan is het **vooringenomenheidseffect** in logisch "
+"redeneren: als u mensen vraagt om te beslissen of een bepaald argument "
+"logisch geldig is (d.w.z. dat de conclusie waar is als de premisses waar "
+"zijn), worden wij over het algemeen beïnvloed door de geloofwaardigheid van "
+"de conclusie, zelfs als dat niet zou moeten. Hier is bijvoorbeeld een geldig "
+"argument waarvan de conclusie geloofwaardig is:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All cigarettes are expensive (Premise 1)"
-msgstr ""
+msgstr "Alle sigaretten zijn duur (Premisse 1)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some addictive things are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Sommige verslavende dingen zijn niet duur (Premisse 2)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some addictive things are not cigarettes (Conclusion)"
-msgstr ""
+msgstr "Daarom zijn sommige verslavende dingen niet sigaretten (Conclusie)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:24
 msgid "And here’s a valid argument where the conclusion is not believable:"
 msgstr ""
+"En hier is een geldig argument waarvan de conclusie niet geloofwaardig is:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "All addictive things are expensive (Premise 1)"
-msgstr ""
+msgstr "Alle verslavende dingen zijn niet duur (Premisse 1)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Some cigarettes are inexpensive (Premise 2)"
-msgstr ""
+msgstr "Sommige sigaretten zijn niet duur (Premisse 2)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:0
 msgid "Therefore, some cigarettes are not addictive (Conclusion)"
-msgstr ""
+msgstr "Daarom zijn sommige sigaretten niet verslavend (Conclusie)"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:30
 msgid ""
@@ -221,16 +267,27 @@ msgid ""
 "conclusion is a logical consequence of the premises. That is, a valid "
 "argument doesn’t have to involve true statements."
 msgstr ""
+"De logische *structuur* van argument #2 is identiek aan de structuur van "
+"argument #1 en ze zijn allebei geldig. Daarintegen zijn er voor het tweede "
+"argument goede redenen om te denken dat premisse 1 incorrect is, waardoor "
+"resulteert dat de conclusie ook waarschijnlijk incorrect is. Maar dat is "
+"volledig irrelevant voor dit onderwerp; een argument is deductief geldig als "
+"de conclusie een logische consequentie is van de premisses. Dat betekent dat "
+"een geldig argument niet noodzakelijk gebruik hoeft te maken van uitspraken "
+"die waar zijn."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:39
 msgid ""
 "On the other hand, here’s an invalid argument that has a believable "
 "conclusion:"
 msgstr ""
+"Aan de andere kant is hier een ongeldig argument met een geloofwaardige "
+"conclusie:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:46
 msgid "And finally, an invalid argument with an unbelievable conclusion:"
 msgstr ""
+"En als laatste een ongeldig argument met een ongeloofwaardige conclusie:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:52
 msgid ""
@@ -241,34 +298,40 @@ msgid ""
 "arguments are valid. So if you ran an experiment looking at this, you’d "
 "expect to see data like this:"
 msgstr ""
+"Stelt u zich nu voor dat mensen echt perfect hun vooroordelen over wat waar "
+"is en wat niet van zich af kunnen zetten en een argument beoordeeld kan "
+"worden op pure logische waarde. We zouden verwachten dat 100\\% van de "
+"mensen dat de geldige argumenten geldig zijn en dat 0/% van de mensen zou "
+"zeggen dat de ongeldige argumenten geldig zijn. Dus een uitgevoerd "
+"experiment dat hiernaar kijkt zou de volgende gegevens verwacht worden:"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels true"
-msgstr ""
+msgstr "conclusie voelt als waar"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:60 ../../Ch01/Ch01_WhyStats_2.rst:80
 #: ../../Ch01/Ch01_WhyStats_2.rst:92
 msgid "conclusion feels false"
-msgstr ""
+msgstr "conclusie voelt als onwaar"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62 ../../Ch01/Ch01_WhyStats_2.rst:82
 #: ../../Ch01/Ch01_WhyStats_2.rst:94
 msgid "**argument is valid**"
-msgstr ""
+msgstr "**argument is geldig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:62
 msgid "100\\% say “valid”"
-msgstr ""
+msgstr "100/% zegt “geldig”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64 ../../Ch01/Ch01_WhyStats_2.rst:84
 #: ../../Ch01/Ch01_WhyStats_2.rst:96
 msgid "**argument is invalid**"
-msgstr ""
+msgstr "**argument is ongeldig**"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:64
 msgid "0\\% say “valid”"
-msgstr ""
+msgstr "0/% zegt “geldig”"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:67
 msgid ""
@@ -279,6 +342,13 @@ msgid ""
 "guys have taken psych classes, and by now you probably know where this is "
 "going."
 msgstr ""
+"Als de psychologische gegevens er zo uit zagen (of zelfs een goede "
+"benadering hiervan) zouden we ons misschien wel goed voelen als wij ons "
+"onderbuikgevoel vertrouwen. Dat zou zeggen dat het gewoon kan om "
+"wetenschappers hun gegevens te laten beoordelen op basis van hun gezond "
+"verstand en dat we ons helemaal geen zorgen hoeven te maken op deze "
+"onduidelijke statistiek. Daarentegen hebben jullie psychologielessen genomen "
+"en ondertussen weet u wel waar dit naartoe gaat."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:74
 msgid ""
