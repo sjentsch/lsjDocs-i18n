@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2026-08-31 13:52+0000\n"
+"PO-Revision-Date: 2026-09-02 12:51+0000\n"
 "Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/lsjdocs/ch01/nl/>\n"
 "MIME-Version: 1.0\n"
@@ -397,6 +397,13 @@ msgid ""
 "that agrees with our pre-existing biases, almost no-one can see that the "
 "argument is weak (people got that one wrong 92\\% of the time!).\\ [#]_"
 msgstr ""
+"Oh nee, dat is niet zo goed. Blijkbaar is het zo dat als mensen worden "
+"geconfronteerd met een sterk argument dat tegen onze vooroordelen in gaat, "
+"dat wij het best moeilijk vinden om zelfs maar te zien dat het een sterk "
+"argument is (mensen zagen dit maar 46\\% van de tijd). Nog erger is dat als "
+"mensen worden geconfronteerd met een zwak argument dat overeenkomt met onze "
+"vooroordelen, dat bijna niemand kan zien dat het argument zwak is (mensen "
+"hadden dat 92\\% van de tijd verkeerd!).\\ [#]_"
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:107
 msgid ""
@@ -413,16 +420,33 @@ msgid ""
 "data”, we’re going to need a bit of help to keep our personal biases under "
 "control. That’s what statistics does, it helps keep us honest."
 msgstr ""
+"Als u erover nadenkt is het niet alsof deze gegevens ongelovelijk "
+"vernietigend is. In het algemeen doen mensen het beter dan volledige "
+"willekeur in de compensatie van vooroordelen, aangezien ongeveer 60\\% van "
+"de menselijke oordelen correct waren (daar zou u 50\\% verwachten bij "
+"volledige willekeur). Zelfs dan nog, als u een professionele \"evaluator van "
+"bewijs\" zou zijn en iemand zou langskomen om u een magisch hulpmiddel aan "
+"te bieden waamee uw kansen om de juiste keuze te maken verbetert van 60\\% "
+"naar 95\\%, zou u er wel voor staan te springen, toch? Maar natuurlijk zou u "
+"dat doen. Gelukkig hebben we hier ook echt een hulpmiddel voor. Maar magisch "
+"is het niet, het is statistiek. Dat is dus reden #1 waarom wetenschappers "
+"van statistiek houden. Het is gewoon *te makkelijk* voor ons om te \"geloven "
+"wat we willen geloven\". In plaats daarvan willen we \"geloven in de "
+"gegevens\" en daarvoor hebben we een beetje hulp nodig om onze persoonlijke "
+"vooroordelen onder controle te houden. Dat is wat statistiek doet, het helpt "
+"ons om eerlijk te blijven."
 
 #: ../../Ch01/Ch01_WhyStats_2.rst:124
 msgid ""
 "In my more cynical moments I feel like this fact alone explains 95\\% of "
 "what I read on the internet."
 msgstr ""
+"In mijn meer cynische tijden voel ik mij alsof alleen al dit feit meer dan "
+"95\\% van wat ik op het internet lees uitlegt."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:4
 msgid "The cautionary tale of Simpson’s paradox"
-msgstr ""
+msgstr "Het waarschuwingsverhaal van Simpson's paradox"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:6
 msgid ""
@@ -431,38 +455,42 @@ msgid ""
 "their postgraduate courses. Specifically, the thing that caused the problem "
 "was that the gender breakdown of their admissions, which looked like this:"
 msgstr ""
+"Het volgende is een waargebeurd verhaal (denk ik!). In 1973 maakte de "
+"University of California in Berkeley zich zorgen om de toelating van "
+"studenten tot hun mastersvakken. Specifiek werd hun probleem veroorzaakt "
+"door de geslachtsverdeling van hun toelatingen, dat er ongeveer zo uit zag:"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15
 msgid "Number of applicants"
-msgstr ""
+msgstr "Aantal aanvragers"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:15 ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Percent admitted"
-msgstr ""
+msgstr "Percentage toegelaten"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "**Males**"
-msgstr ""
+msgstr "**Mannen**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "8442"
-msgstr ""
+msgstr "8442"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:17
 msgid "44\\%"
-msgstr ""
+msgstr "44\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "**Females**"
-msgstr ""
+msgstr "**Vrouwen**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19
 msgid "4321"
-msgstr ""
+msgstr "4321"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:19 ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "35\\%"
-msgstr ""
+msgstr "35\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:22
 msgid ""
@@ -473,6 +501,13 @@ msgid ""
 "a weak bias in favour of women (sort of!), you’d probably think that I was "
 "either crazy or sexist."
 msgstr ""
+"Met dit gegeven waren ze bezorgd dat ze zouden worden aangeklaagd!\\ [#]_ "
+"Met het gegeven dat er bijna 13,000 aanvragers waren was een verschil in "
+"toelatingspercentage van 9\\% tussen mannen en vrouwen gewoon te groot om "
+"toeval te zijn. Best wel overtuigendig gegevens, toch? En als ik zou zeggen "
+"dat deze gegevens *eigenlijk* een zwak vooroordeel in het voordeel van "
+"vrouwen weergeeft (soort van!) zou u waarschijnlijk denken dat ik gek of "
+"seksistisch ben."
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:29
 msgid ""
@@ -484,138 +519,145 @@ msgid ""
 "applicants. The table below shows the admission figures for the six largest "
 "departments (with the names of the departments removed for privacy reasons):"
 msgstr ""
+"Gek genoeg is het een soort van waarheid. Toen mensen voorzichtiger naar de "
+"gegevens keken vertelde het een heel ander verhaal (:ref:`Bickel et al., "
+"1975 <Bickel_1975>`). Specifiek werd per afdeling naar de gegevens gekeken "
+"en daaruit bleek dat de meeste afdelingen eigenlijk een licht *hoger* "
+"succespercentage voor vrouwen hadden dan mannen. De tafel hieronder toont de "
+"toelatingsaantallen voor de zes grootste afdelingen (de namen van de "
+"afdelingen zijn verwijderd voor redenen van privacy):"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Males"
-msgstr ""
+msgstr "Mannen"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:41
 msgid "Females"
-msgstr ""
+msgstr "Vrouwen"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Department"
-msgstr ""
+msgstr "Afdeling"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:43
 msgid "Applicants"
-msgstr ""
+msgstr "Aanvragers"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "**A**"
-msgstr ""
+msgstr "**A**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "825"
-msgstr ""
+msgstr "825"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "62\\%"
-msgstr ""
+msgstr "62\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "108"
-msgstr ""
+msgstr "108"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:45
 msgid "82\\%"
-msgstr ""
+msgstr "82\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "**B**"
-msgstr ""
+msgstr "**B**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "560"
-msgstr ""
+msgstr "560"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "63\\%"
-msgstr ""
+msgstr "63\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:47
 msgid "68\\%"
-msgstr ""
+msgstr "68\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "**C**"
-msgstr ""
+msgstr "**C**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "325"
-msgstr ""
+msgstr "325"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "37\\%"
-msgstr ""
+msgstr "37\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "593"
-msgstr ""
+msgstr "593"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:49
 msgid "34\\%"
-msgstr ""
+msgstr "34\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "**D**"
-msgstr ""
+msgstr "**D**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "417"
-msgstr ""
+msgstr "417"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "33\\%"
-msgstr ""
+msgstr "33\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:51
 msgid "375"
-msgstr ""
+msgstr "375"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "**E**"
-msgstr ""
+msgstr "**E**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "191"
-msgstr ""
+msgstr "191"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "28\\%"
-msgstr ""
+msgstr "28\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "393"
-msgstr ""
+msgstr "393"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:53
 msgid "24\\%"
-msgstr ""
+msgstr "24\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "**F**"
-msgstr ""
+msgstr "**F**"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "272"
-msgstr ""
+msgstr "272"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "6\\%"
-msgstr ""
+msgstr "6\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "341"
-msgstr ""
+msgstr "341"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:55
 msgid "7\\%"
-msgstr ""
+msgstr "7\\%"
 
 #: ../../Ch01/Ch01_WhyStats_3.rst:58
 msgid ""
