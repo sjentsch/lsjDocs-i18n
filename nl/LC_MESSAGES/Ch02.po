@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Learning statistics with jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 11:37+0200\n"
-"PO-Revision-Date: 2026-10-19 12:51+0000\n"
+"PO-Revision-Date: 2026-10-19 13:51+0000\n"
 "Last-Translator: Watchman89 <watchman89@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/lsjdocs/ch02/nl/>\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:4
 msgid "Introduction to psychological measurement"
-msgstr "Introductie tot psychologische metingen"
+msgstr "Introductie tot psychologische meting"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:6
 msgid ""
@@ -91,6 +91,10 @@ msgid ""
 "something about human behaviour or the human mind. What do I mean by "
 "“measurement”?"
 msgstr ""
+"Het eerste om te begrijpen is dat over gegevensinzameling gedacht kan worden "
+"als een soort **meting**. Dat betekent dat wat we hier proberen te doen, het "
+"meten van een bepaald iets van menselijk gedrag of de menselijke psyche is. "
+"Wat bedoel ik met “meting”?"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:11
 msgid ""
@@ -99,22 +103,26 @@ msgid ""
 "defined descriptions, to “stuff”. So, any of the following would count as a "
 "psychological measurement:"
 msgstr ""
+"Meting zelf is een subtiel concept wat eenvoudigweg neerkomt op het vinden "
+"van een manier om getallen, of labels, of een andere soort goed "
+"gedefiniëerde beschrijving, toe te wijzen aan “dingen”. Elk van de "
+"hieropvolgende dingen zou kunnen gelden als een psychologische meting:"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:16
 msgid "My **age** is *33 years*."
-msgstr ""
+msgstr "Mijn **leeftijd** is *33 jaar*."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:18
 msgid "I *do not* **like anchovies**."
-msgstr ""
+msgstr "Van **ansjovis houd** ik *niet*."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:20
 msgid "My **chromosomal gender** is *male*."
-msgstr ""
+msgstr "Mijn **chromosomale geslacht** is *mannelijk*."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:22
 msgid "My **self-identified gender** is *female*."
-msgstr ""
+msgstr "Mijn **zelf-geïdentificeerde geslacht** is *vrouwlijk*."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:24
 msgid ""
@@ -123,6 +131,10 @@ msgid ""
 "expand on this a little bit, by thinking about the set of possible "
 "measurements that could have arisen in each case:"
 msgstr ""
+"In de korte lijst hierboven is het **dikgedrukte deel** het “ding om gemeten "
+"te worden” en het *cursieve deel* is “de meting zelf”. Feitelijk kunnen we "
+"hier nog iets op doorbouwen door na te denken over de set mogelijke metingen "
+"die in elke situatie hadden kunnen ontstaan:"
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:29
 msgid ""
@@ -131,12 +143,19 @@ msgid ""
 "safe in saying that the largest possible age is *150*, since no human has "
 "ever lived that long."
 msgstr ""
+"Mijn **leeftijd** (in jaren) had *0, 1, 2, 3 …*, etc. kunnen zijn. De "
+"bovengrens van wat mijn leeftijd mogelijk kan zijn is een beetje vaag maar "
+"in de praktijk zou het veilig zijn om te zeggen dat de hoogst mogelijke "
+"leeftijd *150* is, omdat geen mens ooit zo lang heeft geleefd."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:34
 msgid ""
 "When asked if I **like anchovies**, I might have said that *I do*, or *I do "
 "not*, or *I have no opinion*, or *I sometimes do*."
 msgstr ""
+"Als gevraagd is of ik **van ansjovis houd**, had ik mogelijk kunnen zeggen "
+"dat ik er *wel van houd* of *niet van houd*, of *ik heb geen mening* of "
+"*soms wel*."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:37
 msgid ""
@@ -145,6 +164,11 @@ msgid ""
 "*Klinfelter’s syndrome (XXY)*, which is more similar to male than to female. "
 "And I imagine there are other possibilities too."
 msgstr ""
+"Mijn **chromosomale geslacht** zal bijna zeker *mannelijk (XY)* of "
+"*vrouwlijk (XX)* kunnen zijn, maar er zijn ook een paar andere "
+"mogelijkheden. Ik had ook *Klinfelter's syndroom (XXY)* kunnen hebben, wat "
+"vergelijkbaarder is met mannelijk dan vrouwlijk. En ik kan mij voorstellen "
+"dat er ook andere mogelijkheden zijn."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:42
 msgid ""
@@ -152,6 +176,10 @@ msgid ""
 "but it doesn’t have to agree with my chromosomal gender. I may also choose "
 "to identify with *neither*, or to explicitly call myself *transgender*."
 msgstr ""
+"Mijn **zelf-geïdentificeerde geslacht** is ook heel waarschijnlijk "
+"*mannelijk* of *vrouwlijk* maar het hoeft niet overeen te komen met mijn "
+"chromosomale geslacht. Ik kan er ook voor kiezen om mij te identificeren met "
+"*geen van beide* of om mij expliciet *transgender* te noemen."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:47
 msgid ""
@@ -167,6 +195,18 @@ msgid ""
 "other words, the way in which you specify the allowable measurement values "
 "is important."
 msgstr ""
+"Zoals u kunt zien lijkt het voor sommige dingen (zoals leeftijd) redelijk "
+"duidelijk wat de set mogelijke metingen zou moeten zijn terwijl het met "
+"andere dingen een stukje moeilijker wordt. Ik wil er nog wel op wijzen dat "
+"zelfs het geval van iemand's leeftijd het nog subtieler wordt dan dit. "
+"Bijvoorbeeld, in het voorbeeld hierboven, heb ik aangenomen dat het goed was "
+"om leeftijd te meten in jaren. Maar als u een ontwikkelingspsycholoog bent "
+"is dat veel te grof en zou u waarschijnlijk leeftijd moeten meten in *jaren "
+"en maanden* (als het kind 2 jaar en 11 maanden oud is wordt dit meestal "
+"geschreven als “2:11”). Als u geïnteresseerd bent in pasgeborenen zou u "
+"leeftijd mogelijk willen meten in *dagen sinds geboorte*, misschien zelfs "
+"*uren sinds geboorte*. In andere woorden is de manier waarop u de "
+"toelaatbare meetwaarden bepaalt sterk van belang."
 
 #: ../../Ch02/Ch02_StudyDesign_1.rst:59
 msgid ""
